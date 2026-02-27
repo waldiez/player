@@ -1,0 +1,161 @@
+/* stylelint-disable-next-line import-notation */
+@import "tailwindcss";
+
+@theme {
+  --color-player-bg: #0a0a0f;
+  --color-player-surface: #12121a;
+  --color-player-border: #1e1e2e;
+  --color-player-accent: #6366f1;
+  --color-player-accent-hover: #818cf8;
+  --color-player-text: #e2e8f0;
+  --color-player-text-muted: #94a3b8;
+  --color-player-success: #22c55e;
+  --color-player-warning: #f59e0b;
+  --color-player-error: #ef4444;
+  --font-family-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-family-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  background-color: var(--color-player-bg);
+  color: var(--color-player-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition:
+    background-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+    color 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Smooth theme transitions for all player surfaces */
+[class*="bg-player-"],
+[class*="border-player-"],
+[class*="text-player-"] {
+  transition:
+    background-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+    color 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-player-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-player-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-player-accent);
+}
+
+/* Video element styling */
+video {
+  background-color: #000;
+}
+
+/* Timeline styles */
+.timeline-track {
+  background: linear-gradient(
+    to right,
+    var(--color-player-surface) 0%,
+    var(--color-player-border) 50%,
+    var(--color-player-surface) 100%
+  );
+}
+
+/* Waveform canvas */
+.waveform-canvas {
+  image-rendering: pixelated;
+}
+
+/* stylelint-disable */
+/* Effect panel animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* stylelint-enaable */
+
+.animate-fade-in {
+  animation: fadeIn 0.2s ease-out;
+}
+
+@keyframes slideRight {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-right {
+  animation: slideRight 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes eq-bar {
+  0%,
+  100% {
+    transform: scaleY(0.4);
+  }
+
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+/* Drag handle */
+.drag-handle {
+  cursor: grab;
+}
+
+.drag-handle:active {
+  cursor: grabbing;
+}
+
+/* Vertical EQ faders (WideriaLayout) */
+.eq-fader-vertical {
+  writing-mode: vertical-lr;
+  direction: rtl;
+  -webkit-appearance: slider-vertical;
+  appearance: auto;
+  width: 24px;
+  height: 72px;
+  cursor: pointer;
+  accent-color: var(--color-player-accent);
+}
+
+/* Horizontal volume slider */
+.vol-slider {
+  cursor: pointer;
+  height: 3px;
+  accent-color: var(--color-player-accent);
+}

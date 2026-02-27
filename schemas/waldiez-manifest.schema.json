@@ -1,0 +1,102 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://waldiez.github.io/player/schemas/waldiez-manifest.schema.json",
+    "title": "Waldiez MANIFEST Schema (xperiens-compatible profile)",
+    "type": "object",
+    "required": ["$schema", "identity", "description", "interface"],
+    "properties": {
+        "$schema": {
+            "type": "string",
+            "minLength": 1
+        },
+        "identity": {
+            "type": "object",
+            "required": ["wid", "type", "created"],
+            "properties": {
+                "wid": {
+                    "type": "string",
+                    "pattern": "^wdz://"
+                },
+                "type": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "created": {
+                    "type": "string"
+                }
+            },
+            "additionalProperties": true
+        },
+        "description": {
+            "type": "object",
+            "required": ["name", "purpose"],
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "purpose": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "additionalProperties": true
+        },
+        "interface": {
+            "type": "object",
+            "properties": {
+                "capabilities": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "pattern": "^[a-z][a-z0-9-]*(\\.[a-z0-9-]+)+\\.v[0-9]+$"
+                    },
+                    "uniqueItems": true
+                },
+                "capability_ids": {
+                    "type": "object",
+                    "propertyNames": {
+                        "pattern": "^[a-z][a-z0-9-]*(\\.[a-z0-9-]+)+\\.v[0-9]+$"
+                    },
+                    "additionalProperties": {
+                        "type": "string",
+                        "pattern": "^wdz://"
+                    }
+                },
+                "operations": {
+                    "type": "array",
+                    "items": {
+                        "type": "object"
+                    }
+                },
+                "state_schema": {
+                    "type": "object"
+                }
+            },
+            "additionalProperties": true
+        },
+        "state": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "execution": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "discovery": {
+            "type": "object",
+            "additionalProperties": true
+        },
+        "lifecycle": {
+            "type": "object",
+            "additionalProperties": true
+        }
+    },
+    "additionalProperties": true
+}

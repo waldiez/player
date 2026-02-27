@@ -1,0 +1,186 @@
+{
+    "$schema": "./project.schema.json",
+    "id": "synapse-demo-001",
+    "name": "Waldiez Synapse Demo",
+    "version": "1.0.0",
+    "settings": {
+        "resolution": { "width": 1920, "height": 1080 },
+        "frameRate": 30,
+        "backgroundColor": "#0a0a0f",
+        "duration": "auto"
+    },
+    "assets": {
+        "images": [
+            {
+                "id": "img-001",
+                "name": "Dashboard",
+                "path": "assets/dashboard.png",
+                "type": "image",
+                "width": 1920,
+                "height": 1080,
+                "format": "png",
+                "size": 245000
+            }
+        ],
+        "audio": [
+            {
+                "id": "audio-001",
+                "name": "Background",
+                "path": "assets/music.mp3",
+                "type": "audio",
+                "duration": 240,
+                "sampleRate": 48000,
+                "channels": 2,
+                "format": "mp3",
+                "size": 3800000
+            }
+        ],
+        "video": [],
+        "captions": [
+            {
+                "id": "cap-001",
+                "name": "Subtitles",
+                "path": "assets/subtitles.srt",
+                "format": "srt",
+                "language": "en"
+            }
+        ],
+        "fonts": []
+    },
+    "composition": {
+        "tracks": [
+            {
+                "id": "track-video-1",
+                "name": "Main Video",
+                "type": "image",
+                "isVisible": true,
+                "isMuted": false,
+                "isLocked": false,
+                "opacity": 1,
+                "blendMode": "normal",
+                "items": [
+                    {
+                        "id": "item-001",
+                        "assetId": "img-001",
+                        "startTime": 0,
+                        "duration": 5,
+                        "inPoint": 0,
+                        "outPoint": 5,
+                        "transform": {
+                            "position": { "x": 0, "y": 0 },
+                            "scale": { "x": 1, "y": 1 },
+                            "rotation": 0,
+                            "anchor": { "x": 0.5, "y": 0.5 },
+                            "opacity": 1
+                        },
+                        "effects": [
+                            {
+                                "id": "fx-001",
+                                "type": "ken-burns",
+                                "enabled": true,
+                                "parameters": {
+                                    "startScale": 1,
+                                    "endScale": 1.1,
+                                    "startX": 0,
+                                    "startY": 0,
+                                    "endX": 50,
+                                    "endY": 30
+                                },
+                                "keyframes": []
+                            }
+                        ],
+                        "transitions": [
+                            {
+                                "id": "tr-001",
+                                "type": "fade",
+                                "duration": 0.5,
+                                "position": "in",
+                                "easing": "ease-out",
+                                "parameters": {}
+                            },
+                            {
+                                "id": "tr-002",
+                                "type": "fade",
+                                "duration": 0.5,
+                                "position": "out",
+                                "easing": "ease-in",
+                                "parameters": {}
+                            }
+                        ],
+                        "keyframes": []
+                    }
+                ]
+            },
+            {
+                "id": "track-audio-1",
+                "name": "Background Music",
+                "type": "audio",
+                "isVisible": true,
+                "isMuted": false,
+                "isLocked": false,
+                "opacity": 1,
+                "blendMode": "normal",
+                "items": [
+                    {
+                        "id": "item-002",
+                        "assetId": "audio-001",
+                        "startTime": 0,
+                        "duration": 240,
+                        "inPoint": 0,
+                        "outPoint": 240,
+                        "transform": {
+                            "position": { "x": 0, "y": 0 },
+                            "scale": { "x": 1, "y": 1 },
+                            "rotation": 0,
+                            "anchor": { "x": 0, "y": 0 },
+                            "opacity": 0.7
+                        },
+                        "effects": [],
+                        "transitions": [
+                            {
+                                "id": "tr-003",
+                                "type": "fade",
+                                "duration": 2,
+                                "position": "in",
+                                "easing": "ease-out",
+                                "parameters": {}
+                            },
+                            {
+                                "id": "tr-004",
+                                "type": "fade",
+                                "duration": 3,
+                                "position": "out",
+                                "easing": "ease-in",
+                                "parameters": {}
+                            }
+                        ],
+                        "keyframes": []
+                    }
+                ]
+            },
+            {
+                "id": "track-caption-1",
+                "name": "Captions",
+                "type": "caption",
+                "isVisible": true,
+                "isMuted": false,
+                "isLocked": false,
+                "opacity": 1,
+                "blendMode": "normal",
+                "items": []
+            }
+        ],
+        "markers": [
+            { "id": "marker-001", "time": 0, "label": "Intro", "color": "#6366f1", "type": "chapter" },
+            {
+                "id": "marker-002",
+                "time": 30,
+                "label": "Dashboard Overview",
+                "color": "#22c55e",
+                "type": "chapter"
+            },
+            { "id": "marker-003", "time": 90, "label": "Automations", "color": "#f59e0b", "type": "chapter" },
+            { "id": "marker-004", "time": 150, "label": "Network", "color": "#ef4444", "type": "chapter" }
+        ]
+    }
+}

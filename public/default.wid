@@ -1,0 +1,163 @@
+$schema: "https://xperiens.waldiez.io/schema/v1/manifest"
+
+identity:
+  wid: "wdz://waldiez/player/preferences/20260227T120000.0000Z-d3f4u1t"
+  type: "state"
+  created: "2026-02-27T12:00:00.000Z"
+
+description:
+  name: "Waldiez Player — Default Preferences"
+  purpose: "Clean-slate preferences snapshot. Import this to restore sensible defaults."
+  tags:
+    - "waldiez"
+    - "player"
+    - "preferences"
+    - "default"
+
+interface:
+  capabilities:
+    - "waldiez.player.export.wid.v1"
+    - "waldiez.player.export.waldiez.v1"
+    - "waldiez.player.state.preferences.v1"
+  capability_ids:
+    "waldiez.player.export.wid.v1": "wdz://waldiez/player/capability/20260227T120001.0000Z-c4p4b1l"
+    "waldiez.player.export.waldiez.v1": "wdz://waldiez/player/capability/20260227T120002.0000Z-c4p4b2l"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260227T120003.0000Z-c4p4b3l"
+  operations:
+    - name: "import-preferences"
+      description: "Apply exported preferences state to local player settings."
+      params: {}
+      returns:
+        type: "boolean"
+  state_schema:
+    mode: { type: "string", mutable: true }
+    volume: { type: "number", mutable: true }
+    muted: { type: "boolean", mutable: true }
+    modes: { type: "object", mutable: true }
+    modeDefaults: { type: "object", mutable: true }
+    moodCustomizations: { type: "object", mutable: true }
+
+state:
+  v: 2
+  mode: "journey"
+  volume: 0.8
+  muted: false
+  loop: false
+  shuffle: false
+  eq:
+    bass: 0
+    mid: 0
+    treble: 0
+  fx:
+    reverb: false
+    echo: false
+    fuzz: false
+    vinyl: false
+  modes: {}
+  modeDefaults:
+    journey:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7hHZnvjCbVw"
+        name: "Habits — Vintage 1930s Jazz (Haley Reinhart)"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I03xFqbxUp8"
+        name: "YouTube · I03xFqbxUp8"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "m3lF2qEA2cw"
+        name: "YouTube · m3lF2qEA2cw"
+        artist: "YouTube"
+        chapter: null
+    dock:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TdrL3QxjyVw"
+        name: "YouTube · TdrL3QxjyVw"
+        artist: "YouTube"
+        chapter: null
+    storm:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2tOutF8B3f8"
+        name: "YouTube · 2tOutF8B3f8"
+        artist: "YouTube"
+        chapter: null
+    fest:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4xiWvdwsCBQ"
+        name: "YouTube · 4xiWvdwsCBQ"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dZNekHrcMPc"
+        name: "YouTube · dZNekHrcMPc"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0vfTiV0BCSw"
+        name: "YouTube · 0vfTiV0BCSw"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2tOutF8B3f8"
+        name: "YouTube · 2tOutF8B3f8"
+        artist: "YouTube"
+        chapter: null
+    rock:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hTWKbfoikeg"
+        name: "YouTube · hTWKbfoikeg"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "btPJPFnesV4"
+        name: "YouTube · btPJPFnesV4"
+        artist: "YouTube"
+        chapter: null
+    pop:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nfWlot6h_JM"
+        name: "YouTube · nfWlot6h_JM"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RgKAFK5djSk"
+        name: "YouTube · RgKAFK5djSk"
+        artist: "YouTube"
+        chapter: null
+    disco:
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k7_0WorMSNE"
+        name: "YouTube · k7_0WorMSNE"
+        artist: "YouTube"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TLV4_xaYynY"
+        name: "YouTube · TLV4_xaYynY"
+        artist: "YouTube"
+        chapter: null
+  moodCustomizations: {}
+  syncDefaultsFromLatest: false
+
+execution:
+  runtime: "wdz://runtimes/browser"
+  protocol: "wdz://protocols/local-storage-v1"
+
+lifecycle:
+  exported_at: "2026-02-27T12:00:00.000Z"

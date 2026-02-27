@@ -1,0 +1,228 @@
+$schema: "https://xperiens.waldiez.io/schema/v1/manifest"
+
+identity:
+  wid: "wdz://waldiez/player"
+  type: "application"
+  created: "2026-02-27T00:00:00Z"
+
+description:
+  name: "Waldiez Player"
+  purpose: "Video player/editor with web and desktop runtimes."
+  tags:
+    - "waldiez"
+    - "player"
+    - "tauri"
+    - "vite"
+
+interface:
+  capabilities:
+    - "waldiez.player.export.wid.v1"
+    - "waldiez.player.export.waldiez.v1"
+    - "waldiez.player.source.webrtc.v1"
+    - "waldiez.player.source.device-camera.v1"
+    - "waldiez.player.source.device-microphone.v1"
+    - "waldiez.player.view.mobile-influencer.v1"
+    - "waldiez.player.record.session.waldiez.v1"
+    - "waldiez.player.stream.live-dj.v1"
+    - "waldiez.player.stream.targets.v1"
+  capability_ids:
+    "waldiez.player.export.wid.v1": "wdz://waldiez/player/capability/20260227-export-wid-v1"
+    "waldiez.player.export.waldiez.v1": "wdz://waldiez/player/capability/20260227-export-waldiez-v1"
+    "waldiez.player.source.webrtc.v1": "wdz://waldiez/player/capability/20260227-source-webrtc-v1"
+    "waldiez.player.source.device-camera.v1": "wdz://waldiez/player/capability/20260227-source-device-camera-v1"
+    "waldiez.player.source.device-microphone.v1": "wdz://waldiez/player/capability/20260227-source-device-microphone-v1"
+    "waldiez.player.view.mobile-influencer.v1": "wdz://waldiez/player/capability/20260227-view-mobile-influencer-v1"
+    "waldiez.player.record.session.waldiez.v1": "wdz://waldiez/player/capability/20260227-record-session-waldiez-v1"
+    "waldiez.player.stream.live-dj.v1": "wdz://waldiez/player/capability/20260227-stream-live-dj-v1"
+    "waldiez.player.stream.targets.v1": "wdz://waldiez/player/capability/20260227-stream-targets-v1"
+  operations:
+    - name: "open"
+      description: "Open media from local path or remote URL."
+      params:
+        src:
+          type: "string"
+          required: true
+      returns:
+        type: "object"
+        properties:
+          ok:
+            type: "boolean"
+          media_id:
+            type: "string"
+    - name: "playback-control"
+      description: "Control playback state (play/pause/seek/volume)."
+      params:
+        action:
+          type: "string"
+          enum: ["play", "pause", "seek", "volume", "mute", "unmute"]
+        value:
+          type: "number"
+      returns:
+        type: "object"
+        properties:
+          ok:
+            type: "boolean"
+    - name: "load-project"
+      description: "Load project/composition manifest for timeline playback."
+      params:
+        path:
+          type: "string"
+          required: true
+      returns:
+        type: "object"
+        properties:
+          ok:
+            type: "boolean"
+    - name: "stream-start"
+      description: "Start live stream to configured output target."
+      params:
+        target_id:
+          type: "string"
+          required: true
+      returns:
+        type: "object"
+        properties:
+          ok:
+            type: "boolean"
+          session_id:
+            type: "string"
+    - name: "stream-stop"
+      description: "Stop active live stream session."
+      params:
+        session_id:
+          type: "string"
+      returns:
+        type: "object"
+        properties:
+          ok:
+            type: "boolean"
+
+  state_schema:
+    current_media:
+      type: "string"
+      mutable: true
+    is_playing:
+      type: "boolean"
+      mutable: true
+    current_time:
+      type: "number"
+      unit: "seconds"
+      mutable: true
+    duration:
+      type: "number"
+      unit: "seconds"
+      mutable: true
+    volume:
+      type: "number"
+      min: 0
+      max: 1
+      mutable: true
+    mode:
+      type: "string"
+      mutable: true
+    last_opened_project:
+      type: "string"
+      mutable: true
+    stream_active:
+      type: "boolean"
+      mutable: true
+    stream_target_id:
+      type: "string"
+      mutable: true
+    stream_protocol:
+      type: "string"
+      mutable: true
+    sync_defaults_from_latest:
+      type: "boolean"
+      mutable: true
+
+state:
+  current_media: ""
+  is_playing: false
+  current_time: 0
+  duration: 0
+  volume: 1
+  mode: "standard"
+  last_opened_project: ""
+  stream_active: false
+  stream_target_id: ""
+  stream_protocol: "wss"
+  sync_defaults_from_latest: false
+  last_updated: "2026-02-27T00:00:00Z"
+
+execution:
+  runtime: "wdz://runtimes/bun+react+tauri"
+  protocol: "wdz://protocols/waldiez-uri-v1"
+  package:
+    id: "@waldiez/player"
+    version: "0.1.0"
+    repo: "https://github.com/waldiez/player"
+    homepage: "https://github.com/waldiez/player"
+  web:
+    build: "vite"
+    base_path: "/player/"
+    pages_url: "https://waldiez.github.io/player/"
+  desktop:
+    platform: "tauri"
+    source_dir: "src-tauri"
+  stream:
+    preferred_protocol: "wss"
+    targets:
+      - id: "default-wss"
+        protocol: "wss"
+        url: "wss://stream.waldiez.io/player/live"
+        role: "primary"
+      - id: "mqtt-fallback"
+        protocol: "mqtts"
+        url: "mqtts://mqtt.waldiez.io:8883/waldiez/player/live"
+        role: "fallback"
+      - id: "webrtc-relay"
+        protocol: "webrtc"
+        signaling_url: "wss://stream.waldiez.io/signal"
+        role: "low-latency"
+      - id: "rtsp-relay"
+        protocol: "rtsp"
+        url: "rtsp://relay.waldiez.io/player/live"
+        role: "bridge"
+
+discovery:
+  advertise: "wdz://registry/waldiez/player"
+  links:
+    repo: "https://github.com/waldiez/player"
+    pages: "https://waldiez.github.io/player/"
+  routing:
+    scheme: "waldiez"
+    host: "player"
+    patterns:
+      - "waldiez://player/<path>"
+      - "waldiez://player/#<path-or-url>"
+      - "waldiez://player/open?src=<url-encoded-source>"
+    examples:
+      - "waldiez://player/open?src=https%3A%2F%2Fexample.com%2Fmovie.mp4"
+      - "waldiez://player/#playlist/demo"
+
+lifecycle:
+  health_check:
+    type: "script"
+    command: "make check"
+  packaging:
+    extension: ".waldiez"
+    manifest_path: "MANIFEST"
+    note: "Use MANIFEST as canonical spec file; use .wid for lightweight descriptors; .waldiez for bundled artifacts."
+    snapshot:
+      command: "make snapshot"
+      output_pattern: "snapshots/player-web-<UTC_TIMESTAMP>.zip"
+      includes:
+        - "dist/"
+        - "MANIFEST"
+        - "SNAPSHOT.txt"
+      delivery_hint: "scp snapshots/*.zip <host>:<path> && unzip && serve dist/"
+    ship:
+      command: "make ship"
+      env:
+        - "SHIP_HOST"
+        - "SHIP_PATH"
+        - "SHIP_URL_BASE"
+      output:
+        - "snapshots/player-web-<UTC_TIMESTAMP>.zip"
+        - "snapshots/share-player-web-<UTC_TIMESTAMP>.txt"

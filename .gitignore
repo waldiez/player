@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+coverage/
+snapshots/
+snapshots/share-*.txt
+*.tsbuildinfo
+
+# Tauri / Rust
+src-tauri/target/
+
+# Tool caches
+.eslintcache
+.stylelintcache
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local workspace state
+.local/
+*.local
+
+# OS files
+.DS_Store
+Thumbs.db

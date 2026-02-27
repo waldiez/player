@@ -1,0 +1,1 @@
+export { EffectsPanel } from "./EffectsPanel";
