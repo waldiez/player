@@ -12,6 +12,8 @@ import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useMediaStream } from "@/hooks/useMediaStream";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useStreamAnalyser } from "@/hooks/useStreamAnalyser";
+import { readBeaconSettings, resolveActiveBeaconTarget } from "@/lib/beaconSettings";
+import { type BeaconTransport, openBeaconTransport } from "@/lib/beaconTransport";
 import {
     avConstraints,
     isAudioOutputSelectionSupported,
@@ -30,8 +32,6 @@ import {
     readPrefs,
     saveModeEqFxToPrefs,
 } from "@/lib/moodDefaults";
-import { readBeaconSettings, resolveActiveBeaconTarget } from "@/lib/beaconSettings";
-import { type BeaconTransport, openBeaconTransport } from "@/lib/beaconTransport";
 import { STREAM_TARGETS, isBrowserPlayableStreamProtocol } from "@/lib/streamTargets";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
@@ -397,7 +397,13 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
 
         const sessionWid = nextWid();
         sessionIdRef.current = sessionWid;
-        console.log("[beacon] connecting →", targetInfo.url, targetInfo.protocol === "mqtts" ? `topic: ${targetInfo.channel ?? "waldiez/player"}/${sessionWid}` : "");
+        console.log(
+            "[beacon] connecting →",
+            targetInfo.url,
+            targetInfo.protocol === "mqtts"
+                ? `topic: ${targetInfo.channel ?? "waldiez/player"}/${sessionWid}`
+                : "",
+        );
         setLiveStatus("connecting");
 
         try {
@@ -630,6 +636,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                         pendingStreams.delete(mediaId);
                     }
                 }
+                // eslint-disable-next-line react-hooks/exhaustive-deps
                 if (screenVideoRef.current) screenVideoRef.current.srcObject = null;
                 disconnectMicStream();
             };

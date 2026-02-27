@@ -33,10 +33,7 @@ export interface BeaconTransport {
 
 // ── Plain WebSocket transport ─────────────────────────────────────────────
 
-function wsTransport(
-    url: string,
-    cbs: BeaconTransportCallbacks,
-): BeaconTransport {
+function wsTransport(url: string, cbs: BeaconTransportCallbacks): BeaconTransport {
     let didOpen = false;
     let intentional = false;
     const ws = new WebSocket(url);
@@ -48,9 +45,7 @@ function wsTransport(
     ws.onerror = ev => {
         console.error("[beacon:ws] onerror", ev, "url:", url);
         if (!didOpen) {
-            cbs.onConnectError(
-                `Could not connect to ${url} — server unreachable or cert invalid.`,
-            );
+            cbs.onConnectError(`Could not connect to ${url} — server unreachable or cert invalid.`);
         }
     };
     ws.onclose = ev => {
@@ -98,9 +93,7 @@ function mqttWsTransport(
     client.on("error", err => {
         console.error("[beacon:mqtt] error", err, "url:", url);
         if (!didOpen) {
-            cbs.onConnectError(
-                `MQTT connect failed (${url}): ${err.message}`,
-            );
+            cbs.onConnectError(`MQTT connect failed (${url}): ${err.message}`);
         }
     });
     client.on("close", () => {

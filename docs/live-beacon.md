@@ -123,19 +123,19 @@ Every message is a JSON object. Possible `type` values: `"start"`, `"state"`, `"
 
 ```jsonc
 {
-  "type": "state",            // "start" on connect, "state" on heartbeat/change, "stop" on disconnect
-  "session_id": "20260227T143052.0000Z-a3f91c",  // WID — unique per beacon session
-  "source": "youtube",        // "youtube" | "spotify" | "file" | "camera" | "microphone" | "screen" | "stream" | "none"
-  "name": "Habits — Vintage 1930s Jazz",          // track name (YT title auto-updates for playlists)
-  "youtube_id": "7hHZnvjCbVw",   // present for YouTube sources
-  "playlist_id": "PLxyz...",     // present when playing a YT playlist
-  "playing": true,            // true = playing, false = paused
-  "t": 24.0,                  // current position in seconds (1 decimal)
-  "duration": 210.3,          // total duration in seconds
-  "volume": 0.80,             // 0.00–1.00
+  "type": "state", // "start" on connect, "state" on heartbeat/change, "stop" on disconnect
+  "session_id": "20260227T143052.0000Z-a3f91c", // WID — unique per beacon session
+  "source": "youtube", // "youtube" | "spotify" | "file" | "camera" | "microphone" | "screen" | "stream" | "none"
+  "name": "Habits — Vintage 1930s Jazz", // track name (YT title auto-updates for playlists)
+  "youtube_id": "7hHZnvjCbVw", // present for YouTube sources
+  "playlist_id": "PLxyz...", // present when playing a YT playlist
+  "playing": true, // true = playing, false = paused
+  "t": 24.0, // current position in seconds (1 decimal)
+  "duration": 210.3, // total duration in seconds
+  "volume": 0.8, // 0.00–1.00
   "muted": false,
-  "rate": 1,                  // playback rate (0.5 | 0.75 | 1 | 1.25 | 1.5 | 2)
-  "ts": "2026-02-27T14:30:52.000Z"  // ISO 8601 wall-clock timestamp
+  "rate": 1, // playback rate (0.5 | 0.75 | 1 | 1.25 | 1.5 | 2)
+  "ts": "2026-02-27T14:30:52.000Z", // ISO 8601 wall-clock timestamp
 }
 ```
 
@@ -145,14 +145,14 @@ Every message is a JSON object. Possible `type` values: `"start"`, `"state"`, `"
 
 ## Troubleshooting
 
-| Symptom | Likely cause | Fix |
-|---|---|---|
-| `MQTT connect failed` | Broker unreachable or network firewall | Try Eclipse broker; check port 443 is open |
-| `Could not connect to ws://…` | Local relay not running | Run `bun scripts/ws_beacon_test.ts` |
-| `Mixed content blocked` | App served over HTTPS, endpoint is `ws://` | Use `wss://` (tunnel, or switch to Eclipse/Waldiez MQTT) |
-| `Beacon dropped (code 1006)` | Network interruption | Click Beacon to reconnect |
-| Error says `cert invalid` | Self-signed TLS cert on custom server | Use a valid cert or a tunnel |
-| Wrong endpoint connects | Media entry has an embedded stream target | Select a non-stream track, or override in Settings |
+| Symptom                       | Likely cause                               | Fix                                                      |
+| ----------------------------- | ------------------------------------------ | -------------------------------------------------------- |
+| `MQTT connect failed`         | Broker unreachable or network firewall     | Try Eclipse broker; check port 443 is open               |
+| `Could not connect to ws://…` | Local relay not running                    | Run `bun scripts/ws_beacon_test.ts`                      |
+| `Mixed content blocked`       | App served over HTTPS, endpoint is `ws://` | Use `wss://` (tunnel, or switch to Eclipse/Waldiez MQTT) |
+| `Beacon dropped (code 1006)`  | Network interruption                       | Click Beacon to reconnect                                |
+| Error says `cert invalid`     | Self-signed TLS cert on custom server      | Use a valid cert or a tunnel                             |
+| Wrong endpoint connects       | Media entry has an embedded stream target  | Select a non-stream track, or override in Settings       |
 
 ---
 

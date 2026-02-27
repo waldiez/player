@@ -47,9 +47,7 @@ function fmt(msg: BeaconMessage): string {
     const t = msg.t !== undefined ? `t=${msg.t.toFixed(1)}s` : "";
     const dur = msg.duration ? `/ ${msg.duration.toFixed(1)}s` : "";
     const vol =
-        msg.volume !== undefined
-            ? `vol=${Math.round(msg.volume * 100)}%${msg.muted ? " (muted)" : ""}`
-            : "";
+        msg.volume !== undefined ? `vol=${Math.round(msg.volume * 100)}%${msg.muted ? " (muted)" : ""}` : "";
     const rate = msg.rate && msg.rate !== 1 ? `×${msg.rate}` : "";
     const src = msg.source ?? "";
     const name = msg.name ? `"${msg.name}"` : "";
@@ -77,9 +75,7 @@ const server = Bun.serve({
     websocket: {
         open(ws) {
             clients.add(ws);
-            console.log(
-                `[beacon] + client connected from ${ws.remoteAddress}  (${clients.size} total)`,
-            );
+            console.log(`[beacon] + client connected from ${ws.remoteAddress}  (${clients.size} total)`);
         },
         message(ws, raw) {
             try {
@@ -90,7 +86,11 @@ const server = Bun.serve({
                 const payload = typeof raw === "string" ? raw : raw.toString();
                 for (const c of clients) {
                     if (c !== ws) {
-                        try { c.send(payload); } catch { /* listener already gone */ }
+                        try {
+                            c.send(payload);
+                        } catch {
+                            /* listener already gone */
+                        }
                     }
                 }
             } catch {
