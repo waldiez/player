@@ -16,6 +16,7 @@ export default defineConfig({
                 registerType: "autoUpdate",
                 includeAssets: ["waldiez-player.svg", "default.wid"],
                 manifest: {
+                    id: "/",
                     name: "Waldiez Player",
                     short_name: "Waldiez",
                     description: "Web + desktop player with mood modes and streaming",
@@ -26,6 +27,28 @@ export default defineConfig({
                     scope: "/",
                     start_url: "/",
                     categories: ["music", "entertainment"],
+                    screenshots: [
+                        {
+                            src: "social-preview-1200x630.png",
+                            sizes: "1200x630",
+                            type: "image/png",
+                            form_factor: "wide",
+                            label: "Waldiez Player — mood modes and streaming",
+                        },
+                        {
+                            src: "social-preview.png",
+                            sizes: "512x512",
+                            type: "image/png",
+                            form_factor: "narrow",
+                            label: "Waldiez Player",
+                        },
+                    ],
+                    protocol_handlers: [
+                        {
+                            protocol: "web+waldiez",
+                            url: "/?uri=%s",
+                        },
+                    ],
                     icons: [
                         { src: "pwa-64x64.png", sizes: "64x64", type: "image/png" },
                         { src: "pwa-192x192.png", sizes: "192x192", type: "image/png" },
