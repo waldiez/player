@@ -61,6 +61,7 @@
         "@types/node": "^25.3.2",
         "@types/react": "^19.2.14",
         "@types/react-dom": "^19.2.3",
+        "@vite-pwa/assets-generator": "^1.0.2",
         "@vitejs/plugin-react": "^5.1.4",
         "@vitest/coverage-v8": "4.0.18",
         "autoprefixer": "^10.4.27",
@@ -81,6 +82,7 @@
         "typescript": "^5.9.3",
         "typescript-eslint": "^8.56.1",
         "vite": "^7.3.1",
+        "vite-plugin-pwa": "^1.2.0",
         "vitest": "^4.0.18"
     },
     "scripts": {
@@ -111,6 +113,7 @@
         "clean": "bun clean:cache && bun clean:tsbuild && bun clean:dist && bun clean:coverage",
         "test": "vitest run --coverage",
         "test:watch": "vitest",
+        "pwa-icons": "pwa-assets-generator --config pwa-assets.config.ts",
         "all": "bun install && bun clean && bun format && bun lint && bun test 2>/dev/null || true && bun run build"
     },
     "lint-staged": {
