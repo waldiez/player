@@ -246,7 +246,7 @@ export function mediaFileToWideriaTrack(file: MediaFile): WideriaTrack | null {
 function getSavedSessionTracks(
     mode: MoodMode,
     prefs: WideriaPrefs,
-): { files: MediaFile[]; currentId?: string } | null {
+): { files: MediaFile[]; currentId?: string; currentTime?: number } | null {
     const modeData =
         prefs.modes?.[mode] ??
         // v1 legacy: top-level ytTracks only if the saved mode matches
@@ -280,9 +280,11 @@ function getUserDefaultTracks(mode: MoodMode, prefs: WideriaPrefs): MediaFile[] 
  *   2. User-saved defaults      (prefs.modeDefaults[mode])
  *   3. Hardcoded defaults       (HARDCODED_DEFAULTS[mode])
  */
-export function loadModeTracklist(
-    mode: MoodMode,
-): { files: MediaFile[]; currentId?: string; currentTime?: number } {
+export function loadModeTracklist(mode: MoodMode): {
+    files: MediaFile[];
+    currentId?: string;
+    currentTime?: number;
+} {
     const prefs = readPrefs();
 
     if (prefs) {
@@ -322,9 +324,7 @@ export function saveModeTracksToPrefs(
     // Preserve existing eq/fx for the mode entry when updating tracks
     const existingModeEntry = modes[mode] ?? {};
     const savedTime =
-        appState?.t !== undefined && appState.t > 0
-            ? Math.round(appState.t)
-            : existingModeEntry.savedTime;
+        appState?.t !== undefined && appState.t > 0 ? Math.round(appState.t) : existingModeEntry.savedTime;
     modes[mode] = {
         ytTracks,
         savedTrackId,

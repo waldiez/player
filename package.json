@@ -84,6 +84,7 @@
         "vitest": "^4.0.18"
     },
     "scripts": {
+        "prepare": "husky",
         "dev": "vite",
         "dev:tauri": "tauri dev",
         "build": "tsc -b && vite build",
@@ -91,6 +92,8 @@
         "preview": "vite preview",
         "manifest:check": "bun scripts/validate-manifest.ts",
         "manifest:compat": "bun scripts/check-manifest-compat.ts",
+        "precommit:guard": "bun run manifest:check && bun run manifest:compat && bunx lint-staged",
+        "prepush:guard": "make check",
         "check-types": "tsc -b --noEmit",
         "format": "bun prettier && bun stylelint && bun eslint",
         "lint": "bun check-types && bun prettier:check && bun stylelint:check && bun eslint:check",

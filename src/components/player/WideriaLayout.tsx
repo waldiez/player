@@ -932,6 +932,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                         onVolumeChange={(vol, muted) => setPlayback({ volume: vol, isMuted: muted })}
                         onVideoChange={title => setYtTrackTitle(title)}
                         onEnded={handleEnded}
+                        initialTime={playback.currentTime}
                         className={cn(
                             "absolute inset-0 h-full w-full transition-opacity duration-300",
                             showVisualizer && "opacity-0 pointer-events-none",

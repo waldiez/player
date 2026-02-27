@@ -94,6 +94,8 @@ interface YouTubeEmbedProps {
     /** Fired when the playing video changes (playlist advancement or initial load).
      *  Provides the new video's title and YT video ID. */
     onVideoChange?: (title: string, videoId: string) => void;
+    /** Resume playback from this position (seconds) when the player first becomes ready. */
+    initialTime?: number;
     className?: string;
 }
 
@@ -115,6 +117,7 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
         onVolumeChange,
         onEnded,
         onVideoChange,
+        initialTime,
         className,
     }: YouTubeEmbedProps,
     ref,
@@ -135,6 +138,7 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
         volume,
         isMuted,
         playbackRate,
+        initialTime,
     });
     useEffect(() => {
         cbRef.current = {
@@ -146,6 +150,7 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
             volume,
             isMuted,
             playbackRate,
+            initialTime,
         };
     });
 
@@ -205,7 +210,7 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
                 events: {
                     onReady: ({ target }) => {
                         // Apply current volume/mute/rate on ready
-                        const { volume: v, isMuted: m, playbackRate: r } = cbRef.current;
+                        const { volume: v, isMuted: m, playbackRate: r, initialTime: t } = cbRef.current;
                         lastPushedVolumeRef.current = { vol: v, muted: m };
                         if (m) {
                             target.mute();
@@ -214,6 +219,7 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
                             target.setVolume(Math.round(v * 100));
                         }
                         target.setPlaybackRate(r);
+                        if (t && t > 0) target.seekTo(t, true);
                         if (isPlayingRef.current) target.playVideo();
                     },
                     onStateChange: ({ data }) => {
