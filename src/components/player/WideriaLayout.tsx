@@ -763,7 +763,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
 
     // ── Render ────────────────────────────────────────────────────────────
     return (
-        <div className="flex h-[100dvh] flex-col overflow-hidden bg-[var(--color-player-bg)] text-[var(--color-player-text)]">
+        <div className="flex h-full flex-col overflow-hidden bg-[var(--color-player-bg)] text-[var(--color-player-text)]">
             {/* Hidden audio element — only for local files / HTTP streams */}
             {useAudio && (
                 <audio
