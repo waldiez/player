@@ -99,6 +99,8 @@ Perfect for:
 
 ## Development
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution workflow, checks, hooks, manifest rules, and deploy path guidance.
+
 ### Prerequisites
 
 - [Bun](https://bun.sh) v1.3+ (package manager)
