@@ -59,6 +59,16 @@ jobs:
       - name: Setup Rust toolchain
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Install FFmpeg dependencies (macOS)
+        run: |
+          brew update
+          brew install pkg-config ffmpeg
+          FFMPEG_PREFIX="$(brew --prefix ffmpeg)"
+          echo "PKG_CONFIG_PATH=${FFMPEG_PREFIX}/lib/pkgconfig:$(brew --prefix)/lib/pkgconfig" >> "$GITHUB_ENV"
+          echo "LIBRARY_PATH=${FFMPEG_PREFIX}/lib" >> "$GITHUB_ENV"
+          echo "CPATH=${FFMPEG_PREFIX}/include" >> "$GITHUB_ENV"
+          echo "PATH=${FFMPEG_PREFIX}/bin:$PATH" >> "$GITHUB_ENV"
+
       - name: Cache Rust dependencies
         uses: Swatinem/rust-cache@v2
         with:
