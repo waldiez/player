@@ -15,10 +15,8 @@ import { usePlayerStore } from "@/stores";
 import { useEffect, useRef } from "react";
 
 export function useTauriMpv(active: boolean, onEnded?: () => void) {
-    const { playback, setPlayback } = usePlayerStore(s => ({
-        playback: s.playback,
-        setPlayback: s.setPlayback,
-    }));
+    const playback = usePlayerStore(s => s.playback);
+    const setPlayback = usePlayerStore(s => s.setPlayback);
 
     // Refs to avoid stale closures in the event listener
     const playbackRef = useRef(playback);
