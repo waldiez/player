@@ -167,8 +167,11 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
         });
     }
 
-    async function tryWid(): Promise<boolean> {
-        const res = await fetch("/default.wid", { cache: "no-store" });
+    // ?w= lets the host (or a link) override the default preset URL.
+    const customUrl = new URLSearchParams(window.location.search).get("w") ?? null;
+
+    async function tryWid(url: string): Promise<boolean> {
+        const res = await fetch(url, { cache: "no-store" });
         if (!res.ok) return false;
         const text = await res.text();
         const parsed = YAML.parse(text) as unknown;
@@ -176,8 +179,8 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
         return state ? applyState(state) : false;
     }
 
-    async function tryWaldiez(): Promise<boolean> {
-        const res = await fetch("/default.waldiez", { cache: "no-store" });
+    async function tryWaldiez(url: string): Promise<boolean> {
+        const res = await fetch(url, { cache: "no-store" });
         if (!res.ok) return false;
         const bytes = new Uint8Array(await res.arrayBuffer());
         const manifestBytes = readZipEntry(bytes, "MANIFEST");
@@ -189,8 +192,14 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     }
 
     try {
-        if (await tryWid()) return true;
-        return await tryWaldiez();
+        // Custom URL from ?w= — try as-is first (wid/YAML), then as waldiez (zip).
+        if (customUrl) {
+            if (await tryWid(customUrl)) return true;
+            if (await tryWaldiez(customUrl)) return true;
+        }
+        // Built-in defaults.
+        if (await tryWid("/default.wid")) return true;
+        return await tryWaldiez("/default.waldiez");
     } catch {
         return false;
     }
