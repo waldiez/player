@@ -730,6 +730,34 @@ export async function importPrefsFromFile(file: File): Promise<boolean> {
     }
 }
 
+/**
+ * Fetch a remote `.wid` (YAML) or `.waldiez` (ZIP) file and apply its
+ * preferences to localStorage. Used by the `web+waldiez://player?w=<url>`
+ * protocol handler. Returns true when prefs were successfully written.
+ */
+export async function importPrefsFromUrl(url: string): Promise<boolean> {
+    try {
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) return false;
+        const bytes = new Uint8Array(await res.arrayBuffer());
+        // Try as .waldiez ZIP archive first (has a MANIFEST zip entry).
+        const manifestBytes = readZipEntry(bytes, "MANIFEST");
+        if (manifestBytes) {
+            const text = new TextDecoder().decode(manifestBytes);
+            const parsed = YAML.parse(text) as unknown;
+            const state = parseMaybeManifest(parsed);
+            if (state) return safeWritePrefs(state);
+        }
+        // Fallback: treat bytes as UTF-8 .wid / YAML text.
+        const text = new TextDecoder().decode(bytes);
+        const parsed = YAML.parse(text) as unknown;
+        const state = parseMaybeManifest(parsed);
+        return state ? safeWritePrefs(state) : false;
+    } catch {
+        return false;
+    }
+}
+
 // ── YouTube title resolution ──────────────────────────────────────────────
 // Resolves "YouTube · ID" placeholder names by querying the oEmbed API.
 
