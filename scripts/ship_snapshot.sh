@@ -30,7 +30,7 @@ URL_BASE="${SHIP_URL_BASE:-https://waldiez.github.io}"
 WEB_URL="${URL_BASE%/}/player/"
 DEEP_LINK_OPEN="waldiez://player/open?src="
 DEEP_LINK_HOME="waldiez://player/#home"
-PREVIEW_IMAGE="${WEB_URL}waldiez-player.svg"
+PREVIEW_IMAGE="${WEB_URL}social-preview-1200x630.png"
 
 if [[ -n "${SHIP_HOST:-}" ]]; then
   if [[ -z "${SHIP_PATH:-}" ]]; then
