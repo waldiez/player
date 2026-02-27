@@ -117,6 +117,7 @@ interface WideriaPrefs {
         {
             ytTracks: WideriaTrack[];
             savedTrackId?: string | null;
+            savedTime?: number;
             eq?: { bass: number; mid: number; treble: number };
             fx?: { reverb: boolean; echo: boolean; fuzz: boolean; vinyl: boolean };
         }
@@ -258,7 +259,11 @@ function getSavedSessionTracks(
     const files = modeData.ytTracks.map(ytTrackToMediaFile).filter((f): f is MediaFile => f !== null);
     if (!files.length) return null;
 
-    return { files, currentId: modeData.savedTrackId ?? undefined };
+    return {
+        files,
+        currentId: modeData.savedTrackId ?? undefined,
+        currentTime: modeData.savedTime ?? undefined,
+    };
 }
 
 /** Returns user-saved defaults for `mode` (via "Save as default"), or null. */
@@ -275,7 +280,9 @@ function getUserDefaultTracks(mode: MoodMode, prefs: WideriaPrefs): MediaFile[] 
  *   2. User-saved defaults      (prefs.modeDefaults[mode])
  *   3. Hardcoded defaults       (HARDCODED_DEFAULTS[mode])
  */
-export function loadModeTracklist(mode: MoodMode): { files: MediaFile[]; currentId?: string } {
+export function loadModeTracklist(
+    mode: MoodMode,
+): { files: MediaFile[]; currentId?: string; currentTime?: number } {
     const prefs = readPrefs();
 
     if (prefs) {
@@ -304,7 +311,7 @@ export function saveModeTracksToPrefs(
     mode: MoodMode,
     files: MediaFile[],
     currentFile: MediaFile | null,
-    appState?: { volume?: number; muted?: boolean },
+    appState?: { volume?: number; muted?: boolean; t?: number },
 ): void {
     const ytTracks = files.map(mediaFileToWideriaTrack).filter((t): t is WideriaTrack => t !== null);
 
@@ -314,9 +321,14 @@ export function saveModeTracksToPrefs(
     const modes = Object.assign({}, existing.modes);
     // Preserve existing eq/fx for the mode entry when updating tracks
     const existingModeEntry = modes[mode] ?? {};
+    const savedTime =
+        appState?.t !== undefined && appState.t > 0
+            ? Math.round(appState.t)
+            : existingModeEntry.savedTime;
     modes[mode] = {
         ytTracks,
         savedTrackId,
+        savedTime,
         eq: existingModeEntry.eq,
         fx: existingModeEntry.fx,
     };

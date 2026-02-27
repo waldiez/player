@@ -40,10 +40,10 @@ export function useMoodPersistence(mode: MoodMode) {
     useEffect(() => {
         const store = usePlayerStore.getState();
 
-        // Pause playback before switching so the previous track doesn't keep playing
-        store.setPlayback({ isPlaying: false, currentTime: 0, duration: 0 });
+        const { files, currentId, currentTime } = loadModeTracklist(mode);
 
-        const { files, currentId } = loadModeTracklist(mode);
+        // Pause playback before switching; restore saved position if available
+        store.setPlayback({ isPlaying: false, currentTime: currentTime ?? 0, duration: 0 });
 
         isLoading.current = true;
         store.setMediaLibrary(files);
@@ -85,6 +85,7 @@ export function useMoodPersistence(mode: MoodMode) {
                 saveModeTracksToPrefs(modeRef.current, mediaLibrary, currentMedia, {
                     volume: playback.volume,
                     muted: playback.isMuted,
+                    t: playback.currentTime,
                 });
             }, DEBOUNCE_MS);
         });
