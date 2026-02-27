@@ -327,7 +327,7 @@ export function App() {
     return (
         <div
             ref={containerRef}
-            className="flex h-screen flex-col bg-player-bg"
+            className="flex h-full flex-col bg-player-bg"
             onDragOver={e => e.preventDefault()}
             onDrop={handleFileDrop}
         >

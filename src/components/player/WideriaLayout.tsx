@@ -851,7 +851,14 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
             </header>
 
             {/* ════════════════════ CANVAS ════════════════════ */}
-            <div className="relative min-h-[100px] flex-1">
+            {/* On mobile with no active media, collapse the canvas so the
+                tracklist gets the space instead of an empty ♫ placeholder. */}
+            <div
+                className={cn(
+                    "relative",
+                    !currentMedia ? "h-28 shrink-0 sm:min-h-[100px] sm:flex-1" : "min-h-[100px] flex-1",
+                )}
+            >
                 {/* Camera live feed — always muted (echo prevention even with combined mic) */}
                 {isCamera && (
                     <video
@@ -1149,7 +1156,9 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
             {/* ════════════════════ BOTTOM GRID ════════════════════ */}
             <div
                 className={cn(
-                    "grid max-h-40 shrink border-t border-[var(--color-player-border)] min-h-[56px] sm:max-h-56",
+                    !currentMedia
+                        ? "grid flex-1 overflow-hidden border-t border-[var(--color-player-border)] min-h-[56px] sm:flex-none sm:shrink sm:max-h-56"
+                        : "grid max-h-40 shrink border-t border-[var(--color-player-border)] min-h-[56px] sm:max-h-56",
                     showStudio ? "grid-cols-[268px_1fr]" : "grid-cols-[1fr]",
                 )}
             >
