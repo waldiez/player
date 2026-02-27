@@ -12,6 +12,7 @@ import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useMediaStream } from "@/hooks/useMediaStream";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useStreamAnalyser } from "@/hooks/useStreamAnalyser";
+import { useTauriMpv } from "@/hooks/useTauriMpv";
 import { readBeaconSettings, resolveActiveBeaconTarget } from "@/lib/beaconSettings";
 import { type BeaconTransport, openBeaconTransport } from "@/lib/beaconTransport";
 import {
@@ -33,6 +34,7 @@ import {
     saveModeEqFxToPrefs,
 } from "@/lib/moodDefaults";
 import { STREAM_TARGETS, isBrowserPlayableStreamProtocol } from "@/lib/streamTargets";
+import { isTauri, ytGetAudioUrl } from "@/lib/tauriPlayer";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
@@ -319,9 +321,45 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
               : undefined);
     const canInlinePlayStream =
         isStream && !!streamProtocol && isBrowserPlayableStreamProtocol(streamProtocol);
-    const useAudio = !isYouTube && !isSpotify && !isCamera && !isMic && !isStream && !isScreen;
+
+    // ── Tauri desktop: use yt-dlp to get a direct CDN URL for YouTube ─────
+    // This replaces the IFrame embed when running as a desktop app, giving us:
+    //   • No ads  • Full Web Audio chain (EQ / FX / visualiser)  • native <audio>
+    // Falls back to the IFrame if yt-dlp is unavailable or returns an error.
+    const isTauriEnv = isTauri();
+    const [tauriYtUrl, setTauriYtUrl] = useState<string | null>(null);
+    const useTauriAudio = isTauriEnv && isYouTube && !!tauriYtUrl;
+
+    const useAudio =
+        useTauriAudio || (!isYouTube && !isSpotify && !isCamera && !isMic && !isStream && !isScreen);
 
     const { init, resume, applyChain, setVolume, analyser } = useAudioChain(useAudio ? audioEl : null);
+
+    // ── Fetch yt-dlp CDN URL when track changes (Tauri only) ──────────────
+    const ytId = currentMedia?.youtubeId ?? (currentMedia ? extractYouTubeId(currentMedia.path) : null);
+    useEffect(() => {
+        if (!isTauriEnv || !isYouTube || !ytId) {
+            setTauriYtUrl(null);
+            return;
+        }
+        let cancelled = false;
+        setTauriYtUrl(null); // clear while fetching
+        ytGetAudioUrl(ytId)
+            .then(url => {
+                if (!cancelled) setTauriYtUrl(url);
+            })
+            .catch(() => {
+                if (!cancelled) setTauriYtUrl(null); /* fall back to IFrame */
+            });
+        return () => {
+            cancelled = true;
+        };
+    }, [isTauriEnv, isYouTube, ytId]);
+
+    // ── mpv backend: drive store from mpv IPC events ───────────────────────
+    // useMpvAudio is currently false in WideriaLayout (yt-dlp + <audio> is the
+    // primary Tauri path).  Set it to true to switch a track to mpv instead.
+    useTauriMpv(false /* isMpvMode */, handleEnded);
 
     /** Build and publish a state beacon through the active transport. */
     function sendBeacon(type: "start" | "state" | "stop") {
@@ -713,15 +751,16 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
         playback.isMuted || playback.volume === 0 ? VolumeX : playback.volume < 0.5 ? Volume1 : Volume2;
     const progressPct = playback.duration ? (playback.currentTime / playback.duration) * 100 : 0;
 
-    const ytId = currentMedia?.youtubeId ?? (currentMedia ? extractYouTubeId(currentMedia.path) : null);
+    // ytId is defined earlier (above the yt-dlp fetch effect); reused here.
     const ytPlaylistId = currentMedia?.playlistId ?? null;
-    // For a pure playlist URL there may be no videoId — the embed still works via playlistId
-    const showYouTubeEmbed = isYouTube && (!!ytId || !!ytPlaylistId);
+    // In Tauri, the IFrame is replaced by <audio src={tauriYtUrl}> via the yt-dlp path.
+    const showYouTubeEmbed = !useTauriAudio && isYouTube && (!!ytId || !!ytPlaylistId);
 
     function handleEnded() {
         if (repeatMode === "one") {
-            // YouTube: seek back to start and resume (audio uses native loop attr)
-            if (isYouTube) {
+            // YouTube IFrame: seek back to start and resume.
+            // Tauri yt-dlp path: the <audio> element's `loop` attribute handles repeat.
+            if (isYouTube && !useTauriAudio) {
                 ytEmbedRef.current?.seekTo(0);
                 setPlayback({ isPlaying: true, currentTime: 0 });
             }
@@ -768,7 +807,10 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
             {useAudio && (
                 <audio
                     ref={setAudioEl}
-                    src={currentMedia?.path}
+                    // Tauri: use the yt-dlp CDN URL so the Web Audio chain works.
+                    // crossOrigin="anonymous" is required for createMediaElementSource.
+                    src={useTauriAudio ? (tauriYtUrl ?? undefined) : currentMedia?.path}
+                    crossOrigin={useTauriAudio ? "anonymous" : undefined}
                     onTimeUpdate={() => {
                         if (audioEl && !isSeeking.current) setPlayback({ currentTime: audioEl.currentTime });
                     }}
@@ -1019,18 +1061,18 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                             const rect = e.currentTarget.getBoundingClientRect();
                             const time = ((e.clientX - rect.left) / rect.width) * playback.duration;
                             seek(time);
-                            if (isYouTube) ytEmbedRef.current?.seekTo(time);
+                            if (isYouTube && !useTauriAudio) ytEmbedRef.current?.seekTo(time);
                         }}
                         onKeyDown={e => {
                             if (e.key === "ArrowLeft") {
                                 const time = Math.max(0, playback.currentTime - 5);
                                 seek(time);
-                                if (isYouTube) ytEmbedRef.current?.seekTo(time);
+                                if (isYouTube && !useTauriAudio) ytEmbedRef.current?.seekTo(time);
                             }
                             if (e.key === "ArrowRight") {
                                 const time = Math.min(playback.duration, playback.currentTime + 5);
                                 seek(time);
-                                if (isYouTube) ytEmbedRef.current?.seekTo(time);
+                                if (isYouTube && !useTauriAudio) ytEmbedRef.current?.seekTo(time);
                             }
                         }}
                     >
