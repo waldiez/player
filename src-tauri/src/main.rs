@@ -2,10 +2,10 @@
 
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
-use waldiez_player_lib::commands;
-use waldiez_player_lib::commands::mpv::{MpvState, MpvInner};
 use std::sync::Arc;
 use tokio::sync::Mutex;
+use waldiez_player_lib::commands;
+use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};
 
 fn main() {
     // Initialize logger

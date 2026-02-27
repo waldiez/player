@@ -61,8 +61,7 @@ async fn start_mpv_impl(app: &tauri::AppHandle, arc: &Arc<Mutex<Option<MpvInner>
         return Ok(());
     }
 
-    let socket_path =
-        std::env::temp_dir().join(format!("waldiez-mpv-{}.sock", std::process::id()));
+    let socket_path = std::env::temp_dir().join(format!("waldiez-mpv-{}.sock", std::process::id()));
 
     // Remove stale socket from a previous run.
     let _ = std::fs::remove_file(&socket_path);
@@ -150,7 +149,10 @@ async fn start_mpv_impl(app: &tauri::AppHandle, arc: &Arc<Mutex<Option<MpvInner>
 }
 
 #[cfg(not(unix))]
-async fn start_mpv_impl(_app: &tauri::AppHandle, _arc: &Arc<Mutex<Option<MpvInner>>>) -> Result<()> {
+async fn start_mpv_impl(
+    _app: &tauri::AppHandle,
+    _arc: &Arc<Mutex<Option<MpvInner>>>,
+) -> Result<()> {
     Err(Error::Internal(
         "mpv IPC is not yet supported on Windows".into(),
     ))
@@ -172,7 +174,9 @@ async fn send_cmd(state: &MpvState, cmd: String) -> Result<()> {
             .send(cmd)
             .await
             .map_err(|e| Error::Internal(format!("mpv send: {e}"))),
-        None => Err(Error::Internal("mpv not running — call mpv_load first".into())),
+        None => Err(Error::Internal(
+            "mpv not running — call mpv_load first".into(),
+        )),
     }
 }
 
@@ -242,13 +246,21 @@ pub async fn mpv_load(
 /// Pause playback.
 #[tauri::command]
 pub async fn mpv_pause(state: tauri::State<'_, MpvState>) -> Result<()> {
-    send_cmd(&state, r#"{"command":["set_property","pause",true]}"#.into()).await
+    send_cmd(
+        &state,
+        r#"{"command":["set_property","pause",true]}"#.into(),
+    )
+    .await
 }
 
 /// Resume playback.
 #[tauri::command]
 pub async fn mpv_resume(state: tauri::State<'_, MpvState>) -> Result<()> {
-    send_cmd(&state, r#"{"command":["set_property","pause",false]}"#.into()).await
+    send_cmd(
+        &state,
+        r#"{"command":["set_property","pause",false]}"#.into(),
+    )
+    .await
 }
 
 /// Seek to an absolute position (seconds).
