@@ -18,6 +18,10 @@ import { nextWid } from "./wid";
 // ── Storage key (matches kideria/web/player.js PREFS_KEY) ─────────────────
 export const PREFS_KEY = "wideria-prefs";
 
+// ── CDN URL for the hourly-refreshed latest preset ────────────────────────
+// Absolute URL so the web-published version is fetched even in local-dev / Tauri.
+const LATEST_WID_CDN_URL = "https://waldiez.github.io/player/cdn/repo/latest-auto.wid";
+
 // ── User-customizable mood appearance ─────────────────────────────────────
 export interface MoodCustomization {
     label?: string;
@@ -194,8 +198,11 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
             if (await tryWid(customUrl)) return true;
             if (await tryWaldiez(customUrl)) return true;
         }
-        // Built-in defaults — prefer latest auto preset, then fallback to stable defaults.
-        // Use BASE_URL so GitHub Pages (/player/) is handled correctly.
+        // Built-in defaults: try the absolute CDN URL first so the hourly-refreshed
+        // preset is fetched even in local-dev and Tauri (where the relative URL
+        // resolves to a bundled/stale copy).  Fall back to the relative path on
+        // the same host, then to the stable bundled default.
+        if (await tryWid(LATEST_WID_CDN_URL)) return true;
         const base = import.meta.env.BASE_URL ?? "/";
         if (await tryWid(`${base}cdn/repo/latest-auto.wid`)) return true;
         if (await tryWid(`${base}default.wid`)) return true;
