@@ -29,6 +29,17 @@ pub struct MpvInner {
     cmd_tx: tokio::sync::mpsc::Sender<String>,
 }
 
+/// Force-stop the mpv daemon and clean up resources.
+pub async fn shutdown_mpv_state(state: &MpvState) {
+    let mut lock = state.0.lock().await;
+    if let Some(mut inner) = lock.take() {
+        let _ = inner.cmd_tx.try_send(r#"{"command":["quit"]}"#.into());
+        tokio::time::sleep(tokio::time::Duration::from_millis(200)).await;
+        let _ = inner._child.kill().await;
+        let _ = tokio::fs::remove_file(&inner.socket_path).await;
+    }
+}
+
 // ── Events emitted to the frontend ────────────────────────────────────────
 
 /// Events forwarded from the mpv IPC socket to the Tauri window as "mpv-event".
@@ -221,6 +232,12 @@ pub async fn mpv_check() -> bool {
         .unwrap_or(false)
 }
 
+/// Start (or ensure) the background mpv daemon without loading media yet.
+#[tauri::command]
+pub async fn mpv_start(app: tauri::AppHandle, state: tauri::State<'_, MpvState>) -> Result<()> {
+    ensure_running(&app, &state).await
+}
+
 /// Load a URL or file path into mpv and start playing.
 ///
 /// Accepts anything mpv understands:
@@ -303,12 +320,6 @@ pub async fn mpv_stop(state: tauri::State<'_, MpvState>) -> Result<()> {
 /// Quit the mpv daemon entirely and clean up the socket.
 #[tauri::command]
 pub async fn mpv_quit(state: tauri::State<'_, MpvState>) -> Result<()> {
-    let mut lock = state.0.lock().await;
-    if let Some(mut inner) = lock.take() {
-        let _ = inner.cmd_tx.try_send(r#"{"command":["quit"]}"#.into());
-        tokio::time::sleep(tokio::time::Duration::from_millis(200)).await;
-        let _ = inner._child.kill().await;
-        let _ = tokio::fs::remove_file(&inner.socket_path).await;
-    }
+    shutdown_mpv_state(&state).await;
     Ok(())
 }

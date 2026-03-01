@@ -39,7 +39,7 @@ const PIPED_INSTANCES = [
     "https://watchapi.whatever.social",
 ];
 
-const TIMEOUT_MS = 6_000;
+const TIMEOUT_MS = 2_500;
 
 /**
  * Returns the best-audio stream URL for a YouTube video ID, or `null` if

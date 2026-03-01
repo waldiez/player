@@ -17,7 +17,7 @@ import { parseMediaUrl } from "@/lib/mediaSource";
 import { type SoundCloudSearchResult, searchSoundCloud } from "@/lib/soundcloudSearch";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
-import { getLastYouTubeSearchError, type YouTubeSearchResult, searchYouTube } from "@/lib/youtubeSearch";
+import { type YouTubeSearchResult, getLastYouTubeSearchError, searchYouTube } from "@/lib/youtubeSearch";
 import type { MediaFile } from "@/types";
 
 import { useEffect, useRef, useState } from "react";
@@ -222,7 +222,15 @@ interface ResultListProps {
     emptyHint?: string;
 }
 
-function ResultList({ results, query, isLoading, activeIndex, onSelect, source, emptyHint }: ResultListProps) {
+function ResultList({
+    results,
+    query,
+    isLoading,
+    activeIndex,
+    onSelect,
+    source,
+    emptyHint,
+}: ResultListProps) {
     const q = query.trim();
 
     if (isLoading) {
@@ -593,15 +601,15 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                                         />
                                     </div>
                                 ) : (
-                    <ResultList
-                        results={results}
-                        query={query}
-                        isLoading={isLoading}
-                        activeIndex={activeIndex}
-                        onSelect={handleSelect}
-                        source={source}
-                        emptyHint={emptyHint}
-                    />
+                                    <ResultList
+                                        results={results}
+                                        query={query}
+                                        isLoading={isLoading}
+                                        activeIndex={activeIndex}
+                                        onSelect={handleSelect}
+                                        source={source}
+                                        emptyHint={emptyHint}
+                                    />
                                 )}
                             </div>
                         )}

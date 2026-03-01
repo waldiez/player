@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.2
         with:
           ref: ${{ inputs.ref }}
 
@@ -58,9 +58,48 @@ jobs:
           security set-key-partition-list -S apple-tool:,apple: -s -k "" build.keychain
           rm cert.p12
 
+      - name: Resolve signing identity
+        shell: bash
+        env:
+          APPLE_MAS_SIGNING_IDENTITY: ${{ secrets.APPLE_MAS_SIGNING_IDENTITY }}
+        run: |
+          set -euo pipefail
+          IDS_RAW="$(security find-identity -v -p codesigning build.keychain || true)"
+          echo "$IDS_RAW"
+
+          if [ -z "${IDS_RAW}" ]; then
+            echo "No signing identities found in build.keychain" >&2
+            exit 1
+          fi
+
+          CANDIDATE=""
+          if [ -n "${APPLE_MAS_SIGNING_IDENTITY:-}" ] && echo "$IDS_RAW" | grep -Fq "$APPLE_MAS_SIGNING_IDENTITY"; then
+            CANDIDATE="$APPLE_MAS_SIGNING_IDENTITY"
+          else
+            CANDIDATE="$(echo "$IDS_RAW" | awk -F\" '/\".*\"/ {print $2; exit}')"
+          fi
+
+          if [ -z "${CANDIDATE}" ]; then
+            echo "Failed to resolve a signing identity." >&2
+            exit 1
+          fi
+
+          echo "Resolved signing identity: ${CANDIDATE}"
+          echo "APPLE_MAS_SIGNING_IDENTITY=${CANDIDATE}" >> "$GITHUB_ENV"
+          echo "APPLE_SIGNING_IDENTITY=${CANDIDATE}" >> "$GITHUB_ENV"
+
       - name: Build MAS app bundle
         env:
-          APPLE_SIGNING_IDENTITY: ${{ secrets.APPLE_MAS_SIGNING_IDENTITY }}
+          # Use resolved MAS signing identity.
+          APPLE_MAS_SIGNING_IDENTITY: ${{ env.APPLE_MAS_SIGNING_IDENTITY }}
+          APPLE_SIGNING_IDENTITY: ${{ env.APPLE_SIGNING_IDENTITY }}
+          # Explicitly disable notarization env for MAS build path.
+          APPLE_ID: ""
+          APPLE_PASSWORD: ""
+          APPLE_TEAM_ID: ""
+          APPLE_API_KEY: ""
+          APPLE_API_ISSUER: ""
+          APPLE_API_KEY_PATH: ""
         run: bun run build:tauri:mas
 
       - name: Upload MAS bundle artifacts

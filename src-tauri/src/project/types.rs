@@ -3,14 +3,13 @@
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
-use uuid::Uuid;
 
 /// A Waldiez Player project
 #[derive(Debug, Clone, Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct Project {
     /// Unique project identifier
-    pub id: Uuid,
+    pub id: String,
     /// Project name
     pub name: String,
     /// Schema version

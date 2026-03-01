@@ -26,6 +26,13 @@ export function isTauri(): boolean {
     return typeof window !== "undefined" && "__TAURI_INTERNALS__" in window;
 }
 
+/** Returns true when running in a packaged Tauri app (non-http(s) origin). */
+export function isTauriPackaged(): boolean {
+    if (!isTauri()) return false;
+    if (typeof window === "undefined") return false;
+    return window.location.protocol !== "http:" && window.location.protocol !== "https:";
+}
+
 // ── Event types ────────────────────────────────────────────────────────────
 
 export type MpvEventPayload =
@@ -74,6 +81,11 @@ export async function ytSearchVideos(query: string, limit = 12): Promise<YtSearc
 /** Returns true if `mpv` is installed on the system. */
 export async function mpvCheck(): Promise<boolean> {
     return invoke<boolean>("mpv_check");
+}
+
+/** Ensure mpv background daemon is running (packaged desktop prewarm). */
+export async function mpvStart(): Promise<void> {
+    return invoke("mpv_start");
 }
 
 /**

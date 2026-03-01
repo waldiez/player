@@ -1,6 +1,7 @@
 //! Render manager for handling video export
 
 use crate::project::{Project, ProjectManager};
+use crate::wid::next_wid;
 use crate::{Error, Result};
 use lazy_static::lazy_static;
 use serde::{Deserialize, Serialize};
@@ -9,7 +10,6 @@ use std::path::{Path, PathBuf};
 use std::sync::{Arc, Mutex};
 use tauri::async_runtime::spawn;
 use tokio::time::sleep;
-use uuid::Uuid;
 
 lazy_static! {
     static ref RENDER_JOBS: Arc<Mutex<HashMap<String, Arc<Mutex<RenderJob>>>>> =
@@ -65,7 +65,7 @@ pub struct RenderJob {
 
 impl RenderJob {
     fn new(project: Project, settings: RenderSettings, output_path: PathBuf) -> Self {
-        let job_id = Uuid::new_v4().to_string();
+        let job_id = next_wid();
         Self {
             id: job_id.clone(),
             project,

@@ -1,7 +1,6 @@
 //! Effect-related Tauri commands
 use crate::effects;
 use crate::{Error, Result};
-use ffmpeg_next as ffmpeg;
 use serde::{Deserialize, Serialize};
 use std::path::PathBuf;
 use tauri::command;
@@ -56,7 +55,6 @@ pub async fn apply_effect(
     parameters: serde_json::Value,
     output_path: Option<String>,
 ) -> Result<String> {
-    let input = PathBuf::from(&input_path);
     let output = match output_path {
         Some(p) => PathBuf::from(p),
         None => {
@@ -66,90 +64,6 @@ pub async fn apply_effect(
     };
 
     let filter_str = effects::get_ffmpeg_filter(&effect_id, &parameters)?;
-
-    let mut ictx = ffmpeg::format::input(&input)?;
-    let mut octx = ffmpeg::format::output(&output)?;
-
-    let mut stream_mapping = vec![usize::MAX; ictx.nb_streams() as usize];
-    let mut best_video_stream: Option<usize> = None;
-
-    for (i, ist) in ictx.streams().enumerate() {
-        // Pick the first video stream as "best" (you can improve later)
-        if best_video_stream.is_none() && ist.parameters().medium() == ffmpeg::media::Type::Video {
-            best_video_stream = Some(i);
-        }
-
-        // Create an output stream without relying on `ist.codec()`.
-        // In ffmpeg-next 8.x, the safe way is to add a stream by codec id when you actually encode.
-        // For "copy/remux" scaffolding, we can add a stream using the same codec id from parameters.
-        let codec_id = ist.parameters().id();
-
-        // `find(codec_id)` returns a codec descriptor (decoder/encoder). We just need something
-        // to satisfy add_stream; parameters are set right after.
-        let codec = ffmpeg::codec::decoder::find(codec_id)
-            .or_else(|| ffmpeg::codec::encoder::find(codec_id))
-            .ok_or_else(|| Error::Media(format!("Unsupported codec id: {:?}", codec_id)))?;
-
-        let mut ost = octx.add_stream(codec)?;
-        ost.set_parameters(ist.parameters());
-
-        stream_mapping[i] = ost.index();
-    }
-
-    let video_stream_index =
-        best_video_stream.ok_or_else(|| Error::Media("No video stream found".into()))?;
-
-    let filter = format!("[in]{}[out]", filter_str);
-    let mut graph = ffmpeg::filter::Graph::new();
-    let stream = ictx.stream(video_stream_index).unwrap();
-    let params = stream.parameters();
-    let ctx = ffmpeg::codec::context::Context::from_parameters(params)?;
-    let decoder = ctx.decoder();
-
-    let (w, h) = if let Ok(v) = decoder.video() {
-        (v.width(), v.height())
-    } else {
-        (0, 0)
-    };
-
-    graph.add(
-        &ffmpeg::filter::find("buffer").unwrap(),
-        "in",
-        &format!(
-            "video_size={}x{}:pix_fmt={}:time_base={}:pixel_aspect={}",
-            w, h, "yuv420p", "1/25", "1/1"
-        ),
-    )?;
-    graph.add(&ffmpeg::filter::find("buffersink").unwrap(), "out", "")?;
-    graph.parse(&filter)?;
-    graph.validate()?;
-
-    octx.write_header()?;
-
-    for (stream, packet) in ictx.packets() {
-        if stream.index() == video_stream_index {
-            // How to apply filter graph? This is getting complicated.
-            // For a single command, it's easier to use std::process::Command
-        }
-
-        let mut packet = packet;
-        packet.rescale_ts(
-            stream.time_base(),
-            octx.stream(stream_mapping[stream.index()])
-                .unwrap()
-                .time_base(),
-        );
-        packet.set_stream(stream_mapping[stream.index()]);
-        packet.write_interleaved(&mut octx)?;
-    }
-
-    octx.write_trailer()?;
-
-    // The above is complex. For now, let's just return a placeholder.
-    // The real implementation will be part of the render manager.
-    // This command is more for previewing single effects.
-
-    // For now, let's use the command line ffmpeg for simplicity.
     let status = std::process::Command::new("ffmpeg")
         .arg("-i")
         .arg(&input_path)

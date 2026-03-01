@@ -3,7 +3,7 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 use std::sync::Arc;
-use tauri::Emitter;
+use tauri::{Emitter, Manager};
 use tokio::sync::Mutex;
 use waldiez_player_lib::commands;
 use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};
@@ -11,6 +11,14 @@ use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};
 /// Emit a `file-opened` event to all webview windows with the given path.
 fn emit_file_opened(app: &tauri::AppHandle, path: &str) {
     let _ = app.emit("file-opened", path.to_string());
+}
+
+/// Ensure mpv daemon is stopped when the application exits.
+fn shutdown_mpv(app: &tauri::AppHandle) {
+    let state = app.state::<MpvState>();
+    tauri::async_runtime::block_on(async {
+        commands::mpv::shutdown_mpv_state(&state).await;
+    });
 }
 
 fn main() {
@@ -27,7 +35,7 @@ fn main() {
         .filter(|a| std::path::Path::new(a).exists())
         .collect();
 
-    tauri::Builder::default()
+    let app = tauri::Builder::default()
         .plugin(tauri_plugin_deep_link::init())
         .plugin(tauri_plugin_shell::init())
         .plugin(tauri_plugin_dialog::init())
@@ -57,6 +65,7 @@ fn main() {
             commands::ytdlp::yt_search_videos,
             // mpv commands
             commands::mpv::mpv_check,
+            commands::mpv::mpv_start,
             commands::mpv::mpv_load,
             commands::mpv::mpv_pause,
             commands::mpv::mpv_resume,
@@ -111,6 +120,17 @@ fn main() {
 
             Ok(())
         })
-        .run(tauri::generate_context!())
-        .expect("error while running tauri application");
+        .build(tauri::generate_context!())
+        .expect("error while building tauri application");
+
+    let mut did_shutdown_mpv = false;
+    app.run(move |app_handle, event| match event {
+        tauri::RunEvent::ExitRequested { .. } | tauri::RunEvent::Exit => {
+            if !did_shutdown_mpv {
+                shutdown_mpv(app_handle);
+                did_shutdown_mpv = true;
+            }
+        }
+        _ => {}
+    });
 }

@@ -191,7 +191,8 @@ function getYouTubeApiKey(): string {
 async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResult[]> {
     const key = getYouTubeApiKey();
     if (!key) {
-        lastYouTubeSearchError = "YouTube API key missing. Pass YT_API_KEY (Flutter) or VITE_YOUTUBE_API_KEY (web).";
+        lastYouTubeSearchError =
+            "YouTube API key missing. Pass YT_API_KEY (Flutter) or VITE_YOUTUBE_API_KEY (web).";
         return [];
     }
 
@@ -243,7 +244,9 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
         const videoId = item.id?.videoId ?? "";
         if (!videoId) continue;
         const thumbs = item.snippet?.thumbnails;
-        const thumbnail = normalizeThumbnail(thumbs?.high?.url ?? thumbs?.medium?.url ?? thumbs?.default?.url ?? "");
+        const thumbnail = normalizeThumbnail(
+            thumbs?.high?.url ?? thumbs?.medium?.url ?? thumbs?.default?.url ?? "",
+        );
         results.push({
             videoId,
             title: item.snippet?.title ?? "Unknown",

@@ -8,5 +8,6 @@ pub mod error;
 pub mod media;
 pub mod project;
 pub mod render;
+pub mod wid;
 
 pub use error::{Error, Result};

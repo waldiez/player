@@ -45,6 +45,7 @@ pub enum Error {
     Internal(String),
 }
 
+#[cfg(feature = "ffmpeg-media")]
 impl From<ffmpeg_next::Error> for Error {
     fn from(err: ffmpeg_next::Error) -> Self {
         Error::FFmpeg(err.to_string())

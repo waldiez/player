@@ -35,7 +35,17 @@ import {
 } from "@/lib/moodDefaults";
 import { getPipedAudioUrl } from "@/lib/pipedPlayer";
 import { STREAM_TARGETS, isBrowserPlayableStreamProtocol } from "@/lib/streamTargets";
-import { isTauri, ytGetAudioUrl } from "@/lib/tauriPlayer";
+import {
+    isTauri,
+    isTauriPackaged,
+    mpvCheck,
+    mpvLoad,
+    mpvPause,
+    mpvQuit,
+    mpvStart,
+    mpvStop,
+    ytGetAudioUrl,
+} from "@/lib/tauriPlayer";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
@@ -352,42 +362,180 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     // Web Audio chain (EQ / FX / visualiser / analyser) activates automatically.
     // Falls back to the IFrame if the extraction fails.
     const isTauriEnv = isTauri();
+    const isTauriPackagedEnv = isTauriPackaged();
     const [nativeYtUrl, setNativeYtUrl] = useState<string | null>(null);
+    const [nativeYtSource, setNativeYtSource] = useState<"piped" | "ytdlp" | null>(null);
+    const [ytResolveDone, setYtResolveDone] = useState(false);
+    const [useMpvAudio, setUseMpvAudio] = useState(false);
+    const triedDesktopPipedRef = useRef(false);
+    const strategyCacheRef = useRef<Map<string, "mpv" | "ytdlp" | "piped">>(new Map());
     const useNativeAudio = isYouTube && !!nativeYtUrl;
+    const directVolumePath = useNativeAudio && nativeYtSource === "ytdlp";
 
     const useAudio =
-        useNativeAudio || (!isYouTube && !isSpotify && !isCamera && !isMic && !isStream && !isScreen);
+        !useMpvAudio &&
+        (useNativeAudio || (!isYouTube && !isSpotify && !isCamera && !isMic && !isStream && !isScreen));
 
     const { init, resume, applyChain, setVolume, analyser } = useAudioChain(useAudio ? audioEl : null);
+
+    function cacheGet(videoId: string): "mpv" | "ytdlp" | "piped" | null {
+        const hit = strategyCacheRef.current.get(videoId);
+        if (hit) return hit;
+        try {
+            const raw = localStorage.getItem(`waldiez:yt-strategy:${videoId}`);
+            if (raw === "mpv" || raw === "ytdlp" || raw === "piped") {
+                strategyCacheRef.current.set(videoId, raw);
+                return raw;
+            }
+        } catch {
+            // Ignore storage failures.
+        }
+        return null;
+    }
+
+    function cacheSet(videoId: string, strategy: "mpv" | "ytdlp" | "piped"): void {
+        strategyCacheRef.current.set(videoId, strategy);
+        try {
+            localStorage.setItem(`waldiez:yt-strategy:${videoId}`, strategy);
+        } catch {
+            // Ignore storage failures.
+        }
+    }
+
+    // Packaged desktop: prewarm mpv daemon once, so fallback handoff is fast.
+    useEffect(() => {
+        if (!isTauriPackagedEnv) return;
+        let cancelled = false;
+        void (async () => {
+            try {
+                const ok = await mpvCheck();
+                if (!ok || cancelled) return;
+                await mpvStart();
+                await mpvPause();
+            } catch {
+                // Optional prewarm.
+            }
+        })();
+        return () => {
+            cancelled = true;
+        };
+    }, [isTauriPackagedEnv]);
 
     // ── Fetch native audio URL on track change ────────────────────────────
     const ytId = currentMedia?.youtubeId ?? (currentMedia ? extractYouTubeId(currentMedia.path) : null);
     useEffect(() => {
         if (!isYouTube || !ytId) {
             setNativeYtUrl(null);
+            setNativeYtSource(null);
+            setYtResolveDone(false);
+            setUseMpvAudio(false);
+            triedDesktopPipedRef.current = false;
             return;
         }
         let cancelled = false;
-        setNativeYtUrl(null); // clear while fetching (shows IFrame as fallback)
-        const fetch$ = isTauriEnv
-            ? ytGetAudioUrl(ytId) // yt-dlp (Tauri)
-            : getPipedAudioUrl(ytId); // Piped API (browser)
-        fetch$
-            .then(url => {
-                if (!cancelled && url) setNativeYtUrl(url);
-            })
-            .catch(() => {
-                if (!cancelled) setNativeYtUrl(null); // silent fallback to IFrame
-            });
+        triedDesktopPipedRef.current = false;
+        setNativeYtUrl(null); // clear while fetching
+        setNativeYtSource(null);
+        setYtResolveDone(false);
+        setUseMpvAudio(false);
+        (async () => {
+            const usePath = currentMedia?.path;
+            const attemptMpv = async (): Promise<boolean> => {
+                if (!isTauriEnv || !usePath) return false;
+                const ok = await mpvCheck();
+                if (!ok || cancelled) return false;
+                await mpvLoad(usePath);
+                if (cancelled) return false;
+                setUseMpvAudio(true);
+                setPlayback({ isPlaying: true });
+                setYtFallbackNotice("Using mpv desktop playback.");
+                cacheSet(ytId, "mpv");
+                return true;
+            };
+            const attemptYtdlp = async (): Promise<boolean> => {
+                const url = await ytGetAudioUrl(ytId);
+                if (!url || cancelled) return false;
+                setNativeYtUrl(url);
+                setNativeYtSource("ytdlp");
+                cacheSet(ytId, "ytdlp");
+                return true;
+            };
+            const attemptPiped = async (): Promise<boolean> => {
+                const piped = await getPipedAudioUrl(ytId);
+                if (!piped || cancelled) return false;
+                setNativeYtUrl(piped);
+                setNativeYtSource("piped");
+                cacheSet(ytId, "piped");
+                return true;
+            };
+
+            try {
+                if (isTauriPackagedEnv) {
+                    // Packaged desktop: cached strategy first, then mpv-first order.
+                    const cached = cacheGet(ytId);
+                    const ordered: Array<"mpv" | "ytdlp" | "piped"> = cached
+                        ? ([cached, "mpv", "ytdlp", "piped"].filter((v, i, a) => a.indexOf(v) === i) as Array<
+                              "mpv" | "ytdlp" | "piped"
+                          >)
+                        : ["mpv", "ytdlp", "piped"];
+
+                    for (const method of ordered) {
+                        try {
+                            const ok =
+                                method === "mpv"
+                                    ? await attemptMpv()
+                                    : method === "ytdlp"
+                                      ? await attemptYtdlp()
+                                      : await attemptPiped();
+                            if (ok) return;
+                        } catch {
+                            // Try next strategy.
+                        }
+                    }
+                } else if (isTauriEnv) {
+                    // Tauri dev: yt-dlp first, then Piped.
+                    try {
+                        const ok = await attemptYtdlp();
+                        if (ok) return;
+                        return;
+                    } catch {
+                        const ok = await attemptPiped();
+                        if (ok) {
+                            triedDesktopPipedRef.current = true;
+                        }
+                        return;
+                    }
+                } else {
+                    const ok = await attemptPiped();
+                    if (ok) return;
+                }
+                if (!cancelled) {
+                    setNativeYtUrl(null);
+                    setYtResolveDone(true);
+                }
+            } catch {
+                if (!cancelled) {
+                    setNativeYtUrl(null);
+                    setYtResolveDone(true);
+                }
+            }
+        })();
         return () => {
             cancelled = true;
         };
-    }, [isTauriEnv, isYouTube, ytId]);
+    }, [currentMedia?.path, isTauriEnv, isTauriPackagedEnv, isYouTube, setPlayback, ytId]);
+
+    // Stop mpv when we leave mpv mode / track changes away from YT.
+    useEffect(() => {
+        if (!useMpvAudio) return;
+        if (!isYouTube || !isTauriPackagedEnv) {
+            void mpvStop().catch(() => {});
+            setUseMpvAudio(false);
+        }
+    }, [useMpvAudio, isYouTube, isTauriPackagedEnv]);
 
     // ── mpv backend: drive store from mpv IPC events ───────────────────────
-    // useMpvAudio is currently false in WideriaLayout (yt-dlp + <audio> is the
-    // primary Tauri path).  Set it to true to switch a track to mpv instead.
-    useTauriMpv(false /* isMpvMode */, handleEnded);
+    useTauriMpv(useMpvAudio, handleEnded);
 
     /** Build and publish a state beacon through the active transport. */
     function sendBeacon(type: "start" | "state" | "stop") {
@@ -514,8 +662,11 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
             if (beaconDebounceRef.current) clearTimeout(beaconDebounceRef.current);
             beaconTransportRef.current?.disconnect();
             beaconTransportRef.current = null;
+            if (isTauriEnv) {
+                void mpvQuit().catch(() => {});
+            }
         },
-        [],
+        [isTauriEnv],
     );
 
     // Send a debounced beacon whenever playback state changes while live
@@ -609,8 +760,17 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     }, [playback.isPlaying, audioEl, init, resume, useAudio]);
 
     useEffect(() => {
+        if (directVolumePath && audioEl) {
+            // Backend yt-dlp URLs can be less predictable with WebAudio CORS rules.
+            // Keep UI volume responsive by controlling the media element directly.
+            audioEl.muted = playback.isMuted;
+            audioEl.volume = playback.isMuted ? 0 : playback.volume;
+            setVolume(1);
+            return;
+        }
+        if (audioEl) audioEl.muted = false;
         setVolume(playback.isMuted ? 0 : playback.volume);
-    }, [playback.volume, playback.isMuted, setVolume]);
+    }, [directVolumePath, playback.volume, playback.isMuted, setVolume, audioEl]);
 
     useEffect(() => {
         if (!audioEl || isSeeking.current) return;
@@ -782,7 +942,26 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     // ytId is defined earlier (above the yt-dlp fetch effect); reused here.
     const ytPlaylistId = currentMedia?.playlistId ?? null;
     // In Tauri, the IFrame is replaced by <audio src={nativeYtUrl}> via the yt-dlp path.
-    const showYouTubeEmbed = !useNativeAudio && isYouTube && (!!ytId || !!ytPlaylistId);
+    const showYouTubeEmbed =
+        !isTauriPackagedEnv && !useMpvAudio && !useNativeAudio && isYouTube && (!!ytId || !!ytPlaylistId);
+
+    // If no embeddable video surface is available for YouTube, auto-enable
+    // animation mode so users always see visual feedback.
+    useEffect(() => {
+        if (isYouTube && !showYouTubeEmbed && !showVisualizer) {
+            setShowVisualizer(true);
+        }
+    }, [isYouTube, showYouTubeEmbed, showVisualizer]);
+
+    // If we just fell back from native audio to iframe while playing,
+    // kick the iframe player once it is mounted.
+    useEffect(() => {
+        if (!showYouTubeEmbed || !playback.isPlaying) return;
+        const t = setTimeout(() => {
+            ytEmbedRef.current?.playVideo();
+        }, 120);
+        return () => clearTimeout(t);
+    }, [showYouTubeEmbed, playback.isPlaying, ytId, ytPlaylistId]);
 
     function handleEnded() {
         if (repeatMode === "one") {
@@ -839,11 +1018,61 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                     // Tauri: use the yt-dlp CDN URL so the Web Audio chain works.
                     // crossOrigin="anonymous" is required for createMediaElementSource.
                     src={useNativeAudio ? (nativeYtUrl ?? undefined) : currentMedia?.path}
-                    crossOrigin={useNativeAudio ? "anonymous" : undefined}
+                    crossOrigin={useNativeAudio && nativeYtSource === "piped" ? "anonymous" : undefined}
                     onError={() => {
                         // Some direct CDN URLs reject CORS preflight/range requests in browser mode.
                         // Fall back to the YouTube embed path for this track.
                         if (isYouTube && useNativeAudio) {
+                            // Packaged desktop: if Piped failed, try backend yt-dlp before giving up.
+                            if (isTauriPackagedEnv && ytId && nativeYtSource === "piped") {
+                                ytGetAudioUrl(ytId)
+                                    .then(url => {
+                                        if (url) {
+                                            setNativeYtSource("ytdlp");
+                                            setYtResolveDone(false);
+                                            setNativeYtUrl(url);
+                                        } else {
+                                            setNativeYtUrl(null);
+                                            setYtResolveDone(true);
+                                        }
+                                    })
+                                    .catch(() => {
+                                        setNativeYtUrl(null);
+                                        setYtResolveDone(true);
+                                    });
+                                return;
+                            }
+                            if (isTauriPackagedEnv && nativeYtSource === "ytdlp" && currentMedia?.path) {
+                                mpvLoad(currentMedia.path)
+                                    .then(() => {
+                                        setUseMpvAudio(true);
+                                        setPlayback({ isPlaying: true });
+                                        setYtFallbackNotice("Using mpv desktop playback.");
+                                        if (ytId) cacheSet(ytId, "mpv");
+                                    })
+                                    .catch(() => {
+                                        setNativeYtUrl(null);
+                                        setYtResolveDone(true);
+                                    });
+                                return;
+                            }
+                            // On desktop, try one last Piped fallback before iframe.
+                            if (isTauriEnv && ytId && !triedDesktopPipedRef.current) {
+                                triedDesktopPipedRef.current = true;
+                                getPipedAudioUrl(ytId)
+                                    .then(url => {
+                                        if (url) {
+                                            setNativeYtSource("piped");
+                                            setYtResolveDone(false);
+                                            setNativeYtUrl(url);
+                                        } else setNativeYtUrl(null);
+                                    })
+                                    .catch(() => {
+                                        setNativeYtUrl(null);
+                                        setYtResolveDone(true);
+                                    });
+                                return;
+                            }
                             const mediaId = currentMedia?.id ?? null;
                             if (mediaId && ytFallbackNoticeTrackRef.current !== mediaId) {
                                 ytFallbackNoticeTrackRef.current = mediaId;
@@ -851,6 +1080,8 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                                     "Native stream blocked by CORS. Switched to YouTube embed.",
                                 );
                             }
+                            // Ensure the iframe path becomes visible again (if allowed).
+                            if (!isTauriPackagedEnv) setShowVisualizer(false);
                             setNativeYtUrl(null);
                         }
                     }}
@@ -1046,8 +1277,8 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                     />
                 )}
 
-                {/* MoodVisualizer — shown for audio/mic sources, or when YouTube video is hidden */}
-                {(!isYouTube || showVisualizer) &&
+                {/* MoodVisualizer — shown for audio/mic sources, native YT audio, or when YouTube video is hidden */}
+                {(!isYouTube || showVisualizer || useNativeAudio || useMpvAudio) &&
                     !isSpotify &&
                     !isCamera &&
                     !isScreen &&
@@ -1071,6 +1302,22 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                             bgOverride={activeMoodCustom?.bg}
                         />
                     ))}
+
+                {/* Packaged desktop: avoid iframe fallback loops (Error 153). */}
+                {isTauriPackagedEnv && isYouTube && !useNativeAudio && !useMpvAudio && ytResolveDone && (
+                    <div className="absolute inset-0 flex items-center justify-center bg-black/60 px-6 text-center">
+                        <div className="max-w-xl rounded-lg border border-[var(--color-player-border)] bg-[var(--color-player-surface)] px-4 py-4">
+                            <p className="text-sm font-medium text-[var(--color-player-text)]">
+                                Unable to load YouTube stream in packaged desktop mode
+                            </p>
+                            <p className="mt-1 text-xs text-[var(--color-player-text-muted)]">
+                                Tried frontend stream and backend stream. IFrame fallback is disabled here
+                                because it triggers YouTube Error 153 on app origins. Install mpv for final
+                                desktop fallback.
+                            </p>
+                        </div>
+                    </div>
+                )}
             </div>
 
             {/* ════════════════════ TRANSPORT ════════════════════ */}
@@ -1107,18 +1354,21 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                             const rect = e.currentTarget.getBoundingClientRect();
                             const time = ((e.clientX - rect.left) / rect.width) * playback.duration;
                             seek(time);
-                            if (isYouTube && !useNativeAudio) ytEmbedRef.current?.seekTo(time);
+                            if (isYouTube && !useNativeAudio && !useMpvAudio)
+                                ytEmbedRef.current?.seekTo(time);
                         }}
                         onKeyDown={e => {
                             if (e.key === "ArrowLeft") {
                                 const time = Math.max(0, playback.currentTime - 5);
                                 seek(time);
-                                if (isYouTube && !useNativeAudio) ytEmbedRef.current?.seekTo(time);
+                                if (isYouTube && !useNativeAudio && !useMpvAudio)
+                                    ytEmbedRef.current?.seekTo(time);
                             }
                             if (e.key === "ArrowRight") {
                                 const time = Math.min(playback.duration, playback.currentTime + 5);
                                 seek(time);
-                                if (isYouTube && !useNativeAudio) ytEmbedRef.current?.seekTo(time);
+                                if (isYouTube && !useNativeAudio && !useMpvAudio)
+                                    ytEmbedRef.current?.seekTo(time);
                             }
                         }}
                     >

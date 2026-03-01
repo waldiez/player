@@ -35,6 +35,7 @@ interface YTPlayerOptions {
     events?: {
         onReady?: (e: { target: YTPlayerInstance }) => void;
         onStateChange?: (e: { data: number }) => void;
+        onError?: (e: { data: number }) => void;
     };
 }
 
@@ -199,6 +200,12 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
                 modestbranding: 1,
                 iv_load_policy: 3,
             };
+            // Helps YouTube validate embedded playback context (avoids Error 153
+            // in environments where referer/origin checks are strict).
+            if (window.location.origin.startsWith("http")) {
+                playerVars.origin = window.location.origin;
+                playerVars.widget_referrer = window.location.origin;
+            }
             if (listId) {
                 playerVars.list = listId;
                 playerVars.listType = "playlist";
@@ -277,6 +284,9 @@ export const YouTubeEmbed = forwardRef<YouTubeEmbedHandle, YouTubeEmbedProps>(fu
                                 cbRef.current.onEnded?.();
                             }
                         }
+                    },
+                    onError: () => {
+                        // Keep silent here; caller has native-audio fallback paths.
                     },
                 },
             });

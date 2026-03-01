@@ -1,11 +1,11 @@
 //! Project manager for creating, loading, and saving projects
 
 use super::{AssetLibrary, Composition, Project, ProjectSettings};
+use crate::wid::next_wid;
 use crate::{Error, Result};
 use chrono::Utc;
 use std::fs;
 use std::path::Path;
-use uuid::Uuid;
 
 /// Project manager for handling project lifecycle
 pub struct ProjectManager;
@@ -16,7 +16,7 @@ impl ProjectManager {
         let now = Utc::now();
 
         let project = Project {
-            id: Uuid::new_v4(),
+            id: next_wid(),
             name,
             version: "1.0.0".to_string(),
             created_at: now,

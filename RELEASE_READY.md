@@ -55,6 +55,14 @@ For Mac App Store candidate workflow (`.github/workflows/release-mas.yml`), set:
 - `APPLE_MAS_CERTIFICATE_PASSWORD`
 - `APPLE_MAS_SIGNING_IDENTITY`
 
+Use the exact certificate label for MAS identity, typically:
+
+- `3rd Party Mac Developer Application: Your Name (TEAMID)`
+
+Use the exact certificate label for notarized direct macOS release identity:
+
+- `Developer ID Application: Your Name (TEAMID)`
+
 Optional Windows signing secrets:
 
 - `WINDOWS_CERTIFICATE`
@@ -150,5 +158,5 @@ Track status per release:
 - Winget: `TODO`
 - Flathub: `TODO`
 - Snap: `TODO`
-- APT repo (if used): `TODO`
+- APT/DNF/AUR repo (if used): `TODO`
 - Windows Store/MSIX (optional): `TODO`
