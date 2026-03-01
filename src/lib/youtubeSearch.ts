@@ -4,7 +4,9 @@
  * Strategy order:
  *  1) Tauri backend (yt-dlp)                    → desktop / laptop
  *  2) Configured backend URL or same-origin API → hosted non-static
- *  3) Direct public APIs (Invidious/Piped)      → static-only best effort
+ *  3) YouTube Data API (user/env key)           → all runtimes
+ *  4) No-key public API + Invidious + Piped     → static-only best effort
+ *  5) Local cached results                       → offline / blocked fallback
  *
  * Returns [] on total failure (never throws).
  */
@@ -23,12 +25,9 @@ export interface YouTubeSearchResult {
 interface InvidiousThumbnail {
     quality?: string;
     url?: string;
-    width?: number;
-    height?: number;
 }
 
 interface InvidiousVideo {
-    type?: string;
     videoId?: string;
     title?: string;
     author?: string;
@@ -63,6 +62,19 @@ interface YouTubeDataVideosItem {
     contentDetails?: { duration?: string };
 }
 
+interface NoKeySearchItem {
+    id?: { videoId?: string } | string;
+    snippet?: {
+        title?: string;
+        channelTitle?: string;
+        thumbnails?: {
+            medium?: { url?: string };
+            high?: { url?: string };
+            default?: { url?: string };
+        };
+    };
+}
+
 const SEARCH_LIMIT = 12;
 const INVIDIOUS_INSTANCES = [
     "https://inv.nadeko.net",
@@ -77,10 +89,14 @@ const PIPED_SEARCH_INSTANCES = [
     "https://api.piped.projectsegfault.net",
     "https://watchapi.whatever.social",
 ];
+const NO_KEY_SEARCH_BASES = ["https://yt.lemnoslife.com/noKey"];
 
 const TIMEOUT_MS = 6_000;
 const LOCAL_BACKEND_PATH = "/api/youtube/search";
 const YT_DATA_API_BASE = "https://www.googleapis.com/youtube/v3";
+const SEARCH_CACHE_PREFIX = "waldiez:yt-search-cache:v1:";
+const SEARCH_CACHE_TTL_MS = 1000 * 60 * 60 * 24 * 7; // 7 days
+
 let lastYouTubeSearchError = "";
 
 export function getLastYouTubeSearchError(): string {
@@ -89,10 +105,8 @@ export function getLastYouTubeSearchError(): string {
 
 function bestThumbnail(thumbs: InvidiousThumbnail[] | undefined): string {
     if (!thumbs?.length) return "";
-    // Prefer "high" quality, fall back to first available
     const high = thumbs.find(t => t.quality === "high" || t.quality === "medium");
-    const chosen = high ?? thumbs[0];
-    return chosen?.url ?? "";
+    return high?.url ?? thumbs[0]?.url ?? "";
 }
 
 function normalizeThumbnail(url: string): string {
@@ -102,18 +116,15 @@ function normalizeThumbnail(url: string): string {
 }
 
 function mapInvidiousVideos(data: InvidiousVideo[]): YouTubeSearchResult[] {
-    const results: YouTubeSearchResult[] = [];
-    for (const item of data) {
-        if (!item.videoId) continue;
-        results.push({
-            videoId: item.videoId,
+    return data
+        .filter(item => !!item.videoId)
+        .map(item => ({
+            videoId: item.videoId as string,
             title: item.title ?? "Unknown",
             channelName: item.author ?? "",
             thumbnail: normalizeThumbnail(bestThumbnail(item.videoThumbnails)),
             duration: item.lengthSeconds ?? 0,
-        });
-    }
-    return results;
+        }));
 }
 
 function toVideoId(v: PipedSearchVideo): string {
@@ -124,11 +135,11 @@ function toVideoId(v: PipedSearchVideo): string {
 }
 
 function mapPipedVideos(data: PipedSearchVideo[]): YouTubeSearchResult[] {
-    const results: YouTubeSearchResult[] = [];
+    const out: YouTubeSearchResult[] = [];
     for (const item of data) {
         const videoId = toVideoId(item);
         if (!videoId) continue;
-        results.push({
+        out.push({
             videoId,
             title: item.title ?? "Unknown",
             channelName: item.uploaderName ?? "",
@@ -136,16 +147,55 @@ function mapPipedVideos(data: PipedSearchVideo[]): YouTubeSearchResult[] {
             duration: item.duration ?? 0,
         });
     }
-    return results;
+    return out;
+}
+
+function cacheKey(query: string): string {
+    return `${SEARCH_CACHE_PREFIX}${query.trim().toLowerCase()}`;
+}
+
+function readCachedResults(query: string): YouTubeSearchResult[] {
+    if (typeof window === "undefined") return [];
+    try {
+        const raw = localStorage.getItem(cacheKey(query));
+        if (!raw) return [];
+        const parsed = JSON.parse(raw) as { ts?: number; results?: YouTubeSearchResult[] };
+        if (!parsed?.ts || !Array.isArray(parsed.results)) return [];
+        if (Date.now() - parsed.ts > SEARCH_CACHE_TTL_MS) return [];
+        return parsed.results.filter(r => !!r.videoId);
+    } catch {
+        return [];
+    }
+}
+
+function writeCachedResults(query: string, results: YouTubeSearchResult[]): void {
+    if (typeof window === "undefined" || results.length === 0) return;
+    try {
+        localStorage.setItem(cacheKey(query), JSON.stringify({ ts: Date.now(), results }));
+    } catch {
+        // localStorage unavailable — ignore
+    }
+}
+
+function withCache(query: string, results: YouTubeSearchResult[]): YouTubeSearchResult[] {
+    if (results.length > 0) {
+        writeCachedResults(query, results);
+        return results;
+    }
+    const cached = readCachedResults(query);
+    if (cached.length > 0) {
+        const suffix = "Showing cached results from a previous successful search.";
+        lastYouTubeSearchError = lastYouTubeSearchError ? `${lastYouTubeSearchError} ${suffix}` : suffix;
+        return cached;
+    }
+    return [];
 }
 
 async function fetchJson(url: string): Promise<unknown | null> {
     let timeoutId: ReturnType<typeof setTimeout> | null = null;
     try {
         const controller = typeof AbortController !== "undefined" ? new AbortController() : null;
-        if (controller) {
-            timeoutId = setTimeout(() => controller.abort(), TIMEOUT_MS);
-        }
+        if (controller) timeoutId = setTimeout(() => controller.abort(), TIMEOUT_MS);
         const res = await fetch(url, { signal: controller?.signal });
         if (!res.ok) return null;
         return (await res.json()) as unknown;
@@ -160,10 +210,7 @@ function parseIso8601Duration(input: string | undefined): number {
     if (!input) return 0;
     const m = input.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
     if (!m) return 0;
-    const h = Number(m[1] ?? 0);
-    const min = Number(m[2] ?? 0);
-    const s = Number(m[3] ?? 0);
-    return h * 3600 + min * 60 + s;
+    return Number(m[1] ?? 0) * 3600 + Number(m[2] ?? 0) * 60 + Number(m[3] ?? 0);
 }
 
 function getYouTubeApiKey(): string {
@@ -193,7 +240,7 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
     const key = getYouTubeApiKey();
     if (!key) {
         lastYouTubeSearchError =
-            "YouTube API key missing. Pass YT_API_KEY (Flutter) or VITE_YOUTUBE_API_KEY (web).";
+            "YouTube API key missing. Add one in Settings, pass YT_API_KEY (Flutter), or set VITE_YOUTUBE_API_KEY.";
         return [];
     }
 
@@ -216,15 +263,16 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
         lastYouTubeSearchError = `YouTube API rejected request (${searchRes.status})${details ? `: ${details}` : ""}`;
         return [];
     }
-    const searchJson = (await searchRes.json()) as unknown;
-    const items = (searchJson as { items?: YouTubeDataSearchItem[] } | null)?.items;
+
+    const searchJson = (await searchRes.json()) as { items?: YouTubeDataSearchItem[] };
+    const items = searchJson.items;
     if (!Array.isArray(items) || items.length === 0) {
         lastYouTubeSearchError = "YouTube API returned no items.";
         return [];
     }
 
     const ids = items.map(item => item.id?.videoId ?? "").filter(Boolean);
-    let durations = new Map<string, number>();
+    const durations = new Map<string, number>();
     if (ids.length > 0) {
         const detailsUrl =
             `${YT_DATA_API_BASE}/videos?part=contentDetails&id=${encodeURIComponent(ids.join(","))}` +
@@ -232,11 +280,10 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
         const detailsJson = await fetchJson(detailsUrl);
         const detailItems = (detailsJson as { items?: YouTubeDataVideosItem[] } | null)?.items;
         if (Array.isArray(detailItems)) {
-            durations = new Map(
-                detailItems
-                    .filter(item => !!item.id)
-                    .map(item => [item.id as string, parseIso8601Duration(item.contentDetails?.duration)]),
-            );
+            for (const item of detailItems) {
+                if (!item.id) continue;
+                durations.set(item.id, parseIso8601Duration(item.contentDetails?.duration));
+            }
         }
     }
 
@@ -244,20 +291,45 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
     for (const item of items) {
         const videoId = item.id?.videoId ?? "";
         if (!videoId) continue;
-        const thumbs = item.snippet?.thumbnails;
-        const thumbnail = normalizeThumbnail(
-            thumbs?.high?.url ?? thumbs?.medium?.url ?? thumbs?.default?.url ?? "",
-        );
+        const t = item.snippet?.thumbnails;
         results.push({
             videoId,
             title: item.snippet?.title ?? "Unknown",
             channelName: item.snippet?.channelTitle ?? "",
-            thumbnail,
+            thumbnail: normalizeThumbnail(t?.high?.url ?? t?.medium?.url ?? t?.default?.url ?? ""),
             duration: durations.get(videoId) ?? 0,
         });
     }
-    lastYouTubeSearchError = "";
+    if (results.length > 0) lastYouTubeSearchError = "";
     return results;
+}
+
+async function searchViaNoKeyApi(query: string): Promise<YouTubeSearchResult[]> {
+    for (const base of NO_KEY_SEARCH_BASES) {
+        const url =
+            `${base}/search?part=snippet&type=video&maxResults=${SEARCH_LIMIT}` +
+            `&q=${encodeURIComponent(query)}`;
+        const json = await fetchJson(url);
+        const items = (json as { items?: NoKeySearchItem[] } | null)?.items;
+        if (!Array.isArray(items) || items.length === 0) continue;
+
+        const results: YouTubeSearchResult[] = [];
+        for (const item of items) {
+            const idObj = item.id;
+            const videoId = typeof idObj === "string" ? idObj : (idObj?.videoId ?? "");
+            if (!videoId) continue;
+            const t = item.snippet?.thumbnails;
+            results.push({
+                videoId,
+                title: item.snippet?.title ?? "Unknown",
+                channelName: item.snippet?.channelTitle ?? "",
+                thumbnail: normalizeThumbnail(t?.high?.url ?? t?.medium?.url ?? t?.default?.url ?? ""),
+                duration: 0,
+            });
+        }
+        if (results.length > 0) return results;
+    }
+    return [];
 }
 
 async function searchViaTauriBackend(query: string): Promise<YouTubeSearchResult[]> {
@@ -302,10 +374,8 @@ async function searchViaHttpBackend(query: string): Promise<YouTubeSearchResult[
     for (const url of backendUrls(query)) {
         const json = await fetchJson(url);
         if (!Array.isArray(json)) continue;
-
         const maybeInvidious = mapInvidiousVideos(json as InvidiousVideo[]);
         if (maybeInvidious.length > 0) return maybeInvidious;
-
         const maybePiped = mapPipedVideos(json as PipedSearchVideo[]);
         if (maybePiped.length > 0) return maybePiped;
     }
@@ -351,38 +421,56 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
     const packagedDesktop = runtime.isPackagedDesktop;
 
     if (packagedDesktop) {
-        // Packaged desktop: web-first strategy, backend optional.
-        const ytDataResults = await searchViaYouTubeDataApi(q);
-        if (ytDataResults.length > 0) return ytDataResults;
+        const ytData = await searchViaYouTubeDataApi(q);
+        if (ytData.length > 0) return withCache(q, ytData);
 
-        const backendResults = await searchViaHttpBackend(q);
-        if (backendResults.length > 0) return backendResults;
+        const backend = await searchViaHttpBackend(q);
+        if (backend.length > 0) return withCache(q, backend);
 
-        const invidiousResults = await searchDirectInvidious(q);
-        if (invidiousResults.length > 0) return invidiousResults;
+        const noKey = await searchViaNoKeyApi(q);
+        if (noKey.length > 0) return withCache(q, noKey);
 
-        const pipedResults = await searchDirectPiped(q);
-        if (pipedResults.length > 0) return pipedResults;
+        const invidious = await searchDirectInvidious(q);
+        if (invidious.length > 0) return withCache(q, invidious);
 
-        const tauriResults = await searchViaTauriBackend(q);
-        if (tauriResults.length > 0) return tauriResults;
+        const piped = await searchDirectPiped(q);
+        if (piped.length > 0) return withCache(q, piped);
+
+        const tauri = await searchViaTauriBackend(q);
+        if (tauri.length > 0) return withCache(q, tauri);
+
+        const cached = withCache(q, []);
+        if (cached.length > 0) return cached;
+        if (!lastYouTubeSearchError) {
+            lastYouTubeSearchError =
+                "Search unavailable. Add your API key in Settings, configure backend search, or paste a YouTube URL.";
+        }
         return [];
     }
 
-    const tauriResults = await searchViaTauriBackend(q);
-    if (tauriResults.length > 0) return tauriResults;
+    const tauri = await searchViaTauriBackend(q);
+    if (tauri.length > 0) return withCache(q, tauri);
 
-    const ytDataResults = await searchViaYouTubeDataApi(q);
-    if (ytDataResults.length > 0) return ytDataResults;
+    const ytData = await searchViaYouTubeDataApi(q);
+    if (ytData.length > 0) return withCache(q, ytData);
 
-    const backendResults = await searchViaHttpBackend(q);
-    if (backendResults.length > 0) return backendResults;
+    const backend = await searchViaHttpBackend(q);
+    if (backend.length > 0) return withCache(q, backend);
 
-    const invidiousResults = await searchDirectInvidious(q);
-    if (invidiousResults.length > 0) return invidiousResults;
+    const noKey = await searchViaNoKeyApi(q);
+    if (noKey.length > 0) return withCache(q, noKey);
 
-    const pipedResults = await searchDirectPiped(q);
-    if (pipedResults.length > 0) return pipedResults;
+    const invidious = await searchDirectInvidious(q);
+    if (invidious.length > 0) return withCache(q, invidious);
 
+    const piped = await searchDirectPiped(q);
+    if (piped.length > 0) return withCache(q, piped);
+
+    const cached = withCache(q, []);
+    if (cached.length > 0) return cached;
+    if (!lastYouTubeSearchError) {
+        lastYouTubeSearchError =
+            "Search unavailable. Add your API key in Settings, configure backend search, or paste a YouTube URL.";
+    }
     return [];
 }
