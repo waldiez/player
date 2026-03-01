@@ -1,14 +1,12 @@
 /**
  * moodDefaults — wideria-prefs persistence helpers.
  *
- * Mirrors the storage format used by kideria/web/player.js so that playlists
- * saved in the kideria player are shared with this React player.
- *
  * Storage key:  "wideria-prefs"
  * Schema v2:    { v:2, mode, volume, muted, loop, shuffle, eq, fx,
  *                 modes: { [mode]: { ytTracks, savedTrackId } },
  *                 modeDefaults: { [mode]: [...ytTracks] } }
  */
+/** cspell: disable */
 import type { MediaFile } from "@/types";
 import { MOOD_META, MOOD_MODES } from "@/types/mood";
 import type { AudioChainConfig, MoodMode } from "@/types/mood";
@@ -86,10 +84,7 @@ const HARDCODED_DEFAULTS: Record<MoodMode, { videoId: string; name: string }[]> 
         { videoId: "nfWlot6h_JM", name: "YouTube · nfWlot6h_JM" },
         { videoId: "RgKAFK5djSk", name: "YouTube · RgKAFK5djSk" },
     ],
-    disco: [
-        { videoId: "k7_0WorMSNE", name: "YouTube · k7_0WorMSNE" },
-        { videoId: "TLV4_xaYynY", name: "YouTube · TLV4_xaYynY" },
-    ],
+    disco: [{ videoId: "Tth-8wA3PdY", name: "YouTube · Tth-8wA3PdY" }],
 };
 
 // ── Internal types (kideria wire format) ──────────────────────────────────
