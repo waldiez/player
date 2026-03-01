@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260301T092216.470Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260301T101739.814Z-l4t35t"
   type: "state"
-  created: "2026-03-01T09:22:16.470Z"
+  created: "2026-03-01T10:17:39.814Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T092216.470Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T101739.814Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "HkpC8-RvpbA"
-        name: "🔴LIVE : Iran | Trump | Khamenei |Iran supreme leader dead 2026 |குடும்பத்துடன் கொல்லப்பட்டார் காமேனி"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qPgRhNvcvvs"
-        name: "🔴LIVE:  Iran Attack |  America | World War |  அமெரிக்க தூதரகம் துவம்சம் - ஈரானின் வெறியாட்டம்.."
+        videoId: "wlFJkLY-WHE"
+        name: "🔴LIVE:  Iran Attack Attack |  World War Tension | அடுத்த தாக்குதல்.. பதற்றம்.. திக்.. திக்.."
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6Gw9YD4fk_M"
-        name: "🔴LIVE: Iran’s Supreme Leader Ayatollah Khamenei Martyred in US Attack | BIG News | Israel-Iran War"
-        artist: "SAMAA TV"
+        videoId: "5ZI0XQ0ig4c"
+        name: "Aaj Ki 100 Khabar: Headlines Today | Bulletin | Top News | Hindi News Today | Breaking | 1 March"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1gCxe-LTEzc"
+        name: "Iran News LIVE: US President Donald Trump's Real Reason To Attack Iran Revealed | Iran News | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aVxHL9skj28"
+        name: "News Trends HD LIVE | ഖമനെയി മരിച്ചു!, പക്ഷേ, അമേരിക്ക ജയിച്ചോ? | Ali Khamenei Dead | Israel | N18G"
+        artist: "News18 Kerala"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aiXRC9yOj0w"
+        name: "LIVE: Telugu Man Live Video Call From Israel | Israel VS Iran War Updates | SumanTV Vijay"
+        artist: "SumanTV Vijayawada"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MhsdkWaYpA4"
+        name: "US-Israel Bomb Iran LIVE: Massive Explosions In Tehran, Ali Khamenei Confirmed Killed | WION Live"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nY3nxYYvCNM"
+        name: "🔴LIVE : israel attack iran | American | Trump | Khamenei dead |\"காமேனியை கொன்றவர்களை பழி வாங்குவோம்\""
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JJCfbRRHNQI"
+        name: "🔴LIVE : israel attack iran | Khamenei dead |ஈரானின் அடுத்த மூவ் என்ன?  குலை நடுக்கத்தில் உலக நாடுகள்"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-01T09:22:16.470Z"
+  exported_at: "2026-03-01T10:17:39.814Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-01T09:22:16.430Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-01T10:17:39.775Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
