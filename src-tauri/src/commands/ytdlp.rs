@@ -155,8 +155,8 @@ pub async fn yt_search_videos(query: String, limit: Option<u32>) -> Result<Vec<Y
         return Err(Error::Internal(format!("yt-dlp: {stderr}")));
     }
 
-    let value: serde_json::Value =
-        serde_json::from_slice(&output.stdout).map_err(|e| Error::Internal(format!("yt-dlp JSON: {e}")))?;
+    let value: serde_json::Value = serde_json::from_slice(&output.stdout)
+        .map_err(|e| Error::Internal(format!("yt-dlp JSON: {e}")))?;
 
     let mut out = Vec::new();
     for entry in value
