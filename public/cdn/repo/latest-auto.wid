@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260301T013635.852Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260301T064354.097Z-l4t35t"
   type: "state"
-  created: "2026-03-01T01:36:35.852Z"
+  created: "2026-03-01T06:43:54.097Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T013635.852Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T064354.097Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -50,63 +50,66 @@ state:
     vinyl: false
   modes: {}
   modeDefaults:
-    journey:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-Dr9nYdCG0M"
-        name: "Dangal LIVE: World War का बिगुल बज गया है? | Israel Attack Iran | US-Iran | Anjana Om Kashyap"
-        artist: "Aaj Tak"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0sr6EuD6cew"
-        name: "Iran Attack LIVE | Israel-US Strike Iran, Tehran Retaliates, Missiles Hit U.S. Bases | UAE | N18G"
-        artist: "CNN-News18"
-        chapter: null
     dock:
       - type: "youtube"
         ytType: "video"
-        videoId: "2eWEshGd3gI"
-        name: "🔴Iran-Israel War News LIVE | World War 2 Alert! | இஸ்ரேல்-ஈரான் போரின் நிலவரம் | World News | N18G"
-        artist: "News18 Tamil Nadu"
+        videoId: "bosjghoKD9A"
+        name: "World News Live : ईरान के पलटवार से, कतर धुआँ धुआँ ! Iran | Qatar | Dubai | Tehran | Usa | Israel |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "govyp220aUs"
-        name: "LIVE! Israel Attack On Iran | Arab Countries With US | Donald Trump big Announcement | Dunya News"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2N5WSv77sEY"
-        name: "🔴LIVE : israel attack iran | Netanyahu |ஈரானை அரசையே கைப்பற்ற துணிந்த அமெரிக்கா"
+        videoId: "X0X9L7CAjss"
+        name: "🔴LIVE : israel attack iran | Trump | Khamenei dead | அதிரும் காமேனி கொலை - காஷ்மீரில் பரபரப்பு"
         artist: "Thanthi TV"
         chapter: null
-    storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "MFkMJMmw-o4"
-        name: "US Iran Israel War LIVE | Iran's Retaliatory Strikes Devastate Dubai’s Iconic Palm Jumeirah | N18G"
-        artist: "CNN-News18"
+        videoId: "coZbqXpB44U"
+        name: "🔴LIVE:Israel iran |trump |Khamenei dead |வெளியே வரும் காமேனியின் `வாரிசு’ ஈரானின் புதிய உச்ச தலைவர்?"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LoyQfHdVIyE"
-        name: "LongForm Story LIVE: Middle East Plunges Into A Global War | US-Israel vs Iran | Qatar | UAE"
-        artist: "Republic World"
-        chapter: null
-    fest:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BKsb7vfWryA"
-        name: "🔴LIVE : Iran Israel War | திருப்பி தாக்கும் ஈரான்.. கைமீறும் நிலைமை.. அதிர்ச்சி காட்சிகள்"
+        videoId: "17XyOoxfXFk"
+        name: "🔴LIVE : IranVsIsrael | இஸ்ரேல் VS ஈரான் போர்.. கமேனி கொ*ல.. அடுத்து நடக்கப்போவது என்ன?"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8lat7KKHBmM"
-        name: "BREAKING: Iran’s Ayatollah Ali Khamenei killed in an Israeli airstrike"
-        artist: "Fox News"
+        videoId: "mGjp_Y0Zq3s"
+        name: "LIVE: All-Out War In West Asia After Israel And the US Bomb Iran | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Z-Z9oqeO9nc"
+        name: "🔴LIVE : Iran | Trump | Khamenei | Khamenei dead | ஈரான் உச்ச தலைவர் காமேனி கொல்லப்பட்டார் - டிரம்ப்"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Nc48DKYep_0"
+        name: "Dubai Airport Damaged, Burj Al Arab Fire After Iran Attack | Firstpost Live | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8F-9gd3vY_4"
+        name: "Khamenei News LIVE | Where Is Khamenei ? US-Israel Attacks Iran | Full Coverage | Dubai"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NmrtiN-55L8"
+        name: "LIVE 🔴 Iran US Israel WAR! Israel Again Major Strikes on Tehran | Late Night Updates | Dunya News"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JlAk6Y5J21k"
+        name: "Iran ATTACK On US Navy LIVE — Trump’s Fleet Makes Unexpected Strategic Move | Middle East Tensions"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     journey:
@@ -132,7 +135,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-01T01:36:35.852Z"
+  exported_at: "2026-03-01T06:43:54.097Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-01T01:36:35.812Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-01T06:43:54.057Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

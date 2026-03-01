@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T01:36:35.812Z",
+    "generatedAt": "2026-03-01T06:43:54.057Z",
     "mode": "dock",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -49,57 +49,63 @@
     "tracks": [
         {
             "mood": "dock",
-            "videoId": "2eWEshGd3gI",
-            "name": "🔴Iran-Israel War News LIVE | World War 2 Alert! | இஸ்ரேல்-ஈரான் போரின் நிலவரம் | World News | N18G",
-            "artist": "News18 Tamil Nadu"
+            "videoId": "bosjghoKD9A",
+            "name": "World News Live : ईरान के पलटवार से, कतर धुआँ धुआँ ! Iran | Qatar | Dubai | Tehran | Usa | Israel |",
+            "artist": "Times Now Navbharat"
         },
         {
-            "mood": "journey",
-            "videoId": "-Dr9nYdCG0M",
-            "name": "Dangal LIVE: World War का बिगुल बज गया है? | Israel Attack Iran | US-Iran | Anjana Om Kashyap",
-            "artist": "Aaj Tak"
+            "mood": "dock",
+            "videoId": "X0X9L7CAjss",
+            "name": "🔴LIVE : israel attack iran | Trump | Khamenei dead | அதிரும் காமேனி கொலை - காஷ்மீரில் பரபரப்பு",
+            "artist": "Thanthi TV"
         },
         {
-            "mood": "storm",
-            "videoId": "MFkMJMmw-o4",
-            "name": "US Iran Israel War LIVE | Iran's Retaliatory Strikes Devastate Dubai’s Iconic Palm Jumeirah | N18G",
-            "artist": "CNN-News18"
+            "mood": "dock",
+            "videoId": "coZbqXpB44U",
+            "name": "🔴LIVE:Israel iran |trump |Khamenei dead |வெளியே வரும் காமேனியின் `வாரிசு’ ஈரானின் புதிய உச்ச தலைவர்?",
+            "artist": "Thanthi TV"
         },
         {
-            "mood": "fest",
-            "videoId": "BKsb7vfWryA",
-            "name": "🔴LIVE : Iran Israel War | திருப்பி தாக்கும் ஈரான்.. கைமீறும் நிலைமை.. அதிர்ச்சி காட்சிகள்",
+            "mood": "dock",
+            "videoId": "17XyOoxfXFk",
+            "name": "🔴LIVE : IranVsIsrael | இஸ்ரேல் VS ஈரான் போர்.. கமேனி கொ*ல.. அடுத்து நடக்கப்போவது என்ன?",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "dock",
-            "videoId": "govyp220aUs",
-            "name": "LIVE! Israel Attack On Iran | Arab Countries With US | Donald Trump big Announcement | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "journey",
-            "videoId": "0sr6EuD6cew",
-            "name": "Iran Attack LIVE | Israel-US Strike Iran, Tehran Retaliates, Missiles Hit U.S. Bases | UAE | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LoyQfHdVIyE",
-            "name": "LongForm Story LIVE: Middle East Plunges Into A Global War | US-Israel vs Iran | Qatar | UAE",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "fest",
-            "videoId": "8lat7KKHBmM",
-            "name": "BREAKING: Iran’s Ayatollah Ali Khamenei killed in an Israeli airstrike",
-            "artist": "Fox News"
+            "videoId": "mGjp_Y0Zq3s",
+            "name": "LIVE: All-Out War In West Asia After Israel And the US Bomb Iran | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "dock",
-            "videoId": "2N5WSv77sEY",
-            "name": "🔴LIVE : israel attack iran | Netanyahu |ஈரானை அரசையே கைப்பற்ற துணிந்த அமெரிக்கா",
+            "videoId": "Z-Z9oqeO9nc",
+            "name": "🔴LIVE : Iran | Trump | Khamenei | Khamenei dead | ஈரான் உச்ச தலைவர் காமேனி கொல்லப்பட்டார் - டிரம்ப்",
             "artist": "Thanthi TV"
+        },
+        {
+            "mood": "dock",
+            "videoId": "Nc48DKYep_0",
+            "name": "Dubai Airport Damaged, Burj Al Arab Fire After Iran Attack | Firstpost Live | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "dock",
+            "videoId": "8F-9gd3vY_4",
+            "name": "Khamenei News LIVE | Where Is Khamenei ? US-Israel Attacks Iran | Full Coverage | Dubai",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "dock",
+            "videoId": "NmrtiN-55L8",
+            "name": "LIVE 🔴 Iran US Israel WAR! Israel Again Major Strikes on Tehran | Late Night Updates | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "dock",
+            "videoId": "JlAk6Y5J21k",
+            "name": "Iran ATTACK On US Navy LIVE — Trump’s Fleet Makes Unexpected Strategic Move | Middle East Tensions",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
