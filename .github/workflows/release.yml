@@ -36,6 +36,8 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Build frontend
+        env:
+          VITE_YOUTUBE_SEARCH_BACKEND: ${{ vars.VITE_YOUTUBE_SEARCH_BACKEND }}
         run: bun run build
 
       - name: Rust toolchain

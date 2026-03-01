@@ -37,6 +37,8 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Build for Pages
+        env:
+          VITE_YOUTUBE_SEARCH_BACKEND: ${{ vars.VITE_YOUTUBE_SEARCH_BACKEND }}
         run: bun run build
 
       - name: Upload Pages artifact

@@ -417,6 +417,7 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
 
     const runtime = getRuntimeContext();
     const packagedDesktop = runtime.isPackagedDesktop;
+    const backendConfigured = (import.meta.env.VITE_YOUTUBE_SEARCH_BACKEND ?? "").trim().length > 0;
 
     if (packagedDesktop) {
         const ytData = await searchViaYouTubeDataApi(q);
@@ -424,6 +425,16 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
 
         const backend = await searchViaHttpBackend(q);
         if (backend.length > 0) return withCache(q, backend);
+
+        if (backendConfigured) {
+            const cached = withCache(q, []);
+            if (cached.length > 0) return cached;
+            if (!lastYouTubeSearchError) {
+                lastYouTubeSearchError =
+                    "Search backend is configured but returned no results/unreachable. Check backend health or add an API key.";
+            }
+            return [];
+        }
 
         const noKey = await searchViaNoKeyApi(q);
         if (noKey.length > 0) return withCache(q, noKey);
@@ -454,6 +465,16 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
 
     const backend = await searchViaHttpBackend(q);
     if (backend.length > 0) return withCache(q, backend);
+
+    if (backendConfigured) {
+        const cached = withCache(q, []);
+        if (cached.length > 0) return cached;
+        if (!lastYouTubeSearchError) {
+            lastYouTubeSearchError =
+                "Search backend is configured but returned no results/unreachable. Check backend health or add an API key.";
+        }
+        return [];
+    }
 
     const noKey = await searchViaNoKeyApi(q);
     if (noKey.length > 0) return withCache(q, noKey);

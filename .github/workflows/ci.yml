@@ -81,6 +81,8 @@ jobs:
         run: bun test
 
       - name: Build
+        env:
+          VITE_YOUTUBE_SEARCH_BACKEND: ${{ vars.VITE_YOUTUBE_SEARCH_BACKEND }}
         run: bun run build
 
   flutter:
