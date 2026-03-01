@@ -3,9 +3,15 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 use std::sync::Arc;
+use tauri::{Emitter};
 use tokio::sync::Mutex;
 use waldiez_player_lib::commands;
 use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};
+
+/// Emit a `file-opened` event to all webview windows with the given path.
+fn emit_file_opened(app: &tauri::AppHandle, path: &str) {
+    let _ = app.emit("file-opened", path.to_string());
+}
 
 fn main() {
     // Initialize logger
@@ -13,7 +19,16 @@ fn main() {
 
     log::info!("Starting Waldiez Player...");
 
+    // Collect file paths from CLI arguments (Windows / Linux file-association path).
+    // On macOS, file opens arrive via RunEvent::Opened (handled by the deep-link plugin).
+    // Skip the first arg (executable name) and keep only paths that exist on disk.
+    let file_paths: Vec<String> = std::env::args()
+        .skip(1)
+        .filter(|a| std::path::Path::new(a).exists())
+        .collect();
+
     tauri::Builder::default()
+        .plugin(tauri_plugin_deep_link::init())
         .plugin(tauri_plugin_shell::init())
         .plugin(tauri_plugin_dialog::init())
         .plugin(tauri_plugin_fs::init())
@@ -50,8 +65,49 @@ fn main() {
             commands::mpv::mpv_stop,
             commands::mpv::mpv_quit,
         ])
-        .setup(|_app| {
+        .setup(move |app| {
             log::info!("Waldiez Player initialized successfully");
+
+            // Emit file-opened for CLI file paths after a short delay (webview needs to be ready).
+            // Only relevant on Windows / Linux; macOS uses RunEvent::Opened via the plugin.
+            if !file_paths.is_empty() {
+                let handle = app.handle().clone();
+                tauri::async_runtime::spawn(async move {
+                    tokio::time::sleep(std::time::Duration::from_millis(500)).await;
+                    for path in file_paths {
+                        emit_file_opened(&handle, &path);
+                    }
+                });
+            }
+
+            // Handle deep-link events.  The tauri-plugin-deep-link plugin:
+            //   • On macOS/iOS: intercepts RunEvent::Opened and emits "deep-link://new-url"
+            //   • On Windows/Linux: processes CLI args matching configured schemes
+            // We subscribe via on_open_url and forward to the webview as typed events.
+            {
+                use tauri_plugin_deep_link::DeepLinkExt;
+                let handle = app.handle().clone();
+                app.deep_link().on_open_url(move |event| {
+                    for url in event.urls() {
+                        match url.scheme() {
+                            // File opened via macOS file association (arrives through the plugin)
+                            "file" => {
+                                if let Ok(path) = url.to_file_path() {
+                                    if let Some(s) = path.to_str() {
+                                        emit_file_opened(&handle, s);
+                                    }
+                                }
+                            }
+                            // Custom URI scheme: waldiez://player?w=...  or  waldiez://player?src=...
+                            "waldiez" => {
+                                let _ = handle.emit("deep-link", url.to_string());
+                            }
+                            _ => {}
+                        }
+                    }
+                });
+            }
+
             Ok(())
         })
         .run(tauri::generate_context!())

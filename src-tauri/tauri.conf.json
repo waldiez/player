@@ -71,6 +71,16 @@
                 "ext": ["wdz"],
                 "mimeType": "application/json",
                 "description": "Waldiez Player Project"
+            },
+            {
+                "ext": ["wid"],
+                "mimeType": "application/yaml",
+                "description": "Waldiez Player Preset"
+            },
+            {
+                "ext": ["waldiez"],
+                "mimeType": "application/zip",
+                "description": "Waldiez Player Bundle"
             }
         ]
     },
@@ -80,6 +90,10 @@
         },
         "fs": {
             "requireLiteralLeadingDot": true
+        },
+        "deepLink": {
+            "mobile": [],
+            "desktop": ["waldiez"]
         }
     }
 }

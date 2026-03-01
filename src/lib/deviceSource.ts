@@ -1,16 +1,13 @@
 /** Utilities for device camera / microphone / network stream / screen-capture sources. */
 
+export { isTauri } from "./tauriPlayer";
+
 /**
  * Module-level map for handing off screen-capture streams from the dialog
  * (where the user gesture occurs) to WideriaLayout's lifecycle effect.
  * Keyed by MediaFile.id.
  */
 export const pendingStreams = new Map<string, MediaStream>();
-
-/** Returns true when running inside Tauri (desktop app). */
-export function isTauri(): boolean {
-    return typeof window !== "undefined" && "__TAURI__" in window;
-}
 
 /** Enumerate video input devices (cameras). */
 export async function enumerateVideoDevices(): Promise<MediaDeviceInfo[]> {

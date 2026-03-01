@@ -21,6 +21,7 @@ tauri = { version = "2.9.1", features = ["macos-private-api", "native-tls"] }
 tauri-plugin-shell = "2.3.4"
 tauri-plugin-dialog = "2.6.0"
 tauri-plugin-fs = "2.4.5"
+tauri-plugin-deep-link = "2"
 
 # Async runtime
 tokio = { version = "1.49.0", features = ["full"] }

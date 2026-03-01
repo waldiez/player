@@ -90,7 +90,7 @@ function toBeaconTargetInfo(
 
     // MQTT-over-WebSocket
     if (t.protocol === "mqtts" && (t.url.startsWith("wss://") || t.url.startsWith("ws://"))) {
-        return { url: t.url, protocol: "mqtts", channel: t.channel ?? "waldiez://player" };
+        return { url: t.url, protocol: "mqtts", channel: t.channel ?? "waldiez/player" };
     }
 
     // Plain WebSocket

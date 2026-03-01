@@ -7,9 +7,9 @@
  * to a specific session or all sessions:
  *
  *   publish topic  →  `${channel}/${sessionWid}`
- *                     e.g. waldiez://player/20260227T143052.0000Z-a3f91c
+ *                     e.g. waldiez/player/20260227T143052.0000Z-a3f91c
  *
- *   subscribe all  →  waldiez://player/+
+ *   subscribe all  →  waldiez/player/+
  */
 import mqtt from "mqtt";
 
@@ -69,7 +69,7 @@ function wsTransport(url: string, cbs: BeaconTransportCallbacks): BeaconTranspor
 
 function mqttWsTransport(
     url: string,
-    /** Base topic prefix, e.g. "waldiez://player". */
+    /** Base topic prefix, e.g. "waldiez/player". */
     topicPrefix: string,
     /** Session WID — appended to topicPrefix to form the publish topic. */
     sessionWid: string,
@@ -120,7 +120,7 @@ export interface BeaconTargetInfo {
     url: string;
     /** "ws" | "wss" → plain WebSocket; "mqtts" → MQTT over WebSocket */
     protocol: string;
-    /** Topic prefix for MQTT targets (e.g. "waldiez://player"). */
+    /** Topic prefix for MQTT targets (e.g. "waldiez/player"). */
     channel?: string;
 }
 
@@ -140,7 +140,7 @@ export function openBeaconTransport(
 
     if (protocol === "mqtts") {
         // MQTT over WebSocket — url must be wss:// or ws://
-        const prefix = channel ?? "waldiez://player";
+        const prefix = channel ?? "waldiez/player";
         return mqttWsTransport(url, prefix, sessionWid, cbs);
     }
 

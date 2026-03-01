@@ -167,23 +167,38 @@ execution:
     source_dir: "src-tauri"
   stream:
     preferred_protocol: "wss"
+    channel: "waldiez/player/live"   # canonical routing key (topic/room/stream id)
+
     targets:
-      - id: "default-wss"
-        protocol: "wss"
-        url: "wss://stream.waldiez.io/player/live"
-        role: "primary"
-      - id: "mqtt-fallback"
+      - id: "mqtt-wss"
         protocol: "mqtts"
-        url: "mqtts://mqtt.waldiez.io:8883/waldiez/player/live"
+        url: "wss://mqtt.waldiez.io/mqtt"
+        role: "primary"
+        channel_binding: "topic"
+
+      - id: "mqtt-tls"
+        protocol: "mqtts"
+        url: "mqtts://mqtt.waldiez.io:8883"
         role: "fallback"
+        channel_binding: "topic"
+
+      - id: "wid-relay"
+        protocol: "wss"
+        url: "wss://mqtt.waldiez.io/ws"
+        role: "app-relay"
+        channel_binding: "topic"
+
       - id: "webrtc-relay"
         protocol: "webrtc"
         signaling_url: "wss://stream.waldiez.io/signal"
         role: "low-latency"
+        channel_binding: "room"
+
       - id: "rtsp-relay"
         protocol: "rtsp"
         url: "rtsp://relay.waldiez.io/player/live"
         role: "bridge"
+        channel_binding: "path"
 
 discovery:
   advertise: "wdz://registry/waldiez/player"

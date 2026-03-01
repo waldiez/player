@@ -32,6 +32,7 @@
   - `stream-stop`
 - Added execution profile:
   - `execution.stream.preferred_protocol: "wss"`
+  - `execution.stream.channel` as canonical routing key (`topic`/`room`/path)
   - `execution.stream.targets[]` with protocol options (`wss`, `mqtts`, `webrtc`, `rtsp`)
 
 Example:

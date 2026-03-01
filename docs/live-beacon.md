@@ -23,8 +23,8 @@ The player defaults to the **Eclipse public MQTT test broker** (`mqtt.eclipsepro
 The player publishes to the MQTT topic:
 
 ```
-waldiez://player/{session_wid}
-e.g.  waldiez://player/20260227T143052.0000Z-a3f91c
+waldiez/player/{session_wid}
+e.g.  waldiez/player/20260227T143052.0000Z-a3f91c
 ```
 
 ---
@@ -37,10 +37,10 @@ Subscribe to `waldiez/player/+` to receive all sessions, or use the exact sessio
 
 ```bash
 # mosquitto (apt install mosquitto-clients)
-mosquitto_sub -h mqtt.eclipseprojects.io -p 1883 -t "waldiez://player/+" -v
+mosquitto_sub -h mqtt.eclipseprojects.io -p 1883 -t "waldiez/player/+" -v
 
 # mqtt.js CLI (npm i -g mqtt)
-mqtt sub -h mqtt.eclipseprojects.io -t "waldiez://player/+"
+mqtt sub -h mqtt.eclipseprojects.io -t "waldiez/player/+"
 ```
 
 ### Option B — Browser / Node snippet
@@ -49,7 +49,7 @@ mqtt sub -h mqtt.eclipseprojects.io -t "waldiez://player/+"
 import mqtt from "mqtt";
 
 const client = mqtt.connect("wss://test.mosquitto.org:8081");
-client.on("connect", () => client.subscribe("waldiez://player/+"));
+client.on("connect", () => client.subscribe("waldiez/player/+"));
 client.on("message", (topic, msg) => {
   const state = JSON.parse(msg.toString());
   console.log(`${state.playing ? "▶" : "⏸"}  ${state.name}  t=${state.t}s`);
@@ -59,7 +59,7 @@ client.on("message", (topic, msg) => {
 ### Option C — MQTT Explorer (GUI)
 
 [MQTT Explorer](https://mqtt-explorer.com) is a cross-platform desktop app.
-Connect to `test.mosquitto.org:1883` (no auth) and subscribe to `waldiez://player/#`.
+Connect to `test.mosquitto.org:1883` (no auth) and subscribe to `waldiez/player/#`.
 
 ---
 
@@ -100,10 +100,10 @@ Add the public URL in Settings → Add Custom Endpoint (protocol: WSS), select i
 
 For team/production use, switch to the Waldiez broker:
 
-1. Settings → select **Waldiez MQTT** (`wss://mqtt.waldiez.io/ws`).
+1. Settings → select **Waldiez MQTT** (`wss://mqtt.waldiez.io/mqtt`).
 2. Topic pattern remains `waldiez/player/+`.
 
-Listeners connect to `wss://mqtt.waldiez.io/ws` with an MQTT client.
+Listeners connect to `wss://mqtt.waldiez.io/mqtt` with an MQTT client.
 
 ---
 
