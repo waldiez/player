@@ -48,7 +48,7 @@ mqtt sub -h mqtt.eclipseprojects.io -t "waldiez://player/+"
 ```js
 import mqtt from "mqtt";
 
-const client = mqtt.connect("wss://mqtt.eclipseprojects.io:443/mqtt");
+const client = mqtt.connect("wss://test.mosquitto.org:8081");
 client.on("connect", () => client.subscribe("waldiez://player/+"));
 client.on("message", (topic, msg) => {
   const state = JSON.parse(msg.toString());
@@ -59,7 +59,7 @@ client.on("message", (topic, msg) => {
 ### Option C — MQTT Explorer (GUI)
 
 [MQTT Explorer](https://mqtt-explorer.com) is a cross-platform desktop app.
-Connect to `mqtt.eclipseprojects.io:1883` (no auth) and subscribe to `waldiez://player/#`.
+Connect to `test.mosquitto.org:1883` (no auth) and subscribe to `waldiez://player/#`.
 
 ---
 

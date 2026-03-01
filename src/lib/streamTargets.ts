@@ -16,7 +16,7 @@ export const STREAM_TARGETS: StreamTargetProfile[] = [
         id: "eclipse-mqtt-ws",
         name: "Eclipse Test Broker",
         protocol: "mqtts",
-        url: "wss://mqtt.eclipseprojects.io:443/mqtt",
+        url: "wss:/test.mosquitto.org",
         channel: "waldiez://player",
         role: "primary",
     },

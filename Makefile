@@ -49,7 +49,14 @@ tauri-fmt: ## Check Rust formatting in src-tauri
 	cd src-tauri && cargo fmt --all -- --check
 
 tauri-check: ## Check Rust backend in src-tauri
-	cd src-tauri && cargo check --locked
+	@if [ "$(FORCE_TAURI_CHECK)" = "1" ]; then \
+		cd src-tauri && cargo check --locked; \
+	elif command -v pkg-config >/dev/null 2>&1 && pkg-config --exists glib-2.0 gobject-2.0; then \
+		cd src-tauri && cargo check --locked; \
+	else \
+		echo "Skipping tauri-check: missing system deps for GTK/GLib (glib-2.0, gobject-2.0)."; \
+		echo "Install native packages (e.g. libglib2.0-dev libgtk-3-dev) or run 'make tauri-check FORCE_TAURI_CHECK=1' in a provisioned environment."; \
+	fi
 
 check: manifest-check manifest-compat lint test build tauri-fmt tauri-check ## Run all local checks
 
