@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260301T082151.547Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260301T092216.470Z-l4t35t"
   type: "state"
-  created: "2026-03-01T08:21:51.547Z"
+  created: "2026-03-01T09:22:16.470Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T082151.547Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260301T092216.470Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "nY3nxYYvCNM"
-        name: "🔴LIVE : israel attack iran | American | Trump | Khamenei dead |\"காமேனியை கொன்றவர்களை பழி வாங்குவோம்\""
+        videoId: "HkpC8-RvpbA"
+        name: "🔴LIVE : Iran | Trump | Khamenei |Iran supreme leader dead 2026 |குடும்பத்துடன் கொல்லப்பட்டார் காமேனி"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JJCfbRRHNQI"
-        name: "🔴LIVE : israel attack iran | Khamenei dead |ஈரானின் அடுத்த மூவ் என்ன?  குலை நடுக்கத்தில் உலக நாடுகள்"
-        artist: "Thanthi TV"
+        videoId: "qPgRhNvcvvs"
+        name: "🔴LIVE:  Iran Attack |  America | World War |  அமெரிக்க தூதரகம் துவம்சம் - ஈரானின் வெறியாட்டம்.."
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DnfUKXn47Vg"
-        name: "🔴 LIVE: Iran’s State Media Confirms Ayatollah Ali Khamenei’s Martyrdom | Breaking World News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oF3apLz-BbQ"
-        name: "Middle East LIVE: Massive Explosions Reported In Dubai, Bahrain, Qatar And Abu Dhabi| Iran | N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bosjghoKD9A"
-        name: "World News Live : ईरान के पलटवार से, कतर धुआँ धुआँ ! Iran | Qatar | Dubai | Tehran | Usa | Israel |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "coZbqXpB44U"
-        name: "🔴LIVE:Israel iran |trump |Khamenei dead |வெளியே வரும் காமேனியின் `வாரிசு’ ஈரானின் புதிய உச்ச தலைவர்?"
-        artist: "Thanthi TV"
+        videoId: "6Gw9YD4fk_M"
+        name: "🔴LIVE: Iran’s Supreme Leader Ayatollah Khamenei Martyred in US Attack | BIG News | Israel-Iran War"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-01T08:21:51.547Z"
+  exported_at: "2026-03-01T09:22:16.470Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-01T08:21:51.506Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-01T09:22:16.430Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
