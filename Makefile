@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt
+.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key
 
 help: ## Show available commands
 	@awk 'BEGIN {FS = ":.*## "}; /^[a-zA-Z0-9_.-]+:.*## / {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
@@ -25,6 +25,71 @@ test: ## Run test suite
 
 build: ## Build web application
 	bun run build
+
+tauri-app: ## Build signed/notarized macOS .app bundle (no DMG)
+	bun run build:tauri
+
+tauri-dmg: ## Build signed/notarized macOS .app and package DMG
+	bun run build:tauri:dmg
+
+tauri-mas: ## Build Mac App Store candidate (.app only, MAS config)
+	bun run build:tauri:mas
+
+flutter-run: ## Run Flutter desktop spike from ./flutter
+	cd flutter && flutter run -d macos
+
+flutter-build-macos: ## Build Flutter macOS app from ./flutter
+	cd flutter && flutter build macos
+
+flutter-icons: ## Generate Flutter desktop launcher icons from src-tauri/icons/icon.png
+	cd flutter && flutter pub get && dart run flutter_launcher_icons
+
+flutter-run-key: ## Run Flutter macOS with YT_API_KEY from env (YT_API_KEY=... make flutter-run-key)
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-run-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter run -d macos --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-build-macos-key: ## Build Flutter macOS with YT_API_KEY from env (YT_API_KEY=... make flutter-build-macos-key)
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-build-macos-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter build macos --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-run-local: ## Run Flutter against local web app URL (default http://localhost:5173)
+	cd flutter && flutter run -d macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
+
+flutter-run-local-key: ## Run Flutter against local web app URL + YT key
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-run-local-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter run -d macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-run-release: ## Run Flutter macOS in release mode (avoids debug key-event assertions)
+	cd flutter && flutter run -d macos --release
+
+flutter-run-release-local: ## Run Flutter macOS release mode against local web app URL
+	cd flutter && flutter run -d macos --release --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
+
+flutter-run-release-local-key: ## Run Flutter macOS release mode against local web app URL + YT key
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-run-release-local-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter run -d macos --release --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-build-macos-local: ## Build Flutter macOS against local web app URL
+	cd flutter && flutter build macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
+
+flutter-build-macos-local-key: ## Build Flutter macOS against local web app URL + YT key
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-build-macos-local-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter build macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
 
 snapshot: manifest-check manifest-compat build ## Build and zip web snapshot for scp/serve
 	@mkdir -p snapshots
@@ -70,6 +135,10 @@ clean-cache: ## Remove linter/tool caches
 
 clean-build: ## Remove build artifacts
 	bun run clean:dist
+	rm -rf src-tauri/target/release/bundle src-tauri/target/debug/bundle
+	rm -f src-tauri/target/release/bundle/macos/rw.*.dmg src-tauri/target/release/bundle/dmg/rw.*.dmg
 
 clean: ## Remove caches and build outputs
 	bun run clean
+	rm -rf src-tauri/target/release/bundle src-tauri/target/debug/bundle
+	rm -f src-tauri/target/release/bundle/macos/rw.*.dmg src-tauri/target/release/bundle/dmg/rw.*.dmg

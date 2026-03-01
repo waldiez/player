@@ -2,7 +2,7 @@
  * SearchBar — collapsible multi-source search.
  *
  * Sources:
- *   YouTube   — full keyword search via Piped (no API key)
+ *   YouTube   — keyword search via backend / YouTube Data API (if key) / public fallbacks
  *   SoundCloud — full keyword search via unofficial SC v2 API
  *   Spotify   — URL-paste only (no public search API without OAuth)
  *
@@ -17,7 +17,7 @@ import { parseMediaUrl } from "@/lib/mediaSource";
 import { type SoundCloudSearchResult, searchSoundCloud } from "@/lib/soundcloudSearch";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
-import { type YouTubeSearchResult, searchYouTube } from "@/lib/youtubeSearch";
+import { getLastYouTubeSearchError, type YouTubeSearchResult, searchYouTube } from "@/lib/youtubeSearch";
 import type { MediaFile } from "@/types";
 
 import { useEffect, useRef, useState } from "react";
@@ -219,9 +219,10 @@ interface ResultListProps {
     activeIndex: number;
     onSelect: (r: SearchResult) => void;
     source: SearchSource;
+    emptyHint?: string;
 }
 
-function ResultList({ results, query, isLoading, activeIndex, onSelect, source }: ResultListProps) {
+function ResultList({ results, query, isLoading, activeIndex, onSelect, source, emptyHint }: ResultListProps) {
     const q = query.trim();
 
     if (isLoading) {
@@ -237,7 +238,7 @@ function ResultList({ results, query, isLoading, activeIndex, onSelect, source }
         if (q.length > 1 && source !== "spotify") {
             return (
                 <div className="px-4 py-6 text-center text-xs text-[var(--color-player-text-muted)]">
-                    No results found
+                    {emptyHint || "No results found"}
                 </div>
             );
         }
@@ -298,6 +299,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
     const [results, setResults] = useState<SearchResult[]>([]);
     const [isLoading, setIsLoading] = useState(false);
     const [activeIndex, setActiveIndex] = useState(-1);
+    const [emptyHint, setEmptyHint] = useState("");
     const [isMedium, setIsMedium] = useState(() => typeof window !== "undefined" && window.innerWidth >= 768);
 
     const inputRef = useRef<HTMLInputElement>(null);
@@ -316,6 +318,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
         setQuery("");
         setResults([]);
         setActiveIndex(-1);
+        setEmptyHint("");
         setTimeout(() => inputRef.current?.focus(), 50);
     }, [source]);
 
@@ -327,6 +330,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
             setQuery("");
             setResults([]);
             setActiveIndex(-1);
+            setEmptyHint("");
         }
     }, [isOpen]);
 
@@ -352,6 +356,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                         urlEntry: entry,
                     },
                 ]);
+                setEmptyHint("");
             } else {
                 setResults([]);
             }
@@ -361,6 +366,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
 
         if (q.length <= 1) {
             setResults([]);
+            setEmptyHint("");
             return;
         }
 
@@ -380,6 +386,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                             yt: r,
                         })),
                     );
+                    setEmptyHint(found.length === 0 ? getLastYouTubeSearchError() : "");
                 } else if (source === "soundcloud") {
                     const found = await searchSoundCloud(q);
                     setResults(
@@ -393,6 +400,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                             sc: r,
                         })),
                     );
+                    setEmptyHint("");
                 }
                 setActiveIndex(-1);
             } finally {
@@ -508,6 +516,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                                 activeIndex={activeIndex}
                                 onSelect={handleSelect}
                                 source={source}
+                                emptyHint={emptyHint}
                             />
                         )}
                     </div>
@@ -584,14 +593,15 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                                         />
                                     </div>
                                 ) : (
-                                    <ResultList
-                                        results={results}
-                                        query={query}
-                                        isLoading={isLoading}
-                                        activeIndex={activeIndex}
-                                        onSelect={handleSelect}
-                                        source={source}
-                                    />
+                    <ResultList
+                        results={results}
+                        query={query}
+                        isLoading={isLoading}
+                        activeIndex={activeIndex}
+                        onSelect={handleSelect}
+                        source={source}
+                        emptyHint={emptyHint}
+                    />
                                 )}
                             </div>
                         )}

@@ -249,6 +249,40 @@ export function SettingsPanel({
                     </label>
                 </section>
 
+                {/* ── YouTube Search ── */}
+                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
+                    <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                        YouTube Search
+                    </div>
+                    <p className="mb-2 text-xs text-player-text-muted">
+                        Optional: use your own YouTube Data API key for client-side search fallback.
+                    </p>
+                    <input
+                        type="password"
+                        autoComplete="off"
+                        spellCheck={false}
+                        value={effectiveUiSettings.youtubeApiKey}
+                        onChange={e => patchUiSettings({ youtubeApiKey: e.target.value.trim() })}
+                        placeholder="AIza..."
+                        className={cn(
+                            "w-full rounded border border-player-border bg-player-bg px-2 py-1.5 text-xs",
+                            "text-player-text outline-none focus:border-player-accent",
+                        )}
+                    />
+                    <div className="mt-2 flex items-center gap-2">
+                        <button
+                            onClick={() => patchUiSettings({ youtubeApiKey: "" })}
+                            className="rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text"
+                            type="button"
+                        >
+                            Clear key
+                        </button>
+                        <span className="text-[10px] text-player-text-muted">
+                            Stored locally on this device only.
+                        </span>
+                    </div>
+                </section>
+
                 {/* ── Beacon Endpoints ── */}
                 <section>
                     <div className="mb-3 flex items-center gap-2">

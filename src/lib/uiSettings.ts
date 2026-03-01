@@ -11,12 +11,15 @@ export interface UiSettings {
     screensaverEnabled: boolean;
     screensaverTimeoutMinutes: 5 | 10 | 15 | 30;
     screensaverStyle: ScreensaverStyle;
+    /** Optional user-provided YouTube Data API key used for client-side search fallback. */
+    youtubeApiKey: string;
 }
 
 const DEFAULTS: UiSettings = {
     screensaverEnabled: false,
     screensaverTimeoutMinutes: 10,
     screensaverStyle: "animated",
+    youtubeApiKey: "",
 };
 
 export function readUiSettings(): UiSettings {

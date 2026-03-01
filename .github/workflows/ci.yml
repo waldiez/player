@@ -83,6 +83,30 @@ jobs:
       - name: Build
         run: bun run build
 
+  flutter:
+    name: Flutter Shell
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Flutter pub get
+        working-directory: flutter
+        run: flutter pub get
+
+      - name: Flutter analyze
+        working-directory: flutter
+        run: flutter analyze
+
+      - name: Flutter test
+        working-directory: flutter
+        run: flutter test
+
   desktop:
     name: Desktop Backend (Rust)
     runs-on: macos-latest
