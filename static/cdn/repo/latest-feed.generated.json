@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T15:16:12.778Z",
+    "generatedAt": "2026-03-01T16:18:46.506Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qjSCtleM-bE",
-            "name": "Middle East Under Attack Live: Explosions Continue In Dubai's Most Famous Tourist Places And Hotels",
-            "artist": "CNN-News18"
+            "videoId": "zJxqeRy-o4s",
+            "name": "US-Iran ‘war’ LIVE | Khamenei is Dead | World War 3? | ಇರಾನ್-ಇಸ್ರೇಲ್ ನಡುವೆ ತೀವ್ರಗೊಂಡ ಯುದ್ಧ | N18G",
+            "artist": "News18 Kannada"
         },
         {
             "mood": "storm",
-            "videoId": "JjElKeyRklI",
-            "name": "Attack On Khamenei Exclusive Video Live : खामेनई पर हमले का वीडियो ? | world News | Israel Vs Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "2c49LWftmkg",
+            "name": "🔴LIVE : Iran | Trump |  காமேனி கொலையால் கலவரம் பாகிஸ்தானில் கொன்று குவிக்கும் அமெரிக்க ராணுவம்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "kRZY3lrR-b4",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 01 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "qmWD7WbpxYA",
+            "name": "BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln | World War | Khamenei | Trump",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "eKTva72nQbs",
-            "name": "🔴LIVE : கமேனி இறப்பை எண்ணி எண்ணி தாக்கும் ஈரான்.. கதறும் கத்தார்.. அடுத்தடுத்து அட்டாக்",
+            "videoId": "o3Ag716S-n4",
+            "name": "Khamenei Killed Video News LIVE | Khamenei Death News LIVE | Trump Declares Khamenei Dead News LIVE",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l74zdRXg_Wc",
+            "name": "Iran–US–Israel War Live | Iran Launches Another Major Missile Strike on Israel | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sE6USuWiEG4",
+            "name": "🔴LIVE:Iran Attacks Dubai | Dubai International Airport, World's Busiest,Shuts Down Amid Iran Strikes",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qyJb3Sp52w0",
+            "name": "🔴 LIVE || 🚨 US-Israel attack Iran || Exclusive Live Updates || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7z8AwASWS94",
+            "name": "🔴LIVE : துடிக்க துடிக்க துப்பாக்கி சூடு.. துவம்சம் செய்யும் அமெரிக்க ராணுவம்.. | USMilitary",
             "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hGbZJuHs4VQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World "
         }
     ],
     "sourceFilters": {
