@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T12:31:37.132Z",
+    "generatedAt": "2026-03-01T13:34:13.880Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dmkCZLw0yV4",
-            "name": "LIVE: Trump Declares Khamenei Is Dead News LIVE | Trump News LIVE | Khamenei Death News LIVE",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1HG28fc3Jqo",
-            "name": "Iran Attack Live: बुर्ज खलीफा पर, ईरान का ड्रोन अटैक ! Dubai | Qatar | Doha | USA | Israel | Trump |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4bFOTseM3e4",
-            "name": "LIVE | Ali Khamenei Death Confirmed | Iran vs Israel War | Trump | World War 3? | Netanyahu | N18G",
-            "artist": "News18 Kannada"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bG5qWveLltI",
-            "name": "Iran Attack US Base News Live: Dubai में फिर हमला,Abu Dhabi में गिरी मिसाइल | Khamenei | Netanyahu",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ruEvxUpZum0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Scale News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gLzeSYv2vrY",
-            "name": "Israeli Forces Launches Widespread Attack on Tehran | Latest News | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gwMbQQEq0sM",
-            "name": "Pakistan News Live : कराची के अमेरिकन दूतावास पर, भारी हमला ! Karachi | Iran | Ali Khamenei | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xcL48_g84LU",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 01 March 2026 || World News Bangla ||",
-            "artist": "SR BANGLA NEWS 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1hevxCDH_bk",
-            "name": "Khamenei news LIVE: Iran Supreme Leader Khamenei confirmed killed as Middle East remains on edge",
+            "videoId": "v7o_9E-H_lI",
+            "name": "Breaking News LIVE: Iran Retaliates: 21 Injured in Tel Aviv Missile Salvo; Iron Dome Under Pressure",
             "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eZdQ3shPZaA",
+            "name": "🔴LIVE : Iran | Trump | Khamenei | Khamenei dead | பாகிஸ்தானில் அமெரிக்காவுக்கு விழுந்த அடி..",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eKTva72nQbs",
+            "name": "🔴LIVE : கமேனி இறப்பை எண்ணி எண்ணி தாக்கும் ஈரான்.. கதறும் கத்தார்.. அடுத்தடுத்து அட்டாக்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LmTiY9XVot4",
+            "name": "Iran Missile Attack on Israel | Live War Update | 12 PM News Headlines | 1 March 2026 | SAMAA TV",
+            "artist": "SAMAA News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eIIpw5Zgyec",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ul5DrYYuOYM",
+            "name": "Dubai, Abu Dhabi Airports Suspend Operations as Iran Strikes UAE | Firstpost LIVE | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
