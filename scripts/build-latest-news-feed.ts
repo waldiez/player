@@ -6,6 +6,8 @@ const DEFAULT_MAX_RESULTS = 12;
 const DEFAULT_LOOKBACK_HOURS = 24;
 const DEFAULT_REGION = "US";
 const DEFAULT_SEED = "static/cdn/repo/latest-feed.sample.json";
+const DEFAULT_BLOCKED_TERMS =
+    "sports,highlights,points table,scorecard,cricket,football,nba,nfl,ipl,shorts,clip";
 
 const MOOD_ORDER = ["dock", "journey", "storm", "fest"] as const;
 
@@ -87,20 +89,31 @@ function parseCsv(value: string | undefined): string[] {
         .filter(Boolean);
 }
 
+function envNonEmpty(name: string): string | undefined {
+    const value = process.env[name];
+    if (typeof value !== "string") return undefined;
+    const trimmed = value.trim();
+    return trimmed.length > 0 ? trimmed : undefined;
+}
+
+function parseNumberEnv(name: string, fallback: number): number {
+    const raw = envNonEmpty(name);
+    if (!raw) return fallback;
+    const parsed = Number(raw);
+    return Number.isFinite(parsed) ? parsed : fallback;
+}
+
 function parseArgs(argv: string[]): CliArgs {
     const args: CliArgs = {
         out: DEFAULT_OUT,
-        query: process.env.LATEST_WID_YT_QUERY ?? DEFAULT_QUERY,
+        query: envNonEmpty("LATEST_WID_YT_QUERY") ?? DEFAULT_QUERY,
         maxResults: DEFAULT_MAX_RESULTS,
         lookbackHours: DEFAULT_LOOKBACK_HOURS,
         region: DEFAULT_REGION,
         language: undefined,
-        channelIds: parseCsv(process.env.LATEST_WID_YT_CHANNEL_IDS),
-        minDurationSeconds: Number(process.env.LATEST_WID_MIN_DURATION_SECONDS ?? "180"),
-        blockedTerms: parseCsv(
-            process.env.LATEST_WID_BLOCKED_TERMS ??
-                "sports,highlights,points table,scorecard,cricket,football,nba,nfl,ipl,shorts,clip",
-        ),
+        channelIds: parseCsv(envNonEmpty("LATEST_WID_YT_CHANNEL_IDS")),
+        minDurationSeconds: parseNumberEnv("LATEST_WID_MIN_DURATION_SECONDS", 180),
+        blockedTerms: parseCsv(envNonEmpty("LATEST_WID_BLOCKED_TERMS") ?? DEFAULT_BLOCKED_TERMS),
         seed: DEFAULT_SEED,
     };
 
