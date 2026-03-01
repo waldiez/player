@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T07:28:08.707Z",
+    "generatedAt": "2026-03-01T08:21:51.506Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vrICEZ-72VY",
-            "name": "Tehran News Live : तेहरान में, जोरदार प्रदर्शन ! Iran | Ali Khamenei | world News | USA | Trump |",
+            "videoId": "nY3nxYYvCNM",
+            "name": "🔴LIVE : israel attack iran | American | Trump | Khamenei dead |\"காமேனியை கொன்றவர்களை பழி வாங்குவோம்\"",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JJCfbRRHNQI",
+            "name": "🔴LIVE : israel attack iran | Khamenei dead |ஈரானின் அடுத்த மூவ் என்ன?  குலை நடுக்கத்தில் உலக நாடுகள்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DnfUKXn47Vg",
+            "name": "🔴 LIVE: Iran’s State Media Confirms Ayatollah Ali Khamenei’s Martyrdom | Breaking World News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oF3apLz-BbQ",
+            "name": "Middle East LIVE: Massive Explosions Reported In Dubai, Bahrain, Qatar And Abu Dhabi| Iran | N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bosjghoKD9A",
+            "name": "World News Live : ईरान के पलटवार से, कतर धुआँ धुआँ ! Iran | Qatar | Dubai | Tehran | Usa | Israel |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "069Scoa91ak",
-            "name": "World News Live : खामेनेई की मौत के बाद भारत में सड़क पर उतरे लोग |  Iran | India | Ali Khamenei |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8XLZwMOcVDA",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H2ckv7MSmTs",
-            "name": "World News Live : खोमेनेई की मौत पर, श्रीनगर में अमेरिका के खिलाफ  जबरदस्त प्रदर्शन ! Iran | India |",
-            "artist": "Times Now Navbharat"
+            "videoId": "coZbqXpB44U",
+            "name": "🔴LIVE:Israel iran |trump |Khamenei dead |வெளியே வரும் காமேனியின் `வாரிசு’ ஈரானின் புதிய உச்ச தலைவர்?",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
