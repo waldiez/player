@@ -89,6 +89,7 @@
         "prepare": "husky",
         "dev": "vite",
         "dev:tauri": "tauri dev",
+        "dev:search-backend": "bun run backend/search-service/server.mjs",
         "build": "tsc -b && vite build",
         "build:tauri": "bash scripts/build_tauri.sh --bundles app",
         "build:tauri:dmg": "bash scripts/build_tauri_dmg.sh",

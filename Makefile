@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key
+.PHONY: help install dev dev-tauri search-backend search-backend-health format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key
 
 help: ## Show available commands
 	@awk 'BEGIN {FS = ":.*## "}; /^[a-zA-Z0-9_.-]+:.*## / {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
@@ -13,6 +13,12 @@ dev: ## Run web development server
 
 dev-tauri: ## Run Tauri desktop app with HMR (frontend) + watch-rebuild (Rust)
 	bun run dev:tauri
+
+search-backend: ## Run lightweight YouTube search backend (Bun)
+	bun run backend/search-service/server.mjs
+
+search-backend-health: ## Check local search backend health endpoint
+	curl -fsS http://127.0.0.1:8787/healthz | cat
 
 format: ## Auto-format code and styles
 	bun run format
