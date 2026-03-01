@@ -1,6 +1,6 @@
 {
-    "generatedAt": "2026-03-01T06:43:54.057Z",
-    "mode": "dock",
+    "generatedAt": "2026-03-01T07:28:08.707Z",
+    "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
     "tags": ["waldiez", "player", "latest", "news", "auto-generated", "cron"],
@@ -24,88 +24,31 @@
         "requireTrustedChannel": false,
         "llmMinScore": 70
     },
-    "moodCustomizations": {
-        "journey": {
-            "label": "Headlines",
-            "accent": "#2f7fd3",
-            "bg": "#0f1d2d"
-        },
-        "dock": {
-            "label": "Analysis",
-            "accent": "#1f9d73",
-            "bg": "#10261f"
-        },
-        "storm": {
-            "label": "Breaking",
-            "accent": "#d95050",
-            "bg": "#2a1111"
-        },
-        "fest": {
-            "label": "Uplift",
-            "accent": "#e7a93a",
-            "bg": "#2a2010"
-        }
-    },
+    "moodCustomizations": {},
     "tracks": [
         {
-            "mood": "dock",
-            "videoId": "bosjghoKD9A",
-            "name": "World News Live : ईरान के पलटवार से, कतर धुआँ धुआँ ! Iran | Qatar | Dubai | Tehran | Usa | Israel |",
+            "mood": "storm",
+            "videoId": "vrICEZ-72VY",
+            "name": "Tehran News Live : तेहरान में, जोरदार प्रदर्शन ! Iran | Ali Khamenei | world News | USA | Trump |",
             "artist": "Times Now Navbharat"
         },
         {
-            "mood": "dock",
-            "videoId": "X0X9L7CAjss",
-            "name": "🔴LIVE : israel attack iran | Trump | Khamenei dead | அதிரும் காமேனி கொலை - காஷ்மீரில் பரபரப்பு",
-            "artist": "Thanthi TV"
+            "mood": "storm",
+            "videoId": "069Scoa91ak",
+            "name": "World News Live : खामेनेई की मौत के बाद भारत में सड़क पर उतरे लोग |  Iran | India | Ali Khamenei |",
+            "artist": "Times Now Navbharat"
         },
         {
-            "mood": "dock",
-            "videoId": "coZbqXpB44U",
-            "name": "🔴LIVE:Israel iran |trump |Khamenei dead |வெளியே வரும் காமேனியின் `வாரிசு’ ஈரானின் புதிய உச்ச தலைவர்?",
-            "artist": "Thanthi TV"
+            "mood": "storm",
+            "videoId": "8XLZwMOcVDA",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
         },
         {
-            "mood": "dock",
-            "videoId": "17XyOoxfXFk",
-            "name": "🔴LIVE : IranVsIsrael | இஸ்ரேல் VS ஈரான் போர்.. கமேனி கொ*ல.. அடுத்து நடக்கப்போவது என்ன?",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "dock",
-            "videoId": "mGjp_Y0Zq3s",
-            "name": "LIVE: All-Out War In West Asia After Israel And the US Bomb Iran | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "dock",
-            "videoId": "Z-Z9oqeO9nc",
-            "name": "🔴LIVE : Iran | Trump | Khamenei | Khamenei dead | ஈரான் உச்ச தலைவர் காமேனி கொல்லப்பட்டார் - டிரம்ப்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "dock",
-            "videoId": "Nc48DKYep_0",
-            "name": "Dubai Airport Damaged, Burj Al Arab Fire After Iran Attack | Firstpost Live | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "dock",
-            "videoId": "8F-9gd3vY_4",
-            "name": "Khamenei News LIVE | Where Is Khamenei ? US-Israel Attacks Iran | Full Coverage | Dubai",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "dock",
-            "videoId": "NmrtiN-55L8",
-            "name": "LIVE 🔴 Iran US Israel WAR! Israel Again Major Strikes on Tehran | Late Night Updates | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "dock",
-            "videoId": "JlAk6Y5J21k",
-            "name": "Iran ATTACK On US Navy LIVE — Trump’s Fleet Makes Unexpected Strategic Move | Middle East Tensions",
-            "artist": "News18 Urdu"
+            "mood": "storm",
+            "videoId": "H2ckv7MSmTs",
+            "name": "World News Live : खोमेनेई की मौत पर, श्रीनगर में अमेरिका के खिलाफ  जबरदस्त प्रदर्शन ! Iran | India |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
