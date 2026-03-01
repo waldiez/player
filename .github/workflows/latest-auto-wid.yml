@@ -87,6 +87,8 @@ jobs:
           cp static/cdn/repo/latest-auto.wid public/cdn/repo/latest-auto.wid
 
       - name: Commit updates
+        env:
+          HUSKY: "0"
         run: |
           bun run format
           if git diff --quiet -- static/cdn/repo/latest-auto.wid static/cdn/repo/latest-feed.generated.json public/cdn/repo/latest-auto.wid; then
