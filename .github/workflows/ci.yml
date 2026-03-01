@@ -32,7 +32,6 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Validate latest-auto pipeline (optional, requires secrets)
-        if: ${{ secrets.YOUTUBE_API_KEY != '' }}
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -45,6 +44,10 @@ jobs:
           LATEST_WID_LLM_MODEL: ${{ vars.LATEST_WID_LLM_MODEL }}
           LATEST_WID_LLM_MIN_SCORE: ${{ vars.LATEST_WID_LLM_MIN_SCORE }}
         run: |
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "Skipping latest-auto pipeline validation: YOUTUBE_API_KEY is not set."
+            exit 0
+          fi
           bun scripts/build-latest-news-feed.ts --out /tmp/latest-feed.generated.json --seed static/cdn/repo/latest-feed.sample.json
           EXTRA_ARGS=""
           if [ -n "$LATEST_WID_LLM_PROVIDER" ]; then
