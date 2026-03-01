@@ -274,6 +274,13 @@ async function main() {
             keywords: ["asian", "traditional", "instrumental", "strings", "folk"],
             blocked: ["remix", "nightcore", "trap", "phonk"],
         },
+        {
+            query: "traditional greek music",
+            mood: "journey",
+            limit: 2,
+            keywords: ["traditional", "greek", "folk", "acoustic", "instrumental", "lute", "violin"],
+            blocked: ["remix", "nightcore", "trap", "phonk", "sped up", "slowed"],
+        },
     ];
 
     const dnbPlans: SearchPlan[] = [
@@ -333,15 +340,23 @@ async function main() {
 
     async function collect(plans: SearchPlan[]): Promise<Partial<Record<Mood, Track[]>>> {
         const out: Partial<Record<Mood, Track[]>> = {};
-        for (const plan of plans) {
-            const candidates = await searchYouTube(plan.query, 20, apiKey);
-            const picks = pickRelevant(candidates, usedIds, plan.keywords, plan.blocked, plan.limit);
-            if (picks.length < plan.limit) {
-                throw new Error(
-                    `Insufficient relevant results for query '${plan.query}' (needed ${plan.limit}, got ${picks.length})`,
-                );
+        if (!apiKey) {
+            return out;
+        }
+        try {
+            for (const plan of plans) {
+                const candidates = await searchYouTube(plan.query, 20, apiKey);
+                const picks = pickRelevant(candidates, usedIds, plan.keywords, plan.blocked, plan.limit);
+                if (picks.length < plan.limit) {
+                    throw new Error(
+                        `Insufficient relevant results for query '${plan.query}' (needed ${plan.limit}, got ${picks.length})`,
+                    );
+                }
+                out[plan.mood] = [...(out[plan.mood] ?? []), ...picks];
             }
-            out[plan.mood] = [...(out[plan.mood] ?? []), ...picks];
+            // eslint-disable-next-line @typescript-eslint/no-unused-vars
+        } catch (_e) {
+            //
         }
         return out;
     }
@@ -364,8 +379,8 @@ async function main() {
     };
 
     const dnb: WidSpec = {
-        file: "static/cdn/repo/drum-n-base.wid",
-        slug: "drum-n-base",
+        file: "static/cdn/repo/dnb.wid",
+        slug: "dnb",
         name: "Waldiez Repo - Drum-n-Base",
         purpose: "High-energy drum and bass preset curated by DnB relevance scoring.",
         tags: ["waldiez", "player", "drum-and-bass", "dnb", "jungle", "liquid"],

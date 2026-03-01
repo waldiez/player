@@ -171,25 +171,36 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     // ?w= lets the host (or a link) override the default preset URL.
     const customUrl = new URLSearchParams(window.location.search).get("w") ?? null;
 
+    // Each helper catches its own errors so a network failure on one URL
+    // (e.g. the absolute CDN URL on a restricted network) never blocks the
+    // remaining fallbacks — the outer try/catch is just an extra safety net.
     async function tryWid(url: string): Promise<boolean> {
-        const res = await fetch(url, { cache: "no-store" });
-        if (!res.ok) return false;
-        const text = await res.text();
-        const parsed = YAML.parse(text) as unknown;
-        const state = parseMaybeManifest(parsed);
-        return state ? applyState(state) : false;
+        try {
+            const res = await fetch(url, { cache: "no-store" });
+            if (!res.ok) return false;
+            const text = await res.text();
+            const parsed = YAML.parse(text) as unknown;
+            const state = parseMaybeManifest(parsed);
+            return state ? applyState(state) : false;
+        } catch {
+            return false;
+        }
     }
 
     async function tryWaldiez(url: string): Promise<boolean> {
-        const res = await fetch(url, { cache: "no-store" });
-        if (!res.ok) return false;
-        const bytes = new Uint8Array(await res.arrayBuffer());
-        const manifestBytes = readZipEntry(bytes, "MANIFEST");
-        if (!manifestBytes) return false;
-        const text = new TextDecoder().decode(manifestBytes);
-        const parsed = YAML.parse(text) as unknown;
-        const state = parseMaybeManifest(parsed);
-        return state ? applyState(state) : false;
+        try {
+            const res = await fetch(url, { cache: "no-store" });
+            if (!res.ok) return false;
+            const bytes = new Uint8Array(await res.arrayBuffer());
+            const manifestBytes = readZipEntry(bytes, "MANIFEST");
+            if (!manifestBytes) return false;
+            const text = new TextDecoder().decode(manifestBytes);
+            const parsed = YAML.parse(text) as unknown;
+            const state = parseMaybeManifest(parsed);
+            return state ? applyState(state) : false;
+        } catch {
+            return false;
+        }
     }
 
     try {

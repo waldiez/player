@@ -62,7 +62,18 @@ export default defineConfig({
                     ],
                 },
                 workbox: {
+                    // Exclude the hourly-refreshed CDN file from precaching so
+                    // the service worker never serves a stale build-time snapshot.
                     globPatterns: ["**/*.{js,css,html,svg,png,wid}"],
+                    globIgnores: ["**/cdn/repo/latest-auto.wid"],
+                    // Always fetch latest-auto.wid from the network; fall back
+                    // to the network error → the app will use default.wid instead.
+                    runtimeCaching: [
+                        {
+                            urlPattern: /\/latest-auto\.wid(\?.*)?$/,
+                            handler: "NetworkOnly",
+                        },
+                    ],
                 },
             }),
     ].filter(Boolean),
