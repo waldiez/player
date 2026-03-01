@@ -15,9 +15,7 @@
         "requireTrustedChannel": false,
         "llmMinScore": 70
     },
-    "moodCustomizations": {
-        "storm": { "label": "Breaking", "accent": "#d95050", "bg": "#2a1111" }
-    },
+    "moodCustomizations": {},
     "tracks": [
         { "mood": "storm", "videoId": "btPJPFnesV4", "name": "Breaking Edge" },
         { "mood": "storm", "videoId": "4xiWvdwsCBQ", "name": "Breaking Feed 01" },

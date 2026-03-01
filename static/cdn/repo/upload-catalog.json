@@ -15,7 +15,7 @@
             "description": "News-oriented preset with mood labels/colors."
         },
         {
-            "file": "drum-n-base.wid",
+            "file": "dnb.wid",
             "kind": "contrib",
             "title": "Drum-n-Base",
             "description": "High-energy DnB starter preset."

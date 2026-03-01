@@ -96,7 +96,7 @@ export const MOOD_META: Record<MoodMode, MoodMeta> = {
         defaultEQ: "vinyl",
     },
     storm: {
-        label: "Storm",
+        label: "Breaking",
         description: "Lightning frequency bars in the electric dark",
         accent: "#1ABCD4",
         bg: "#050912",
