@@ -47,6 +47,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 
 import {
     Camera,
+    CircleAlert,
     Disc2,
     Disc3,
     Download,
@@ -230,6 +231,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     const [localFilesWarning, setLocalFilesWarning] = useState(false);
     const [liveStatus, setLiveStatus] = useState<"idle" | "connecting" | "live">("idle");
     const [liveError, setLiveError] = useState<string | null>(null);
+    const [ytFallbackNotice, setYtFallbackNotice] = useState<string | null>(null);
 
     // ── File input ref for prefs import ──────────────────────────────────
     const fileInputRef = useRef<HTMLInputElement>(null);
@@ -244,6 +246,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
         liveStateRef.current = { playback, currentMedia, ytTrackTitle };
     });
     const sessionIdRef = useRef("");
+    const ytFallbackNoticeTrackRef = useRef<string | null>(null);
 
     function handleSaveAsDefault() {
         saveAsDefault();
@@ -256,6 +259,12 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
         const t = setTimeout(() => setLiveError(null), 6000);
         return () => clearTimeout(t);
     }, [liveError]);
+
+    useEffect(() => {
+        if (!ytFallbackNotice) return;
+        const t = setTimeout(() => setYtFallbackNotice(null), 4500);
+        return () => clearTimeout(t);
+    }, [ytFallbackNotice]);
 
     // ── Export / Import preferences (.wid format) ─────────────────────────
     function handleExportPrefs() {
@@ -298,14 +307,14 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     // Used to decide volume-icon click behaviour (snap vs mute-toggle)
     const isSmallScreen = useMediaQuery("(max-width: 639px)");
 
-    // ── Studio panel — togglable, default open only on xl screens ────────
+    // ── Studio panel — togglable, default collapsed ───────────────────────
     const isXL = useMediaQuery("(min-width: 1280px)");
-    const [showStudio, setShowStudio] = useState(false); // resolved below
-    // Sync with screen size on first render / resize (only if user hasn't toggled)
+    const [showStudio, setShowStudio] = useState(false); // remains collapsed until user opens it
+    // One-time initialization: keep collapsed by default
     const studioInitialised = useRef(false);
     useEffect(() => {
         if (!studioInitialised.current) {
-            setShowStudio(isXL);
+            setShowStudio(false);
             studioInitialised.current = true;
         }
     }, [isXL]);
@@ -831,6 +840,20 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                     // crossOrigin="anonymous" is required for createMediaElementSource.
                     src={useNativeAudio ? (nativeYtUrl ?? undefined) : currentMedia?.path}
                     crossOrigin={useNativeAudio ? "anonymous" : undefined}
+                    onError={() => {
+                        // Some direct CDN URLs reject CORS preflight/range requests in browser mode.
+                        // Fall back to the YouTube embed path for this track.
+                        if (isYouTube && useNativeAudio) {
+                            const mediaId = currentMedia?.id ?? null;
+                            if (mediaId && ytFallbackNoticeTrackRef.current !== mediaId) {
+                                ytFallbackNoticeTrackRef.current = mediaId;
+                                setYtFallbackNotice(
+                                    "Native stream blocked by CORS. Switched to YouTube embed.",
+                                );
+                            }
+                            setNativeYtUrl(null);
+                        }
+                    }}
                     onTimeUpdate={() => {
                         if (audioEl && !isSeeking.current) setPlayback({ currentTime: audioEl.currentTime });
                     }}
@@ -1462,7 +1485,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                             </button>
                         </div>
                     </div>
-                    {(liveStatus === "live" || liveError) && (
+                    {(liveStatus === "live" || liveError || ytFallbackNotice) && (
                         <div className="mt-1 px-1 text-[10px]">
                             {liveStatus === "live" && (
                                 <p className="text-emerald-400">
@@ -1470,6 +1493,12 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                                 </p>
                             )}
                             {liveError && <p className="text-red-400">{liveError}</p>}
+                            {ytFallbackNotice && (
+                                <p className="flex items-center gap-1 text-amber-300">
+                                    <CircleAlert className="h-3 w-3" />
+                                    {ytFallbackNotice}
+                                </p>
+                            )}
                         </div>
                     )}
 

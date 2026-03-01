@@ -215,14 +215,26 @@ function SpotifyPanel({
 interface ResultListProps {
     results: SearchResult[];
     query: string;
+    isLoading: boolean;
     activeIndex: number;
     onSelect: (r: SearchResult) => void;
     source: SearchSource;
 }
 
-function ResultList({ results, query, activeIndex, onSelect, source }: ResultListProps) {
+function ResultList({ results, query, isLoading, activeIndex, onSelect, source }: ResultListProps) {
+    const q = query.trim();
+
+    if (isLoading) {
+        return (
+            <div className="flex items-center justify-center gap-2 px-4 py-6 text-xs text-[var(--color-player-text-muted)]">
+                <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                Searching…
+            </div>
+        );
+    }
+
     if (results.length === 0) {
-        if (query.trim().length > 1 && source !== "spotify") {
+        if (q.length > 1 && source !== "spotify") {
             return (
                 <div className="px-4 py-6 text-center text-xs text-[var(--color-player-text-muted)]">
                     No results found
@@ -492,6 +504,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                             <ResultList
                                 results={results}
                                 query={query}
+                                isLoading={isLoading}
                                 activeIndex={activeIndex}
                                 onSelect={handleSelect}
                                 source={source}
@@ -556,8 +569,8 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                             </button>
                         </div>
 
-                        {/* Results / Spotify panel — always shown below input row when open */}
-                        {(results.length > 0 || source === "spotify") && (
+                        {/* Results / Spotify panel */}
+                        {(source === "spotify" || query.trim().length > 1) && (
                             <div className="absolute left-0 top-full max-h-80 w-80 overflow-y-auto rounded-b-lg border border-[var(--color-player-border)] bg-[var(--color-player-surface)] shadow-2xl sm:w-96">
                                 {source === "spotify" ? (
                                     <div className="p-3">
@@ -574,6 +587,7 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                                     <ResultList
                                         results={results}
                                         query={query}
+                                        isLoading={isLoading}
                                         activeIndex={activeIndex}
                                         onSelect={handleSelect}
                                         source={source}

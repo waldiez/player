@@ -14,6 +14,26 @@ pub struct YtVideoInfo {
     pub duration: f64,
 }
 
+/// Search result item returned by `yt_search_videos`.
+#[derive(Debug, serde::Serialize, serde::Deserialize)]
+pub struct YtSearchVideo {
+    pub video_id: String,
+    pub title: String,
+    pub author: String,
+    pub duration: f64,
+    pub thumbnail: String,
+}
+
+fn value_to_f64(v: &serde_json::Value) -> f64 {
+    if let Some(n) = v.as_f64() {
+        return n;
+    }
+    if let Some(s) = v.as_str() {
+        return s.trim().parse::<f64>().unwrap_or(0.0);
+    }
+    0.0
+}
+
 /// Returns `true` if `yt-dlp` is installed and reachable on PATH.
 #[tauri::command]
 pub async fn yt_check() -> bool {
@@ -103,4 +123,88 @@ pub async fn yt_get_video_info(video_id: String) -> Result<YtVideoInfo> {
         .unwrap_or(0.0);
 
     Ok(YtVideoInfo { title, duration })
+}
+
+/// Search YouTube videos using yt-dlp's extractor backend.
+///
+/// This runs server-side in Tauri, so browser CORS restrictions do not apply.
+#[tauri::command]
+pub async fn yt_search_videos(query: String, limit: Option<u32>) -> Result<Vec<YtSearchVideo>> {
+    let q = query.trim();
+    if q.is_empty() {
+        return Ok(vec![]);
+    }
+
+    let count = limit.unwrap_or(12).clamp(1, 30);
+    let search_expr = format!("ytsearch{count}:{q}");
+    let output = Command::new("yt-dlp")
+        .args([
+            "--flat-playlist",
+            "--skip-download",
+            "--no-warnings",
+            "--dump-single-json",
+            "--",
+            &search_expr,
+        ])
+        .output()
+        .await
+        .map_err(|e| Error::Internal(format!("yt-dlp not found: {e}")))?;
+
+    if !output.status.success() {
+        let stderr = String::from_utf8_lossy(&output.stderr);
+        return Err(Error::Internal(format!("yt-dlp: {stderr}")));
+    }
+
+    let value: serde_json::Value =
+        serde_json::from_slice(&output.stdout).map_err(|e| Error::Internal(format!("yt-dlp JSON: {e}")))?;
+
+    let mut out = Vec::new();
+    for entry in value
+        .get("entries")
+        .and_then(serde_json::Value::as_array)
+        .into_iter()
+        .flatten()
+    {
+        let id = entry
+            .get("id")
+            .and_then(serde_json::Value::as_str)
+            .unwrap_or("")
+            .trim();
+        if id.is_empty() {
+            continue;
+        }
+
+        let title = entry
+            .get("title")
+            .and_then(serde_json::Value::as_str)
+            .unwrap_or("Unknown")
+            .to_string();
+        let author = entry
+            .get("channel")
+            .and_then(serde_json::Value::as_str)
+            .or_else(|| entry.get("uploader").and_then(serde_json::Value::as_str))
+            .unwrap_or("")
+            .to_string();
+        let duration = entry.get("duration").map(value_to_f64).unwrap_or(0.0);
+
+        let thumbnail = entry
+            .get("thumbnails")
+            .and_then(serde_json::Value::as_array)
+            .and_then(|arr| arr.last())
+            .and_then(|v| v.get("url"))
+            .and_then(serde_json::Value::as_str)
+            .filter(|s| !s.trim().is_empty())
+            .map(ToString::to_string)
+            .unwrap_or_else(|| format!("https://i.ytimg.com/vi/{id}/hqdefault.jpg"));
+
+        out.push(YtSearchVideo {
+            video_id: id.to_string(),
+            title,
+            author,
+            duration,
+            thumbnail,
+        });
+    }
+
+    Ok(out)
 }

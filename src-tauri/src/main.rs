@@ -54,6 +54,7 @@ fn main() {
             commands::ytdlp::yt_check,
             commands::ytdlp::yt_get_audio_url,
             commands::ytdlp::yt_get_video_info,
+            commands::ytdlp::yt_search_videos,
             // mpv commands
             commands::mpv::mpv_check,
             commands::mpv::mpv_load,

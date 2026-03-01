@@ -35,6 +35,14 @@ export type MpvEventPayload =
     | { type: "Volume"; value: number }
     | { type: "Ended" };
 
+export interface YtSearchVideo {
+    video_id: string;
+    title: string;
+    author: string;
+    duration: number;
+    thumbnail: string;
+}
+
 // ── yt-dlp ─────────────────────────────────────────────────────────────────
 
 /** Returns true if `yt-dlp` is installed on the system. */
@@ -54,6 +62,11 @@ export async function ytGetAudioUrl(videoId: string): Promise<string> {
 /** Fetches title and duration for a YouTube video (no download). */
 export async function ytGetVideoInfo(videoId: string): Promise<{ title: string; duration: number }> {
     return invoke("yt_get_video_info", { videoId });
+}
+
+/** Search YouTube videos through the Tauri backend (yt-dlp extractor). */
+export async function ytSearchVideos(query: string, limit = 12): Promise<YtSearchVideo[]> {
+    return invoke<YtSearchVideo[]>("yt_search_videos", { query, limit });
 }
 
 // ── mpv ────────────────────────────────────────────────────────────────────

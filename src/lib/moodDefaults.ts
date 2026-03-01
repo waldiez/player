@@ -13,6 +13,7 @@ import type { AudioChainConfig, MoodMode } from "@/types/mood";
 import YAML from "yaml";
 
 import { parseMediaUrl } from "./mediaSource";
+import { isTauri } from "./tauriPlayer";
 import { nextWid } from "./wid";
 
 // ── Storage key (matches kideria/web/player.js PREFS_KEY) ─────────────────
@@ -255,9 +256,10 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
             if (await tryWaldiez(customUrl)) return true;
         }
         // Latest news: rolling-merge into storm only, never wiping other moods.
-        // Try the absolute CDN URL first (works in local-dev and Tauri too),
-        // then the same-host relative path as a fallback.
-        if (await tryLatestWid(LATEST_WID_CDN_URL)) return true;
+        // In Tauri, skip the CDN URL (it redirects to player.waldiez.io which
+        // blocks localhost:5173 / tauri://localhost in dev/prod).  The local
+        // bundled copy is fetched next and works fine in both contexts.
+        if (!isTauri() && (await tryLatestWid(LATEST_WID_CDN_URL))) return true;
         const base = import.meta.env.BASE_URL ?? "/";
         if (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) return true;
         // Stable bundled defaults — full replacement only if news fetch failed.
