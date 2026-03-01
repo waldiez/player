@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T19:17:44.459Z",
+    "generatedAt": "2026-03-01T20:18:09.067Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HR9TNWg0mP0",
-            "name": "Today Headlines - 01 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "QZe_9MhVHv4",
+            "name": "🔴LIVE:  Iran Attack Attack |  World War Tension | உலகமே பதற்றத்தில்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "bgiKGjzZ-vk",
-            "name": "LIVE 🔴 Iranian Missiles Wipe Out US Bases! Israel in Chaos | Deadly Strike! Iran US Israel WAR!",
-            "artist": "Dunya News"
+            "videoId": "-z_fxo2HE-4",
+            "name": "🔴LIVE : Trump | Israel Iran War | உலகமே ஸ்தம்பிக்கும்.. இந்தியா வரை வெடிக்கலாம்..அப்படியொரு `குண்டு’",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "pQ7FAT-6HgU",
-            "name": "LIVE! Watch Iran’s Supreme Leader’s Last Video | Tears & Shock Across the Nation | War Alert",
-            "artist": "Dunya News"
+            "videoId": "cC3iqhFM8G0",
+            "name": "Israel launches fresh strikes on Tehran | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "d_he1zzWEbs",
-            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "p3M-pMDde3Q",
-            "name": "LIVE: Iranian Supreme Leader Khamenei Killed Amid ongoing Iran-US War | Vantage with Palki Sharma",
+            "videoId": "E8-ZN_0BSWM",
+            "name": "US Iran War LIVE: Three US Soldiers Killed in Iranian Missile Attack |Vantage by Palki Sharma",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qPgRhNvcvvs",
+            "name": "🔴LIVE:  Iran Attack |  America | World War |  அமெரிக்க தூதரகம் துவம்சம் - ஈரானின் வெறியாட்டம்..",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZeNfbvzKz_k",
+            "name": "🔴LIVE: khamenei killed | US Israel Attack Iran  | காமேனியின் கடைசி 30 நொடிகள்... - நடந்தது என்ன?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "23hAI9kBNDc",
+            "name": "🔴LIVE : israel attack iran | Khamenei dead துபாய்யை ரவுண்டு கட்டிய ஈரான்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
