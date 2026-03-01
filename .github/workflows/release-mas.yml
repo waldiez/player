@@ -1,0 +1,78 @@
+name: Release MAS (Template)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Git ref to build (branch, tag, or SHA)"
+        required: false
+        default: "main"
+
+permissions:
+  contents: read
+
+jobs:
+  build-mas:
+    name: Build macOS App Store Candidate
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install frontend dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Build frontend
+        run: bun run build
+
+      - name: Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Install system deps
+        run: |
+          brew install pkg-config ffmpeg
+          echo "PKG_CONFIG_PATH=$(brew --prefix)/lib/pkgconfig:$(brew --prefix ffmpeg)/lib/pkgconfig" >> "$GITHUB_ENV"
+          echo "LIBRARY_PATH=$(brew --prefix)/lib:$(brew --prefix ffmpeg)/lib" >> "$GITHUB_ENV"
+          echo "CPATH=$(brew --prefix)/include:$(brew --prefix ffmpeg)/include" >> "$GITHUB_ENV"
+
+      - name: Import Apple MAS certificate
+        if: env.APPLE_MAS_CERTIFICATE != ''
+        env:
+          APPLE_MAS_CERTIFICATE: ${{ secrets.APPLE_MAS_CERTIFICATE }}
+          APPLE_MAS_CERTIFICATE_PASSWORD: ${{ secrets.APPLE_MAS_CERTIFICATE_PASSWORD }}
+        run: |
+          echo "$APPLE_MAS_CERTIFICATE" | base64 --decode > cert.p12
+          security create-keychain -p "" build.keychain
+          security import cert.p12 -k build.keychain -P "$APPLE_MAS_CERTIFICATE_PASSWORD" -T /usr/bin/codesign
+          security list-keychains -d user -s build.keychain
+          security default-keychain -s build.keychain
+          security unlock-keychain -p "" build.keychain
+          security set-key-partition-list -S apple-tool:,apple: -s -k "" build.keychain
+          rm cert.p12
+
+      - name: Build MAS app bundle
+        env:
+          APPLE_SIGNING_IDENTITY: ${{ secrets.APPLE_MAS_SIGNING_IDENTITY }}
+        run: bun run build:tauri:mas
+
+      - name: Upload MAS bundle artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: mas-app-bundle
+          path: |
+            src-tauri/target/release/bundle/macos/*.app
+            src-tauri/target/release/bundle/macos/**/*.app
+          if-no-files-found: warn
+
+      - name: MAS TODO marker
+        run: |
+          echo "This is a baseline template."
+          echo "Next: add provisioning profile handling + App Store Connect upload (Transporter/altool/notarytool as appropriate)."

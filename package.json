@@ -91,6 +91,7 @@
         "dev:tauri": "tauri dev",
         "build": "tsc -b && vite build",
         "build:tauri": "tauri build",
+        "build:tauri:mas": "bash scripts/build_tauri_mas.sh",
         "preview": "vite preview",
         "manifest:check": "bun scripts/validate-manifest.ts",
         "manifest:compat": "bun scripts/check-manifest-compat.ts",

@@ -85,6 +85,25 @@ After workflow completes:
 4. Mark as pre-release if tag contains `-`.
 5. Publish.
 
+## 6) Mac App Store Candidate Path
+
+This repo includes a baseline MAS config and workflow template:
+
+- `src-tauri/tauri.mas.conf.json`
+- `src-tauri/entitlements/macos-appstore.plist`
+- `.github/workflows/release-mas.yml`
+
+Local MAS candidate build:
+
+```bash
+bun run build:tauri:mas
+```
+
+Notes:
+
+- This path keeps normal desktop release (`release.yml`) unchanged.
+- `release-mas.yml` is a template baseline; provisioning profile and App Store Connect upload steps are intentionally left for project-specific setup.
+
 ---
 
 ## Distribution Channels (Post-Release)

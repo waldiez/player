@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Waldiez Player uses the camera when you add a camera source for live visual playback and stream composition.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Waldiez Player uses the microphone when you add a microphone or camera-with-audio source for audio-reactive playback and streaming.</string>
+</dict>
+</plist>
