@@ -239,8 +239,6 @@ function getYouTubeApiKey(): string {
 async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResult[]> {
     const key = getYouTubeApiKey();
     if (!key) {
-        lastYouTubeSearchError =
-            "YouTube API key missing. Add one in Settings, pass YT_API_KEY (Flutter), or set VITE_YOUTUBE_API_KEY.";
         return [];
     }
 
@@ -443,7 +441,7 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
         if (cached.length > 0) return cached;
         if (!lastYouTubeSearchError) {
             lastYouTubeSearchError =
-                "Search unavailable. Add your API key in Settings, configure backend search, or paste a YouTube URL.";
+                "Search unavailable. Tried backend + no-key public providers (Invidious/Piped), but they appear blocked/unreachable. Add an API key, configure backend search, or paste a YouTube URL.";
         }
         return [];
     }
@@ -470,7 +468,7 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
     if (cached.length > 0) return cached;
     if (!lastYouTubeSearchError) {
         lastYouTubeSearchError =
-            "Search unavailable. Add your API key in Settings, configure backend search, or paste a YouTube URL.";
+            "Search unavailable. Tried backend + no-key public providers (Invidious/Piped), but they appear blocked/unreachable. Add an API key, configure backend search, or paste a YouTube URL.";
     }
     return [];
 }
