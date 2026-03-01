@@ -142,7 +142,8 @@ export function readPrefs(): WideriaPrefs | null {
 }
 
 export function getSyncDefaultsFromLatest(): boolean {
-    return readPrefs()?.syncDefaultsFromLatest === true;
+    // Default-on unless the user explicitly opts out.
+    return readPrefs()?.syncDefaultsFromLatest !== false;
 }
 
 export function setSyncDefaultsFromLatest(enabled: boolean): boolean {
@@ -157,14 +158,14 @@ export function setSyncDefaultsFromLatest(enabled: boolean): boolean {
 export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     if (typeof window === "undefined" || typeof localStorage === "undefined") return false;
     const existing = readPrefs();
-    const shouldSync = !existing || existing.syncDefaultsFromLatest === true;
+    const shouldSync = !existing || existing.syncDefaultsFromLatest !== false;
     if (!shouldSync) return false;
 
     function applyState(state: Record<string, unknown>): boolean {
-        const keepSyncEnabled = existing?.syncDefaultsFromLatest === true;
+        const keepSyncEnabled = existing?.syncDefaultsFromLatest !== false;
         return safeWritePrefs({
             ...state,
-            syncDefaultsFromLatest: keepSyncEnabled || state.syncDefaultsFromLatest === true,
+            syncDefaultsFromLatest: keepSyncEnabled,
         });
     }
 

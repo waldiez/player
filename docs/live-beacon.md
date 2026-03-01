@@ -107,9 +107,15 @@ Listeners connect to `wss://mqtt.waldiez.io/ws` with an MQTT client.
 
 ---
 
-## Importing the default preferences
+## Startup defaults and manual reset
 
-A clean-slate `default.wid` is included in `public/default.wid`. Import it to reset your player to sensible defaults with all mood tracks pre-loaded:
+On first load (or when **Sync defaults** is enabled), the app now tries:
+
+1. `public/cdn/repo/latest-auto.wid`
+2. `public/default.wid` (fallback)
+3. `public/default.waldiez` (fallback)
+
+To manually reset to a clean-slate baseline, import `public/default.wid`:
 
 1. In the player, click **Import** (toolbar or Settings export/import area).
 2. Select `public/default.wid`.
