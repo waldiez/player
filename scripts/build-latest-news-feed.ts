@@ -9,9 +9,9 @@ const DEFAULT_SEED = "static/cdn/repo/latest-feed.sample.json";
 const DEFAULT_BLOCKED_TERMS =
     "sports,highlights,points table,scorecard,cricket,football,nba,nfl,ipl,shorts,clip";
 
-// Limit auto-generated news tracks to one mood; other moods display their
-// own hardcoded defaults (storm, fest, journey, etc. are still visible).
-const MOOD_ORDER = ["dock"] as const;
+// News tracks go to "storm" (Breaking) only; all other moods keep their
+// own hardcoded/curated defaults.
+const MOOD_ORDER = ["storm"] as const;
 
 type Mood = "journey" | "dock" | "storm" | "fest" | "rock" | "pop" | "disco";
 

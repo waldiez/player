@@ -74,6 +74,12 @@ state:
         name: "YouTube · m3lF2qEA2cw"
         artist: "YouTube"
         chapter: null
+    - type: "youtube"
+        ytType: "video"
+        videoId: "TdrL3QxjyVw"
+        name: "YouTube · TdrL3QxjyVw"
+        artist: "YouTube"
+        chapter: null
     dock:
       - type: "youtube"
         ytType: "video"
@@ -139,6 +145,12 @@ state:
         name: "YouTube · RgKAFK5djSk"
         artist: "YouTube"
         chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RgKAFK5djSk"
+        name: "Billie Eilish - bad guy"
+        artist: "Billie Eilish"
+
     disco:
       - type: "youtube"
         ytType: "video"

@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const DEFAULT_OUT = "static/cdn/repo/latest-auto.wid";
-const DEFAULT_MODE = "dock";
+const DEFAULT_MODE = "storm";
 const DEFAULT_FEED = "static/cdn/repo/latest-feed.sample.json";
 const DEFAULT_MAX_AGE_HOURS = 72;
 const DEFAULT_MIN_KEYWORD_HITS = 1;
