@@ -16,9 +16,10 @@
  *   listenMpvEvents() to subscribe.
  *   Caveat: audio goes through the system mixer, not the Web Audio chain.
  */
+import { getRuntimeContext } from "@/lib/runtime";
+
 import { invoke } from "@tauri-apps/api/core";
 import { listen } from "@tauri-apps/api/event";
-import { getRuntimeContext } from "@/lib/runtime";
 
 // ── Environment detection ──────────────────────────────────────────────────
 

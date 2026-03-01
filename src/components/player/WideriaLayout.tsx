@@ -36,15 +36,7 @@ import {
 import { getPipedAudioUrl } from "@/lib/pipedPlayer";
 import { getRuntimeContext } from "@/lib/runtime";
 import { STREAM_TARGETS, isBrowserPlayableStreamProtocol } from "@/lib/streamTargets";
-import {
-    mpvCheck,
-    mpvLoad,
-    mpvPause,
-    mpvQuit,
-    mpvStart,
-    mpvStop,
-    ytGetAudioUrl,
-} from "@/lib/tauriPlayer";
+import { mpvCheck, mpvLoad, mpvPause, mpvQuit, mpvStart, mpvStop, ytGetAudioUrl } from "@/lib/tauriPlayer";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
