@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T14:17:38.258Z",
+    "generatedAt": "2026-03-01T15:16:12.778Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sE6USuWiEG4",
-            "name": "🔴LIVE:Iran Attacks Dubai | Dubai International Airport, World's Busiest,Shuts Down Amid Iran Strikes",
-            "artist": "moneycontrol"
+            "videoId": "qjSCtleM-bE",
+            "name": "Middle East Under Attack Live: Explosions Continue In Dubai's Most Famous Tourist Places And Hotels",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "qyJb3Sp52w0",
-            "name": "🔴 LIVE || 🚨 US-Israel attack Iran || Exclusive Live Updates || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "JjElKeyRklI",
+            "name": "Attack On Khamenei Exclusive Video Live : खामेनई पर हमले का वीडियो ? | world News | Israel Vs Iran",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "7z8AwASWS94",
-            "name": "🔴LIVE : துடிக்க துடிக்க துப்பாக்கி சூடு.. துவம்சம் செய்யும் அமெரிக்க ராணுவம்.. | USMilitary",
+            "videoId": "kRZY3lrR-b4",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 01 March 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eKTva72nQbs",
+            "name": "🔴LIVE : கமேனி இறப்பை எண்ணி எண்ணி தாக்கும் ஈரான்.. கதறும் கத்தார்.. அடுத்தடுத்து அட்டாக்",
             "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BFRxoCYlNtQ",
-            "name": "America vs Iran War LIVE: US Strike Alert? Trump vs Ali Khamenei War Tension Update |Iran War |N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "90_3IYkdUg8",
-            "name": "Iran Israel War News LIVE: UAE के सबसे बड़े पोर्ट पर हमला | Donald Trump  | Ali Khamenei | America",
-            "artist": "IndiaTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d9h6ASS5jj0",
-            "name": "Iran Israel War Live: Iran Strikes Israel LIVE; US Iran War Live; Israel Iran War Live Khamenei Dead",
-            "artist": "DNAIndiaNews"
-        },
-        {
-            "mood": "storm",
-            "videoId": "A9fOJbnLSSI",
-            "name": "Iran Attacks Dubai | Dubai Attack | Iran News LIVE | Iran Attacks Gulf Nations | Iran News LIVE",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VRhh0RrJDGg",
-            "name": "Breaking News: ईरान का सुपरसोनिक मिसाइल से हमला! LIVE | Netanyahu | America | Trump",
-            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
