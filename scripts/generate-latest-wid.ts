@@ -144,6 +144,7 @@ function usage(): string {
         "Environment variables:",
         "  YOUTUBE_API_KEY               Required when --verify-news is enabled",
         "  OPENAI_API_KEY                Needed when --llm-provider openai",
+        "  OPENAI_LLM_FALLBACK_MODEL     Optional OpenAI model for low-score retry (default: gpt-4.1 for gpt-4.1-mini)",
         "  ANTHROPIC_API_KEY             Needed when --llm-provider anthropic",
     ].join("\n");
 }
@@ -434,12 +435,23 @@ function isTrustedChannel(channelTitle: string, trustedChannels: string[]): bool
     return trustedChannels.some(channel => lower.includes(channel.toLowerCase()));
 }
 
-async function scoreWithOpenAI(meta: YouTubeMeta, model: string): Promise<number> {
+async function scoreWithOpenAIOnce(meta: YouTubeMeta, model: string, retry = false): Promise<number> {
     const apiKey = process.env.OPENAI_API_KEY;
     if (!apiKey) throw new Error("OPENAI_API_KEY is required for --llm-provider openai");
 
-    const prompt =
-        'Return only JSON: {"score": number, "reason": string}. Score 0-100 on whether this video is current hard-news content.';
+    const prompt = [
+        'Return only JSON: {"score": number, "reason": string}.',
+        "Score 0-100 for whether this video is current hard-news content.",
+        "Rubric:",
+        "90-100: breaking/current hard news with clear civic/global significance.",
+        "70-89: timely hard-news analysis/update on current events.",
+        "40-69: mixed/unclear relevance to current hard news.",
+        "0-39: non-news content (music, entertainment, gaming, memes, clickbait, unrelated).",
+        "Do not use 0 unless it is clearly non-news.",
+        retry ? "This is a retry after an anomalous score; re-evaluate carefully from metadata only." : "",
+    ]
+        .filter(Boolean)
+        .join("\n");
     const input = [
         `title: ${meta.title}`,
         `channel: ${meta.channelTitle}`,
@@ -459,6 +471,22 @@ async function scoreWithOpenAI(meta: YouTubeMeta, model: string): Promise<number
                 { role: "system", content: [{ type: "input_text", text: prompt }] },
                 { role: "user", content: [{ type: "input_text", text: input }] },
             ],
+            text: {
+                format: {
+                    type: "json_schema",
+                    name: "news_score",
+                    schema: {
+                        type: "object",
+                        properties: {
+                            score: { type: "number" },
+                            reason: { type: "string" },
+                        },
+                        required: ["score", "reason"],
+                        additionalProperties: false,
+                    },
+                    strict: true,
+                },
+            },
             max_output_tokens: 120,
         }),
     });
@@ -477,6 +505,15 @@ async function scoreWithOpenAI(meta: YouTubeMeta, model: string): Promise<number
         throw new Error(`OpenAI response did not include a parseable score. Raw: ${text.slice(0, 260)}`);
     }
     return score;
+}
+
+async function scoreWithOpenAI(meta: YouTubeMeta, model: string): Promise<number> {
+    const first = await scoreWithOpenAIOnce(meta, model, false);
+    if (first !== 0) return first;
+
+    // Retry once to reduce strict-mode false negatives from occasional anomalous zero scores.
+    const second = await scoreWithOpenAIOnce(meta, model, true);
+    return Math.max(first, second);
 }
 
 async function scoreWithAnthropic(meta: YouTubeMeta, model: string): Promise<number> {
@@ -601,8 +638,34 @@ async function maybeScoreSemantics(
     cfg: ResolvedValidationConfig,
 ): Promise<number | undefined> {
     if (!cfg.llmProvider) return undefined;
-    if (cfg.llmProvider === "openai") return scoreWithOpenAI(meta, cfg.llmModel);
+    if (cfg.llmProvider === "openai") {
+        const primaryScore = await scoreWithOpenAI(meta, cfg.llmModel);
+        if (primaryScore >= cfg.llmMinScore) return primaryScore;
+
+        const fallbackModel = resolveOpenAIFallbackModel(cfg.llmModel);
+        if (!fallbackModel || fallbackModel === cfg.llmModel) return primaryScore;
+
+        try {
+            const fallbackScore = await scoreWithOpenAI(meta, fallbackModel);
+            return Math.max(primaryScore, fallbackScore);
+        } catch {
+            // Preserve primary score if fallback call fails (network/rate limits/model access).
+            return primaryScore;
+        }
+    }
     return scoreWithAnthropic(meta, cfg.llmModel);
+}
+
+function resolveOpenAIFallbackModel(primaryModel: string): string | undefined {
+    const envModel = process.env.OPENAI_LLM_FALLBACK_MODEL?.trim();
+    if (envModel) {
+        if (envModel.toLowerCase() === "off") return undefined;
+        return envModel;
+    }
+
+    // gpt-4.1-mini can be overly conservative for this classifier; use one stronger retry model.
+    if (primaryModel === "gpt-4.1-mini") return "gpt-4.1";
+    return undefined;
 }
 
 type ResolvedValidationConfig = {
