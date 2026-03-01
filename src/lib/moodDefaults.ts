@@ -22,6 +22,13 @@ export const PREFS_KEY = "wideria-prefs";
 // Absolute URL so the web-published version is fetched even in local-dev / Tauri.
 const LATEST_WID_CDN_URL = "https://waldiez.github.io/player/cdn/repo/latest-auto.wid";
 
+// ── News mood rolling-queue settings ──────────────────────────────────────
+// Must stay in sync with DEFAULT_MODE in generate-latest-wid.ts and
+// MOOD_ORDER in build-latest-news-feed.ts.
+const NEWS_MOOD: MoodMode = "storm";
+// Cap the queue at the total number of active moods — the "default number".
+const NEWS_TRACK_MAX = MOOD_MODES.length;
+
 // ── User-customizable mood appearance ─────────────────────────────────────
 export interface MoodCustomization {
     label?: string;
@@ -160,11 +167,36 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     const shouldSync = !existing || existing.syncDefaultsFromLatest !== false;
     if (!shouldSync) return false;
 
+    const keepSyncEnabled = existing?.syncDefaultsFromLatest !== false;
+
+    // Full replacement — used for ?w= links and the stable default.wid / default.waldiez.
     function applyState(state: Record<string, unknown>): boolean {
-        const keepSyncEnabled = existing?.syncDefaultsFromLatest !== false;
+        return safeWritePrefs({ ...state, syncDefaultsFromLatest: keepSyncEnabled });
+    }
+
+    // Rolling-queue merge — used exclusively for latest-auto.wid.
+    // Rules:
+    //   • Only NEWS_MOOD (storm) in modeDefaults is touched; all other moods are preserved.
+    //   • New tracks are prepended to the existing queue.
+    //   • When queue length < NEWS_TRACK_MAX  →  insert (no eviction).
+    //   • When queue length >= NEWS_TRACK_MAX →  oldest tracks fall off the tail (replace).
+    //   • Top-level `mode` is set only on the very first load (no saved mode yet).
+    function applyNewsState(state: Record<string, unknown>): boolean {
+        const stateModeDefaults = state.modeDefaults as Record<string, WideriaTrack[]> | undefined;
+        const newTracks = stateModeDefaults?.[NEWS_MOOD] ?? [];
+        if (!newTracks.length) return false;
+
+        const existingModeDefaults = (existing?.modeDefaults ?? {}) as Record<string, WideriaTrack[]>;
+        const existingTracks = existingModeDefaults[NEWS_MOOD] ?? [];
+
+        const merged = [...newTracks, ...existingTracks].slice(0, NEWS_TRACK_MAX);
+
         return safeWritePrefs({
-            ...state,
+            ...(existing ?? {}),
+            modeDefaults: { ...existingModeDefaults, [NEWS_MOOD]: merged },
+            ...(existing?.mode ? {} : { mode: NEWS_MOOD }),
             syncDefaultsFromLatest: keepSyncEnabled,
+            v: 2,
         });
     }
 
@@ -172,8 +204,7 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     const customUrl = new URLSearchParams(window.location.search).get("w") ?? null;
 
     // Each helper catches its own errors so a network failure on one URL
-    // (e.g. the absolute CDN URL on a restricted network) never blocks the
-    // remaining fallbacks — the outer try/catch is just an extra safety net.
+    // never blocks the remaining fallbacks.
     async function tryWid(url: string): Promise<boolean> {
         try {
             const res = await fetch(url, { cache: "no-store" });
@@ -182,6 +213,20 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
             const parsed = YAML.parse(text) as unknown;
             const state = parseMaybeManifest(parsed);
             return state ? applyState(state) : false;
+        } catch {
+            return false;
+        }
+    }
+
+    // Same fetch as tryWid but applies the rolling-merge strategy.
+    async function tryLatestWid(url: string): Promise<boolean> {
+        try {
+            const res = await fetch(url, { cache: "no-store" });
+            if (!res.ok) return false;
+            const text = await res.text();
+            const parsed = YAML.parse(text) as unknown;
+            const state = parseMaybeManifest(parsed);
+            return state ? applyNewsState(state) : false;
         } catch {
             return false;
         }
@@ -204,18 +249,18 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     }
 
     try {
-        // Custom URL from ?w= — try as-is first (wid/YAML), then as waldiez (zip).
+        // Custom URL from ?w= — full replacement (user explicitly chose this preset).
         if (customUrl) {
             if (await tryWid(customUrl)) return true;
             if (await tryWaldiez(customUrl)) return true;
         }
-        // Built-in defaults: try the absolute CDN URL first so the hourly-refreshed
-        // preset is fetched even in local-dev and Tauri (where the relative URL
-        // resolves to a bundled/stale copy).  Fall back to the relative path on
-        // the same host, then to the stable bundled default.
-        if (await tryWid(LATEST_WID_CDN_URL)) return true;
+        // Latest news: rolling-merge into storm only, never wiping other moods.
+        // Try the absolute CDN URL first (works in local-dev and Tauri too),
+        // then the same-host relative path as a fallback.
+        if (await tryLatestWid(LATEST_WID_CDN_URL)) return true;
         const base = import.meta.env.BASE_URL ?? "/";
-        if (await tryWid(`${base}cdn/repo/latest-auto.wid`)) return true;
+        if (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) return true;
+        // Stable bundled defaults — full replacement only if news fetch failed.
         if (await tryWid(`${base}default.wid`)) return true;
         return await tryWaldiez(`${base}default.waldiez`);
     } catch {
