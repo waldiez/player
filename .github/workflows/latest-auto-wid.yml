@@ -1,0 +1,100 @@
+name: latest-auto-wid
+
+on:
+  schedule:
+    - cron: "12 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: latest-auto-wid-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.3.8"
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Resolve feed source
+        env:
+          FEED_URL: ${{ secrets.LATEST_WID_FEED_URL }}
+        run: |
+          if [ -n "$FEED_URL" ]; then
+            echo "Using feed from LATEST_WID_FEED_URL"
+            curl -fsSL "$FEED_URL" -o /tmp/latest-feed.json
+            echo "WID_FEED=/tmp/latest-feed.json" >> "$GITHUB_ENV"
+            echo "WID_FEED_MODE=external" >> "$GITHUB_ENV"
+          else
+            echo "Using generated YouTube feed"
+            echo "WID_FEED=static/cdn/repo/latest-feed.generated.json" >> "$GITHUB_ENV"
+            echo "WID_FEED_MODE=generated" >> "$GITHUB_ENV"
+          fi
+
+      - name: Build latest feed from YouTube
+        if: env.WID_FEED_MODE == 'generated'
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          LATEST_WID_YT_QUERY: ${{ vars.LATEST_WID_YT_QUERY }}
+          LATEST_WID_YT_CHANNEL_IDS: ${{ vars.LATEST_WID_YT_CHANNEL_IDS }}
+          LATEST_WID_MIN_DURATION_SECONDS: ${{ vars.LATEST_WID_MIN_DURATION_SECONDS }}
+          LATEST_WID_BLOCKED_TERMS: ${{ vars.LATEST_WID_BLOCKED_TERMS }}
+        run: |
+          bun run wid:feed:latest
+
+      - name: Generate latest-auto.wid
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LATEST_WID_LLM_PROVIDER: ${{ vars.LATEST_WID_LLM_PROVIDER }}
+          LATEST_WID_LLM_MODEL: ${{ vars.LATEST_WID_LLM_MODEL }}
+          LATEST_WID_LLM_MIN_SCORE: ${{ vars.LATEST_WID_LLM_MIN_SCORE }}
+        run: |
+          EXTRA_ARGS=""
+          if [ -n "$LATEST_WID_LLM_PROVIDER" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-provider $LATEST_WID_LLM_PROVIDER"
+          fi
+          if [ -n "$LATEST_WID_LLM_MODEL" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-model $LATEST_WID_LLM_MODEL"
+          fi
+          if [ -n "$LATEST_WID_LLM_MIN_SCORE" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-min-score $LATEST_WID_LLM_MIN_SCORE"
+          fi
+          bun run wid:latest \
+            --feed "$WID_FEED" \
+            --out static/cdn/repo/latest-auto.wid \
+            --verify-news \
+            --strict-news \
+            --max-age-hours 72 \
+            --min-keyword-hits 1 \
+            $EXTRA_ARGS
+
+      - name: Publish latest-auto to public assets
+        run: |
+          mkdir -p public/cdn/repo
+          cp static/cdn/repo/latest-auto.wid public/cdn/repo/latest-auto.wid
+
+      - name: Commit updates
+        run: |
+          if git diff --quiet -- static/cdn/repo/latest-auto.wid static/cdn/repo/latest-feed.generated.json public/cdn/repo/latest-auto.wid; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/cdn/repo/latest-auto.wid static/cdn/repo/latest-feed.generated.json public/cdn/repo/latest-auto.wid
+          git commit -m "chore(cdn): refresh latest-auto.wid"
+          git push

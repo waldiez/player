@@ -31,6 +31,40 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Validate latest-auto pipeline (optional, requires secrets)
+        if: ${{ secrets.YOUTUBE_API_KEY != '' }}
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LATEST_WID_YT_QUERY: ${{ vars.LATEST_WID_YT_QUERY }}
+          LATEST_WID_YT_CHANNEL_IDS: ${{ vars.LATEST_WID_YT_CHANNEL_IDS }}
+          LATEST_WID_MIN_DURATION_SECONDS: ${{ vars.LATEST_WID_MIN_DURATION_SECONDS }}
+          LATEST_WID_BLOCKED_TERMS: ${{ vars.LATEST_WID_BLOCKED_TERMS }}
+          LATEST_WID_LLM_PROVIDER: ${{ vars.LATEST_WID_LLM_PROVIDER }}
+          LATEST_WID_LLM_MODEL: ${{ vars.LATEST_WID_LLM_MODEL }}
+          LATEST_WID_LLM_MIN_SCORE: ${{ vars.LATEST_WID_LLM_MIN_SCORE }}
+        run: |
+          bun scripts/build-latest-news-feed.ts --out /tmp/latest-feed.generated.json --seed static/cdn/repo/latest-feed.sample.json
+          EXTRA_ARGS=""
+          if [ -n "$LATEST_WID_LLM_PROVIDER" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-provider $LATEST_WID_LLM_PROVIDER"
+          fi
+          if [ -n "$LATEST_WID_LLM_MODEL" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-model $LATEST_WID_LLM_MODEL"
+          fi
+          if [ -n "$LATEST_WID_LLM_MIN_SCORE" ]; then
+            EXTRA_ARGS="$EXTRA_ARGS --llm-min-score $LATEST_WID_LLM_MIN_SCORE"
+          fi
+          bun scripts/generate-latest-wid.ts \
+            --feed /tmp/latest-feed.generated.json \
+            --out /tmp/latest-auto.wid \
+            --verify-news \
+            --strict-news \
+            --max-age-hours 72 \
+            --min-keyword-hits 1 \
+            $EXTRA_ARGS
+
       - name: Validate manifest
         run: bun run manifest:check
 

@@ -198,8 +198,10 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
             if (await tryWid(customUrl)) return true;
             if (await tryWaldiez(customUrl)) return true;
         }
-        // Built-in defaults — use BASE_URL so GitHub Pages (/player/) is handled correctly.
+        // Built-in defaults — prefer latest auto preset, then fallback to stable defaults.
+        // Use BASE_URL so GitHub Pages (/player/) is handled correctly.
         const base = import.meta.env.BASE_URL ?? "/";
+        if (await tryWid(`${base}cdn/repo/latest-auto.wid`)) return true;
         if (await tryWid(`${base}default.wid`)) return true;
         return await tryWaldiez(`${base}default.waldiez`);
     } catch {

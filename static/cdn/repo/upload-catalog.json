@@ -1,0 +1,34 @@
+{
+    "generatedAt": "2026-03-01T00:00:00.000Z",
+    "basePath": "static/cdn/repo",
+    "items": [
+        {
+            "file": "traditional-ethnic.wid",
+            "kind": "contrib",
+            "title": "Traditional & Ethnic",
+            "description": "Traditional/folk-focused preset across regions."
+        },
+        {
+            "file": "news-moods.wid",
+            "kind": "contrib",
+            "title": "News Moods",
+            "description": "News-oriented preset with mood labels/colors."
+        },
+        {
+            "file": "drum-n-base.wid",
+            "kind": "contrib",
+            "title": "Drum-n-Base",
+            "description": "High-energy DnB starter preset."
+        },
+        {
+            "file": "latest-auto.wid",
+            "kind": "generated",
+            "title": "Latest Auto",
+            "description": "Auto-generated latest/news preset from pipeline."
+        }
+    ],
+    "notes": [
+        "default.wid is intentionally excluded from this upload catalog.",
+        "latest-auto.wid should be regenerated with strict validation before publishing."
+    ]
+}

@@ -153,8 +153,10 @@ export function SettingsPanel({ onClose, className }: SettingsPanelProps) {
                             className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
                         />
                         <span className="text-xs text-player-text-muted">
-                            Sync defaults from latest deployed <code>default.wid</code> on app start. Turn off
-                            to keep local customized defaults unchanged.
+                            Sync defaults from latest deployed <code>cdn/repo/latest-auto.wid</code>{" "}
+                            (fallback:
+                            <code>default.wid</code>) on app start. Turn off to keep local customized defaults
+                            unchanged.
                         </span>
                     </label>
                 </section>

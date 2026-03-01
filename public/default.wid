@@ -142,14 +142,8 @@ state:
     disco:
       - type: "youtube"
         ytType: "video"
-        videoId: "k7_0WorMSNE"
-        name: "YouTube · k7_0WorMSNE"
-        artist: "YouTube"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TLV4_xaYynY"
-        name: "YouTube · TLV4_xaYynY"
+        videoId: "Tth-8wA3PdY"
+        name: "I will survive - Gloria Gaynor"
         artist: "YouTube"
         chapter: null
   moodCustomizations: {}

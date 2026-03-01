@@ -1,0 +1,74 @@
+{
+    "generatedAt": "2026-03-01T00:28:57.564Z",
+    "mode": "dock",
+    "descriptionName": "Waldiez Repo - Latest (News Pulse)",
+    "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
+    "tags": ["waldiez", "player", "latest", "news", "auto-generated", "cron"],
+    "lifecycleNote": "Update from your upstream news/music classifier feed.",
+    "eq": {
+        "bass": 1,
+        "mid": 1,
+        "treble": 1
+    },
+    "fx": {
+        "reverb": false,
+        "echo": false,
+        "fuzz": false,
+        "vinyl": false
+    },
+    "validation": {
+        "maxAgeHours": 72,
+        "minKeywordHits": 1,
+        "newsKeywords": ["news", "breaking", "headlines", "report", "live", "world", "politics"],
+        "trustedChannels": ["BBC News", "Reuters", "Associated Press", "Al Jazeera English", "DW News"],
+        "requireTrustedChannel": false,
+        "llmMinScore": 70
+    },
+    "moodCustomizations": {
+        "journey": {
+            "label": "Headlines",
+            "accent": "#2f7fd3",
+            "bg": "#0f1d2d"
+        },
+        "dock": {
+            "label": "Analysis",
+            "accent": "#1f9d73",
+            "bg": "#10261f"
+        },
+        "storm": {
+            "label": "Breaking",
+            "accent": "#d95050",
+            "bg": "#2a1111"
+        },
+        "fest": {
+            "label": "Uplift",
+            "accent": "#e7a93a",
+            "bg": "#2a2010"
+        }
+    },
+    "tracks": [
+        {
+            "mood": "dock",
+            "videoId": "VWfuMzu3NBw",
+            "name": "🔴 LIVE | Iran–US–Israel War Escalates | Dubai, Abu Dhabi, Qatar & Bahrain Under Attack | SAMAA TV",
+            "artist": "SAMAA TV"
+        }
+    ],
+    "sourceFilters": {
+        "minDurationSeconds": 180,
+        "blockedTerms": [
+            "sports",
+            "highlights",
+            "points table",
+            "scorecard",
+            "cricket",
+            "football",
+            "nba",
+            "nfl",
+            "ipl",
+            "shorts",
+            "clip"
+        ],
+        "channelIds": []
+    }
+}

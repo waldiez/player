@@ -144,6 +144,50 @@ bun format
 bun lint
 ```
 
+### Auto-Generate `latest-auto.wid`
+
+Generate the CDN preset locally from a JSON feed:
+
+```bash
+bun run wid:latest:sample
+# or:
+bun run wid:latest --feed path-or-url-to-feed.json --out static/cdn/repo/latest-auto.wid
+# build feed from YouTube + generate strict .wid:
+bun run wid:latest:pipeline
+# trust report only (no write):
+bun run wid:latest:report
+# strict latest-news validation:
+bun run wid:latest --feed path-or-url-to-feed.json --out static/cdn/repo/latest-auto.wid --verify-news --strict-news
+```
+
+Feed contract (minimum):
+
+```json
+{
+  "mode": "dock",
+  "tracks": [{ "mood": "dock", "videoId": "4xiWvdwsCBQ", "name": "Latest Feed Pulse 01" }]
+}
+```
+
+- A scheduled workflow is included at `.github/workflows/latest-auto-wid.yml`.
+- If secret `LATEST_WID_FEED_URL` exists, the workflow fetches that feed URL.
+- Otherwise it builds `static/cdn/repo/latest-feed.generated.json` from YouTube Search API.
+- The workflow also publishes `public/cdn/repo/latest-auto.wid` for first-load bootstrap.
+- In strict mode, `YOUTUBE_API_KEY` is required to validate recency/topic against YouTube metadata.
+- Optional semantic scoring can be enabled with:
+  - `OPENAI_API_KEY` + `--llm-provider openai`
+  - `ANTHROPIC_API_KEY` + `--llm-provider anthropic`
+- Optional GitHub Variables for generated feed mode:
+  - `LATEST_WID_YT_QUERY`
+  - `LATEST_WID_YT_CHANNEL_IDS` (CSV of channel IDs)
+  - `LATEST_WID_MIN_DURATION_SECONDS`
+  - `LATEST_WID_BLOCKED_TERMS`
+  - `LATEST_WID_LLM_PROVIDER`
+  - `LATEST_WID_LLM_MODEL`
+  - `LATEST_WID_LLM_MIN_SCORE`
+- Use `--dry-run --dry-run-report` to print per-track trust evidence (age, keyword hits, llm score, reason) without writing files.
+- Upload-ready non-default presets are listed in `static/cdn/repo/upload-catalog.json`.
+
 ## Project Structure
 
 ```
