@@ -90,10 +90,12 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
   }
 
   String _withYtApiKey(String baseUrl) {
-    if (_ytApiKey.trim().isEmpty) return baseUrl;
     final Uri uri = Uri.parse(baseUrl);
     final Map<String, String> q = Map<String, String>.from(uri.queryParameters);
-    q['yt_api_key'] = _ytApiKey.trim();
+    q['runtime'] = 'flutter_webview';
+    if (_ytApiKey.trim().isNotEmpty) {
+      q['yt_api_key'] = _ytApiKey.trim();
+    }
     return uri.replace(queryParameters: q).toString();
   }
 

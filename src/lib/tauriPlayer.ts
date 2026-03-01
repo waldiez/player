@@ -18,19 +18,18 @@
  */
 import { invoke } from "@tauri-apps/api/core";
 import { listen } from "@tauri-apps/api/event";
+import { getRuntimeContext } from "@/lib/runtime";
 
 // ── Environment detection ──────────────────────────────────────────────────
 
 /** Returns true when running inside a Tauri desktop shell. */
 export function isTauri(): boolean {
-    return typeof window !== "undefined" && "__TAURI_INTERNALS__" in window;
+    return getRuntimeContext().isTauri;
 }
 
 /** Returns true when running in a packaged Tauri app (non-http(s) origin). */
 export function isTauriPackaged(): boolean {
-    if (!isTauri()) return false;
-    if (typeof window === "undefined") return false;
-    return window.location.protocol !== "http:" && window.location.protocol !== "https:";
+    return getRuntimeContext().kind === "tauri-packaged";
 }
 
 // ── Event types ────────────────────────────────────────────────────────────

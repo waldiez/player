@@ -12,7 +12,8 @@
 import { useAudioChain } from "@/hooks/useAudioChain";
 import { extractYouTubeId } from "@/lib/mediaSource";
 import { getPipedAudioUrl } from "@/lib/pipedPlayer";
-import { isTauri, isTauriPackaged, ytGetAudioUrl } from "@/lib/tauriPlayer";
+import { getRuntimeContext } from "@/lib/runtime";
+import { ytGetAudioUrl } from "@/lib/tauriPlayer";
 import { usePlayerStore } from "@/stores";
 import { EQ_PRESETS, MOOD_META } from "@/types/mood";
 import type { MoodMode } from "@/types/mood";
@@ -42,8 +43,9 @@ export const MoodPlayer = forwardRef<MoodPlayerHandle, MoodPlayerProps>(function
     const [audioEl, setAudioEl] = useState<HTMLAudioElement | null>(null);
     const isSeeking = useRef(false);
     const ytRef = useRef<YouTubeEmbedHandle>(null);
-    const isTauriEnv = isTauri();
-    const isTauriPackagedEnv = isTauriPackaged();
+    const runtime = getRuntimeContext();
+    const isTauriEnv = runtime.isTauri;
+    const isTauriPackagedEnv = runtime.isPackagedDesktop;
 
     // Source type guards
     const src = currentMedia?.source ?? "file";

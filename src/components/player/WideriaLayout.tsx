@@ -34,10 +34,9 @@ import {
     saveModeEqFxToPrefs,
 } from "@/lib/moodDefaults";
 import { getPipedAudioUrl } from "@/lib/pipedPlayer";
+import { getRuntimeContext } from "@/lib/runtime";
 import { STREAM_TARGETS, isBrowserPlayableStreamProtocol } from "@/lib/streamTargets";
 import {
-    isTauri,
-    isTauriPackaged,
     mpvCheck,
     mpvLoad,
     mpvPause,
@@ -361,8 +360,9 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
     // Either way the URL is set on the existing <audio> element, so the full
     // Web Audio chain (EQ / FX / visualiser / analyser) activates automatically.
     // Falls back to the IFrame if the extraction fails.
-    const isTauriEnv = isTauri();
-    const isTauriPackagedEnv = isTauriPackaged();
+    const runtime = getRuntimeContext();
+    const isTauriEnv = runtime.isTauri;
+    const isTauriPackagedEnv = runtime.isPackagedDesktop;
     const [nativeYtUrl, setNativeYtUrl] = useState<string | null>(null);
     const [nativeYtSource, setNativeYtSource] = useState<"piped" | "ytdlp" | null>(null);
     const [ytResolveDone, setYtResolveDone] = useState(false);

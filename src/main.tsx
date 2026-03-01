@@ -10,7 +10,8 @@ import {
     importPrefsFromUrl,
     readPrefs,
 } from "./lib/moodDefaults";
-import { isTauri, isTauriPackaged, mpvCheck, mpvPause, mpvStart } from "./lib/tauriPlayer";
+import { getRuntimeContext } from "./lib/runtime";
+import { mpvCheck, mpvPause, mpvStart } from "./lib/tauriPlayer";
 import { nextWid } from "./lib/wid";
 import { usePlayerStore } from "./stores";
 import type { MediaFile, PlayerMode } from "./types";
@@ -134,17 +135,19 @@ async function setupTauriListeners(): Promise<void> {
 }
 
 async function start() {
+    const runtime = getRuntimeContext();
+
     await bootstrapDefaultPrefsFromAsset();
 
     const widLoaded = await handleProtocolUri();
 
     // Set up Tauri event listeners before render (non-blocking for non-Tauri).
-    if (isTauri()) {
+    if (runtime.isTauri) {
         await setupTauriListeners();
     }
 
     // Packaged desktop: prewarm mpv daemon early and keep it paused.
-    if (isTauriPackaged()) {
+    if (runtime.kind === "tauri-packaged") {
         void (async () => {
             try {
                 const ok = await mpvCheck();

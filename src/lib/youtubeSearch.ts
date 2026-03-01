@@ -8,7 +8,8 @@
  *
  * Returns [] on total failure (never throws).
  */
-import { isTauri, isTauriPackaged, ytSearchVideos } from "@/lib/tauriPlayer";
+import { getRuntimeContext } from "@/lib/runtime";
+import { ytSearchVideos } from "@/lib/tauriPlayer";
 import { readUiSettings } from "@/lib/uiSettings";
 
 export interface YouTubeSearchResult {
@@ -260,7 +261,7 @@ async function searchViaYouTubeDataApi(query: string): Promise<YouTubeSearchResu
 }
 
 async function searchViaTauriBackend(query: string): Promise<YouTubeSearchResult[]> {
-    if (!isTauri()) return [];
+    if (!getRuntimeContext().isTauri) return [];
     try {
         const data = await ytSearchVideos(query, SEARCH_LIMIT);
         return data
@@ -346,7 +347,8 @@ export async function searchYouTube(query: string): Promise<YouTubeSearchResult[
     const q = query.trim();
     if (q.length < 2) return [];
 
-    const packagedDesktop = isTauriPackaged();
+    const runtime = getRuntimeContext();
+    const packagedDesktop = runtime.isPackagedDesktop;
 
     if (packagedDesktop) {
         // Packaged desktop: web-first strategy, backend optional.
