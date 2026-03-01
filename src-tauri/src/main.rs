@@ -3,7 +3,7 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 use std::sync::Arc;
-use tauri::{Emitter};
+use tauri::Emitter;
 use tokio::sync::Mutex;
 use waldiez_player_lib::commands;
 use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};

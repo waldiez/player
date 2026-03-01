@@ -1,5 +1,5 @@
 /** Source types produced by URL-based parsing (excludes device sources). */
-export type UrlSourceType = "file" | "youtube" | "spotify" | "url";
+export type UrlSourceType = "file" | "youtube" | "spotify" | "soundcloud" | "url";
 
 export interface ParsedMediaUrl {
     sourceType: UrlSourceType;
@@ -68,6 +68,28 @@ export function parseMediaUrl(input: string): ParsedMediaUrl | null {
         }
     }
 
+    // ── SoundCloud ─────────────────────────────────────────────────────────
+    const scEmbed = buildSoundCloudEmbedUrl(url);
+    if (scEmbed) {
+        try {
+            const u = new URL(url);
+            const parts = u.pathname.split("/").filter(Boolean);
+            // /user/sets/playlist-name  or  /user/track-name
+            const isSet = parts[1] === "sets";
+            const label = isSet
+                ? `SoundCloud Playlist — ${parts[2] ?? parts[0]}`
+                : `SoundCloud — ${parts.slice(0, 2).join(" / ")}`;
+            return {
+                sourceType: "soundcloud",
+                name: label,
+                path: url,
+                embedUrl: scEmbed,
+            };
+        } catch {
+            /* ignore */
+        }
+    }
+
     // ── Generic HTTP(S) stream / direct audio file ─────────────────────────
     const name = url.split("/").filter(Boolean).pop()?.split("?")[0] ?? "Stream";
     return {
@@ -125,6 +147,26 @@ function buildSpotifyEmbedUrl(url: string): string | null {
         /* ignore */
     }
     return null;
+}
+
+function buildSoundCloudEmbedUrl(url: string): string | null {
+    try {
+        const u = new URL(url);
+        if (!u.hostname.includes("soundcloud.com")) return null;
+        const parts = u.pathname.split("/").filter(Boolean);
+        // Need at least /user/track or /user/sets/playlist
+        if (parts.length < 2) return null;
+        // Exclude non-track pages
+        const excluded = ["discover", "stream", "upload", "you", "charts", "pages", "jobs"];
+        if (excluded.includes(parts[0])) return null;
+        return (
+            "https://w.soundcloud.com/player/?url=" +
+            encodeURIComponent(url) +
+            "&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+        );
+    } catch {
+        return null;
+    }
 }
 
 /** Returns true for rtsp:// / rtsps:// URLs that browsers cannot play. */

@@ -85,6 +85,7 @@ import { AddDeviceDialog } from "./AddDeviceDialog";
 import { AddSourceDialog } from "./AddSourceDialog";
 import { MoodCustomizeDialog } from "./MoodCustomizeDialog";
 import { MoodVisualizer } from "./MoodVisualizer";
+import { SearchBar } from "./SearchBar";
 import { YouTubeEmbed } from "./YouTubeEmbed";
 import type { YouTubeEmbedHandle } from "./YouTubeEmbed";
 
@@ -165,6 +166,15 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
         cycleRepeatMode,
         reorderLibrary,
     } = usePlayerStore();
+
+    // ── Search add-and-play ───────────────────────────────────────────────
+    const addAndPlay = useCallback(
+        (entry: MediaFile) => {
+            addToLibrary(entry);
+            setCurrentMedia(entry);
+        },
+        [addToLibrary, setCurrentMedia],
+    );
 
     // ── Video / visualizer toggle (YouTube only) ─────────────────────────
     // false = show YouTube iframe, true = hide iframe and show visualizer animation
@@ -783,6 +793,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
         const s = item.source ?? "file";
         if (s === "youtube") return <Youtube className="h-3 w-3 flex-shrink-0 text-red-400" />;
         if (s === "spotify") return <Headphones className="h-3 w-3 flex-shrink-0 text-green-400" />;
+        if (s === "soundcloud") return <Music className="h-3 w-3 flex-shrink-0 text-orange-400" />;
         if (s === "url") return <Globe className="h-3 w-3 flex-shrink-0 text-[var(--color-player-accent)]" />;
         if (s === "camera") return <Camera className="h-3 w-3 flex-shrink-0 text-blue-400" />;
         if (s === "microphone") return <Mic2 className="h-3 w-3 flex-shrink-0 text-purple-400" />;
@@ -888,17 +899,20 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                             <span className="hidden sm:inline">{getMoodLabel(m)}</span>
                         </button>
                     ))}
-
-                    {/* Customise mood colours / name */}
-                    <button
-                        onClick={() => setShowCustomize(true)}
-                        aria-label="Customize mood appearance"
-                        title="Customize mood"
-                        className="ml-1 rounded p-1.5 text-[var(--color-player-text-muted)] transition-colors hover:text-[var(--color-player-text)]"
-                    >
-                        <Palette className="h-3.5 w-3.5" />
-                    </button>
                 </nav>
+
+                {/* Search bar */}
+                <SearchBar onAdd={addAndPlay} className="ml-1" />
+
+                {/* Customise mood colours / name */}
+                <button
+                    onClick={() => setShowCustomize(true)}
+                    aria-label="Customize mood appearance"
+                    title="Customize mood"
+                    className="ml-1 rounded p-1.5 text-[var(--color-player-text-muted)] transition-colors hover:text-[var(--color-player-text)]"
+                >
+                    <Palette className="h-3.5 w-3.5" />
+                </button>
             </header>
 
             {/* ════════════════════ CANVAS ════════════════════ */}

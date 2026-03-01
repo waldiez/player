@@ -78,6 +78,7 @@ export interface MoodMeta {
     accent: string;
     bg: string;
     defaultEQ: EQPresetName;
+    icon?: string | null;
 }
 
 export const MOOD_META: Record<MoodMode, MoodMeta> = {

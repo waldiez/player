@@ -52,6 +52,7 @@ function TrackIcon({ item, isCurrent }: { item: MediaFile; isCurrent: boolean })
     const s = item.source ?? "file";
     if (s === "youtube") return <Youtube className="h-4 w-4 flex-shrink-0 text-red-400" />;
     if (s === "spotify") return <Headphones className="h-4 w-4 flex-shrink-0 text-green-400" />;
+    if (s === "soundcloud") return <Music className="h-4 w-4 flex-shrink-0 text-orange-400" />;
     if (s === "url")
         return (
             <Globe

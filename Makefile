@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-.PHONY: help install dev format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt
+.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt
 
 help: ## Show available commands
 	@awk 'BEGIN {FS = ":.*## "}; /^[a-zA-Z0-9_.-]+:.*## / {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
@@ -10,6 +10,9 @@ install: ## Install dependencies
 
 dev: ## Run web development server
 	bun run dev
+
+dev-tauri: ## Run Tauri desktop app with HMR (frontend) + watch-rebuild (Rust)
+	bun run dev:tauri
 
 format: ## Auto-format code and styles
 	bun run format

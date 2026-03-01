@@ -3,15 +3,20 @@ import { AddSourceDialog } from "@/components/player/AddSourceDialog";
 import { MoodPlayer } from "@/components/player/MoodPlayer";
 import type { MoodPlayerHandle } from "@/components/player/MoodPlayer";
 import { PlaylistPanel } from "@/components/player/PlaylistPanel";
+import { ScreensaverOverlay } from "@/components/player/ScreensaverOverlay";
+import { SearchBar } from "@/components/player/SearchBar";
 import { SettingsPanel } from "@/components/player/SettingsPanel";
 import { VideoPlayer } from "@/components/player/VideoPlayer";
 import { WideriaLayout } from "@/components/player/WideriaLayout";
 import { Button, Slider, Tooltip } from "@/components/ui";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
+import { type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
+import { useIdleTimer } from "@/lib/useIdleTimer";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
 import { MODE_CONFIGS, type PlayerMode, getModeConfig } from "@/types";
+import type { MediaFile } from "@/types";
 import type { MoodMode } from "@/types/mood";
 
 import { useCallback, useEffect, useRef, useState } from "react";
@@ -110,6 +115,8 @@ export function App() {
     const [showModeMenu, setShowModeMenu] = useState(false);
     const [showSleepMenu, setShowSleepMenu] = useState(false);
     const [showAddSource, setShowAddSource] = useState(false);
+    const [isScreensaverActive, setIsScreensaverActive] = useState(false);
+    const [uiSettings, setUiSettings] = useState<UiSettings>(readUiSettings);
     const containerRef = useRef<HTMLDivElement>(null);
     // Ref to MoodPlayer so we can forward scrubber/keyboard seeks to YouTube
     const moodPlayerRef = useRef<MoodPlayerHandle>(null);
@@ -268,6 +275,23 @@ export function App() {
         prevPage,
     ]);
 
+    // ── Screensaver ────────────────────────────────────────────────────────
+    const idleMs =
+        uiSettings.screensaverEnabled && playback.isPlaying
+            ? uiSettings.screensaverTimeoutMinutes * 60_000
+            : null;
+    useIdleTimer(idleMs, () => setIsScreensaverActive(true));
+
+    useEffect(() => {
+        if (!playback.isPlaying) setIsScreensaverActive(false);
+    }, [playback.isPlaying]);
+
+    const addMediaUrl = useCallback((entry: MediaFile) => {
+        const store = usePlayerStore.getState();
+        store.addToLibrary(entry);
+        store.setCurrentMedia(entry);
+    }, []);
+
     const addMedia = useCallback((file: File) => {
         const store = usePlayerStore.getState();
         const url = URL.createObjectURL(file);
@@ -418,6 +442,7 @@ export function App() {
                             <ListMusic className="h-4 w-4" />
                         </Button>
                     </Tooltip>
+                    <SearchBar onAdd={addMediaUrl} />
                     <Tooltip content="Add URL (YouTube, Spotify, stream…)">
                         <Button variant="ghost" size="icon" onClick={() => setShowAddSource(true)}>
                             <Globe className="h-4 w-4" />
@@ -861,7 +886,14 @@ export function App() {
                 {/* Settings Panel */}
                 {showSettings && (
                     <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
-                        <SettingsPanel onClose={() => setShowSettings(false)} />
+                        <SettingsPanel
+                            onClose={() => setShowSettings(false)}
+                            onUiSettingsChange={next => {
+                                setUiSettings(next);
+                                writeUiSettings(next);
+                            }}
+                            uiSettings={uiSettings}
+                        />
                     </div>
                 )}
             </div>
@@ -871,6 +903,18 @@ export function App() {
 
             {/* Add-source dialog */}
             {showAddSource && <AddSourceDialog onClose={() => setShowAddSource(false)} />}
+
+            {/* Screensaver overlay */}
+            {isScreensaverActive && (
+                <ScreensaverOverlay
+                    media={currentMedia}
+                    mode={playerMode}
+                    currentTime={playback.currentTime}
+                    duration={playback.duration}
+                    style={uiSettings.screensaverStyle}
+                    onDismiss={() => setIsScreensaverActive(false)}
+                />
+            )}
         </div>
     );
 }

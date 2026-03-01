@@ -2,6 +2,7 @@ export type MediaSourceType =
     | "file"
     | "youtube"
     | "spotify"
+    | "soundcloud"
     | "url"
     | "camera"
     | "microphone"

@@ -19,6 +19,7 @@ interface AddSourceDialogProps {
 const SOURCE_LABELS: Record<UrlSourceType, string> = {
     youtube: "YouTube",
     spotify: "Spotify",
+    soundcloud: "SoundCloud",
     url: "Stream",
     file: "File",
 };
@@ -26,6 +27,7 @@ const SOURCE_LABELS: Record<UrlSourceType, string> = {
 const SOURCE_COLORS: Record<UrlSourceType, string> = {
     youtube: "bg-red-500/20 text-red-400",
     spotify: "bg-green-500/20 text-green-400",
+    soundcloud: "bg-orange-500/20 text-orange-400",
     url: "bg-[var(--color-player-accent)]/20 text-[var(--color-player-accent)]",
     file: "",
 };
@@ -62,6 +64,7 @@ export function AddSourceDialog({ onClose }: AddSourceDialogProps) {
             duration: 0,
             size: 0,
             createdAt: new Date(),
+            // SoundCloud: embed via widget iframe
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
@@ -157,9 +160,10 @@ export function AddSourceDialog({ onClose }: AddSourceDialogProps) {
                         <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-[var(--color-player-text-muted)]">
                             Supported sources
                         </p>
-                        <div className="grid grid-cols-3 gap-2">
+                        <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
                             {[
                                 { label: "YouTube", sub: "youtube.com · youtu.be", color: "text-red-400" },
+                                { label: "SoundCloud", sub: "soundcloud.com", color: "text-orange-400" },
                                 { label: "Spotify", sub: "open.spotify.com", color: "text-green-400" },
                                 {
                                     label: "Stream URL",

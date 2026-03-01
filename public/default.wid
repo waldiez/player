@@ -1,169 +1,368 @@
-$schema: "https://xperiens.waldiez.io/schema/v1/manifest"
-
+$schema: https://xperiens.waldiez.io/schema/v1/manifest
 identity:
-  wid: "wdz://waldiez/player/preferences/20260227T120000.0000Z-d3f4u1t"
-  type: "state"
-  created: "2026-02-27T12:00:00.000Z"
-
+  wid: wdz://waldiez/player/preferences/20260301T082827.0000Z-5b05c5
+  type: state
+  created: 2026-03-01T08:28:27.486Z
 description:
-  name: "Waldiez Player — Default Preferences"
-  purpose: "Clean-slate preferences snapshot. Import this to restore sensible defaults."
+  name: Waldiez Player Preferences
+  purpose: Portable preferences snapshot for the web player.
   tags:
-    - "waldiez"
-    - "player"
-    - "preferences"
-    - "default"
-
+    - waldiez
+    - player
+    - preferences
+    - export
 interface:
   capabilities:
-    - "waldiez.player.export.wid.v1"
-    - "waldiez.player.export.waldiez.v1"
-    - "waldiez.player.state.preferences.v1"
+    - waldiez.player.export.wid.v1
+    - waldiez.player.export.waldiez.v1
+    - waldiez.player.state.preferences.v1
   capability_ids:
-    "waldiez.player.export.wid.v1": "wdz://waldiez/player/capability/20260227T120001.0000Z-c4p4b1l"
-    "waldiez.player.export.waldiez.v1": "wdz://waldiez/player/capability/20260227T120002.0000Z-c4p4b2l"
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260227T120003.0000Z-c4p4b3l"
+    waldiez.player.export.wid.v1: wdz://waldiez/player/capability/20260301T082827.0001Z-21f3b9
+    waldiez.player.export.waldiez.v1: wdz://waldiez/player/capability/20260301T082827.0002Z-112643
+    waldiez.player.state.preferences.v1: wdz://waldiez/player/capability/20260301T082827.0003Z-4dd955
   operations:
-    - name: "import-preferences"
-      description: "Apply exported preferences state to local player settings."
+    - name: import-preferences
+      description: Apply exported preferences state to local player settings.
       params: {}
       returns:
-        type: "boolean"
+        type: boolean
   state_schema:
-    mode: { type: "string", mutable: true }
-    volume: { type: "number", mutable: true }
-    muted: { type: "boolean", mutable: true }
-    modes: { type: "object", mutable: true }
-    modeDefaults: { type: "object", mutable: true }
-    moodCustomizations: { type: "object", mutable: true }
-
+    mode:
+      type: string
+      mutable: true
+    volume:
+      type: number
+      mutable: true
+    muted:
+      type: boolean
+      mutable: true
+    modes:
+      type: object
+      mutable: true
+    modeDefaults:
+      type: object
+      mutable: true
+    moodCustomizations:
+      type: object
+      mutable: true
 state:
-  v: 2
-  mode: "journey"
-  volume: 0.8
-  muted: false
-  loop: false
-  shuffle: false
-  eq:
-    bass: 0
-    mid: 0
-    treble: 0
-  fx:
-    reverb: false
-    echo: false
-    fuzz: false
-    vinyl: false
-  modes: {}
-  modeDefaults:
-    journey:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7hHZnvjCbVw"
-        name: "Habits — Vintage 1930s Jazz (Haley Reinhart)"
-        artist: "YouTube"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "I03xFqbxUp8"
-        name: "YouTube · I03xFqbxUp8"
-        artist: "YouTube"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m3lF2qEA2cw"
-        name: "YouTube · m3lF2qEA2cw"
-        artist: "YouTube"
-        chapter: null
-    - type: "youtube"
-        ytType: "video"
-        videoId: "TdrL3QxjyVw"
-        name: "YouTube · TdrL3QxjyVw"
-        artist: "YouTube"
-        chapter: null
+  modes:
+    fest:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: 4xiWvdwsCBQ
+          name: Pan Pan - Ανισόπεδη Ντίσκο (feat. Καλλιόπη Μητροπούλου) | Official Lyric
+            Video
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: dZNekHrcMPc
+          name: MIKRO Gefyra HD with lyrics
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: 0vfTiV0BCSw
+          name: Στέρεο Νόβα - Νέα Ζωή 705 (Official Video + HQ Audio)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: 2tOutF8B3f8
+          name: Aphex Twin - Xtal (HQ)
+          artist: YouTube
+          chapter: null
+      savedTrackId: 4xiWvdwsCBQ
+      eq:
+        bass: 0
+        mid: 0
+        treble: 0
+      fx:
+        reverb: false
+        echo: false
+        fuzz: false
+        vinyl: false
     dock:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TdrL3QxjyVw"
-        name: "YouTube · TdrL3QxjyVw"
-        artist: "YouTube"
-        chapter: null
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: TdrL3QxjyVw
+          name: Lana Del Rey - Summertime Sadness (Official Music Video)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: 5U0FCczeWQQ
+          name: YouTube — 5U0FCczeWQQ
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: Vn8phH0k5HI
+          name: YouTube — Vn8phH0k5HI
+          artist: YouTube
+          chapter: null
+      savedTrackId: Vn8phH0k5HI
+      eq:
+        bass: 1
+        mid: 3
+        treble: -4
+      fx:
+        reverb: true
+        echo: false
+        fuzz: false
+        vinyl: true
     storm:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2tOutF8B3f8"
-        name: "YouTube · 2tOutF8B3f8"
-        artist: "YouTube"
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: HBQ7Cu8BkPw
+          name: YouTube — HBQ7Cu8BkPw
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: dkF0kwP_DsI
+          name: YouTube — dkF0kwP_DsI
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: 2tOutF8B3f8
+          name: Aphex Twin - Xtal (HQ)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: eK6bdim2Vuc
+          name: YouTube — eK6bdim2Vuc
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: kqjeNSNuNPM
+          name: YouTube — kqjeNSNuNPM
+          artist: YouTube
+          chapter: null
+      savedTrackId: eK6bdim2Vuc
+      eq:
+        bass: 6
+        mid: 0
+        treble: -2
+      fx:
+        reverb: false
+        echo: true
+        fuzz: false
+        vinyl: false
+    journey:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: 7hHZnvjCbVw
+          name: Habits — Vintage 1930's Jazz (Haley Reinhart)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: I03xFqbxUp8
+          name: Thom Yorke - Last I Heard (…He Was Circling The Drain)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: m3lF2qEA2cw
+          name: Creep - Vintage Postmodern Jukebox Radiohead Cover ft. Haley Reinhart
+          artist: YouTube
+          chapter: null
+      savedTrackId: I03xFqbxUp8
+      eq:
+        bass: 3
+        mid: 1
+        treble: -1
+      fx:
+        reverb: true
+        echo: false
+        fuzz: false
+        vinyl: false
+    rock:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: hTWKbfoikeg
+          name: Nirvana - Smells Like Teen Spirit (Official Music Video)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: btPJPFnesV4
+          name: Survivor - Eye Of The Tiger (Official HD Video)
+          artist: YouTube
+          chapter: null
+      savedTrackId: hTWKbfoikeg
+      eq:
+        bass: 4
+        mid: -2
+        treble: 2
+      fx:
+        reverb: false
+        echo: false
+        fuzz: true
+        vinyl: false
+    pop:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: nfWlot6h_JM
+          name: Taylor Swift - Shake It Off
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: RgKAFK5djSk
+          name: Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7
+            Soundtrack
+          artist: YouTube
+          chapter: null
+      savedTrackId: nfWlot6h_JM
+      eq:
+        bass: -2
+        mid: 2
+        treble: 4
+      fx:
+        reverb: true
+        echo: false
+        fuzz: false
+        vinyl: false
+    disco:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: TLV4_xaYynY
+          name: The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)
+          artist: YouTube
+          chapter: null
+      savedTrackId: TLV4_xaYynY
+      eq:
+        bass: 1
+        mid: 3
+        treble: -4
+      fx:
+        reverb: true
+        echo: false
+        fuzz: false
+        vinyl: true
+  v: 2
+  modeDefaults:
+    storm:
+      - type: youtube
+        ytType: video
+        videoId: HBQ7Cu8BkPw
+        name: YouTube — HBQ7Cu8BkPw
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: dkF0kwP_DsI
+        name: YouTube — dkF0kwP_DsI
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: 2tOutF8B3f8
+        name: Aphex Twin - Xtal (HQ)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: eK6bdim2Vuc
+        name: YouTube — eK6bdim2Vuc
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: kqjeNSNuNPM
+        name: YouTube — kqjeNSNuNPM
+        artist: YouTube
         chapter: null
     fest:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4xiWvdwsCBQ"
-        name: "YouTube · 4xiWvdwsCBQ"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: 4xiWvdwsCBQ
+        name: Pan Pan - Ανισόπεδη Ντίσκο (feat. Καλλιόπη Μητροπούλου) | Official Lyric
+          Video
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dZNekHrcMPc"
-        name: "YouTube · dZNekHrcMPc"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: dZNekHrcMPc
+        name: MIKRO Gefyra HD with lyrics
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0vfTiV0BCSw"
-        name: "YouTube · 0vfTiV0BCSw"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: 0vfTiV0BCSw
+        name: Στέρεο Νόβα - Νέα Ζωή 705 (Official Video + HQ Audio)
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2tOutF8B3f8"
-        name: "YouTube · 2tOutF8B3f8"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: 2tOutF8B3f8
+        name: Aphex Twin - Xtal (HQ)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: scyTYNTjQeo
+        name: YouTube Playlist — RDscyTYNTj
+        artist: YouTube
+        chapter: null
+    disco:
+      - type: youtube
+        ytType: video
+        videoId: TLV4_xaYynY
+        name: The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)
+        artist: YouTube
         chapter: null
     rock:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hTWKbfoikeg"
-        name: "YouTube · hTWKbfoikeg"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: hTWKbfoikeg
+        name: Nirvana - Smells Like Teen Spirit (Official Music Video)
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "btPJPFnesV4"
-        name: "YouTube · btPJPFnesV4"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: btPJPFnesV4
+        name: Survivor - Eye Of The Tiger (Official HD Video)
+        artist: YouTube
         chapter: null
-    pop:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nfWlot6h_JM"
-        name: "YouTube · nfWlot6h_JM"
-        artist: "YouTube"
+    dock:
+      - type: youtube
+        ytType: video
+        videoId: TdrL3QxjyVw
+        name: Lana Del Rey - Summertime Sadness (Official Music Video)
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RgKAFK5djSk"
-        name: "YouTube · RgKAFK5djSk"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: 5U0FCczeWQQ
+        name: YouTube — 5U0FCczeWQQ
+        artist: YouTube
         chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RgKAFK5djSk"
-        name: "Billie Eilish - bad guy"
-        artist: "Billie Eilish"
-
-    disco:
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Tth-8wA3PdY"
-        name: "I will survive - Gloria Gaynor"
-        artist: "YouTube"
+      - type: youtube
+        ytType: video
+        videoId: Vn8phH0k5HI
+        name: YouTube — Vn8phH0k5HI
+        artist: YouTube
         chapter: null
-  moodCustomizations: {}
+  mode: storm
+  volume: 0.52
+  muted: false
   syncDefaultsFromLatest: true
-
 execution:
-  runtime: "wdz://runtimes/browser"
-  protocol: "wdz://protocols/local-storage-v1"
-
+  runtime: wdz://runtimes/browser
+  protocol: wdz://protocols/local-storage-v1
 lifecycle:
-  exported_at: "2026-02-27T12:00:00.000Z"
+  exported_at: 2026-03-01T08:28:27.486Z

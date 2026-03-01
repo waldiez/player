@@ -14,6 +14,7 @@ import {
 } from "@/lib/beaconSettings";
 import { getSyncDefaultsFromLatest, setSyncDefaultsFromLatest } from "@/lib/moodDefaults";
 import { STREAM_TARGETS, isBeaconCapableTarget } from "@/lib/streamTargets";
+import { type ScreensaverStyle, type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import type { StreamProtocol } from "@/types/player";
@@ -37,6 +38,8 @@ const PROTOCOL_BADGE: Record<StreamProtocol, string> = {
 interface SettingsPanelProps {
     onClose: () => void;
     className?: string;
+    uiSettings?: UiSettings;
+    onUiSettingsChange?: (s: UiSettings) => void;
 }
 
 type AddForm = {
@@ -57,12 +60,29 @@ const emptyForm = (): AddForm => ({
     signalingUrl: "",
 });
 
-export function SettingsPanel({ onClose, className }: SettingsPanelProps) {
+export function SettingsPanel({
+    onClose,
+    className,
+    uiSettings: uiSettingsProp,
+    onUiSettingsChange,
+}: SettingsPanelProps) {
     const [settings, setSettings] = useState<BeaconSettings>(readBeaconSettings);
     const [syncDefaults, setSyncDefaults] = useState<boolean>(getSyncDefaultsFromLatest);
     const [showAddForm, setShowAddForm] = useState(false);
     const [form, setForm] = useState<AddForm>(emptyForm);
     const [formError, setFormError] = useState<string | null>(null);
+
+    // UI / Screensaver settings — driven by prop if provided, else local read
+    const [localUiSettings, setLocalUiSettings] = useState<UiSettings>(
+        () => uiSettingsProp ?? readUiSettings(),
+    );
+    const effectiveUiSettings = uiSettingsProp ?? localUiSettings;
+
+    function patchUiSettings(patch: Partial<UiSettings>) {
+        const next = writeUiSettings(patch);
+        setLocalUiSettings(next);
+        onUiSettingsChange?.(next);
+    }
 
     function save(next: BeaconSettings) {
         writeBeaconSettings(next);
@@ -136,6 +156,74 @@ export function SettingsPanel({ onClose, className }: SettingsPanelProps) {
 
             {/* Content */}
             <div className="flex-1 overflow-auto p-4">
+                {/* ── Display / Screensaver ── */}
+                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
+                    <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                        Display
+                    </div>
+
+                    {/* Enable toggle */}
+                    <label className="mb-3 flex cursor-pointer items-center gap-2">
+                        <input
+                            type="checkbox"
+                            checked={effectiveUiSettings.screensaverEnabled}
+                            onChange={e => patchUiSettings({ screensaverEnabled: e.target.checked })}
+                            className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
+                        />
+                        <span className="text-xs text-player-text-muted">
+                            Enable screensaver after inactivity
+                        </span>
+                    </label>
+
+                    {/* Timeout row */}
+                    <div
+                        className={cn(
+                            "mb-3 flex items-center gap-2",
+                            !effectiveUiSettings.screensaverEnabled && "pointer-events-none opacity-40",
+                        )}
+                    >
+                        <span className="text-xs text-player-text-muted">After</span>
+                        {([5, 10, 15, 30] as const).map(m => (
+                            <button
+                                key={m}
+                                onClick={() => patchUiSettings({ screensaverTimeoutMinutes: m })}
+                                className={cn(
+                                    "rounded px-2 py-0.5 text-xs",
+                                    m === effectiveUiSettings.screensaverTimeoutMinutes
+                                        ? "bg-player-accent text-white"
+                                        : "bg-player-border text-player-text-muted hover:text-player-text",
+                                )}
+                            >
+                                {m} min
+                            </button>
+                        ))}
+                    </div>
+
+                    {/* Style selector */}
+                    <div
+                        className={cn(
+                            "flex items-center gap-2",
+                            !effectiveUiSettings.screensaverEnabled && "pointer-events-none opacity-40",
+                        )}
+                    >
+                        <span className="text-xs text-player-text-muted">Style</span>
+                        {(["minimal", "animated", "artwork"] as ScreensaverStyle[]).map(s => (
+                            <button
+                                key={s}
+                                onClick={() => patchUiSettings({ screensaverStyle: s })}
+                                className={cn(
+                                    "rounded px-2 py-0.5 text-xs capitalize",
+                                    s === effectiveUiSettings.screensaverStyle
+                                        ? "bg-player-accent text-white"
+                                        : "bg-player-border text-player-text-muted hover:text-player-text",
+                                )}
+                            >
+                                {s}
+                            </button>
+                        ))}
+                    </div>
+                </section>
+
                 {/* ── Defaults Sync ── */}
                 <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
                     <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
