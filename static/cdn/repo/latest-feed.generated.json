@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T00:28:57.564Z",
+    "generatedAt": "2026-03-01T01:36:35.812Z",
     "mode": "dock",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -49,9 +49,57 @@
     "tracks": [
         {
             "mood": "dock",
-            "videoId": "VWfuMzu3NBw",
-            "name": "🔴 LIVE | Iran–US–Israel War Escalates | Dubai, Abu Dhabi, Qatar & Bahrain Under Attack | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "2eWEshGd3gI",
+            "name": "🔴Iran-Israel War News LIVE | World War 2 Alert! | இஸ்ரேல்-ஈரான் போரின் நிலவரம் | World News | N18G",
+            "artist": "News18 Tamil Nadu"
+        },
+        {
+            "mood": "journey",
+            "videoId": "-Dr9nYdCG0M",
+            "name": "Dangal LIVE: World War का बिगुल बज गया है? | Israel Attack Iran | US-Iran | Anjana Om Kashyap",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MFkMJMmw-o4",
+            "name": "US Iran Israel War LIVE | Iran's Retaliatory Strikes Devastate Dubai’s Iconic Palm Jumeirah | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "fest",
+            "videoId": "BKsb7vfWryA",
+            "name": "🔴LIVE : Iran Israel War | திருப்பி தாக்கும் ஈரான்.. கைமீறும் நிலைமை.. அதிர்ச்சி காட்சிகள்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "dock",
+            "videoId": "govyp220aUs",
+            "name": "LIVE! Israel Attack On Iran | Arab Countries With US | Donald Trump big Announcement | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "journey",
+            "videoId": "0sr6EuD6cew",
+            "name": "Iran Attack LIVE | Israel-US Strike Iran, Tehran Retaliates, Missiles Hit U.S. Bases | UAE | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LoyQfHdVIyE",
+            "name": "LongForm Story LIVE: Middle East Plunges Into A Global War | US-Israel vs Iran | Qatar | UAE",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "fest",
+            "videoId": "8lat7KKHBmM",
+            "name": "BREAKING: Iran’s Ayatollah Ali Khamenei killed in an Israeli airstrike",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "dock",
+            "videoId": "2N5WSv77sEY",
+            "name": "🔴LIVE : israel attack iran | Netanyahu |ஈரானை அரசையே கைப்பற்ற துணிந்த அமெரிக்கா",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
@@ -59,7 +107,8 @@
         "blockedTerms": [
             "sports",
             "highlights",
-            "points table",
+            "points",
+            "table",
             "scorecard",
             "cricket",
             "football",
