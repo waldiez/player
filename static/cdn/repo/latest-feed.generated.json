@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T15:35:09.324Z",
+    "generatedAt": "2026-03-02T16:35:14.181Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Z9m618x-fRw",
-            "name": "🔴LIVE : Trump | Israel Iran War | துபாயில் பஸ்பமாக்கிய ஈரான் - 3ம் உலகப்போராக மாறுகிறதா?",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e3D54eXHLHI",
-            "name": "Iran Israel US War News LIVE: Khamenei's Wife Dead | Iran vs US Israel | World War 3 | WW3 News LIVE",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G29iu91RxDg",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 02-03-2026",
+            "videoId": "GHlychMnMOo",
+            "name": "PRIME DEBATE HD LIVE | ഇറാന്‍ കീഴടങ്ങുമോ ? | Israel Attacks Iran |  Benjamin Netanyahu | Trump |N18G",
             "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "BRGFe2qW_zY",
-            "name": "বাংলা খবর BBC World News 02 March 2026 || World News Bangla || International News Today Bangla",
-            "artist": "Desh tv 71"
+            "videoId": "qCqAP2jWL0k",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "7VzMaTwOdwQ",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 02.03.2026 | Top News | Today News | Iran War | F 15 Shoot Down",
-            "artist": "ATN Bangla News"
+            "videoId": "VMJqjkSLyFI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E9sJTuVCEZ8",
+            "name": "Iran Israel War Update: अमेरिका के कई फाइटर जेट तबाह | Netanyahu | Khamenei | Trump | WW3 | America",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RAUsjlIh4AA",
+            "name": "What You Need To Know - Monday, March 2, 2026 AM Edition",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-76vr2z0moM",
+            "name": "LIVE: Israel Launches Fresh \"Large-Scale Strikes\" in the Heart of Tehran | Firstpost LIVE | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
