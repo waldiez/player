@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T10:36:42.084Z",
+    "generatedAt": "2026-03-02T11:27:33.150Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0UuUALc9Z6U",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "KU15JC3rmF0",
+            "name": "LIVE: Europe Prepares for Possible Confrontation with Iran? World War 3 Fears Grow | US-Iran War",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "OFZ_TM4zjr8",
-            "name": "War LIVE | Iranian Attack Sparks Massive Fire Near Mina Salman Port | Bahrain,UAE,Dubai | N18G",
-            "artist": "News18 Kerala"
+            "videoId": "90_3IYkdUg8",
+            "name": "Iran Israel War News LIVE: UAE के सबसे बड़े पोर्ट पर हमला | Donald Trump  | Ali Khamenei | America",
+            "artist": "IndiaTV"
         },
         {
             "mood": "storm",
-            "videoId": "F2ArOienxNk",
-            "name": "LIVE: World War 3 Possible? | Middle East on Edge, Israel Confirms Strike, Iran Fires Back",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V4yuV2yxYIo",
-            "name": "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Strikes Back After US‑Israel Attack – Explosions Across Region | Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kNzmvACmwcg",
-            "name": "ISRAEL-IRAN WAR LIVE | Tehran Under Attack: Israel Strikes Key Iranian Targets | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FT_6gqHQ7sI",
-            "name": "Iran LIVE | Tehran Faces Missile Barrage As Israel Launches New Strikes After Khamenei Killing",
+            "videoId": "nNDdZCOzpbE",
+            "name": "LIVE | Iran Hits Israel, US Bases In Bahrain, Qatar, UAE With Fattah-2 Hypersonic Missile Strikes",
             "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iDGpOve1Qrs",
+            "name": "🔴LIVE: America | Iran | அமெரிக்காவை ஓட ஓட விரட்டிய ஈரான் - உலகம் பாரா பேரழிவு",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {

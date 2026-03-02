@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260302T103642.124Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260302T112733.192Z-l4t35t"
   type: "state"
-  created: "2026-03-02T10:36:42.124Z"
+  created: "2026-03-02T11:27:33.192Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T103642.124Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T112733.192Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0UuUALc9Z6U"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "KU15JC3rmF0"
+        name: "LIVE: Europe Prepares for Possible Confrontation with Iran? World War 3 Fears Grow | US-Iran War"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OFZ_TM4zjr8"
-        name: "War LIVE | Iranian Attack Sparks Massive Fire Near Mina Salman Port | Bahrain,UAE,Dubai | N18G"
-        artist: "News18 Kerala"
+        videoId: "90_3IYkdUg8"
+        name: "Iran Israel War News LIVE: UAE के सबसे बड़े पोर्ट पर हमला | Donald Trump  | Ali Khamenei | America"
+        artist: "IndiaTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F2ArOienxNk"
-        name: "LIVE: World War 3 Possible? | Middle East on Edge, Israel Confirms Strike, Iran Fires Back"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V4yuV2yxYIo"
-        name: "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Strikes Back After US‑Israel Attack – Explosions Across Region | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kNzmvACmwcg"
-        name: "ISRAEL-IRAN WAR LIVE | Tehran Under Attack: Israel Strikes Key Iranian Targets | World News"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FT_6gqHQ7sI"
-        name: "Iran LIVE | Tehran Faces Missile Barrage As Israel Launches New Strikes After Khamenei Killing"
+        videoId: "nNDdZCOzpbE"
+        name: "LIVE | Iran Hits Israel, US Bases In Bahrain, Qatar, UAE With Fattah-2 Hypersonic Missile Strikes"
         artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iDGpOve1Qrs"
+        name: "🔴LIVE: America | Iran | அமெரிக்காவை ஓட ஓட விரட்டிய ஈரான் - உலகம் பாரா பேரழிவு"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-02T10:36:42.124Z"
+  exported_at: "2026-03-02T11:27:33.192Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-02T10:36:42.084Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-02T11:27:33.150Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
