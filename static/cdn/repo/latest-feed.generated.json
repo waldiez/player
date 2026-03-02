@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T17:38:15.412Z",
+    "generatedAt": "2026-03-02T18:35:42.912Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IXAmCzz-CHI",
-            "name": "President Trump addresses Iran in remarks at White House: ABC NEWS SPECIAL REPORT",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DP4NbAIsj6E",
-            "name": "🔴LIVE: Iran | America | Israel | ஆரம்பமானது போர்..! சர்வநாசம்.. வெறிகொண்டு ஆடும் ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-S3J0UoSSqQ",
-            "name": "Vantage with Palki Sharma: Your New Destination for Global News with an Indian Perspective",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_FpV4IErVf0",
-            "name": "LIVE: Iran Bombs Dubai | Israel Attacks Iran | Israel-Iran War | Israel News LIVE | Iran Attacked",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Flr3Wmo11hU",
-            "name": "US Israel Iran War News LIVE: Iran vs Israel US | Trump & Bibi's Next Move? | World War 3 News LIVE",
+            "videoId": "QhNHJtOBWJs",
+            "name": "Iran War News LIVE: Israel US Attack Iran | Iran Bombs Dubai | Israel News LIVE | Iran Attacked LIVE",
             "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "PAFU2cuJWUo",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 03 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q_Hb-J01tSA",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Khamenei Death | Putin | Netanyahu",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z9m618x-fRw",
-            "name": "🔴LIVE : Trump | Israel Iran War | துபாயில் பஸ்பமாக்கிய ஈரான் - 3ம் உலகப்போராக மாறுகிறதா?",
+            "videoId": "14W74H29jZ0",
+            "name": "🔴LIVE : Trump | Iran | Israel |குவைத்தையும் குலைநடுங்க விட்டது ஈரான்",
             "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GHlychMnMOo",
+            "name": "PRIME DEBATE HD LIVE | ഇറാന്‍ കീഴടങ്ങുമോ ? | Israel Attacks Iran |  Benjamin Netanyahu | Trump |N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5cSJUqDpbxU",
+            "name": "Iran Israel US War News LIVE | Iran vs US Israel | Middle East War News | World War 3? WW3 News LIVE",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qCqAP2jWL0k",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         }
     ],
     "sourceFilters": {
