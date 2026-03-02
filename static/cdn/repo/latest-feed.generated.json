@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T06:01:51.249Z",
+    "generatedAt": "2026-03-02T06:47:03.020Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hLoPJipgcR0",
-            "name": "World News Live : US का F-15 फाइटर जेट कुवैत में क्रैश! | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
+            "videoId": "sBx_50fL2Jk",
+            "name": "🔴LIVE : Iran Attacks Dubai | அமெரிக்க போர்க்கப்பல் மீது ஈரான் தாக்குதல் | Israel Iran War",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "frUNYgeiwJs",
-            "name": "Iran Attack Update LIVE: ईरान के कोहराम से कांप गए ये देश | Trump | Netanyahu | Qatar | UAE | Dubai",
-            "artist": "ABP NEWS"
+            "videoId": "z4mq6ILmMbo",
+            "name": "Latest situation of Karachi | Roads Block | Geo News 9 AM Headlines 2 March 26",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "qmWD7WbpxYA",
-            "name": "BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln | World War | Khamenei | Trump",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4PMT21jA8DM",
-            "name": "US Iran War LIVE Updates: Khamenei Killed, Who Will Be the New Iranian Supreme Leader? Israel War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g4dSVsLLuFo",
-            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y0QWXXtL3p0",
-            "name": "LIVE | Khamenei Dead: Three US Soldiers Killed In Iranian Missile Fury | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "giJMqHNwqN8",
-            "name": "🔴 Iran-US-Israel War Live Updates | Another Deadly Attack on Iran | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8xUZumFhNGw",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rAXdfS9Ixlc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "y50f_GesLCw",
-            "name": "IRAN ATTACKS ISRAEL LIVE | Aftermath of Deadly Missile Strike on Beit Shemesh | World News LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nsKi5Hk8rcY",
-            "name": "Breaking News LIVE: Iran Retaliates: 21 Injured in Tel Aviv Missile Salvo; Iron Dome Under Pressure",
-            "artist": "News18 Urdu"
+            "videoId": "CzCmEz5muQw",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 1, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
