@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T12:38:50.537Z",
+    "generatedAt": "2026-03-02T13:55:20.045Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ez-eI6Nh-gA",
-            "name": "Iran Vs Israel War LIVE Updates: ईरान का इजरायल के Kiryat Ono पर बड़ा अटैक, चारों ओर तबाही का मंजर",
-            "artist": "Aaj Tak"
+            "videoId": "BRGFe2qW_zY",
+            "name": "বাংলা খবর BBC World News 02 March 2026 || World News Bangla || International News Today Bangla",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "-76vr2z0moM",
-            "name": "LIVE: Israel Launches Fresh \"Large-Scale Strikes\" in the Heart of Tehran | Firstpost LIVE | N18G",
-            "artist": "Firstpost"
+            "videoId": "7VzMaTwOdwQ",
+            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 02.03.2026 | Top News | Today News | Iran War | F 15 Shoot Down",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "c8o13-UrGCU",
-            "name": "BREAKING LIVE | Iran Missiles Strike Netanyahu’s Office, Tehran Says Israeli PM’s ‘Fate Unclear’",
-            "artist": "CRUX"
+            "videoId": "MVpbBa-AIzQ",
+            "name": "LIVE: Israel-US-Iran War | Iran Strikes Netanyahu's Office | Iran vs Israel News | Iran News LIVE",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "JuRoPoLH9x4",
-            "name": "Breaking News: अभी-अभी नेतन्याहू के दफ्तर बड़ा पर हमला LIVE | Netanyahu | America | Trump | IRGC",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0UuUALc9Z6U",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OFZ_TM4zjr8",
-            "name": "War LIVE | Iranian Attack Sparks Massive Fire Near Mina Salman Port | Bahrain,UAE,Dubai | N18G",
-            "artist": "News18 Kerala"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F2ArOienxNk",
-            "name": "LIVE: World War 3 Possible? | Middle East on Edge, Israel Confirms Strike, Iran Fires Back",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sniOksyu1-4",
-            "name": "Israel-Iran War LIVE | Iran Attacks Saudi Arabia's Oil Refinery With Drone Strike | Aramco | N18G",
-            "artist": "News18 Kerala"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V4yuV2yxYIo",
-            "name": "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Strikes Back After US‑Israel Attack – Explosions Across Region | Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aP8qBGFx0zI",
-            "name": "Attack On Khamenei Exclusive Video Live : खामेनई पर हमले का वीडियो ? | world News | Israel Vs Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "GPiChsB9c0Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bangla News Live"
         }
     ],
     "sourceFilters": {

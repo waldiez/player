@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260302T123850.576Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260302T135520.084Z-l4t35t"
   type: "state"
-  created: "2026-03-02T12:38:50.576Z"
+  created: "2026-03-02T13:55:20.084Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T123850.576Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T135520.084Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ez-eI6Nh-gA"
-        name: "Iran Vs Israel War LIVE Updates: ईरान का इजरायल के Kiryat Ono पर बड़ा अटैक, चारों ओर तबाही का मंजर"
-        artist: "Aaj Tak"
+        videoId: "BRGFe2qW_zY"
+        name: "বাংলা খবর BBC World News 02 March 2026 || World News Bangla || International News Today Bangla"
+        artist: "Desh tv 71"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-76vr2z0moM"
-        name: "LIVE: Israel Launches Fresh \"Large-Scale Strikes\" in the Heart of Tehran | Firstpost LIVE | N18G"
-        artist: "Firstpost"
+        videoId: "7VzMaTwOdwQ"
+        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 02.03.2026 | Top News | Today News | Iran War | F 15 Shoot Down"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "c8o13-UrGCU"
-        name: "BREAKING LIVE | Iran Missiles Strike Netanyahu’s Office, Tehran Says Israeli PM’s ‘Fate Unclear’"
-        artist: "CRUX"
+        videoId: "MVpbBa-AIzQ"
+        name: "LIVE: Israel-US-Iran War | Iran Strikes Netanyahu's Office | Iran vs Israel News | Iran News LIVE"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JuRoPoLH9x4"
-        name: "Breaking News: अभी-अभी नेतन्याहू के दफ्तर बड़ा पर हमला LIVE | Netanyahu | America | Trump | IRGC"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0UuUALc9Z6U"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OFZ_TM4zjr8"
-        name: "War LIVE | Iranian Attack Sparks Massive Fire Near Mina Salman Port | Bahrain,UAE,Dubai | N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F2ArOienxNk"
-        name: "LIVE: World War 3 Possible? | Middle East on Edge, Israel Confirms Strike, Iran Fires Back"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sniOksyu1-4"
-        name: "Israel-Iran War LIVE | Iran Attacks Saudi Arabia's Oil Refinery With Drone Strike | Aramco | N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V4yuV2yxYIo"
-        name: "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Strikes Back After US‑Israel Attack – Explosions Across Region | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aP8qBGFx0zI"
-        name: "Attack On Khamenei Exclusive Video Live : खामेनई पर हमले का वीडियो ? | world News | Israel Vs Iran"
-        artist: "Times Now Navbharat"
+        videoId: "GPiChsB9c0Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bangla News Live"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-02T12:38:50.576Z"
+  exported_at: "2026-03-02T13:55:20.084Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-02T12:38:50.537Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-02T13:55:20.045Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
