@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T13:55:20.045Z",
+    "generatedAt": "2026-03-02T14:38:48.017Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BRGFe2qW_zY",
-            "name": "বাংলা খবর BBC World News 02 March 2026 || World News Bangla || International News Today Bangla",
-            "artist": "Desh tv 71"
+            "videoId": "VMJqjkSLyFI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "7VzMaTwOdwQ",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 02.03.2026 | Top News | Today News | Iran War | F 15 Shoot Down",
-            "artist": "ATN Bangla News"
+            "videoId": "-76vr2z0moM",
+            "name": "LIVE: Israel Launches Fresh \"Large-Scale Strikes\" in the Heart of Tehran | Firstpost LIVE | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "MVpbBa-AIzQ",
-            "name": "LIVE: Israel-US-Iran War | Iran Strikes Netanyahu's Office | Iran vs Israel News | Iran News LIVE",
-            "artist": "India Today"
+            "videoId": "rAQuxHNGECA",
+            "name": "Iran Attacks | Qatar’s Major Announcement | 3:30 PM News Update | 2 March 2026",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "GPiChsB9c0Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bangla News Live"
+            "videoId": "JuRoPoLH9x4",
+            "name": "Breaking News: अभी-अभी नेतन्याहू के दफ्तर बड़ा पर हमला LIVE | Netanyahu | America | Trump | IRGC",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0UuUALc9Z6U",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
