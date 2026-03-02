@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T08:35:26.046Z",
+    "generatedAt": "2026-03-02T09:40:02.287Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Yknmy501CL0",
-            "name": "World News Live :कुवैत में धमाकों, की गूंज! | Kuwait | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
+            "videoId": "KU15JC3rmF0",
+            "name": "LIVE: Europe Prepares for Possible Confrontation with Iran? World War 3 Fears Grow | US-Iran War",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "sBx_50fL2Jk",
-            "name": "🔴LIVE : Iran Attacks Dubai | அமெரிக்க போர்க்கப்பல் மீது ஈரான் தாக்குதல் | Israel Iran War",
-            "artist": "Polimer News"
+            "videoId": "90_3IYkdUg8",
+            "name": "Iran Israel War News LIVE: UAE के सबसे बड़े पोर्ट पर हमला | Donald Trump  | Ali Khamenei | America",
+            "artist": "IndiaTV"
         },
         {
             "mood": "storm",
-            "videoId": "w4AomkK0frM",
-            "name": "US F-15 crashes in Kuwait Live |  Iran Attacks US F15 Jet | Israel Iran War Updates | Trump | N18G",
+            "videoId": "nNDdZCOzpbE",
+            "name": "LIVE | Iran Hits Israel, US Bases In Bahrain, Qatar, UAE With Fattah-2 Hypersonic Missile Strikes",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iDGpOve1Qrs",
+            "name": "🔴LIVE: America | Iran | அமெரிக்காவை ஓட ஓட விரட்டிய ஈரான் - உலகம் பாரா பேரழிவு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xdbsp6pB2F4",
+            "name": "Iran vs Israel War Update | Iran War Latest News Telugu | World War 3 Fear | TV9 LIVE Updates",
+            "artist": "TV9 Telugu Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JDabkrgTxl0",
+            "name": "🔴LIVE : Trump | Iran | Israel |கொடூர பேரழிவை நோக்கி போர் நிலைமை கைமீறுவதால் குலைநடுக்கத்தில் உலகம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jMhTVFuYJRE",
+            "name": "Israel Iran War Updates Live | Iran launches another attack wave on Israel and Gulf cities | N18G",
             "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "1SgCSlhwzTs",
-            "name": "🔴LIVE : israel | iran | iranisraelwar |காமேனியின் கடைசி நொடி.. உயிர்நாடியில் கை வைக்கும் ஈரான்",
-            "artist": "Thanthi TV"
+            "videoId": "93jKQeORlXs",
+            "name": "World News Live : मिडिल ईस्ट में भयावह हुई जंग! | Qatar | Iran | Tehran | Bahrain | Israel | USA |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
