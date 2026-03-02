@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-01T23:16:11.755Z",
+    "generatedAt": "2026-03-02T01:20:59.482Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uIflrl_mE2w",
-            "name": "US Israel Strikes LIVE: Donald Trump Declares Regime Change Goal in Iran Amid US–Israeli Offensive",
-            "artist": "CNN-News18"
+            "videoId": "V76lAqJOt3g",
+            "name": "Iran Attacks 3 Oil Tankers in Strait of Hormuz | Latest Update | 3:30 AM News Update | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "HR9TNWg0mP0",
-            "name": "Today Headlines - 01 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "DS9RCRO7Wc8",
+            "name": "Iran-Ameica War News LIVE: अली ख़ामेनेई मारा गया LIVE | World War 3 | LIVE Attack | Big Breaking",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "keNN4EVMqhU",
-            "name": "BREAKING: Israel attacks Iran live | Israel launches 'Biggest' Attack on Iran | Israel Iran War",
-            "artist": "moneycontrol"
+            "videoId": "069Scoa91ak",
+            "name": "World News Live : खामेनेई की मौत के बाद भारत में सड़क पर उतरे लोग |  Iran | India | Ali Khamenei |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "pQ7FAT-6HgU",
-            "name": "LIVE! Watch Iran’s Supreme Leader’s Last Video | Tears & Shock Across the Nation | War Alert",
-            "artist": "Dunya News"
+            "videoId": "CKZVEHu7ylk",
+            "name": "Iran-Ameica War News LIVE: अली ख़ामेनेई मारा गया LIVE | World War 3 | LIVE Attack । World War News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hGbZJuHs4VQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World "
+        },
+        {
+            "mood": "storm",
+            "videoId": "Aw-wFELDYEg",
+            "name": "Iran–US–Israel War | Iran Launches Over 100 Missiles Toward Israel | Latest Update | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mipQ09Feo3M",
+            "name": "🔴LIVE : Trump | Iran | Israel |காமேனி கொலைக்கு வெறியோடு அடிக்கும் ஈரான் - அலறி ஓடிவந்த டிரம்ப்..",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rEWR0y9XONQ",
+            "name": "War with Iran could last a month, Trump says | Geo News | 2 AM Headlines | 2 March 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hSlF-xHqumM",
+            "name": "Breaking News LIVE: Iran Retaliates: 21 Injured in Tel Aviv Missile Salvo; Iron Dome Under Pressure",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JyYwyoHdtUs",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 2 March 2026 | NTV Latest News Update",
+            "artist": "NTV News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l74zdRXg_Wc",
+            "name": "Iran–US–Israel War Live | Iran Launches Another Major Missile Strike on Israel | SAMAA TV",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
