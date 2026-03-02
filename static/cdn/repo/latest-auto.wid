@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260302T074329.007Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260302T083526.092Z-l4t35t"
   type: "state"
-  created: "2026-03-02T07:43:29.007Z"
+  created: "2026-03-02T08:35:26.092Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T074329.007Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T083526.092Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JDabkrgTxl0"
-        name: "🔴LIVE : Trump | Iran | Israel |கொடூர பேரழிவை நோக்கி போர் நிலைமை கைமீறுவதால் குலைநடுக்கத்தில் உலகம்"
+        videoId: "Yknmy501CL0"
+        name: "World News Live :कुवैत में धमाकों, की गूंज! | Kuwait | Iran | Tehran | Bahrain | Israel | USA |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sBx_50fL2Jk"
+        name: "🔴LIVE : Iran Attacks Dubai | அமெரிக்க போர்க்கப்பல் மீது ஈரான் தாக்குதல் | Israel Iran War"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w4AomkK0frM"
+        name: "US F-15 crashes in Kuwait Live |  Iran Attacks US F15 Jet | Israel Iran War Updates | Trump | N18G"
+        artist: "News18 Kerala"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1SgCSlhwzTs"
+        name: "🔴LIVE : israel | iran | iranisraelwar |காமேனியின் கடைசி நொடி.. உயிர்நாடியில் கை வைக்கும் ஈரான்"
         artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LZWfXI7sSS4"
-        name: "LIVE: Iran Bombs Dubai | Israel Attacks Iran | Israel-Iran War | Israel News LIVE | Iran Attacked"
-        artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hLoPJipgcR0"
-        name: "World News Live : US का F-15 फाइटर जेट कुवैत में क्रैश! | Iran | Tehran | Bahrain | Israel | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qmWD7WbpxYA"
-        name: "BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln | World War | Khamenei | Trump"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4PMT21jA8DM"
-        name: "US Iran War LIVE Updates: Khamenei Killed, Who Will Be the New Iranian Supreme Leader? Israel War"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g4dSVsLLuFo"
-        name: "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8xUZumFhNGw"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-02T07:43:29.007Z"
+  exported_at: "2026-03-02T08:35:26.092Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-02T07:43:28.958Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-02T08:35:26.046Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T07:43:28.958Z",
+    "generatedAt": "2026-03-02T08:35:26.046Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JDabkrgTxl0",
-            "name": "🔴LIVE : Trump | Iran | Israel |கொடூர பேரழிவை நோக்கி போர் நிலைமை கைமீறுவதால் குலைநடுக்கத்தில் உலகம்",
+            "videoId": "Yknmy501CL0",
+            "name": "World News Live :कुवैत में धमाकों, की गूंज! | Kuwait | Iran | Tehran | Bahrain | Israel | USA |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sBx_50fL2Jk",
+            "name": "🔴LIVE : Iran Attacks Dubai | அமெரிக்க போர்க்கப்பல் மீது ஈரான் தாக்குதல் | Israel Iran War",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w4AomkK0frM",
+            "name": "US F-15 crashes in Kuwait Live |  Iran Attacks US F15 Jet | Israel Iran War Updates | Trump | N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1SgCSlhwzTs",
+            "name": "🔴LIVE : israel | iran | iranisraelwar |காமேனியின் கடைசி நொடி.. உயிர்நாடியில் கை வைக்கும் ஈரான்",
             "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LZWfXI7sSS4",
-            "name": "LIVE: Iran Bombs Dubai | Israel Attacks Iran | Israel-Iran War | Israel News LIVE | Iran Attacked",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hLoPJipgcR0",
-            "name": "World News Live : US का F-15 फाइटर जेट कुवैत में क्रैश! | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qmWD7WbpxYA",
-            "name": "BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln | World War | Khamenei | Trump",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4PMT21jA8DM",
-            "name": "US Iran War LIVE Updates: Khamenei Killed, Who Will Be the New Iranian Supreme Leader? Israel War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g4dSVsLLuFo",
-            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8xUZumFhNGw",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
         }
     ],
     "sourceFilters": {
