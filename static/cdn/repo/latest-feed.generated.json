@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T22:20:48.505Z",
+    "generatedAt": "2026-03-02T23:18:37.308Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DQJuHFNYBww",
-            "name": "🔴LIVE : Trump | Iran | Israel | இஸ்ரேல் பிரதமர் அலுவலகத்தை குறிவைத்து இரான் தாக்குதல்",
+            "videoId": "SxmTdLXadUo",
+            "name": "Trump expects Iran attack “to last four to five weeks\" | World News Tonight",
+            "artist": "TVP WORLD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "McWV1NKJjio",
+            "name": "🔴LIVE : Iran | Israel |\"கொன்றுவிட்டோம்\"அடுத்த முக்கிய தலையை அறுத்து உலகுக்கே அறிவித்த இஸ்ரேல்?",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "WFj71E1WNFc",
-            "name": "LIVE | Iran's New Supreme Leader Warns Trump And Netanyahu Of MASS DESTRUCTION & DEATH | N18G",
-            "artist": "CNN-News18"
+            "videoId": "tFNezU6bOE8",
+            "name": "Today Headlines - 02 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "tbv_mWUrs3o",
-            "name": "🔴LIVE : America | Iran | ஆபரேஷன் எபிக் பியூரி - தொடங்கியது அமெரிக்கா",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QZJbIyiXyK0",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (02.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3gn2mPVI4gU",
-            "name": "Israel Iran War Update : अभी-अभी दुबई पर बड़ा हमला LIVE  | Netanyahu | Khamenei | Trump | Breaking",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2Q_tJO_f3mU",
-            "name": "Iran vs US War LIVE: Iran Attacks Saudi Oil Facilities as War Expands | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sv27xT673zk",
-            "name": "Iran Israel War LIVE Updates | Iran’s Interim Leader Arafi Killed In Airstrike ? Gulf War | N18G",
-            "artist": "News18 Kerala"
+            "videoId": "IXAmCzz-CHI",
+            "name": "President Trump addresses Iran in remarks at White House: ABC NEWS SPECIAL REPORT",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
