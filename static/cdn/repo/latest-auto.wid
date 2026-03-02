@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260302T040700.598Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260302T060151.288Z-l4t35t"
   type: "state"
-  created: "2026-03-02T04:07:00.598Z"
+  created: "2026-03-02T06:01:51.288Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T040700.598Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T060151.288Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cCk4dzwRpXU"
-        name: "Ayatollah Khamenei KILLED Live | How Attack On Iran's Ayatollah Ali Khamenei Unfolded | US Israel"
-        artist: "NDTV"
+        videoId: "hLoPJipgcR0"
+        name: "World News Live : US का F-15 फाइटर जेट कुवैत में क्रैश! | Iran | Tehran | Bahrain | Israel | USA |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S-vcRHBmIow"
-        name: "LIVE | World War 3 | Iran Fires Fatah-2 Hypersonic Missile To Target Israel, US Bases In Middle East"
+        videoId: "frUNYgeiwJs"
+        name: "Iran Attack Update LIVE: ईरान के कोहराम से कांप गए ये देश | Trump | Netanyahu | Qatar | UAE | Dubai"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qmWD7WbpxYA"
+        name: "BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln | World War | Khamenei | Trump"
         artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s4fOYGEsgKA"
-        name: "🔴LIVE: khamenei | Iran Attack Attack | ஈரானின் அதிரடி முடிவு - அதிர்ச்சியில் இஸ்ரேல், அமெரிக்கா"
-        artist: "Sathiyam News"
+        videoId: "4PMT21jA8DM"
+        name: "US Iran War LIVE Updates: Khamenei Killed, Who Will Be the New Iranian Supreme Leader? Israel War"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "49ZrOhhMSOA"
-        name: "LIVE: Latest on unfolding situation in Iran and the Middle East"
-        artist: "ABC News"
+        videoId: "g4dSVsLLuFo"
+        name: "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ez-eI6Nh-gA"
-        name: "Iran Vs Israel War LIVE Updates: ईरान का इजरायल के Kiryat Ono पर बड़ा अटैक, चारों ओर तबाही का मंजर"
-        artist: "Aaj Tak"
+        videoId: "Y0QWXXtL3p0"
+        name: "LIVE | Khamenei Dead: Three US Soldiers Killed In Iranian Missile Fury | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aQKXPanA1jY"
-        name: "🔴LIVE: 100 அடி ஆழத்தில் நடந்தது என்ன? குலைநடுங்க வைத்த தகவல்"
-        artist: "Sathiyam News"
+        videoId: "giJMqHNwqN8"
+        name: "🔴 Iran-US-Israel War Live Updates | Another Deadly Attack on Iran | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7I7QPM9tWbc"
-        name: "Israel Iran War Live:बेकाबू हुआ ईरान,अरब से यूरोप तक तबाही! LIVE!| Netanyahu | Trump | WW3 |US"
-        artist: "TV9 Bharatvarsh"
+        videoId: "8xUZumFhNGw"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FEN1vgq_zZc"
-        name: "🔴LIVE:  Iran Attack Attack |  World War Tension | உலகமே பதற்றத்தில்"
-        artist: "Sathiyam News"
+        videoId: "rAXdfS9Ixlc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nS87eIFiSz0"
-        name: "🔴LIVE : நொடிப்பொழுதில் தரைமட்டமான ஈரான்.. இஸ்ரேல் வெளியிட்ட அதிர்ச்சி வீடியோ | Iran - Isreal War"
-        artist: "NewsTamil 24X7"
+        videoId: "y50f_GesLCw"
+        name: "IRAN ATTACKS ISRAEL LIVE | Aftermath of Deadly Missile Strike on Beit Shemesh | World News LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QxYYACRtIBU"
-        name: "LIVE: Iran Strikes Tel Aviv-Missile Breaches Iron Dome, 1 Dead | Israel-Iran War | Trump, Netanyahu"
-        artist: "Republic World"
+        videoId: "nsKi5Hk8rcY"
+        name: "Breaking News LIVE: Iran Retaliates: 21 Injured in Tel Aviv Missile Salvo; Iron Dome Under Pressure"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-02T04:07:00.598Z"
+  exported_at: "2026-03-02T06:01:51.288Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-02T04:07:00.558Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-02T06:01:51.249Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
