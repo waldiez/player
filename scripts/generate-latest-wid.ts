@@ -776,7 +776,12 @@ async function validateLatestNewsTracks(
             llmPass = (llmScore ?? 0) >= cfg.llmMinScore;
         }
 
-        const accepted = recencyPass && keywordPass && blockedPass && trustedPass && llmPass;
+        // When the LLM gives a confident news score, treat blocked terms as advisory:
+        // keyword-based blocked terms check can match innocuous words in a news description
+        // (e.g. "live", "reverb"), and the LLM is the stronger signal for actual content type.
+        const llmConfident = cfg.llmProvider !== undefined && (llmScore ?? 0) >= cfg.llmMinScore;
+        const accepted =
+            recencyPass && keywordPass && (blockedPass || llmConfident) && trustedPass && llmPass;
 
         if (!track.name || track.name.startsWith("YouTube · ")) {
             track.name = meta.title;
@@ -785,7 +790,11 @@ async function validateLatestNewsTracks(
         const reasonParts = [
             recencyPass ? "recent" : `older than ${cfg.maxAgeHours}h`,
             keywordPass ? `keywords:${keywordHits}` : `keyword hits ${keywordHits} < ${cfg.minKeywordHits}`,
-            blockedPass ? "no blocked terms" : "contains blocked terms",
+            blockedPass
+                ? "no blocked terms"
+                : llmConfident
+                  ? "blocked terms (llm override)"
+                  : "contains blocked terms",
             trustedPass ? "trusted-channel ok" : "channel not in trusted list",
         ];
         if (cfg.llmProvider) {
