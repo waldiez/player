@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260302T094002.325Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260302T103642.124Z-l4t35t"
   type: "state"
-  created: "2026-03-02T09:40:02.325Z"
+  created: "2026-03-02T10:36:42.124Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T094002.325Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260302T103642.124Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "KU15JC3rmF0"
-        name: "LIVE: Europe Prepares for Possible Confrontation with Iran? World War 3 Fears Grow | US-Iran War"
-        artist: "Hindustan Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "90_3IYkdUg8"
-        name: "Iran Israel War News LIVE: UAE के सबसे बड़े पोर्ट पर हमला | Donald Trump  | Ali Khamenei | America"
-        artist: "IndiaTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nNDdZCOzpbE"
-        name: "LIVE | Iran Hits Israel, US Bases In Bahrain, Qatar, UAE With Fattah-2 Hypersonic Missile Strikes"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iDGpOve1Qrs"
-        name: "🔴LIVE: America | Iran | அமெரிக்காவை ஓட ஓட விரட்டிய ஈரான் - உலகம் பாரா பேரழிவு"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Xdbsp6pB2F4"
-        name: "Iran vs Israel War Update | Iran War Latest News Telugu | World War 3 Fear | TV9 LIVE Updates"
-        artist: "TV9 Telugu Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JDabkrgTxl0"
-        name: "🔴LIVE : Trump | Iran | Israel |கொடூர பேரழிவை நோக்கி போர் நிலைமை கைமீறுவதால் குலைநடுக்கத்தில் உலகம்"
+        videoId: "0UuUALc9Z6U"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.03.2026) | 2 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jMhTVFuYJRE"
-        name: "Israel Iran War Updates Live | Iran launches another attack wave on Israel and Gulf cities | N18G"
+        videoId: "OFZ_TM4zjr8"
+        name: "War LIVE | Iranian Attack Sparks Massive Fire Near Mina Salman Port | Bahrain,UAE,Dubai | N18G"
         artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "93jKQeORlXs"
-        name: "World News Live : मिडिल ईस्ट में भयावह हुई जंग! | Qatar | Iran | Tehran | Bahrain | Israel | USA |"
-        artist: "Times Now Navbharat"
+        videoId: "F2ArOienxNk"
+        name: "LIVE: World War 3 Possible? | Middle East on Edge, Israel Confirms Strike, Iran Fires Back"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "V4yuV2yxYIo"
+        name: "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Strikes Back After US‑Israel Attack – Explosions Across Region | Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kNzmvACmwcg"
+        name: "ISRAEL-IRAN WAR LIVE | Tehran Under Attack: Israel Strikes Key Iranian Targets | World News"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FT_6gqHQ7sI"
+        name: "Iran LIVE | Tehran Faces Missile Barrage As Israel Launches New Strikes After Khamenei Killing"
+        artist: "CRUX"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-02T09:40:02.325Z"
+  exported_at: "2026-03-02T10:36:42.124Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-02T09:40:02.287Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-02T10:36:42.084Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
