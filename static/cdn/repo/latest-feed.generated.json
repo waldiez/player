@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T18:35:42.912Z",
+    "generatedAt": "2026-03-02T19:31:51.858Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QhNHJtOBWJs",
-            "name": "Iran War News LIVE: Israel US Attack Iran | Iran Bombs Dubai | Israel News LIVE | Iran Attacked LIVE",
-            "artist": "India Today"
+            "videoId": "tFNezU6bOE8",
+            "name": "Today Headlines - 02 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "14W74H29jZ0",
-            "name": "🔴LIVE : Trump | Iran | Israel |குவைத்தையும் குலைநடுங்க விட்டது ஈரான்",
-            "artist": "Thanthi TV"
+            "videoId": "IXAmCzz-CHI",
+            "name": "President Trump addresses Iran in remarks at White House: ABC NEWS SPECIAL REPORT",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "GHlychMnMOo",
-            "name": "PRIME DEBATE HD LIVE | ഇറാന്‍ കീഴടങ്ങുമോ ? | Israel Attacks Iran |  Benjamin Netanyahu | Trump |N18G",
-            "artist": "News18 Kerala"
+            "videoId": "DP4NbAIsj6E",
+            "name": "🔴LIVE: Iran | America | Israel | ஆரம்பமானது போர்..! சர்வநாசம்.. வெறிகொண்டு ஆடும் ஈரான்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "5cSJUqDpbxU",
-            "name": "Iran Israel US War News LIVE | Iran vs US Israel | Middle East War News | World War 3? WW3 News LIVE",
-            "artist": "India Today"
+            "videoId": "-S3J0UoSSqQ",
+            "name": "US-Iran War LIVE: Iran Attacks Saudi Oil Facilities as War Expands | Vantage with Palki Sharma |N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "qCqAP2jWL0k",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "l0iAPmgy7-0",
+            "name": "Israel Iran War LIVE | Loud Explosion Near Isfahan Nuclear Facility | World War 3 | Khamenei | Trump",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_FpV4IErVf0",
+            "name": "LIVE: Iran Bombs Dubai | Israel Attacks Iran | Israel-Iran War | Israel News LIVE | Iran Attacked",
+            "artist": "moneycontrol"
         }
     ],
     "sourceFilters": {
