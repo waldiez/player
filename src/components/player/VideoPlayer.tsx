@@ -1,7 +1,9 @@
+import { enrichMediaFile } from "@/lib/tmdbClient";
+import { readUiSettings } from "@/lib/uiSettings";
 import { cn } from "@/lib/utils";
 import { usePlayerStore } from "@/stores";
 
-import { useCallback, useEffect, useRef } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 interface VideoPlayerProps {
     className?: string;
@@ -12,7 +14,31 @@ export function VideoPlayer({ className }: VideoPlayerProps) {
     const containerRef = useRef<HTMLDivElement>(null);
     const isSeeking = useRef(false);
 
-    const { currentMedia, playback, setPlayback, effects } = usePlayerStore();
+    const { currentMedia, playback, setPlayback, effects, setCurrentMedia } = usePlayerStore();
+    const [showOverlay, setShowOverlay] = useState(false);
+
+    // TMDB enrichment when a local file is loaded
+    useEffect(() => {
+        if (!currentMedia) return;
+        if (currentMedia.source && currentMedia.source !== "file") return;
+        if (currentMedia.tmdbId) return; // already enriched
+        const { tmdbApiKey } = readUiSettings();
+        if (!tmdbApiKey) return;
+
+        let cancelled = false;
+        (async () => {
+            const patch = await enrichMediaFile(currentMedia, tmdbApiKey);
+            if (cancelled || !Object.keys(patch).length) return;
+            const updated = { ...currentMedia, ...patch };
+            setCurrentMedia(updated);
+            setShowOverlay(true);
+            setTimeout(() => setShowOverlay(false), 4000);
+        })();
+        return () => {
+            cancelled = true;
+        };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [currentMedia?.id]);
 
     // Sync play/pause state
     useEffect(() => {
@@ -187,6 +213,29 @@ export function VideoPlayer({ className }: VideoPlayerProps) {
                 onSeeked={handleSeeked}
                 playsInline
             />
+
+            {/* TMDB metadata overlay */}
+            {showOverlay && currentMedia?.tmdbOverview && (
+                <div className="pointer-events-none absolute bottom-14 left-3 flex max-w-xs items-start gap-2 rounded-lg bg-black/80 p-2 text-white backdrop-blur-sm transition-opacity">
+                    {currentMedia.thumbnailUrl && (
+                        <img
+                            src={currentMedia.thumbnailUrl}
+                            alt=""
+                            className="h-14 w-10 shrink-0 rounded object-cover"
+                        />
+                    )}
+                    <div className="min-w-0">
+                        {currentMedia.tmdbRating !== undefined && currentMedia.tmdbRating > 0 && (
+                            <span className="mb-0.5 inline-block rounded bg-yellow-500/20 px-1 py-0.5 text-[10px] text-yellow-400">
+                                ★ {currentMedia.tmdbRating.toFixed(1)}
+                            </span>
+                        )}
+                        <p className="line-clamp-2 text-[11px] leading-snug opacity-90">
+                            {currentMedia.tmdbOverview}
+                        </p>
+                    </div>
+                </div>
+            )}
 
             {/* Vignette overlay */}
             {effects.some(e => e.type === "vignette" && e.enabled) && (

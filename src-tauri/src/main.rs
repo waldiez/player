@@ -7,6 +7,7 @@ use tauri::{Emitter, Manager};
 use tokio::sync::Mutex;
 use waldiez_player_lib::commands;
 use waldiez_player_lib::commands::mpv::{MpvInner, MpvState};
+use waldiez_player_lib::tray;
 
 /// Emit a `file-opened` event to all webview windows with the given path.
 fn emit_file_opened(app: &tauri::AppHandle, path: &str) {
@@ -19,6 +20,12 @@ fn shutdown_mpv(app: &tauri::AppHandle) {
     tauri::async_runtime::block_on(async {
         commands::mpv::shutdown_mpv_state(&state).await;
     });
+}
+
+#[tauri::command]
+fn tray_update(_name: String, _is_playing: bool) {
+    // Tooltip update — no-op for now; tray menu is static
+    // Future: update tray icon or menu title based on track name
 }
 
 fn main() {
@@ -43,6 +50,8 @@ fn main() {
         // mpv singleton state — starts as None, lazily initialised on first mpv_load
         .manage(MpvState(Arc::new(Mutex::new(None::<MpvInner>))))
         .invoke_handler(tauri::generate_handler![
+            // Tray command
+            tray_update,
             // Media commands
             commands::media::get_media_info,
             commands::media::extract_thumbnail,
@@ -77,6 +86,11 @@ fn main() {
         ])
         .setup(move |app| {
             log::info!("Waldiez Player initialized successfully");
+
+            // System tray
+            if let Err(e) = tray::setup_tray(&app.handle()) {
+                log::warn!("System tray setup failed: {e}");
+            }
 
             // Emit file-opened for CLI file paths after a short delay (webview needs to be ready).
             // Only relevant on Windows / Linux; macOS uses RunEvent::Opened via the plugin.

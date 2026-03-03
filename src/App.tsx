@@ -1,5 +1,7 @@
 import { EffectsPanel } from "@/components/effects";
 import { AddSourceDialog } from "@/components/player/AddSourceDialog";
+import { AutomationsPanel } from "@/components/player/AutomationsPanel";
+import { BottomNav } from "@/components/player/BottomNav";
 import { MoodPlayer } from "@/components/player/MoodPlayer";
 import type { MoodPlayerHandle } from "@/components/player/MoodPlayer";
 import { PlaylistPanel } from "@/components/player/PlaylistPanel";
@@ -9,10 +11,15 @@ import { SettingsPanel } from "@/components/player/SettingsPanel";
 import { VideoPlayer } from "@/components/player/VideoPlayer";
 import { WideriaLayout } from "@/components/player/WideriaLayout";
 import { Button, Slider, Tooltip } from "@/components/ui";
+import { useAutomations } from "@/hooks/useAutomations";
+import { useMediaSession } from "@/hooks/useMediaSession";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
+import { useSwipeGesture } from "@/hooks/useSwipeGesture";
+import { useTauriTray } from "@/hooks/useTauriTray";
 import { type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { useIdleTimer } from "@/lib/useIdleTimer";
 import { cn } from "@/lib/utils";
+import { getSuggestedMood } from "@/lib/weatherMood";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
 import { MODE_CONFIGS, type PlayerMode, getModeConfig } from "@/types";
@@ -108,9 +115,12 @@ export function App() {
         clearAbLoop,
         repeatMode,
         cycleRepeatMode,
+        playNextInLibrary,
+        playPrevInLibrary,
     } = usePlayerStore();
 
     const [showSettings, setShowSettings] = useState(false);
+    const [showAutomations, setShowAutomations] = useState(false);
     const [showSpeedMenu, setShowSpeedMenu] = useState(false);
     const [showModeMenu, setShowModeMenu] = useState(false);
     const [showSleepMenu, setShowSleepMenu] = useState(false);
@@ -275,6 +285,31 @@ export function App() {
         prevPage,
     ]);
 
+    // ── New feature hooks (must be called before any early returns) ────────
+    useMediaSession();
+    useTauriTray();
+    const { rules: automationRules, addRule, removeRule, toggleRule } = useAutomations();
+
+    // Weather mood on startup
+    useEffect(() => {
+        if (!uiSettings.weatherMoodEnabled || !uiSettings.autoMoodOnStartup) return;
+        // Only apply if no saved mood preference (store default is "standard")
+        const { playerMode: currentMode } = usePlayerStore.getState();
+        if (currentMode !== "standard") return;
+        getSuggestedMood()
+            .then(mood => {
+                usePlayerStore.getState().setPlayerMode(mood as PlayerMode);
+            })
+            .catch(() => {});
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
+
+    // Swipe gesture for non-mood mode
+    const swipeHandlers = useSwipeGesture({
+        onSwipeLeft: () => playNextInLibrary(),
+        onSwipeRight: () => playPrevInLibrary(),
+    });
+
     // ── Screensaver ────────────────────────────────────────────────────────
     const idleMs =
         uiSettings.screensaverEnabled && playback.isPlaying
@@ -336,7 +371,25 @@ export function App() {
 
     // Mood modes always use the full WideriaLayout (responsive for all screen sizes)
     if (isMoodMode) {
-        return <WideriaLayout mode={playerMode as MoodMode} />;
+        return (
+            <>
+                <WideriaLayout
+                    mode={playerMode as MoodMode}
+                    onAutomationsOpen={() => setShowAutomations(true)}
+                />
+                {showAutomations && (
+                    <div className="fixed right-0 top-0 z-50 h-full w-80 max-w-[85vw] animate-slide-right border-l border-player-border bg-player-surface shadow-2xl">
+                        <AutomationsPanel
+                            onClose={() => setShowAutomations(false)}
+                            rules={automationRules}
+                            onAdd={addRule}
+                            onRemove={removeRule}
+                            onToggle={toggleRule}
+                        />
+                    </div>
+                )}
+            </>
+        );
     }
 
     const speedOptions = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
@@ -354,6 +407,7 @@ export function App() {
             className="flex h-full flex-col bg-player-bg"
             onDragOver={e => e.preventDefault()}
             onDrop={handleFileDrop}
+            {...swipeHandlers}
         >
             {/* Header */}
             <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
@@ -460,6 +514,15 @@ export function App() {
                             onClick={toggleEffectsPanel}
                         >
                             <Wand2 className="h-4 w-4" />
+                        </Button>
+                    </Tooltip>
+                    <Tooltip content="Automations">
+                        <Button
+                            variant={showAutomations ? "default" : "ghost"}
+                            size="icon"
+                            onClick={() => setShowAutomations(!showAutomations)}
+                        >
+                            <Zap className="h-4 w-4" />
                         </Button>
                     </Tooltip>
                     <Tooltip content="Settings">
@@ -896,6 +959,19 @@ export function App() {
                         />
                     </div>
                 )}
+
+                {/* Automations Panel */}
+                {showAutomations && (
+                    <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
+                        <AutomationsPanel
+                            onClose={() => setShowAutomations(false)}
+                            rules={automationRules}
+                            onAdd={addRule}
+                            onRemove={removeRule}
+                            onToggle={toggleRule}
+                        />
+                    </div>
+                )}
             </div>
 
             {/* Playlist drawer (fixed overlay) */}
@@ -903,6 +979,15 @@ export function App() {
 
             {/* Add-source dialog */}
             {showAddSource && <AddSourceDialog onClose={() => setShowAddSource(false)} />}
+
+            {/* Mobile bottom nav */}
+            <BottomNav
+                onSearchOpen={() => {
+                    /* SearchBar handles its own open state */
+                }}
+                onSettingsOpen={() => setShowSettings(true)}
+                onMoodsOpen={() => setShowModeMenu(true)}
+            />
 
             {/* Screensaver overlay */}
             {isScreensaverActive && (

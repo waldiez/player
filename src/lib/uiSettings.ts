@@ -13,6 +13,12 @@ export interface UiSettings {
     screensaverStyle: ScreensaverStyle;
     /** Optional user-provided YouTube Data API key used for client-side search fallback. */
     youtubeApiKey: string;
+    /** Optional TMDB API key for enriching local video files with movie/TV metadata. */
+    tmdbApiKey: string;
+    /** When true, suggest a mood based on current weather conditions. */
+    weatherMoodEnabled: boolean;
+    /** When true, auto-switch to the weather-suggested mood on app startup. */
+    autoMoodOnStartup: boolean;
 }
 
 const DEFAULTS: UiSettings = {
@@ -20,6 +26,9 @@ const DEFAULTS: UiSettings = {
     screensaverTimeoutMinutes: 10,
     screensaverStyle: "animated",
     youtubeApiKey: "",
+    tmdbApiKey: "",
+    weatherMoodEnabled: false,
+    autoMoodOnStartup: false,
 };
 
 export function readUiSettings(): UiSettings {

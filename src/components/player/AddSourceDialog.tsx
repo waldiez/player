@@ -3,6 +3,7 @@
  * to the playlist.
  */
 import { type UrlSourceType, isRtspUrl, parseMediaUrl } from "@/lib/mediaSource";
+import { STREAMING_PLATFORMS, launchInApp } from "@/lib/streamingLaunchers";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
@@ -182,6 +183,27 @@ export function AddSourceDialog({ onClose }: AddSourceDialogProps) {
                                 </div>
                             ))}
                         </div>
+                    </div>
+                </div>
+
+                {/* Streaming app launchers */}
+                <div>
+                    <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-[var(--color-player-text-muted)]">
+                        Open streaming app
+                    </p>
+                    <div className="grid grid-cols-3 gap-2 sm:grid-cols-6">
+                        {STREAMING_PLATFORMS.map(platform => (
+                            <button
+                                key={platform.id}
+                                onClick={() => void launchInApp(platform)}
+                                className="flex flex-col items-center gap-1 rounded-lg border border-[var(--color-player-border)] px-2 py-2 text-center transition-colors hover:border-[var(--color-player-accent)]/50 hover:bg-[var(--color-player-border)]"
+                            >
+                                <span className="text-xl leading-none">{platform.icon}</span>
+                                <p className="text-[10px] text-[var(--color-player-text-muted)]">
+                                    {platform.name}
+                                </p>
+                            </button>
+                        ))}
                     </div>
                 </div>
 

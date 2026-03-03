@@ -137,3 +137,23 @@ export async function mpvQuit(): Promise<void> {
 export async function listenMpvEvents(callback: (event: MpvEventPayload) => void): Promise<() => void> {
     return listen<MpvEventPayload>("mpv-event", e => callback(e.payload));
 }
+
+// ── Shell / tray ────────────────────────────────────────────────────────────
+
+/** Open a URL in the default browser (or native app via URI scheme) using the shell plugin. */
+export async function shellOpen(url: string): Promise<void> {
+    const { open } = await import("@tauri-apps/plugin-shell");
+    return open(url);
+}
+
+/**
+ * Update the system tray tooltip + menu state.
+ * Invokes the "tray_update" Tauri command; no-op if the command is absent.
+ */
+export async function trayUpdateTrack(name: string, isPlaying: boolean): Promise<void> {
+    try {
+        await invoke("tray_update", { name, isPlaying });
+    } catch {
+        // Command not registered (e.g. tray not set up) — silently ignore
+    }
+}

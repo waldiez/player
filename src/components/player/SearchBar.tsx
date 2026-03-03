@@ -15,6 +15,7 @@
  */
 import { parseMediaUrl } from "@/lib/mediaSource";
 import { type SoundCloudSearchResult, searchSoundCloud } from "@/lib/soundcloudSearch";
+import { detectPlatformFromUrl, launchInApp } from "@/lib/streamingLaunchers";
 import { cn } from "@/lib/utils";
 import { nextWid } from "@/lib/wid";
 import { type YouTubeSearchResult, getLastYouTubeSearchError, searchYouTube } from "@/lib/youtubeSearch";
@@ -505,6 +506,25 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                         <SourceTabs active={source} onChange={s => setSource(s)} size="sm" />
                     </div>
 
+                    {/* Streaming "Open in App" button (mobile) */}
+                    {(() => {
+                        const q = query.trim();
+                        if (!q.startsWith("http")) return null;
+                        const platform = detectPlatformFromUrl(q);
+                        if (!platform) return null;
+                        return (
+                            <div className="border-b border-[var(--color-player-border)] p-3">
+                                <button
+                                    onClick={() => void launchInApp(platform, q)}
+                                    className="flex w-full items-center gap-2 rounded-lg bg-player-accent px-3 py-2.5 text-sm font-medium text-white hover:opacity-90"
+                                >
+                                    <span>{platform.icon}</span>
+                                    Open in {platform.name}
+                                </button>
+                            </div>
+                        );
+                    })()}
+
                     {/* Results / Spotify panel */}
                     <div className="flex-1 overflow-y-auto">
                         {source === "spotify" ? (
@@ -585,6 +605,25 @@ export function SearchBar({ onAdd, className }: SearchBarProps) {
                                 <X className="h-3.5 w-3.5" />
                             </button>
                         </div>
+
+                        {/* Streaming "Open in App" button */}
+                        {(() => {
+                            const q = query.trim();
+                            if (!q.startsWith("http")) return null;
+                            const platform = detectPlatformFromUrl(q);
+                            if (!platform) return null;
+                            return (
+                                <div className="absolute left-0 top-full mt-1 w-80 rounded-lg border border-[var(--color-player-border)] bg-[var(--color-player-surface)] p-2 shadow-2xl sm:w-96">
+                                    <button
+                                        onClick={() => void launchInApp(platform, q)}
+                                        className="flex w-full items-center gap-2 rounded-lg bg-player-accent px-3 py-2 text-xs font-medium text-white hover:opacity-90"
+                                    >
+                                        <span>{platform.icon}</span>
+                                        Open in {platform.name}
+                                    </button>
+                                </div>
+                            );
+                        })()}
 
                         {/* Results / Spotify panel */}
                         {(source === "spotify" || query.trim().length > 1) && (

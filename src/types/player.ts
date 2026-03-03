@@ -53,6 +53,9 @@ export interface MediaFile {
     bitrate?: number;
     size: number;
     thumbnailUrl?: string;
+    tmdbId?: number;
+    tmdbOverview?: string;
+    tmdbRating?: number;
     createdAt: Date;
 }
 

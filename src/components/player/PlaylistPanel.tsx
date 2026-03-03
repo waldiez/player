@@ -187,8 +187,16 @@ export function PlaylistPanel() {
                                                 )}
                                             </div>
 
-                                            {/* Source/type icon */}
-                                            <TrackIcon item={item} isCurrent={isCurrent} />
+                                            {/* Thumbnail (TMDB poster) or source icon */}
+                                            {item.thumbnailUrl ? (
+                                                <img
+                                                    src={item.thumbnailUrl}
+                                                    alt=""
+                                                    className="h-8 w-8 shrink-0 rounded object-cover"
+                                                />
+                                            ) : (
+                                                <TrackIcon item={item} isCurrent={isCurrent} />
+                                            )}
 
                                             {/* Name + duration */}
                                             <div className="min-w-0 flex-1">

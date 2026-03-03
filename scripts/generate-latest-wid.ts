@@ -448,7 +448,9 @@ async function scoreWithOpenAIOnce(meta: YouTubeMeta, model: string, retry = fal
         "40-69: mixed/unclear relevance to current hard news.",
         "0-39: non-news content (music, entertainment, gaming, memes, clickbait, unrelated).",
         "Do not use 0 unless it is clearly non-news.",
-        retry ? "This is a retry after an anomalous score; re-evaluate carefully from metadata only." : "",
+        retry
+            ? "This is a retry after an anomalous low score; re-evaluate carefully from metadata only."
+            : "",
     ]
         .filter(Boolean)
         .join("\n");
@@ -509,9 +511,9 @@ async function scoreWithOpenAIOnce(meta: YouTubeMeta, model: string, retry = fal
 
 async function scoreWithOpenAI(meta: YouTubeMeta, model: string): Promise<number> {
     const first = await scoreWithOpenAIOnce(meta, model, false);
-    if (first !== 0) return first;
+    if (first >= 30) return first;
 
-    // Retry once to reduce strict-mode false negatives from occasional anomalous zero scores.
+    // Retry once to reduce strict-mode false negatives from anomalous low scores (< 30).
     const second = await scoreWithOpenAIOnce(meta, model, true);
     return Math.max(first, second);
 }

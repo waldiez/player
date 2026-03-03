@@ -132,6 +132,11 @@ video {
   }
 }
 
+/* Safe-area bottom padding (notched phones) */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
 /* Drag handle */
 .drag-handle {
   cursor: grab;

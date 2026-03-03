@@ -16,12 +16,13 @@ import { getSyncDefaultsFromLatest, setSyncDefaultsFromLatest } from "@/lib/mood
 import { STREAM_TARGETS, isBeaconCapableTarget } from "@/lib/streamTargets";
 import { type ScreensaverStyle, type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { cn } from "@/lib/utils";
+import { fetchWeatherMood } from "@/lib/weatherMood";
 import { nextWid } from "@/lib/wid";
 import type { StreamProtocol } from "@/types/player";
 
 import { useState } from "react";
 
-import { Plus, Radio, Settings, Trash2, X } from "lucide-react";
+import { Cloud, Plus, Radio, Settings, Trash2, X } from "lucide-react";
 
 const PROTOCOL_OPTIONS: StreamProtocol[] = ["ws", "wss", "mqtts", "webrtc", "rtsp", "http", "https"];
 
@@ -283,6 +284,49 @@ export function SettingsPanel({
                     </div>
                 </section>
 
+                {/* ── TMDB Metadata ── */}
+                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
+                    <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                        TMDB Metadata
+                    </div>
+                    <p className="mb-2 text-xs text-player-text-muted">
+                        Enrich local video files with posters and descriptions.{" "}
+                        <a
+                            href="https://www.themoviedb.org/settings/api"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-player-accent hover:underline"
+                        >
+                            Get a free API key
+                        </a>
+                    </p>
+                    <input
+                        type="password"
+                        autoComplete="off"
+                        spellCheck={false}
+                        value={effectiveUiSettings.tmdbApiKey}
+                        onChange={e => patchUiSettings({ tmdbApiKey: e.target.value.trim() })}
+                        placeholder="eyJ..."
+                        className={cn(
+                            "w-full rounded border border-player-border bg-player-bg px-2 py-1.5 text-xs",
+                            "text-player-text outline-none focus:border-player-accent",
+                        )}
+                    />
+                    <div className="mt-2 flex items-center gap-2">
+                        <button
+                            onClick={() => patchUiSettings({ tmdbApiKey: "" })}
+                            className="rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text"
+                            type="button"
+                        >
+                            Clear key
+                        </button>
+                        <span className="text-[10px] text-player-text-muted">Stored locally only.</span>
+                    </div>
+                </section>
+
+                {/* ── Weather Mood ── */}
+                <WeatherMoodSection uiSettings={effectiveUiSettings} patchUiSettings={patchUiSettings} />
+
                 {/* ── Beacon Endpoints ── */}
                 <section>
                     <div className="mb-3 flex items-center gap-2">
@@ -474,6 +518,80 @@ export function SettingsPanel({
                 })()}
             </div>
         </div>
+    );
+}
+
+// ── Weather Mood section ──────────────────────────────────────────────────
+
+interface WeatherMoodSectionProps {
+    uiSettings: UiSettings;
+    patchUiSettings: (patch: Partial<UiSettings>) => void;
+}
+
+function WeatherMoodSection({ uiSettings, patchUiSettings }: WeatherMoodSectionProps) {
+    const [suggestion, setSuggestion] = useState<string | null>(null);
+    const [loading, setLoading] = useState(false);
+
+    async function tryNow() {
+        setLoading(true);
+        setSuggestion(null);
+        try {
+            const result = await fetchWeatherMood();
+            if (result) {
+                setSuggestion(`${result.description} → ${result.mood}`);
+            } else {
+                setSuggestion("Could not detect weather (location denied or offline)");
+            }
+        } finally {
+            setLoading(false);
+        }
+    }
+
+    return (
+        <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
+            <div className="mb-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                <Cloud className="h-3.5 w-3.5" />
+                Weather Mood
+            </div>
+
+            <label className="mb-2 flex cursor-pointer items-center gap-2">
+                <input
+                    type="checkbox"
+                    checked={uiSettings.weatherMoodEnabled}
+                    onChange={e => patchUiSettings({ weatherMoodEnabled: e.target.checked })}
+                    className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
+                />
+                <span className="text-xs text-player-text-muted">Enable weather-based mood suggestion</span>
+            </label>
+
+            <label
+                className={cn(
+                    "mb-3 flex cursor-pointer items-center gap-2",
+                    !uiSettings.weatherMoodEnabled && "pointer-events-none opacity-40",
+                )}
+            >
+                <input
+                    type="checkbox"
+                    checked={uiSettings.autoMoodOnStartup}
+                    onChange={e => patchUiSettings({ autoMoodOnStartup: e.target.checked })}
+                    className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
+                />
+                <span className="text-xs text-player-text-muted">Auto-switch mood on startup</span>
+            </label>
+
+            <button
+                onClick={tryNow}
+                disabled={loading}
+                className={cn(
+                    "rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text disabled:opacity-50",
+                    !uiSettings.weatherMoodEnabled && "pointer-events-none opacity-40",
+                )}
+            >
+                {loading ? "Detecting…" : "Try now"}
+            </button>
+
+            {suggestion && <p className="mt-2 text-[11px] text-player-accent">{suggestion}</p>}
+        </section>
     );
 }
 

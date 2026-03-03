@@ -12,6 +12,7 @@ import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useMediaStream } from "@/hooks/useMediaStream";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useStreamAnalyser } from "@/hooks/useStreamAnalyser";
+import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriMpv } from "@/hooks/useTauriMpv";
 import { readBeaconSettings, resolveActiveBeaconTarget } from "@/lib/beaconSettings";
 import { type BeaconTransport, openBeaconTransport } from "@/lib/beaconTransport";
@@ -138,9 +139,10 @@ function findPresetMatch(chain: AudioChainConfig): EQPresetName {
 
 interface WideriaLayoutProps {
     mode: MoodMode;
+    onAutomationsOpen?: () => void;
 }
 
-export function WideriaLayout({ mode }: WideriaLayoutProps) {
+export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
     // ── Audio chain ─────────────────────────────────────────────────────
     const [audioEl, setAudioEl] = useState<HTMLAudioElement | null>(null);
     const isSeeking = useRef(false);
@@ -528,6 +530,14 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
 
     // ── mpv backend: drive store from mpv IPC events ───────────────────────
     useTauriMpv(useMpvAudio, handleEnded);
+
+    // ── Swipe gestures (mobile) ────────────────────────────────────────────
+    const swipeHandlers = useSwipeGesture({
+        onSwipeLeft: () => playNextInLibrary(),
+        onSwipeRight: () => playPrevInLibrary(),
+        onSwipeUp: () => storeSetVolume(Math.min(1, playback.volume + 0.1)),
+        onSwipeDown: () => storeSetVolume(Math.max(0, playback.volume - 0.1)),
+    });
 
     /** Build and publish a state beacon through the active transport. */
     function sendBeacon(type: "start" | "state" | "stop") {
@@ -1159,6 +1169,18 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                 >
                     <Palette className="h-3.5 w-3.5" />
                 </button>
+
+                {/* Automations */}
+                {onAutomationsOpen && (
+                    <button
+                        onClick={onAutomationsOpen}
+                        aria-label="Automations"
+                        title="Automations"
+                        className="ml-1 rounded p-1.5 text-[var(--color-player-text-muted)] transition-colors hover:text-[var(--color-player-text)]"
+                    >
+                        <Zap className="h-3.5 w-3.5" />
+                    </button>
+                )}
             </header>
 
             {/* ════════════════════ CANVAS ════════════════════ */}
@@ -1169,6 +1191,7 @@ export function WideriaLayout({ mode }: WideriaLayoutProps) {
                     "relative",
                     !currentMedia ? "h-28 shrink-0 sm:min-h-[100px] sm:flex-1" : "min-h-[100px] flex-1",
                 )}
+                {...swipeHandlers}
             >
                 {/* Camera live feed — always muted (echo prevention even with combined mic) */}
                 {isCamera && (
