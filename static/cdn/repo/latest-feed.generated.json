@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T15:40:37.809Z",
+    "generatedAt": "2026-03-03T16:37:35.509Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VLnp9UF0750",
-            "name": "Iran Israel War Update: NATO का ट्रंप को झटका, ईरान से डरी दुनिया? | Khamenei | Netanyahu | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "ZoSRobF5EJE",
+            "name": "🔴LIVE: israel |iran|வெறிகொண்டு அடிக்கும் ஈரான் - துபாய்,குவைத்,சவுதி,கத்தார் போரில் குதிக்க திட்டமா?",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "5uyYSS8KxxA",
-            "name": "World News Live : क्या सच में परमाणु टेस्टिंग चल रही ? | ! Nuclear Test | Iran Earthquake | America",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fkPzBAFUBBU",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "videoId": "gSY-tJwbjpE",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
             "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "TntjJqnkHEw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "qoF83ySR55Y",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (03.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "6m_IqQalqgc",
-            "name": "Sandeep Chaudhary LIVE: नहीं झुकेगा ईरान...कब थमेगा घमासान? | Iran Israel War | Khamenei | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gPjn-K76yMU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BBC NEWS LIVE"
+            "videoId": "1vbkcj0hyr4",
+            "name": "BREAKING LIVE | Iran Fires Fattah-2 Missiles Towards Israel | Middle East | World War 3 Updates",
+            "artist": "CRUX"
         }
     ],
     "sourceFilters": {
