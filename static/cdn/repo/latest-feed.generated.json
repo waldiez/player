@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T11:26:37.642Z",
+    "generatedAt": "2026-03-03T12:38:26.719Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3dMRvQ263QM",
-            "name": "LIVE: Russia & China READY To Enter Iran War? World On Edge | World War 3 Fear Looms | Putin | Trump",
-            "artist": "Hindustan Times"
+            "videoId": "R2vb0Q4GvU8",
+            "name": "News Ki Pathshala Live | Sushant Sinha | कौन था कमरे में मौजूद गद्दार? |Iran Israel War | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "VSuqsh-2OSI",
-            "name": "🔴LIVE: ஈரான் போருக்குள் நுழைந்த சீனா",
-            "artist": "Sathiyam News"
+            "videoId": "mtitRJci8xg",
+            "name": "US vs Iran LIVE: Iran Rejects Talks With Trump, Vows to Fight on  | West Asia War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "arWzAJ9ryJo",
-            "name": "🔴LIVE: Deputy PM Ishaq Dar's Speech in Senate Session",
+            "videoId": "GGT80mMpYRM",
+            "name": "Attack on Saudi Arabia | Latest Statement from Iran | Breaking News | SAMAA TV",
             "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "Rww7rjLTcFk",
-            "name": "America Iran War Clash: ईरान पर जमकर बरसा अमेरिका, कर दिया बड़ा ऐलान | War Battle | World War",
+            "videoId": "zVdLfKt-NlI",
+            "name": "Breaking News LIVE: युद्ध के बीच ईरान का परमाणु टेस्ट? | Iran Nuclear Test | Iran Israel War | Trump",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "caGrTIl_Y_A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "BRFVX4cJ9Ac",
+            "name": "US–Iran War LIVE: US Embassy in Riyadh Struck by Drones, Trump Signals Imminent Retaliation | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ymd5l74e1XA",
+            "name": "Israel Vs Iran 2026 | Hormuz Strait | Debate Show | World News |Khamenei Death:Trump अब क्या करेंगे?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GgDrNRVTkeA",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
