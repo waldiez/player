@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T14:38:43.631Z",
+    "generatedAt": "2026-03-03T15:40:37.809Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gSY-tJwbjpE",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
+            "videoId": "VLnp9UF0750",
+            "name": "Iran Israel War Update: NATO का ट्रंप को झटका, ईरान से डरी दुनिया? | Khamenei | Netanyahu | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "v5sxtntmaJ0",
-            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
+            "videoId": "5uyYSS8KxxA",
+            "name": "World News Live : क्या सच में परमाणु टेस्टिंग चल रही ? | ! Nuclear Test | Iran Earthquake | America",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "mtitRJci8xg",
-            "name": "US vs Iran LIVE: Iran Rejects Talks With Trump, Vows to Fight on  | West Asia War",
-            "artist": "Firstpost"
+            "videoId": "fkPzBAFUBBU",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "zVdLfKt-NlI",
-            "name": "Breaking News LIVE: युद्ध के बीच ईरान का परमाणु टेस्ट? | Iran Nuclear Test | Iran Israel War | Trump",
+            "videoId": "TntjJqnkHEw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6m_IqQalqgc",
+            "name": "Sandeep Chaudhary LIVE: नहीं झुकेगा ईरान...कब थमेगा घमासान? | Iran Israel War | Khamenei | Trump",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gPjn-K76yMU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BBC NEWS LIVE"
         }
     ],
     "sourceFilters": {
