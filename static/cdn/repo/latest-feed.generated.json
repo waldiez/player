@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T09:34:18.106Z",
+    "generatedAt": "2026-03-03T10:31:43.614Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Rww7rjLTcFk",
-            "name": "America Iran War Clash: ईरान पर जमकर बरसा अमेरिका, कर दिया बड़ा ऐलान | War Battle | World War",
-            "artist": "ABP NEWS"
+            "videoId": "GgDrNRVTkeA",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "IGRGmv2uD4w",
-            "name": "World War 3 Begins! LIVE | మూడో ప్రపంచ యుద్ధం ప్రారంభం | Iran | USA | Israel | BIG TV",
-            "artist": "BIG TV Telugu Live"
+            "videoId": "PXUer0ANckQ",
+            "name": "LIVE | Iran Taking Khamenei's Revenge: Israeli PM Office Attacked With Missiles, CLOSE MISS | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Zhk5EIaDBl8",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4Ms5FNqrJ4I",
-            "name": "Iran Israel War News LIVE: नेतन्याहू की मौत का फरमान जारी, इजरायल निकले लड़ाके! | Netanyahu",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9RRcMZPXXaU",
-            "name": "Iran Israel War LIVE: IDF probing failure to intercept deadly Beit Shemesh missile | US | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_By3qqo3iX0",
-            "name": "Israel-Iran War LIVE: Dubai in Flames as Iran’s Revenge Strikes Escalate After Khamenei Killing?",
+            "videoId": "7NhxzJ05fRI",
+            "name": "Israel‑Iran War LIVE: Iran Claims “Surprise Missile Strikes” Hit Netanyahu’s Office | WION",
             "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "W8wnMTgfreQ",
-            "name": "US News LIVE: 'World WAR III...', Trump's HUGE WARNING | Big Announcement On Iran | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "QADbhIDySaQ",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 03 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "acyxqQyrPgU",
-            "name": "🔴 Iran-US-Israel War Live Updates | Massive Explosion In Saudi Arabia | High Alert | Samaa TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZDBJFWTAAQk",
-            "name": "Iran Israel War Update LIVE: World War 3 शुरू! | Netanyahu | Khamenei | Trump | Putin | PM Modi",
-            "artist": "ABP NEWS"
+            "videoId": "rnRRlWPhWRQ",
+            "name": "🔴 𝗟𝗜𝗩𝗘 𝗪𝗔𝗥 𝗔𝗟𝗘𝗥𝗧: Iran Launches Khyber Missiles – Explosions Across Region | Geo News",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
