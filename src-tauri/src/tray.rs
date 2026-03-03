@@ -1,7 +1,7 @@
 use tauri::{
     menu::{MenuBuilder, MenuItem},
     tray::TrayIconBuilder,
-    AppHandle, Emitter, Manager,
+    AppHandle, Emitter,
 };
 
 pub fn setup_tray(app: &AppHandle) -> Result<(), Box<dyn std::error::Error>> {
@@ -31,7 +31,9 @@ pub fn setup_tray(app: &AppHandle) -> Result<(), Box<dyn std::error::Error>> {
         .item(&MenuItem::with_id(app, "quit", "Quit", true, None::<&str>)?)
         .build()?;
 
-    let mut builder = TrayIconBuilder::new().menu(&menu).menu_on_left_click(false);
+    let mut builder = TrayIconBuilder::new()
+        .menu(&menu)
+        .show_menu_on_left_click(false);
 
     // Use the app window icon if available
     if let Some(icon) = app.default_window_icon() {
