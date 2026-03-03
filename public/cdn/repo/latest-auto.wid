@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T040743.115Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260303T054312.714Z-l4t35t"
   type: "state"
-  created: "2026-03-03T04:07:43.115Z"
+  created: "2026-03-03T05:43:12.714Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T040743.115Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T054312.714Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vnAIb5fetRc"
-        name: "Khamenei Death News LIVE: Iran Announces 40 Days of Mourning After Trump-Netanyahu Claims | N18G"
-        artist: "News18 Urdu"
+        videoId: "7vvtz51u5VA"
+        name: "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FEpaUlwABNY"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 2, 2026"
-        artist: "ABC News"
+        videoId: "Q__oGqhnRmA"
+        name: "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LjxAxVqlrvc"
-        name: "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi"
-        artist: "Times Now Navbharat"
+        videoId: "sU4B1OOj1PA"
+        name: "Israel-Iran War LIVE | Latest Update | 9 AM News Headlines | Pakistan News"
+        artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cfxtH9dUQNE"
-        name: "Iran Israel US War News LIVE | Day-4 Of Iran- US War Live |US Israel Burns Iran | Mid-East News LIVE"
-        artist: "India Today"
+        videoId: "V0Tl3dizOPk"
+        name: "🔴LIVE: Iran | ஈரானின் அடுத்த உச்ச தலைவரும் மரணம்?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FT_6gqHQ7sI"
-        name: "Iran LIVE | Tehran Faces Missile Barrage As Israel Launches New Strikes After Khamenei Killing"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "l0iAPmgy7-0"
-        name: "Israel Iran War LIVE | Loud Explosion Near Isfahan Nuclear Facility | World War 3 | Khamenei | Trump"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Xqsj7gjIZ1I"
-        name: "🔴LIVE : Iran Israel War | ஈரானின் பகிரங்க அறிவிப்பு.. பதற்றத்தில் உலக நாடுகள்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_gKQxPNdoIk"
-        name: "Iran Attack LIVE: IRGC claimed it carried out an attack on the office of Benjamin Netanyahu | N18G"
-        artist: "News18 Urdu"
+        videoId: "Rww7rjLTcFk"
+        name: "America Iran War Clash LIVE: ईरान पर जमकर बरसा अमेरिका, कर दिया बड़ा ऐलान | War Battle | World War"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T04:07:43.115Z"
+  exported_at: "2026-03-03T05:43:12.714Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T04:07:43.068Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-03T05:43:12.674Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
