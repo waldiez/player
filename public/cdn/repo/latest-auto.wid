@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T173719.177Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260303T183743.227Z-l4t35t"
   type: "state"
-  created: "2026-03-03T17:37:19.177Z"
+  created: "2026-03-03T18:37:43.227Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T173719.177Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T183743.227Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "V0Tl3dizOPk"
-        name: "🔴LIVE: Iran | ஈரானின் அடுத்த உச்ச தலைவரும் மரணம்?"
+        videoId: "_APC-jvMRRc"
+        name: "President Trump holds bilateral meeting with German Chancellor Merz: ABC News Special Report"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LTkGJkrdV70"
+        name: "🔴LIVE: US Israel Attack Iran | இறுதிக்கட்டத்திற்கு செல்லும் போர்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JIxTcsoA4N8"
-        name: "Israel Expands War to Lebanon, Pounds Beirut  | Vantage With Palki Sharma"
-        artist: "Firstpost"
+        videoId: "ZoSRobF5EJE"
+        name: "🔴LIVE: israel |iran|வெறிகொண்டு அடிக்கும் ஈரான் - துபாய்,குவைத்,சவுதி,கத்தார் போரில் குதிக்க திட்டமா?"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6g71zUCRLAQ"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: खामेनेई की हत्या से भड़कीं सोनिया |  Iran War"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yWf0SGeZG18"
-        name: "Iran LIVE | Massive Explosions In Tehran As US-Israel Launch New Airstrikes | Khamenei | World War 3"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VLnp9UF0750"
-        name: "Iran Israel War Update: NATO का ट्रंप को झटका, ईरान से डरी दुनिया? | Khamenei | Netanyahu | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5uyYSS8KxxA"
-        name: "World News Live : क्या सच में परमाणु टेस्टिंग चल रही ? | ! Nuclear Test | Iran Earthquake | America"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fkPzBAFUBBU"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "spIMwwk6Cds"
+        name: "আন্তর্জাতিক  খবর  BBC World News 04 March 2026 || World News Bangla || International News"
+        artist: "DES TV BANGLA 24"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T17:37:19.177Z"
+  exported_at: "2026-03-03T18:37:43.227Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T17:37:19.137Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-03T18:37:43.188Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
