@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T19:34:39.152Z",
+    "generatedAt": "2026-03-03T20:25:16.612Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FTCWUjBFgv0",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (03.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "HnO4xdlAsDA",
+            "name": "Today Headlines - 03 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "l1TR2VSQ494",
-            "name": "🔴LIVE: israel |iran|வெறிகொண்டு அடிக்கும் ஈரான் - துபாய்,குவைத்,சவுதி,கத்தார் போரில் குதிக்க திட்டமா?",
-            "artist": "Thanthi TV"
+            "videoId": "_APC-jvMRRc",
+            "name": "President Trump holds bilateral meeting with German Chancellor Merz: ABC News Special Report",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "6FUnPIEyo5g",
-            "name": "Iran US-Israel War: वर्ल्ड वॉर 3 शुरू? World War 3 | Middle East Tension |Trump | War News |Khamenei",
-            "artist": "IBC24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qkS-j_tJB04",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V0Tl3dizOPk",
-            "name": "🔴LIVE: Iran | ஈரானின் அடுத்த உச்ச தலைவரும் மரணம்?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JIxTcsoA4N8",
-            "name": "Israel Expands War to Lebanon, Pounds Beirut  | Vantage With Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6g71zUCRLAQ",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: खामेनेई की हत्या से भड़कीं सोनिया |  Iran War",
-            "artist": "NDTV India"
+            "videoId": "3fJWlm7ZsHk",
+            "name": "Israel Attacks Lebanon LIVE Updates: लेबनान में घुसी इजरायली सेना LIVE | Iran LIVE News | Aaj Tak",
+            "artist": "Aaj Tak"
         }
     ],
     "sourceFilters": {
