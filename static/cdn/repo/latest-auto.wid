@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T054312.714Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260303T064042.163Z-l4t35t"
   type: "state"
-  created: "2026-03-03T05:43:12.714Z"
+  created: "2026-03-03T06:40:42.163Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T054312.714Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T064042.163Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,32 +53,44 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7vvtz51u5VA"
-        name: "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma"
-        artist: "Firstpost"
+        videoId: "-glkTTmf3dQ"
+        name: "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q__oGqhnRmA"
-        name: "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False"
-        artist: "CNN-News18"
+        videoId: "LYIktuWOSHA"
+        name: "World News Live :  ईरान इजराइल महायुद्ध से, भारतीय मार्केट में मचा हाहाकार! Iran | Israel | USA |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sU4B1OOj1PA"
-        name: "Israel-Iran War LIVE | Latest Update | 9 AM News Headlines | Pakistan News"
-        artist: "Express News"
+        videoId: "0gu5dAEshBM"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "V0Tl3dizOPk"
-        name: "🔴LIVE: Iran | ஈரானின் அடுத்த உச்ச தலைவரும் மரணம்?"
-        artist: "Sathiyam News"
+        videoId: "JzJO_ni5mm8"
+        name: "World News Live: बढ़ेंगे पेट्रोल के दाम, दुनिया में मचा हाहाकार? Iran | Israel | USA | Dubai | Crash"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Rww7rjLTcFk"
-        name: "America Iran War Clash LIVE: ईरान पर जमकर बरसा अमेरिका, कर दिया बड़ा ऐलान | War Battle | World War"
+        videoId: "saXwuhWw05s"
+        name: "Iran Israel War News LIVE: लो जिसका डर था वहीं हुआ आखिरकार, भारत में बड़ा अलर्ट, मोदी का फोन!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vnAIb5fetRc"
+        name: "Khamenei Death News LIVE: Iran Announces 40 Days of Mourning After Trump-Netanyahu Claims | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B4cchaeTZDI"
+        name: "Iran Israel War LIVE: ईरान के सबसे खतरनाक हथियार से हमले हो गए शुरू | Trump | Netanyahu | Air Strike"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T05:43:12.714Z"
+  exported_at: "2026-03-03T06:40:42.163Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T05:43:12.674Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-03T06:40:42.047Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

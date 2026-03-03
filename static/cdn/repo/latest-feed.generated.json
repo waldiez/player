@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T05:43:12.674Z",
+    "generatedAt": "2026-03-03T06:40:42.047Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7vvtz51u5VA",
-            "name": "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "-glkTTmf3dQ",
+            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Q__oGqhnRmA",
-            "name": "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False",
-            "artist": "CNN-News18"
+            "videoId": "LYIktuWOSHA",
+            "name": "World News Live :  ईरान इजराइल महायुद्ध से, भारतीय मार्केट में मचा हाहाकार! Iran | Israel | USA |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sU4B1OOj1PA",
-            "name": "Israel-Iran War LIVE | Latest Update | 9 AM News Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "0gu5dAEshBM",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "V0Tl3dizOPk",
-            "name": "🔴LIVE: Iran | ஈரானின் அடுத்த உச்ச தலைவரும் மரணம்?",
-            "artist": "Sathiyam News"
+            "videoId": "JzJO_ni5mm8",
+            "name": "World News Live: बढ़ेंगे पेट्रोल के दाम, दुनिया में मचा हाहाकार? Iran | Israel | USA | Dubai | Crash",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Rww7rjLTcFk",
-            "name": "America Iran War Clash LIVE: ईरान पर जमकर बरसा अमेरिका, कर दिया बड़ा ऐलान | War Battle | World War",
+            "videoId": "saXwuhWw05s",
+            "name": "Iran Israel War News LIVE: लो जिसका डर था वहीं हुआ आखिरकार, भारत में बड़ा अलर्ट, मोदी का फोन!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vnAIb5fetRc",
+            "name": "Khamenei Death News LIVE: Iran Announces 40 Days of Mourning After Trump-Netanyahu Claims | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B4cchaeTZDI",
+            "name": "Iran Israel War LIVE: ईरान के सबसे खतरनाक हथियार से हमले हो गए शुरू | Trump | Netanyahu | Air Strike",
             "artist": "ABP NEWS"
         }
     ],
