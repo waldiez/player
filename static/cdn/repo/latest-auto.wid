@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T064042.163Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260303T073724.077Z-l4t35t"
   type: "state"
-  created: "2026-03-03T06:40:42.163Z"
+  created: "2026-03-03T07:37:24.077Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T064042.163Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T073724.077Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-glkTTmf3dQ"
-        name: "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LYIktuWOSHA"
-        name: "World News Live :  ईरान इजराइल महायुद्ध से, भारतीय मार्केट में मचा हाहाकार! Iran | Israel | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0gu5dAEshBM"
-        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JzJO_ni5mm8"
-        name: "World News Live: बढ़ेंगे पेट्रोल के दाम, दुनिया में मचा हाहाकार? Iran | Israel | USA | Dubai | Crash"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "saXwuhWw05s"
-        name: "Iran Israel War News LIVE: लो जिसका डर था वहीं हुआ आखिरकार, भारत में बड़ा अलर्ट, मोदी का फोन!"
+        videoId: "ZDBJFWTAAQk"
+        name: "Iran Israel War Update LIVE: World War 3 शुरू! | Netanyahu | Khamenei | Trump | Putin | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vnAIb5fetRc"
-        name: "Khamenei Death News LIVE: Iran Announces 40 Days of Mourning After Trump-Netanyahu Claims | N18G"
-        artist: "News18 Urdu"
+        videoId: "LjxAxVqlrvc"
+        name: "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B4cchaeTZDI"
-        name: "Iran Israel War LIVE: ईरान के सबसे खतरनाक हथियार से हमले हो गए शुरू | Trump | Netanyahu | Air Strike"
-        artist: "ABP NEWS"
+        videoId: "4fov7eh52D4"
+        name: "Iran LIVE | Tehran Under Fire As Israel Intensifies Strikes After Khamenei Assassination | Netanyahu"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7vvtz51u5VA"
+        name: "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Q__oGqhnRmA"
+        name: "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nMYKXiEDpdI"
+        name: "🔴 Iran-US-Israel War Live Updates | Iran's Massive Attack | Arab Countries In Big Trouble"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T06:40:42.163Z"
+  exported_at: "2026-03-03T07:37:24.077Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T06:40:42.047Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-03T07:37:24.039Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

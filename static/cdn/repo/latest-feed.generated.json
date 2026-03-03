@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T06:40:42.047Z",
+    "generatedAt": "2026-03-03T07:37:24.039Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-glkTTmf3dQ",
-            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LYIktuWOSHA",
-            "name": "World News Live :  ईरान इजराइल महायुद्ध से, भारतीय मार्केट में मचा हाहाकार! Iran | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0gu5dAEshBM",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JzJO_ni5mm8",
-            "name": "World News Live: बढ़ेंगे पेट्रोल के दाम, दुनिया में मचा हाहाकार? Iran | Israel | USA | Dubai | Crash",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "saXwuhWw05s",
-            "name": "Iran Israel War News LIVE: लो जिसका डर था वहीं हुआ आखिरकार, भारत में बड़ा अलर्ट, मोदी का फोन!",
+            "videoId": "ZDBJFWTAAQk",
+            "name": "Iran Israel War Update LIVE: World War 3 शुरू! | Netanyahu | Khamenei | Trump | Putin | PM Modi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vnAIb5fetRc",
-            "name": "Khamenei Death News LIVE: Iran Announces 40 Days of Mourning After Trump-Netanyahu Claims | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "LjxAxVqlrvc",
+            "name": "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "B4cchaeTZDI",
-            "name": "Iran Israel War LIVE: ईरान के सबसे खतरनाक हथियार से हमले हो गए शुरू | Trump | Netanyahu | Air Strike",
-            "artist": "ABP NEWS"
+            "videoId": "4fov7eh52D4",
+            "name": "Iran LIVE | Tehran Under Fire As Israel Intensifies Strikes After Khamenei Assassination | Netanyahu",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7vvtz51u5VA",
+            "name": "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q__oGqhnRmA",
+            "name": "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nMYKXiEDpdI",
+            "name": "🔴 Iran-US-Israel War Live Updates | Iran's Massive Attack | Arab Countries In Big Trouble",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
