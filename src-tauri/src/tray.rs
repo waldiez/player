@@ -6,9 +6,27 @@ use tauri::{
 
 pub fn setup_tray(app: &AppHandle) -> Result<(), Box<dyn std::error::Error>> {
     let menu = MenuBuilder::new(app)
-        .item(&MenuItem::with_id(app, "play-pause", "⏸ Play/Pause", true, None::<&str>)?)
-        .item(&MenuItem::with_id(app, "prev", "⏮ Previous", true, None::<&str>)?)
-        .item(&MenuItem::with_id(app, "next", "⏭ Next", true, None::<&str>)?)
+        .item(&MenuItem::with_id(
+            app,
+            "play-pause",
+            "⏸ Play/Pause",
+            true,
+            None::<&str>,
+        )?)
+        .item(&MenuItem::with_id(
+            app,
+            "prev",
+            "⏮ Previous",
+            true,
+            None::<&str>,
+        )?)
+        .item(&MenuItem::with_id(
+            app,
+            "next",
+            "⏭ Next",
+            true,
+            None::<&str>,
+        )?)
         .separator()
         .item(&MenuItem::with_id(app, "quit", "Quit", true, None::<&str>)?)
         .build()?;
