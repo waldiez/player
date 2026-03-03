@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T07:37:24.039Z",
+    "generatedAt": "2026-03-03T08:31:45.579Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZDBJFWTAAQk",
-            "name": "Iran Israel War Update LIVE: World War 3 शुरू! | Netanyahu | Khamenei | Trump | Putin | PM Modi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LjxAxVqlrvc",
-            "name": "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi",
+            "videoId": "Ak9gm_DvGX4",
+            "name": "Pakistan News Live :  ईरान का अल्टीमेटम, पाक की उल्टी गिनती शुरू! | Iran | Ali Khamenei | USA |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "4fov7eh52D4",
-            "name": "Iran LIVE | Tehran Under Fire As Israel Intensifies Strikes After Khamenei Assassination | Netanyahu",
-            "artist": "CRUX"
+            "videoId": "daHvaPh5b_Q",
+            "name": "🔴LIVE Lunch Time Sinhala News | (03.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "7vvtz51u5VA",
-            "name": "LIVE: Iran Expands War, Hits Saudi Oil Sites Despite Israel-US Onslaught | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "1LRx2tyF1OY",
+            "name": "News Ki Pathshala Live | शुरू हो गया तीसरा विश्व युद्ध ? | Third World War | Israel Iran War | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Q__oGqhnRmA",
-            "name": "IRAN WAR LIVE | Iran Rejects Responsibility for Saudi Oil Field Attacks — Tehran Says Claims False",
-            "artist": "CNN-News18"
+            "videoId": "9fzbr5Ug2H4",
+            "name": "Today Headlines | 03 Mor 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "nMYKXiEDpdI",
-            "name": "🔴 Iran-US-Israel War Live Updates | Iran's Massive Attack | Arab Countries In Big Trouble",
-            "artist": "SAMAA TV"
+            "videoId": "fmivz7WvZS0",
+            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |காமேனி உயிரை பறித்தது ஒரு கொலைகார 'AI'",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "saXwuhWw05s",
+            "name": "Iran Israel War News LIVE: लो जिसका डर था वहीं हुआ आखिरकार, भारत में बड़ा अलर्ट, मोदी का फोन!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
