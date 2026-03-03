@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T135423.291Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260303T143843.678Z-l4t35t"
   type: "state"
-  created: "2026-03-03T13:54:23.291Z"
+  created: "2026-03-03T14:38:43.678Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T135423.291Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T143843.678Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q9AqjjeUf3A"
-        name: "Iran Attacks Dubai LIVE Updates: दुबई में ईरान का सबसे बड़ा हमला, इमारतों से उठा धुआं | Aaj Tak"
-        artist: "Aaj Tak"
+        videoId: "gSY-tJwbjpE"
+        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x-WNmP_DxT8"
-        name: "Iran Israel War News: युद्ध पर ट्रंप लाइव | Netanyahu | Donald Trump | War Update | Breaking"
+        videoId: "v5sxtntmaJ0"
+        name: "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mtitRJci8xg"
+        name: "US vs Iran LIVE: Iran Rejects Talks With Trump, Vows to Fight on  | West Asia War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zVdLfKt-NlI"
+        name: "Breaking News LIVE: युद्ध के बीच ईरान का परमाणु टेस्ट? | Iran Nuclear Test | Iran Israel War | Trump"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WFj71E1WNFc"
-        name: "LIVE | Iran's New Supreme Leader Warns Trump And Netanyahu Of MASS DESTRUCTION & DEATH | N18G"
-        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T13:54:23.291Z"
+  exported_at: "2026-03-03T14:38:43.678Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T13:54:23.252Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-03T14:38:43.631Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

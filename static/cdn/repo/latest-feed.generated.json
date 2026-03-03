@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-03T13:54:23.252Z",
+    "generatedAt": "2026-03-03T14:38:43.631Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Q9AqjjeUf3A",
-            "name": "Iran Attacks Dubai LIVE Updates: दुबई में ईरान का सबसे बड़ा हमला, इमारतों से उठा धुआं | Aaj Tak",
-            "artist": "Aaj Tak"
+            "videoId": "gSY-tJwbjpE",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "x-WNmP_DxT8",
-            "name": "Iran Israel War News: युद्ध पर ट्रंप लाइव | Netanyahu | Donald Trump | War Update | Breaking",
+            "videoId": "v5sxtntmaJ0",
+            "name": "World News Live : भारत के सभी राज्यों में हाई अलर्ट! | Iran | Tehran | Bahrain | Israel | USA |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mtitRJci8xg",
+            "name": "US vs Iran LIVE: Iran Rejects Talks With Trump, Vows to Fight on  | West Asia War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zVdLfKt-NlI",
+            "name": "Breaking News LIVE: युद्ध के बीच ईरान का परमाणु टेस्ट? | Iran Nuclear Test | Iran Israel War | Trump",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WFj71E1WNFc",
-            "name": "LIVE | Iran's New Supreme Leader Warns Trump And Netanyahu Of MASS DESTRUCTION & DEATH | N18G",
-            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
