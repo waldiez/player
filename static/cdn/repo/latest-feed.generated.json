@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-02T23:18:37.308Z",
+    "generatedAt": "2026-03-03T01:23:26.462Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SxmTdLXadUo",
-            "name": "Trump expects Iran attack “to last four to five weeks\" | World News Tonight",
-            "artist": "TVP WORLD"
+            "videoId": "7ikDvyVI7wc",
+            "name": "🔴 Live | 560 US Soldiers Killed, Claims Iranian Army | US F-15 Crashes in Kuwait | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "McWV1NKJjio",
-            "name": "🔴LIVE : Iran | Israel |\"கொன்றுவிட்டோம்\"அடுத்த முக்கிய தலையை அறுத்து உலகுக்கே அறிவித்த இஸ்ரேல்?",
-            "artist": "Thanthi TV"
+            "videoId": "f3IP9mwugVQ",
+            "name": "LIVE: Israel-US-Iran War | Iran Strikes Netanyahu's Office | Iran vs Israel News | Iran News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "tFNezU6bOE8",
-            "name": "Today Headlines - 02 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "-4q4aiMa9xM",
+            "name": "Iran, US-Israel War Live | Attacks Resume | Israel Launches New Strikes on Iran | SAMAA TV",
+            "artist": "SAMAA News"
         },
         {
             "mood": "storm",
-            "videoId": "IXAmCzz-CHI",
-            "name": "President Trump addresses Iran in remarks at White House: ABC NEWS SPECIAL REPORT",
-            "artist": "ABC News"
+            "videoId": "xAP7ykARVZ0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 3 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Jonuma Tv"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XhrsRqlSMVE",
+            "name": "3 US fighter jets crash in Kuwait | Headlines Geo News 2 AM (3rd March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "siTsswwlQUI",
+            "name": "Iran's Latest Attack - Big Statement || ARY News 12 AM Bulletin | 3rdMar 26",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5QdUIvuiZIY",
+            "name": "Preparations for a major attack on Iran, big announcement | Headlines Geo News 1 AM (3rd March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i7QkpuAXWPg",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 3 March 2026 | NTV Latest News Update",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
