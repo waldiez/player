@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T17:32:45.259Z",
+    "generatedAt": "2026-03-04T18:37:26.500Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "J6MoiKcFPM4",
-            "name": "LIVE | US Submarine Sinks Iranian Warship as War Expands | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "Re_MpeYqzPg",
+            "name": "🔴LIVE: World War III? New Supreme Leader - Iran Battles Back Against US-Israel Offensive",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "3yDOUg_4pFU",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "XuWEbOGFYVw",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "oGlMvzeBN7c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "dRfzJl2Xy3E",
+            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "l1xhhD4p5E0",
-            "name": "News Ki Pathshala Live: दुनिया हैरान, ट्रंप परेशान...ईरान ने कौन कौन सी नई घातक मिसाइलें निकाल लीं?",
-            "artist": "Times Now Navbharat"
+            "videoId": "R8_weOAG0r0",
+            "name": "🔴LIVE: iran israel war | Trump |  ''ஈரான் மீது கைவைத்தால்..!'' ட்ரம்புக்கு வந்த 'நோ' செய்தி",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "jFomDNxlEds",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 04.03.2026 | Today News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "Le7ekYnXEPw",
+            "name": "LIVE | IDF Launches Unprecedented \"Wave of strikes\" on Iran’s Leadership | World News | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "suKAlV9Rc74",
-            "name": "🔴LIVE: israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
-            "artist": "Thanthi TV"
+            "videoId": "ZFavShKFCHw",
+            "name": "🔴LIVE:Iran Drone Attack | Dubai | Saudi Arabia |கண்மூடித்தனமாக தாக்கும் ஈரான்-நடுங்கும் துபாய்,சவுதி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RY4zbZRowlA",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप-नेतन्याहू की ईरान में 'खूनी होली'! Iran War",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
