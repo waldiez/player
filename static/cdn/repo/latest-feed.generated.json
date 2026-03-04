@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T18:37:26.500Z",
+    "generatedAt": "2026-03-04T19:33:03.383Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Re_MpeYqzPg",
-            "name": "🔴LIVE: World War III? New Supreme Leader - Iran Battles Back Against US-Israel Offensive",
-            "artist": "Geo News"
+            "videoId": "IFoafxVcVk0",
+            "name": "Today Headlines - 04 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "XuWEbOGFYVw",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "tcEnHO4RYmA",
+            "name": "🔴LIVE: Today Headlines | இரவு  11 மணி தலைப்புச் செய்திகள் (04.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "dRfzJl2Xy3E",
-            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
-            "artist": "Times Now World"
+            "videoId": "VYqVaNy3osc",
+            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "R8_weOAG0r0",
-            "name": "🔴LIVE: iran israel war | Trump |  ''ஈரான் மீது கைவைத்தால்..!'' ட்ரம்புக்கு வந்த 'நோ' செய்தி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Le7ekYnXEPw",
-            "name": "LIVE | IDF Launches Unprecedented \"Wave of strikes\" on Iran’s Leadership | World News | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZFavShKFCHw",
-            "name": "🔴LIVE:Iran Drone Attack | Dubai | Saudi Arabia |கண்மூடித்தனமாக தாக்கும் ஈரான்-நடுங்கும் துபாய்,சவுதி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RY4zbZRowlA",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप-नेतन्याहू की ईरान में 'खूनी होली'! Iran War",
-            "artist": "NDTV India"
+            "videoId": "5zq23FCOM3A",
+            "name": "🔴LIVE:  israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
