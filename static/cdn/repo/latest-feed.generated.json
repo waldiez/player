@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T05:38:38.517Z",
+    "generatedAt": "2026-03-04T06:37:18.550Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aPVDIC2g3Ic",
-            "name": "🔴LIVE: Iran’s Nuclear Explosion Shakes The World? Earth Tremors After Atomic Blast | Iran Isreal War",
-            "artist": "Public News"
+            "videoId": "wWbHTA2dJY8",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "_jIBr3rK0n8",
-            "name": "🔴LIVE : israel | iranisraelwar | live | IsraelIranWar | AliKhamenei |துபாயை மீண்டும் மிரளவிட்ட ஈரான்",
+            "videoId": "Q0VkpCKVNUM",
+            "name": "LIVE: \"Gates of Hell Opening\": Iran Widens Missile Attacks  | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LTkGJkrdV70",
+            "name": "🔴LIVE: US Israel Attack Iran | இறுதிக்கட்டத்திற்கு செல்லும் போர்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5yYlWTCkMjM",
+            "name": "LIVE: War with Iran latest developments l ABC News Live - Tuesday, March 3",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "suKAlV9Rc74",
+            "name": "🔴LIVE: israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "xLPsCkMqj5w",
-            "name": "Iran Attack US Base News Live:येरूशलम में फिर ईरान ने दागे रॉकेट | Khamenei | Netanyahu",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1vbkcj0hyr4",
-            "name": "BREAKING LIVE | Iran Fires Fattah-2 Missiles Towards Israel | Middle East | World War 3 Updates",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZLD4z8hCeJ0",
-            "name": "News Ki Pathshala Live : अमेरिका की महंगी मिसाइलें खत्म हो रहीं..बैटल फील्ड में ट्रंप का डर दिख रहा?",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tyfU3KObit4",
-            "name": "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gy5BVlJgdh0",
-            "name": "Iran Israel War LIVE: ईरान में सैनिक उतारने वाले थे ट्रंप,फिर जो हुआ! | Netanyahu | Khamenei | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UogOaup9zhM",
-            "name": "Iran US War Live | Iran’s Araghchi Defies Trump as U.S. Troops Die, War Escalates | World News",
-            "artist": "Times Now World"
+            "videoId": "je7VmW3VIvs",
+            "name": "Iran Israel US War News LIVE | Britain Joins Iran War | Britain War News LIVE | Israel War News",
+            "artist": "India Today"
         }
     ],
     "sourceFilters": {
