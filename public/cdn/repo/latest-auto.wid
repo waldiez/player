@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260303T202516.655Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260304T040224.099Z-l4t35t"
   type: "state"
-  created: "2026-03-03T20:25:16.655Z"
+  created: "2026-03-04T04:02:24.099Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260303T202516.655Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T040224.099Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,20 +53,74 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "HnO4xdlAsDA"
-        name: "Today Headlines - 03 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "6m_IqQalqgc"
+        name: "Sandeep Chaudhary LIVE: नहीं झुकेगा ईरान...कब थमेगा घमासान? | Iran Israel War | Khamenei | Trump"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_APC-jvMRRc"
-        name: "President Trump holds bilateral meeting with German Chancellor Merz: ABC News Special Report"
+        videoId: "YcAkFJg8b7g"
+        name: "Iran Attack US Base News Live: बड़ा हमला, सऊदी अरब की राजधानी रियाद में धमाका | Khamenei | Netanyahu"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FBST9coqWMI"
+        name: "ABC News Live Prime: Special coverage as 2026 Midterm election season kicks off"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3fJWlm7ZsHk"
-        name: "Israel Attacks Lebanon LIVE Updates: लेबनान में घुसी इजरायली सेना LIVE | Iran LIVE News | Aaj Tak"
+        videoId: "AoftvMoHIK0"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 3, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZFavShKFCHw"
+        name: "🔴LIVE:Iran Drone Attack | Dubai | Saudi Arabia |கண்மூடித்தனமாக தாக்கும் ஈரான்-நடுங்கும் துபாய்,சவுதி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VSuqsh-2OSI"
+        name: "🔴LIVE: ஈரான் போருக்குள் நுழைந்த சீனா"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3ClWeSPZTVU"
+        name: "Iran Israel War News: युद्ध पर ट्रंप लाइव | Netanyahu | Donald Trump | War Update | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XEtOX7E139I"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "World Update News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KiUfvE0fPw0"
+        name: "LIVE: Russia & China READY To Enter Iran War? World On Edge | World War 3 Fear Looms | Putin | Trump"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cKsKz2Nx6Rs"
+        name: "US-Iran LIVE: Trump's Attack Plan Shakes The World! | Trump To Strike Against Iran | Russia | Putin"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LmuDFDpWgEA"
+        name: "Iran Israel War Live | Iran’s missiles vs Israel's 'Iron Dome' | Drone Attack | Iran War Live"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NeeRsgesYxo"
+        name: "Super Fast News LIVE: फटाफट अंदाज में बड़ी खबरें | US-Israel Attacks Iran  | Donald Trump | Aaj Tak"
         artist: "Aaj Tak"
         chapter: null
   moodCustomizations:
@@ -78,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-03T20:25:16.655Z"
+  exported_at: "2026-03-04T04:02:24.099Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-03T20:25:16.612Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-04T04:02:24.059Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
