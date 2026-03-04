@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260304T123803.018Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260304T135215.314Z-l4t35t"
   type: "state"
-  created: "2026-03-04T12:38:03.018Z"
+  created: "2026-03-04T13:52:15.314Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T123803.018Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T135215.314Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Xs9WpnJoEmc"
-        name: "LIVE: From Beirut to Tehran; Capturing The War in Real Time | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "sl7H50-ZcEw"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 04 March 2026 || World News Bangla ||"
+        artist: "SR BANGLA NEWS 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mDiGteF_iUs"
-        name: "Israel-Iran War LIVE: Israel Unleashes New Waves of Strikes on Iran | Tehran Under Heavy Bombardment"
-        artist: "WION"
+        videoId: "a53giIfWD_c"
+        name: "Gujarat Latest News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Weather Updates | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lMHw8whh44I"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "8hlftF0XwQw"
+        name: "Out Of Focus Live | 04 March 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NhZ6somkE10"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Khela Ghor24-খেলা ঘর ২৪"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dFzNBGC1-c4"
+        name: "Iran Israel War: अमेरिका के एंबेसी पर जमकर बरसा ईरान | Israel | Netanyahu | Trump | World War"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9D21yZsUry0"
+        name: "BBC World News 04 March 2026 || World News Bangla || International News Today Bangla"
+        artist: "JAMUNA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kJVOTkD_lNg"
+        name: "আন্তর্জাতিক সময় | বিকাল ৪টা | ০৪মার্চ ২০২৬ | Somoy TV Bulletin 4pm| Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HVo6OhrLqyI"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.03.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LTRV9JAN5vM"
+        name: "US-Iran-Israel War LIVE: Iran BIG Claims |  Iran New Supreme Leader | 3 pm Headlines | Pakistan news"
+        artist: "Express News"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-04T12:38:03.018Z"
+  exported_at: "2026-03-04T13:52:15.314Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-04T12:38:02.902Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-04T13:52:15.275Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
