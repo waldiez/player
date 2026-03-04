@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260304T202456.466Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260304T212720.037Z-l4t35t"
   type: "state"
-  created: "2026-03-04T20:24:56.466Z"
+  created: "2026-03-04T21:27:20.037Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T202456.466Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T212720.037Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hN-wDntWPN0"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "IFoafxVcVk0"
+        name: "Today Headlines - 04 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Re_MpeYqzPg"
-        name: "🔴LIVE: World War III? New Supreme Leader - Iran Battles Back Against US-Israel Offensive"
-        artist: "Geo News"
+        videoId: "VYqVaNy3osc"
+        name: "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YOOr6jvdNrs"
-        name: "LIVE | South Africa vs New Zealand – T20 World Cup semifinal | Geo Super"
-        artist: "GEO SUPER"
+        videoId: "5zq23FCOM3A"
+        name: "🔴LIVE:  israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Le7ekYnXEPw"
-        name: "LIVE | IDF Launches Unprecedented \"Wave of strikes\" on Iran’s Leadership | World News | N18G"
-        artist: "CNN-News18"
+        videoId: "fgraZTZRsSs"
+        name: "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZFavShKFCHw"
+        name: "🔴LIVE:Iran Drone Attack | Dubai | Saudi Arabia |கண்மூடித்தனமாக தாக்கும் ஈரான்-நடுங்கும் துபாய்,சவுதி"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-04T20:24:56.466Z"
+  exported_at: "2026-03-04T21:27:20.037Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-04T20:24:56.435Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-04T21:27:19.994Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
