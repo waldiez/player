@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T11:24:43.365Z",
+    "generatedAt": "2026-03-04T12:38:02.902Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dFzNBGC1-c4",
-            "name": "Iran Israel War: अमेरिका के एंबेसी पर जमकर बरसा ईरान | Israel | Netanyahu | Trump | World War",
-            "artist": "ABP NEWS"
+            "videoId": "Xs9WpnJoEmc",
+            "name": "LIVE: From Beirut to Tehran; Capturing The War in Real Time | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "HVo6OhrLqyI",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "mDiGteF_iUs",
+            "name": "Israel-Iran War LIVE: Israel Unleashes New Waves of Strikes on Iran | Tehran Under Heavy Bombardment",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "vtxff_hGC-Q",
-            "name": "🔴LIVE: World War III? Iran Hits Back at US–Israel | Arab Countries on High Alert | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g8uhh1lidrc",
-            "name": "🔴Iran Israel US War News LIVE:Day-4 Of Iran- US War Live |US Israel Burns Iran | Mid-East News LIVE",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Xe5d5qlH5Dk",
-            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x6ozigVJLps",
-            "name": "Iran Israel War : ईरान के जंगी चक्रव्यूह में फंस गए ट्रंप! | Mojtaba Khamenei | Trump | Netanyahu",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BroF1JXgMzo",
-            "name": "IRAN HITS ISRAEL LIVE: Hypersonic Missiles Strike Tel Aviv, Ashkelon & Central Israel | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jOJ3Fd0ribA",
-            "name": "Iran Israel US War News LIVE | Iran Under Attack News | Israel, US Strike Iran | Mid-East War LIVE",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lrbQ0aC4QGE",
-            "name": "🔴LIVE: US Israel Attack Iran | ஈரானை சுற்றி வளைக்கும் நாடுகள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Pdcu36NoOtw",
-            "name": "🔴LIVE Lunch Time Sinhala News | (04.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "lMHw8whh44I",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         }
     ],
     "sourceFilters": {
