@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T15:33:00.391Z",
+    "generatedAt": "2026-03-04T16:34:09.894Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jxKxlW77UJY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Mtv Bangla"
+            "videoId": "oofcXdJ_tu8",
+            "name": "Today's Breaking News: Iran Israel War Updates |  Netanyahu | Khamenei | Trump I Breaking News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "suKAlV9Rc74",
-            "name": "🔴LIVE: israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
+            "videoId": "lrbQ0aC4QGE",
+            "name": "🔴LIVE: US Israel Attack Iran | ஈரானை சுற்றி வளைக்கும் நாடுகள்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GL4n86jIH24",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ogSa0916efg",
+            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "ckB9yWVS9oo",
-            "name": "LIVE: How Israel Hacked Traffic Cameras To Track Iran's Supreme Leader | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "Zzv3_5zdgeo",
+            "name": "LIVE 🔴Iran US Israel WAR Latest Updates! New Supreme Leader Major Announcement | Dunya News",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "t1FIjFu8BSo",
-            "name": "🔴LIVE: israel attack iran | Khamenei dead |Trump |America | அமெரிக்க மண்ணுக்குள் புகுந்தே ரண வேட்டை?",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sl7H50-ZcEw",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 04 March 2026 || World News Bangla ||",
-            "artist": "SR BANGLA NEWS 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "a53giIfWD_c",
-            "name": "🟠Gujarat Latest News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Weather Updates | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8hlftF0XwQw",
-            "name": "Out Of Focus Live | 04 March 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AxqtoZpFRUQ",
-            "name": "Iran's Retaliation Widens in Dubai, Israel and Saudi Arabia, US Sounds Alarm | Firstpost Live | N18G",
-            "artist": "Firstpost"
+            "videoId": "mP-OTD6Ol3w",
+            "name": "Iran Massive Attack On Israel Live : तबाह हुआ इजरायल ? | Tel Aviv | World News | Breaking News Live",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
