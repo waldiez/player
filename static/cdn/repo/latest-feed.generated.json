@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T08:30:19.732Z",
+    "generatedAt": "2026-03-04T09:33:13.578Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XVfcIUaNyss",
-            "name": "🔴 Iran‑US‑Israel War | Live Updates | Mojtaba Khamenei Elected Iran’s New Supreme Leader | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "4gDv1brKuac",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Mtv Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "sl7H50-ZcEw",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 04 March 2026 || World News Bangla ||",
-            "artist": "SR BANGLA NEWS 24"
+            "videoId": "anVGJLqogxg",
+            "name": "Iran Israel War Update: ईरान के परमाणु ठिकानों पर हमला | Khamenei | Netanyahu | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "dwAzIHDeoZQ",
-            "name": "Israel Iran War LIVE | IRGC Bombards Tel Aviv, West Bank, Jerusalem With Ballistic Missile Barrage",
-            "artist": "CRUX"
+            "videoId": "x6ozigVJLps",
+            "name": "Iran Israel War : ईरान के जंगी चक्रव्यूह में फंस गए ट्रंप! | Mojtaba Khamenei | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "wWbHTA2dJY8",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q0VkpCKVNUM",
-            "name": "LIVE: \"Gates of Hell Opening\": Iran Widens Missile Attacks  | Vantage with Palki Sharma",
+            "videoId": "vxv5rEedRss",
+            "name": "US Iran War LIVE: US Embassy in Riyadh Attacked; Israel Strikes Beirut | West Asia at War",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "LTkGJkrdV70",
-            "name": "🔴LIVE: US Israel Attack Iran | இறுதிக்கட்டத்திற்கு செல்லும் போர்",
-            "artist": "Sathiyam News"
+            "videoId": "tyfU3KObit4",
+            "name": "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iwLLbkYVjmU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
