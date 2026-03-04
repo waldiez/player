@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T10:29:15.211Z",
+    "generatedAt": "2026-03-04T11:24:43.365Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4x37QFGwW9g",
-            "name": "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi",
-            "artist": "Times Now Navbharat"
+            "videoId": "dFzNBGC1-c4",
+            "name": "Iran Israel War: अमेरिका के एंबेसी पर जमकर बरसा ईरान | Israel | Netanyahu | Trump | World War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "JBJNTRFGY0I",
-            "name": "IN FULL: Canada's Mark Carney on Trump, Iran & the new world order at the Lowy Institute | ABC NEWS",
-            "artist": "ABC News (Australia)"
+            "videoId": "HVo6OhrLqyI",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "AadeUbiB9U0",
-            "name": "Iran-US War: Pakistani Scholars Major Declaration | Latest News | SAMAA TV",
+            "videoId": "vtxff_hGC-Q",
+            "name": "🔴LIVE: World War III? Iran Hits Back at US–Israel | Arab Countries on High Alert | SAMAA TV",
             "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "TLqbEgri5Uk",
-            "name": "LIVE : Mojtaba Khamenei Named Iran’s New Supreme Leader | Khamenei Death News | Iran Attck | N18G",
-            "artist": "News18 Odia"
+            "videoId": "g8uhh1lidrc",
+            "name": "🔴Iran Israel US War News LIVE:Day-4 Of Iran- US War Live |US Israel Burns Iran | Mid-East News LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "wWbHTA2dJY8",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "Xe5d5qlH5Dk",
+            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x6ozigVJLps",
+            "name": "Iran Israel War : ईरान के जंगी चक्रव्यूह में फंस गए ट्रंप! | Mojtaba Khamenei | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BroF1JXgMzo",
+            "name": "IRAN HITS ISRAEL LIVE: Hypersonic Missiles Strike Tel Aviv, Ashkelon & Central Israel | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jOJ3Fd0ribA",
+            "name": "Iran Israel US War News LIVE | Iran Under Attack News | Israel, US Strike Iran | Mid-East War LIVE",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lrbQ0aC4QGE",
+            "name": "🔴LIVE: US Israel Attack Iran | ஈரானை சுற்றி வளைக்கும் நாடுகள்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pdcu36NoOtw",
+            "name": "🔴LIVE Lunch Time Sinhala News | (04.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {
