@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T04:02:24.059Z",
+    "generatedAt": "2026-03-04T05:38:38.517Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6m_IqQalqgc",
-            "name": "Sandeep Chaudhary LIVE: नहीं झुकेगा ईरान...कब थमेगा घमासान? | Iran Israel War | Khamenei | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "aPVDIC2g3Ic",
+            "name": "🔴LIVE: Iran’s Nuclear Explosion Shakes The World? Earth Tremors After Atomic Blast | Iran Isreal War",
+            "artist": "Public News"
         },
         {
             "mood": "storm",
-            "videoId": "YcAkFJg8b7g",
-            "name": "Iran Attack US Base News Live: बड़ा हमला, सऊदी अरब की राजधानी रियाद में धमाका | Khamenei | Netanyahu",
+            "videoId": "_jIBr3rK0n8",
+            "name": "🔴LIVE : israel | iranisraelwar | live | IsraelIranWar | AliKhamenei |துபாயை மீண்டும் மிரளவிட்ட ஈரான்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xLPsCkMqj5w",
+            "name": "Iran Attack US Base News Live:येरूशलम में फिर ईरान ने दागे रॉकेट | Khamenei | Netanyahu",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "FBST9coqWMI",
-            "name": "ABC News Live Prime: Special coverage as 2026 Midterm election season kicks off",
-            "artist": "ABC News"
+            "videoId": "1vbkcj0hyr4",
+            "name": "BREAKING LIVE | Iran Fires Fattah-2 Missiles Towards Israel | Middle East | World War 3 Updates",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "AoftvMoHIK0",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 3, 2026",
-            "artist": "ABC News"
+            "videoId": "ZLD4z8hCeJ0",
+            "name": "News Ki Pathshala Live : अमेरिका की महंगी मिसाइलें खत्म हो रहीं..बैटल फील्ड में ट्रंप का डर दिख रहा?",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "ZFavShKFCHw",
-            "name": "🔴LIVE:Iran Drone Attack | Dubai | Saudi Arabia |கண்மூடித்தனமாக தாக்கும் ஈரான்-நடுங்கும் துபாய்,சவுதி",
-            "artist": "Sathiyam News"
+            "videoId": "tyfU3KObit4",
+            "name": "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "VSuqsh-2OSI",
-            "name": "🔴LIVE: ஈரான் போருக்குள் நுழைந்த சீனா",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3ClWeSPZTVU",
-            "name": "Iran Israel War News: युद्ध पर ट्रंप लाइव | Netanyahu | Donald Trump | War Update | Breaking",
+            "videoId": "gy5BVlJgdh0",
+            "name": "Iran Israel War LIVE: ईरान में सैनिक उतारने वाले थे ट्रंप,फिर जो हुआ! | Netanyahu | Khamenei | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XEtOX7E139I",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Update News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KiUfvE0fPw0",
-            "name": "LIVE: Russia & China READY To Enter Iran War? World On Edge | World War 3 Fear Looms | Putin | Trump",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cKsKz2Nx6Rs",
-            "name": "US-Iran LIVE: Trump's Attack Plan Shakes The World! | Trump To Strike Against Iran | Russia | Putin",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LmuDFDpWgEA",
-            "name": "Iran Israel War Live | Iran’s missiles vs Israel's 'Iron Dome' | Drone Attack | Iran War Live",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NeeRsgesYxo",
-            "name": "Super Fast News LIVE: फटाफट अंदाज में बड़ी खबरें | US-Israel Attacks Iran  | Donald Trump | Aaj Tak",
-            "artist": "Aaj Tak"
+            "videoId": "UogOaup9zhM",
+            "name": "Iran US War Live | Iran’s Araghchi Defies Trump as U.S. Troops Die, War Escalates | World News",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
