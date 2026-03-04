@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T16:34:09.894Z",
+    "generatedAt": "2026-03-04T17:32:45.259Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oofcXdJ_tu8",
-            "name": "Today's Breaking News: Iran Israel War Updates |  Netanyahu | Khamenei | Trump I Breaking News",
-            "artist": "NDTV India"
+            "videoId": "J6MoiKcFPM4",
+            "name": "LIVE | US Submarine Sinks Iranian Warship as War Expands | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "lrbQ0aC4QGE",
-            "name": "🔴LIVE: US Israel Attack Iran | ஈரானை சுற்றி வளைக்கும் நாடுகள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GL4n86jIH24",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ogSa0916efg",
-            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Zzv3_5zdgeo",
-            "name": "LIVE 🔴Iran US Israel WAR Latest Updates! New Supreme Leader Major Announcement | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mP-OTD6Ol3w",
-            "name": "Iran Massive Attack On Israel Live : तबाह हुआ इजरायल ? | Tel Aviv | World News | Breaking News Live",
+            "videoId": "3yDOUg_4pFU",
+            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oGlMvzeBN7c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l1xhhD4p5E0",
+            "name": "News Ki Pathshala Live: दुनिया हैरान, ट्रंप परेशान...ईरान ने कौन कौन सी नई घातक मिसाइलें निकाल लीं?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jFomDNxlEds",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 04.03.2026 | Today News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "suKAlV9Rc74",
+            "name": "🔴LIVE: israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
