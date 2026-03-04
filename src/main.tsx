@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 
 import { App } from "./App";
 import "./index.css";
+import { startBeaconJoin } from "./lib/beaconJoin";
 import { parseMediaUrl } from "./lib/mediaSource";
 import {
     bootstrapDefaultPrefsFromAsset,
@@ -22,6 +23,57 @@ if (!rootElement) {
     throw new Error("Root element not found");
 }
 const root = rootElement;
+let stopBeaconJoin: (() => void) | null = null;
+
+function upsertMediaUrl(src: string): void {
+    const parsed = parseMediaUrl(src);
+    if (!parsed) return;
+    const entry: MediaFile = {
+        id: nextWid(),
+        name: parsed.name,
+        path: parsed.path,
+        type: "audio",
+        source: parsed.sourceType,
+        embedUrl: parsed.embedUrl,
+        youtubeId: parsed.youtubeId,
+        playlistId: parsed.playlistId,
+        duration: 0,
+        size: 0,
+        createdAt: new Date(),
+    };
+    usePlayerStore.getState().addToLibrary(entry);
+    usePlayerStore.getState().setCurrentMedia(entry);
+}
+
+async function applyLaunchParams(params: URLSearchParams): Promise<boolean> {
+    const widUrl = params.get("w");
+    let widLoaded = false;
+    if (widUrl) {
+        widLoaded = await importPrefsFromUrl(widUrl);
+    }
+
+    const src = params.get("src");
+    if (src) {
+        upsertMediaUrl(src);
+    }
+
+    const beaconUrl = params.get("beacon") ?? params.get("beacon_url");
+    const topic = params.get("topic");
+    const sessionId = params.get("session") ?? undefined;
+    const protocol = params.get("beacon_protocol") ?? undefined;
+
+    if (beaconUrl && topic) {
+        stopBeaconJoin?.();
+        stopBeaconJoin = startBeaconJoin({
+            endpointUrl: beaconUrl,
+            topic,
+            sessionId,
+            protocol,
+        });
+    }
+
+    return widLoaded;
+}
 
 /**
  * Handle web+waldiez:// or waldiez:// protocol invocations.
@@ -40,34 +92,7 @@ async function handleProtocolUri(overrideUri?: string): Promise<boolean> {
     if (!raw.startsWith("web+waldiez://") && !raw.startsWith("waldiez://")) return false;
     try {
         const inner = new URL(raw.replace(/^(?:web\+)?waldiez:\/\//, "https://waldiez.internal/"));
-
-        // ?w= — load a remote .wid / .waldiez config file and apply its prefs
-        const widUrl = inner.searchParams.get("w");
-        if (widUrl) {
-            return await importPrefsFromUrl(widUrl);
-        }
-
-        // ?src= — add a media URL to the library and set it as current
-        const src = inner.searchParams.get("src");
-        if (!src) return false;
-        const parsed = parseMediaUrl(src);
-        if (!parsed) return false;
-        const entry: MediaFile = {
-            id: nextWid(),
-            name: parsed.name,
-            path: parsed.path,
-            type: "audio",
-            source: parsed.sourceType,
-            embedUrl: parsed.embedUrl,
-            youtubeId: parsed.youtubeId,
-            playlistId: parsed.playlistId,
-            duration: 0,
-            size: 0,
-            createdAt: new Date(),
-        };
-        usePlayerStore.getState().addToLibrary(entry);
-        usePlayerStore.getState().setCurrentMedia(entry);
-        return false;
+        return await applyLaunchParams(inner.searchParams);
     } catch {
         // ignore malformed URIs
         return false;
@@ -139,7 +164,9 @@ async function start() {
 
     await bootstrapDefaultPrefsFromAsset();
 
-    const widLoaded = await handleProtocolUri();
+    const widLoadedFromProtocol = await handleProtocolUri();
+    const widLoadedFromWebQuery = await applyLaunchParams(new URLSearchParams(window.location.search));
+    const widLoaded = widLoadedFromProtocol || widLoadedFromWebQuery;
 
     // Set up Tauri event listeners before render (non-blocking for non-Tauri).
     if (runtime.isTauri) {

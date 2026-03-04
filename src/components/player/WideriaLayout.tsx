@@ -14,6 +14,7 @@ import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useStreamAnalyser } from "@/hooks/useStreamAnalyser";
 import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriMpv } from "@/hooks/useTauriMpv";
+import { buildBeaconJoinUrl } from "@/lib/beaconJoin";
 import { readBeaconSettings, resolveActiveBeaconTarget } from "@/lib/beaconSettings";
 import { type BeaconTransport, openBeaconTransport } from "@/lib/beaconTransport";
 import {
@@ -243,12 +244,14 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
     const beaconTransportRef = useRef<BeaconTransport | null>(null);
     const beaconIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
     const beaconDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+    const liveTargetRef = useRef<{ url: string; protocol: string; channel?: string } | null>(null);
     // Stable ref so beacon callbacks always see the latest state without stale closures
     const liveStateRef = useRef({ playback, currentMedia, ytTrackTitle });
     useEffect(() => {
         liveStateRef.current = { playback, currentMedia, ytTrackTitle };
     });
     const sessionIdRef = useRef("");
+    const [liveShareNotice, setLiveShareNotice] = useState<string | null>(null);
     const ytFallbackNoticeTrackRef = useRef<string | null>(null);
 
     function handleSaveAsDefault() {
@@ -573,7 +576,35 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
         }
         beaconTransportRef.current?.disconnect();
         beaconTransportRef.current = null;
+        liveTargetRef.current = null;
+        setLiveShareNotice(null);
         setLiveStatus("idle");
+    }
+
+    async function copyBeaconJoinLink() {
+        const sessionId = sessionIdRef.current;
+        const target = liveTargetRef.current;
+        if (!sessionId || !target) return;
+
+        const mediaUrl = currentMedia?.path;
+        const shareableMediaUrl =
+            mediaUrl && (mediaUrl.startsWith("http://") || mediaUrl.startsWith("https://"))
+                ? mediaUrl
+                : undefined;
+        const topic = `${target.channel ?? "waldiez/player"}/${sessionId}`;
+        const link = buildBeaconJoinUrl({
+            mediaUrl: shareableMediaUrl,
+            endpointUrl: target.url,
+            topic,
+            sessionId,
+            protocol: target.protocol,
+        });
+        try {
+            await navigator.clipboard.writeText(link);
+            setLiveShareNotice("Join link copied.");
+        } catch {
+            setLiveShareNotice(link);
+        }
     }
 
     function resolveBeaconTarget() {
@@ -595,6 +626,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
 
     function startLiveBeacon() {
         setLiveError(null);
+        setLiveShareNotice(null);
         if (liveStatus !== "idle") return;
 
         const targetInfo = resolveBeaconTarget();
@@ -613,6 +645,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
 
         const sessionWid = nextWid();
         sessionIdRef.current = sessionWid;
+        liveTargetRef.current = targetInfo;
         console.log(
             "[beacon] connecting →",
             targetInfo.url,
@@ -633,6 +666,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
                 onConnectError(msg) {
                     setLiveError(msg);
                     beaconTransportRef.current = null;
+                    liveTargetRef.current = null;
                     setLiveStatus("idle");
                 },
                 onClose(intentional, code) {
@@ -641,6 +675,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
                         beaconIntervalRef.current = null;
                     }
                     beaconTransportRef.current = null;
+                    liveTargetRef.current = null;
                     setLiveStatus("idle");
                     if (!intentional) {
                         setLiveError(
@@ -1704,14 +1739,24 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
                                 <span className="hidden sm:inline">Import</span>
                             </button>
                             {liveStatus === "live" ? (
-                                <button
-                                    onClick={stopLiveBeacon}
-                                    className="flex items-center gap-1 text-[10px] text-red-400 transition-colors hover:text-red-300"
-                                    title="Stop state beacon"
-                                >
-                                    <Radio className="h-3 w-3" />
-                                    <span className="hidden sm:inline">Stop Beacon</span>
-                                </button>
+                                <>
+                                    <button
+                                        onClick={copyBeaconJoinLink}
+                                        className="flex items-center gap-1 text-[10px] text-emerald-300 transition-colors hover:text-emerald-200"
+                                        title="Copy join link"
+                                    >
+                                        <Globe className="h-3 w-3" />
+                                        <span className="hidden sm:inline">Copy Join</span>
+                                    </button>
+                                    <button
+                                        onClick={stopLiveBeacon}
+                                        className="flex items-center gap-1 text-[10px] text-red-400 transition-colors hover:text-red-300"
+                                        title="Stop state beacon"
+                                    >
+                                        <Radio className="h-3 w-3" />
+                                        <span className="hidden sm:inline">Stop Beacon</span>
+                                    </button>
+                                </>
                             ) : (
                                 <button
                                     onClick={startLiveBeacon}
@@ -1750,13 +1795,14 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
                             </button>
                         </div>
                     </div>
-                    {(liveStatus === "live" || liveError || ytFallbackNotice) && (
+                    {(liveStatus === "live" || liveError || ytFallbackNotice || liveShareNotice) && (
                         <div className="mt-1 px-1 text-[10px]">
                             {liveStatus === "live" && (
                                 <p className="text-emerald-400">
                                     Broadcasting state beacon — heartbeat every 5 s, instant on change.
                                 </p>
                             )}
+                            {liveShareNotice && <p className="text-emerald-300">{liveShareNotice}</p>}
                             {liveError && <p className="text-red-400">{liveError}</p>}
                             {ytFallbackNotice && (
                                 <p className="flex items-center gap-1 text-amber-300">
