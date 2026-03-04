@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T09:33:13.578Z",
+    "generatedAt": "2026-03-04T10:29:15.211Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4gDv1brKuac",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Mtv Bangla"
+            "videoId": "4x37QFGwW9g",
+            "name": "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "anVGJLqogxg",
-            "name": "Iran Israel War Update: ईरान के परमाणु ठिकानों पर हमला | Khamenei | Netanyahu | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "JBJNTRFGY0I",
+            "name": "IN FULL: Canada's Mark Carney on Trump, Iran & the new world order at the Lowy Institute | ABC NEWS",
+            "artist": "ABC News (Australia)"
         },
         {
             "mood": "storm",
-            "videoId": "x6ozigVJLps",
-            "name": "Iran Israel War : ईरान के जंगी चक्रव्यूह में फंस गए ट्रंप! | Mojtaba Khamenei | Trump | Netanyahu",
-            "artist": "ABP NEWS"
+            "videoId": "AadeUbiB9U0",
+            "name": "Iran-US War: Pakistani Scholars Major Declaration | Latest News | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "vxv5rEedRss",
-            "name": "US Iran War LIVE: US Embassy in Riyadh Attacked; Israel Strikes Beirut | West Asia at War",
-            "artist": "Firstpost"
+            "videoId": "TLqbEgri5Uk",
+            "name": "LIVE : Mojtaba Khamenei Named Iran’s New Supreme Leader | Khamenei Death News | Iran Attck | N18G",
+            "artist": "News18 Odia"
         },
         {
             "mood": "storm",
-            "videoId": "tyfU3KObit4",
-            "name": "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iwLLbkYVjmU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "wWbHTA2dJY8",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         }
     ],
     "sourceFilters": {

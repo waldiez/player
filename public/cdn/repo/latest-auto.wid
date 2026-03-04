@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260304T093313.620Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260304T102915.253Z-l4t35t"
   type: "state"
-  created: "2026-03-04T09:33:13.620Z"
+  created: "2026-03-04T10:29:15.253Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T093313.620Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260304T102915.253Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4gDv1brKuac"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Mtv Bangla"
+        videoId: "4x37QFGwW9g"
+        name: "Hindi News Live : हिंदी में समाचार लाइव टीवी | Iran Attack On US-Israel | PM Modi | Rahul Gandhi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "anVGJLqogxg"
-        name: "Iran Israel War Update: ईरान के परमाणु ठिकानों पर हमला | Khamenei | Netanyahu | Trump"
-        artist: "ABP NEWS"
+        videoId: "JBJNTRFGY0I"
+        name: "IN FULL: Canada's Mark Carney on Trump, Iran & the new world order at the Lowy Institute | ABC NEWS"
+        artist: "ABC News (Australia)"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x6ozigVJLps"
-        name: "Iran Israel War : ईरान के जंगी चक्रव्यूह में फंस गए ट्रंप! | Mojtaba Khamenei | Trump | Netanyahu"
-        artist: "ABP NEWS"
+        videoId: "AadeUbiB9U0"
+        name: "Iran-US War: Pakistani Scholars Major Declaration | Latest News | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vxv5rEedRss"
-        name: "US Iran War LIVE: US Embassy in Riyadh Attacked; Israel Strikes Beirut | West Asia at War"
-        artist: "Firstpost"
+        videoId: "TLqbEgri5Uk"
+        name: "LIVE : Mojtaba Khamenei Named Iran’s New Supreme Leader | Khamenei Death News | Iran Attck | N18G"
+        artist: "News18 Odia"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tyfU3KObit4"
-        name: "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel"
-        artist: "Hindustan Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iwLLbkYVjmU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "wWbHTA2dJY8"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-04T09:33:13.620Z"
+  exported_at: "2026-03-04T10:29:15.253Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-04T09:33:13.578Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-04T10:29:15.211Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
