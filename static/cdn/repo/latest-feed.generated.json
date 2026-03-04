@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T19:33:03.383Z",
+    "generatedAt": "2026-03-04T20:24:56.435Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IFoafxVcVk0",
-            "name": "Today Headlines - 04 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "hN-wDntWPN0",
+            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "tcEnHO4RYmA",
-            "name": "🔴LIVE: Today Headlines | இரவு  11 மணி தலைப்புச் செய்திகள் (04.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "Re_MpeYqzPg",
+            "name": "🔴LIVE: World War III? New Supreme Leader - Iran Battles Back Against US-Israel Offensive",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "VYqVaNy3osc",
-            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்",
-            "artist": "Thanthi TV"
+            "videoId": "YOOr6jvdNrs",
+            "name": "LIVE | South Africa vs New Zealand – T20 World Cup semifinal | Geo Super",
+            "artist": "GEO SUPER"
         },
         {
             "mood": "storm",
-            "videoId": "5zq23FCOM3A",
-            "name": "🔴LIVE:  israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
-            "artist": "Thanthi TV"
+            "videoId": "Le7ekYnXEPw",
+            "name": "LIVE | IDF Launches Unprecedented \"Wave of strikes\" on Iran’s Leadership | World News | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
