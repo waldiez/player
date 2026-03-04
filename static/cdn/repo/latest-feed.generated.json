@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T07:33:20.997Z",
+    "generatedAt": "2026-03-04T08:30:19.732Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tyfU3KObit4",
-            "name": "US-Iran War LIVE: CENTCOM Commander’s Chilling Warning To Iran; ‘We’ve Just Begun…’ | Trump | Israel",
-            "artist": "Hindustan Times"
+            "videoId": "XVfcIUaNyss",
+            "name": "🔴 Iran‑US‑Israel War | Live Updates | Mojtaba Khamenei Elected Iran’s New Supreme Leader | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "iwLLbkYVjmU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "sl7H50-ZcEw",
+            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 04 March 2026 || World News Bangla ||",
+            "artist": "SR BANGLA NEWS 24"
         },
         {
             "mood": "storm",
-            "videoId": "yRLmTaAi5QA",
-            "name": "Gujarat Latest News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Weather Updates | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aPVDIC2g3Ic",
-            "name": "🔴LIVE: Iran’s Nuclear Explosion Shakes The World? Earth Tremors After Atomic Blast | Iran Isreal War",
-            "artist": "Public News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1vbkcj0hyr4",
-            "name": "BREAKING LIVE | Iran Fires Fattah-2 Missiles Towards Israel | Middle East | World War 3 Updates",
+            "videoId": "dwAzIHDeoZQ",
+            "name": "Israel Iran War LIVE | IRGC Bombards Tel Aviv, West Bank, Jerusalem With Ballistic Missile Barrage",
             "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wWbHTA2dJY8",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q0VkpCKVNUM",
+            "name": "LIVE: \"Gates of Hell Opening\": Iran Widens Missile Attacks  | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LTkGJkrdV70",
+            "name": "🔴LIVE: US Israel Attack Iran | இறுதிக்கட்டத்திற்கு செல்லும் போர்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
