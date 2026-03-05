@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T06:41:11.965Z",
+    "generatedAt": "2026-03-05T07:37:17.899Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XGLD2NVmSbs",
-            "name": "🔴LIVE: Iran-US-Israel War Update | Iran's Massive Attack | Gulf on High Alert | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "b0pD-EpNEyk",
+            "name": "Breaking News LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "J6Tt0Wy65JU",
-            "name": "🔴LIVE: World War III? Iran Hits Back | Arab Countries on High Alert | US–Israel Strikes | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zD0qHoxvoBc",
-            "name": "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bVitUUrHsk8",
-            "name": "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu",
+            "videoId": "Qe5eCL4VfGo",
+            "name": "Iran US Israel War News LIVE: पाकिस्तान पर ईरान का अटैक? मचा हड़कंप! | Khamenei | Trump | Asim Munir",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "PdcIk_Q2a0Y",
-            "name": "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?",
-            "artist": "Sathiyam News"
+            "videoId": "DRdHoH9P_pA",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 05 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "e_ZeHow5DnE",
-            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H6NMzFEToFI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026",
+            "videoId": "QOUm7LgcG24",
+            "name": "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4",
             "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g1zlbEkJ9do",
+            "name": "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G",
+            "artist": "CNBC-TV18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uHgIPTEontI",
+            "name": "AAJTAK 2 LIVE | T20 World Cup Live Updates | Ind VS Eng कौन सी टीम ज्यादा पॉवरफुल? | AT2 LIVE",
+            "artist": "Aaj Tak"
         }
     ],
     "sourceFilters": {

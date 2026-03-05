@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260305T064112.012Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260305T073717.938Z-l4t35t"
   type: "state"
-  created: "2026-03-05T06:41:12.012Z"
+  created: "2026-03-05T07:37:17.938Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T064112.012Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T073717.938Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "XGLD2NVmSbs"
-        name: "🔴LIVE: Iran-US-Israel War Update | Iran's Massive Attack | Gulf on High Alert | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "b0pD-EpNEyk"
+        name: "Breaking News LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "J6Tt0Wy65JU"
-        name: "🔴LIVE: World War III? Iran Hits Back | Arab Countries on High Alert | US–Israel Strikes | SAMAA TV"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zD0qHoxvoBc"
-        name: "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bVitUUrHsk8"
-        name: "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu"
+        videoId: "Qe5eCL4VfGo"
+        name: "Iran US Israel War News LIVE: पाकिस्तान पर ईरान का अटैक? मचा हड़कंप! | Khamenei | Trump | Asim Munir"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PdcIk_Q2a0Y"
-        name: "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?"
-        artist: "Sathiyam News"
+        videoId: "DRdHoH9P_pA"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 05 March 2026"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e_ZeHow5DnE"
-        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "H6NMzFEToFI"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026"
+        videoId: "QOUm7LgcG24"
+        name: "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4"
         artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "g1zlbEkJ9do"
+        name: "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uHgIPTEontI"
+        name: "AAJTAK 2 LIVE | T20 World Cup Live Updates | Ind VS Eng कौन सी टीम ज्यादा पॉवरफुल? | AT2 LIVE"
+        artist: "Aaj Tak"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-05T06:41:12.012Z"
+  exported_at: "2026-03-05T07:37:17.938Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-05T06:41:11.965Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-05T07:37:17.899Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
