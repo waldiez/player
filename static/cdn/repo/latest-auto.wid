@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260305T012112.272Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260305T040536.019Z-l4t35t"
   type: "state"
-  created: "2026-03-05T01:21:12.272Z"
+  created: "2026-03-05T04:05:36.019Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T012112.272Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T040536.019Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hfAoDDppoCw"
-        name: "🔴LIVE: Today Headlines | காலை 6  மணி தலைப்புச் செய்திகள் (05.03.2026) | 6 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "zD0qHoxvoBc"
+        name: "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EBShg3IUux4"
-        name: "Live from Jerusalem as US submarine torpedoes Iranian warship | The World with Yalda Hakim"
-        artist: "Sky News"
+        videoId: "bVitUUrHsk8"
+        name: "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZtNeRt_tMSw"
-        name: "Attack before Iranian attack | Headlines Geo News 2 AM (5 March 2026)"
-        artist: "Geo News"
+        videoId: "PdcIk_Q2a0Y"
+        name: "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jFt379zCnxk"
-        name: "US submarine torpedoes Iranian warship | Sky News coverage and analysis"
-        artist: "Sky News"
+        videoId: "e_ZeHow5DnE"
+        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vtxff_hGC-Q"
-        name: "🔴LIVE: World War III? Iran Hits Back at US–Israel | Arab Countries on High Alert | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "H6NMzFEToFI"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sGNq8mD4J9c"
-        name: "Ali Larijani claims 500 American soldiers killed | Headlines Geo News 1 AM (5 March 2026)"
-        artist: "Geo News"
+        videoId: "qOFPFHJ4FbQ"
+        name: "LIVE| West Asia War Expands: US Sinks Iranian Ship, Tehran Hits US Embassies | Vantage |Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tcEnHO4RYmA"
-        name: "🔴LIVE: Today Headlines | இரவு  11 மணி தலைப்புச் செய்திகள் (04.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "eBKHLI6-q5Q"
+        name: "LIVE: Will Europe Join the US-Israel War Against Iran? | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hN-wDntWPN0"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "O_29EfUHge8"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "feKOZF3L4zA"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P5-Z8T2J2gk"
+        name: "News Ki Pathshala | Sushant Sinha | Trump | Netanyahu | World News:Iran Vs Israel War 2026 कब थमेगा?"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lBtZij3i1tU"
+        name: "Today's Headlines | 05 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-05T01:21:12.272Z"
+  exported_at: "2026-03-05T04:05:36.019Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-05T01:21:12.234Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-05T04:05:35.978Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

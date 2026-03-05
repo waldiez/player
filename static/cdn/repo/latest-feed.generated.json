@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T01:21:12.234Z",
+    "generatedAt": "2026-03-05T04:05:35.978Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hfAoDDppoCw",
-            "name": "🔴LIVE: Today Headlines | காலை 6  மணி தலைப்புச் செய்திகள் (05.03.2026) | 6 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "zD0qHoxvoBc",
+            "name": "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "EBShg3IUux4",
-            "name": "Live from Jerusalem as US submarine torpedoes Iranian warship | The World with Yalda Hakim",
-            "artist": "Sky News"
+            "videoId": "bVitUUrHsk8",
+            "name": "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZtNeRt_tMSw",
-            "name": "Attack before Iranian attack | Headlines Geo News 2 AM (5 March 2026)",
-            "artist": "Geo News"
+            "videoId": "PdcIk_Q2a0Y",
+            "name": "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "jFt379zCnxk",
-            "name": "US submarine torpedoes Iranian warship | Sky News coverage and analysis",
-            "artist": "Sky News"
+            "videoId": "e_ZeHow5DnE",
+            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "vtxff_hGC-Q",
-            "name": "🔴LIVE: World War III? Iran Hits Back at US–Israel | Arab Countries on High Alert | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "H6NMzFEToFI",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "sGNq8mD4J9c",
-            "name": "Ali Larijani claims 500 American soldiers killed | Headlines Geo News 1 AM (5 March 2026)",
-            "artist": "Geo News"
+            "videoId": "qOFPFHJ4FbQ",
+            "name": "LIVE| West Asia War Expands: US Sinks Iranian Ship, Tehran Hits US Embassies | Vantage |Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "tcEnHO4RYmA",
-            "name": "🔴LIVE: Today Headlines | இரவு  11 மணி தலைப்புச் செய்திகள் (04.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "eBKHLI6-q5Q",
+            "name": "LIVE: Will Europe Join the US-Israel War Against Iran? | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "hN-wDntWPN0",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "O_29EfUHge8",
+            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "feKOZF3L4zA",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P5-Z8T2J2gk",
+            "name": "News Ki Pathshala | Sushant Sinha | Trump | Netanyahu | World News:Iran Vs Israel War 2026 कब थमेगा?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lBtZij3i1tU",
+            "name": "Today's Headlines | 05 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
