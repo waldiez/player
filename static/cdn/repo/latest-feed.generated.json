@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T07:37:17.899Z",
+    "generatedAt": "2026-03-05T08:31:51.137Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "b0pD-EpNEyk",
-            "name": "Breaking News LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel",
+            "videoId": "amoV7hwzinI",
+            "name": "Breaking News LIVE: Explosions Rock Dubai as Iran Launches Missiles Toward UAE | US-Iran War LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Qe5eCL4VfGo",
-            "name": "Iran US Israel War News LIVE: पाकिस्तान पर ईरान का अटैक? मचा हड़कंप! | Khamenei | Trump | Asim Munir",
-            "artist": "ABP NEWS"
+            "videoId": "WM1LuOJCe5I",
+            "name": "LIVE: Did Trump Underestimate the Iranian Regime? | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "DRdHoH9P_pA",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 05 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "XGLD2NVmSbs",
+            "name": "🔴LIVE: Iran-US-Israel War Update | Iran's Massive Attack | Gulf on High Alert | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "QOUm7LgcG24",
-            "name": "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4",
-            "artist": "ABC News"
+            "videoId": "25Kdv9M5fcw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "g1zlbEkJ9do",
-            "name": "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "mZm15HXccws",
+            "name": "War Day 6 LIVE: Iran Fires Heavy Ballistic Barrage at Central Israel | Direct Hits & Interceptions",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "uHgIPTEontI",
-            "name": "AAJTAK 2 LIVE | T20 World Cup Live Updates | Ind VS Eng कौन सी टीम ज्यादा पॉवरफुल? | AT2 LIVE",
-            "artist": "Aaj Tak"
+            "videoId": "YNUDQpC0df8",
+            "name": "🔴LIVE :iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
