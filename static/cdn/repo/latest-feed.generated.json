@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T05:41:36.664Z",
+    "generatedAt": "2026-03-05T06:41:11.965Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QOUm7LgcG24",
-            "name": "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4",
-            "artist": "ABC News"
+            "videoId": "XGLD2NVmSbs",
+            "name": "🔴LIVE: Iran-US-Israel War Update | Iran's Massive Attack | Gulf on High Alert | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "g1zlbEkJ9do",
-            "name": "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "J6Tt0Wy65JU",
+            "name": "🔴LIVE: World War III? Iran Hits Back | Arab Countries on High Alert | US–Israel Strikes | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "YNUDQpC0df8",
-            "name": "🔴LIVE :iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
-            "artist": "Thanthi TV"
+            "videoId": "zD0qHoxvoBc",
+            "name": "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "jMU51miahhU",
-            "name": "Iran Israel War Update: NATO का ट्रंप को झटका, दुनिया में ईरान का खौफ | Khamenei | Netanyahu | Trump",
+            "videoId": "bVitUUrHsk8",
+            "name": "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PdcIk_Q2a0Y",
+            "name": "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "e_ZeHow5DnE",
+            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H6NMzFEToFI",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

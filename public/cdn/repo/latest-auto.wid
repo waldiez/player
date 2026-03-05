@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260305T054136.694Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260305T064112.012Z-l4t35t"
   type: "state"
-  created: "2026-03-05T05:41:36.694Z"
+  created: "2026-03-05T06:41:12.012Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T054136.694Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T064112.012Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QOUm7LgcG24"
-        name: "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4"
-        artist: "ABC News"
+        videoId: "XGLD2NVmSbs"
+        name: "🔴LIVE: Iran-US-Israel War Update | Iran's Massive Attack | Gulf on High Alert | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g1zlbEkJ9do"
-        name: "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G"
-        artist: "CNBC-TV18"
+        videoId: "J6Tt0Wy65JU"
+        name: "🔴LIVE: World War III? Iran Hits Back | Arab Countries on High Alert | US–Israel Strikes | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YNUDQpC0df8"
-        name: "🔴LIVE :iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்"
-        artist: "Thanthi TV"
+        videoId: "zD0qHoxvoBc"
+        name: "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jMU51miahhU"
-        name: "Iran Israel War Update: NATO का ट्रंप को झटका, दुनिया में ईरान का खौफ | Khamenei | Netanyahu | Trump"
+        videoId: "bVitUUrHsk8"
+        name: "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PdcIk_Q2a0Y"
+        name: "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e_ZeHow5DnE"
+        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H6NMzFEToFI"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-05T05:41:36.694Z"
+  exported_at: "2026-03-05T06:41:12.012Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-05T05:41:36.664Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-05T06:41:11.965Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
