@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-04T23:22:59.291Z",
+    "generatedAt": "2026-03-05T01:21:12.234Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IFoafxVcVk0",
-            "name": "Today Headlines - 04 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VYqVaNy3osc",
-            "name": "🔴LIVE: israel attack iran | Khamenei dead | Trump | America |வெறி அடங்காத ஈரான்",
+            "videoId": "hfAoDDppoCw",
+            "name": "🔴LIVE: Today Headlines | காலை 6  மணி தலைப்புச் செய்திகள் (05.03.2026) | 6 AM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "5zq23FCOM3A",
-            "name": "🔴LIVE:  israel |iran | அடுத்த குறி சீனா.. அதற்கு உலகேயே பணயம் வைக்கும் டிரம்ப்",
+            "videoId": "EBShg3IUux4",
+            "name": "Live from Jerusalem as US submarine torpedoes Iranian warship | The World with Yalda Hakim",
+            "artist": "Sky News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZtNeRt_tMSw",
+            "name": "Attack before Iranian attack | Headlines Geo News 2 AM (5 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jFt379zCnxk",
+            "name": "US submarine torpedoes Iranian warship | Sky News coverage and analysis",
+            "artist": "Sky News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vtxff_hGC-Q",
+            "name": "🔴LIVE: World War III? Iran Hits Back at US–Israel | Arab Countries on High Alert | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sGNq8mD4J9c",
+            "name": "Ali Larijani claims 500 American soldiers killed | Headlines Geo News 1 AM (5 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tcEnHO4RYmA",
+            "name": "🔴LIVE: Today Headlines | இரவு  11 மணி தலைப்புச் செய்திகள் (04.03.2026) | 11 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "fgraZTZRsSs",
-            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
-            "artist": "Kanak News"
+            "videoId": "hN-wDntWPN0",
+            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
