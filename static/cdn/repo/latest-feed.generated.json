@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T09:35:25.755Z",
+    "generatedAt": "2026-03-05T10:31:51.932Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5uyYSS8KxxA",
-            "name": "World News Live : क्या सच में परमाणु टेस्टिंग चल रही ? | ! Nuclear Test | Iran Earthquake | America",
-            "artist": "Times Now Navbharat"
+            "videoId": "533WZZVuw1Y",
+            "name": "IRAN WAR LIVE UPDATES | Explosions Reported in Doha During Heightened Security Alert | Israel",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "vBbYwg_Cbto",
-            "name": "News Ki Pathshala Live | ईरान का हमला, मचा कोहराम ! | Breaking News | Iran Israel War | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gOms1zu_Q8M",
-            "name": "Nitish Kumar Resignation News LIVE : नीतीश देंगे  इस्तीफा? पटना से सीधा LIVE | Bihar | Breaking News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H61Y7_GrjOM",
-            "name": "LIVE NOW 🔴 U.S. Ready to Attack on Iran as Tehran Prepares for Retaliation | Geo War Room",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b0pD-EpNEyk",
-            "name": "Breaking News LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel",
+            "videoId": "amoV7hwzinI",
+            "name": "Breaking News LIVE: Explosions Rock Dubai as Iran Launches Missiles Toward UAE | US-Iran War LIVE",
             "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ux0rvsbhiVk",
-            "name": "Israel Iran US War News LIVE | Iran-US War Live | US Israel Burns Iran | Middle-East News LIVE",
-            "artist": "India Today"
         }
     ],
     "sourceFilters": {
