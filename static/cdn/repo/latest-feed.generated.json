@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T10:31:51.932Z",
+    "generatedAt": "2026-03-05T11:28:25.146Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "533WZZVuw1Y",
-            "name": "IRAN WAR LIVE UPDATES | Explosions Reported in Doha During Heightened Security Alert | Israel",
-            "artist": "CNN-News18"
+            "videoId": "H2ckv7MSmTs",
+            "name": "World News Live : खोमेनेई की मौत पर, श्रीनगर में अमेरिका के खिलाफ  जबरदस्त प्रदर्शन ! Iran | India |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "amoV7hwzinI",
-            "name": "Breaking News LIVE: Explosions Rock Dubai as Iran Launches Missiles Toward UAE | US-Iran War LIVE",
-            "artist": "Times Now"
+            "videoId": "sXAYse81lu4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "uxfDTdokpY8",
+            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iwy_pH4cvdg",
+            "name": "Iran US Israel War LIVE: ईरान-US जंग पर चीन का बड़ा ऐलान, पुतिन की बड़ी धमकी! | Khamenei | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ihmFOKHnfq8",
+            "name": "Nitish Kumar News LIVE : Bihar में खेला हो गया? Nitish Kumar Resignation | Samrat Chaudhary | BJP",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5uyYSS8KxxA",
+            "name": "World News Live : क्या सच में परमाणु टेस्टिंग चल रही ? | ! Nuclear Test | Iran Earthquake | America",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vBbYwg_Cbto",
+            "name": "News Ki Pathshala Live | ईरान का हमला, मचा कोहराम ! | Breaking News | Iran Israel War | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gOms1zu_Q8M",
+            "name": "Nitish Kumar Resignation News LIVE : नीतीश देंगे  इस्तीफा? पटना से सीधा LIVE | Bihar | Breaking News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H61Y7_GrjOM",
+            "name": "LIVE NOW 🔴 U.S. Ready to Attack on Iran as Tehran Prepares for Retaliation | Geo War Room",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DcPo4lWnWGc",
+            "name": "US Iran War LIVE | Stranded Americans Caught In Middle East War Plead For Help | Iran War | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
