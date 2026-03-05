@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T17:56:12.858Z",
+    "generatedAt": "2026-03-05T19:12:58.528Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lu8BaL4cNQU",
-            "name": "🔴 LIVE: Iran vs US & Israel – Middle East Crisis Escalates | Breaking News & Global Impact",
+            "videoId": "WVEPStRW-Mw",
+            "name": "Today Headlines - 05 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DjcSKBQMc6Q",
+            "name": "Israel Attacks Iran News LIVE: ईरान जंग से शुरू हुआ तीसरा विश्वयुद्ध? | Netanyahu | Trump | Aaj Tak",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mnlgZcplU2I",
+            "name": "🔴LIVE : SriLanka | Iran | Attack | இந்தியாவை நெருங்கிய போர்..? மூழ்கிய ஈரான் போர்க்கப்பல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EH3lsYvb6wQ",
+            "name": "🔴Iran Israel US War News LIVE: Iran & Israel Launch Fresh Attacks | Middle East War | WW3 News LIVE",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tsRKNjhxB88",
+            "name": "🔴LIVE CAMERA: Iran-Israel War News LIVE: Fresh Blasts in Dubai, Doha, Jerusalem | Iran War News",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CDFBhZZoxx4",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7wb8Zs9mJIU",
+            "name": "LIVE: Will Europe Join the US-Israel War Against Iran? | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bp-EHzfKJn8",
+            "name": "🔴T20 WC Live: India vs England world Cup Semi Final live match Score | IND vs ENG Live Match Today",
+            "artist": "KM PUNK"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rxL5gbkM-sE",
+            "name": "LIVE NOW 🔴 Iran Vows Strong Response to U.S. and Israel; Fears of Economic Crisis Grow| Geo War Room",
             "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fym2hucqXQU",
-            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VqKIp6DnAQI",
-            "name": "🔴LIVE:  Iran | USA | India | Isreal | War | Update |   காமேனி  கொலைக்கு  இந்தியாவின் ரியாக்‌ஷன்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0jMBuzsJMr4",
-            "name": "LIVE: Iran Expands Attacks to Azerbaijan on Day 6 of War | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LDKJHZU7JYg",
-            "name": "LIVE| West Asia War Expands: US Sinks Iranian Ship, Tehran Hits US Embassies | Vantage |Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SQwqh-RWLxY",
-            "name": "Bangla News BBC World News 06 March 2026 || World News Bangla || International News Today",
-            "artist": "mr tv 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Xt8ssrbT4eI",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
         }
     ],
     "sourceFilters": {
