@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T12:41:19.252Z",
+    "generatedAt": "2026-03-05T13:56:51.508Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "h_9YNu5bPL8",
-            "name": "US-Iran War LIVE: Trump Unleashes New 'Precision Strike Missile' On Iran, Tehran Under Fire | WION",
-            "artist": "WION"
+            "videoId": "xZNbFmgTPGw",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "psr3lhSnynY",
-            "name": "Nitish  Kumar News LIVE : बिहार से आई ये चौंकाने वाली खबर ! Bihar | Rajya Sabha | Samrat Chaudhary",
-            "artist": "NDTV India"
+            "videoId": "52v-8sDsM3E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "hfAoDDppoCw",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (05.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nu2KSOuj-Rg",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
+            "videoId": "E8wk_wH7HH8",
+            "name": "Donald Trump LIVE: Trump Delivers Urgent War Message as Iran Strikes Back | US-Iran War Live",
             "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pdapZizuN9Q",
+            "name": "India on Khamenei Death LIVE: भारत का खामेनेई की मौत बयान ने चौंकाया! | Netanyahu | Trump | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-dPE9C0zn5I",
+            "name": "NEW VIDEO: Israeli F-35 shoots down Iranian fighter jet over Tehran",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H2ckv7MSmTs",
+            "name": "World News Live : खोमेनेई की मौत पर, श्रीनगर में अमेरिका के खिलाफ  जबरदस्त प्रदर्शन ! Iran | India |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DibGlyXwLfM",
+            "name": "LIVE | Oil Above $80: How the Iran War Is Shaking Global Energy | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sXAYse81lu4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "acwIBIrBqfI",
+            "name": "আন্তর্জাতিক সময় | বিকাল ৪টা | ০৫মার্চ ২০২৬ | Somoy TV Bulletin 4pm| Latest International News",
+            "artist": "SOMOY TV Bulletin"
         }
     ],
     "sourceFilters": {

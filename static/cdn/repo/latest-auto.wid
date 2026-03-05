@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260305T124119.292Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260305T135651.548Z-l4t35t"
   type: "state"
-  created: "2026-03-05T12:41:19.292Z"
+  created: "2026-03-05T13:56:51.548Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T124119.292Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T135651.548Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "h_9YNu5bPL8"
-        name: "US-Iran War LIVE: Trump Unleashes New 'Precision Strike Missile' On Iran, Tehran Under Fire | WION"
-        artist: "WION"
+        videoId: "xZNbFmgTPGw"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "psr3lhSnynY"
-        name: "Nitish  Kumar News LIVE : बिहार से आई ये चौंकाने वाली खबर ! Bihar | Rajya Sabha | Samrat Chaudhary"
-        artist: "NDTV India"
+        videoId: "52v-8sDsM3E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hfAoDDppoCw"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (05.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nu2KSOuj-Rg"
-        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
+        videoId: "E8wk_wH7HH8"
+        name: "Donald Trump LIVE: Trump Delivers Urgent War Message as Iran Strikes Back | US-Iran War Live"
         artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pdapZizuN9Q"
+        name: "India on Khamenei Death LIVE: भारत का खामेनेई की मौत बयान ने चौंकाया! | Netanyahu | Trump | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-dPE9C0zn5I"
+        name: "NEW VIDEO: Israeli F-35 shoots down Iranian fighter jet over Tehran"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H2ckv7MSmTs"
+        name: "World News Live : खोमेनेई की मौत पर, श्रीनगर में अमेरिका के खिलाफ  जबरदस्त प्रदर्शन ! Iran | India |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DibGlyXwLfM"
+        name: "LIVE | Oil Above $80: How the Iran War Is Shaking Global Energy | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sXAYse81lu4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "acwIBIrBqfI"
+        name: "আন্তর্জাতিক সময় | বিকাল ৪টা | ০৫মার্চ ২০২৬ | Somoy TV Bulletin 4pm| Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-05T12:41:19.292Z"
+  exported_at: "2026-03-05T13:56:51.548Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-05T12:41:19.252Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-05T13:56:51.508Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
