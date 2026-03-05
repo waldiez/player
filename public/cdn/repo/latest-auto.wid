@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260305T040536.019Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260305T054136.694Z-l4t35t"
   type: "state"
-  created: "2026-03-05T04:05:36.019Z"
+  created: "2026-03-05T05:41:36.694Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T040536.019Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260305T054136.694Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zD0qHoxvoBc"
-        name: "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bVitUUrHsk8"
-        name: "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PdcIk_Q2a0Y"
-        name: "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "e_ZeHow5DnE"
-        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "H6NMzFEToFI"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026"
+        videoId: "QOUm7LgcG24"
+        name: "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qOFPFHJ4FbQ"
-        name: "LIVE| West Asia War Expands: US Sinks Iranian Ship, Tehran Hits US Embassies | Vantage |Palki Sharma"
-        artist: "Firstpost"
+        videoId: "g1zlbEkJ9do"
+        name: "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G"
+        artist: "CNBC-TV18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eBKHLI6-q5Q"
-        name: "LIVE: Will Europe Join the US-Israel War Against Iran? | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "YNUDQpC0df8"
+        name: "🔴LIVE :iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O_29EfUHge8"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "feKOZF3L4zA"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "P5-Z8T2J2gk"
-        name: "News Ki Pathshala | Sushant Sinha | Trump | Netanyahu | World News:Iran Vs Israel War 2026 कब थमेगा?"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lBtZij3i1tU"
-        name: "Today's Headlines | 05 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
+        videoId: "jMU51miahhU"
+        name: "Iran Israel War Update: NATO का ट्रंप को झटका, दुनिया में ईरान का खौफ | Khamenei | Netanyahu | Trump"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-05T04:05:36.019Z"
+  exported_at: "2026-03-05T05:41:36.694Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-05T04:05:35.978Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-05T05:41:36.664Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T04:05:35.978Z",
+    "generatedAt": "2026-03-05T05:41:36.664Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "zD0qHoxvoBc",
-            "name": "News ki Pathshala Live : ईरान का अमेरिका - इजरायल पर भयंकर पलटवार | Iran Israel War | USA | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bVitUUrHsk8",
-            "name": "Iran Israel War Update: अमेरिका पर हो सकता है अब तक का सबसे बड़ा हमला | Khamenei | Trump | Netanyahu",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PdcIk_Q2a0Y",
-            "name": "🔴LIVE : Srilanka | Iran | Attack | இலங்கை வரை வந்தது யுத்தம்.. அடுத்தது..?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e_ZeHow5DnE",
-            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H6NMzFEToFI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 4, 2026",
+            "videoId": "QOUm7LgcG24",
+            "name": "LIVE: War with Iran latest developments l ABC News Live - Wednesday, March 4",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "qOFPFHJ4FbQ",
-            "name": "LIVE| West Asia War Expands: US Sinks Iranian Ship, Tehran Hits US Embassies | Vantage |Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "g1zlbEkJ9do",
+            "name": "Middle East LIVE: War Spreads Throughout Gulf | Iran Strikes on US Military Bases | Israel | N18G",
+            "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "eBKHLI6-q5Q",
-            "name": "LIVE: Will Europe Join the US-Israel War Against Iran? | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "YNUDQpC0df8",
+            "name": "🔴LIVE :iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "O_29EfUHge8",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "feKOZF3L4zA",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P5-Z8T2J2gk",
-            "name": "News Ki Pathshala | Sushant Sinha | Trump | Netanyahu | World News:Iran Vs Israel War 2026 कब थमेगा?",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lBtZij3i1tU",
-            "name": "Today's Headlines | 05 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "jMU51miahhU",
+            "name": "Iran Israel War Update: NATO का ट्रंप को झटका, दुनिया में ईरान का खौफ | Khamenei | Netanyahu | Trump",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
