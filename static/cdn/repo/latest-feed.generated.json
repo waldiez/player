@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T22:23:33.461Z",
+    "generatedAt": "2026-03-05T23:45:19.797Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "n2GzOwTqv6I",
-            "name": "Iran Big Attack On Israel Live : इजरायल में भयंकर बमबारी ? | Breaking News | Tel Aviv |Iran |America",
-            "artist": "Times Now Navbharat"
+            "videoId": "kI0EsuQgKlE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "NcdKyzwHKOM",
-            "name": "🔴LIVE : iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
-            "artist": "Thanthi TV"
+            "videoId": "WVEPStRW-Mw",
+            "name": "Today Headlines - 05 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "KrG3pFiZ_Fs",
-            "name": "US Iran War LIVE: President Trump Claims Iran Takeover Amid Ongoing War | Israel Iran War |Firstpost",
-            "artist": "Firstpost"
+            "videoId": "3xbEHSXAZgA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Update News"
         },
         {
             "mood": "storm",
-            "videoId": "4fkLzBzLBPg",
-            "name": "Iran US War News LIVE: भारतीय नौसेना के मेहमान जहाज पर अमेरिका का हमला! | Trump | US Submarine",
-            "artist": "ABP NEWS"
+            "videoId": "DjcSKBQMc6Q",
+            "name": "Israel Attacks Iran News LIVE: ईरान जंग से शुरू हुआ तीसरा विश्वयुद्ध? | Netanyahu | Trump | Aaj Tak",
+            "artist": "Aaj Tak"
         },
         {
             "mood": "storm",
-            "videoId": "CDFBhZZoxx4",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "tsRKNjhxB88",
+            "name": "🔴LIVE CAMERA: Iran-Israel War News LIVE: Fresh Blasts in Dubai, Doha, Jerusalem | Iran War News",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IRwWKxm_Q8o",
+            "name": "🔴LIVE: israel | இந்திய பெருங்கடலில் அடுத்தடுத்து நடக்கும் யுத்தம்.. - பதற்றம்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
