@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T21:22:51.205Z",
+    "generatedAt": "2026-03-06T22:20:25.337Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "F8okJxQe1SA",
-            "name": "Iran Israel & US War | Middle East Tension | Iran News Live | Pak Afghan War | 11PM Aaj Headlines",
-            "artist": "Aaj TV Official"
+            "videoId": "IfLJJhw34D4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NBS Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "GGbaoJJwa5c",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "WiYpB1meEd8",
+            "name": "🔴LIVE: US Israel Attack Iran | இஸ்ரேல் வெளியிட்ட வீடியோ - அதிர்ச்சியில் ஈரான்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "XAPSuL3LVjg",
-            "name": "Today Headlines - 06 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "6VJOXfINu_A",
+            "name": "Iran Israel War News LIVE: ट्रंप की फाइनल WARNING!, 24 घंटे में ईरान गायब? | Trump | Big Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "s7Do-4640w4",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zfyUpIFoYZ0",
-            "name": "LIVE: Israel Pounds Tehran and Beirut as War Enters Week 2 | Vantage with Palki Sharma | US Iran War",
-            "artist": "Firstpost"
+            "videoId": "EQU8NbA8nO0",
+            "name": "Debate With Arnab LIVE: Pakistan Hammered By Afghanistan & Snubbed By Saudi Arabia",
+            "artist": "Republic World"
         }
     ],
     "sourceFilters": {
