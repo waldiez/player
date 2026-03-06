@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T172851.706Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T183417.140Z-l4t35t"
   type: "state"
-  created: "2026-03-06T17:28:51.706Z"
+  created: "2026-03-06T18:34:17.140Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T172851.706Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T183417.140Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zfyUpIFoYZ0"
-        name: "LIVE: Israel Pounds Tehran and Beirut as War Enters Week 2 | Vantage with Palki Sharma | US Iran War"
+        videoId: "WiYpB1meEd8"
+        name: "🔴LIVE: US Israel Attack Iran | இஸ்ரேல் வெளியிட்ட வீடியோ - அதிர்ச்சியில் ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6VJOXfINu_A"
+        name: "Iran Israel War News LIVE: ट्रंप की फाइनल WARNING!, 24 घंटे में ईरान गायब? | Trump | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EQU8NbA8nO0"
+        name: "Debate With Arnab LIVE: Pakistan Hammered By Afghanistan & Snubbed By Saudi Arabia"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xDQN-aVUWeo"
+        name: "LIVE NOW 🔴 “Iran’s Latest Missile Attacks Leave Devastating Scenes Across Israel”| Geo War Room"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cl0RHvq7Ghc"
+        name: "🔴Iran Israel US War News LIVE: Iran & Israel Launch Fresh Attacks | Middle East War | WW3 News LIVE"
+        artist: "moneycontrol"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8PhcOPVTdMA"
+        name: "US vs Iran LIVE: Iran Expands Attacks to Azerbaijan on Day 6 of War | Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W3Fo5ROGlmg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "এক নজরে আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DSjQJ8yZXdE"
-        name: "इजरायल के हमले के खौफ में पाकिस्तान! | Iran America War | Iran Israel War | US vs Iran"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "j_R5AtiQhEY"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump"
+        videoId: "w4t3O9HhlhI"
+        name: "US Israel Strike On Iran Live Updates : इजराइल Vs ईरान  युद्ध पर बड़ी खबर  | Netanyahu | Khamenei"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A5TjQtn8W1c"
-        name: "🔴 LIVE: এবার ইস‘রায়েলের বিমানবন্দরে ইরানের ক্ষে‘পণাস্ত্র হা‘মলা | Iran Israel USA | Jugantor"
-        artist: "Daily Jugantor"
+        videoId: "oIrWO22k3Xg"
+        name: "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mfDnsUey-fI"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 06.03.2026 | Today News | News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ALfg7dG-hM4"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "ydIziWWX-lA"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T17:28:51.706Z"
+  exported_at: "2026-03-06T18:34:17.140Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T17:28:51.676Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-06T18:34:17.101Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
