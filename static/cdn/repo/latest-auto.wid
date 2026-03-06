@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T012358.027Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T040301.352Z-l4t35t"
   type: "state"
-  created: "2026-03-06T01:23:58.027Z"
+  created: "2026-03-06T04:03:01.352Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T012358.027Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T040301.352Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "N10MhTlMNxI"
-        name: "🔴LIVE :ஈரானின் வெறியாட்டம்... பதற்றத்தில் உலக நாடுகள்..சரமாரி தாக்குதல் | Isreal Vs Iran"
-        artist: "NewsTamil 24X7"
+        videoId: "rr-RGd81AbA"
+        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XzpNrTDQUXc"
-        name: "Nepal Election 2026 LIVE: Nepal's General Election, Polls close in Nepal Elections | N18G"
+        videoId: "fhTrRjh1d4g"
+        name: "LIVE: US Sinks Iranian Warship Near Sri Lanka; Affront To India? | Vantage with Palki Sharma | N18G"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BCpHWpmBVKw"
-        name: "World War 3 ? Live: क्या शुरू हुआ तीसरा विश्व युद्ध? जंग में यूक्रेन की एंट्री! | War | India News"
-        artist: "India News"
+        videoId: "p9PctVIpL5s"
+        name: "Ajit Pawar Latest News Live | आताच्या घडीची सर्वात मोठी बातमी | Sunetra Pawar | Marathi News"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n2KF9iNG06M"
-        name: "LNG supply from Qatar to Pakistan suspended | Headlines Geo News 4 AM (6 March 2026)"
+        videoId: "GPuOLdJLXtQ"
+        name: "🔴LIVE: Iran’s Foreign Minister Warns India After US Submarine Sinks Iranian Warship | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GEsfGA-tEOI"
+        name: "LIVE 🔴Iran US Israel WAR Latest Updates! Iranian Army Attacks Israeli Nuclear Program? | Dunya News"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "od-fq_k9bD0"
+        name: "Today's Headlines | 06 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b1j9Sup8sbM"
+        name: "Saudi territory will not be used against Iran | Headlines Geo News 5 AM (6 March 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "af7BcpiI5-E"
-        name: "Israel and Iran launch new strikes as war widens | The World with Dominic Waghorn"
-        artist: "Sky News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "H99CbwJQL90"
-        name: "Attack on American oil tanker, big claim | Headlines Geo News 12 AM (6 March 2026)"
+        videoId: "UZY727iwxgI"
+        name: "Trump wants to destroy Iran first | Headlines Geo News 3 AM (6 March 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NcdKyzwHKOM"
-        name: "🔴LIVE : iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்"
-        artist: "Thanthi TV"
+        videoId: "RU4Ge8CsnSU"
+        name: "President Trump gives update on war with Iran"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KrG3pFiZ_Fs"
-        name: "US Iran War LIVE: President Trump Claims Iran Takeover Amid Ongoing War | Israel Iran War |Firstpost"
-        artist: "Firstpost"
+        videoId: "rMm-pMb6sTc"
+        name: "Iran-US war! Oil prices rise!! | Headlines Geo News 2 AM (6 March 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wl_4cwM9xvM"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 6 March 2026 | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T01:23:58.027Z"
+  exported_at: "2026-03-06T04:03:01.352Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T01:23:57.987Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-06T04:03:01.310Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

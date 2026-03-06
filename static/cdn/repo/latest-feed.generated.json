@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T01:23:57.987Z",
+    "generatedAt": "2026-03-06T04:03:01.310Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "N10MhTlMNxI",
-            "name": "🔴LIVE :ஈரானின் வெறியாட்டம்... பதற்றத்தில் உலக நாடுகள்..சரமாரி தாக்குதல் | Isreal Vs Iran",
-            "artist": "NewsTamil 24X7"
+            "videoId": "rr-RGd81AbA",
+            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "XzpNrTDQUXc",
-            "name": "Nepal Election 2026 LIVE: Nepal's General Election, Polls close in Nepal Elections | N18G",
+            "videoId": "fhTrRjh1d4g",
+            "name": "LIVE: US Sinks Iranian Warship Near Sri Lanka; Affront To India? | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "BCpHWpmBVKw",
-            "name": "World War 3 ? Live: क्या शुरू हुआ तीसरा विश्व युद्ध? जंग में यूक्रेन की एंट्री! | War | India News",
-            "artist": "India News"
+            "videoId": "p9PctVIpL5s",
+            "name": "Ajit Pawar Latest News Live | आताच्या घडीची सर्वात मोठी बातमी | Sunetra Pawar | Marathi News",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "n2KF9iNG06M",
-            "name": "LNG supply from Qatar to Pakistan suspended | Headlines Geo News 4 AM (6 March 2026)",
+            "videoId": "GPuOLdJLXtQ",
+            "name": "🔴LIVE: Iran’s Foreign Minister Warns India After US Submarine Sinks Iranian Warship | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GEsfGA-tEOI",
+            "name": "LIVE 🔴Iran US Israel WAR Latest Updates! Iranian Army Attacks Israeli Nuclear Program? | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "od-fq_k9bD0",
+            "name": "Today's Headlines | 06 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b1j9Sup8sbM",
+            "name": "Saudi territory will not be used against Iran | Headlines Geo News 5 AM (6 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "af7BcpiI5-E",
-            "name": "Israel and Iran launch new strikes as war widens | The World with Dominic Waghorn",
-            "artist": "Sky News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H99CbwJQL90",
-            "name": "Attack on American oil tanker, big claim | Headlines Geo News 12 AM (6 March 2026)",
+            "videoId": "UZY727iwxgI",
+            "name": "Trump wants to destroy Iran first | Headlines Geo News 3 AM (6 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "NcdKyzwHKOM",
-            "name": "🔴LIVE : iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
-            "artist": "Thanthi TV"
+            "videoId": "RU4Ge8CsnSU",
+            "name": "President Trump gives update on war with Iran",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "KrG3pFiZ_Fs",
-            "name": "US Iran War LIVE: President Trump Claims Iran Takeover Amid Ongoing War | Israel Iran War |Firstpost",
-            "artist": "Firstpost"
+            "videoId": "rMm-pMb6sTc",
+            "name": "Iran-US war! Oil prices rise!! | Headlines Geo News 2 AM (6 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wl_4cwM9xvM",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 6 March 2026 | NTV Latest News Update",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
