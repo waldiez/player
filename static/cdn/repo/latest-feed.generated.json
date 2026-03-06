@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T07:33:50.621Z",
+    "generatedAt": "2026-03-06T08:28:51.592Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "U4q3XqG0Pww",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "Times Now"
+            "videoId": "4igSfFFVLjg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "H6SXLetKx1Q",
-            "name": "World News Live: Iran Fires Missiles at Israel After Strikes on Iranian Targets | US-Israel Iran War",
-            "artist": "Times Now World"
+            "videoId": "7lgDGabcwVs",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 06 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "eV7aW1yA91w",
-            "name": "US and Israel Attack Iran - LIVE Breaking News & War Updates (Airstrikes in Beirut, Lebanon)",
-            "artist": "Agenda-Free TV"
+            "videoId": "Lf4jPRj3_Fs",
+            "name": "Live: Bất ngờ lớn đã xảy ra giữa ông Trump và Iran về dàn lãnh đạo mới của Iran",
+            "artist": "VẤN ĐỀ HÔM NAY"
         },
         {
             "mood": "storm",
-            "videoId": "t3aezrqRclg",
-            "name": "LIVE: War with Iran latest developments l ABC News Live - Thursday, March 5",
-            "artist": "ABC News"
+            "videoId": "y6jNesCp5-w",
+            "name": "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ০৬মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News",
+            "artist": "SOMOY TV Bulletin"
         },
         {
             "mood": "storm",
-            "videoId": "tWf02WGK-o4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 5, 2026",
-            "artist": "ABC News"
+            "videoId": "rr-RGd81AbA",
+            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Od7pdzBkfcU",
+            "name": "Iran US Israel War News: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका, इजरायल!, चौंकी दुनिया!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
