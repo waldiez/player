@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T163115.995Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T172851.706Z-l4t35t"
   type: "state"
-  created: "2026-03-06T16:31:15.995Z"
+  created: "2026-03-06T17:28:51.706Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T163115.995Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T172851.706Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8PhcOPVTdMA"
-        name: "US vs Iran LIVE: Iran Expands Attacks to Azerbaijan on Day 6 of War | Vantage with Palki Sharma"
+        videoId: "zfyUpIFoYZ0"
+        name: "LIVE: Israel Pounds Tehran and Beirut as War Enters Week 2 | Vantage with Palki Sharma | US Iran War"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "w4t3O9HhlhI"
-        name: "US Israel Strike On Iran Live Updates : इजराइल Vs ईरान  युद्ध पर बड़ी खबर  | Netanyahu | Khamenei"
+        videoId: "W3Fo5ROGlmg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "এক নজরে আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DSjQJ8yZXdE"
+        name: "इजरायल के हमले के खौफ में पाकिस्तान! | Iran America War | Iran Israel War | US vs Iran"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j_R5AtiQhEY"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | Netanyahu | US Iran War |Trump"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hJnkthAqqzM"
-        name: "बिहार के नए सीएम की रेस में कौन आगे? LIVE | Nitish Kumar Rajya Sabha | Bihar New CM | JDU"
-        artist: "NDTV India"
+        videoId: "A5TjQtn8W1c"
+        name: "🔴 LIVE: এবার ইস‘রায়েলের বিমানবন্দরে ইরানের ক্ষে‘পণাস্ত্র হা‘মলা | Iran Israel USA | Jugantor"
+        artist: "Daily Jugantor"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oIrWO22k3Xg"
-        name: "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei"
-        artist: "NDTV India"
+        videoId: "mfDnsUey-fI"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 06.03.2026 | Today News | News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tv3SpTYbEAY"
-        name: "🔴LIVE : ఇరాన్, ఇజ్రాయెల్ యుద్ధం..17దేశాలకు ముప్పు | Danger Bells  To 17 Countries | Iran Israel War"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MhWkx_EfH7M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bGY0bOOXi_k"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BBC NEWS LIVE"
+        videoId: "ALfg7dG-hM4"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T16:31:15.995Z"
+  exported_at: "2026-03-06T17:28:51.706Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T16:31:15.951Z"
+  source_generated_at: "2026-03-06T17:28:51.676Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
