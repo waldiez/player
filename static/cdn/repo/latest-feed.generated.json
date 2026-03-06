@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-05T23:45:19.797Z",
+    "generatedAt": "2026-03-06T01:23:57.987Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kI0EsuQgKlE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "N10MhTlMNxI",
+            "name": "🔴LIVE :ஈரானின் வெறியாட்டம்... பதற்றத்தில் உலக நாடுகள்..சரமாரி தாக்குதல் | Isreal Vs Iran",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "WVEPStRW-Mw",
-            "name": "Today Headlines - 05 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "XzpNrTDQUXc",
+            "name": "Nepal Election 2026 LIVE: Nepal's General Election, Polls close in Nepal Elections | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "3xbEHSXAZgA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Update News"
+            "videoId": "BCpHWpmBVKw",
+            "name": "World War 3 ? Live: क्या शुरू हुआ तीसरा विश्व युद्ध? जंग में यूक्रेन की एंट्री! | War | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "DjcSKBQMc6Q",
-            "name": "Israel Attacks Iran News LIVE: ईरान जंग से शुरू हुआ तीसरा विश्वयुद्ध? | Netanyahu | Trump | Aaj Tak",
-            "artist": "Aaj Tak"
+            "videoId": "n2KF9iNG06M",
+            "name": "LNG supply from Qatar to Pakistan suspended | Headlines Geo News 4 AM (6 March 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "tsRKNjhxB88",
-            "name": "🔴LIVE CAMERA: Iran-Israel War News LIVE: Fresh Blasts in Dubai, Doha, Jerusalem | Iran War News",
-            "artist": "moneycontrol"
+            "videoId": "af7BcpiI5-E",
+            "name": "Israel and Iran launch new strikes as war widens | The World with Dominic Waghorn",
+            "artist": "Sky News"
         },
         {
             "mood": "storm",
-            "videoId": "IRwWKxm_Q8o",
-            "name": "🔴LIVE: israel | இந்திய பெருங்கடலில் அடுத்தடுத்து நடக்கும் யுத்தம்.. - பதற்றம்",
-            "artist": "Sathiyam News"
+            "videoId": "H99CbwJQL90",
+            "name": "Attack on American oil tanker, big claim | Headlines Geo News 12 AM (6 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NcdKyzwHKOM",
+            "name": "🔴LIVE : iranisraelwar | iran | நேட்டோ’ நாடுகளின் முடிவால் திருப்பம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KrG3pFiZ_Fs",
+            "name": "US Iran War LIVE: President Trump Claims Iran Takeover Amid Ongoing War | Israel Iran War |Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
