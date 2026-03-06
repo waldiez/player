@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T13:49:14.976Z",
+    "generatedAt": "2026-03-06T14:31:46.184Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ALfg7dG-hM4",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "MhWkx_EfH7M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "_t5Y_3TBSnQ",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.03.2026) | 2 PM Headlines | ThanthiTV",
+            "videoId": "oR9ETkQVpKw",
+            "name": "Iran-US War: Israel Declares Dangerous \"New Phase\" as IDF Bomb Tehran, Lebanon | Firstpost Live",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Rj-B6tJ6twc",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 06 March 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kouhVVvB1HQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "zduhJixXmos",
+            "name": "🔴LIVE : CM MK Stalin | CM Stalin Statement | DMK | TN Govt | தமிழ்நாட்டுக்கே அறிவித்தார் CM ஸ்டாலின்",
             "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JrRMI_i1KNY",
-            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ATfOM7YRKYY",
-            "name": "World News | ख़बरें विदेश की | 06 march 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G2q8b1WT72I",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 6 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "PUBLIC NEWS 24"
         }
     ],
     "sourceFilters": {
