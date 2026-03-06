@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T14:31:46.184Z",
+    "generatedAt": "2026-03-06T15:29:44.000Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,50 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MhWkx_EfH7M",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oR9ETkQVpKw",
-            "name": "Iran-US War: Israel Declares Dangerous \"New Phase\" as IDF Bomb Tehran, Lebanon | Firstpost Live",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Rj-B6tJ6twc",
+            "videoId": "zfVwXNp2JNI",
             "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 06 March 2026",
             "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "kouhVVvB1HQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "A5TjQtn8W1c",
+            "name": "🔴 LIVE: এবার ইস‘রায়েলের বিমানবন্দরে ইরানের ক্ষে‘পণাস্ত্র হা‘মলা | Iran Israel USA | Jugantor",
+            "artist": "Daily Jugantor"
         },
         {
             "mood": "storm",
-            "videoId": "zduhJixXmos",
-            "name": "🔴LIVE : CM MK Stalin | CM Stalin Statement | DMK | TN Govt | தமிழ்நாட்டுக்கே அறிவித்தார் CM ஸ்டாலின்",
+            "videoId": "um1vIUDuXCU",
+            "name": "🔴LIVE : பிள்ளையார் சுழி போட்ட டிரம்ப்.. முழுவீச்சில் தயாரான ஈரான்! நாலா பக்கமும் சிதறும் கட்டிடம்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fm1W5DA2bl8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ALfg7dG-hM4",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fg-IJq3Q3bM",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LCnXwZiqGgk",
+            "name": "NEW: Israel dismantles 6 Iranian ballistic missile launchers",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_t5Y_3TBSnQ",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.03.2026) | 2 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         }
     ],
