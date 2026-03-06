@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T22:20:25.337Z",
+    "generatedAt": "2026-03-06T23:20:48.500Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IfLJJhw34D4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NBS Bangla News"
+            "videoId": "k6aSr2BL5s0",
+            "name": "Iran Attacks US-Israel LIVE: Tehran Fires DEADLIEST 'Fattah-2'  Missile In Counter Strike | WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "WiYpB1meEd8",
-            "name": "🔴LIVE: US Israel Attack Iran | இஸ்ரேல் வெளியிட்ட வீடியோ - அதிர்ச்சியில் ஈரான்",
-            "artist": "Sathiyam News"
+            "videoId": "M-V4WYDKULM",
+            "name": "Tehran sees strikes 'every few hours' as US-Israel war with Iran enters seventh day | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "6VJOXfINu_A",
-            "name": "Iran Israel War News LIVE: ट्रंप की फाइनल WARNING!, 24 घंटे में ईरान गायब? | Trump | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "GGbaoJJwa5c",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "EQU8NbA8nO0",
-            "name": "Debate With Arnab LIVE: Pakistan Hammered By Afghanistan & Snubbed By Saudi Arabia",
-            "artist": "Republic World"
+            "videoId": "XAPSuL3LVjg",
+            "name": "Today Headlines - 06 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F2tP3xBQYDA",
+            "name": "LIVE with Dr. Shahid Masood | World Heading Towards Destruction? | 06 March 2026 | GNN",
+            "artist": "GNN"
         }
     ],
     "sourceFilters": {
