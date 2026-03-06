@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T192902.834Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T202339.262Z-l4t35t"
   type: "state"
-  created: "2026-03-06T19:29:02.834Z"
+  created: "2026-03-06T20:23:39.262Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T192902.834Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T202339.262Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,26 +53,44 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GGbaoJJwa5c"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.03.2026) | 11 PM Headlines | ThanthiTV"
+        videoId: "BR90TgVBBIA"
+        name: "🔴LIVE : Israel, US Vs Iran War | உச்சகட்டத்தில் ஈரான் யுத்தம் - அதிஉச்ச பதற்றத்தில் உலகம்"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XAPSuL3LVjg"
-        name: "Today Headlines - 06 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "WiYpB1meEd8"
+        name: "🔴LIVE: US Israel Attack Iran | இஸ்ரேல் வெளியிட்ட வீடியோ - அதிர்ச்சியில் ஈரான்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s7Do-4640w4"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "EQU8NbA8nO0"
+        name: "Debate With Arnab LIVE: Pakistan Hammered By Afghanistan & Snubbed By Saudi Arabia"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zfyUpIFoYZ0"
-        name: "LIVE: Israel Pounds Tehran and Beirut as War Enters Week 2 | Vantage with Palki Sharma | US Iran War"
+        videoId: "xDQN-aVUWeo"
+        name: "LIVE NOW 🔴 “Iran’s Latest Missile Attacks Leave Devastating Scenes Across Israel”| Geo War Room"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cl0RHvq7Ghc"
+        name: "🔴Iran Israel US War News LIVE: Iran & Israel Launch Fresh Attacks | Middle East War | WW3 News LIVE"
+        artist: "moneycontrol"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "F2tP3xBQYDA"
+        name: "LIVE with Dr. Shahid Masood | World Heading Towards Destruction? | 06 March 2026 | GNN"
+        artist: "GNN"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8PhcOPVTdMA"
+        name: "US vs Iran LIVE: Iran Expands Attacks to Azerbaijan on Day 6 of War | Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
   moodCustomizations:
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T19:29:02.834Z"
+  exported_at: "2026-03-06T20:23:39.262Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T19:29:02.793Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-06T20:23:39.224Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
