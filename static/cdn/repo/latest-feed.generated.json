@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T09:30:35.664Z",
+    "generatedAt": "2026-03-06T10:27:32.783Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rxL5gbkM-sE",
-            "name": "LIVE NOW 🔴 Iran Vows Strong Response to U.S. and Israel; Fears of Economic Crisis Grow| Geo War Room",
-            "artist": "Geo News"
+            "videoId": "cf103CNrcSw",
+            "name": "News Ki Pathshala Live | पब्लिक-पार्टनर सब ट्रंप को धो रहे ? | World News | Iran Israel War Update",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sWPR2XdEf2Y",
-            "name": "LIVE| Iran Hits Key US Military Systems: $2 Billion Loss in Six Days | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "xzyGJHYRby0",
+            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "U4q3XqG0Pww",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "Times Now"
+            "videoId": "r0tx-fefnEE",
+            "name": "USS Abraham Under Attack LIVE: Iran’s IRGC Hits U.S. Carrier With Drones, Missiles | Trump Spooked?",
+            "artist": "Oneindia News"
         },
         {
             "mood": "storm",
-            "videoId": "H6SXLetKx1Q",
-            "name": "World News Live: Iran Fires Missiles at Israel After Strikes on Iranian Targets | US-Israel Iran War",
-            "artist": "Times Now World"
+            "videoId": "zOZlWqpJNjk",
+            "name": "🔴LIVE : Iran | India | Isreal | நம் வீட்டுக்கே உலை வைக்கும் ஈரான் போர் - இந்தியர்களுக்கு பேரதிர்ச்சி",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "gSgMYGRWZi4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oIrWO22k3Xg",
-            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei",
-            "artist": "NDTV India"
+            "videoId": "4igSfFFVLjg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {
