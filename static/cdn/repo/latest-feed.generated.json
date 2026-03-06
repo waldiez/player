@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T12:36:56.050Z",
+    "generatedAt": "2026-03-06T13:49:14.976Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kouhVVvB1HQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "ALfg7dG-hM4",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "nWsWSwB3YUo",
-            "name": "Israel Iran War LIVE | Iran Launches Fresh Drone Attack On Israel | US Iran War LIVE | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cf103CNrcSw",
-            "name": "News Ki Pathshala Live | पब्लिक-पार्टनर सब ट्रंप को धो रहे ? | World News | Iran Israel War Update",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BR90TgVBBIA",
-            "name": "🔴LIVE : Israel, US Vs Iran War | உச்சகட்டத்தில் ஈரான் யுத்தம் - அதிஉச்ச பதற்றத்தில் உலகம்",
+            "videoId": "_t5Y_3TBSnQ",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.03.2026) | 2 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "xzyGJHYRby0",
-            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "JrRMI_i1KNY",
+            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "GGbaoJJwa5c",
-            "name": "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (06.03.2026) |  PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "ATfOM7YRKYY",
+            "name": "World News | ख़बरें विदेश की | 06 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
         },
         {
             "mood": "storm",
-            "videoId": "r0tx-fefnEE",
-            "name": "USS Abraham Under Attack LIVE: Iran’s IRGC Hits U.S. Carrier With Drones, Missiles | Trump Spooked?",
-            "artist": "Oneindia News"
+            "videoId": "G2q8b1WT72I",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 6 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "PUBLIC NEWS 24"
         }
     ],
     "sourceFilters": {
