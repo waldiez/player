@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T063743.595Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T073350.661Z-l4t35t"
   type: "state"
-  created: "2026-03-06T06:37:43.595Z"
+  created: "2026-03-06T07:33:50.661Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T063743.595Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T073350.661Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7lgDGabcwVs"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 06 Mar'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
+        videoId: "U4q3XqG0Pww"
+        name: "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Lf4jPRj3_Fs"
-        name: "Live: Bất ngờ lớn đã xảy ra giữa ông Trump và Iran về dàn lãnh đạo mới của Iran"
-        artist: "VẤN ĐỀ HÔM NAY"
+        videoId: "H6SXLetKx1Q"
+        name: "World News Live: Iran Fires Missiles at Israel After Strikes on Iranian Targets | US-Israel Iran War"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rr-RGd81AbA"
-        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
-        artist: "WION"
+        videoId: "eV7aW1yA91w"
+        name: "US and Israel Attack Iran - LIVE Breaking News & War Updates (Airstrikes in Beirut, Lebanon)"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fhTrRjh1d4g"
-        name: "LIVE: US Sinks Iranian Warship Near Sri Lanka; Affront To India? | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "t3aezrqRclg"
+        name: "LIVE: War with Iran latest developments l ABC News Live - Thursday, March 5"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tWf02WGK-o4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 5, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T06:37:43.595Z"
+  exported_at: "2026-03-06T07:33:50.661Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T06:37:43.555Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-06T07:33:50.621Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
