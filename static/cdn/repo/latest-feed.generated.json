@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T11:22:29.595Z",
+    "generatedAt": "2026-03-06T12:36:56.050Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_t5Y_3TBSnQ",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.03.2026) | 2 PM Headlines | ThanthiTV",
+            "videoId": "kouhVVvB1HQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "nWsWSwB3YUo",
+            "name": "Israel Iran War LIVE | Iran Launches Fresh Drone Attack On Israel | US Iran War LIVE | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cf103CNrcSw",
+            "name": "News Ki Pathshala Live | पब्लिक-पार्टनर सब ट्रंप को धो रहे ? | World News | Iran Israel War Update",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BR90TgVBBIA",
+            "name": "🔴LIVE : Israel, US Vs Iran War | உச்சகட்டத்தில் ஈரான் யுத்தம் - அதிஉச்ச பதற்றத்தில் உலகம்",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "JrRMI_i1KNY",
-            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "xzyGJHYRby0",
+            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "6tzBCFuD-kw",
-            "name": "Live: Iran lại một phen ‘hú hồn’ quyết định của ông Trump về trận đánh",
-            "artist": "VẤN ĐỀ HÔM NAY"
+            "videoId": "GGbaoJJwa5c",
+            "name": "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (06.03.2026) |  PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "rxL5gbkM-sE",
-            "name": "LIVE NOW 🔴 Iran Vows Strong Response to U.S. and Israel; Fears of Economic Crisis Grow| Geo War Room",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sWPR2XdEf2Y",
-            "name": "LIVE| Iran Hits Key US Military Systems: $2 Billion Loss in Six Days | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3L1DO20MtqA",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 06 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l5hYMV5Sb2Q",
-            "name": "US Iran War LIVE: Israeli Military Launches Strikes on Beirut | Israel Iran War | Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fLZqcvtB6io",
-            "name": "Israel Iran War Update : ईरान-इजरायल युद्ध बॉर्डर से सीधा LIVE | Netanyahu | Khamenei | Trump",
-            "artist": "NDTV India"
+            "videoId": "r0tx-fefnEE",
+            "name": "USS Abraham Under Attack LIVE: Iran’s IRGC Hits U.S. Carrier With Drones, Missiles | Trump Spooked?",
+            "artist": "Oneindia News"
         }
     ],
     "sourceFilters": {
