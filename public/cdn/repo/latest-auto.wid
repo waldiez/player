@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260306T040301.352Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260306T053948.331Z-l4t35t"
   type: "state"
-  created: "2026-03-06T04:03:01.352Z"
+  created: "2026-03-06T05:39:48.331Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T040301.352Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260306T053948.331Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rr-RGd81AbA"
-        name: "World DNA LIVE | Latest English News | World News | WION LIVE"
-        artist: "WION"
+        videoId: "LAnrrkks5wc"
+        name: "News Ki Pathshala Live | ईरान ने अमेरिका को दे दिया अल्टीमेटम ! | Breaking News | Iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fhTrRjh1d4g"
-        name: "LIVE: US Sinks Iranian Warship Near Sri Lanka; Affront To India? | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "eV7aW1yA91w"
+        name: "US and Israel Attack Iran - LIVE Breaking News & War Updates (Airstrikes in Beirut, Lebanon)"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p9PctVIpL5s"
-        name: "Ajit Pawar Latest News Live | आताच्या घडीची सर्वात मोठी बातमी | Sunetra Pawar | Marathi News"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GPuOLdJLXtQ"
-        name: "🔴LIVE: Iran’s Foreign Minister Warns India After US Submarine Sinks Iranian Warship | SAMAA TV"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GEsfGA-tEOI"
-        name: "LIVE 🔴Iran US Israel WAR Latest Updates! Iranian Army Attacks Israeli Nuclear Program? | Dunya News"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "od-fq_k9bD0"
-        name: "Today's Headlines | 06 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b1j9Sup8sbM"
-        name: "Saudi territory will not be used against Iran | Headlines Geo News 5 AM (6 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UZY727iwxgI"
-        name: "Trump wants to destroy Iran first | Headlines Geo News 3 AM (6 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RU4Ge8CsnSU"
-        name: "President Trump gives update on war with Iran"
+        videoId: "t3aezrqRclg"
+        name: "LIVE: War with Iran latest developments l ABC News Live - Thursday, March 5"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rMm-pMb6sTc"
-        name: "Iran-US war! Oil prices rise!! | Headlines Geo News 2 AM (6 March 2026)"
-        artist: "Geo News"
+        videoId: "Od7pdzBkfcU"
+        name: "Iran US Israel War News: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका, इजरायल!, चौंकी दुनिया!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wl_4cwM9xvM"
-        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 6 March 2026 | NTV Latest News Update"
-        artist: "NTV News"
+        videoId: "tWf02WGK-o4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 5, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AMPFBomkjdE"
+        name: "Iran US Israel War LIVE: खामेनेई की मौत पर भारत का पहला बयान! | Khamenei | Trump | India | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9Uv87RoUCpI"
+        name: "Iran US War News: ईरान के बाद पाकिस्तानके परमाणु खतरे में!ट्रंप ने लिया फैसला! | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "a83Y_NSQc88"
+        name: "Attack On Muslim Countries LIVE Updates: कतर, UAE, सऊदी, बहरीन.. मुस्लिम देशों पर जारी हमले | Trump"
+        artist: "Aaj Tak"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nu2KSOuj-Rg"
+        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-06T04:03:01.352Z"
+  exported_at: "2026-03-06T05:39:48.331Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-06T04:03:01.310Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-06T05:39:48.290Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

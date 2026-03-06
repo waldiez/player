@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T04:03:01.310Z",
+    "generatedAt": "2026-03-06T05:39:48.290Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rr-RGd81AbA",
-            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
-            "artist": "WION"
+            "videoId": "LAnrrkks5wc",
+            "name": "News Ki Pathshala Live | ईरान ने अमेरिका को दे दिया अल्टीमेटम ! | Breaking News | Iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "fhTrRjh1d4g",
-            "name": "LIVE: US Sinks Iranian Warship Near Sri Lanka; Affront To India? | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "eV7aW1yA91w",
+            "name": "US and Israel Attack Iran - LIVE Breaking News & War Updates (Airstrikes in Beirut, Lebanon)",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "p9PctVIpL5s",
-            "name": "Ajit Pawar Latest News Live | आताच्या घडीची सर्वात मोठी बातमी | Sunetra Pawar | Marathi News",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GPuOLdJLXtQ",
-            "name": "🔴LIVE: Iran’s Foreign Minister Warns India After US Submarine Sinks Iranian Warship | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GEsfGA-tEOI",
-            "name": "LIVE 🔴Iran US Israel WAR Latest Updates! Iranian Army Attacks Israeli Nuclear Program? | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "od-fq_k9bD0",
-            "name": "Today's Headlines | 06 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b1j9Sup8sbM",
-            "name": "Saudi territory will not be used against Iran | Headlines Geo News 5 AM (6 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UZY727iwxgI",
-            "name": "Trump wants to destroy Iran first | Headlines Geo News 3 AM (6 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RU4Ge8CsnSU",
-            "name": "President Trump gives update on war with Iran",
+            "videoId": "t3aezrqRclg",
+            "name": "LIVE: War with Iran latest developments l ABC News Live - Thursday, March 5",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "rMm-pMb6sTc",
-            "name": "Iran-US war! Oil prices rise!! | Headlines Geo News 2 AM (6 March 2026)",
-            "artist": "Geo News"
+            "videoId": "Od7pdzBkfcU",
+            "name": "Iran US Israel War News: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका, इजरायल!, चौंकी दुनिया!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Wl_4cwM9xvM",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 6 March 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "tWf02WGK-o4",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 5, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AMPFBomkjdE",
+            "name": "Iran US Israel War LIVE: खामेनेई की मौत पर भारत का पहला बयान! | Khamenei | Trump | India | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9Uv87RoUCpI",
+            "name": "Iran US War News: ईरान के बाद पाकिस्तानके परमाणु खतरे में!ट्रंप ने लिया फैसला! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "a83Y_NSQc88",
+            "name": "Attack On Muslim Countries LIVE Updates: कतर, UAE, सऊदी, बहरीन.. मुस्लिम देशों पर जारी हमले | Trump",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nu2KSOuj-Rg",
+            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
