@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T08:28:51.592Z",
+    "generatedAt": "2026-03-06T09:30:35.664Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4igSfFFVLjg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "rxL5gbkM-sE",
+            "name": "LIVE NOW 🔴 Iran Vows Strong Response to U.S. and Israel; Fears of Economic Crisis Grow| Geo War Room",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "7lgDGabcwVs",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 06 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "sWPR2XdEf2Y",
+            "name": "LIVE| Iran Hits Key US Military Systems: $2 Billion Loss in Six Days | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "Lf4jPRj3_Fs",
-            "name": "Live: Bất ngờ lớn đã xảy ra giữa ông Trump và Iran về dàn lãnh đạo mới của Iran",
-            "artist": "VẤN ĐỀ HÔM NAY"
+            "videoId": "U4q3XqG0Pww",
+            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "y6jNesCp5-w",
-            "name": "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ০৬মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "H6SXLetKx1Q",
+            "name": "World News Live: Iran Fires Missiles at Israel After Strikes on Iranian Targets | US-Israel Iran War",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "rr-RGd81AbA",
-            "name": "World DNA LIVE | Latest English News | World News | WION LIVE",
-            "artist": "WION"
+            "videoId": "gSgMYGRWZi4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "Od7pdzBkfcU",
-            "name": "Iran US Israel War News: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका, इजरायल!, चौंकी दुनिया!",
-            "artist": "ABP NEWS"
+            "videoId": "oIrWO22k3Xg",
+            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
