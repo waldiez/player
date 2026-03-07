@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T22:15:32.149Z",
+    "generatedAt": "2026-03-07T23:15:24.752Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "e9yFRcLQMv8",
-            "name": "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "LgdLc22K0tE",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "f2iv0lQvlqg",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "sjJkET6tQWQ",
+            "name": "🔴LIVE | Iran Launches Missiles | Russia Action | US & Israeli Bases Destroyed | Dunya News",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "rNQ4pUEAVhc",
-            "name": "Today Headlines - 07 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "bG7sCFtzDlE",
+            "name": "​🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Farjanvai2.0"
         },
         {
             "mood": "storm",
-            "videoId": "VlZQB5smrv4",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "c53uPlagEZg",
-            "name": "🔴 LIVE: ইরানের হা'মলায় দিশেহারা ই'সরা'য়েল | International | Middle East War |Jugantor",
-            "artist": "Daily Jugantor"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2f-_wLieQWc",
-            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_KRUBWpfHJk",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3oB5EOGIPF0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "AR Media 24"
+            "videoId": "SF0N66X6o4g",
+            "name": "Good Morning America Full Broadcast - Saturday, March 7, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
