@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260307T182311.256Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260307T191620.716Z-l4t35t"
   type: "state"
-  created: "2026-03-07T18:23:11.256Z"
+  created: "2026-03-07T19:16:20.716Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T182311.256Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T191620.716Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2f-_wLieQWc"
-        name: "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்"
-        artist: "Sathiyam News"
+        videoId: "Y-1qbXlNeuw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9tdBd_8jwQU"
-        name: "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_KRUBWpfHJk"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U1xmxcIznK0"
-        name: "LIVE: Iranian Missiles Breach Iron Dome? Ballistic Hits in Tel Aviv & Jerusalem | IRGC LIVE | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "c9IcVYabAxA"
-        name: "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AimeOpGXyNU"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UTOxxUrlXDs"
-        name: "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |"
-        artist: "Times Now Navbharat"
+        videoId: "MTVdKGv8LBU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-07T18:23:11.256Z"
+  exported_at: "2026-03-07T19:16:20.716Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-07T18:23:11.209Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-07T19:16:20.675Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
