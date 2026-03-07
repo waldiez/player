@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T07:23:04.460Z",
+    "generatedAt": "2026-03-07T08:21:16.913Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2p5suDJWy7M",
-            "name": "US IRAN War Live: Fresh Proof Of US Losing Iran War? Embassy Chaos Fuels Questions | Trump | Israel",
-            "artist": "Hindustan Times"
+            "videoId": "h9OQS6knz10",
+            "name": "Iran-US-Israel War Live: Iran Launches Drone And Missile Strikes On Kurdish Armed Groups | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "0jjh7r_o5F4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "qnOK0APz1XU",
+            "name": "🔴LIVE: Iran Israel war | Trump | நேட்டோ நாடுகளால் திடீர் பதற்றம்.. உலகப்போராக மாறுகிறதா?",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "4IhKw1_qhU4",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "MIRROR NOW"
+            "videoId": "y65X0NH7m28",
+            "name": "Israel Iran War LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "_QpHPPWP8pA",
-            "name": "Iran Israel War LIVE: Dubai Airport पर ईरान का बड़ा धमाका | America | Trump | Drone | Netanyahu",
-            "artist": "ABP NEWS"
+            "videoId": "LgdLc22K0tE",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "qpuaJ3aHfVk",
-            "name": "ABC News Live Prime: March 6, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yqqbIrimlGM",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 6, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jwjvC5dCFwU",
-            "name": "LIVE: Israel Bombs Khamenei's Bunker, Iran Attacks US-Flagged Tanker | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "34ps3LCmOv4",
+            "name": "ISRAEL‑IRAN WAR LIVE — Iran Fires New Wave of Missiles at Israel and Gulf | LIVE WAR NEWS | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
