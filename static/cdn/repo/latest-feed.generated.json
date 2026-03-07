@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T17:15:19.570Z",
+    "generatedAt": "2026-03-07T18:23:11.209Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3YjxzecU9Kw",
-            "name": "Ayatollah Ali Khamenei's last speech: What message did he give to world? | Geo Digital",
-            "artist": "Geo News"
+            "videoId": "2f-_wLieQWc",
+            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Y-1qbXlNeuw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "9tdBd_8jwQU",
+            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "-ZTuVL8Fy-0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "_KRUBWpfHJk",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "ewurZ86r_Zk",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 07.03.2026 | Today News | Iran War | US Attack | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "U1xmxcIznK0",
+            "name": "LIVE: Iranian Missiles Breach Iron Dome? Ballistic Hits in Tel Aviv & Jerusalem | IRGC LIVE | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "FM0sIsdFU2w",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে | 6 March 2026",
-            "artist": "BDE WORLD NEWS"
+            "videoId": "c9IcVYabAxA",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "6eLBUMXRrjg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Scale Tune"
+            "videoId": "AimeOpGXyNU",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UTOxxUrlXDs",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
