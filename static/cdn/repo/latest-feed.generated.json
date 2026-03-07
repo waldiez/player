@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-06T23:20:48.500Z",
+    "generatedAt": "2026-03-07T01:16:00.715Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "k6aSr2BL5s0",
-            "name": "Iran Attacks US-Israel LIVE: Tehran Fires DEADLIEST 'Fattah-2'  Missile In Counter Strike | WION",
+            "videoId": "JrRMI_i1KNY",
+            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pJz1ok19ufk",
+            "name": "LIVE 🔴Iran US Israel WAR Extended! Petroleum Products Shortage | Alert in Pakistan | School Closed?",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YP0xQa-Ttrw",
+            "name": "LIVE🔴Iran US Israel WAR Latest Updates! US B2 Bomber Enters Tehran | Attack On Iran | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lfFZK61PAKw",
+            "name": "US Strikes Iran LIVE: US DESTROYS Iranian Ballistic Missile Sites, New War Footage Released |WION",
             "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "M-V4WYDKULM",
-            "name": "Tehran sees strikes 'every few hours' as US-Israel war with Iran enters seventh day | BBC News",
-            "artist": "BBC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GGbaoJJwa5c",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XAPSuL3LVjg",
-            "name": "Today Headlines - 06 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F2tP3xBQYDA",
-            "name": "LIVE with Dr. Shahid Masood | World Heading Towards Destruction? | 06 March 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "eSMvLUlF7rw",
+            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
