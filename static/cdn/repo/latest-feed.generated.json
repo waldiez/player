@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T06:29:50.167Z",
+    "generatedAt": "2026-03-07T07:23:04.460Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LgdLc22K0tE",
-            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |",
-            "artist": "Times Now Navbharat"
+            "videoId": "2p5suDJWy7M",
+            "name": "US IRAN War Live: Fresh Proof Of US Losing Iran War? Embassy Chaos Fuels Questions | Trump | Israel",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "e_TyBiBE-6k",
-            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump Vs Khamenei",
-            "artist": "NDTV India"
+            "videoId": "0jjh7r_o5F4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "eHV6jk6CZKc",
-            "name": "LIVE AT 6 HD LIVE | പശ്ചിമേഷ്യൻ യുദ്ധം , മുന്നറിയിപ്പുമായി ഖത്തർ | Iran Israel War |Netanyahu |Trump",
-            "artist": "News18 Kerala"
+            "videoId": "4IhKw1_qhU4",
+            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "qgFH0U5u83E",
-            "name": "LIVE: The War Defined in 7 Videos on Day 7 | US Iran War | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "_QpHPPWP8pA",
+            "name": "Iran Israel War LIVE: Dubai Airport पर ईरान का बड़ा धमाका | America | Trump | Drone | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "a8nmUtn7NTA",
-            "name": "LIVE: Trump Wants to Pick Iran’s Next Leader | Vantage with Palki Sharma | N18G",
+            "videoId": "qpuaJ3aHfVk",
+            "name": "ABC News Live Prime: March 6, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yqqbIrimlGM",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 6, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jwjvC5dCFwU",
+            "name": "LIVE: Israel Bombs Khamenei's Bunker, Iran Attacks US-Flagged Tanker | Vantage with Palki Sharma",
             "artist": "Firstpost"
         }
     ],
