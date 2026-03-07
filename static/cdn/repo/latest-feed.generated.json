@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T20:16:54.436Z",
+    "generatedAt": "2026-03-07T21:14:22.544Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "f2iv0lQvlqg",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV",
+            "videoId": "sqvZmnl-rPA",
+            "name": "🔴LIVE : TVK Vijay Full Speech |  \"மகளிருக்கு மாதம் ரூ.2500..\" அறிவித்த விஜய் | Thanthi TV Live",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "rNQ4pUEAVhc",
-            "name": "Today Headlines - 07 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "T03BfykDTEg",
+            "name": "Israel Iran War LIVE: Barrage of Iranian Missiles Seen Flying Over Israel and West Bank | Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "VlZQB5smrv4",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
-            "artist": "Times Now"
+            "videoId": "LgdLc22K0tE",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "c53uPlagEZg",
-            "name": "🔴 LIVE: ইরানের হা'মলায় দিশেহারা ই'সরা'য়েল | International | Middle East War |Jugantor",
-            "artist": "Daily Jugantor"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2f-_wLieQWc",
-            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9tdBd_8jwQU",
-            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_KRUBWpfHJk",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "sjJkET6tQWQ",
+            "name": "🔴LIVE | Iran Launches Missiles | Russia Action | US & Israeli Bases Destroyed | Dunya News",
+            "artist": "Dunya News"
         }
     ],
     "sourceFilters": {
