@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T01:16:00.715Z",
+    "generatedAt": "2026-03-07T03:53:38.434Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JrRMI_i1KNY",
-            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "jwjvC5dCFwU",
+            "name": "LIVE: Israel Bombs Khamenei's Bunker, Iran Attacks US-Flagged Tanker | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "pJz1ok19ufk",
-            "name": "LIVE 🔴Iran US Israel WAR Extended! Petroleum Products Shortage | Alert in Pakistan | School Closed?",
-            "artist": "Dunya News"
+            "videoId": "a8nmUtn7NTA",
+            "name": "LIVE: Trump Wants to Pick Iran’s Next Leader | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "YP0xQa-Ttrw",
-            "name": "LIVE🔴Iran US Israel WAR Latest Updates! US B2 Bomber Enters Tehran | Attack On Iran | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "ZfePj4M37zw",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "lfFZK61PAKw",
-            "name": "US Strikes Iran LIVE: US DESTROYS Iranian Ballistic Missile Sites, New War Footage Released |WION",
-            "artist": "WION"
+            "videoId": "oInXsQMrs0g",
+            "name": "Iran Israel US war Updates LIVE: युद्ध के मैदान से ताजा हालात! लाइव | Trump Vs Khamenei | 07 March",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "eSMvLUlF7rw",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "78bhD-iAwqI",
+            "name": "Pres. Trump demands Iran's 'unconditional surrender' as U.S., Israel escalate attacks",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-xvyO0luPO8",
+            "name": "Sandeep Chaudhary LIVE: ट्रंप की 'अंधभक्ति',ये कैसी देशभक्ति? | World War| India | LPG | Fuel Price",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_QLjG_y_cos",
+            "name": "Iran Israel War LIVE: ईरान ने इजरायल के तेल अवीव पर किया बड़ा हमला | Trump | Netanyahu | World News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4D7NZwIMRhc",
+            "name": "Today's Headlines | 07 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
