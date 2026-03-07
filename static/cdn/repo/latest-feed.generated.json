@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T03:53:38.434Z",
+    "generatedAt": "2026-03-07T04:56:19.369Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jwjvC5dCFwU",
-            "name": "LIVE: Israel Bombs Khamenei's Bunker, Iran Attacks US-Flagged Tanker | Vantage with Palki Sharma",
+            "videoId": "qgFH0U5u83E",
+            "name": "LIVE: The War Defined in 7 Videos on Day 7 | US Iran War | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "a8nmUtn7NTA",
-            "name": "LIVE: Trump Wants to Pick Iran’s Next Leader | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZfePj4M37zw",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oInXsQMrs0g",
-            "name": "Iran Israel US war Updates LIVE: युद्ध के मैदान से ताजा हालात! लाइव | Trump Vs Khamenei | 07 March",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "78bhD-iAwqI",
-            "name": "Pres. Trump demands Iran's 'unconditional surrender' as U.S., Israel escalate attacks",
+            "videoId": "yqqbIrimlGM",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 6, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "-xvyO0luPO8",
-            "name": "Sandeep Chaudhary LIVE: ट्रंप की 'अंधभक्ति',ये कैसी देशभक्ति? | World War| India | LPG | Fuel Price",
-            "artist": "ABP NEWS"
+            "videoId": "Za1GhMCbfSM",
+            "name": "Iran Israel War Live Updates: शुरू हो गया तीसरा विश्व युद्ध? सैकड़ों मिसाइल हमलों से मची तबाही!",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "_QLjG_y_cos",
-            "name": "Iran Israel War LIVE: ईरान ने इजरायल के तेल अवीव पर किया बड़ा हमला | Trump | Netanyahu | World News",
-            "artist": "ABP NEWS"
+            "videoId": "Tb1qqOKutYo",
+            "name": "🔴LIVE: World War III? | Russia Moves to Support Iran | Putin’s Emergency Call | Ceasefire | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "4D7NZwIMRhc",
-            "name": "Today's Headlines | 07 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "_nITdJojRho",
+            "name": "Shetkari Karj Mafi Latest News Live | Devendra Fadnavis यांची शेतकऱ्यांसाठी मोठी घोषणा | N18L",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JrRMI_i1KNY",
+            "name": "LIVE 🔴Iran US Israel WAR Latest Updates  | After Iran… Whose Turn Is Next? | Dunya News",
+            "artist": "Dunya News"
         }
     ],
     "sourceFilters": {
