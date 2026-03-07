@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T11:13:51.123Z",
+    "generatedAt": "2026-03-07T12:30:22.714Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3lMbDrGrMHc",
-            "name": "🔴LIVE: T20 World Cup |  உலகக் கோப்பை வெல்லப்போவது யார்..? - நொடிக்கு நொடி அப்டேட்",
-            "artist": "Sathiyam News"
+            "videoId": "iXGo0qrcFlU",
+            "name": "Mahadangal LIVE: ईरान नहीं झुकेगा, अमेरिका नहीं रुकेगा! | World War | Trump Action | IranI-srael War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LL7QL2MkzYo",
-            "name": "LIVE | Israel Launches New Airstrikes on Tehran as Mehrabad Airport Catches Fire | IRAN WAR NEWS",
+            "videoId": "bzYJll9K-A4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "L9Eog3dmhfQ",
+            "name": "Iran-US War Live: Trump Demands Iran’s Unconditional Surrender | UN Issues Fresh Warning | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "2zS7a2owSc0",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 07.03.2026 | Today News | Iran War | US Attack | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "FGgl_faGVQg",
+            "name": "World News | ख़बरें विदेश की | 07 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
         },
         {
             "mood": "storm",
-            "videoId": "I7F7K5uJ5Q4",
-            "name": "US Iran War LIVE | Trump Demands Unconditional Surrender From Iran | Israel Iran War LIVE | N18G",
-            "artist": "CNN-News18"
+            "videoId": "VPlHnlfJom4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "h9OQS6knz10",
-            "name": "Iran-US-Israel War Live: Iran Launches Drone And Missile Strikes On Kurdish Armed Groups | N18G",
-            "artist": "CNN-News18"
+            "videoId": "e9yFRcLQMv8",
+            "name": "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "qnOK0APz1XU",
-            "name": "🔴LIVE: Iran Israel war | Trump | நேட்டோ நாடுகளால் திடீர் பதற்றம்.. உலகப்போராக மாறுகிறதா?",
-            "artist": "Thanthi TV"
+            "videoId": "asomqmnhk-Y",
+            "name": "World News Live : ईरान ने अमेरिका पर क्लस्टर बम मिसाइल दागा | Iran | War News | Israel | USA |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "y65X0NH7m28",
-            "name": "Israel Iran War LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
-            "artist": "NDTV India"
+            "videoId": "UTOxxUrlXDs",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
