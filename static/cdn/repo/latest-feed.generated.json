@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T19:16:20.675Z",
+    "generatedAt": "2026-03-07T20:16:54.436Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Y-1qbXlNeuw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "f2iv0lQvlqg",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "MTVdKGv8LBU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "rNQ4pUEAVhc",
+            "name": "Today Headlines - 07 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VlZQB5smrv4",
+            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c53uPlagEZg",
+            "name": "🔴 LIVE: ইরানের হা'মলায় দিশেহারা ই'সরা'য়েল | International | Middle East War |Jugantor",
+            "artist": "Daily Jugantor"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2f-_wLieQWc",
+            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9tdBd_8jwQU",
+            "name": "Middle East War LIVE: Iran Delivers 'Painful Blows' to US Forces | Tel Aviv & Gulf Under Fire | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_KRUBWpfHJk",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         }
     ],
     "sourceFilters": {
