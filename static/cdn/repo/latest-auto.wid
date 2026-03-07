@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260307T211422.582Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260307T221532.188Z-l4t35t"
   type: "state"
-  created: "2026-03-07T21:14:22.582Z"
+  created: "2026-03-07T22:15:32.188Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T211422.582Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T221532.188Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "sqvZmnl-rPA"
-        name: "🔴LIVE : TVK Vijay Full Speech |  \"மகளிருக்கு மாதம் ரூ.2500..\" அறிவித்த விஜய் | Thanthi TV Live"
+        videoId: "e9yFRcLQMv8"
+        name: "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f2iv0lQvlqg"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T03BfykDTEg"
-        name: "Israel Iran War LIVE: Barrage of Iranian Missiles Seen Flying Over Israel and West Bank | Firstpost"
-        artist: "Firstpost"
+        videoId: "rNQ4pUEAVhc"
+        name: "Today Headlines - 07 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LgdLc22K0tE"
-        name: "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |"
-        artist: "Times Now Navbharat"
+        videoId: "VlZQB5smrv4"
+        name: "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sjJkET6tQWQ"
-        name: "🔴LIVE | Iran Launches Missiles | Russia Action | US & Israeli Bases Destroyed | Dunya News"
-        artist: "Dunya News"
+        videoId: "c53uPlagEZg"
+        name: "🔴 LIVE: ইরানের হা'মলায় দিশেহারা ই'সরা'য়েল | International | Middle East War |Jugantor"
+        artist: "Daily Jugantor"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2f-_wLieQWc"
+        name: "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_KRUBWpfHJk"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3oB5EOGIPF0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "AR Media 24"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-07T21:14:22.582Z"
+  exported_at: "2026-03-07T22:15:32.188Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-07T21:14:22.544Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-07T22:15:32.149Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
