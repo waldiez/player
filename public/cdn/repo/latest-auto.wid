@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260307T161852.050Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260307T171519.608Z-l4t35t"
   type: "state"
-  created: "2026-03-07T16:18:52.050Z"
+  created: "2026-03-07T17:15:19.608Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T161852.050Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260307T171519.608Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "c9IcVYabAxA"
-        name: "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |"
-        artist: "Times Now Navbharat"
+        videoId: "3YjxzecU9Kw"
+        name: "Ayatollah Ali Khamenei's last speech: What message did he give to world? | Geo Digital"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UTOxxUrlXDs"
-        name: "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |"
-        artist: "Times Now Navbharat"
+        videoId: "Y-1qbXlNeuw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ayNA7s4qAzI"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 07 March 2026"
-        artist: "CK Time TV North America"
+        videoId: "-ZTuVL8Fy-0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-sj_qR3kc6c"
-        name: "Iran America War LIVE News: ट्रंप की धमकी के बाद Iran ने भी बदले अपने तेवर | Khamenei | Aaj Tak"
-        artist: "Aaj Tak"
+        videoId: "ewurZ86r_Zk"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 07.03.2026 | Today News | Iran War | US Attack | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hp-iQNw7E8c"
-        name: "🔴Iran Israel US War News LIVE | Iran Under Attack News | Israel, US Strike Iran | Mid-East War LIVE"
-        artist: "moneycontrol"
+        videoId: "FM0sIsdFU2w"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে | 6 March 2026"
+        artist: "BDE WORLD NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KOn3jAuSHxg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "6eLBUMXRrjg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Scale Tune"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-07T16:18:52.050Z"
+  exported_at: "2026-03-07T17:15:19.608Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-07T16:18:52.011Z"
+  source_generated_at: "2026-03-07T17:15:19.570Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
