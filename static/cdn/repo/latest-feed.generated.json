@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T12:30:22.714Z",
+    "generatedAt": "2026-03-07T13:33:44.878Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iXGo0qrcFlU",
-            "name": "Mahadangal LIVE: ईरान नहीं झुकेगा, अमेरिका नहीं रुकेगा! | World War | Trump Action | IranI-srael War",
-            "artist": "ABP NEWS"
+            "videoId": "VI_B0cp7BvI",
+            "name": "🔴LIVE : Vijay | Sangeetha |  மறுக்கும் விஜய் - சங்கீதா கண்ணீர்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "bzYJll9K-A4",
+            "videoId": "-ZTuVL8Fy-0",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "L9Eog3dmhfQ",
-            "name": "Iran-US War Live: Trump Demands Iran’s Unconditional Surrender | UN Issues Fresh Warning | N18G",
+            "videoId": "xDQN-aVUWeo",
+            "name": "🔴 LIVE: Iran Launches Missile Attacks on Israel – Devastating Scenes Reported | Geo War Room",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "awA4cInzpx8",
+            "name": "US Iran War LIVE | Iran Targets UAE With 15 Ballistic Missiles And 119 Drones | Trump | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "FGgl_faGVQg",
-            "name": "World News | ख़बरें विदेश की | 07 march 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
+            "videoId": "Wpgd93FQCRQ",
+            "name": "Breaking News LIVE: Sergey Lavrov's Final Warning To President Trump | US-Iran War | World News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "VPlHnlfJom4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e9yFRcLQMv8",
-            "name": "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "asomqmnhk-Y",
-            "name": "World News Live : ईरान ने अमेरिका पर क्लस्टर बम मिसाइल दागा | Iran | War News | Israel | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UTOxxUrlXDs",
-            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
-            "artist": "Times Now Navbharat"
+            "videoId": "2f-_wLieQWc",
+            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
