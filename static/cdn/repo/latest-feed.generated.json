@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T13:33:44.878Z",
+    "generatedAt": "2026-03-07T14:17:39.203Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VI_B0cp7BvI",
-            "name": "🔴LIVE : Vijay | Sangeetha |  மறுக்கும் விஜய் - சங்கீதா கண்ணீர்",
-            "artist": "Sathiyam News"
+            "videoId": "f-4B00Dconw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BBC NEWS LIVE"
         },
         {
             "mood": "storm",
-            "videoId": "-ZTuVL8Fy-0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "iXGo0qrcFlU",
+            "name": "Mahadangal LIVE: ईरान नहीं झुकेगा, अमेरिका नहीं रुकेगा! | World War | Trump Action | IranI-srael War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xDQN-aVUWeo",
-            "name": "🔴 LIVE: Iran Launches Missile Attacks on Israel – Devastating Scenes Reported | Geo War Room",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "awA4cInzpx8",
-            "name": "US Iran War LIVE | Iran Targets UAE With 15 Ballistic Missiles And 119 Drones | Trump | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wpgd93FQCRQ",
-            "name": "Breaking News LIVE: Sergey Lavrov's Final Warning To President Trump | US-Iran War | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2f-_wLieQWc",
-            "name": "🔴LIVE: Iran Attack Dubai | துபாயை குறிவைத்து அடுத்த கட்ட போரைத் தொடங்கிய ஈரான்",
-            "artist": "Sathiyam News"
+            "videoId": "qg_HC5U2xGs",
+            "name": "IRAN VS U.S-ISRAEL WAR  LIVE: Iran Targets Israeli Nuclear Site | Missile Storm Hits Arab Cities",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
