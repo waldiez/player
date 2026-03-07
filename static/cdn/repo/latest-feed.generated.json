@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T14:17:39.203Z",
+    "generatedAt": "2026-03-07T16:18:52.011Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "f-4B00Dconw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BBC NEWS LIVE"
+            "videoId": "c9IcVYabAxA",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "iXGo0qrcFlU",
-            "name": "Mahadangal LIVE: ईरान नहीं झुकेगा, अमेरिका नहीं रुकेगा! | World War | Trump Action | IranI-srael War",
-            "artist": "ABP NEWS"
+            "videoId": "UTOxxUrlXDs",
+            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, बढ़ने लगे गैस और तेल के दाम ! India | US | Oil Prices |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "qg_HC5U2xGs",
-            "name": "IRAN VS U.S-ISRAEL WAR  LIVE: Iran Targets Israeli Nuclear Site | Missile Storm Hits Arab Cities",
-            "artist": "News18 Urdu"
+            "videoId": "ayNA7s4qAzI",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 07 March 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-sj_qR3kc6c",
+            "name": "Iran America War LIVE News: ट्रंप की धमकी के बाद Iran ने भी बदले अपने तेवर | Khamenei | Aaj Tak",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Hp-iQNw7E8c",
+            "name": "🔴Iran Israel US War News LIVE | Iran Under Attack News | Israel, US Strike Iran | Mid-East War LIVE",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KOn3jAuSHxg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         }
     ],
     "sourceFilters": {
