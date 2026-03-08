@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T09:21:59.108Z",
+    "generatedAt": "2026-03-08T10:17:58.551Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mjfYqwuO8nc",
-            "name": "World News Live: कुवैत हुआ धुँआ धुआँ | USA | Iran | Atom Bomb | Israel | Kuwait | Supreme Leader |",
+            "videoId": "zc2QgtNIu_g",
+            "name": "Bihar Latest News Live : नीतीश कुमार के बेटे निशांत JDU में शामिल हुए | Bihar Politics",
+            "artist": "IndiaTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6bZmRMadBRs",
+            "name": "World News Live: नहीं माना ईरान तो हो सकता है, एटम बम वाला घमासान? USA | Iran | Atom Bomb | Israel |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "wo5VR7tnN3k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "EYeoU7H7GqI",
+            "name": "US Iran LIVE Updates: Heavy Strikes and Explosion Across Israel Iran | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "hWjCCqzA_UI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "u4-oEKl_iu8",
+            "name": "🔴 LIVE Global Map Updates | Iran & World News Live | 24/7 Monitoring",
+            "artist": "𝖹𝖺𝗂𝗇𝖷90"
         },
         {
             "mood": "storm",
-            "videoId": "ipvtmx0HPdc",
-            "name": "LIVE: Explosion Rocks Dubai Marina Tower | Exclusive Footage | Dubai | US-Iran War LIVE | World News",
-            "artist": "Times Now"
+            "videoId": "1cTqYUpA4G4",
+            "name": "World News Live : ईरान अमेरिका युद्ध में, एटम बम तक पहुंची बात! | USA | Iran | Atom Bomb | Israel |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
