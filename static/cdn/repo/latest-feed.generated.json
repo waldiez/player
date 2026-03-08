@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T17:17:02.704Z",
+    "generatedAt": "2026-03-08T19:18:14.346Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jNuAJHfz_u4",
-            "name": "🔴LIVE | India vs New Zealand | FINAL | ICC T20 World Cup 2026 | India vs New Zealand Live Match",
+            "videoId": "rKIUbMEpDG0",
+            "name": "🔴LIVE: Today Headlines - 08 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mLP2pu_6g8g",
+            "name": "🔴LIVE: India vs New Zealand T20 World Cup Final | IND vs NZ Live Score Updates | IND vs NZ LIVE",
             "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "Wc5nub7N1NE",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप ने जला डाला ईरान! | Iran America War",
-            "artist": "NDTV India"
+            "videoId": "L4CW69LSFyo",
+            "name": "🔴Live: India vs New Zealand T20 World Cup Final Live | India vs New Zealand Live | IND vs NZ LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "U_LP3-nXteQ",
-            "name": "T20 World Cup: India vs New Zealand Final match, Live match score  | IND VS NZ Live match today",
-            "artist": "KM PUNK"
+            "videoId": "orYHt4wtgDU",
+            "name": "🔴IND vs NZ, T20 World Cup 2026 LIVE: India vs New Zealand T20 World Cup Final Live | IND vs NZ LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "Mk3xlgEi4fM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "pB2lPIGMx2E",
+            "name": "🔴 LIVE | ଭାରତ ବିଶ୍ବ ଚାମ୍ପିୟନ | IND vs NZ T20 World Cup | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "kWruWntpMCc",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "jgB0JjQWjF0",
+            "name": "Cricbuzz Live Hindi: INDIA CREATE HISTORY, beat New Zealand to win their 3rd T20 World Cup title",
+            "artist": "Cricbuzz"
+        },
+        {
+            "mood": "storm",
+            "videoId": "59TasFK-lw8",
+            "name": "India Vs New Zealand T20 World Cup Final Live | ಕನ್ನಡ ವಿಶ್ಲೇಷಣೆ ನೇರಪ್ರಸಾರ | Sanju Samson |Surya|N18G",
+            "artist": "News18 Kannada"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ME8lTG16FJM",
+            "name": "🔴 India vs New Zealand Final Live Match Today T20 World Cup 2026 Score Commentary, IND v NZ",
+            "artist": "CricTalks"
         }
     ],
     "sourceFilters": {
