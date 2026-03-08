@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T05:38:11.487Z",
+    "generatedAt": "2026-03-08T06:33:31.012Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ipvtmx0HPdc",
-            "name": "LIVE: Explosion Rocks Dubai Marina Tower | Exclusive Footage | Dubai | US-Iran War LIVE | World News",
-            "artist": "Times Now"
+            "videoId": "6bZmRMadBRs",
+            "name": "World News Live: नहीं माना ईरान तो हो सकता है, एटम बम वाला घमासान? USA | Iran | Atom Bomb | Israel |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "CnjYhUn2Fq4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Scale Tune"
+            "videoId": "u4-oEKl_iu8",
+            "name": "🔴 LIVE Global Map Updates | Iran & World News Live | 24/7 Monitoring",
+            "artist": "𝖹𝖺𝗂𝗇𝖷90"
         },
         {
             "mood": "storm",
-            "videoId": "SZ56BKl7URM",
-            "name": "Dubai Attacked LIVE | Iran Attacks Dubai LIVE | Dubai Marina Tower Hit LIVE | Israel Iran War LIVE",
-            "artist": "NDTV"
+            "videoId": "1cTqYUpA4G4",
+            "name": "World News Live : ईरान अमेरिका युद्ध में, एटम बम तक पहुंची बात! | USA | Iran | Atom Bomb | Israel |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "86zRC21w7l8",
-            "name": "🔴Live | ସୁଭଦ୍ରା ଟଙ୍କା କେତେବେଳେ ଆସିବ? | Subhadra Yojana | World Women’s Day | Odisha | OTV",
-            "artist": "OTV"
+            "videoId": "tkjc3W43Ipk",
+            "name": "Iran Israel War News LIVE: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका- इजरायल, चौंकी दुनिया! | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0j4dICbCqQo",
-            "name": "US Iran War LIVE: Tehran Oil Depot Explodes In Massive Airstrikes in Iran After Trump's Warning",
-            "artist": "Firstpost"
+            "videoId": "D23LFE_sHcE",
+            "name": "World News Live: अमेरिका की दादागिरी को, ईरान का मुंहतोड़ जबाब! Iran | USA | Drone Attack | Israel |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "QQY-bGcirRY",
-            "name": "Iran War Latest Update LIVE | Dubai Emirates Flights Suspended LIVE Updates | Dubai Airport News",
-            "artist": "NDTV"
+            "videoId": "LL7QL2MkzYo",
+            "name": "LIVE | Israel Launches New Airstrikes on Tehran as Mehrabad Airport Catches Fire | IRAN WAR NEWS",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H8OqD8ybdt4",
+            "name": "LIVE: Iran Burns Israel With Its Most Dangerous Missile | Iran-Israel War LIVE | US-Iran War LIVE",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gtW31_3toVU",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 7, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
