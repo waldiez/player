@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T12:31:24.788Z",
+    "generatedAt": "2026-03-08T13:35:00.043Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AsxVJOVGKLk",
-            "name": "India Vs New Zealand T20 World Cup Final LIVE News: फाइनल मैच से पहले सूर्य कुमार यादव का बड़ा बयान",
-            "artist": "NDTV India"
+            "videoId": "-4xDAee_zSM",
+            "name": "Reporter Live: T20 World Cup Final: India vs New Zealand Clash in Ahmedabad",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "kXtfvD0d0t4",
-            "name": "Iran Vs US Israel War LIVE: 7000 बम, 1200 मिसाइलें, रात 12 बजे मचेगी तबाही!, श्मशान में बदेलगा ईरान?",
+            "videoId": "PT36CizC7Kc",
+            "name": "🔴India Vs New Zealand T20 World Cup Final Match LIVE | ଏମିତି ଜିତିବେ ମ୍ୟାଚ୍ Ind Vs NZ Predictions",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CnjYhUn2Fq4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Scale Tune"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9JO7_5Q8Gkw",
+            "name": "Bihar New CM Update News LIVE: बदल गया बिहार का सीएम?, चौंके सभी! | Nishant Kumar | Nitish Kumar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0j4dICbCqQo",
-            "name": "US Iran War LIVE: Tehran Oil Depot Explodes In Massive Airstrikes in Iran After Trump's Warning",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FwztHyX1Qsk",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0FOJZIk-mTM",
-            "name": "Afternoon News LIVE | India Vs New Zealand T20 World Cup 2026 Final Match | CM Devendra Fadnavis",
-            "artist": "NDTV Marathi"
+            "videoId": "KUfziA7Gu4k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         }
     ],
     "sourceFilters": {
