@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T14:18:25.208Z",
+    "generatedAt": "2026-03-08T15:16:43.675Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iByMQZ28W-o",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "-O0CeXf_MdE",
+            "name": "🔴 World Cup Final: India vs New Zealand Final Live match score & Commentary | IND VS NZ Live match",
+            "artist": "KM PUNK"
         },
         {
             "mood": "storm",
-            "videoId": "OkeRqGqMLiE",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ta--xJOAnKY",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tKTQ5Cjv9zA",
-            "name": "Breaking News LIVE: Sergey Lavrov's Final Warning To President Trump | US-Iran War | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fNBZ3KSIkmo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BBC NEWS LIVE"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u0fNp4ND9JE",
-            "name": "US-Israel War With Iran LIVE: Iran Raises Flag Of Revenge Over Jamkaran Mosque, Begins New Strike",
-            "artist": "WION"
+            "videoId": "86zRC21w7l8",
+            "name": "🔴Live | ସୁଭଦ୍ରା ଟଙ୍କା କେତେବେଳେ ଆସିବ? | Subhadra Yojana | World Women’s Day | Odisha | OTV",
+            "artist": "OTV"
         }
     ],
     "sourceFilters": {
