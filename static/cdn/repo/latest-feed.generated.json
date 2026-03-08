@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T06:33:31.012Z",
+    "generatedAt": "2026-03-08T07:26:05.401Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6bZmRMadBRs",
-            "name": "World News Live: नहीं माना ईरान तो हो सकता है, एटम बम वाला घमासान? USA | Iran | Atom Bomb | Israel |",
-            "artist": "Times Now Navbharat"
+            "videoId": "hWjCCqzA_UI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "u4-oEKl_iu8",
-            "name": "🔴 LIVE Global Map Updates | Iran & World News Live | 24/7 Monitoring",
-            "artist": "𝖹𝖺𝗂𝗇𝖷90"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1cTqYUpA4G4",
-            "name": "World News Live : ईरान अमेरिका युद्ध में, एटम बम तक पहुंची बात! | USA | Iran | Atom Bomb | Israel |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tkjc3W43Ipk",
-            "name": "Iran Israel War News LIVE: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका- इजरायल, चौंकी दुनिया! | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D23LFE_sHcE",
-            "name": "World News Live: अमेरिका की दादागिरी को, ईरान का मुंहतोड़ जबाब! Iran | USA | Drone Attack | Israel |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LL7QL2MkzYo",
-            "name": "LIVE | Israel Launches New Airstrikes on Tehran as Mehrabad Airport Catches Fire | IRAN WAR NEWS",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H8OqD8ybdt4",
-            "name": "LIVE: Iran Burns Israel With Its Most Dangerous Missile | Iran-Israel War LIVE | US-Iran War LIVE",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gtW31_3toVU",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 7, 2026",
-            "artist": "ABC News"
+            "videoId": "ipvtmx0HPdc",
+            "name": "LIVE: Explosion Rocks Dubai Marina Tower | Exclusive Footage | Dubai | US-Iran War LIVE | World News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
