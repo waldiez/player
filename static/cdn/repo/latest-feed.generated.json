@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T20:17:28.604Z",
+    "generatedAt": "2026-03-08T21:16:01.710Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_yYrPvvT9hM",
-            "name": "India VS New Zealand World Cup T20 2026 Final Match Scoreboard LIVE |  Narendra Modi Stadium Live",
+            "videoId": "7Q08iCSLuM0",
+            "name": "US Iran War LIVE: Israel’s Defence Systems Intercept Iranian Missiles over Tel Aviv and West Bank",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jFeqtUkhviY",
+            "name": "Iran-Israel Live News: Israel Launches New Wave Of Strikes On Tehran, Attacks Iran’s Oil Facilities",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "rO_fCmixofI",
-            "name": "India vs New Zealand T20 World Cup 2026 Final LIVE | Can NZ Chase 256 Runs At Narendra Modi Stadium?",
-            "artist": "CNN-News18"
+            "videoId": "4DyJpu87F60",
+            "name": "India Vs New Zealand T20 World Cup Final Match LIVE | India Wins The T20 World Cup | Sanju | N18G",
+            "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "IVML95Awa2E",
-            "name": "🔴Live: ଜିତିଲା ଭାରତ India Vs New Zealand T20 World Cup Final Match LIVE | India Win Worldcup Final",
-            "artist": "Kanak News"
+            "videoId": "NARceoHpnrc",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "eOZkZvSNTVo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "rKIUbMEpDG0",
+            "name": "🔴LIVE: Today Headlines - 08 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mLP2pu_6g8g",
+            "name": "🔴LIVE: India vs New Zealand T20 World Cup Final | IND vs NZ Live Score Updates | IND vs NZ LIVE",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "L4CW69LSFyo",
+            "name": "🔴Live: India vs New Zealand T20 World Cup Final Live | India vs New Zealand Live | IND vs NZ LIVE",
+            "artist": "moneycontrol"
+        },
+        {
+            "mood": "storm",
+            "videoId": "orYHt4wtgDU",
+            "name": "🔴IND vs NZ, T20 World Cup 2026 LIVE: India vs New Zealand T20 World Cup Final Live | IND vs NZ LIVE",
+            "artist": "moneycontrol"
         }
     ],
     "sourceFilters": {
