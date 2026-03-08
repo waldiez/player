@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T16:19:01.016Z",
+    "generatedAt": "2026-03-08T17:17:02.704Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aVcb3_CZNV4",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "orYHt4wtgDU",
-            "name": "🔴IND vs NZ, T20 World Cup 2026 LIVE: India vs New Zealand T20 World Cup Final Live | IND vs NZ LIVE",
+            "videoId": "jNuAJHfz_u4",
+            "name": "🔴LIVE | India vs New Zealand | FINAL | ICC T20 World Cup 2026 | India vs New Zealand Live Match",
             "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "OkeRqGqMLiE",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "Wc5nub7N1NE",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप ने जला डाला ईरान! | Iran America War",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U_LP3-nXteQ",
+            "name": "T20 World Cup: India vs New Zealand Final match, Live match score  | IND VS NZ Live match today",
+            "artist": "KM PUNK"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mk3xlgEi4fM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kWruWntpMCc",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
