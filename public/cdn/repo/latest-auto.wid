@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260308T151643.714Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260308T161901.056Z-l4t35t"
   type: "state"
-  created: "2026-03-08T15:16:43.714Z"
+  created: "2026-03-08T16:19:01.056Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T151643.714Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T161901.056Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-O0CeXf_MdE"
-        name: "🔴 World Cup Final: India vs New Zealand Final Live match score & Commentary | IND VS NZ Live match"
-        artist: "KM PUNK"
+        videoId: "aVcb3_CZNV4"
+        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "86zRC21w7l8"
-        name: "🔴Live | ସୁଭଦ୍ରା ଟଙ୍କା କେତେବେଳେ ଆସିବ? | Subhadra Yojana | World Women’s Day | Odisha | OTV"
-        artist: "OTV"
+        videoId: "orYHt4wtgDU"
+        name: "🔴IND vs NZ, T20 World Cup 2026 LIVE: India vs New Zealand T20 World Cup Final Live | IND vs NZ LIVE"
+        artist: "moneycontrol"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OkeRqGqMLiE"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-08T15:16:43.714Z"
+  exported_at: "2026-03-08T16:19:01.056Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-08T15:16:43.675Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-08T16:19:01.016Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
