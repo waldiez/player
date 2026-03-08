@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-07T23:15:24.752Z",
+    "generatedAt": "2026-03-08T01:22:16.450Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LgdLc22K0tE",
-            "name": "World News Live : ईरान अमेरिका युद्ध के बीच, PM मोदी की बढ़ी मुश्किलें, विपक्ष हमलावर ! India | US |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sjJkET6tQWQ",
-            "name": "🔴LIVE | Iran Launches Missiles | Russia Action | US & Israeli Bases Destroyed | Dunya News",
+            "videoId": "-UUB62Noafw",
+            "name": "LIVE🔴Iran Launches Missile at Tel Aviv and Haifa | Middle East War Escalates | Dunya News",
             "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "bG7sCFtzDlE",
-            "name": "​🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Farjanvai2.0"
+            "videoId": "lpJjfJNC7lM",
+            "name": "🔴LIVE: Breaking News | World News Live | Latest International News | NexBarta Live",
+            "artist": "NexBarta"
         },
         {
             "mood": "storm",
-            "videoId": "SF0N66X6o4g",
-            "name": "Good Morning America Full Broadcast - Saturday, March 7, 2026",
-            "artist": "ABC News"
+            "videoId": "arCtPCGEO_A",
+            "name": "Latest news on the war against Iran | Face The Nation",
+            "artist": "Face the Nation"
+        },
+        {
+            "mood": "storm",
+            "videoId": "e9yFRcLQMv8",
+            "name": "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sqvZmnl-rPA",
+            "name": "🔴LIVE : TVK Vijay Full Speech |  \"மகளிருக்கு மாதம் ரூ.2500..\" அறிவித்த விஜய் | Thanthi TV Live",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "T03BfykDTEg",
+            "name": "Israel Iran War LIVE: Barrage of Iranian Missiles Seen Flying Over Israel and West Bank | Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0AZkWc0xNto",
+            "name": "Sirens Across Israel After Iran Attack | Tensions Escalate | Headlines Geo News 12 AM (8 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "f2iv0lQvlqg",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
