@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T01:22:16.450Z",
+    "generatedAt": "2026-03-08T04:04:20.916Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-UUB62Noafw",
-            "name": "LIVE🔴Iran Launches Missile at Tel Aviv and Haifa | Middle East War Escalates | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "LL7QL2MkzYo",
+            "name": "LIVE | Israel Launches New Airstrikes on Tehran as Mehrabad Airport Catches Fire | IRAN WAR NEWS",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "lpJjfJNC7lM",
-            "name": "🔴LIVE: Breaking News | World News Live | Latest International News | NexBarta Live",
-            "artist": "NexBarta"
+            "videoId": "H8OqD8ybdt4",
+            "name": "LIVE: Iran Burns Israel With Its Most Dangerous Missile | Iran-Israel War LIVE | US-Iran War LIVE",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "arCtPCGEO_A",
-            "name": "Latest news on the war against Iran | Face The Nation",
-            "artist": "Face the Nation"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e9yFRcLQMv8",
-            "name": "🔴LIVE: Iran US War Update | Iran Launches Missile Attacks on Israel | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sqvZmnl-rPA",
-            "name": "🔴LIVE : TVK Vijay Full Speech |  \"மகளிருக்கு மாதம் ரூ.2500..\" அறிவித்த விஜய் | Thanthi TV Live",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T03BfykDTEg",
-            "name": "Israel Iran War LIVE: Barrage of Iranian Missiles Seen Flying Over Israel and West Bank | Firstpost",
+            "videoId": "q0V2FAZ8I5k",
+            "name": "US-Iran War LIVE: Explosions shakes Iran as US-Israel Attacks Intensifies on Day 8 of War | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "0AZkWc0xNto",
-            "name": "Sirens Across Israel After Iran Attack | Tensions Escalate | Headlines Geo News 12 AM (8 March 2026)",
-            "artist": "Geo News"
+            "videoId": "eJaqdekMwvA",
+            "name": "Iran Israel War News LIVE: अमेरिका ने उतार दिया जॉर्ज बुश विमान!, कांपाईरान!, अब होगी तबाही!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "f2iv0lQvlqg",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.03.2026)| 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "AWzsCaVelUo",
+            "name": "US Iran War LIVE | Iran's Retaliation Attack Destroys Saudi, Doha And Dubai | Iran Israel War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w1immq2rYeI",
+            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PIoMr-k_LDA",
+            "name": "Iran Israel War LIVE: युद्ध का 9वां दिन घुटनों पर ट्रंप? | Trump | Breaking | 9th Day War Update",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XwwdMGRRl2I",
+            "name": "Iran Israel War LIVE: सुबह-सुबह ईरान ने इजरायल को दहलाया! | Netanyahu | Trump | 9th Day War Update",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
