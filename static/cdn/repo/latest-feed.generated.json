@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T11:14:41.226Z",
+    "generatedAt": "2026-03-08T12:31:24.788Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qOLq3ERn8WI",
-            "name": "Bihar New CM Update LIVE: बदल गया बिहार का सीएम? | Chirag Paswan | Nishant Kumar | Nitish Kumar",
+            "videoId": "AsxVJOVGKLk",
+            "name": "India Vs New Zealand T20 World Cup Final LIVE News: फाइनल मैच से पहले सूर्य कुमार यादव का बड़ा बयान",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kXtfvD0d0t4",
+            "name": "Iran Vs US Israel War LIVE: 7000 बम, 1200 मिसाइलें, रात 12 बजे मचेगी तबाही!, श्मशान में बदेलगा ईरान?",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XwwdMGRRl2I",
-            "name": "Iran Israel War LIVE: सुबह-सुबह ईरान ने इजरायल को दहलाया! | Netanyahu | Trump | 9th Day War Update",
-            "artist": "ABP NEWS"
+            "videoId": "0j4dICbCqQo",
+            "name": "US Iran War LIVE: Tehran Oil Depot Explodes In Massive Airstrikes in Iran After Trump's Warning",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "mjfYqwuO8nc",
-            "name": "World News Live: कुवैत हुआ धुँआ धुआँ | USA | Iran | Atom Bomb | Israel | Kuwait | Supreme Leader |",
-            "artist": "Times Now Navbharat"
+            "videoId": "FwztHyX1Qsk",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "wo5VR7tnN3k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "0FOJZIk-mTM",
+            "name": "Afternoon News LIVE | India Vs New Zealand T20 World Cup 2026 Final Match | CM Devendra Fadnavis",
+            "artist": "NDTV Marathi"
         }
     ],
     "sourceFilters": {
