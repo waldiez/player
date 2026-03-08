@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260308T040420.958Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260308T053811.526Z-l4t35t"
   type: "state"
-  created: "2026-03-08T04:04:20.958Z"
+  created: "2026-03-08T05:38:11.526Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T040420.958Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T053811.526Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "LL7QL2MkzYo"
-        name: "LIVE | Israel Launches New Airstrikes on Tehran as Mehrabad Airport Catches Fire | IRAN WAR NEWS"
-        artist: "CNN-News18"
+        videoId: "ipvtmx0HPdc"
+        name: "LIVE: Explosion Rocks Dubai Marina Tower | Exclusive Footage | Dubai | US-Iran War LIVE | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H8OqD8ybdt4"
-        name: "LIVE: Iran Burns Israel With Its Most Dangerous Missile | Iran-Israel War LIVE | US-Iran War LIVE"
-        artist: "Hindustan Times"
+        videoId: "CnjYhUn2Fq4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Scale Tune"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q0V2FAZ8I5k"
-        name: "US-Iran War LIVE: Explosions shakes Iran as US-Israel Attacks Intensifies on Day 8 of War | N18G"
+        videoId: "SZ56BKl7URM"
+        name: "Dubai Attacked LIVE | Iran Attacks Dubai LIVE | Dubai Marina Tower Hit LIVE | Israel Iran War LIVE"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "86zRC21w7l8"
+        name: "🔴Live | ସୁଭଦ୍ରା ଟଙ୍କା କେତେବେଳେ ଆସିବ? | Subhadra Yojana | World Women’s Day | Odisha | OTV"
+        artist: "OTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0j4dICbCqQo"
+        name: "US Iran War LIVE: Tehran Oil Depot Explodes In Massive Airstrikes in Iran After Trump's Warning"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eJaqdekMwvA"
-        name: "Iran Israel War News LIVE: अमेरिका ने उतार दिया जॉर्ज बुश विमान!, कांपाईरान!, अब होगी तबाही!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AWzsCaVelUo"
-        name: "US Iran War LIVE | Iran's Retaliation Attack Destroys Saudi, Doha And Dubai | Iran Israel War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "w1immq2rYeI"
-        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PIoMr-k_LDA"
-        name: "Iran Israel War LIVE: युद्ध का 9वां दिन घुटनों पर ट्रंप? | Trump | Breaking | 9th Day War Update"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XwwdMGRRl2I"
-        name: "Iran Israel War LIVE: सुबह-सुबह ईरान ने इजरायल को दहलाया! | Netanyahu | Trump | 9th Day War Update"
-        artist: "ABP NEWS"
+        videoId: "QQY-bGcirRY"
+        name: "Iran War Latest Update LIVE | Dubai Emirates Flights Suspended LIVE Updates | Dubai Airport News"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-08T04:04:20.958Z"
+  exported_at: "2026-03-08T05:38:11.526Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-08T04:04:20.916Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-08T05:38:11.487Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
