@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260308T072605.442Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260308T082214.264Z-l4t35t"
   type: "state"
-  created: "2026-03-08T07:26:05.442Z"
+  created: "2026-03-08T08:22:14.264Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T072605.442Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T082214.264Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hWjCCqzA_UI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "6bZmRMadBRs"
+        name: "World News Live: नहीं माना ईरान तो हो सकता है, एटम बम वाला घमासान? USA | Iran | Atom Bomb | Israel |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ipvtmx0HPdc"
-        name: "LIVE: Explosion Rocks Dubai Marina Tower | Exclusive Footage | Dubai | US-Iran War LIVE | World News"
-        artist: "Times Now"
+        videoId: "x_-CZgLyPD4"
+        name: "Chirag Paswan News LIVE: हो गया खुलासा, अब चिराग ही होंगे बिहार के मुख्यमंत्री? | Bihar Election"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u4-oEKl_iu8"
+        name: "🔴 LIVE Global Map Updates | Iran & World News Live | 24/7 Monitoring"
+        artist: "𝖹𝖺𝗂𝗇𝖷90"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1cTqYUpA4G4"
+        name: "World News Live : ईरान अमेरिका युद्ध में, एटम बम तक पहुंची बात! | USA | Iran | Atom Bomb | Israel |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tkjc3W43Ipk"
+        name: "Iran Israel War News LIVE: ईरान के धरती फाड़ बम ने हिला दिया अमेरिका- इजरायल, चौंकी दुनिया! | Trump"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D23LFE_sHcE"
+        name: "World News Live: अमेरिका की दादागिरी को, ईरान का मुंहतोड़ जबाब! Iran | USA | Drone Attack | Israel |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-8DwzWunzIA"
+        name: "T20 World Cup Final LIVE Updates: India और New Zealand के बीच खिताबी जंग | Team India | Aaj Tak LIVE"
+        artist: "Aaj Tak"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-08T07:26:05.442Z"
+  exported_at: "2026-03-08T08:22:14.264Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-08T07:26:05.401Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-08T08:22:14.225Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
