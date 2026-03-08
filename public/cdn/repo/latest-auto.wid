@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260308T191814.385Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260308T201728.645Z-l4t35t"
   type: "state"
-  created: "2026-03-08T19:18:14.385Z"
+  created: "2026-03-08T20:17:28.645Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T191814.385Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T201728.645Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rKIUbMEpDG0"
-        name: "🔴LIVE: Today Headlines - 08 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "_yYrPvvT9hM"
+        name: "India VS New Zealand World Cup T20 2026 Final Match Scoreboard LIVE |  Narendra Modi Stadium Live"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mLP2pu_6g8g"
-        name: "🔴LIVE: India vs New Zealand T20 World Cup Final | IND vs NZ Live Score Updates | IND vs NZ LIVE"
-        artist: "moneycontrol"
+        videoId: "rO_fCmixofI"
+        name: "India vs New Zealand T20 World Cup 2026 Final LIVE | Can NZ Chase 256 Runs At Narendra Modi Stadium?"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L4CW69LSFyo"
-        name: "🔴Live: India vs New Zealand T20 World Cup Final Live | India vs New Zealand Live | IND vs NZ LIVE"
-        artist: "moneycontrol"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "orYHt4wtgDU"
-        name: "🔴IND vs NZ, T20 World Cup 2026 LIVE: India vs New Zealand T20 World Cup Final Live | IND vs NZ LIVE"
-        artist: "moneycontrol"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pB2lPIGMx2E"
-        name: "🔴 LIVE | ଭାରତ ବିଶ୍ବ ଚାମ୍ପିୟନ | IND vs NZ T20 World Cup | Kanak News"
+        videoId: "IVML95Awa2E"
+        name: "🔴Live: ଜିତିଲା ଭାରତ India Vs New Zealand T20 World Cup Final Match LIVE | India Win Worldcup Final"
         artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jgB0JjQWjF0"
-        name: "Cricbuzz Live Hindi: INDIA CREATE HISTORY, beat New Zealand to win their 3rd T20 World Cup title"
-        artist: "Cricbuzz"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "59TasFK-lw8"
-        name: "India Vs New Zealand T20 World Cup Final Live | ಕನ್ನಡ ವಿಶ್ಲೇಷಣೆ ನೇರಪ್ರಸಾರ | Sanju Samson |Surya|N18G"
-        artist: "News18 Kannada"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ME8lTG16FJM"
-        name: "🔴 India vs New Zealand Final Live Match Today T20 World Cup 2026 Score Commentary, IND v NZ"
-        artist: "CricTalks"
+        videoId: "eOZkZvSNTVo"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-08T19:18:14.385Z"
+  exported_at: "2026-03-08T20:17:28.645Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-08T19:18:14.346Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-08T20:17:28.604Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
