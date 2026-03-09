@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T222101.539Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T232032.399Z-l4t35t"
   type: "state"
-  created: "2026-03-09T22:21:01.539Z"
+  created: "2026-03-09T23:20:32.399Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T222101.539Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T232032.399Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fGh7LjWqibg"
-        name: "Trump LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "MIRROR NOW"
+        videoId: "Ei_nD2fWNV4"
+        name: "🔴LIVE : TVK Vijay | NDA-வில் இணைகிறாரா விஜய்? - எதிர்பாரா திருப்பம்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oc7-6fhaenk"
-        name: "World News Live: ईरान युद्ध में अमेरिका का खजाना खाली? चौंकाने वाला खर्च! USA | Iran | War Economy |"
+        videoId: "ANjBhcufyKA"
+        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (09.03.2026) | 11 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v_inEp20Wz0"
+        name: "World News Live: भारत का शेषनाग ड्रोन देख ईरान भी हैरान, शाहेद भी पड़ा फीका! Drone | India | Sahed |"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R4Hd_4DBYCA"
-        name: "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live"
-        artist: "Shomoy247"
+        videoId: "Ak_yiEiFCRY"
+        name: "Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UM9q3YUaGRA"
-        name: "🔴LIVE : Super Fast News | 09 MAR 2026 | இன்றைய முக்கிய செய்திகள் | Latest News | News Tamil 24x7"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8Cd-vmOOS9M"
-        name: "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma"
+        videoId: "LICdQyJC-yc"
+        name: "Iran Israel War LIVE: Iran Fires Missiles At Israel After Mojtaba Khamenei Named Supreme Leader"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Dl2wxFpsgwE"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "VEz-oaKJsGM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Advut Jaal"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T22:21:01.539Z"
+  exported_at: "2026-03-09T23:20:32.399Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T22:21:01.492Z"
+  source_generated_at: "2026-03-09T23:20:32.354Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
