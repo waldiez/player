@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T01:21:48.969Z",
+    "generatedAt": "2026-03-09T04:09:56.772Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cMgPFpXPCfY",
-            "name": "LIVE🔴Iran Launches Missile at Tel Aviv and Haifa | Middle East War Escalates | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "ZfxH7NKPuX8",
+            "name": "🔴Chanakyaa 24X7 News Live | NDA-TVK Alliance | Israel Iran War | Trump | Modi Stalin EPS | DMK ADMK",
+            "artist": "Chanakyaa"
         },
         {
             "mood": "storm",
-            "videoId": "7Q08iCSLuM0",
-            "name": "US Iran War LIVE: Israel’s Defence Systems Intercept Iranian Missiles over Tel Aviv and West Bank",
+            "videoId": "8DwZAgISNH0",
+            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "99sDa1Q49_E",
+            "name": "India Vs New Zealand Final LIVE Updates | T20 World Cup 2026 Final | India Need 2 Wickets To Win",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8Cd-vmOOS9M",
+            "name": "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "vVxAsukw3BE",
-            "name": "🛑 MISSILES LAUNCHED ❗ IRAN WAR LIVE NOW TODAY NEWS WORLD ON ALERT ❗🛑 1 MILLION VIEWS 😱",
-            "artist": "Arjun sunam"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NARceoHpnrc",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_yYrPvvT9hM",
-            "name": "India VS New Zealand World Cup T20 2026 Final Match Scoreboard LIVE |  Narendra Modi Stadium Live",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rO_fCmixofI",
-            "name": "India vs New Zealand T20 World Cup 2026 Final LIVE | Can NZ Chase 256 Runs At Narendra Modi Stadium?",
-            "artist": "CNN-News18"
+            "videoId": "LWJxq-HSWHo",
+            "name": "LIVE 🔴Iran’s New Supreme Leader Drops Bombshell | No More Negotiations, Only War! | Dunya News",
+            "artist": "Dunya News"
         }
     ],
     "sourceFilters": {
