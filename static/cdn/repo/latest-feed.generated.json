@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-08T23:16:35.540Z",
+    "generatedAt": "2026-03-09T01:21:48.969Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6T0PKWpmaXw",
-            "name": "Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "cMgPFpXPCfY",
+            "name": "LIVE🔴Iran Launches Missile at Tel Aviv and Haifa | Middle East War Escalates | Dunya News",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "jFeqtUkhviY",
-            "name": "Iran-Israel Live News: Israel Launches New Wave Of Strikes On Tehran, Attacks Iran’s Oil Facilities",
+            "videoId": "7Q08iCSLuM0",
+            "name": "US Iran War LIVE: Israel’s Defence Systems Intercept Iranian Missiles over Tel Aviv and West Bank",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vVxAsukw3BE",
+            "name": "🛑 MISSILES LAUNCHED ❗ IRAN WAR LIVE NOW TODAY NEWS WORLD ON ALERT ❗🛑 1 MILLION VIEWS 😱",
+            "artist": "Arjun sunam"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NARceoHpnrc",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_yYrPvvT9hM",
+            "name": "India VS New Zealand World Cup T20 2026 Final Match Scoreboard LIVE |  Narendra Modi Stadium Live",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "pSK0kepc1To",
-            "name": "🔴 LIVE: Mojtaba Khamenei Elected New Supreme Leader Of Iran | Exclusive Latest Update | GEO News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4DyJpu87F60",
-            "name": "India Vs New Zealand T20 World Cup Final Match LIVE | India Wins The T20 World Cup | Sanju | N18G",
-            "artist": "CNBC-TV18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XLXUx5L56T0",
-            "name": "🔴Live | India Win ICC T20 World Cup 2026 | Watch Celebrations After Men In Blue Defeat New Zealand",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "41oySQff6O4",
-            "name": "India Vs New Zealand Final LIVE Score | Sanju Samson Batting Today | Ishan Kishan | IND Vs NZ",
-            "artist": "News18 Kerala"
+            "videoId": "rO_fCmixofI",
+            "name": "India vs New Zealand T20 World Cup 2026 Final LIVE | Can NZ Chase 256 Runs At Narendra Modi Stadium?",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {

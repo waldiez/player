@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260308T231635.585Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T012149.010Z-l4t35t"
   type: "state"
-  created: "2026-03-08T23:16:35.585Z"
+  created: "2026-03-09T01:21:49.010Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260308T231635.585Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T012149.010Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6T0PKWpmaXw"
-        name: "Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G"
-        artist: "News18 Urdu"
+        videoId: "cMgPFpXPCfY"
+        name: "LIVE🔴Iran Launches Missile at Tel Aviv and Haifa | Middle East War Escalates | Dunya News"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jFeqtUkhviY"
-        name: "Iran-Israel Live News: Israel Launches New Wave Of Strikes On Tehran, Attacks Iran’s Oil Facilities"
+        videoId: "7Q08iCSLuM0"
+        name: "US Iran War LIVE: Israel’s Defence Systems Intercept Iranian Missiles over Tel Aviv and West Bank"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vVxAsukw3BE"
+        name: "🛑 MISSILES LAUNCHED ❗ IRAN WAR LIVE NOW TODAY NEWS WORLD ON ALERT ❗🛑 1 MILLION VIEWS 😱"
+        artist: "Arjun sunam"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NARceoHpnrc"
+        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_yYrPvvT9hM"
+        name: "India VS New Zealand World Cup T20 2026 Final Match Scoreboard LIVE |  Narendra Modi Stadium Live"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pSK0kepc1To"
-        name: "🔴 LIVE: Mojtaba Khamenei Elected New Supreme Leader Of Iran | Exclusive Latest Update | GEO News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4DyJpu87F60"
-        name: "India Vs New Zealand T20 World Cup Final Match LIVE | India Wins The T20 World Cup | Sanju | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XLXUx5L56T0"
-        name: "🔴Live | India Win ICC T20 World Cup 2026 | Watch Celebrations After Men In Blue Defeat New Zealand"
-        artist: "moneycontrol"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "41oySQff6O4"
-        name: "India Vs New Zealand Final LIVE Score | Sanju Samson Batting Today | Ishan Kishan | IND Vs NZ"
-        artist: "News18 Kerala"
+        videoId: "rO_fCmixofI"
+        name: "India vs New Zealand T20 World Cup 2026 Final LIVE | Can NZ Chase 256 Runs At Narendra Modi Stadium?"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-08T23:16:35.585Z"
+  exported_at: "2026-03-09T01:21:49.010Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-08T23:16:35.540Z"
+  source_generated_at: "2026-03-09T01:21:48.969Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
