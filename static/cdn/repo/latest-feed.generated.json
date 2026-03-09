@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T04:09:56.772Z",
+    "generatedAt": "2026-03-09T05:52:49.294Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZfxH7NKPuX8",
-            "name": "🔴Chanakyaa 24X7 News Live | NDA-TVK Alliance | Israel Iran War | Trump | Modi Stalin EPS | DMK ADMK",
-            "artist": "Chanakyaa"
+            "videoId": "316H8cdM4SU",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "8DwZAgISNH0",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "bjz1j3xrlDc",
+            "name": "IRAN WAR BREAKING NEWS LIVE | New Supreme Leader of Iran Announced MOJTABA KHAMENEI | SHOCKING!",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "99sDa1Q49_E",
-            "name": "India Vs New Zealand Final LIVE Updates | T20 World Cup 2026 Final | India Need 2 Wickets To Win",
-            "artist": "News18 Kerala"
+            "videoId": "ovcwqspXHG8",
+            "name": "LIVE | Beijing Gives 'Final Warning' To US, As Israel & US Strikes Iran | Trump | US-Iran War LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "8Cd-vmOOS9M",
-            "name": "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "Su0rSQ3mYo4",
+            "name": "LIVE: T20 World cup Final Match Between India Vs New Zealand  | IND vs NZ | Zee Telugu News",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "LWJxq-HSWHo",
-            "name": "LIVE 🔴Iran’s New Supreme Leader Drops Bombshell | No More Negotiations, Only War! | Dunya News",
-            "artist": "Dunya News"
+            "videoId": "SzXG-3ofdmw",
+            "name": "India Win T20 World Cup LIVE: भारत की जीत से पाकिस्तान में मातमलोगों ने फोड़ी TV | India News",
+            "artist": "India News"
         }
     ],
     "sourceFilters": {
