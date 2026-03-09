@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T083534.274Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T094043.535Z-l4t35t"
   type: "state"
-  created: "2026-03-09T08:35:34.274Z"
+  created: "2026-03-09T09:40:43.535Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T083534.274Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T094043.535Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vFtqXAnE19o"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "8gTgQvg019s"
+        name: "World News Live | Iran America War 9 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VRThuGONqzo"
-        name: "🔴LIVE: World War III Started? China Warns US Against Attacking Iran | Iran US Israel War Update"
-        artist: "SAMAA TV"
+        videoId: "hlnxjpunKc4"
+        name: "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wXqRHQv8GAQ"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 09.03.2026 | Morning News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "X5YdfqGSAwY"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A6-UdfGDd90"
-        name: "LIVE: Iran Launches Fresh Drone And Missile Strikes On UAE, Kuwait, Saudi Arabia, Bahrain And Qatar"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lc-GVlob0Fo"
-        name: "India Wins T20 World Cup LIVE: चैंपियन की तरह खेल, शेरों की तरह दहाड़े |Team India | IND Vs NZ | TV9"
-        artist: "TV9 Bharatvarsh"
+        videoId: "oc7-6fhaenk"
+        name: "World News Live: ईरान युद्ध में अमेरिका का खजाना खाली? चौंकाने वाला खर्च! USA | Iran | War Economy |"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T08:35:34.274Z"
+  exported_at: "2026-03-09T09:40:43.535Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T08:35:34.228Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T09:40:43.501Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
