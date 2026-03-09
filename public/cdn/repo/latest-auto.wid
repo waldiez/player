@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T174147.831Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T184103.007Z-l4t35t"
   type: "state"
-  created: "2026-03-09T17:41:47.831Z"
+  created: "2026-03-09T18:41:03.007Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T174147.831Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T184103.007Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "X7XEPkY0Uc4"
-        name: "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News"
+        videoId: "8Cd-vmOOS9M"
+        name: "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Dl2wxFpsgwE"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XTcvdeT8IAE"
-        name: "🔴LIVE: TVK Vijay | Political Twist | NDA Alliance |  NDA கூட்டணியில் தவெக-வுக்கு எத்தனை சீட்?"
+        videoId: "nHrPjq1APvE"
+        name: "🔴LIVE: Iran War Day 10 - Missiles Over Tel Aviv, New Supreme Leader Named & Trump's Next Move"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cySsQ8_vy9s"
+        name: "🔴LIVE: Israel Vs Iran | Israel Attack | இஸ்ரேலின் ருத்ரதாண்டவம்! ஈரானின் திக் திக் நிமிடங்கள்!"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KlrZ1vOb2y4"
-        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
-        artist: "Times Now"
+        videoId: "DUa5ZGpCOMk"
+        name: "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JV6nsiH8Ekk"
-        name: "LIVE: New Iranian Missiles ‘Break’ Israeli Defences | IRGC Warns Of $200 Oil Shock | GRAVITAS"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5viF47ClMlk"
-        name: "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "H1pD4j6uZ6o"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XjVwLldL0rs"
-        name: "BREAKING: NATO intercepts second Iranian missile headed for Turkey"
-        artist: "Fox News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vTMQKqAeY14"
-        name: "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |"
-        artist: "Sathiyam News"
+        videoId: "f01_13xWrYQ"
+        name: "LIVE: UAE Intercepts Missiles, Dubai Reels Under Iran War's Fallout | Spotlight | N18G"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T17:41:47.831Z"
+  exported_at: "2026-03-09T18:41:03.007Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T17:41:47.792Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T18:41:02.976Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
