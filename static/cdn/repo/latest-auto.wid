@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T055249.325Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T065240.689Z-l4t35t"
   type: "state"
-  created: "2026-03-09T05:52:49.325Z"
+  created: "2026-03-09T06:52:40.689Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T055249.325Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T065240.689Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "316H8cdM4SU"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
+        videoId: "vFtqXAnE19o"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bjz1j3xrlDc"
-        name: "IRAN WAR BREAKING NEWS LIVE | New Supreme Leader of Iran Announced MOJTABA KHAMENEI | SHOCKING!"
-        artist: "CNN-News18"
+        videoId: "VRThuGONqzo"
+        name: "🔴LIVE: World War III Started? China Warns US Against Attacking Iran | Iran US Israel War Update"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ovcwqspXHG8"
-        name: "LIVE | Beijing Gives 'Final Warning' To US, As Israel & US Strikes Iran | Trump | US-Iran War LIVE"
-        artist: "Times Now"
+        videoId: "wXqRHQv8GAQ"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 09.03.2026 | Morning News | Today News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Su0rSQ3mYo4"
-        name: "LIVE: T20 World cup Final Match Between India Vs New Zealand  | IND vs NZ | Zee Telugu News"
-        artist: "Zee Telugu News"
+        videoId: "lg3Fd0M5OAw"
+        name: "Pak media shocked on Sanju Samson best batting in final | india vs NZ T20 WC FINAL 2026 | PAK REACTS"
+        artist: "Daily Fact Tips"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SzXG-3ofdmw"
-        name: "India Win T20 World Cup LIVE: भारत की जीत से पाकिस्तान में मातमलोगों ने फोड़ी TV | India News"
-        artist: "India News"
+        videoId: "A6-UdfGDd90"
+        name: "LIVE: Iran Launches Fresh Drone And Missile Strikes On UAE, Kuwait, Saudi Arabia, Bahrain And Qatar"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AN-qxYmTrKE"
+        name: "🔴 Iran‑US‑Israel War | Mojtaba Khamenei Elected Iran’s New Supreme Leader | Live Updates | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T05:52:49.325Z"
+  exported_at: "2026-03-09T06:52:40.689Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T05:52:49.294Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T06:52:40.643Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
