@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T18:41:02.976Z",
+    "generatedAt": "2026-03-09T19:35:33.343Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8Cd-vmOOS9M",
-            "name": "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma",
+            "videoId": "ANjBhcufyKA",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (09.03.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "v_inEp20Wz0",
+            "name": "World News Live: भारत का शेषनाग ड्रोन देख ईरान भी हैरान, शाहेद भी पड़ा फीका! Drone | India | Sahed |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LICdQyJC-yc",
+            "name": "Iran Israel War LIVE: Iran Fires Missiles At Israel After Mojtaba Khamenei Named Supreme Leader",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "Dl2wxFpsgwE",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "videoId": "VEz-oaKJsGM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Advut Jaal"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CF-Y1suDMp0",
+            "name": "LIVE: Iran Unleashes 5 Massive Missile Waves on Israel | Tel Aviv Under Heavy Fire | US Attack |N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6SfO71nc_bk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 9 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "PUBLIC NEWS 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G8rJgzSgxqk",
+            "name": "Gujarati Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather Updates |Breaking | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g57jllLwg8o",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X7XEPkY0Uc4",
+            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "nHrPjq1APvE",
-            "name": "🔴LIVE: Iran War Day 10 - Missiles Over Tel Aviv, New Supreme Leader Named & Trump's Next Move",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cySsQ8_vy9s",
-            "name": "🔴LIVE: Israel Vs Iran | Israel Attack | இஸ்ரேலின் ருத்ரதாண்டவம்! ஈரானின் திக் திக் நிமிடங்கள்!",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DUa5ZGpCOMk",
-            "name": "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f01_13xWrYQ",
-            "name": "LIVE: UAE Intercepts Missiles, Dubai Reels Under Iran War's Fallout | Spotlight | N18G",
-            "artist": "Firstpost"
+            "videoId": "eFAKD7qbuCs",
+            "name": "🔴LIVE : News 1st: Prime Time Sinhala News - 10 PM | 09.03.2026 රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {
