@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T165035.220Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T174147.831Z-l4t35t"
   type: "state"
-  created: "2026-03-09T16:50:35.220Z"
+  created: "2026-03-09T17:41:47.831Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T165035.220Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T174147.831Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DUa5ZGpCOMk"
-        name: "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma"
-        artist: "Firstpost"
+        videoId: "X7XEPkY0Uc4"
+        name: "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pY4iVWiHNOg"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026"
-        artist: "Times Now Navbharat"
+        videoId: "XTcvdeT8IAE"
+        name: "🔴LIVE: TVK Vijay | Political Twist | NDA Alliance |  NDA கூட்டணியில் தவெக-வுக்கு எத்தனை சீட்?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2iw7ofA7s80"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "KlrZ1vOb2y4"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lHx6SKeMJCA"
-        name: "Iran Strikes Back: Missiles Over Dubai, Abu Dhabi as Region Faces War Fallout | Spotlight | N18G"
-        artist: "Firstpost"
+        videoId: "JV6nsiH8Ekk"
+        name: "LIVE: New Iranian Missiles ‘Break’ Israeli Defences | IRGC Warns Of $200 Oil Shock | GRAVITAS"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KQTl1T_YxQM"
-        name: "Who is Iran's new supreme leader Mojtaba Khamenei? | BBC News"
-        artist: "BBC News"
+        videoId: "5viF47ClMlk"
+        name: "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H1pD4j6uZ6o"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XjVwLldL0rs"
+        name: "BREAKING: NATO intercepts second Iranian missile headed for Turkey"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vTMQKqAeY14"
+        name: "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T16:50:35.220Z"
+  exported_at: "2026-03-09T17:41:47.831Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T16:50:35.181Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T17:41:47.792Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T16:50:35.181Z",
+    "generatedAt": "2026-03-09T17:41:47.792Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DUa5ZGpCOMk",
-            "name": "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "X7XEPkY0Uc4",
+            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "pY4iVWiHNOg",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026",
-            "artist": "Times Now Navbharat"
+            "videoId": "XTcvdeT8IAE",
+            "name": "🔴LIVE: TVK Vijay | Political Twist | NDA Alliance |  NDA கூட்டணியில் தவெக-வுக்கு எத்தனை சீட்?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "2iw7ofA7s80",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "KlrZ1vOb2y4",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "lHx6SKeMJCA",
-            "name": "Iran Strikes Back: Missiles Over Dubai, Abu Dhabi as Region Faces War Fallout | Spotlight | N18G",
-            "artist": "Firstpost"
+            "videoId": "JV6nsiH8Ekk",
+            "name": "LIVE: New Iranian Missiles ‘Break’ Israeli Defences | IRGC Warns Of $200 Oil Shock | GRAVITAS",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "KQTl1T_YxQM",
-            "name": "Who is Iran's new supreme leader Mojtaba Khamenei? | BBC News",
-            "artist": "BBC News"
+            "videoId": "5viF47ClMlk",
+            "name": "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H1pD4j6uZ6o",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XjVwLldL0rs",
+            "name": "BREAKING: NATO intercepts second Iranian missile headed for Turkey",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vTMQKqAeY14",
+            "name": "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
