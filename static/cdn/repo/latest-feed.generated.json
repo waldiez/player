@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T12:42:06.668Z",
+    "generatedAt": "2026-03-09T14:00:31.117Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dtseNwTVjdw",
-            "name": "India Wins T20 World Cup LIVE: फिर वर्ल्ड चैंपियन बना भारत LIVE | Team India | IND Vs NZ | Aaj Tak",
-            "artist": "Aaj Tak"
+            "videoId": "F-crj4TUAUA",
+            "name": "Iran Israel War Live | Iran Sets Israel's Oil Infra On 'Fire' | IRGC Begins Revenge Phase 2?",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "z8TUR5nZyHc",
-            "name": "🔴 LIVE: Iran’s New Supreme Leader & Missile Strikes | US & Israel on High Alert | Geo War Room",
-            "artist": "Geo News"
+            "videoId": "NXPXBQJdGsQ",
+            "name": "LIVE: Iran Unleashes 5 Massive Missile Waves on Israel | Tel Aviv Under Heavy Fire | US Attack |N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "WsLDZG7Mbz0",
-            "name": "LIVE: Team India Departs from Stadium After Winning T20 World Cup Final | IND vs NZ | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "Z46q8cBGSIs",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "2MYOQOnc7rM",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (09.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "XTcvdeT8IAE",
+            "name": "🔴LIVE: TVK Vijay | Political Twist | NDA Alliance |  NDA கூட்டணியில் தவெக-வுக்கு எத்தனை சீட்?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "8Ve_VnDOfiw",
-            "name": "West Asia at War LIVE: US, Israel Bomb Iran | How Israel Tracked Khamenei | Vantage | Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nHrPjq1APvE",
-            "name": "🔴LIVE: Iran War Day 10 - Missiles Over Tel Aviv, New Supreme Leader Named & Trump's Next Move",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "X7XEPkY0Uc4",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
-            "artist": "Times Now"
+            "videoId": "UIj7JBm7cYc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         }
     ],
     "sourceFilters": {
