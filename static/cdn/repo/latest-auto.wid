@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T103807.388Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T112938.672Z-l4t35t"
   type: "state"
-  created: "2026-03-09T10:38:07.388Z"
+  created: "2026-03-09T11:29:38.672Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T103807.388Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T112938.672Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WsLDZG7Mbz0"
-        name: "LIVE: Team India Departs from Stadium After Winning T20 World Cup Final | IND vs NZ | Firstpost"
-        artist: "Firstpost"
+        videoId: "UIj7JBm7cYc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2MYOQOnc7rM"
-        name: "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (09.03.2026)| 2 PM Headlines | ThanthiTV"
+        videoId: "w7Y9S47nNzQ"
+        name: "News Ki Pathshala Live : ईरान अमेरिका पर इतने सटीक हमले कैसे कर रहा ? | iran America War |World News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ANjBhcufyKA"
+        name: "🔴LIVE :Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (09.03.2026) | 5 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8Ve_VnDOfiw"
-        name: "West Asia at War LIVE: US, Israel Bomb Iran | How Israel Tracked Khamenei | Vantage | Palki Sharma"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X7XEPkY0Uc4"
-        name: "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TRT_E3wrS4w"
-        name: "Latest News Live | News 24x7 |T20 World Cup | Nancy Grewal | Sanju Samson | 1000 SCHEME | CM Mann"
-        artist: "News18 Punjab"
+        videoId: "8gTgQvg019s"
+        name: "World News Live | Iran America War 9 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T10:38:07.388Z"
+  exported_at: "2026-03-09T11:29:38.672Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T10:38:07.349Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T11:29:38.633Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
