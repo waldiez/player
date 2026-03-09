@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T14:00:31.117Z",
+    "generatedAt": "2026-03-09T15:51:34.564Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "F-crj4TUAUA",
-            "name": "Iran Israel War Live | Iran Sets Israel's Oil Infra On 'Fire' | IRGC Begins Revenge Phase 2?",
-            "artist": "Hindustan Times"
+            "videoId": "5viF47ClMlk",
+            "name": "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "NXPXBQJdGsQ",
-            "name": "LIVE: Iran Unleashes 5 Massive Missile Waves on Israel | Tel Aviv Under Heavy Fire | US Attack |N18G",
-            "artist": "News18 Urdu"
+            "videoId": "H1pD4j6uZ6o",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Z46q8cBGSIs",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XTcvdeT8IAE",
-            "name": "🔴LIVE: TVK Vijay | Political Twist | NDA Alliance |  NDA கூட்டணியில் தவெக-வுக்கு எத்தனை சீட்?",
+            "videoId": "vTMQKqAeY14",
+            "name": "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "UIj7JBm7cYc",
+            "videoId": "1u1cNJraq1g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bnl9E_K8htY",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "artist": "Express Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dtseNwTVjdw",
+            "name": "India Wins T20 World Cup LIVE: फिर वर्ल्ड चैंपियन बना भारत LIVE | Team India | IND Vs NZ | Aaj Tak",
+            "artist": "Aaj Tak"
         }
     ],
     "sourceFilters": {
