@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260309T155134.605Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260309T165035.220Z-l4t35t"
   type: "state"
-  created: "2026-03-09T15:51:34.605Z"
+  created: "2026-03-09T16:50:35.220Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T155134.605Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260309T165035.220Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5viF47ClMlk"
-        name: "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War"
-        artist: "NDTV India"
+        videoId: "DUa5ZGpCOMk"
+        name: "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H1pD4j6uZ6o"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March"
-        artist: "ABP NEWS"
+        videoId: "pY4iVWiHNOg"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vTMQKqAeY14"
-        name: "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |"
-        artist: "Sathiyam News"
+        videoId: "2iw7ofA7s80"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1u1cNJraq1g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "lHx6SKeMJCA"
+        name: "Iran Strikes Back: Missiles Over Dubai, Abu Dhabi as Region Faces War Fallout | Spotlight | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bnl9E_K8htY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dtseNwTVjdw"
-        name: "India Wins T20 World Cup LIVE: फिर वर्ल्ड चैंपियन बना भारत LIVE | Team India | IND Vs NZ | Aaj Tak"
-        artist: "Aaj Tak"
+        videoId: "KQTl1T_YxQM"
+        name: "Who is Iran's new supreme leader Mojtaba Khamenei? | BBC News"
+        artist: "BBC News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-09T15:51:34.605Z"
+  exported_at: "2026-03-09T16:50:35.220Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-09T15:51:34.564Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-09T16:50:35.181Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

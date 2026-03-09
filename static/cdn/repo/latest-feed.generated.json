@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-09T15:51:34.564Z",
+    "generatedAt": "2026-03-09T16:50:35.181Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5viF47ClMlk",
-            "name": "Aaj Ki Taaza Khabar LIVE: 09 March News | India Wins T20 World Cup Final | Iran America War",
-            "artist": "NDTV India"
+            "videoId": "DUa5ZGpCOMk",
+            "name": "Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "H1pD4j6uZ6o",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | Breaking | Superfast News |9 March",
-            "artist": "ABP NEWS"
+            "videoId": "pY4iVWiHNOg",
+            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "vTMQKqAeY14",
-            "name": "🔴LIVE: Dmk Manaadu | Dmk Trichy Manaadu | MK Stalin Speech | Udhayanidhi | OPS |",
-            "artist": "Sathiyam News"
+            "videoId": "2iw7ofA7s80",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | Nitish Kumar | PM Modi | Netanyahu | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "1u1cNJraq1g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "lHx6SKeMJCA",
+            "name": "Iran Strikes Back: Missiles Over Dubai, Abu Dhabi as Region Faces War Fallout | Spotlight | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "bnl9E_K8htY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dtseNwTVjdw",
-            "name": "India Wins T20 World Cup LIVE: फिर वर्ल्ड चैंपियन बना भारत LIVE | Team India | IND Vs NZ | Aaj Tak",
-            "artist": "Aaj Tak"
+            "videoId": "KQTl1T_YxQM",
+            "name": "Who is Iran's new supreme leader Mojtaba Khamenei? | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
