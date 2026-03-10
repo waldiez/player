@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T11:27:09.429Z",
+    "generatedAt": "2026-03-10T12:41:14.368Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6btev5eo0dc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "_d479tznmHc",
+            "name": "LIVE: Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "XZQikK552hk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "vCVRUa_kMg8",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.03.2026)| 2 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "SlualyLcNvs",
-            "name": "🔴 LIVE: Mojtaba Khamenei Nominated as Iran’s Supreme Leader — US & Israel on Edge | Geo News",
-            "artist": "Geo News"
+            "videoId": "f4sczGRHZgg",
+            "name": "News Ki Pathshala Live : Crude Oil के दाम को लेकर मचा हाहाकार ! | Petrol Diesel Price | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "_uQi5Vk4arU",
-            "name": "Iran News LIVE: 3 US B-52 Bombers Land In UK Amid Rising Tensions & Possible Strike Plans On Iran",
-            "artist": "CNN-News18"
+            "videoId": "shX4zyDQTqU",
+            "name": "🔴LIVE :Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (10.03.2026) | 5 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "N4If2zTIgKY",
-            "name": "Debate With Arnab LIVE: Iran vs Israel - World Paying Price For Trump's War?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "84uhyMdkUqU",
-            "name": "Iran Targets Netanyahu LIVE:  Iran Claims Missiles Struck Israeli PM’s Home | Israeli PM Missing",
-            "artist": "Oneindia News"
+            "videoId": "b3ECR77NEF0",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 10 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
