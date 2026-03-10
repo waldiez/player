@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260310T011624.569Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260310T040213.045Z-l4t35t"
   type: "state"
-  created: "2026-03-10T01:16:24.569Z"
+  created: "2026-03-10T04:02:13.045Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T011624.569Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T040213.045Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jMwGoU5RAe4"
-        name: "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News"
-        artist: "Kanak News"
+        videoId: "9WfFfg2vVTQ"
+        name: "US Iran War Live | Arab Ally Turns On Trump As Iran Strikes Intensify! | Iran Drone Attacks"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mF_uLH3LICc"
-        name: "🔴Live:  Israel attack iran Oil   | Iran Israel war latest update  | Iran–Israel War Escalates"
-        artist: "Pak News"
+        videoId: "7sXljbyBaTs"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 9, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fGh7LjWqibg"
-        name: "Trump LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "MIRROR NOW"
+        videoId: "l2khF56AJVY"
+        name: "IRAN-ISRAEL WAR LIVE | Iran Launches Direct Missile Attack On Israel, Casualties Reported"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oc7-6fhaenk"
-        name: "World News Live: ईरान युद्ध में अमेरिका का खजाना खाली? चौंकाने वाला खर्च! USA | Iran | War Economy |"
-        artist: "Times Now Navbharat"
+        videoId: "R4Hd_4DBYCA"
+        name: "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live"
+        artist: "Shomoy247"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UM9q3YUaGRA"
-        name: "🔴LIVE : Super Fast News | 09 MAR 2026 | இன்றைய முக்கிய செய்திகள் | Latest News | News Tamil 24x7"
-        artist: "NewsTamil 24X7"
+        videoId: "GvK_YwFO7n8"
+        name: "Debate With Arnab LIVE: Iran War - Is The Indian Govt In Control Of The Situation?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8Cd-vmOOS9M"
-        name: "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma"
-        artist: "Firstpost"
+        videoId: "L5w613Xmgss"
+        name: "IRAN WAR LIVE | IRGC Targets Gulf Nations | Missiles Hit Abu Dhabi, Blast In Doha, Sirens In Bahrain"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VImNUvh2WXg"
+        name: "Top 100 News Live: आज की बड़ी खबरें | India Wins T20 World Cup | Iran-Israel | Netanyahu | PM Modi"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xESI52OsGs0"
+        name: "CHINA WARNS US LIVE | Beijing Demands Immediate Halt to US-Israel Military Action| US-Iran War"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_zIgSYAYzUI"
+        name: "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CJRNZXkLSn0"
+        name: "🟢Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5CXSLPFKNHs"
+        name: "US-Iran War LIVE: Tehran Strikes Bahrain Again: University Of Manama Shows Major Damage | WION"
+        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-10T01:16:24.569Z"
+  exported_at: "2026-03-10T04:02:13.045Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-10T01:16:24.524Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-10T04:02:13.005Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

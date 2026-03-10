@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T01:16:24.524Z",
+    "generatedAt": "2026-03-10T04:02:13.005Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jMwGoU5RAe4",
-            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
-            "artist": "Kanak News"
+            "videoId": "9WfFfg2vVTQ",
+            "name": "US Iran War Live | Arab Ally Turns On Trump As Iran Strikes Intensify! | Iran Drone Attacks",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "mF_uLH3LICc",
-            "name": "🔴Live:  Israel attack iran Oil   | Iran Israel war latest update  | Iran–Israel War Escalates",
-            "artist": "Pak News"
+            "videoId": "7sXljbyBaTs",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 9, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "fGh7LjWqibg",
-            "name": "Trump LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
-            "artist": "MIRROR NOW"
+            "videoId": "l2khF56AJVY",
+            "name": "IRAN-ISRAEL WAR LIVE | Iran Launches Direct Missile Attack On Israel, Casualties Reported",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "oc7-6fhaenk",
-            "name": "World News Live: ईरान युद्ध में अमेरिका का खजाना खाली? चौंकाने वाला खर्च! USA | Iran | War Economy |",
-            "artist": "Times Now Navbharat"
+            "videoId": "R4Hd_4DBYCA",
+            "name": "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live",
+            "artist": "Shomoy247"
         },
         {
             "mood": "storm",
-            "videoId": "UM9q3YUaGRA",
-            "name": "🔴LIVE : Super Fast News | 09 MAR 2026 | இன்றைய முக்கிய செய்திகள் | Latest News | News Tamil 24x7",
-            "artist": "NewsTamil 24X7"
+            "videoId": "GvK_YwFO7n8",
+            "name": "Debate With Arnab LIVE: Iran War - Is The Indian Govt In Control Of The Situation?",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "8Cd-vmOOS9M",
-            "name": "US Iran War LIVE: Mojtaba Khamenei Appointed Iran’s New Supreme Leader | Vantage With Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "L5w613Xmgss",
+            "name": "IRAN WAR LIVE | IRGC Targets Gulf Nations | Missiles Hit Abu Dhabi, Blast In Doha, Sirens In Bahrain",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VImNUvh2WXg",
+            "name": "Top 100 News Live: आज की बड़ी खबरें | India Wins T20 World Cup | Iran-Israel | Netanyahu | PM Modi",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xESI52OsGs0",
+            "name": "CHINA WARNS US LIVE | Beijing Demands Immediate Halt to US-Israel Military Action| US-Iran War",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_zIgSYAYzUI",
+            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CJRNZXkLSn0",
+            "name": "🟢Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5CXSLPFKNHs",
+            "name": "US-Iran War LIVE: Tehran Strikes Bahrain Again: University Of Manama Shows Major Damage | WION",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
