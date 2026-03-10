@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T04:02:13.005Z",
+    "generatedAt": "2026-03-10T05:40:10.175Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9WfFfg2vVTQ",
-            "name": "US Iran War Live | Arab Ally Turns On Trump As Iran Strikes Intensify! | Iran Drone Attacks",
+            "videoId": "E4NjD048IPk",
+            "name": "Breaking LIVE | Iran’s Stark Warning Triggers Global Reactions | Israel | WORLD NEWS  | US-Iran War",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OHwUf-e68aw",
+            "name": "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump",
             "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "7sXljbyBaTs",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 9, 2026",
-            "artist": "ABC News"
+            "videoId": "yZe34aAByFk",
+            "name": "Iran Israel War LIVE: 'एक मिसाइल में इजरायल खत्म', Trump को Kim Jong ने धमकाया! | Khamenei",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "l2khF56AJVY",
-            "name": "IRAN-ISRAEL WAR LIVE | Iran Launches Direct Missile Attack On Israel, Casualties Reported",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R4Hd_4DBYCA",
-            "name": "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live",
-            "artist": "Shomoy247"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GvK_YwFO7n8",
-            "name": "Debate With Arnab LIVE: Iran War - Is The Indian Govt In Control Of The Situation?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "L5w613Xmgss",
-            "name": "IRAN WAR LIVE | IRGC Targets Gulf Nations | Missiles Hit Abu Dhabi, Blast In Doha, Sirens In Bahrain",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VImNUvh2WXg",
-            "name": "Top 100 News Live: आज की बड़ी खबरें | India Wins T20 World Cup | Iran-Israel | Netanyahu | PM Modi",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xESI52OsGs0",
-            "name": "CHINA WARNS US LIVE | Beijing Demands Immediate Halt to US-Israel Military Action| US-Iran War",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_zIgSYAYzUI",
-            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CJRNZXkLSn0",
-            "name": "🟢Iran Breaking News LIVE: Iran Strikes US THAAD Interceptors | \"Iron Shield\" Compromised | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5CXSLPFKNHs",
-            "name": "US-Iran War LIVE: Tehran Strikes Bahrain Again: University Of Manama Shows Major Damage | WION",
-            "artist": "WION"
+            "videoId": "9UBztIQbeFU",
+            "name": "Iran Israel US War News Live: Iran New Supreme Leader Mojtaba Khamenei | Trump | Khamenei | US Army",
+            "artist": "News Nation"
         }
     ],
     "sourceFilters": {
