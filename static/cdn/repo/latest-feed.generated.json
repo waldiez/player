@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T16:49:51.146Z",
+    "generatedAt": "2026-03-10T17:40:36.636Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Z2rQNq4IAJs",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "DvJ4y7ISQXc",
+            "name": "🔴LIVE : Isreal Iranwar | Russia | உலகின் உயிர் இனி ரஷ்யா கையில் `நண்பன்’ இந்தியாவுக்கே இதான் கதி",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "eDIzILv9QUg",
-            "name": "LIVE | Israel F-35 Downs Iranian YAK-130 Flying Over Tehran | World War 3 | Trump | Netanyahu",
-            "artist": "MIRROR NOW"
+            "videoId": "4wD8gwixBOU",
+            "name": "LIVE: US Warns Iran of \"Most Intense Strikes\" of the War | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "L4iin22OsCc",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
+            "videoId": "ftTEQ9-kmVs",
+            "name": "Iran US War News Live | Trump Warns Iran | Mojtaba Khamenei New Supreme Leader | 9PM Headlines",
+            "artist": "Aaj TV Official"
         },
         {
             "mood": "storm",
-            "videoId": "bKVhpEFtUx8",
-            "name": "Aaj Ki Taaja Khabar Live: 10 March 2026 | Israel Iran War | Trump | Netanyahu | LPG Petrol Price",
-            "artist": "Times Now Navbharat"
+            "videoId": "GGGGcqdRjj4",
+            "name": "🔴LIVE: Isreal iran war  | America | அமெரிக்கா எடுத்த சபதம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "_oul7f4QtXs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FxyDzS8yWQI",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dTdlae9OhHo",
-            "name": "Middle East Tension - Massive Attacks - Latest Update | Headlines 6 PM Geo News (10 Mar 2026)",
-            "artist": "Geo News"
+            "videoId": "Gd9aRR5aWhs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {
