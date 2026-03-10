@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T12:41:14.368Z",
+    "generatedAt": "2026-03-10T13:57:02.126Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_d479tznmHc",
-            "name": "LIVE: Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "6btev5eo0dc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "vCVRUa_kMg8",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.03.2026)| 2 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f4sczGRHZgg",
-            "name": "News Ki Pathshala Live : Crude Oil के दाम को लेकर मचा हाहाकार ! | Petrol Diesel Price | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "shX4zyDQTqU",
-            "name": "🔴LIVE :Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (10.03.2026) | 5 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b3ECR77NEF0",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 10 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "FrLbej8YgFw",
+            "name": "World War 3? | China Russia in Action - Iran Israel US War | ARY News 3 PM Headlines | 10 March 2026",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
