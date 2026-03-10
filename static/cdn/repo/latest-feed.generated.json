@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T20:25:19.387Z",
+    "generatedAt": "2026-03-10T22:20:19.535Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2-1olEfoL58",
-            "name": "🔴LIVE: War Erupts Again | Israel, America Launch New Airstrikes On Tehran | Latest Video | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "l4rubgP2AM4",
+            "name": "🔴LIVE: மீளுமா ஈரான்.. பயங்கர ஆயுதத்துடன் களமிறங்கும் டிரம்ப்..கொடூர தாக்குதல்.. | Trump Warns Iran",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "sjYA9Ij2TLQ",
-            "name": "Iran VS America War Latest New Update!! | 12 AM Headlines | Pakistan News",
-            "artist": "Express News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "shX4zyDQTqU",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.03.2026) | 11 PM Headlines | Thanthi TV",
+            "videoId": "kFtapjVpzjE",
+            "name": "🔴LIVE :  Iran | Israel  |  Israel Iran War  | USA | உலகுக்கே ஷாக் கொடுத்த அமெரிக்காவின் அறிவிப்பு",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "SaTAl5yLX1k",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FdSxT7xs2LA",
-            "name": "Iran US War Live: New Supreme Leader's Appointment Haunts US | 11:30 PM News Update | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4YjUhQQQjc0",
-            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nq5MnEVvESo",
-            "name": "🔴LIVE :  : Gas cylinder | Gas |  Gas Cylinder Shortage  |  Iran |   Israel | War |  Israeliranwar",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DvJ4y7ISQXc",
-            "name": "🔴LIVE : Isreal Iranwar | Russia | உலகின் உயிர் இனி ரஷ்யா கையில் `நண்பன்’ இந்தியாவுக்கே இதான் கதி",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O_4HrAMrKyw",
-            "name": "🔴Live : Vijay | BJP | NDA-வில் விஜய்..? தமிழக அரசியலில் திடீர் ட்விஸ்ட்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4wD8gwixBOU",
-            "name": "LIVE: US Warns Iran of \"Most Intense Strikes\" of the War | Vantage with Palki Sharma | N18G",
+            "videoId": "uzfnL5nafz8",
+            "name": "LIVE: New Video Reveals US Bombed Iranian Girls' School | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0i8SBrjW2Hc",
+            "name": "Sandesh News Live: India Wins T20 World Cup | Israel-Iran war | LPG Price Hike | Gold Silver MCX",
+            "artist": "Sandesh News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IS3IlQmGGUU",
+            "name": "Debate With Arnab LIVE: Trump's Epic Fury Fail Forces Change In Iran Goalpost?",
+            "artist": "Republic World"
         }
     ],
     "sourceFilters": {
