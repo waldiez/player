@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260310T093628.611Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260310T103154.664Z-l4t35t"
   type: "state"
-  created: "2026-03-10T09:36:28.611Z"
+  created: "2026-03-10T10:31:54.664Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T093628.611Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T103154.664Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SlualyLcNvs"
-        name: "🔴 LIVE: Mojtaba Khamenei Nominated as Iran’s Supreme Leader — US & Israel on Edge | Geo News"
-        artist: "Geo News"
+        videoId: "f4sczGRHZgg"
+        name: "News Ki Pathshala Live : Crude Oil के दाम को लेकर मचा हाहाकार ! | Petrol Diesel Price | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h1VYXdc4zN0"
-        name: "LIVE: Trump Claims Iran \"No Longer a Threat\" at Press Conference After Republican Policy Retreat"
-        artist: "Firstpost"
+        videoId: "Dl2wxFpsgwE"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_uQi5Vk4arU"
-        name: "Iran News LIVE: 3 US B-52 Bombers Land In UK Amid Rising Tensions & Possible Strike Plans On Iran"
-        artist: "CNN-News18"
+        videoId: "H46KOZ-6Tzw"
+        name: "ABC News Live Prime: Mon, Mar 9, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lsI7mTyVsmY"
-        name: "Today Headlines | 10 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "Stbkxee7wB4"
+        name: "News Ki Pathshala Live : Trump का ऐसा एक्शन जिसपर दुनियाभर में लोग सदमे में आ गए? | World News Live"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o2d2szPlVYs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aq3VQNeGYc4"
-        name: "LIVE🔴‘ফ্যামিলি কার্ড’ বিতরণ কার্যক্রমের শুভ উদ্বোধন | তারেক রহমান | 10 Mar 2026 | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "C-Q59AvZr3w"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bishwo24 News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-10T09:36:28.611Z"
+  exported_at: "2026-03-10T10:31:54.664Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-10T09:36:28.570Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-10T10:31:54.626Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T09:36:28.570Z",
+    "generatedAt": "2026-03-10T10:31:54.626Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SlualyLcNvs",
-            "name": "🔴 LIVE: Mojtaba Khamenei Nominated as Iran’s Supreme Leader — US & Israel on Edge | Geo News",
-            "artist": "Geo News"
+            "videoId": "f4sczGRHZgg",
+            "name": "News Ki Pathshala Live : Crude Oil के दाम को लेकर मचा हाहाकार ! | Petrol Diesel Price | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "h1VYXdc4zN0",
-            "name": "LIVE: Trump Claims Iran \"No Longer a Threat\" at Press Conference After Republican Policy Retreat",
-            "artist": "Firstpost"
+            "videoId": "Dl2wxFpsgwE",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "_uQi5Vk4arU",
-            "name": "Iran News LIVE: 3 US B-52 Bombers Land In UK Amid Rising Tensions & Possible Strike Plans On Iran",
-            "artist": "CNN-News18"
+            "videoId": "H46KOZ-6Tzw",
+            "name": "ABC News Live Prime: Mon, Mar 9, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "lsI7mTyVsmY",
-            "name": "Today Headlines | 10 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "Stbkxee7wB4",
+            "name": "News Ki Pathshala Live : Trump का ऐसा एक्शन जिसपर दुनियाभर में लोग सदमे में आ गए? | World News Live",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "o2d2szPlVYs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aq3VQNeGYc4",
-            "name": "LIVE🔴‘ফ্যামিলি কার্ড’ বিতরণ কার্যক্রমের শুভ উদ্বোধন | তারেক রহমান | 10 Mar 2026 | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "C-Q59AvZr3w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bishwo24 News"
         }
     ],
     "sourceFilters": {
