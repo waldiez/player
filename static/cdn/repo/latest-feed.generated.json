@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T14:44:43.335Z",
+    "generatedAt": "2026-03-10T15:54:07.131Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FxyDzS8yWQI",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | India Won T20 World Cup 2026",
-            "artist": "Times Now Navbharat"
+            "videoId": "Gd9aRR5aWhs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "dTdlae9OhHo",
+            "videoId": "cUkb5M7ZvKU",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (10.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9WQXv8hJ8l8",
             "name": "Middle East Tension - Massive Attacks - Latest Update | Headlines 6 PM Geo News (10 Mar 2026)",
-            "artist": "Geo News"
+            "artist": "Geo Headlines"
         },
         {
             "mood": "storm",
-            "videoId": "tpr8AJ44nAU",
-            "name": "US Major Attack on Iran - War Alert - Latest Update | Headlines 5 PM Geo News (10 Mar 2026)",
-            "artist": "Geo News"
+            "videoId": "aa_lWaweaZw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "P1l4HRlja7s",
-            "name": "Trump 'NOT HAPPY' with new supreme leader, says talks with Iran 'possible'",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_d479tznmHc",
-            "name": "LIVE: Iran Claims Ready for \"Six-month War\" Against Israel & US | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lJxeBc7h78Q",
-            "name": "আন্তর্জাতিক সময় | বিকাল ৪টা | ১০ মার্চ ২০২৬ | Somoy TV Bulletin 4pm| Latest International News",
-            "artist": "SOMOY TV Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vCVRUa_kMg8",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.03.2026)| 2 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "NYwOzG4wHMk",
+            "name": "একনজরে বিশ্বের আলোচিত সব খবর | International News | Around the World | 10 March 2026 | ATN News",
+            "artist": "ATN News Bulletin"
         }
     ],
     "sourceFilters": {
