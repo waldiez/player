@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T17:40:36.636Z",
+    "generatedAt": "2026-03-10T18:37:37.867Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DvJ4y7ISQXc",
-            "name": "🔴LIVE : Isreal Iranwar | Russia | உலகின் உயிர் இனி ரஷ்யா கையில் `நண்பன்’ இந்தியாவுக்கே இதான் கதி",
-            "artist": "Thanthi TV"
+            "videoId": "IS3IlQmGGUU",
+            "name": "Debate With Arnab LIVE: Trump's Epic Fury Fail Forces Change In Iran Goalpost?",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "4wD8gwixBOU",
-            "name": "LIVE: US Warns Iran of \"Most Intense Strikes\" of the War | Vantage with Palki Sharma | N18G",
+            "videoId": "-X5xWOsFwVw",
+            "name": "LIVE: 'The Man With Nine Lives' - Did Iran Eliminate Its Own General? | Vantage With Palki Sharma",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "ftTEQ9-kmVs",
-            "name": "Iran US War News Live | Trump Warns Iran | Mojtaba Khamenei New Supreme Leader | 9PM Headlines",
-            "artist": "Aaj TV Official"
+            "videoId": "N8OzfsLC5XE",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ईरान ने मारा 1000 किलो का बम ! Iran War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "GGGGcqdRjj4",
-            "name": "🔴LIVE: Isreal iran war  | America | அமெரிக்கா எடுத்த சபதம்",
-            "artist": "Sathiyam News"
+            "videoId": "Z2rQNq4IAJs",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Gd9aRR5aWhs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "eDIzILv9QUg",
+            "name": "LIVE | Israel F-35 Downs Iranian YAK-130 Flying Over Tehran | World War 3 | Trump | Netanyahu",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "L4iin22OsCc",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
         }
     ],
     "sourceFilters": {
