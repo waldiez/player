@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260310T054010.213Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260310T063842.965Z-l4t35t"
   type: "state"
-  created: "2026-03-10T05:40:10.213Z"
+  created: "2026-03-10T06:38:42.965Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T054010.213Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260310T063842.965Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "E4NjD048IPk"
-        name: "Breaking LIVE | Iran’s Stark Warning Triggers Global Reactions | Israel | WORLD NEWS  | US-Iran War"
+        videoId: "iod9czb-37Q"
+        name: "World News Live | Iran America War 10 March Live : ईरान अमेरिका युद्ध का ताजा हालात |Iran Israel War"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7sXljbyBaTs"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 9, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "R4Hd_4DBYCA"
+        name: "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live"
+        artist: "Shomoy247"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GvK_YwFO7n8"
+        name: "Debate With Arnab LIVE: Iran War - Is The Indian Govt In Control Of The Situation?"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VImNUvh2WXg"
+        name: "Top 100 News Live: आज की बड़ी खबरें | India Wins T20 World Cup | Iran-Israel | Netanyahu | PM Modi"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_zIgSYAYzUI"
+        name: "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OHwUf-e68aw"
-        name: "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump"
-        artist: "Hindustan Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yZe34aAByFk"
-        name: "Iran Israel War LIVE: 'एक मिसाइल में इजरायल खत्म', Trump को Kim Jong ने धमकाया! | Khamenei"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9UBztIQbeFU"
-        name: "Iran Israel US War News Live: Iran New Supreme Leader Mojtaba Khamenei | Trump | Khamenei | US Army"
-        artist: "News Nation"
+        videoId: "5CXSLPFKNHs"
+        name: "US-Iran War LIVE: Tehran Strikes Bahrain Again: University Of Manama Shows Major Damage | WION"
+        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-10T05:40:10.213Z"
+  exported_at: "2026-03-10T06:38:42.965Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-10T05:40:10.175Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-10T06:38:42.925Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

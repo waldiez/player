@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-10T05:40:10.175Z",
+    "generatedAt": "2026-03-10T06:38:42.925Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "E4NjD048IPk",
-            "name": "Breaking LIVE | Iran’s Stark Warning Triggers Global Reactions | Israel | WORLD NEWS  | US-Iran War",
+            "videoId": "iod9czb-37Q",
+            "name": "World News Live | Iran America War 10 March Live : ईरान अमेरिका युद्ध का ताजा हालात |Iran Israel War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7sXljbyBaTs",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 9, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "R4Hd_4DBYCA",
+            "name": "🔴 LIVE: ইরান–ইসরায়েল উত্তেজনা | Tehran Explosion | World News Live",
+            "artist": "Shomoy247"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GvK_YwFO7n8",
+            "name": "Debate With Arnab LIVE: Iran War - Is The Indian Govt In Control Of The Situation?",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VImNUvh2WXg",
+            "name": "Top 100 News Live: आज की बड़ी खबरें | India Wins T20 World Cup | Iran-Israel | Netanyahu | PM Modi",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_zIgSYAYzUI",
+            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "OHwUf-e68aw",
-            "name": "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yZe34aAByFk",
-            "name": "Iran Israel War LIVE: 'एक मिसाइल में इजरायल खत्म', Trump को Kim Jong ने धमकाया! | Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9UBztIQbeFU",
-            "name": "Iran Israel US War News Live: Iran New Supreme Leader Mojtaba Khamenei | Trump | Khamenei | US Army",
-            "artist": "News Nation"
+            "videoId": "5CXSLPFKNHs",
+            "name": "US-Iran War LIVE: Tehran Strikes Bahrain Again: University Of Manama Shows Major Damage | WION",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
