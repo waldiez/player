@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T22:20:52.393Z",
+    "generatedAt": "2026-03-11T23:18:18.643Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Zv7bbCn-DVU",
-            "name": "🔴LIVE | US President Trump's speech in Kentucky | ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JWMlveoxCxI",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b3VezcJKhsA",
-            "name": "BREAKING LIVE | Massive Explosions In Doha As Qatar Shoots Down Iran Missiles And Drones | Gulf | US",
+            "videoId": "WtLureh95K8",
+            "name": "LIVE | Where Is Mojtaba Khamenei? New Iran Supreme Leader Unseen After 'Injury' In US-Israel Strike",
             "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "I9k8se7h-p0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "PUBLIC NEWS 24"
+            "videoId": "Of73WsIjpbs",
+            "name": "LIVE🔴Trump: “I Can End This War Anytime” | Iran’s New Military Strategy Exposed",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "J8wcdQD1mMY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "ulPpBEQd9yE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Time Two"
         },
         {
             "mood": "storm",
-            "videoId": "Tt75NJ_CzDc",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
+            "videoId": "4RF2qNhrXU8",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.03.2026)| 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M0u4v6R9Z1Q",
+            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GCsO_F-KPgM",
+            "name": "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
