@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T083153.179Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260311T093517.347Z-l4t35t"
   type: "state"
-  created: "2026-03-11T08:31:53.179Z"
+  created: "2026-03-11T09:35:17.347Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T083153.179Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T093517.347Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "uvn3sxdngRg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "4Kg1ug7zz3A"
+        name: "IRAN'S 'SUPER MISSILE' LIVE | Tehran Unveils One-Ton Warhead Missile in Major Escalation"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jArSVtoeL0g"
-        name: "🔴LIVE: யாருமே எதிர்பாரா நேரத்தில் என்ட்ரி கொடுத்த வட கொரியா.. அதிரும் உலக நாடுகள் | North Korea"
-        artist: "NewsTamil 24X7"
+        videoId: "vcDE0zntshc"
+        name: "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "euUqILCp_CI"
-        name: "Iran Israel War News LIVE | Middle East War Full Coverage LIVE | US Strike Iran | Donald Trump LIVE"
+        videoId: "dU5Gt9xICdY"
+        name: "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | Tel Aviv Haifa Under Bombing"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i2SON7bnjVw"
+        name: "Iran War News LIVE | Iran Open To Mediation If US and Israel Guarantee No Further Attacks"
         artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4yJ1CrHa-54"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Ekota Express"
+        videoId: "DJkajoxdg9U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NBS Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1Sswo7-3Snc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rEk4k2j55dI"
+        name: "Iran israil war news ,#iranisrailwarupdate Iran israil war latest update ईरान‌ इजराइल युद्ध शुरू ‌।"
+        artist: "Ronak Duggu ki duniya"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T08:31:53.179Z"
+  exported_at: "2026-03-11T09:35:17.347Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T08:31:53.133Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-11T09:35:17.308Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
