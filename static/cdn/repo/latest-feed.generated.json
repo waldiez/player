@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T01:16:49.124Z",
+    "generatedAt": "2026-03-11T04:03:06.358Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "p3901NMD-8Q",
-            "name": "Iran Strikes Israel LIVE: New Iranian Monster Missiles Break Israeli Defence Systems | WION Live",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4Tn5nzg4ygw",
-            "name": "IRAN'S 'SUPER MISSILE' LIVE | Tehran Unveils One-Ton Warhead Missile in Major Escalation",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l4rubgP2AM4",
-            "name": "🔴LIVE: மீளுமா ஈரான்.. பயங்கர ஆயுதத்துடன் களமிறங்கும் டிரம்ப்..கொடூர தாக்குதல்.. | Trump Warns Iran",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kFtapjVpzjE",
-            "name": "🔴LIVE :  Iran | Israel  |  Israel Iran War  | USA | உலகுக்கே ஷாக் கொடுத்த அமெரிக்காவின் அறிவிப்பு",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uzfnL5nafz8",
-            "name": "LIVE: New Video Reveals US Bombed Iranian Girls' School | Vantage with Palki Sharma | N18G",
+            "videoId": "nriLIifrXcU",
+            "name": "LIVE: U.S. Warns Iran of \"Most Intense Strikes\" on 11th Day of War | Vantage with Palki Sharma |N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "0i8SBrjW2Hc",
-            "name": "Sandesh News Live: India Wins T20 World Cup | Israel-Iran war | LPG Price Hike | Gold Silver MCX",
-            "artist": "Sandesh News"
+            "videoId": "pgwcaQen0xc",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 10, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "HFmMYOMo9ME",
-            "name": "US-Iran-Israel War LIVE | Press Secretary Karoline Leavitt Briefs Media As Iran War Intensifies",
-            "artist": "CNN-News18"
+            "videoId": "2shbx5CgcMA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
         },
         {
             "mood": "storm",
-            "videoId": "iWQpO2cfOlQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD Daily Report"
+            "videoId": "7RQ3vNNaiSU",
+            "name": "Iran America War Latest updates Live : ईरान - अमेरिका युद्ध पर बहुत बड़ी खबर ! |World News |Breaking",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MKmpBlNqJ5c",
+            "name": "Iran VS America War Latest New Security on High Alert in Pakistan | 6 AM Headlines | Pakistan News",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D7rmZtrVRjg",
+            "name": "U.S. unleashes massive wave of attacks as President Trump issues new warning to Iran",
+            "artist": "NBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BjkkFjmNgD0",
+            "name": "🔴Live:নে/তা/নি/য়াহুর মৃ/ত্যু/র দাবিসহ  আলোচিত সব খবর | Iran-Israel | USA Attack| Netanyahu| Ittefaq",
+            "artist": "Daily Ittefaq"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LbCSWJE5wYg",
+            "name": "US missile attack on school in Khomein, Iran | 2 AM GEO News Headlines | 11 Mar 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bqPREH3ChYQ",
+            "name": "How the US is framing the Iran war on day 11 | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
