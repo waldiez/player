@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T154044.551Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260311T164218.700Z-l4t35t"
   type: "state"
-  created: "2026-03-11T15:40:44.551Z"
+  created: "2026-03-11T16:42:18.700Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T154044.551Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T164218.700Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WrDxGr_vYcM"
-        name: "West Asia War LIVE: Putin Offers to Mediate Ceasefire Between Iran and US |Vantage with Palki Sharma"
+        videoId: "1D7XeuLWILU"
+        name: "Ghana Defies US & China: New Gold Tax Revealed as Prices Hit Record High | Firstpost Africa | N18G"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3wiQzgTM0eE"
-        name: "BBC World News 11 March 2026 || World News Bangla || International News Today Bangla"
-        artist: "JAMUNA"
+        videoId: "x0pAwra-D5Y"
+        name: "Aaj Ki Taaja Khabar Live: 11 March 2026 | Israel Iran War | Trump | PM Modi | LPG Petrol Price"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vREVLOVS4Qs"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 11.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "btb_qjN7D-c"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DAILY NEWS BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mLz-sC9_t9c"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "432vIUWw9lk"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ofhFYzURpSY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "wVnLn6FQDLA"
+        name: "LIVE | Gulf War Expands: US Allies Send Military Assets to West Asia | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P-6_Lc9L8bo"
-        name: "🔴LIVE : LPG Cylinder Shortage Tamil Nadu | Cooking Gas Crisis | தமிழகத்திக்கு அவசர செய்தி"
-        artist: "Sathiyam News"
+        videoId: "AoQiT_WyZCU"
+        name: "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump |  Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GCsO_F-KPgM"
-        name: "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BYYZB0RmcJQ"
-        name: "War Alert - Latest Update | Headlines 5 PM Geo News (11 Mar 2026)"
-        artist: "Geo News"
+        videoId: "fLahLqRKIwA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DAILY NEWS BANGLA"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T15:40:44.551Z"
+  exported_at: "2026-03-11T16:42:18.700Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T15:40:44.510Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-11T16:42:18.659Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
