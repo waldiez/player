@@ -1,8 +1,8 @@
 $schema: https://xperiens.waldiez.io/schema/v1/manifest
 identity:
-  wid: wdz://waldiez/player/preferences/20260301T082827.0000Z-5b05c5
+  wid: wdz://waldiez/player/preferences/20260311T165746.0000Z-84d244
   type: state
-  created: 2026-03-01T08:28:27.486Z
+  created: 2026-03-11T16:57:46.790Z
 description:
   name: Waldiez Player Preferences
   purpose: Portable preferences snapshot for the web player.
@@ -17,9 +17,9 @@ interface:
     - waldiez.player.export.waldiez.v1
     - waldiez.player.state.preferences.v1
   capability_ids:
-    waldiez.player.export.wid.v1: wdz://waldiez/player/capability/20260301T082827.0001Z-21f3b9
-    waldiez.player.export.waldiez.v1: wdz://waldiez/player/capability/20260301T082827.0002Z-112643
-    waldiez.player.state.preferences.v1: wdz://waldiez/player/capability/20260301T082827.0003Z-4dd955
+    waldiez.player.export.wid.v1: wdz://waldiez/player/capability/20260311T165746.0001Z-32a832
+    waldiez.player.export.waldiez.v1: wdz://waldiez/player/capability/20260311T165746.0002Z-044f19
+    waldiez.player.state.preferences.v1: wdz://waldiez/player/capability/20260311T165746.0003Z-777b8a
   operations:
     - name: import-preferences
       description: Apply exported preferences state to local player settings.
@@ -46,6 +46,21 @@ interface:
       type: object
       mutable: true
 state:
+  v: 2
+  mode: pop
+  volume: 0.07
+  muted: false
+  loop: false
+  shuffle: true
+  eq:
+    bass: 1
+    mid: 1
+    treble: 1
+  fx:
+    reverb: false
+    echo: false
+    fuzz: false
+    vinyl: false
   modes:
     fest:
       ytTracks:
@@ -74,7 +89,8 @@ state:
           name: Aphex Twin - Xtal (HQ)
           artist: YouTube
           chapter: null
-      savedTrackId: 4xiWvdwsCBQ
+      savedTrackId: 2tOutF8B3f8
+      savedTime: 6
       eq:
         bass: 0
         mid: 0
@@ -84,69 +100,58 @@ state:
         echo: false
         fuzz: false
         vinyl: false
-    dock:
-      ytTracks:
-        - type: youtube
-          ytType: video
-          videoId: TdrL3QxjyVw
-          name: Lana Del Rey - Summertime Sadness (Official Music Video)
-          artist: YouTube
-          chapter: null
-        - type: youtube
-          ytType: video
-          videoId: 5U0FCczeWQQ
-          name: YouTube — 5U0FCczeWQQ
-          artist: YouTube
-          chapter: null
-        - type: youtube
-          ytType: video
-          videoId: Vn8phH0k5HI
-          name: YouTube — Vn8phH0k5HI
-          artist: YouTube
-          chapter: null
-      savedTrackId: Vn8phH0k5HI
-      eq:
-        bass: 1
-        mid: 3
-        treble: -4
-      fx:
-        reverb: true
-        echo: false
-        fuzz: false
-        vinyl: true
     storm:
       ytTracks:
         - type: youtube
           ytType: video
-          videoId: HBQ7Cu8BkPw
-          name: YouTube — HBQ7Cu8BkPw
+          videoId: zJxqeRy-o4s
+          name: US-Iran ‘war’ LIVE | Khamenei is Dead | World War 3? | ಇರಾನ್-ಇಸ್ರೇಲ್ ನಡುವೆ
+            ತೀವ್ರಗೊಂಡ ಯುದ್ಧ | N18G
           artist: YouTube
           chapter: null
         - type: youtube
           ytType: video
-          videoId: dkF0kwP_DsI
-          name: YouTube — dkF0kwP_DsI
+          videoId: 2c49LWftmkg
+          name: "🔴LIVE : Iran | Trump |  காமேனி கொலையால் கலவரம் பாகிஸ்தானில் கொன்று
+            குவிக்கும் அமெரிக்க ராணுவம்"
           artist: YouTube
           chapter: null
         - type: youtube
           ytType: video
-          videoId: 2tOutF8B3f8
-          name: Aphex Twin - Xtal (HQ)
+          videoId: qmWD7WbpxYA
+          name: BREAKING LIVE | Iran Rains Ballistic Missiles On USS Abraham Lincoln |
+            World War | Khamenei | Trump
           artist: YouTube
           chapter: null
         - type: youtube
           ytType: video
-          videoId: eK6bdim2Vuc
-          name: YouTube — eK6bdim2Vuc
+          videoId: o3Ag716S-n4
+          name: Khamenei Killed Video News LIVE | Khamenei Death News LIVE | Trump
+            Declares Khamenei Dead News LIVE
           artist: YouTube
           chapter: null
         - type: youtube
           ytType: video
-          videoId: kqjeNSNuNPM
-          name: YouTube — kqjeNSNuNPM
+          videoId: l74zdRXg_Wc
+          name: Iran–US–Israel War Live | Iran Launches Another Major Missile Strike on
+            Israel | SAMAA TV
           artist: YouTube
           chapter: null
-      savedTrackId: eK6bdim2Vuc
+        - type: youtube
+          ytType: video
+          videoId: sE6USuWiEG4
+          name: 🔴LIVE:Iran Attacks Dubai | Dubai International Airport, World's
+            Busiest,Shuts Down Amid Iran Strikes
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: qyJb3Sp52w0
+          name: 🔴 LIVE || 🚨 US-Israel attack Iran || Exclusive Live Updates || ARY News
+            Live
+          artist: YouTube
+          chapter: null
+      savedTrackId: zJxqeRy-o4s
       eq:
         bass: 6
         mid: 0
@@ -176,7 +181,32 @@ state:
           name: Creep - Vintage Postmodern Jukebox Radiohead Cover ft. Haley Reinhart
           artist: YouTube
           chapter: null
-      savedTrackId: I03xFqbxUp8
+        - type: youtube
+          ytType: video
+          videoId: qt-ohn5C3kU
+          name: Thom Yorke Boiler Room London DJ set
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: p2FSjK-OS8Q
+          name: YouTube — p2FSjK-OS8Q
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: F5nzwqj3utY
+          name: Death In Vegas - Dirge (Official Video)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: dNxKy2weKxA
+          name: YouTube — dNxKy2weKxA
+          artist: YouTube
+          chapter: null
+      savedTrackId: p2FSjK-OS8Q
+      savedTime: 415
       eq:
         bass: 3
         mid: 1
@@ -196,11 +226,24 @@ state:
           chapter: null
         - type: youtube
           ytType: video
-          videoId: btPJPFnesV4
-          name: Survivor - Eye Of The Tiger (Official HD Video)
+          videoId: xs8mo2ISGKo
+          name: Film Music
           artist: YouTube
           chapter: null
-      savedTrackId: hTWKbfoikeg
+        - type: youtube
+          ytType: video
+          videoId: V9Ty3YnWN80
+          name: Godspeed You Black Emperor - East Hastings
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: YV78vobCyIo
+          name: The Prodigy - Voodoo People (Official Video)
+          artist: YouTube
+          chapter: null
+      savedTrackId: YV78vobCyIo
+      savedTime: 6
       eq:
         bass: 4
         mid: -2
@@ -225,7 +268,13 @@ state:
             Soundtrack
           artist: YouTube
           chapter: null
-      savedTrackId: nfWlot6h_JM
+        - type: youtube
+          ytType: video
+          videoId: DyDfgMOUjCI
+          name: Billie Eilish - bad guy
+          artist: YouTube
+          chapter: null
+      savedTrackId: DyDfgMOUjCI
       eq:
         bass: -2
         mid: 2
@@ -239,11 +288,11 @@ state:
       ytTracks:
         - type: youtube
           ytType: video
-          videoId: TLV4_xaYynY
-          name: The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)
+          videoId: Tth-8wA3PdY
+          name: I will survive - Gloria Gaynor
           artist: YouTube
           chapter: null
-      savedTrackId: TLV4_xaYynY
+      savedTrackId: Tth-8wA3PdY
       eq:
         bass: 1
         mid: 3
@@ -253,76 +302,137 @@ state:
         echo: false
         fuzz: false
         vinyl: true
-  v: 2
+    dock:
+      ytTracks:
+        - type: youtube
+          ytType: video
+          videoId: TdrL3QxjyVw
+          name: Lana Del Rey - Summertime Sadness (Official Music Video)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: 7j4WQ5qOBZY
+          name: Best Drum &amp; Bass Mix 2020 (Melodic/Liquid Drum and Bass)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: ElH8oBCFrG4
+          name: Amelie Lens at the Gashouder for Awakenings Festival 2020 | Online
+            weekender
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: mgtu7u9PKkI
+          name: "Charlotte de Witte ‘New Form’ III: Rave On Time"
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: oR_pxawRvng
+          name: Death in Vegas - Dirge (HQ)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
+          videoId: hbe3CQamF8k
+          name: YouTube — hbe3CQamF8k
+          artist: YouTube
+          chapter: null
+      savedTrackId: hbe3CQamF8k
+      savedTime: 200
+      eq:
+        bass: 1
+        mid: 3
+        treble: -4
+      fx:
+        reverb: true
+        echo: false
+        fuzz: false
+        vinyl: true
   modeDefaults:
     storm:
       - type: youtube
         ytType: video
-        videoId: HBQ7Cu8BkPw
-        name: YouTube — HBQ7Cu8BkPw
+        videoId: 432vIUWw9lk
+        name: 🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News
+          | Kanak News
+        artist: Kanak News
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: S4PSNtIwRE4
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March
+          2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: BD World News
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: wVnLn6FQDLA
+        name: "LIVE | Gulf War Expands: US Allies Send Military Assets to West Asia |
+          Vantage with Palki Sharma"
+        artist: Firstpost
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: vXlDfWYVIt0
+        name: 100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 11
+          March | Superfast | Modi
+        artist: ABP NEWS
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: h9b8AwFDw5A
+        name: 🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.03.2026)| 2
+          PM Headlines | ThanthiTV
+        artist: Thanthi TV
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: KYdv14RVDRk
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026
+          | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: HnO4xdlAsDA
+        name: Today Headlines - 03 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines |
+          PM Modi | TAMILNADU
+        artist: Polimer News
+        chapter: null
+    dock:
+      - type: youtube
+        ytType: video
+        videoId: TdrL3QxjyVw
+        name: Lana Del Rey - Summertime Sadness (Official Music Video)
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: dkF0kwP_DsI
-        name: YouTube — dkF0kwP_DsI
+        videoId: 7j4WQ5qOBZY
+        name: Best Drum &amp; Bass Mix 2020 (Melodic/Liquid Drum and Bass)
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: 2tOutF8B3f8
-        name: Aphex Twin - Xtal (HQ)
+        videoId: ElH8oBCFrG4
+        name: Amelie Lens at the Gashouder for Awakenings Festival 2020 | Online
+          weekender
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: eK6bdim2Vuc
-        name: YouTube — eK6bdim2Vuc
+        videoId: mgtu7u9PKkI
+        name: "Charlotte de Witte ‘New Form’ III: Rave On Time"
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: kqjeNSNuNPM
-        name: YouTube — kqjeNSNuNPM
-        artist: YouTube
-        chapter: null
-    fest:
-      - type: youtube
-        ytType: video
-        videoId: 4xiWvdwsCBQ
-        name: Pan Pan - Ανισόπεδη Ντίσκο (feat. Καλλιόπη Μητροπούλου) | Official Lyric
-          Video
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: dZNekHrcMPc
-        name: MIKRO Gefyra HD with lyrics
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: 0vfTiV0BCSw
-        name: Στέρεο Νόβα - Νέα Ζωή 705 (Official Video + HQ Audio)
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: 2tOutF8B3f8
-        name: Aphex Twin - Xtal (HQ)
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: scyTYNTjQeo
-        name: YouTube Playlist — RDscyTYNTj
-        artist: YouTube
-        chapter: null
-    disco:
-      - type: youtube
-        ytType: video
-        videoId: TLV4_xaYynY
-        name: The Jimi Hendrix Experience - All Along The Watchtower (Official Audio)
+        videoId: oR_pxawRvng
+        name: Death in Vegas - Dirge (HQ)
         artist: YouTube
         chapter: null
     rock:
@@ -334,35 +444,89 @@ state:
         chapter: null
       - type: youtube
         ytType: video
-        videoId: btPJPFnesV4
-        name: Survivor - Eye Of The Tiger (Official HD Video)
-        artist: YouTube
-        chapter: null
-    dock:
-      - type: youtube
-        ytType: video
-        videoId: TdrL3QxjyVw
-        name: Lana Del Rey - Summertime Sadness (Official Music Video)
+        videoId: xs8mo2ISGKo
+        name: Film Music
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: 5U0FCczeWQQ
-        name: YouTube — 5U0FCczeWQQ
+        videoId: V9Ty3YnWN80
+        name: Godspeed You Black Emperor - East Hastings
         artist: YouTube
         chapter: null
       - type: youtube
         ytType: video
-        videoId: Vn8phH0k5HI
-        name: YouTube — Vn8phH0k5HI
+        videoId: YV78vobCyIo
+        name: The Prodigy - Voodoo People (Official Video)
         artist: YouTube
         chapter: null
-  mode: storm
-  volume: 0.52
-  muted: false
+    journey:
+      - type: youtube
+        ytType: video
+        videoId: 7hHZnvjCbVw
+        name: Habits — Vintage 1930's Jazz (Haley Reinhart)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: I03xFqbxUp8
+        name: Thom Yorke - Last I Heard (…He Was Circling The Drain)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: m3lF2qEA2cw
+        name: Creep - Vintage Postmodern Jukebox Radiohead Cover ft. Haley Reinhart
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: mSZtwhrovvY
+        name: YouTube Playlist — PL595BBE14
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: qt-ohn5C3kU
+        name: Thom Yorke Boiler Room London DJ set
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: p2FSjK-OS8Q
+        name: YouTube — p2FSjK-OS8Q
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: F5nzwqj3utY
+        name: Death In Vegas - Dirge (Official Video)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: dNxKy2weKxA
+        name: YouTube — dNxKy2weKxA
+        artist: YouTube
+        chapter: null
+    pop:
+      - type: youtube
+        ytType: video
+        videoId: nfWlot6h_JM
+        name: Taylor Swift - Shake It Off
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: RgKAFK5djSk
+        name: Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7
+          Soundtrack
+        artist: YouTube
+        chapter: null
+  moodCustomizations: {}
   syncDefaultsFromLatest: true
 execution:
   runtime: wdz://runtimes/browser
   protocol: wdz://protocols/local-storage-v1
 lifecycle:
-  exported_at: 2026-03-01T08:28:27.486Z
+  exported_at: 2026-03-11T16:57:46.790Z
