@@ -1,8 +1,10 @@
 import 'dart:async';
-import 'dart:io';
+import 'dart:io'
+    show HttpClient, HttpClientRequest, HttpClientResponse, HttpHeaders, Platform, Process;
 
 import 'package:flutter/material.dart';
-import 'package:webview_flutter/webview_flutter.dart';
+import 'package:flutter/foundation.dart';
+import 'package:zikzak_inappwebview/zikzak_inappwebview.dart';
 
 const String _localUrl = 'http://localhost:5173';
 const String _hostedUrl = 'https://waldiez.github.io/player/';
@@ -38,55 +40,29 @@ class PlayerWebViewPage extends StatefulWidget {
 }
 
 class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
-  late final WebViewController _controller;
   bool _isLoading = true;
   String? _errorText;
   String _activeUrl = '';
   bool _triedHostedFallback = false;
+  InAppWebViewController? _controller;
 
   @override
   void initState() {
     super.initState();
-    _controller = WebViewController()
-      ..setJavaScriptMode(JavaScriptMode.unrestricted)
-      ..setNavigationDelegate(
-        NavigationDelegate(
-          onPageStarted: (_) {
-            setState(() {
-              _isLoading = true;
-              _errorText = null;
-            });
-          },
-          onPageFinished: (_) {
-            setState(() => _isLoading = false);
-          },
-          onWebResourceError: (error) {
-            final bool localFailed = _activeUrl.startsWith(_localUrl);
-            if (localFailed && !_triedHostedFallback) {
-              _triedHostedFallback = true;
-              final String hosted = _withYtApiKey(_hostedUrl);
-              setState(() {
-                _activeUrl = hosted;
-                _isLoading = true;
-                _errorText = null;
-              });
-              unawaited(_controller.loadRequest(Uri.parse(hosted)));
-              return;
-            }
-            setState(() {
-              _isLoading = false;
-              _errorText = 'Failed to load web UI: ${error.description}';
-            });
-          },
-        ),
-      );
     unawaited(_loadInitialUrl());
   }
 
   Future<void> _loadInitialUrl() async {
     final String startUrl = _withYtApiKey(await _resolveStartUrl());
-    setState(() => _activeUrl = startUrl);
-    await _controller.loadRequest(Uri.parse(startUrl));
+    setState(() {
+      _activeUrl = startUrl;
+      _isLoading = true;
+    });
+    if (_controller != null) {
+      await _controller!.loadUrl(
+        urlRequest: URLRequest(url: WebUri(startUrl)),
+      );
+    }
   }
 
   String _withYtApiKey(String baseUrl) {
@@ -108,6 +84,9 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
   }
 
   Future<bool> _canReachLocalDevServer() async {
+    if (kIsWeb) {
+      return false;
+    }
     if (!(Platform.isMacOS || Platform.isLinux || Platform.isWindows)) {
       return false;
     }
@@ -123,20 +102,107 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
     }
   }
 
+  Future<void> _openInBrowser() async {
+    if (_activeUrl.isEmpty) return;
+    if (kIsWeb || !(Platform.isLinux || Platform.isMacOS || Platform.isWindows)) {
+      return;
+    }
+    final String opener =
+        Platform.isLinux ? 'xdg-open' : Platform.isMacOS ? 'open' : 'start';
+    try {
+      if (Platform.isWindows) {
+        await Process.start('cmd', ['/c', 'start', '', _activeUrl]);
+      } else {
+        await Process.start(opener, [_activeUrl]);
+      }
+    } catch (error) {
+      setState(() {
+        _errorText = 'Failed to open external browser: $error';
+      });
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Stack(
         children: [
-          WebViewWidget(controller: _controller),
+          InAppWebView(
+            initialSettings: InAppWebViewSettings(
+              javaScriptEnabled: true,
+              transparentBackground: false,
+              mediaPlaybackRequiresUserGesture: false,
+              allowsInlineMediaPlayback: true,
+            ),
+            initialUrlRequest: _activeUrl.isEmpty
+                ? null
+                : URLRequest(
+                    url: WebUri(_activeUrl),
+                  ),
+            onWebViewCreated: (controller) {
+              _controller = controller;
+              if (_activeUrl.isNotEmpty) {
+                unawaited(
+                  controller.loadUrl(
+                    urlRequest: URLRequest(url: WebUri(_activeUrl)),
+                  ),
+                );
+              }
+            },
+            onLoadStart: (_, uri) {
+              setState(() {
+                _isLoading = true;
+                _errorText = null;
+              });
+            },
+            onLoadStop: (_, uri) async {
+              if (mounted) {
+                setState(() => _isLoading = false);
+              }
+            },
+            onReceivedError: (_, request, error) {
+              final String failingUrl = request.url.toString();
+              final bool localFailed = failingUrl.startsWith(_localUrl);
+              if (localFailed && !_triedHostedFallback) {
+                _triedHostedFallback = true;
+                final String hosted = _withYtApiKey(_hostedUrl);
+                setState(() {
+                  _activeUrl = hosted;
+                  _isLoading = true;
+                  _errorText = null;
+                });
+                unawaited(
+                  _controller?.loadUrl(
+                        urlRequest: URLRequest(url: WebUri(hosted)),
+                      ) ??
+                      Future<void>.value(),
+                );
+                return;
+              }
+              setState(() {
+                _isLoading = false;
+                _errorText = 'Failed to load web UI: ${error.description}';
+              });
+            },
+          ),
           if (_isLoading) const Center(child: CircularProgressIndicator()),
           if (!_isLoading && _errorText != null)
             Center(
               child: Padding(
                 padding: const EdgeInsets.all(20),
-                child: Text(
-                  _errorText!,
-                  textAlign: TextAlign.center,
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(
+                      _errorText!,
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: 16),
+                    FilledButton(
+                      onPressed: _activeUrl.isEmpty ? null : () => unawaited(_openInBrowser()),
+                      child: const Text('Open in browser'),
+                    ),
+                  ],
                 ),
               ),
             ),

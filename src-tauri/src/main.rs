@@ -56,6 +56,10 @@ fn main() {
             commands::media::get_media_info,
             commands::media::extract_thumbnail,
             commands::media::extract_audio_waveform,
+            commands::media::pdf_check,
+            commands::media::pdf_get_info,
+            commands::media::pdf_extract_text,
+            commands::media::pdf_render_page,
             // Project commands
             commands::project::create_project,
             commands::project::load_project,

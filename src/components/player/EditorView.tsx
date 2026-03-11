@@ -959,6 +959,19 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                                     })
                                 }
                             />
+                            <SegmentedChoiceField
+                                label="Media fit quick"
+                                value={selectedScene.mediaFit ?? "cover"}
+                                options={[
+                                    { value: "cover", label: "Cover" },
+                                    { value: "contain", label: "Contain" },
+                                ]}
+                                onChange={value =>
+                                    updateScene(selectedScene.id, {
+                                        mediaFit: value as "cover" | "contain",
+                                    })
+                                }
+                            />
                             <div className="grid grid-cols-2 gap-2">
                                 <Button
                                     variant="secondary"
@@ -1060,6 +1073,21 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                             />
                             <SelectField
                                 label="Quality"
+                                value={renderSettings.quality}
+                                options={[
+                                    { value: "medium", label: "Medium" },
+                                    { value: "high", label: "High" },
+                                    { value: "lossless", label: "Lossless" },
+                                ]}
+                                onChange={value =>
+                                    setRenderSettings(current => ({
+                                        ...current,
+                                        quality: value as EditorRenderSettings["quality"],
+                                    }))
+                                }
+                            />
+                            <SegmentedChoiceField
+                                label="Quick quality"
                                 value={renderSettings.quality}
                                 options={[
                                     { value: "medium", label: "Medium" },
@@ -1186,6 +1214,31 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                             </div>
                             <SelectField
                                 label="Transition"
+                                value={selectedClip.transitions[0]?.type ?? "none"}
+                                options={[
+                                    { value: "none", label: "None" },
+                                    { value: "fade", label: "Fade" },
+                                ]}
+                                onChange={value =>
+                                    updateClip(selectedClip.id, {
+                                        transitions:
+                                            value === "none"
+                                                ? []
+                                                : [
+                                                      {
+                                                          id: `${selectedClip.id}-transition`,
+                                                          type: value,
+                                                          duration: 0.6,
+                                                          position: "in",
+                                                          easing: "linear",
+                                                          parameters: {},
+                                                      },
+                                                  ],
+                                    })
+                                }
+                            />
+                            <SegmentedChoiceField
+                                label="Quick transition"
                                 value={selectedClip.transitions[0]?.type ?? "none"}
                                 options={[
                                     { value: "none", label: "None" },
@@ -1375,6 +1428,46 @@ function SelectField({
                 ))}
             </select>
         </label>
+    );
+}
+
+function SegmentedChoiceField({
+    label,
+    value,
+    options,
+    onChange,
+}: {
+    label: string;
+    value: string;
+    options: Array<{ value: string; label: string }>;
+    onChange: (value: string) => void;
+}) {
+    return (
+        <div className="block">
+            <span className="mb-1 block text-[10px] font-semibold uppercase tracking-wider text-slate-400">
+                {label}
+            </span>
+            <div className="grid grid-cols-2 gap-2">
+                {options.map(option => {
+                    const active = option.value === value;
+                    return (
+                        <button
+                            key={option.value}
+                            type="button"
+                            onClick={() => onChange(option.value)}
+                            className={cn(
+                                "rounded-2xl border px-3 py-2 text-sm transition",
+                                active
+                                    ? "border-teal-400/70 bg-teal-400/15 text-white"
+                                    : "border-white/10 bg-white/5 text-slate-300 hover:bg-white/10",
+                            )}
+                        >
+                            {option.label}
+                        </button>
+                    );
+                })}
+            </div>
+        </div>
     );
 }
 

@@ -225,9 +225,11 @@ async function setupTauriListeners(): Promise<{
             try {
                 const { readFile } = await import("@tauri-apps/plugin-fs");
                 const bytes = await readFile(path);
+                const sourceUrl = convertFileSrc(path);
                 const document = await importReaderDocumentFromBytes({
                     name,
                     path,
+                    sourceUrl,
                     bytes,
                 });
                 useReaderStore.getState().setCurrentDocument(document);

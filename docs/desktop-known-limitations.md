@@ -37,16 +37,19 @@ Impact:
 
 - Flutter in this repo is currently a desktop WebView shell only.
 - There is no maintained Flutter `android`, `ios`, or `web` target in this repo today.
+- Linux Flutter is currently experimental and may fall back to opening the player in the system browser rather than embedding the UI.
 
 Impact:
 
 - Flutter should not be used as evidence of mobile readiness.
+- Flutter Linux should not be used as evidence of symmetric desktop support.
 
 ### 5. Platform Coverage Is Not Yet Symmetric
 
 - macOS is historically the strongest path because the project started there.
 - Linux support is now being made more explicit.
 - Windows support exists in release targets but should be validated continuously rather than assumed.
+- Flutter Linux support is weaker than the primary desktop app path and should be treated as a fallback shell for now.
 
 Impact:
 

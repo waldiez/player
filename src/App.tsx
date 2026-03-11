@@ -4,6 +4,7 @@ import { AutomationsPanel } from "@/components/player/AutomationsPanel";
 import { BottomNav } from "@/components/player/BottomNav";
 import { DesktopDiagnosticsOverlay } from "@/components/player/DesktopDiagnosticsOverlay";
 import { EditorView } from "@/components/player/EditorView";
+import { GuidedModeCanvas } from "@/components/player/GuidedModeCanvas";
 import { MoodPlayer } from "@/components/player/MoodPlayer";
 import type { MoodPlayerHandle } from "@/components/player/MoodPlayer";
 import { PlaylistPanel } from "@/components/player/PlaylistPanel";
@@ -136,6 +137,7 @@ export function App() {
     const [isScreensaverActive, setIsScreensaverActive] = useState(false);
     const [uiSettings, setUiSettings] = useState<UiSettings>(readUiSettings);
     const containerRef = useRef<HTMLDivElement>(null);
+    const currentReaderDocument = useReaderStore(s => s.currentDocument);
     const setCurrentDocument = useReaderStore(s => s.setCurrentDocument);
     // Ref to MoodPlayer so we can forward scrubber/keyboard seeks to YouTube
     const moodPlayerRef = useRef<MoodPlayerHandle>(null);
@@ -143,6 +145,7 @@ export function App() {
     const isMoodMode = (
         ["journey", "dock", "storm", "fest", "rock", "pop", "disco"] as PlayerMode[]
     ).includes(playerMode);
+    const isGuidedMode = (["storyteller", "presentation", "learning"] as PlayerMode[]).includes(playerMode);
     const isReaderMode = playerMode === "reader";
     const isEditorMode = playerMode === "editor";
 
@@ -411,6 +414,14 @@ export function App() {
 
     const VolumeIcon =
         playback.isMuted || playback.volume === 0 ? VolumeX : playback.volume < 0.5 ? Volume1 : Volume2;
+    const speedOptions = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
+    const sleepOptions = playerModeConfig.behavior.sleepTimerOptions;
+    const modes = Object.keys(MODE_CONFIGS) as PlayerMode[];
+
+    // Check if we should show page controls
+    const showPageControls =
+        playerModeConfig.controls.showPageControls &&
+        playerModeConfig.controls.navigationStyle === "page-based";
 
     // Mood modes always use the full WideriaLayout (responsive for all screen sizes)
     if (isMoodMode) {
@@ -434,6 +445,190 @@ export function App() {
                     </div>
                 )}
             </>
+        );
+    }
+
+    if (isGuidedMode) {
+        return (
+            <div className="flex h-full flex-col bg-player-bg">
+                <DesktopDiagnosticsOverlay />
+                <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
+                    <div className="flex items-center gap-3">
+                        <CurrentModeIcon className="h-4 w-4 text-player-accent" />
+                        <div className="font-semibold">{playerModeConfig.name}</div>
+                    </div>
+                    <div className="flex items-center gap-2">
+                        <SearchBar onAdd={addMediaUrl} />
+                        <Button variant="ghost" size="icon" onClick={handleFileSelect}>
+                            <FolderOpen className="h-4 w-4" />
+                        </Button>
+                        <Button variant="ghost" size="icon" onClick={() => setShowSettings(true)}>
+                            <Settings className="h-4 w-4" />
+                        </Button>
+                    </div>
+                </header>
+                <div className="min-h-0 flex-1">
+                    <GuidedModeCanvas
+                        mode={playerMode as "storyteller" | "presentation" | "learning"}
+                        currentMediaName={currentMedia?.name}
+                        currentDocument={currentReaderDocument}
+                        onOpenFiles={handleFileSelect}
+                        onOpenReader={() => {
+                            if (currentReaderDocument) {
+                                setPlayerMode("reader");
+                                return;
+                            }
+                            handleFileSelect();
+                        }}
+                        onOpenSettings={() => setShowSettings(true)}
+                    >
+                        <div className="flex h-full flex-col">
+                            <div className="relative min-h-0 flex-1">
+                                <VideoPlayer className="h-full w-full" />
+                                {!playback.isPlaying && currentMedia && (
+                                    <button
+                                        className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-player-accent/80 p-6 transition-all hover:scale-110 hover:bg-player-accent"
+                                        onClick={togglePlay}
+                                    >
+                                        <Play className="h-12 w-12 text-white" fill="white" />
+                                    </button>
+                                )}
+                            </div>
+                            <div className="border-t border-player-border bg-player-surface p-4">
+                                <div className="mb-4">
+                                    <Slider
+                                        value={[playback.currentTime]}
+                                        min={0}
+                                        max={playback.duration || 1}
+                                        step={0.1}
+                                        onValueChange={handleSeek}
+                                        className="w-full"
+                                        disabled={!currentMedia}
+                                    />
+                                    <div className="mt-1 flex justify-between text-xs text-player-text-muted">
+                                        <span>{formatTime(playback.currentTime)}</span>
+                                        <span>{formatTime(playback.duration)}</span>
+                                    </div>
+                                </div>
+                                <div className="flex items-center justify-between gap-4">
+                                    <div className="flex items-center gap-1">
+                                        <Button
+                                            variant="ghost"
+                                            size="icon"
+                                            onClick={() => handleSkip(-10)}
+                                            disabled={!currentMedia}
+                                        >
+                                            <SkipBack className="h-4 w-4" />
+                                        </Button>
+                                        <Button
+                                            variant="ghost"
+                                            size="icon"
+                                            onClick={togglePlay}
+                                            disabled={!currentMedia}
+                                        >
+                                            {playback.isPlaying ? (
+                                                <Pause className="h-6 w-6" />
+                                            ) : (
+                                                <Play className="h-6 w-6" />
+                                            )}
+                                        </Button>
+                                        <Button
+                                            variant="ghost"
+                                            size="icon"
+                                            onClick={() => handleSkip(10)}
+                                            disabled={!currentMedia}
+                                        >
+                                            <SkipForward className="h-4 w-4" />
+                                        </Button>
+                                        {playerModeConfig.controls.showPageControls && (
+                                            <>
+                                                <div className="mx-2 h-6 w-px bg-player-border" />
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={prevPage}
+                                                    disabled={currentPage <= 1}
+                                                >
+                                                    <ChevronLeft className="h-5 w-5" />
+                                                </Button>
+                                                <div className="text-sm text-player-text-muted">
+                                                    Page {currentPage}/{totalPages}
+                                                </div>
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={nextPage}
+                                                    disabled={currentPage >= totalPages}
+                                                >
+                                                    <ChevronRight className="h-5 w-5" />
+                                                </Button>
+                                            </>
+                                        )}
+                                    </div>
+                                    <div className="flex items-center gap-2">
+                                        <Button variant="ghost" size="icon" onClick={toggleMute}>
+                                            <VolumeIcon className="h-4 w-4" />
+                                        </Button>
+                                        <Slider
+                                            value={[playback.isMuted ? 0 : playback.volume]}
+                                            min={0}
+                                            max={1}
+                                            step={0.01}
+                                            onValueChange={handleVolumeChange}
+                                            className="w-24"
+                                        />
+                                        {playerModeConfig.controls.sleepTimer && (
+                                            <Button
+                                                variant={sleepTimerMinutes ? "default" : "ghost"}
+                                                size="icon"
+                                                onClick={() =>
+                                                    setSleepTimer(
+                                                        sleepTimerMinutes ? null : (sleepOptions[0] ?? 15),
+                                                    )
+                                                }
+                                            >
+                                                <Moon className="h-4 w-4" />
+                                            </Button>
+                                        )}
+                                        {playerModeConfig.controls.abLoop && (
+                                            <>
+                                                <Button variant="ghost" size="sm" onClick={setLoopPointA}>
+                                                    A
+                                                </Button>
+                                                <Button
+                                                    variant="ghost"
+                                                    size="sm"
+                                                    onClick={setLoopPointB}
+                                                    disabled={abLoop.a === null}
+                                                >
+                                                    B
+                                                </Button>
+                                                {(abLoop.a !== null || abLoop.b !== null) && (
+                                                    <Button variant="ghost" size="icon" onClick={clearAbLoop}>
+                                                        <Repeat1 className="h-4 w-4" />
+                                                    </Button>
+                                                )}
+                                            </>
+                                        )}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </GuidedModeCanvas>
+                </div>
+                {showSettings && (
+                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                        <SettingsPanel
+                            onClose={() => setShowSettings(false)}
+                            onUiSettingsChange={next => {
+                                setUiSettings(next);
+                                writeUiSettings(next);
+                            }}
+                            uiSettings={uiSettings}
+                        />
+                    </div>
+                )}
+            </div>
         );
     }
 
@@ -478,15 +673,6 @@ export function App() {
             </>
         );
     }
-
-    const speedOptions = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
-    const sleepOptions = playerModeConfig.behavior.sleepTimerOptions;
-    const modes = Object.keys(MODE_CONFIGS) as PlayerMode[];
-
-    // Check if we should show page controls
-    const showPageControls =
-        playerModeConfig.controls.showPageControls &&
-        playerModeConfig.controls.navigationStyle === "page-based";
 
     return (
         <div
@@ -639,6 +825,23 @@ export function App() {
                                 className="h-full w-full"
                                 pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
                             />
+                        ) : isGuidedMode ? (
+                            <GuidedModeCanvas
+                                mode={playerMode as "storyteller" | "presentation" | "learning"}
+                                currentMediaName={currentMedia?.name}
+                                currentDocument={currentReaderDocument}
+                                onOpenFiles={handleFileSelect}
+                                onOpenReader={() => {
+                                    if (currentReaderDocument) {
+                                        setPlayerMode("reader");
+                                        return;
+                                    }
+                                    handleFileSelect();
+                                }}
+                                onOpenSettings={() => setShowSettings(true)}
+                            >
+                                <VideoPlayer className="h-full w-full" />
+                            </GuidedModeCanvas>
                         ) : (
                             <VideoPlayer className="h-full w-full" />
                         )}

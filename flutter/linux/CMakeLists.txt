@@ -52,6 +52,12 @@ add_subdirectory(${FLUTTER_MANAGED_DIR})
 
 # System-level dependencies.
 find_package(PkgConfig REQUIRED)
+set(LOCAL_PKG_CONFIG_DIR "${CMAKE_CURRENT_SOURCE_DIR}/pkgconfig")
+if(DEFINED ENV{PKG_CONFIG_PATH} AND NOT "$ENV{PKG_CONFIG_PATH}" STREQUAL "")
+  set(ENV{PKG_CONFIG_PATH} "${LOCAL_PKG_CONFIG_DIR}:$ENV{PKG_CONFIG_PATH}")
+else()
+  set(ENV{PKG_CONFIG_PATH} "${LOCAL_PKG_CONFIG_DIR}")
+endif()
 pkg_check_modules(GTK REQUIRED IMPORTED_TARGET gtk+-3.0)
 
 # Application build; see runner/CMakeLists.txt.

@@ -123,6 +123,11 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
+    description: flutter
+    source: sdk
+    version: "0.0.0"
   image:
     dependency: transitive
     description:
@@ -296,38 +301,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.2"
-  webview_flutter:
-    dependency: "direct main"
-    description:
-      name: webview_flutter
-      sha256: a3da219916aba44947d3a5478b1927876a09781174b5a2b67fa5be0555154bf9
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.13.1"
-  webview_flutter_android:
+  web:
     dependency: transitive
     description:
-      name: webview_flutter_android
-      sha256: "2a03df01df2fd30b075d1e7f24c28aee593f2e5d5ac4c3c4283c5eda63717b24"
+      name: web
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
       url: "https://pub.dev"
     source: hosted
-    version: "4.10.13"
-  webview_flutter_platform_interface:
+    version: "1.1.1"
+  webview_windows:
     dependency: transitive
     description:
-      name: webview_flutter_platform_interface
-      sha256: "63d26ee3aca7256a83ccb576a50272edd7cfc80573a4305caa98985feb493ee0"
+      name: webview_windows
+      sha256: "47fcad5875a45db29dbb5c9e6709bf5c88dcc429049872701343f91ed7255730"
       url: "https://pub.dev"
     source: hosted
-    version: "2.14.0"
-  webview_flutter_wkwebview:
-    dependency: transitive
-    description:
-      name: webview_flutter_wkwebview
-      sha256: fc0af89d403e1c053f03d023d97550412fa79f35332e2939514c82e6fe633198
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.23.8"
+    version: "0.4.0"
   xml:
     dependency: transitive
     description:
@@ -344,6 +333,77 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.3"
+  zikzak_inappwebview:
+    dependency: "direct main"
+    description:
+      name: zikzak_inappwebview
+      sha256: "2e1f41cd3461bf5a9e4e838448f2bcc745052790b990ece5e9d9236fd3f20d8b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_android:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_android
+      sha256: fcb16f0c3c7c5bf038faa166f6f8e54a4c2e68ca142c98ce113af802399c68b0
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_internal_annotations:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_internal_annotations
+      sha256: affe4166f3b249fe34968b74e2bc65d07d44a3c9e599cf588bfa43cafaf72977
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_ios:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_ios
+      sha256: "381f73c33429762ebc8cc4f54df86bd9ff65011aaa96d318af643530359fd435"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_linux:
+    dependency: "direct overridden"
+    description:
+      path: "third_party/zikzak_inappwebview_linux"
+      relative: true
+    source: path
+    version: "4.0.9"
+  zikzak_inappwebview_macos:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_macos
+      sha256: "62dfffb0c4f90aa154479b799acf686108e49c379a804b78b3b6e702e669830e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_platform_interface:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_platform_interface
+      sha256: e37e639fa4cb8757115d4e3da1c56e79ef182185d8c48c607dfbde0edacf1fbc
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_web:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_web
+      sha256: d5bedda7ebee8cfad3ee491833023c30d5bd3b77a8612be316ea728c54517ac4
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
+  zikzak_inappwebview_windows:
+    dependency: transitive
+    description:
+      name: zikzak_inappwebview_windows
+      sha256: "12a8e49c11016336a8aa882abcf8e0817e202d985e32b2a0b633b3225da06304"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.9"
 sdks:
   dart: ">=3.11.0 <4.0.0"
-  flutter: ">=3.35.0"
+  flutter: ">=3.29.0"

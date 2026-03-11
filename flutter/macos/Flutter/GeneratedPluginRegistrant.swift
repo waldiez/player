@@ -5,8 +5,8 @@
 import FlutterMacOS
 import Foundation
 
-import webview_flutter_wkwebview
+import zikzak_inappwebview_macos
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
-  WebViewFlutterPlugin.register(with: registry.registrar(forPlugin: "WebViewFlutterPlugin"))
+  InAppWebViewFlutterPlugin.register(with: registry.registrar(forPlugin: "InAppWebViewFlutterPlugin"))
 }

@@ -26,6 +26,7 @@ export interface ReaderDocument {
     title: string;
     sourceName: string;
     sourcePath?: string;
+    sourceUrl?: string;
     sourceType: ReaderSourceType;
     mimeType?: string;
     plainText: string;

@@ -3,6 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  webview_windows
+  zikzak_inappwebview_windows
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

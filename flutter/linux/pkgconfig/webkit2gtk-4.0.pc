@@ -1,0 +1,9 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: webkit2gtk-4.0
+Description: Compatibility shim mapping webkit2gtk-4.0 to installed webkit2gtk-4.1
+Version: 2.50.4
+Requires: webkit2gtk-4.1

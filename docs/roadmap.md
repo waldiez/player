@@ -15,6 +15,7 @@ Scope rule:
 - Primary product: desktop app
 - Secondary product: web player / PWA
 - Flutter: desktop shell only for now
+- Flutter Linux: experimental shell, not a primary release target today
 - Not in current scope: standalone Flutter mobile app, standalone Flutter web app
 
 ## Release Position
@@ -162,6 +163,7 @@ Acceptance criteria:
 - Desktop remains the primary supported runtime.
 - Web/PWA and Flutter shell roles are documented clearly.
 - Future mobile work, if any, is treated as a new product decision, not implied support.
+- Linux Flutter remains explicitly secondary until it has real embedded-webview support.
 
 Acceptance criteria:
 

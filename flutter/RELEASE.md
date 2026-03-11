@@ -10,6 +10,12 @@ This folder contains the Flutter desktop shell for Waldiez Player.
 - `windows/` Windows runner metadata
 - no `android/`, `ios/`, or `web/` Flutter targets are maintained here currently
 
+Current support note:
+
+- macOS remains the strongest Flutter shell path.
+- Linux Flutter is currently an experimental wrapper and may fall back to launching the web UI in the system browser instead of embedding it.
+- Do not treat Flutter Linux as equivalent to the primary desktop app release path.
+
 ## Local Dev
 
 From repository root:
@@ -46,6 +52,11 @@ Linux:
 ```bash
 make flutter-build-linux
 ```
+
+Important:
+
+- A successful Linux Flutter build does not currently imply full embedded-webview runtime support.
+- Release decisions should continue to be based on the main desktop app path first.
 
 Local web URL + key:
 

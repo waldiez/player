@@ -1,10 +1,11 @@
 # Waldiez Player (Flutter)
 
-Flutter desktop shell that renders the web player in an embedded WebView.
+Flutter desktop shell that hosts the web player.
 
 Current target status:
 
 - Desktop: `macos`, `linux`, `windows` runner folders exist
+- Linux Flutter: currently experimental and falls back to opening the web UI in the system browser when embedded webview support is unavailable
 - Mobile: no Flutter `android/` or `ios/` app targets in this repo yet
 - Flutter web: no separate `flutter/web/` target; the main web app lives at the repo root (`bun run dev` / `bun run build`)
 
@@ -17,6 +18,12 @@ make flutter-run
 # Linux:
 make flutter-run-linux
 ```
+
+Linux note:
+
+- The Linux Flutter shell is not currently a full embedded desktop-webview target.
+- If the embedded webview backend is unavailable, the app shows the resolved player URL and opens it in the default browser.
+- Treat this as a development fallback, not production-grade Linux desktop packaging.
 
 ## Build
 

@@ -2,10 +2,11 @@ import { Button } from "@/components/ui";
 import { reportDiagnostic } from "@/lib/diagnostics";
 import { importReaderDocumentFromBytes, importReaderDocumentFromFile } from "@/lib/readerImport";
 import { getRuntimeContext } from "@/lib/runtime";
+import { pdfCheck, pdfExtractText, pdfGetInfo, pdfRenderPage } from "@/lib/tauriPdf";
 import { cn } from "@/lib/utils";
 import { useEditorStore, usePlayerStore, useReaderStore } from "@/stores";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import {
     BookOpenText,
@@ -44,9 +45,71 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
     const [activeTab, setActiveTab] = useState<ReaderTab>("read");
     const [selectedSectionId, setSelectedSectionId] = useState<string | null>(null);
     const [loading, setLoading] = useState(false);
+    const [pdfAvailable, setPdfAvailable] = useState(false);
+    const [pdfPageCount, setPdfPageCount] = useState(1);
+    const [pdfPage, setPdfPage] = useState(1);
+    const [pdfPreviewUrl, setPdfPreviewUrl] = useState<string | null>(null);
+    const [pdfPageText, setPdfPageText] = useState<string>("");
+    const [pdfLoading, setPdfLoading] = useState(false);
 
     const selectedSection =
         document?.sections.find(section => section.id === selectedSectionId) ?? document?.sections[0] ?? null;
+
+    useEffect(() => {
+        if (!runtime.isTauri) return;
+        void pdfCheck()
+            .then(setPdfAvailable)
+            .catch(() => setPdfAvailable(false));
+    }, [runtime.isTauri]);
+
+    useEffect(() => {
+        setPdfPage(1);
+        setPdfPreviewUrl(null);
+        setPdfPageText("");
+        if (!document || document.sourceType !== "pdf" || !document.sourcePath || !pdfAvailable) return;
+        void pdfGetInfo(document.sourcePath)
+            .then(info => setPdfPageCount(Math.max(1, info.pageCount)))
+            .catch(error =>
+                reportDiagnostic({
+                    level: "warn",
+                    area: "reader",
+                    message: "Failed to inspect PDF page metadata.",
+                    detail: error,
+                }),
+            );
+    }, [document, pdfAvailable]);
+
+    useEffect(() => {
+        if (!document || document.sourceType !== "pdf" || !document.sourcePath || !pdfAvailable) return;
+        let cancelled = false;
+        setPdfLoading(true);
+        void Promise.all([
+            pdfRenderPage(document.sourcePath, pdfPage, 1400),
+            pdfExtractText(document.sourcePath, pdfPage),
+        ])
+            .then(([previewUrl, pageText]) => {
+                if (cancelled) return;
+                setPdfPreviewUrl(previewUrl);
+                setPdfPageText(pageText.trim());
+            })
+            .catch(error => {
+                if (cancelled) return;
+                reportDiagnostic({
+                    level: "warn",
+                    area: "reader",
+                    message: "Desktop PDF rendering fell back to extracted text.",
+                    detail: error,
+                });
+                setPdfPreviewUrl(null);
+                setPdfPageText("");
+            })
+            .finally(() => {
+                if (!cancelled) setPdfLoading(false);
+            });
+        return () => {
+            cancelled = true;
+        };
+    }, [document, pdfAvailable, pdfPage]);
 
     async function handleOpenDocument() {
         if (!runtime.isTauri) {
@@ -56,9 +119,10 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
 
         setLoading(true);
         try {
-            const [{ open }, { readFile }] = await Promise.all([
+            const [{ open }, { readFile }, { convertFileSrc }] = await Promise.all([
                 import("@tauri-apps/plugin-dialog"),
                 import("@tauri-apps/plugin-fs"),
+                import("@tauri-apps/api/core"),
             ]);
             const chosen = await open({ multiple: false });
             if (!chosen || typeof chosen !== "string") return;
@@ -67,6 +131,7 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
             const nextDocument = await importReaderDocumentFromBytes({
                 name,
                 path: chosen,
+                sourceUrl: convertFileSrc(chosen),
                 bytes,
             });
             setCurrentDocument(nextDocument);
@@ -283,14 +348,87 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                     </div>
 
                     {activeTab === "read" && (
-                        <article className="prose prose-invert max-w-none">
-                            <h3 className="mb-3 text-xl font-semibold text-player-text">
-                                {selectedSection?.title ?? document.title}
-                            </h3>
-                            <pre className="whitespace-pre-wrap rounded-2xl border border-player-border bg-player-surface p-5 text-sm leading-7 text-player-text">
-                                {(selectedSection?.content ?? document.plainText) ||
-                                    "No readable text extracted."}
-                            </pre>
+                        <article className="space-y-4">
+                            {document.sourceType === "pdf" && (document.sourceUrl || pdfPreviewUrl) && (
+                                <div className="overflow-hidden rounded-3xl border border-player-border bg-player-surface">
+                                    <div className="flex items-center justify-between border-b border-player-border px-4 py-3">
+                                        <div>
+                                            <h3 className="text-base font-semibold text-player-text">
+                                                PDF preview
+                                            </h3>
+                                            <p className="text-xs text-player-text-muted">
+                                                {pdfAvailable
+                                                    ? `Rendered page ${pdfPage} of ${pdfPageCount} with desktop PDF support.`
+                                                    : "Native preview when available, extracted text below."}
+                                            </p>
+                                        </div>
+                                        <div className="flex items-center gap-2">
+                                            {pdfAvailable && (
+                                                <>
+                                                    <Button
+                                                        variant="ghost"
+                                                        onClick={() =>
+                                                            setPdfPage(current => Math.max(1, current - 1))
+                                                        }
+                                                        disabled={pdfLoading || pdfPage <= 1}
+                                                    >
+                                                        Prev page
+                                                    </Button>
+                                                    <div className="rounded-full border border-player-border px-3 py-1 text-xs text-player-text-muted">
+                                                        {pdfPage} / {pdfPageCount}
+                                                    </div>
+                                                    <Button
+                                                        variant="ghost"
+                                                        onClick={() =>
+                                                            setPdfPage(current =>
+                                                                Math.min(pdfPageCount, current + 1),
+                                                            )
+                                                        }
+                                                        disabled={pdfLoading || pdfPage >= pdfPageCount}
+                                                    >
+                                                        Next page
+                                                    </Button>
+                                                </>
+                                            )}
+                                            {document.sourceUrl && (
+                                                <a
+                                                    href={document.sourceUrl}
+                                                    target="_blank"
+                                                    rel="noreferrer"
+                                                    className="text-sm text-player-accent hover:underline"
+                                                >
+                                                    Open separately
+                                                </a>
+                                            )}
+                                        </div>
+                                    </div>
+                                    {pdfPreviewUrl ? (
+                                        <div className="max-h-[42rem] overflow-auto bg-[#d7dbe2] p-6">
+                                            <img
+                                                src={pdfPreviewUrl}
+                                                alt={`${document.title} page ${pdfPage}`}
+                                                className="mx-auto w-full max-w-5xl rounded-2xl bg-white shadow-2xl"
+                                            />
+                                        </div>
+                                    ) : document.sourceUrl ? (
+                                        <iframe
+                                            title={document.title}
+                                            src={document.sourceUrl}
+                                            className="h-[28rem] w-full bg-white"
+                                        />
+                                    ) : null}
+                                </div>
+                            )}
+                            <div className="prose prose-invert max-w-none">
+                                <h3 className="mb-3 text-xl font-semibold text-player-text">
+                                    {selectedSection?.title ?? document.title}
+                                </h3>
+                                <pre className="whitespace-pre-wrap rounded-2xl border border-player-border bg-player-surface p-5 text-sm leading-7 text-player-text">
+                                    {(document.sourceType === "pdf" && pdfPageText) ||
+                                        (selectedSection?.content ?? document.plainText) ||
+                                        "No readable text extracted."}
+                                </pre>
+                            </div>
                         </article>
                     )}
 

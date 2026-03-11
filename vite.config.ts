@@ -6,6 +6,8 @@ import { defineConfig } from "vite";
 import { VitePWA } from "vite-plugin-pwa";
 
 const isTauriEnv = !!process.env.TAURI_ENV_TARGET_TRIPLE;
+const prefersPolling = process.env.VITE_USE_POLLING === "1" || (isTauriEnv && process.platform === "linux");
+const watchInterval = Number(process.env.VITE_WATCH_INTERVAL ?? "300");
 const DEV_INVIDIOUS_INSTANCES = [
     "https://inv.nadeko.net",
     "https://invidious.perennialte.ch",
@@ -164,6 +166,8 @@ export default defineConfig({
         strictPort: true,
         watch: {
             ignored: ["**/src-tauri/**"],
+            usePolling: prefersPolling,
+            interval: Number.isFinite(watchInterval) && watchInterval > 0 ? watchInterval : 300,
         },
     },
     build: {

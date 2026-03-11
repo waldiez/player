@@ -224,6 +224,7 @@ function isStructuredSource(type: ReaderSourceType): boolean {
 function buildReaderDocument(input: {
     sourceName: string;
     sourcePath?: string;
+    sourceUrl?: string;
     sourceType: ReaderSourceType;
     plainText: string;
     rawText: string;
@@ -237,6 +238,7 @@ function buildReaderDocument(input: {
         title: input.sourceName,
         sourceName: input.sourceName,
         sourcePath: input.sourcePath,
+        sourceUrl: input.sourceUrl,
         sourceType: input.sourceType,
         mimeType: input.mimeType,
         plainText: input.plainText,
@@ -329,6 +331,7 @@ function buildDocumentFromStructured(
     parsed: Record<string, unknown>,
     options?: {
         sourcePath?: string;
+        sourceUrl?: string;
         mimeType?: string;
         diagnostics?: ReaderDiagnostic[];
         metadata?: Record<string, unknown>;
@@ -339,6 +342,7 @@ function buildDocumentFromStructured(
     return buildReaderDocument({
         sourceName,
         sourcePath: options?.sourcePath,
+        sourceUrl: options?.sourceUrl,
         sourceType,
         rawText,
         plainText,
@@ -371,6 +375,7 @@ export async function importReaderDocumentFromBytes(input: {
     name: string;
     bytes: Uint8Array;
     path?: string;
+    sourceUrl?: string;
     mimeType?: string;
 }): Promise<ReaderDocument> {
     const sourceType = inferSourceType(input.name);
@@ -384,6 +389,7 @@ export async function importReaderDocumentFromBytes(input: {
             return buildReaderDocument({
                 sourceName: input.name,
                 sourcePath: input.path,
+                sourceUrl: input.sourceUrl,
                 sourceType,
                 rawText: "",
                 plainText: "",
@@ -397,6 +403,7 @@ export async function importReaderDocumentFromBytes(input: {
         const parsed = parseMaybeManifest(YAML.parse(manifestText) as unknown) ?? {};
         const document = buildDocumentFromStructured(input.name, sourceType, manifestText, parsed, {
             sourcePath: input.path,
+            sourceUrl: input.sourceUrl,
             mimeType: input.mimeType,
             diagnostics,
             metadata: {
@@ -414,6 +421,7 @@ export async function importReaderDocumentFromBytes(input: {
         return buildReaderDocument({
             sourceName: basename(input.name),
             sourcePath: input.path,
+            sourceUrl: input.sourceUrl,
             sourceType,
             rawText: text,
             plainText: text,
@@ -434,6 +442,7 @@ export async function importReaderDocumentFromBytes(input: {
             if (parsed) {
                 return buildDocumentFromStructured(basename(input.name), sourceType, rawText, parsed, {
                     sourcePath: input.path,
+                    sourceUrl: input.sourceUrl,
                     mimeType: input.mimeType,
                 });
             }
@@ -456,6 +465,7 @@ export async function importReaderDocumentFromBytes(input: {
     return buildReaderDocument({
         sourceName: basename(input.name),
         sourcePath: input.path,
+        sourceUrl: input.sourceUrl,
         sourceType,
         rawText,
         plainText: rawText,
@@ -473,6 +483,7 @@ export async function importReaderDocumentFromFile(file: File): Promise<ReaderDo
     return importReaderDocumentFromBytes({
         name: file.name,
         bytes: new Uint8Array(await file.arrayBuffer()),
+        sourceUrl: URL.createObjectURL(file),
         mimeType: file.type || undefined,
     });
 }
