@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T07:38:34.941Z",
+    "generatedAt": "2026-03-11T08:31:53.133Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vcDE0zntshc",
-            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
-            "artist": "Times Now World"
+            "videoId": "uvn3sxdngRg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "dU5Gt9xICdY",
-            "name": "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | Tel Aviv Haifa Under Bombing",
-            "artist": "Dunya News"
+            "videoId": "jArSVtoeL0g",
+            "name": "🔴LIVE: யாருமே எதிர்பாரா நேரத்தில் என்ட்ரி கொடுத்த வட கொரியா.. அதிரும் உலக நாடுகள் | North Korea",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "8lkCiq_OJQI",
-            "name": "ABC News Live Prime: Mar. 10, 2026",
-            "artist": "ABC News"
+            "videoId": "euUqILCp_CI",
+            "name": "Iran Israel War News LIVE | Middle East War Full Coverage LIVE | US Strike Iran | Donald Trump LIVE",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "dOK_qLa5QII",
-            "name": "US Iran LIVE: US Warns Iran of \"Most Intense Strikes\" of the War | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PCCEKpLw1JE",
-            "name": "World News Live | Iran Israel War 11 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nriLIifrXcU",
-            "name": "LIVE: U.S. Warns Iran of \"Most Intense Strikes\" on 11th Day of War | Vantage with Palki Sharma |N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "53vNmtAVlKA",
-            "name": "Bihar New CM Update LIVE: बिहार के नए मुख्यमंत्री पर मुहर? | Breaking Chirag Paswan News",
-            "artist": "NDTV India"
+            "videoId": "4yJ1CrHa-54",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Ekota Express"
         }
     ],
     "sourceFilters": {
