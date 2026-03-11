@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T11:27:41.802Z",
+    "generatedAt": "2026-03-11T12:40:49.126Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vXlDfWYVIt0",
-            "name": "100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 11 March | Superfast | Modi",
-            "artist": "ABP NEWS"
+            "videoId": "fLahLqRKIwA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DAILY NEWS BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "h9b8AwFDw5A",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "7yAdr4ApVng",
+            "name": "Iran-Israel War LIVE: Iran Fires Missiles at Israel After US-Israel Attacks | Netanyahu | Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "KYdv14RVDRk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "eSM0tg_qr6A",
+            "name": "Israel claims to target new Supreme Leader Mojtaba Khamenei? | 3PM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "tmN1gIsPKx4",
-            "name": "Israel Iran War Update : धधकता अरब 5 देशों से LIVE कवरेज | Netanyahu | Khamenei | Trump | US",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "XC6TfROmizM",
+            "name": "Iran Strikes Israel LIVE: Iran’s Brutal Missile Barrage Rocks Tel Aviv,  West Asia War Escalates",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "4RF2qNhrXU8",
-            "name": "🔴LIVE :Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (11.03.2026)| 4 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "gBsKKwdp_m0",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 11 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
