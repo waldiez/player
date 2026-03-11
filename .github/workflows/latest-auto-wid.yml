@@ -77,7 +77,6 @@ jobs:
             --feed "$WID_FEED" \
             --out static/cdn/repo/latest-auto.wid \
             --verify-news \
-            --strict-news \
             --max-age-hours 72 \
             --min-keyword-hits 1 \
             $EXTRA_ARGS

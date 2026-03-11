@@ -325,6 +325,7 @@ export function App() {
         const store = usePlayerStore.getState();
         store.addToLibrary(entry);
         store.setCurrentMedia(entry);
+        store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
     }, []);
 
     const addMedia = useCallback((file: File) => {
@@ -341,6 +342,7 @@ export function App() {
         };
         store.addToLibrary(entry);
         store.setCurrentMedia(entry);
+        store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
     }, []);
 
     const handleFileDrop = useCallback(
@@ -376,6 +378,7 @@ export function App() {
                 <WideriaLayout
                     mode={playerMode as MoodMode}
                     onAutomationsOpen={() => setShowAutomations(true)}
+                    pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
                 />
                 {showAutomations && (
                     <div className="fixed right-0 top-0 z-50 h-full w-80 max-w-[85vw] animate-slide-right border-l border-player-border bg-player-surface shadow-2xl">
@@ -549,6 +552,7 @@ export function App() {
                                 ref={moodPlayerRef}
                                 mode={playerMode as MoodMode}
                                 className="h-full w-full"
+                                pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
                             />
                         ) : (
                             <VideoPlayer className="h-full w-full" />

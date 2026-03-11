@@ -179,7 +179,15 @@ export const usePlayerStore = create<PlayerStore>()(
                 // Media
                 currentMedia: null,
                 mediaLibrary: [],
-                setCurrentMedia: media => set({ currentMedia: media }),
+                setCurrentMedia: media =>
+                    set(state => ({
+                        currentMedia: media,
+                        playback: {
+                            ...state.playback,
+                            currentTime: 0,
+                            duration: 0,
+                        },
+                    })),
                 addToLibrary: media =>
                     set(state => ({
                         mediaLibrary: [...state.mediaLibrary, media],

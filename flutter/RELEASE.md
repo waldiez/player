@@ -8,6 +8,7 @@ This folder contains the Flutter desktop shell for Waldiez Player.
 - `macos/` macOS runner, entitlements, plist, signing target
 - `linux/` Linux runner metadata
 - `windows/` Windows runner metadata
+- no `android/`, `ios/`, or `web/` Flutter targets are maintained here currently
 
 ## Local Dev
 
@@ -32,18 +33,25 @@ Use release mode to avoid Flutter debug keyboard assertions:
 YT_API_KEY=YOUR_KEY make flutter-run-release-local-key
 ```
 
-## macOS Build
+## Desktop Builds
 
-Standard build:
+macOS:
 
 ```bash
 make flutter-build-macos
+```
+
+Linux:
+
+```bash
+make flutter-build-linux
 ```
 
 Local web URL + key:
 
 ```bash
 YT_API_KEY=YOUR_KEY make flutter-build-macos-local-key
+YT_API_KEY=YOUR_KEY make flutter-build-linux-local-key
 ```
 
 ## Icons

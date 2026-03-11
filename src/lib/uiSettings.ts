@@ -11,6 +11,8 @@ export interface UiSettings {
     screensaverEnabled: boolean;
     screensaverTimeoutMinutes: 5 | 10 | 15 | 30;
     screensaverStyle: ScreensaverStyle;
+    /** When true, pause playback while the tab/window is backgrounded. */
+    pausePlaybackWhenHidden: boolean;
     /** Optional user-provided YouTube Data API key used for client-side search fallback. */
     youtubeApiKey: string;
     /** Optional TMDB API key for enriching local video files with movie/TV metadata. */
@@ -25,6 +27,7 @@ const DEFAULTS: UiSettings = {
     screensaverEnabled: false,
     screensaverTimeoutMinutes: 10,
     screensaverStyle: "animated",
+    pausePlaybackWhenHidden: false,
     youtubeApiKey: "",
     tmdbApiKey: "",
     weatherMoodEnabled: false,

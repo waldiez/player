@@ -100,7 +100,7 @@
         "wid:feed:latest": "bun scripts/build-latest-news-feed.ts --out static/cdn/repo/latest-feed.generated.json --seed static/cdn/repo/latest-feed.sample.json",
         "wid:latest": "bun scripts/generate-latest-wid.ts",
         "wid:latest:publish": "mkdir -p public/cdn/repo && cp static/cdn/repo/latest-auto.wid public/cdn/repo/latest-auto.wid",
-        "wid:latest:pipeline": "bun run wid:feed:latest && bun run wid:latest --feed static/cdn/repo/latest-feed.generated.json --out static/cdn/repo/latest-auto.wid --verify-news --strict-news --max-age-hours 72 --min-keyword-hits 1 && bun run wid:latest:publish",
+        "wid:latest:pipeline": "bun run wid:feed:latest && bun run wid:latest --feed static/cdn/repo/latest-feed.generated.json --out static/cdn/repo/latest-auto.wid --verify-news --max-age-hours 72 --min-keyword-hits 1 && bun run wid:latest:publish",
         "wid:latest:report": "bun scripts/generate-latest-wid.ts --feed static/cdn/repo/latest-feed.generated.json --out static/cdn/repo/latest-auto.wid --verify-news --dry-run --dry-run-report",
         "wid:latest:strict": "bun scripts/generate-latest-wid.ts --feed static/cdn/repo/latest-feed.sample.json --out static/cdn/repo/latest-auto.wid --verify-news --strict-news --max-age-hours 72 --min-keyword-hits 1",
         "wid:latest:sample": "bun scripts/generate-latest-wid.ts --feed static/cdn/repo/latest-feed.sample.json --out static/cdn/repo/latest-auto.wid",

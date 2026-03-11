@@ -1,10 +1,5 @@
 /**
- * SettingsPanel — right-side drawer for configuring beacon endpoints.
- *
- * Shows all built-in STREAM_TARGETS plus any user-defined custom targets.
- * The user selects which one is "active" for the state beacon.  Custom
- * targets can be added (name, protocol, URL, MQTT pub/sub topics) and
- * deleted.  Changes are persisted to localStorage via beaconSettings.
+ * SettingsPanel — app settings, preset import/export, and beacon endpoint selection.
  */
 import {
     type BeaconSettings,
@@ -12,19 +7,44 @@ import {
     readBeaconSettings,
     writeBeaconSettings,
 } from "@/lib/beaconSettings";
-import { getSyncDefaultsFromLatest, setSyncDefaultsFromLatest } from "@/lib/moodDefaults";
+import {
+    exportPrefsAsWaldiez,
+    exportPrefsAsWid,
+    getSyncDefaultsFromLatest,
+    importPrefsFromFile,
+    importPrefsFromUrl,
+    readPrefs,
+    setSyncDefaultsFromLatest,
+} from "@/lib/moodDefaults";
+import { getRuntimeContext } from "@/lib/runtime";
 import { STREAM_TARGETS, isBeaconCapableTarget } from "@/lib/streamTargets";
 import { type ScreensaverStyle, type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { cn } from "@/lib/utils";
 import { fetchWeatherMood } from "@/lib/weatherMood";
 import { nextWid } from "@/lib/wid";
+import { usePlayerStore } from "@/stores";
+import type { PlayerMode } from "@/types";
 import type { StreamProtocol } from "@/types/player";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 
-import { Cloud, Plus, Radio, Settings, Trash2, X } from "lucide-react";
+import {
+    Cloud,
+    Download,
+    ExternalLink,
+    FileInput,
+    KeyRound,
+    Link2,
+    MonitorPlay,
+    Plus,
+    Radio,
+    Settings,
+    Trash2,
+    Upload,
+    X,
+} from "lucide-react";
 
-const PROTOCOL_OPTIONS: StreamProtocol[] = ["ws", "wss", "mqtts", "webrtc", "rtsp", "http", "https"];
+const BEACON_PROTOCOL_OPTIONS: StreamProtocol[] = ["ws", "wss", "mqtts"];
 
 const PROTOCOL_BADGE: Record<StreamProtocol, string> = {
     ws: "bg-green-500/20 text-green-400",
@@ -49,7 +69,13 @@ type AddForm = {
     url: string;
     subTopic: string;
     pubTopic: string;
-    signalingUrl: string;
+};
+
+type RemoteImportState = {
+    value: string;
+    loading: boolean;
+    message: string | null;
+    ok: boolean;
 };
 
 const emptyForm = (): AddForm => ({
@@ -58,8 +84,108 @@ const emptyForm = (): AddForm => ({
     url: "",
     subTopic: "",
     pubTopic: "",
-    signalingUrl: "",
 });
+
+function normalizeGitHubUrl(url: string): string {
+    if (url.startsWith("https://raw.githubusercontent.com/")) return url;
+    if (!url.startsWith("https://github.com/")) return url;
+    const parsed = new URL(url);
+    const parts = parsed.pathname.split("/").filter(Boolean);
+    if (parts.length >= 5 && parts[2] === "blob") {
+        const [owner, repo, , branch, ...rest] = parts;
+        return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${rest.join("/")}`;
+    }
+    return url;
+}
+
+function resolveRemoteImportCandidates(input: string): string[] {
+    const trimmed = input.trim();
+    if (!trimmed) return [];
+
+    if (trimmed.startsWith("http://") || trimmed.startsWith("https://")) {
+        return [normalizeGitHubUrl(trimmed)];
+    }
+
+    const parts = trimmed.split("/").filter(Boolean);
+    if (parts.length < 2) return [];
+
+    const [owner, repo, ...rest] = parts;
+    const branches = ["main", "master"];
+    const paths =
+        rest.length > 0
+            ? [rest.join("/")]
+            : [
+                  "public/default.wid",
+                  "public/default.waldiez",
+                  "public/cdn/repo/latest-auto.wid",
+                  "default.wid",
+              ];
+
+    return branches.flatMap(branch =>
+        paths.map(path => `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`),
+    );
+}
+
+function SectionCard({
+    icon,
+    title,
+    hint,
+    children,
+}: {
+    icon: React.ReactNode;
+    title: string;
+    hint?: string;
+    children: React.ReactNode;
+}) {
+    return (
+        <section className="rounded-xl border border-player-border bg-player-surface p-4">
+            <div className="mb-3 flex items-start gap-3">
+                <div className="mt-0.5 text-player-text-muted">{icon}</div>
+                <div className="min-w-0">
+                    <div className="text-sm font-semibold text-player-text">{title}</div>
+                    {hint && <p className="mt-1 text-xs leading-5 text-player-text-muted">{hint}</p>}
+                </div>
+            </div>
+            <div className="space-y-3">{children}</div>
+        </section>
+    );
+}
+
+function ToggleRow({
+    checked,
+    onChange,
+    label,
+    description,
+    disabled = false,
+}: {
+    checked: boolean;
+    onChange: (checked: boolean) => void;
+    label: string;
+    description?: string;
+    disabled?: boolean;
+}) {
+    return (
+        <label
+            className={cn(
+                "flex cursor-pointer items-start gap-3 rounded-lg border border-player-border bg-player-bg/40 px-3 py-2.5",
+                disabled && "pointer-events-none opacity-50",
+            )}
+        >
+            <input
+                type="checkbox"
+                checked={checked}
+                onChange={e => onChange(e.target.checked)}
+                className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
+            />
+            <span className="min-w-0">
+                <span className="block text-sm text-player-text">{label}</span>
+                {description && (
+                    <span className="mt-1 block text-xs leading-5 text-player-text-muted">{description}</span>
+                )}
+            </span>
+        </label>
+    );
+}
 
 export function SettingsPanel({
     onClose,
@@ -67,13 +193,27 @@ export function SettingsPanel({
     uiSettings: uiSettingsProp,
     onUiSettingsChange,
 }: SettingsPanelProps) {
+    const runtime = getRuntimeContext();
+    const supportsWeather = typeof navigator !== "undefined" && "geolocation" in navigator;
+
     const [settings, setSettings] = useState<BeaconSettings>(readBeaconSettings);
     const [syncDefaults, setSyncDefaults] = useState<boolean>(getSyncDefaultsFromLatest);
     const [showAddForm, setShowAddForm] = useState(false);
     const [form, setForm] = useState<AddForm>(emptyForm);
     const [formError, setFormError] = useState<string | null>(null);
+    const [remoteImport, setRemoteImport] = useState<RemoteImportState>({
+        value: "",
+        loading: false,
+        message: null,
+        ok: false,
+    });
+    const [localFilesWarning, setLocalFilesWarning] = useState(false);
+    const fileInputRef = useRef<HTMLInputElement>(null);
 
-    // UI / Screensaver settings — driven by prop if provided, else local read
+    const mediaLibrary = usePlayerStore(s => s.mediaLibrary);
+    const setPlayback = usePlayerStore(s => s.setPlayback);
+    const setPlayerMode = usePlayerStore(s => s.setPlayerMode);
+
     const [localUiSettings, setLocalUiSettings] = useState<UiSettings>(
         () => uiSettingsProp ?? readUiSettings(),
     );
@@ -107,13 +247,8 @@ export function SettingsPanel({
             setFormError("Name is required.");
             return;
         }
-        const needsUrl = form.protocol !== "webrtc";
-        if (needsUrl && !form.url.trim()) {
-            setFormError("URL is required for this protocol.");
-            return;
-        }
-        if (form.protocol === "webrtc" && !form.signalingUrl.trim()) {
-            setFormError("Signaling URL is required for WebRTC.");
+        if (!form.url.trim()) {
+            setFormError("URL is required.");
             return;
         }
         const target: BeaconTarget = {
@@ -121,10 +256,9 @@ export function SettingsPanel({
             name: form.name.trim(),
             protocol: form.protocol,
             isCustom: true,
-            ...(form.url && { url: form.url.trim() }),
+            url: form.url.trim(),
             ...(form.subTopic && { subTopic: form.subTopic.trim() }),
             ...(form.pubTopic && { pubTopic: form.pubTopic.trim() }),
-            ...(form.signalingUrl && { signalingUrl: form.signalingUrl.trim() }),
         };
         save({
             ...settings,
@@ -136,227 +270,383 @@ export function SettingsPanel({
         setFormError(null);
     }
 
-    const allTargets = [...STREAM_TARGETS, ...settings.customTargets];
+    function applyImportedPrefs() {
+        const imported = readPrefs();
+        if (!imported) return;
+        setPlayback({
+            ...(typeof imported.volume === "number" ? { volume: imported.volume } : {}),
+            ...(typeof imported.muted === "boolean" ? { isMuted: imported.muted } : {}),
+        });
+        if (typeof imported.mode === "string" && imported.mode) {
+            setPlayerMode(imported.mode as PlayerMode);
+        }
+    }
+
+    async function handleImportFileChange(e: React.ChangeEvent<HTMLInputElement>) {
+        const file = e.target.files?.[0];
+        if (!file) return;
+        e.target.value = "";
+        const ok = await importPrefsFromFile(file);
+        if (ok) {
+            applyImportedPrefs();
+            setRemoteImport({
+                value: remoteImport.value,
+                loading: false,
+                message: `${file.name} imported.`,
+                ok: true,
+            });
+        } else {
+            setRemoteImport({
+                value: remoteImport.value,
+                loading: false,
+                message: `Couldn't import ${file.name}.`,
+                ok: false,
+            });
+        }
+    }
+
+    async function handleRemoteImport() {
+        const candidates = resolveRemoteImportCandidates(remoteImport.value);
+        if (candidates.length === 0) {
+            setRemoteImport(prev => ({
+                ...prev,
+                message: "Enter a direct .wid/.waldiez URL, a GitHub blob/raw URL, or owner/repo[/path].",
+                ok: false,
+            }));
+            return;
+        }
+
+        setRemoteImport(prev => ({ ...prev, loading: true, message: null, ok: false }));
+        let importedFrom: string | null = null;
+        for (const candidate of candidates) {
+            const ok = await importPrefsFromUrl(candidate);
+            if (ok) {
+                importedFrom = candidate;
+                break;
+            }
+        }
+
+        if (!importedFrom) {
+            setRemoteImport(prev => ({
+                ...prev,
+                loading: false,
+                message:
+                    "Import failed. Check the URL/repo path and that the repo exposes a .wid or .waldiez file.",
+                ok: false,
+            }));
+            return;
+        }
+
+        applyImportedPrefs();
+        setRemoteImport(prev => ({
+            ...prev,
+            loading: false,
+            message: `Imported from ${importedFrom}.`,
+            ok: true,
+        }));
+    }
+
+    function handleExportPrefs() {
+        const { skippedLocalFiles } = exportPrefsAsWid(mediaLibrary);
+        if (skippedLocalFiles > 0) {
+            setLocalFilesWarning(true);
+            setTimeout(() => setLocalFilesWarning(false), 4000);
+        }
+    }
+
+    function handleExportBundle() {
+        const { skippedLocalFiles } = exportPrefsAsWaldiez(mediaLibrary);
+        if (skippedLocalFiles > 0) {
+            setLocalFilesWarning(true);
+            setTimeout(() => setLocalFilesWarning(false), 4000);
+        }
+    }
+
+    const builtInTargets = STREAM_TARGETS.filter(isBeaconCapableTarget);
+    const supportedCustomTargets = settings.customTargets.filter(isBeaconCapableTarget);
+    const unsupportedCustomTargets = settings.customTargets.filter(t => !isBeaconCapableTarget(t));
+    const allTargets = [...builtInTargets, ...supportedCustomTargets];
+    const active = allTargets.find(t => t.id === settings.activeTargetId) ?? null;
 
     return (
         <div className={cn("flex h-full flex-col", className)}>
-            {/* Header */}
-            <div className="flex items-center justify-between border-b border-player-border p-4">
-                <h2 className="flex items-center gap-2 font-semibold">
-                    <Settings className="h-4 w-4" />
-                    Settings
-                </h2>
-                <button
-                    onClick={onClose}
-                    className="rounded p-1 text-player-text-muted hover:bg-player-border hover:text-player-text"
-                    aria-label="Close settings"
-                >
-                    <X className="h-4 w-4" />
-                </button>
+            <div className="border-b border-player-border p-4">
+                <div className="flex items-center justify-between gap-3">
+                    <div>
+                        <h2 className="flex items-center gap-2 text-base font-semibold">
+                            <Settings className="h-4 w-4" />
+                            Settings
+                        </h2>
+                        <p className="mt-1 text-xs text-player-text-muted">
+                            {runtime.isPackagedDesktop ? "Desktop" : runtime.isTauri ? "Tauri Dev" : "Web"}{" "}
+                            configuration, preset import, and live-sync setup.
+                        </p>
+                    </div>
+                    <button
+                        onClick={onClose}
+                        className="rounded p-1 text-player-text-muted hover:bg-player-border hover:text-player-text"
+                        aria-label="Close settings"
+                    >
+                        <X className="h-4 w-4" />
+                    </button>
+                </div>
             </div>
 
-            {/* Content */}
-            <div className="flex-1 overflow-auto p-4">
-                {/* ── Display / Screensaver ── */}
-                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
-                    <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                        Display
-                    </div>
+            <div className="flex-1 space-y-4 overflow-auto p-4">
+                <SectionCard
+                    icon={<FileInput className="h-4 w-4" />}
+                    title="Presets And Defaults"
+                    hint="Import or export player state, keep synced defaults, or pull a preset directly from GitHub."
+                >
+                    <ToggleRow
+                        checked={syncDefaults}
+                        onChange={next => {
+                            setSyncDefaults(next);
+                            setSyncDefaultsFromLatest(next);
+                        }}
+                        label="Sync defaults from latest deployed preset"
+                        description="On startup, prefer the latest published repo preset and fall back to default.wid. Turn this off to keep local defaults untouched."
+                    />
 
-                    {/* Enable toggle */}
-                    <label className="mb-3 flex cursor-pointer items-center gap-2">
-                        <input
-                            type="checkbox"
-                            checked={effectiveUiSettings.screensaverEnabled}
-                            onChange={e => patchUiSettings({ screensaverEnabled: e.target.checked })}
-                            className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
-                        />
-                        <span className="text-xs text-player-text-muted">
-                            Enable screensaver after inactivity
-                        </span>
-                    </label>
-
-                    {/* Timeout row */}
-                    <div
-                        className={cn(
-                            "mb-3 flex items-center gap-2",
-                            !effectiveUiSettings.screensaverEnabled && "pointer-events-none opacity-40",
-                        )}
-                    >
-                        <span className="text-xs text-player-text-muted">After</span>
-                        {([5, 10, 15, 30] as const).map(m => (
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                            Import
+                        </div>
+                        <div className="flex gap-2">
                             <button
-                                key={m}
-                                onClick={() => patchUiSettings({ screensaverTimeoutMinutes: m })}
+                                type="button"
+                                onClick={() => fileInputRef.current?.click()}
+                                className="inline-flex items-center gap-1.5 rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text"
+                            >
+                                <Upload className="h-3.5 w-3.5" />
+                                Local file
+                            </button>
+                            <input
+                                ref={fileInputRef}
+                                type="file"
+                                accept=".wid,.waldiez,.json"
+                                className="hidden"
+                                onChange={handleImportFileChange}
+                            />
+                            <input
+                                type="text"
+                                value={remoteImport.value}
+                                onChange={e =>
+                                    setRemoteImport(prev => ({
+                                        ...prev,
+                                        value: e.target.value,
+                                        message: null,
+                                        ok: false,
+                                    }))
+                                }
+                                placeholder="https://.../preset.wid or owner/repo[/path]"
+                                className="min-w-0 flex-1 rounded border border-player-border bg-player-bg px-3 py-2 text-xs text-player-text outline-none focus:border-player-accent"
+                            />
+                            <button
+                                type="button"
+                                onClick={() => void handleRemoteImport()}
+                                disabled={remoteImport.loading}
+                                className="inline-flex items-center gap-1.5 rounded bg-player-accent px-3 py-2 text-xs font-medium text-white hover:opacity-90 disabled:opacity-50"
+                            >
+                                <Link2 className="h-3.5 w-3.5" />
+                                {remoteImport.loading ? "Importing..." : "Import URL"}
+                            </button>
+                        </div>
+                        <p className="mt-2 text-[11px] leading-5 text-player-text-muted">
+                            Supports direct `.wid`/`.waldiez` URLs, GitHub blob/raw URLs, and shorthand like{" "}
+                            <code>owner/repo</code> or <code>owner/repo/path/to/preset.wid</code>.
+                        </p>
+                        {remoteImport.message && (
+                            <p
                                 className={cn(
-                                    "rounded px-2 py-0.5 text-xs",
-                                    m === effectiveUiSettings.screensaverTimeoutMinutes
-                                        ? "bg-player-accent text-white"
-                                        : "bg-player-border text-player-text-muted hover:text-player-text",
+                                    "mt-2 text-[11px]",
+                                    remoteImport.ok ? "text-emerald-400" : "text-amber-400",
                                 )}
                             >
-                                {m} min
-                            </button>
-                        ))}
+                                {remoteImport.message}
+                            </p>
+                        )}
                     </div>
 
-                    {/* Style selector */}
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                            Export
+                        </div>
+                        <div className="flex flex-wrap gap-2">
+                            <button
+                                onClick={handleExportPrefs}
+                                className="inline-flex items-center gap-1.5 rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text"
+                                type="button"
+                            >
+                                <Download className="h-3.5 w-3.5" />
+                                Export .wid
+                            </button>
+                            <button
+                                onClick={handleExportBundle}
+                                className="inline-flex items-center gap-1.5 rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text"
+                                type="button"
+                            >
+                                <Download className="h-3.5 w-3.5" />
+                                Export .waldiez
+                            </button>
+                        </div>
+                        {localFilesWarning && (
+                            <p className="mt-2 text-[11px] text-amber-400">
+                                Local files are excluded from exported presets. Cloud/URL sources are
+                                preserved.
+                            </p>
+                        )}
+                    </div>
+                </SectionCard>
+
+                <SectionCard
+                    icon={<MonitorPlay className="h-4 w-4" />}
+                    title="Playback And Display"
+                    hint="Foreground/background behavior and screensaver settings."
+                >
+                    <ToggleRow
+                        checked={effectiveUiSettings.pausePlaybackWhenHidden}
+                        onChange={checked => patchUiSettings({ pausePlaybackWhenHidden: checked })}
+                        label="Pause when app is hidden"
+                        description="Useful for power saving. Turn this off if you want playback to continue in the background."
+                    />
+
+                    <ToggleRow
+                        checked={effectiveUiSettings.screensaverEnabled}
+                        onChange={checked => patchUiSettings({ screensaverEnabled: checked })}
+                        label="Enable screensaver after inactivity"
+                    />
+
                     <div
                         className={cn(
-                            "flex items-center gap-2",
-                            !effectiveUiSettings.screensaverEnabled && "pointer-events-none opacity-40",
+                            "rounded-lg border border-player-border bg-player-bg/40 p-3",
+                            !effectiveUiSettings.screensaverEnabled && "pointer-events-none opacity-50",
                         )}
                     >
-                        <span className="text-xs text-player-text-muted">Style</span>
-                        {(["minimal", "animated", "artwork"] as ScreensaverStyle[]).map(s => (
-                            <button
-                                key={s}
-                                onClick={() => patchUiSettings({ screensaverStyle: s })}
-                                className={cn(
-                                    "rounded px-2 py-0.5 text-xs capitalize",
-                                    s === effectiveUiSettings.screensaverStyle
-                                        ? "bg-player-accent text-white"
-                                        : "bg-player-border text-player-text-muted hover:text-player-text",
-                                )}
-                            >
-                                {s}
-                            </button>
-                        ))}
+                        <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                            Screensaver timeout
+                        </div>
+                        <div className="flex flex-wrap gap-2">
+                            {([5, 10, 15, 30] as const).map(m => (
+                                <button
+                                    key={m}
+                                    onClick={() => patchUiSettings({ screensaverTimeoutMinutes: m })}
+                                    className={cn(
+                                        "rounded px-2.5 py-1 text-xs",
+                                        m === effectiveUiSettings.screensaverTimeoutMinutes
+                                            ? "bg-player-accent text-white"
+                                            : "bg-player-border text-player-text-muted hover:text-player-text",
+                                    )}
+                                >
+                                    {m} min
+                                </button>
+                            ))}
+                        </div>
+                        <div className="mt-3">
+                            <div className="mb-2 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                                Style
+                            </div>
+                            <div className="flex flex-wrap gap-2">
+                                {(["minimal", "animated", "artwork"] as ScreensaverStyle[]).map(style => (
+                                    <button
+                                        key={style}
+                                        onClick={() => patchUiSettings({ screensaverStyle: style })}
+                                        className={cn(
+                                            "rounded px-2.5 py-1 text-xs capitalize",
+                                            style === effectiveUiSettings.screensaverStyle
+                                                ? "bg-player-accent text-white"
+                                                : "bg-player-border text-player-text-muted hover:text-player-text",
+                                        )}
+                                    >
+                                        {style}
+                                    </button>
+                                ))}
+                            </div>
+                        </div>
                     </div>
-                </section>
+                </SectionCard>
 
-                {/* ── Defaults Sync ── */}
-                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
-                    <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                        Defaults Sync
-                    </div>
-                    <label className="flex cursor-pointer items-start gap-2">
+                <SectionCard
+                    icon={<KeyRound className="h-4 w-4" />}
+                    title="Search And Metadata"
+                    hint="Optional local API keys that improve search fallback and local media enrichment."
+                >
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                            YouTube Search
+                        </div>
+                        <p className="mb-2 text-xs text-player-text-muted">
+                            Use your own YouTube Data API key for client-side search fallback.
+                        </p>
                         <input
-                            type="checkbox"
-                            checked={syncDefaults}
-                            onChange={e => {
-                                const next = e.target.checked;
-                                setSyncDefaults(next);
-                                setSyncDefaultsFromLatest(next);
-                            }}
-                            className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
+                            type="password"
+                            autoComplete="off"
+                            spellCheck={false}
+                            value={effectiveUiSettings.youtubeApiKey}
+                            onChange={e => patchUiSettings({ youtubeApiKey: e.target.value.trim() })}
+                            placeholder="AIza..."
+                            className="w-full rounded border border-player-border bg-player-bg px-3 py-2 text-xs text-player-text outline-none focus:border-player-accent"
                         />
-                        <span className="text-xs text-player-text-muted">
-                            Sync defaults from latest deployed <code>cdn/repo/latest-auto.wid</code>{" "}
-                            (fallback:
-                            <code>default.wid</code>) on app start. Turn off to keep local customized defaults
-                            unchanged.
-                        </span>
-                    </label>
-                </section>
-
-                {/* ── YouTube Search ── */}
-                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
-                    <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                        YouTube Search
-                    </div>
-                    <p className="mb-2 text-xs text-player-text-muted">
-                        Optional: use your own YouTube Data API key for client-side search fallback.
-                    </p>
-                    <input
-                        type="password"
-                        autoComplete="off"
-                        spellCheck={false}
-                        value={effectiveUiSettings.youtubeApiKey}
-                        onChange={e => patchUiSettings({ youtubeApiKey: e.target.value.trim() })}
-                        placeholder="AIza..."
-                        className={cn(
-                            "w-full rounded border border-player-border bg-player-bg px-2 py-1.5 text-xs",
-                            "text-player-text outline-none focus:border-player-accent",
-                        )}
-                    />
-                    <div className="mt-2 flex items-center gap-2">
-                        <button
-                            onClick={() => patchUiSettings({ youtubeApiKey: "" })}
-                            className="rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text"
-                            type="button"
-                        >
-                            Clear key
-                        </button>
-                        <span className="text-[10px] text-player-text-muted">
-                            Stored locally on this device only.
-                        </span>
-                    </div>
-                </section>
-
-                {/* ── TMDB Metadata ── */}
-                <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
-                    <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                        TMDB Metadata
-                    </div>
-                    <p className="mb-2 text-xs text-player-text-muted">
-                        Enrich local video files with posters and descriptions.{" "}
-                        <a
-                            href="https://www.themoviedb.org/settings/api"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-player-accent hover:underline"
-                        >
-                            Get a free API key
-                        </a>
-                    </p>
-                    <input
-                        type="password"
-                        autoComplete="off"
-                        spellCheck={false}
-                        value={effectiveUiSettings.tmdbApiKey}
-                        onChange={e => patchUiSettings({ tmdbApiKey: e.target.value.trim() })}
-                        placeholder="eyJ..."
-                        className={cn(
-                            "w-full rounded border border-player-border bg-player-bg px-2 py-1.5 text-xs",
-                            "text-player-text outline-none focus:border-player-accent",
-                        )}
-                    />
-                    <div className="mt-2 flex items-center gap-2">
-                        <button
-                            onClick={() => patchUiSettings({ tmdbApiKey: "" })}
-                            className="rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text"
-                            type="button"
-                        >
-                            Clear key
-                        </button>
-                        <span className="text-[10px] text-player-text-muted">Stored locally only.</span>
-                    </div>
-                </section>
-
-                {/* ── Weather Mood ── */}
-                <WeatherMoodSection uiSettings={effectiveUiSettings} patchUiSettings={patchUiSettings} />
-
-                {/* ── Beacon Endpoints ── */}
-                <section>
-                    <div className="mb-3 flex items-center gap-2">
-                        <Radio className="h-3.5 w-3.5 text-player-text-muted" />
-                        <span className="text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                            Beacon Endpoints
-                        </span>
                     </div>
 
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <div className="mb-1 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                            TMDB Metadata
+                        </div>
+                        <p className="mb-2 text-xs text-player-text-muted">
+                            Enrich local video files with posters and descriptions.
+                        </p>
+                        <div className="mb-2">
+                            <a
+                                href="https://www.themoviedb.org/settings/api"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-1 text-xs text-player-accent hover:underline"
+                            >
+                                Get a free TMDB API key
+                                <ExternalLink className="h-3 w-3" />
+                            </a>
+                        </div>
+                        <input
+                            type="password"
+                            autoComplete="off"
+                            spellCheck={false}
+                            value={effectiveUiSettings.tmdbApiKey}
+                            onChange={e => patchUiSettings({ tmdbApiKey: e.target.value.trim() })}
+                            placeholder="eyJ..."
+                            className="w-full rounded border border-player-border bg-player-bg px-3 py-2 text-xs text-player-text outline-none focus:border-player-accent"
+                        />
+                    </div>
+                </SectionCard>
+
+                {supportsWeather && (
+                    <WeatherMoodSection uiSettings={effectiveUiSettings} patchUiSettings={patchUiSettings} />
+                )}
+
+                <SectionCard
+                    icon={<Radio className="h-4 w-4" />}
+                    title="Live Sync"
+                    hint="Choose where player beacon state is published. Only beacon-capable transports are shown here."
+                >
                     <div className="space-y-2">
-                        {/* Built-in targets */}
-                        {STREAM_TARGETS.map(t => {
-                            const active = settings.activeTargetId === t.id;
-                            const beaconOk = isBeaconCapableTarget(t);
+                        {builtInTargets.map(t => {
+                            const selected = settings.activeTargetId === t.id;
                             return (
                                 <button
                                     key={t.id}
                                     onClick={() => selectTarget(t.id)}
                                     className={cn(
                                         "w-full rounded-lg border px-3 py-2.5 text-left transition-colors",
-                                        active
+                                        selected
                                             ? "border-player-accent bg-player-accent/10"
-                                            : "border-player-border bg-player-surface hover:border-player-accent/50",
+                                            : "border-player-border bg-player-bg/40 hover:border-player-accent/50",
                                     )}
                                 >
                                     <div className="flex items-center gap-2">
                                         <div
                                             className={cn(
                                                 "h-3 w-3 shrink-0 rounded-full border-2",
-                                                active
+                                                selected
                                                     ? "border-player-accent bg-player-accent"
                                                     : "border-player-text-muted",
                                             )}
@@ -372,96 +662,82 @@ export function SettingsPanel({
                                         </span>
                                     </div>
                                     <div className="mt-1 pl-5 text-[11px] text-player-text-muted">
-                                        {t.url ?? t.signalingUrl ?? ""}
+                                        {t.url ?? ""}
                                         {t.channel && <span className="ml-1 opacity-70">· {t.channel}</span>}
-                                    </div>
-                                    {!beaconOk && (
-                                        <div className="mt-1 pl-5 text-[10px] text-yellow-500/70">
-                                            not usable as beacon (ws/wss/mqtt-ws only)
-                                        </div>
-                                    )}
-                                    <div className="mt-0.5 pl-5 text-[10px] text-player-text-muted opacity-60">
-                                        {t.role}
                                     </div>
                                 </button>
                             );
                         })}
 
-                        {/* Custom targets */}
-                        {settings.customTargets.length > 0 && (
-                            <>
-                                <div className="my-2 border-t border-player-border pt-2 text-[10px] uppercase tracking-wider text-player-text-muted">
+                        {supportedCustomTargets.length > 0 && (
+                            <div className="pt-2">
+                                <div className="mb-2 text-[10px] font-semibold uppercase tracking-wider text-player-text-muted">
                                     Custom
                                 </div>
-                                {settings.customTargets.map(t => {
-                                    const active = settings.activeTargetId === t.id;
-                                    const beaconOk = isBeaconCapableTarget(t);
-                                    return (
-                                        <div key={t.id} className="flex items-stretch gap-1">
-                                            <button
-                                                onClick={() => selectTarget(t.id)}
-                                                className={cn(
-                                                    "min-w-0 flex-1 rounded-lg border px-3 py-2.5 text-left transition-colors",
-                                                    active
-                                                        ? "border-player-accent bg-player-accent/10"
-                                                        : "border-player-border bg-player-surface hover:border-player-accent/50",
-                                                )}
-                                            >
-                                                <div className="flex items-center gap-2">
-                                                    <div
-                                                        className={cn(
-                                                            "h-3 w-3 shrink-0 rounded-full border-2",
-                                                            active
-                                                                ? "border-player-accent bg-player-accent"
-                                                                : "border-player-text-muted",
-                                                        )}
-                                                    />
-                                                    <span className="flex-1 truncate text-sm font-medium">
-                                                        {t.name}
-                                                    </span>
-                                                    <span
-                                                        className={cn(
-                                                            "shrink-0 rounded px-1.5 py-0.5 font-mono text-[10px] uppercase",
-                                                            PROTOCOL_BADGE[t.protocol],
-                                                        )}
-                                                    >
-                                                        {t.protocol}
-                                                    </span>
-                                                </div>
-                                                <div className="mt-1 pl-5 text-[11px] text-player-text-muted">
-                                                    {t.url ?? t.signalingUrl ?? ""}
-                                                    {t.subTopic && (
-                                                        <span className="ml-1 opacity-70">
-                                                            sub: {t.subTopic}
-                                                        </span>
+                                <div className="space-y-2">
+                                    {supportedCustomTargets.map(t => {
+                                        const selected = settings.activeTargetId === t.id;
+                                        return (
+                                            <div key={t.id} className="flex gap-2">
+                                                <button
+                                                    onClick={() => selectTarget(t.id)}
+                                                    className={cn(
+                                                        "min-w-0 flex-1 rounded-lg border px-3 py-2.5 text-left transition-colors",
+                                                        selected
+                                                            ? "border-player-accent bg-player-accent/10"
+                                                            : "border-player-border bg-player-bg/40 hover:border-player-accent/50",
                                                     )}
-                                                    {t.pubTopic && (
-                                                        <span className="ml-1 opacity-70">
-                                                            pub: {t.pubTopic}
+                                                >
+                                                    <div className="flex items-center gap-2">
+                                                        <div
+                                                            className={cn(
+                                                                "h-3 w-3 shrink-0 rounded-full border-2",
+                                                                selected
+                                                                    ? "border-player-accent bg-player-accent"
+                                                                    : "border-player-text-muted",
+                                                            )}
+                                                        />
+                                                        <span className="flex-1 truncate text-sm font-medium">
+                                                            {t.name}
                                                         </span>
-                                                    )}
-                                                </div>
-                                                {!beaconOk && (
-                                                    <div className="mt-1 pl-5 text-[10px] text-yellow-500/70">
-                                                        not usable as beacon (ws/wss/mqtt-ws only)
+                                                        <span
+                                                            className={cn(
+                                                                "shrink-0 rounded px-1.5 py-0.5 font-mono text-[10px] uppercase",
+                                                                PROTOCOL_BADGE[t.protocol],
+                                                            )}
+                                                        >
+                                                            {t.protocol}
+                                                        </span>
                                                     </div>
-                                                )}
-                                            </button>
-                                            <button
-                                                onClick={() => deleteCustom(t.id)}
-                                                className="shrink-0 self-center rounded p-1.5 text-player-text-muted hover:bg-red-500/10 hover:text-red-400"
-                                                aria-label={`Delete ${t.name}`}
-                                            >
-                                                <Trash2 className="h-3.5 w-3.5" />
-                                            </button>
-                                        </div>
-                                    );
-                                })}
-                            </>
+                                                    <div className="mt-1 pl-5 text-[11px] text-player-text-muted">
+                                                        {t.url ?? ""}
+                                                        {t.subTopic && (
+                                                            <span className="ml-1 opacity-70">
+                                                                sub: {t.subTopic}
+                                                            </span>
+                                                        )}
+                                                        {t.pubTopic && (
+                                                            <span className="ml-1 opacity-70">
+                                                                pub: {t.pubTopic}
+                                                            </span>
+                                                        )}
+                                                    </div>
+                                                </button>
+                                                <button
+                                                    onClick={() => deleteCustom(t.id)}
+                                                    className="shrink-0 self-center rounded p-1.5 text-player-text-muted hover:bg-red-500/10 hover:text-red-400"
+                                                    aria-label={`Delete ${t.name}`}
+                                                >
+                                                    <Trash2 className="h-3.5 w-3.5" />
+                                                </button>
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+                            </div>
                         )}
                     </div>
 
-                    {/* Add custom target */}
                     {!showAddForm ? (
                         <button
                             onClick={() => {
@@ -469,10 +745,10 @@ export function SettingsPanel({
                                 setForm(emptyForm());
                                 setFormError(null);
                             }}
-                            className="mt-3 flex w-full items-center justify-center gap-1.5 rounded-lg border border-dashed border-player-border py-2 text-xs text-player-text-muted transition-colors hover:border-player-accent/50 hover:text-player-text"
+                            className="flex w-full items-center justify-center gap-1.5 rounded-lg border border-dashed border-player-border py-2 text-xs text-player-text-muted transition-colors hover:border-player-accent/50 hover:text-player-text"
                         >
                             <Plus className="h-3.5 w-3.5" />
-                            Add Custom Endpoint
+                            Add Custom Beacon Endpoint
                         </button>
                     ) : (
                         <AddTargetForm
@@ -489,39 +765,27 @@ export function SettingsPanel({
                             }}
                         />
                     )}
-                </section>
 
-                {/* Active target info */}
-                {(() => {
-                    const active = allTargets.find(t => t.id === settings.activeTargetId);
-                    if (!active) return null;
-                    const beaconUrl =
-                        active.url?.startsWith("ws://") || active.url?.startsWith("wss://")
-                            ? active.url
-                            : null;
-                    return (
-                        <div className="mt-4 rounded-lg border border-player-border bg-player-surface p-3 text-[11px] text-player-text-muted">
-                            <div className="mb-1 font-semibold text-player-text">Active beacon target</div>
-                            <div>
-                                <span className="opacity-70">Name: </span>
-                                {active.name}
-                            </div>
-                            {beaconUrl ? (
-                                <div className="mt-0.5 break-all font-mono text-[10px]">{beaconUrl}</div>
-                            ) : (
-                                <div className="mt-0.5 text-yellow-500/80">
-                                    This target cannot send beacon data (ws/wss required).
-                                </div>
-                            )}
+                    {unsupportedCustomTargets.length > 0 && (
+                        <div className="rounded-lg border border-player-border bg-player-bg/40 p-3 text-[11px] text-player-text-muted">
+                            {unsupportedCustomTargets.length} legacy custom endpoint
+                            {unsupportedCustomTargets.length === 1 ? "" : "s"} hidden here because they do not
+                            support beacon state.
                         </div>
-                    );
-                })()}
+                    )}
+
+                    {active && (
+                        <div className="rounded-lg border border-player-border bg-player-bg/40 p-3 text-[11px] text-player-text-muted">
+                            <div className="mb-1 font-semibold text-player-text">Active target</div>
+                            <div>{active.name}</div>
+                            <div className="mt-1 break-all font-mono text-[10px]">{active.url}</div>
+                        </div>
+                    )}
+                </SectionCard>
             </div>
         </div>
     );
 }
-
-// ── Weather Mood section ──────────────────────────────────────────────────
 
 interface WeatherMoodSectionProps {
     uiSettings: UiSettings;
@@ -538,9 +802,9 @@ function WeatherMoodSection({ uiSettings, patchUiSettings }: WeatherMoodSectionP
         try {
             const result = await fetchWeatherMood();
             if (result) {
-                setSuggestion(`${result.description} → ${result.mood}`);
+                setSuggestion(`${result.description} -> ${result.mood}`);
             } else {
-                setSuggestion("Could not detect weather (location denied or offline)");
+                setSuggestion("Could not detect weather right now.");
             }
         } finally {
             setLoading(false);
@@ -548,54 +812,35 @@ function WeatherMoodSection({ uiSettings, patchUiSettings }: WeatherMoodSectionP
     }
 
     return (
-        <section className="mb-4 rounded-lg border border-player-border bg-player-surface p-3">
-            <div className="mb-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-player-text-muted">
-                <Cloud className="h-3.5 w-3.5" />
-                Weather Mood
+        <SectionCard
+            icon={<Cloud className="h-4 w-4" />}
+            title="Weather Mood"
+            hint="Optional mood suggestions based on your current weather."
+        >
+            <ToggleRow
+                checked={uiSettings.weatherMoodEnabled}
+                onChange={checked => patchUiSettings({ weatherMoodEnabled: checked })}
+                label="Enable weather-based mood suggestion"
+            />
+            <ToggleRow
+                checked={uiSettings.autoMoodOnStartup}
+                onChange={checked => patchUiSettings({ autoMoodOnStartup: checked })}
+                label="Auto-switch mood on startup"
+                disabled={!uiSettings.weatherMoodEnabled}
+            />
+            <div className="flex items-center gap-2">
+                <button
+                    onClick={() => void tryNow()}
+                    disabled={loading || !uiSettings.weatherMoodEnabled}
+                    className="rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text disabled:opacity-50"
+                >
+                    {loading ? "Detecting..." : "Try now"}
+                </button>
+                {suggestion && <span className="text-[11px] text-player-accent">{suggestion}</span>}
             </div>
-
-            <label className="mb-2 flex cursor-pointer items-center gap-2">
-                <input
-                    type="checkbox"
-                    checked={uiSettings.weatherMoodEnabled}
-                    onChange={e => patchUiSettings({ weatherMoodEnabled: e.target.checked })}
-                    className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
-                />
-                <span className="text-xs text-player-text-muted">Enable weather-based mood suggestion</span>
-            </label>
-
-            <label
-                className={cn(
-                    "mb-3 flex cursor-pointer items-center gap-2",
-                    !uiSettings.weatherMoodEnabled && "pointer-events-none opacity-40",
-                )}
-            >
-                <input
-                    type="checkbox"
-                    checked={uiSettings.autoMoodOnStartup}
-                    onChange={e => patchUiSettings({ autoMoodOnStartup: e.target.checked })}
-                    className="mt-0.5 h-4 w-4 rounded border-player-border bg-player-bg"
-                />
-                <span className="text-xs text-player-text-muted">Auto-switch mood on startup</span>
-            </label>
-
-            <button
-                onClick={tryNow}
-                disabled={loading}
-                className={cn(
-                    "rounded bg-player-border px-2 py-1 text-xs text-player-text-muted hover:text-player-text disabled:opacity-50",
-                    !uiSettings.weatherMoodEnabled && "pointer-events-none opacity-40",
-                )}
-            >
-                {loading ? "Detecting…" : "Try now"}
-            </button>
-
-            {suggestion && <p className="mt-2 text-[11px] text-player-accent">{suggestion}</p>}
-        </section>
+        </SectionCard>
     );
 }
-
-// ── Add target inline form ────────────────────────────────────────────────
 
 interface AddTargetFormProps {
     form: AddForm;
@@ -607,22 +852,20 @@ interface AddTargetFormProps {
 
 function AddTargetForm({ form, error, onChange, onSubmit, onCancel }: AddTargetFormProps) {
     const isMqtt = form.protocol === "mqtts";
-    const isWebRTC = form.protocol === "webrtc";
-
     const inputCls =
-        "w-full rounded border border-player-border bg-player-bg px-2 py-1.5 text-xs text-player-text placeholder:text-player-text-muted focus:border-player-accent focus:outline-none";
-    const labelCls = "mb-0.5 block text-[10px] uppercase tracking-wide text-player-text-muted";
+        "w-full rounded border border-player-border bg-player-bg px-3 py-2 text-xs text-player-text placeholder:text-player-text-muted focus:border-player-accent focus:outline-none";
+    const labelCls = "mb-1 block text-[10px] uppercase tracking-wide text-player-text-muted";
 
     return (
-        <div className="mt-3 rounded-lg border border-player-accent/40 bg-player-surface p-3">
-            <div className="mb-3 text-xs font-semibold">New Endpoint</div>
+        <div className="rounded-lg border border-player-accent/40 bg-player-bg/40 p-3">
+            <div className="mb-3 text-xs font-semibold text-player-text">New Beacon Endpoint</div>
 
-            <div className="space-y-2">
+            <div className="space-y-3">
                 <div>
                     <label className={labelCls}>Name</label>
                     <input
                         className={inputCls}
-                        placeholder="My Server"
+                        placeholder="My server"
                         value={form.name}
                         onChange={e => onChange({ ...form, name: e.target.value })}
                         autoFocus
@@ -636,7 +879,7 @@ function AddTargetForm({ form, error, onChange, onSubmit, onCancel }: AddTargetF
                         value={form.protocol}
                         onChange={e => onChange({ ...form, protocol: e.target.value as StreamProtocol })}
                     >
-                        {PROTOCOL_OPTIONS.map(p => (
+                        {BEACON_PROTOCOL_OPTIONS.map(p => (
                             <option key={p} value={p}>
                                 {p.toUpperCase()}
                             </option>
@@ -644,31 +887,15 @@ function AddTargetForm({ form, error, onChange, onSubmit, onCancel }: AddTargetF
                     </select>
                 </div>
 
-                {!isWebRTC && (
-                    <div>
-                        <label className={labelCls}>URL</label>
-                        <input
-                            className={inputCls}
-                            placeholder={
-                                isMqtt ? "mqtts://mqtt.example.com:8883" : "wss://example.com/stream"
-                            }
-                            value={form.url}
-                            onChange={e => onChange({ ...form, url: e.target.value })}
-                        />
-                    </div>
-                )}
-
-                {isWebRTC && (
-                    <div>
-                        <label className={labelCls}>Signaling URL</label>
-                        <input
-                            className={inputCls}
-                            placeholder="wss://signal.example.com/ws"
-                            value={form.signalingUrl}
-                            onChange={e => onChange({ ...form, signalingUrl: e.target.value })}
-                        />
-                    </div>
-                )}
+                <div>
+                    <label className={labelCls}>URL</label>
+                    <input
+                        className={inputCls}
+                        placeholder={isMqtt ? "wss://mqtt.example.com/mqtt" : "wss://example.com/ws"}
+                        value={form.url}
+                        onChange={e => onChange({ ...form, url: e.target.value })}
+                    />
+                </div>
 
                 {isMqtt && (
                     <>
@@ -685,26 +912,12 @@ function AddTargetForm({ form, error, onChange, onSubmit, onCancel }: AddTargetF
                             <label className={labelCls}>Publish topic</label>
                             <input
                                 className={inputCls}
-                                placeholder="player/state (defaults to sub topic)"
+                                placeholder="player/state"
                                 value={form.pubTopic}
                                 onChange={e => onChange({ ...form, pubTopic: e.target.value })}
                             />
                         </div>
                     </>
-                )}
-
-                {(form.protocol === "webrtc" || isMqtt) && !isWebRTC && (
-                    <div>
-                        <label className={labelCls}>
-                            {isMqtt ? "Default topic / channel" : "Room / channel"}
-                        </label>
-                        <input
-                            className={inputCls}
-                            placeholder="player/live"
-                            value={form.subTopic}
-                            onChange={e => onChange({ ...form, subTopic: e.target.value })}
-                        />
-                    </div>
                 )}
             </div>
 
@@ -713,13 +926,13 @@ function AddTargetForm({ form, error, onChange, onSubmit, onCancel }: AddTargetF
             <div className="mt-3 flex gap-2">
                 <button
                     onClick={onSubmit}
-                    className="flex-1 rounded bg-player-accent px-3 py-1.5 text-xs font-medium text-white hover:opacity-90"
+                    className="flex-1 rounded bg-player-accent px-3 py-2 text-xs font-medium text-white hover:opacity-90"
                 >
-                    Add
+                    Add endpoint
                 </button>
                 <button
                     onClick={onCancel}
-                    className="flex-1 rounded border border-player-border px-3 py-1.5 text-xs text-player-text-muted hover:bg-player-border"
+                    className="flex-1 rounded border border-player-border px-3 py-2 text-xs text-player-text-muted hover:bg-player-border"
                 >
                     Cancel
                 </button>

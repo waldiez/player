@@ -63,7 +63,6 @@ jobs:
             --feed /tmp/latest-feed.generated.json \
             --out /tmp/latest-auto.wid \
             --verify-news \
-            --strict-news \
             --max-age-hours 72 \
             --min-keyword-hits 1 \
             $EXTRA_ARGS

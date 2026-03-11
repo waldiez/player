@@ -8,6 +8,7 @@
  *   bottom-grid (Studio: EQ/FX/Presets | Tracklist)
  */
 import { useAudioChain } from "@/hooks/useAudioChain";
+import { useBackgroundPlaybackGuard } from "@/hooks/useBackgroundPlaybackGuard";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useMediaStream } from "@/hooks/useMediaStream";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
@@ -141,9 +142,14 @@ function findPresetMatch(chain: AudioChainConfig): EQPresetName {
 interface WideriaLayoutProps {
     mode: MoodMode;
     onAutomationsOpen?: () => void;
+    pausePlaybackWhenHidden?: boolean;
 }
 
-export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
+export function WideriaLayout({
+    mode,
+    onAutomationsOpen,
+    pausePlaybackWhenHidden = false,
+}: WideriaLayoutProps) {
     // ── Audio chain ─────────────────────────────────────────────────────
     const [audioEl, setAudioEl] = useState<HTMLAudioElement | null>(null);
     const isSeeking = useRef(false);
@@ -177,8 +183,9 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
         (entry: MediaFile) => {
             addToLibrary(entry);
             setCurrentMedia(entry);
+            setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         },
-        [addToLibrary, setCurrentMedia],
+        [addToLibrary, setCurrentMedia, setPlayback],
     );
 
     // ── Video / visualizer toggle (YouTube only) ─────────────────────────
@@ -420,6 +427,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
 
     // ── Fetch native audio URL on track change ────────────────────────────
     const ytId = currentMedia?.youtubeId ?? (currentMedia ? extractYouTubeId(currentMedia.path) : null);
+    const ytPlaylistId = currentMedia?.playlistId ?? null;
     useEffect(() => {
         if (!isYouTube || !ytId) {
             setNativeYtUrl(null);
@@ -796,6 +804,59 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
         } else audioEl.pause();
     }, [playback.isPlaying, audioEl, init, resume, useAudio]);
 
+    const resumeForegroundPlayback = useCallback(() => {
+        if (useMpvAudio) {
+            setPlayback({ isPlaying: true });
+            return;
+        }
+        if (useAudio && audioEl) {
+            init();
+            resume();
+            void audioEl.play().catch(() => {});
+            return;
+        }
+        if (
+            !isTauriPackagedEnv &&
+            !useMpvAudio &&
+            !useNativeAudio &&
+            isYouTube &&
+            (!!ytId || !!ytPlaylistId)
+        ) {
+            ytEmbedRef.current?.playVideo();
+        }
+    }, [
+        audioEl,
+        init,
+        isTauriPackagedEnv,
+        isYouTube,
+        resume,
+        setPlayback,
+        useAudio,
+        useMpvAudio,
+        useNativeAudio,
+        ytId,
+        ytPlaylistId,
+    ]);
+
+    const pauseForBackground = useCallback(() => {
+        if (useAudio && audioEl) {
+            audioEl.pause();
+        }
+        setPlayback({ isPlaying: false });
+    }, [audioEl, setPlayback, useAudio]);
+
+    useBackgroundPlaybackGuard({
+        pauseWhenHidden: pausePlaybackWhenHidden,
+        isPlaying: playback.isPlaying,
+        onPauseForBackground: pauseForBackground,
+        onResumeForeground: () => {
+            if (!playback.isPlaying) {
+                setPlayback({ isPlaying: true });
+            }
+            resumeForegroundPlayback();
+        },
+    });
+
     useEffect(() => {
         if (directVolumePath && audioEl) {
             // Backend yt-dlp URLs can be less predictable with WebAudio CORS rules.
@@ -948,6 +1009,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
+        setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
     }
 
     function handleDrop(e: React.DragEvent) {
@@ -976,8 +1038,7 @@ export function WideriaLayout({ mode, onAutomationsOpen }: WideriaLayoutProps) {
         playback.isMuted || playback.volume === 0 ? VolumeX : playback.volume < 0.5 ? Volume1 : Volume2;
     const progressPct = playback.duration ? (playback.currentTime / playback.duration) * 100 : 0;
 
-    // ytId is defined earlier (above the yt-dlp fetch effect); reused here.
-    const ytPlaylistId = currentMedia?.playlistId ?? null;
+    // ytId / ytPlaylistId are defined earlier and reused here.
     // In Tauri, the IFrame is replaced by <audio src={nativeYtUrl}> via the yt-dlp path.
     const showYouTubeEmbed =
         !isTauriPackagedEnv && !useMpvAudio && !useNativeAudio && isYouTube && (!!ytId || !!ytPlaylistId);

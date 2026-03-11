@@ -37,7 +37,7 @@ export function AddSourceDialog({ onClose }: AddSourceDialogProps) {
     const [url, setUrl] = useState("");
     const [error, setError] = useState<string | null>(null);
 
-    const { addToLibrary, setCurrentMedia } = usePlayerStore();
+    const { addToLibrary, setCurrentMedia, setPlayback } = usePlayerStore();
 
     const rtsp = isRtspUrl(url);
     const parsed = url.trim() ? parseMediaUrl(url) : null;
@@ -69,6 +69,7 @@ export function AddSourceDialog({ onClose }: AddSourceDialogProps) {
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
+        setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         onClose();
     }
 

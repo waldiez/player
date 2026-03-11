@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key
+.PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-build-linux flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key flutter-run-linux flutter-run-linux-local flutter-run-linux-local-key flutter-build-linux-local flutter-build-linux-local-key
 
 help: ## Show available commands
 	@awk 'BEGIN {FS = ":.*## "}; /^[a-zA-Z0-9_.-]+:.*## / {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
@@ -41,6 +41,12 @@ flutter-run: ## Run Flutter desktop spike from ./flutter
 flutter-build-macos: ## Build Flutter macOS app from ./flutter
 	cd flutter && flutter build macos
 
+flutter-run-linux: ## Run Flutter Linux desktop shell from ./flutter
+	cd flutter && flutter run -d linux
+
+flutter-build-linux: ## Build Flutter Linux desktop app from ./flutter
+	cd flutter && flutter build linux
+
 flutter-icons: ## Generate Flutter desktop launcher icons from src-tauri/icons/icon.png
 	cd flutter && flutter pub get && dart run flutter_launcher_icons
 
@@ -61,12 +67,22 @@ flutter-build-macos-key: ## Build Flutter macOS with YT_API_KEY from env (YT_API
 flutter-run-local: ## Run Flutter against local web app URL (default http://localhost:5173)
 	cd flutter && flutter run -d macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
 
+flutter-run-linux-local: ## Run Flutter Linux against local web app URL (default http://localhost:5173)
+	cd flutter && flutter run -d linux --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
+
 flutter-run-local-key: ## Run Flutter against local web app URL + YT key
 	@if [ -z "$(YT_API_KEY)" ]; then \
 		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-run-local-key"; \
 		exit 1; \
 	fi
 	cd flutter && flutter run -d macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-run-linux-local-key: ## Run Flutter Linux against local web app URL + YT key
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-run-linux-local-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter run -d linux --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
 
 flutter-run-release: ## Run Flutter macOS in release mode (avoids debug key-event assertions)
 	cd flutter && flutter run -d macos --release
@@ -84,12 +100,22 @@ flutter-run-release-local-key: ## Run Flutter macOS release mode against local w
 flutter-build-macos-local: ## Build Flutter macOS against local web app URL
 	cd flutter && flutter build macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
 
+flutter-build-linux-local: ## Build Flutter Linux against local web app URL
+	cd flutter && flutter build linux --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173)
+
 flutter-build-macos-local-key: ## Build Flutter macOS against local web app URL + YT key
 	@if [ -z "$(YT_API_KEY)" ]; then \
 		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-build-macos-local-key"; \
 		exit 1; \
 	fi
 	cd flutter && flutter build macos --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
+
+flutter-build-linux-local-key: ## Build Flutter Linux against local web app URL + YT key
+	@if [ -z "$(YT_API_KEY)" ]; then \
+		echo "Missing YT_API_KEY. Usage: YT_API_KEY=... make flutter-build-linux-local-key"; \
+		exit 1; \
+	fi
+	cd flutter && flutter build linux --dart-define=PLAYER_WEB_URL=$(or $(PLAYER_WEB_URL),http://localhost:5173) --dart-define=YT_API_KEY=$(YT_API_KEY)
 
 snapshot: manifest-check manifest-compat build ## Build and zip web snapshot for scp/serve
 	@mkdir -p snapshots

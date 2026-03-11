@@ -10,6 +10,7 @@
  * can forward scrubber / keyboard seeks to the YouTube player.
  */
 import { useAudioChain } from "@/hooks/useAudioChain";
+import { useBackgroundPlaybackGuard } from "@/hooks/useBackgroundPlaybackGuard";
 import { extractYouTubeId } from "@/lib/mediaSource";
 import { getPipedAudioUrl } from "@/lib/pipedPlayer";
 import { getRuntimeContext } from "@/lib/runtime";
@@ -18,7 +19,7 @@ import { usePlayerStore } from "@/stores";
 import { EQ_PRESETS, MOOD_META } from "@/types/mood";
 import type { MoodMode } from "@/types/mood";
 
-import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from "react";
+import { forwardRef, useCallback, useEffect, useImperativeHandle, useRef, useState } from "react";
 
 import { MoodVisualizer } from "./MoodVisualizer";
 import { YouTubeEmbed } from "./YouTubeEmbed";
@@ -27,6 +28,7 @@ import type { YouTubeEmbedHandle } from "./YouTubeEmbed";
 interface MoodPlayerProps {
     mode: MoodMode;
     className?: string;
+    pausePlaybackWhenHidden?: boolean;
 }
 
 export interface MoodPlayerHandle {
@@ -34,7 +36,7 @@ export interface MoodPlayerHandle {
 }
 
 export const MoodPlayer = forwardRef<MoodPlayerHandle, MoodPlayerProps>(function MoodPlayerInner(
-    { mode, className = "" },
+    { mode, className = "", pausePlaybackWhenHidden = false },
     ref,
 ) {
     const { currentMedia, playback, playerModeConfig, setPlayback, playNextInLibrary, repeatMode } =
@@ -153,6 +155,37 @@ export const MoodPlayer = forwardRef<MoodPlayerHandle, MoodPlayerProps>(function
             audioEl.pause();
         }
     }, [playback.isPlaying, audioEl, init, resume, useAudio]);
+
+    const resumeForegroundPlayback = useCallback(() => {
+        if (useAudio && audioEl) {
+            init();
+            resume();
+            void audioEl.play().catch(() => {});
+            return;
+        }
+        if (isYouTube && !useNativeAudio) {
+            ytRef.current?.playVideo();
+        }
+    }, [audioEl, init, isYouTube, resume, useAudio, useNativeAudio]);
+
+    const pauseForBackground = useCallback(() => {
+        if (useAudio && audioEl) {
+            audioEl.pause();
+        }
+        setPlayback({ isPlaying: false });
+    }, [audioEl, setPlayback, useAudio]);
+
+    useBackgroundPlaybackGuard({
+        pauseWhenHidden: pausePlaybackWhenHidden,
+        isPlaying: playback.isPlaying,
+        onPauseForBackground: pauseForBackground,
+        onResumeForeground: () => {
+            if (!playback.isPlaying) {
+                setPlayback({ isPlaying: true });
+            }
+            resumeForegroundPlayback();
+        },
+    });
 
     // If we switched from native YouTube audio back to iframe while playing,
     // ensure playback resumes in the embedded player.

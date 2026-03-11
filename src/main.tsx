@@ -41,8 +41,10 @@ function upsertMediaUrl(src: string): void {
         size: 0,
         createdAt: new Date(),
     };
-    usePlayerStore.getState().addToLibrary(entry);
-    usePlayerStore.getState().setCurrentMedia(entry);
+    const store = usePlayerStore.getState();
+    store.addToLibrary(entry);
+    store.setCurrentMedia(entry);
+    store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
 }
 
 async function applyLaunchParams(params: URLSearchParams): Promise<boolean> {
@@ -148,8 +150,10 @@ async function setupTauriListeners(): Promise<void> {
                 size: 0,
                 createdAt: new Date(),
             };
-            usePlayerStore.getState().addToLibrary(entry);
-            usePlayerStore.getState().setCurrentMedia(entry);
+            const store = usePlayerStore.getState();
+            store.addToLibrary(entry);
+            store.setCurrentMedia(entry);
+            store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         }
     });
 

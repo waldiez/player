@@ -44,7 +44,7 @@ const FPS_OPTIONS = [
 
 export function AddDeviceDialog({ onClose }: AddDeviceDialogProps) {
     const [tab, setTab] = useState<Tab>("camera");
-    const { addToLibrary, setCurrentMedia } = usePlayerStore();
+    const { addToLibrary, setCurrentMedia, setPlayback } = usePlayerStore();
 
     // ── Shared: device lists ──────────────────────────────────────────────
     const [cameras, setCameras] = useState<MediaDeviceInfo[]>([]);
@@ -130,6 +130,7 @@ export function AddDeviceDialog({ onClose }: AddDeviceDialogProps) {
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
+        setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         onClose();
     }
 
@@ -152,6 +153,7 @@ export function AddDeviceDialog({ onClose }: AddDeviceDialogProps) {
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
+        setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         onClose();
     }
 
@@ -193,6 +195,7 @@ export function AddDeviceDialog({ onClose }: AddDeviceDialogProps) {
             };
             addToLibrary(entry);
             setCurrentMedia(entry);
+            setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
             onClose();
         } catch (e) {
             if (e instanceof Error && e.name !== "AbortError") {
@@ -240,6 +243,7 @@ export function AddDeviceDialog({ onClose }: AddDeviceDialogProps) {
         };
         addToLibrary(entry);
         setCurrentMedia(entry);
+        setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         onClose();
     }
 

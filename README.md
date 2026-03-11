@@ -156,7 +156,7 @@ bun run wid:latest --feed path-or-url-to-feed.json --out static/cdn/repo/latest-
 bun run wid:latest:pipeline
 # trust report only (no write):
 bun run wid:latest:report
-# strict latest-news validation:
+# strict latest-news validation (fails if any track is rejected):
 bun run wid:latest --feed path-or-url-to-feed.json --out static/cdn/repo/latest-auto.wid --verify-news --strict-news
 ```
 
@@ -173,7 +173,9 @@ Feed contract (minimum):
 - If secret `LATEST_WID_FEED_URL` exists, the workflow fetches that feed URL.
 - Otherwise it builds `static/cdn/repo/latest-feed.generated.json` from YouTube Search API.
 - The workflow also publishes `public/cdn/repo/latest-auto.wid` for first-load bootstrap.
-- In strict mode, `YOUTUBE_API_KEY` is required to validate recency/topic against YouTube metadata.
+- `YOUTUBE_API_KEY` is required to validate recency/topic against YouTube metadata.
+- Automated workflows run in non-strict mode: rejected tracks are dropped, and generation continues as long as at least one track passes validation.
+- `--strict-news` remains available for manual runs when you want the command to fail on any rejected track.
 - Optional semantic scoring can be enabled with:
   - `OPENAI_API_KEY` + `--llm-provider openai`
   - `ANTHROPIC_API_KEY` + `--llm-provider anthropic`
@@ -184,7 +186,7 @@ Feed contract (minimum):
   - `LATEST_WID_BLOCKED_TERMS`
   - `LATEST_WID_LLM_PROVIDER`
   - `LATEST_WID_LLM_MODEL`
-  - `LATEST_WID_LLM_MIN_SCORE`
+  - `LATEST_WID_LLM_MIN_SCORE` (defaults to `70` if unset)
 - Use `--dry-run --dry-run-report` to print per-track trust evidence (age, keyword hits, llm score, reason) without writing files.
 - Upload-ready non-default presets are listed in `static/cdn/repo/upload-catalog.json`.
 
