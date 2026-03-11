@@ -25,6 +25,7 @@ import {
     micConstraints,
     pendingStreams,
 } from "@/lib/deviceSource";
+import { reportDiagnostic } from "@/lib/diagnostics";
 import { extractYouTubeId } from "@/lib/mediaSource";
 import {
     type MoodCustomization,
@@ -502,12 +503,12 @@ export function WideriaLayout({
                     try {
                         const ok = await attemptYtdlp();
                         if (ok) return;
-                        return;
                     } catch {
-                        const ok = await attemptPiped();
-                        if (ok) {
-                            triedDesktopPipedRef.current = true;
-                        }
+                        // Fall through to Piped fallback.
+                    }
+                    const ok = await attemptPiped();
+                    if (ok) {
+                        triedDesktopPipedRef.current = true;
                         return;
                     }
                 } else {
@@ -517,11 +518,23 @@ export function WideriaLayout({
                 if (!cancelled) {
                     setNativeYtUrl(null);
                     setYtResolveDone(true);
+                    reportDiagnostic({
+                        level: "warn",
+                        area: "playback",
+                        message: "YouTube native audio resolution failed; using embed fallback.",
+                        detail: ytId,
+                    });
                 }
             } catch {
                 if (!cancelled) {
                     setNativeYtUrl(null);
                     setYtResolveDone(true);
+                    reportDiagnostic({
+                        level: "warn",
+                        area: "playback",
+                        message: "YouTube native audio resolution failed; using embed fallback.",
+                        detail: ytId,
+                    });
                 }
             }
         })();

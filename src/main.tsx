@@ -4,6 +4,9 @@ import { createRoot } from "react-dom/client";
 import { App } from "./App";
 import "./index.css";
 import { startBeaconJoin } from "./lib/beaconJoin";
+import { refreshDesktopStatus } from "./lib/desktopStatus";
+import { reportDiagnostic } from "./lib/diagnostics";
+import { loadEditorProjectFromDesktopPath } from "./lib/editorPersistence";
 import { parseMediaUrl } from "./lib/mediaSource";
 import {
     bootstrapDefaultPrefsFromAsset,
@@ -11,10 +14,11 @@ import {
     importPrefsFromUrl,
     readPrefs,
 } from "./lib/moodDefaults";
+import { importReaderDocumentFromBytes, isReaderFileName } from "./lib/readerImport";
 import { getRuntimeContext } from "./lib/runtime";
 import { mpvCheck, mpvPause, mpvStart } from "./lib/tauriPlayer";
 import { nextWid } from "./lib/wid";
-import { usePlayerStore } from "./stores";
+import { useEditorStore, usePlayerStore, useReaderStore } from "./stores";
 import type { MediaFile, PlayerMode } from "./types";
 import { MOOD_MODES } from "./types/mood";
 
@@ -25,10 +29,53 @@ if (!rootElement) {
 const root = rootElement;
 let stopBeaconJoin: (() => void) | null = null;
 
+function applyImportedPrefsState(): void {
+    const prefs = readPrefs();
+    const store = usePlayerStore.getState();
+    if (!prefs) return;
+    if (typeof prefs.volume === "number" && isFinite(prefs.volume)) {
+        store.setPlayback({ volume: Math.max(0, Math.min(1, prefs.volume)) });
+    }
+    if (typeof prefs.muted === "boolean") {
+        store.setPlayback({ isMuted: prefs.muted });
+    }
+    if (typeof prefs.mode === "string" && (MOOD_MODES as readonly string[]).includes(prefs.mode)) {
+        store.setPlayerMode(prefs.mode as PlayerMode);
+    }
+}
+
+function findExistingMedia(
+    library: MediaFile[],
+    matcher: Partial<Pick<MediaFile, "path" | "youtubeId" | "playlistId">>,
+): MediaFile | null {
+    return (
+        library.find(
+            item =>
+                (matcher.youtubeId && item.youtubeId === matcher.youtubeId
+                    ? (item.playlistId ?? null) === (matcher.playlistId ?? null)
+                    : false) || (matcher.path ? item.path === matcher.path : false),
+        ) ?? null
+    );
+}
+
 function upsertMediaUrl(src: string): void {
     const parsed = parseMediaUrl(src);
-    if (!parsed) return;
-    const entry: MediaFile = {
+    const store = usePlayerStore.getState();
+    if (!parsed) {
+        reportDiagnostic({
+            level: "warn",
+            area: "launch",
+            message: "Ignored an invalid media link from launch parameters.",
+            detail: src,
+        });
+        return;
+    }
+    const existing = findExistingMedia(store.mediaLibrary, {
+        path: parsed.path,
+        youtubeId: parsed.youtubeId,
+        playlistId: parsed.playlistId,
+    });
+    const entry: MediaFile = existing ?? {
         id: nextWid(),
         name: parsed.name,
         path: parsed.path,
@@ -41,8 +88,9 @@ function upsertMediaUrl(src: string): void {
         size: 0,
         createdAt: new Date(),
     };
-    const store = usePlayerStore.getState();
-    store.addToLibrary(entry);
+    if (!existing) {
+        store.addToLibrary(entry);
+    }
     store.setCurrentMedia(entry);
     store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
 }
@@ -52,6 +100,16 @@ async function applyLaunchParams(params: URLSearchParams): Promise<boolean> {
     let widLoaded = false;
     if (widUrl) {
         widLoaded = await importPrefsFromUrl(widUrl);
+        if (widLoaded) {
+            applyImportedPrefsState();
+        } else {
+            reportDiagnostic({
+                level: "warn",
+                area: "launch",
+                message: "Remote preset import failed.",
+                detail: widUrl,
+            });
+        }
     }
 
     const src = params.get("src");
@@ -71,6 +129,13 @@ async function applyLaunchParams(params: URLSearchParams): Promise<boolean> {
             topic,
             sessionId,
             protocol,
+        });
+    } else if (beaconUrl || topic) {
+        reportDiagnostic({
+            level: "warn",
+            area: "launch",
+            message: "Ignored incomplete live sync launch parameters.",
+            detail: { beaconUrl, topic },
         });
     }
 
@@ -95,8 +160,13 @@ async function handleProtocolUri(overrideUri?: string): Promise<boolean> {
     try {
         const inner = new URL(raw.replace(/^(?:web\+)?waldiez:\/\//, "https://waldiez.internal/"));
         return await applyLaunchParams(inner.searchParams);
-    } catch {
-        // ignore malformed URIs
+    } catch (error) {
+        reportDiagnostic({
+            level: "warn",
+            area: "protocol",
+            message: "Ignored a malformed deep link.",
+            detail: error,
+        });
         return false;
     }
 }
@@ -111,36 +181,87 @@ function mediaTypeFromPath(path: string): "video" | "audio" {
  * Set up Tauri-specific event listeners for file-open (OS file association /
  * CLI args) and deep-link (waldiez://) events.  Called once before render.
  */
-async function setupTauriListeners(): Promise<void> {
+async function setupTauriListeners(): Promise<{
+    listenersReady: boolean;
+    fileOpenEvents: boolean;
+    deepLinkEvents: boolean;
+}> {
     const { listen } = await import("@tauri-apps/api/event");
     const { convertFileSrc } = await import("@tauri-apps/api/core");
-
     // File opened from Finder/Explorer/CLI
     await listen<string>("file-opened", async event => {
         const path = event.payload;
         const lower = path.toLowerCase();
+        const name = path.replace(/.*[\\/]/, "");
+        const baseLower = name.toLowerCase();
 
         if (lower.endsWith(".wid") || lower.endsWith(".waldiez")) {
             // Read the file and pass as a File object to the existing importer.
             try {
                 const { readFile } = await import("@tauri-apps/plugin-fs");
                 const bytes = await readFile(path);
-                const name = path.replace(/.*[\\/]/, "");
                 const file = new File([bytes], name);
-                await importPrefsFromFile(file);
+                const ok = await importPrefsFromFile(file);
+                if (ok) {
+                    applyImportedPrefsState();
+                } else {
+                    reportDiagnostic({
+                        level: "warn",
+                        area: "file-open",
+                        message: "Preset import failed.",
+                        detail: name,
+                    });
+                }
             } catch (err) {
                 console.warn("[file-opened] failed to import preset:", err);
+                reportDiagnostic({
+                    level: "error",
+                    area: "file-open",
+                    message: "Failed to import preset file.",
+                    detail: err,
+                });
+            }
+        } else if (baseLower === "manifest" || isReaderFileName(path)) {
+            try {
+                const { readFile } = await import("@tauri-apps/plugin-fs");
+                const bytes = await readFile(path);
+                const document = await importReaderDocumentFromBytes({
+                    name,
+                    path,
+                    bytes,
+                });
+                useReaderStore.getState().setCurrentDocument(document);
+                usePlayerStore.getState().setPlayerMode("reader");
+            } catch (err) {
+                console.warn("[file-opened] failed to open reader document:", err);
+                reportDiagnostic({
+                    level: "error",
+                    area: "file-open",
+                    message: "Failed to open document in reader mode.",
+                    detail: err,
+                });
             }
         } else if (lower.endsWith(".wdz")) {
-            const { invoke } = await import("@tauri-apps/api/core");
-            await invoke("load_project", { path }).catch(err =>
-                console.warn("[file-opened] failed to load project:", err),
-            );
+            try {
+                const project = await loadEditorProjectFromDesktopPath(path);
+                useEditorStore.getState().setCurrentProject(project);
+                usePlayerStore.getState().setPlayerMode("editor");
+            } catch (err) {
+                console.warn("[file-opened] failed to load project:", err);
+                reportDiagnostic({
+                    level: "error",
+                    area: "file-open",
+                    message: "Failed to load desktop project bundle.",
+                    detail: err,
+                });
+            }
         } else {
             // Video / audio — add to library and select it.
             const assetUrl = convertFileSrc(path);
             const name = path.replace(/.*[\\/]/, "");
-            const entry: MediaFile = {
+            const store = usePlayerStore.getState();
+            const existing = findExistingMedia(store.mediaLibrary, { path: assetUrl });
+            const entry: MediaFile = existing ?? {
                 id: nextWid(),
                 name,
                 path: assetUrl,
@@ -150,21 +271,36 @@ async function setupTauriListeners(): Promise<void> {
                 size: 0,
                 createdAt: new Date(),
             };
-            const store = usePlayerStore.getState();
-            store.addToLibrary(entry);
+            if (!existing) {
+                store.addToLibrary(entry);
+            }
             store.setCurrentMedia(entry);
             store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
         }
     });
-
     // Deep-link (waldiez://) forwarded from the Tauri backend
     await listen<string>("deep-link", async event => {
-        await handleProtocolUri(event.payload);
+        const ok = await handleProtocolUri(event.payload);
+        if (!ok) {
+            reportDiagnostic({
+                level: "warn",
+                area: "protocol",
+                message: "Deep link did not produce any app changes.",
+                detail: event.payload,
+            });
+        }
     });
+    return {
+        listenersReady: true,
+        fileOpenEvents: true,
+        deepLinkEvents: true,
+    };
 }
 
 async function start() {
     const runtime = getRuntimeContext();
+
+    void refreshDesktopStatus();
 
     await bootstrapDefaultPrefsFromAsset();
 
@@ -174,7 +310,22 @@ async function start() {
 
     // Set up Tauri event listeners before render (non-blocking for non-Tauri).
     if (runtime.isTauri) {
-        await setupTauriListeners();
+        try {
+            const listenerStatus = await setupTauriListeners();
+            void refreshDesktopStatus(listenerStatus);
+        } catch (error) {
+            reportDiagnostic({
+                level: "error",
+                area: "desktop",
+                message: "Failed to initialize desktop file-open/deep-link listeners.",
+                detail: error,
+            });
+            void refreshDesktopStatus({
+                listenersReady: false,
+                fileOpenEvents: false,
+                deepLinkEvents: false,
+            });
+        }
     }
 
     // Packaged desktop: prewarm mpv daemon early and keep it paused.

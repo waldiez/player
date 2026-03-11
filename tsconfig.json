@@ -6,7 +6,8 @@
         "strict": true,
         "noEmit": true,
         "paths": {
-            "@/*": ["./src/*"]
+            "@/*": ["./src/*"],
+            "@waldiez/editor-core": ["./packages/editor-core/src/index.ts"]
         }
     },
     "references": [

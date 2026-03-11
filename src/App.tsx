@@ -2,9 +2,12 @@ import { EffectsPanel } from "@/components/effects";
 import { AddSourceDialog } from "@/components/player/AddSourceDialog";
 import { AutomationsPanel } from "@/components/player/AutomationsPanel";
 import { BottomNav } from "@/components/player/BottomNav";
+import { DesktopDiagnosticsOverlay } from "@/components/player/DesktopDiagnosticsOverlay";
+import { EditorView } from "@/components/player/EditorView";
 import { MoodPlayer } from "@/components/player/MoodPlayer";
 import type { MoodPlayerHandle } from "@/components/player/MoodPlayer";
 import { PlaylistPanel } from "@/components/player/PlaylistPanel";
+import { ReaderView } from "@/components/player/ReaderView";
 import { ScreensaverOverlay } from "@/components/player/ScreensaverOverlay";
 import { SearchBar } from "@/components/player/SearchBar";
 import { SettingsPanel } from "@/components/player/SettingsPanel";
@@ -16,12 +19,13 @@ import { useMediaSession } from "@/hooks/useMediaSession";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriTray } from "@/hooks/useTauriTray";
+import { importReaderDocumentFromFile, isReaderFileName } from "@/lib/readerImport";
 import { type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { useIdleTimer } from "@/lib/useIdleTimer";
 import { cn } from "@/lib/utils";
 import { getSuggestedMood } from "@/lib/weatherMood";
 import { nextWid } from "@/lib/wid";
-import { usePlayerStore } from "@/stores";
+import { usePlayerStore, useReaderStore } from "@/stores";
 import { MODE_CONFIGS, type PlayerMode, getModeConfig } from "@/types";
 import type { MediaFile } from "@/types";
 import type { MoodMode } from "@/types/mood";
@@ -30,6 +34,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 
 import {
     BookOpen,
+    BookOpenText,
     ChevronLeft,
     ChevronRight,
     Disc3,
@@ -44,6 +49,7 @@ import {
     Moon,
     Orbit,
     Pause,
+    PencilRuler,
     Play,
     PlayCircle,
     Presentation,
@@ -71,6 +77,8 @@ function MoodPersistenceBridge({ mode }: { mode: MoodMode }) {
 
 const MODE_ICONS: Record<PlayerMode, React.FC<{ className?: string }>> = {
     standard: PlayCircle,
+    reader: BookOpenText,
+    editor: PencilRuler,
     storyteller: Flame,
     audiobook: BookOpen,
     cinema: Film,
@@ -128,12 +136,15 @@ export function App() {
     const [isScreensaverActive, setIsScreensaverActive] = useState(false);
     const [uiSettings, setUiSettings] = useState<UiSettings>(readUiSettings);
     const containerRef = useRef<HTMLDivElement>(null);
+    const setCurrentDocument = useReaderStore(s => s.setCurrentDocument);
     // Ref to MoodPlayer so we can forward scrubber/keyboard seeks to YouTube
     const moodPlayerRef = useRef<MoodPlayerHandle>(null);
 
     const isMoodMode = (
         ["journey", "dock", "storm", "fest", "rock", "pop", "disco"] as PlayerMode[]
     ).includes(playerMode);
+    const isReaderMode = playerMode === "reader";
+    const isEditorMode = playerMode === "editor";
 
     // Sync theme CSS variables whenever playerMode changes
     useEffect(() => {
@@ -200,6 +211,9 @@ export function App() {
     useEffect(() => {
         const handleKeyDown = (e: KeyboardEvent) => {
             if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) {
+                return;
+            }
+            if (isReaderMode || isEditorMode) {
                 return;
             }
 
@@ -278,6 +292,8 @@ export function App() {
         setVolume,
         seek,
         setPlaybackRate,
+        isEditorMode,
+        isReaderMode,
         playback.volume,
         playback.playbackRate,
         playerModeConfig,
@@ -345,28 +361,53 @@ export function App() {
         store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
     }, []);
 
+    const openReaderDocument = useCallback(
+        async (file: File) => {
+            const document = await importReaderDocumentFromFile(file);
+            setCurrentDocument(document);
+            setPlayerMode("reader");
+        },
+        [setCurrentDocument, setPlayerMode],
+    );
+
     const handleFileDrop = useCallback(
         (e: React.DragEvent) => {
             e.preventDefault();
-            const files = Array.from(e.dataTransfer.files).filter(
-                f => f.type.startsWith("video/") || f.type.startsWith("audio/"),
+            const files = Array.from(e.dataTransfer.files);
+            void Promise.all(
+                files.map(async file => {
+                    if (isReaderFileName(file.name)) {
+                        await openReaderDocument(file);
+                        return;
+                    }
+                    if (file.type.startsWith("video/") || file.type.startsWith("audio/")) {
+                        addMedia(file);
+                    }
+                }),
             );
-            files.forEach(addMedia);
         },
-        [addMedia],
+        [addMedia, openReaderDocument],
     );
 
     const handleFileSelect = useCallback(() => {
         const input = document.createElement("input");
         input.type = "file";
-        input.accept = "video/*,audio/*";
+        input.accept = "video/*,audio/*,.txt,.md,.markdown,.pdf,.html,.htm,.wid,.waldiez,.json,.yaml,.yml";
         input.multiple = true;
         input.onchange = e => {
             const files = Array.from((e.target as HTMLInputElement).files ?? []);
-            files.forEach(addMedia);
+            void Promise.all(
+                files.map(async file => {
+                    if (isReaderFileName(file.name)) {
+                        await openReaderDocument(file);
+                        return;
+                    }
+                    addMedia(file);
+                }),
+            );
         };
         input.click();
-    }, [addMedia]);
+    }, [addMedia, openReaderDocument]);
 
     const VolumeIcon =
         playback.isMuted || playback.volume === 0 ? VolumeX : playback.volume < 0.5 ? Volume1 : Volume2;
@@ -375,6 +416,7 @@ export function App() {
     if (isMoodMode) {
         return (
             <>
+                <DesktopDiagnosticsOverlay />
                 <WideriaLayout
                     mode={playerMode as MoodMode}
                     onAutomationsOpen={() => setShowAutomations(true)}
@@ -388,6 +430,48 @@ export function App() {
                             onAdd={addRule}
                             onRemove={removeRule}
                             onToggle={toggleRule}
+                        />
+                    </div>
+                )}
+            </>
+        );
+    }
+
+    if (isReaderMode) {
+        return (
+            <>
+                <DesktopDiagnosticsOverlay />
+                <ReaderView onSettingsOpen={() => setShowSettings(true)} />
+                {showSettings && (
+                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                        <SettingsPanel
+                            onClose={() => setShowSettings(false)}
+                            onUiSettingsChange={next => {
+                                setUiSettings(next);
+                                writeUiSettings(next);
+                            }}
+                            uiSettings={uiSettings}
+                        />
+                    </div>
+                )}
+            </>
+        );
+    }
+
+    if (isEditorMode) {
+        return (
+            <>
+                <DesktopDiagnosticsOverlay />
+                <EditorView onSettingsOpen={() => setShowSettings(true)} />
+                {showSettings && (
+                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                        <SettingsPanel
+                            onClose={() => setShowSettings(false)}
+                            onUiSettingsChange={next => {
+                                setUiSettings(next);
+                                writeUiSettings(next);
+                            }}
+                            uiSettings={uiSettings}
                         />
                     </div>
                 )}
@@ -412,6 +496,7 @@ export function App() {
             onDrop={handleFileDrop}
             {...swipeHandlers}
         >
+            <DesktopDiagnosticsOverlay />
             {/* Header */}
             <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
                 <div className="flex items-center gap-4">

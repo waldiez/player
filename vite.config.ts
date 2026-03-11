@@ -154,6 +154,7 @@ export default defineConfig({
     resolve: {
         alias: {
             "@": resolve(__dirname, "./src"),
+            "@waldiez/editor-core": resolve(__dirname, "./packages/editor-core/src/index.ts"),
         },
     },
     clearScreen: false,

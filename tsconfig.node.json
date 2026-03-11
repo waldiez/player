@@ -17,7 +17,8 @@
         "noUnusedParameters": true,
         "noFallthroughCasesInSwitch": true,
         "paths": {
-            "@/*": ["./src/*"]
+            "@/*": ["./src/*"],
+            "@waldiez/editor-core": ["./packages/editor-core/src/index.ts"]
         }
     },
     "include": ["vite.config.ts"]

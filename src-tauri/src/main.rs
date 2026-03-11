@@ -62,6 +62,7 @@ fn main() {
             commands::project::save_project,
             // Render commands
             commands::render::start_render,
+            commands::render::start_render_project,
             commands::render::cancel_render,
             commands::render::get_render_progress,
             // Effect commands

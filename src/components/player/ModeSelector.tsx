@@ -6,6 +6,7 @@ import { useState } from "react";
 
 import {
     BookOpen,
+    BookOpenText,
     Check,
     ChevronDown,
     Disc2,
@@ -16,6 +17,7 @@ import {
     Guitar,
     Mic2,
     Orbit,
+    PencilRuler,
     PlayCircle,
     Presentation,
     Sparkles,
@@ -24,6 +26,8 @@ import {
 
 const MODE_ICONS: Record<PlayerMode, React.FC<{ className?: string }>> = {
     standard: PlayCircle,
+    reader: BookOpenText,
+    editor: PencilRuler,
     storyteller: Flame,
     audiobook: BookOpen,
     cinema: Film,

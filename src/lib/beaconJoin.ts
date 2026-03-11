@@ -1,3 +1,4 @@
+import { reportDiagnostic } from "@/lib/diagnostics";
 import { parseMediaUrl } from "@/lib/mediaSource";
 import { nextWid } from "@/lib/wid";
 import { usePlayerStore } from "@/stores";
@@ -45,6 +46,15 @@ function maybeLoadMediaFromPayload(payload: BeaconPayload): void {
     if (store.currentMedia) return;
 
     if (payload.youtube_id) {
+        const existing = store.mediaLibrary.find(
+            item =>
+                item.youtubeId === payload.youtube_id &&
+                (item.playlistId ?? null) === (payload.playlist_id ?? null),
+        );
+        if (existing) {
+            store.setCurrentMedia(existing);
+            return;
+        }
         const watchUrl = payload.playlist_id
             ? `https://www.youtube.com/watch?v=${payload.youtube_id}&list=${payload.playlist_id}`
             : `https://www.youtube.com/watch?v=${payload.youtube_id}`;
@@ -130,16 +140,37 @@ export function startBeaconJoin(config: BeaconJoinConfig): () => void {
 
         client.on("connect", () => {
             client.subscribe(config.topic, { qos: 0 }, err => {
-                if (err) console.warn("[beacon-join] subscribe failed", err);
+                if (err) {
+                    console.warn("[beacon-join] subscribe failed", err);
+                    reportDiagnostic({
+                        level: "warn",
+                        area: "beacon",
+                        message: `Live sync subscription failed for ${config.topic}.`,
+                        detail: err,
+                    });
+                }
             });
         });
         client.on("message", (_topic, message) => {
             const payload = parseBeaconPayload(message.toString());
-            if (!payload) return;
+            if (!payload) {
+                reportDiagnostic({
+                    level: "warn",
+                    area: "beacon",
+                    message: "Ignored an invalid live sync payload.",
+                });
+                return;
+            }
             handlePayload(payload);
         });
         client.on("error", err => {
             console.warn("[beacon-join] mqtt error", err);
+            reportDiagnostic({
+                level: "error",
+                area: "beacon",
+                message: "Live sync MQTT connection error.",
+                detail: err,
+            });
         });
 
         return () => {
@@ -151,11 +182,23 @@ export function startBeaconJoin(config: BeaconJoinConfig): () => void {
     ws.onmessage = ev => {
         if (typeof ev.data !== "string") return;
         const payload = parseBeaconPayload(ev.data);
-        if (!payload) return;
+        if (!payload) {
+            reportDiagnostic({
+                level: "warn",
+                area: "beacon",
+                message: "Ignored an invalid live sync payload.",
+            });
+            return;
+        }
         handlePayload(payload);
     };
     ws.onerror = ev => {
         console.warn("[beacon-join] ws error", ev);
+        reportDiagnostic({
+            level: "error",
+            area: "beacon",
+            message: "Live sync WebSocket connection error.",
+        });
     };
 
     return () => {

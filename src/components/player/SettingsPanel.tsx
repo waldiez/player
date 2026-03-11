@@ -7,6 +7,7 @@ import {
     readBeaconSettings,
     writeBeaconSettings,
 } from "@/lib/beaconSettings";
+import { getDesktopStatus, refreshDesktopStatus, subscribeDesktopStatus } from "@/lib/desktopStatus";
 import {
     exportPrefsAsWaldiez,
     exportPrefsAsWid,
@@ -18,6 +19,7 @@ import {
 } from "@/lib/moodDefaults";
 import { getRuntimeContext } from "@/lib/runtime";
 import { STREAM_TARGETS, isBeaconCapableTarget } from "@/lib/streamTargets";
+import { exportSupportSnapshot } from "@/lib/supportSnapshot";
 import { type ScreensaverStyle, type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { cn } from "@/lib/utils";
 import { fetchWeatherMood } from "@/lib/weatherMood";
@@ -26,19 +28,21 @@ import { usePlayerStore } from "@/stores";
 import type { PlayerMode } from "@/types";
 import type { StreamProtocol } from "@/types/player";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import {
     Cloud,
     Download,
     ExternalLink,
     FileInput,
+    HardDriveDownload,
     KeyRound,
     Link2,
     MonitorPlay,
     Plus,
     Radio,
     Settings,
+    ShieldCheck,
     Trash2,
     Upload,
     X,
@@ -54,6 +58,24 @@ const PROTOCOL_BADGE: Record<StreamProtocol, string> = {
     rtsp: "bg-yellow-500/20 text-yellow-400",
     http: "bg-gray-500/20 text-gray-400",
     https: "bg-gray-500/20 text-gray-400",
+};
+
+const DESKTOP_STATUS_BADGE: Record<
+    ReturnType<typeof getDesktopStatus>["overall"],
+    { label: string; className: string }
+> = {
+    idle: { label: "Idle", className: "bg-gray-500/20 text-gray-300" },
+    checking: { label: "Checking", className: "bg-sky-500/20 text-sky-300" },
+    ready: { label: "Ready", className: "bg-emerald-500/20 text-emerald-300" },
+    degraded: { label: "Degraded", className: "bg-amber-500/20 text-amber-300" },
+    web: { label: "Web", className: "bg-slate-500/20 text-slate-300" },
+};
+
+const CAPABILITY_BADGE: Record<ReturnType<typeof getDesktopStatus>["backends"]["ytDlp"], string> = {
+    ready: "bg-emerald-500/20 text-emerald-300",
+    missing: "bg-amber-500/20 text-amber-300",
+    error: "bg-red-500/20 text-red-300",
+    unavailable: "bg-slate-500/20 text-slate-300",
 };
 
 interface SettingsPanelProps {
@@ -207,6 +229,8 @@ export function SettingsPanel({
         message: null,
         ok: false,
     });
+    const [supportExportMessage, setSupportExportMessage] = useState<string | null>(null);
+    const [desktopStatus, setDesktopStatus] = useState(getDesktopStatus);
     const [localFilesWarning, setLocalFilesWarning] = useState(false);
     const fileInputRef = useRef<HTMLInputElement>(null);
 
@@ -362,11 +386,22 @@ export function SettingsPanel({
         }
     }
 
+    async function handleExportSupportSnapshot() {
+        try {
+            const destination = await exportSupportSnapshot();
+            setSupportExportMessage(`Support snapshot saved as ${destination}.`);
+        } catch {
+            setSupportExportMessage("Failed to export support snapshot.");
+        }
+    }
+
     const builtInTargets = STREAM_TARGETS.filter(isBeaconCapableTarget);
     const supportedCustomTargets = settings.customTargets.filter(isBeaconCapableTarget);
     const unsupportedCustomTargets = settings.customTargets.filter(t => !isBeaconCapableTarget(t));
     const allTargets = [...builtInTargets, ...supportedCustomTargets];
     const active = allTargets.find(t => t.id === settings.activeTargetId) ?? null;
+
+    useEffect(() => subscribeDesktopStatus(() => setDesktopStatus(getDesktopStatus())), []);
 
     return (
         <div className={cn("flex h-full flex-col", className)}>
@@ -500,6 +535,95 @@ export function SettingsPanel({
                 </SectionCard>
 
                 <SectionCard
+                    icon={<HardDriveDownload className="h-4 w-4" />}
+                    title="Desktop Status"
+                    hint="Startup readiness for the desktop runtime and native playback backends."
+                >
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <div className="flex items-center justify-between gap-3">
+                            <div>
+                                <div className="text-xs font-semibold uppercase tracking-wider text-player-text-muted">
+                                    Runtime
+                                </div>
+                                <div className="mt-1 text-sm text-player-text">{desktopStatus.runtime}</div>
+                            </div>
+                            <span
+                                className={cn(
+                                    "rounded px-2 py-1 text-[10px] font-semibold uppercase tracking-wider",
+                                    DESKTOP_STATUS_BADGE[desktopStatus.overall].className,
+                                )}
+                            >
+                                {DESKTOP_STATUS_BADGE[desktopStatus.overall].label}
+                            </span>
+                        </div>
+                        <p className="mt-2 text-xs leading-5 text-player-text-muted">
+                            {desktopStatus.summary}
+                        </p>
+                        {desktopStatus.checkedAt && (
+                            <p className="mt-2 text-[11px] text-player-text-muted/80">
+                                Last checked: {new Date(desktopStatus.checkedAt).toLocaleString()}
+                            </p>
+                        )}
+                        <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
+                            <DesktopStatusPill
+                                label="yt-dlp"
+                                value={desktopStatus.backends.ytDlp}
+                                className={CAPABILITY_BADGE[desktopStatus.backends.ytDlp]}
+                            />
+                            <DesktopStatusPill
+                                label="mpv"
+                                value={desktopStatus.backends.mpv}
+                                className={CAPABILITY_BADGE[desktopStatus.backends.mpv]}
+                            />
+                            <DesktopStatusPill
+                                label="File open"
+                                value={
+                                    desktopStatus.fileOpenEvents === false
+                                        ? "error"
+                                        : desktopStatus.fileOpenEvents === true
+                                          ? "ready"
+                                          : "unavailable"
+                                }
+                                className={
+                                    desktopStatus.fileOpenEvents === false
+                                        ? CAPABILITY_BADGE.error
+                                        : desktopStatus.fileOpenEvents === true
+                                          ? CAPABILITY_BADGE.ready
+                                          : CAPABILITY_BADGE.unavailable
+                                }
+                            />
+                            <DesktopStatusPill
+                                label="Deep links"
+                                value={
+                                    desktopStatus.deepLinkEvents === false
+                                        ? "error"
+                                        : desktopStatus.deepLinkEvents === true
+                                          ? "ready"
+                                          : "unavailable"
+                                }
+                                className={
+                                    desktopStatus.deepLinkEvents === false
+                                        ? CAPABILITY_BADGE.error
+                                        : desktopStatus.deepLinkEvents === true
+                                          ? CAPABILITY_BADGE.ready
+                                          : CAPABILITY_BADGE.unavailable
+                                }
+                            />
+                        </div>
+                        {(runtime.isTauri || runtime.isFlutterWebView) && (
+                            <button
+                                type="button"
+                                onClick={() => void refreshDesktopStatus()}
+                                className="mt-3 inline-flex items-center gap-1.5 rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text"
+                            >
+                                <MonitorPlay className="h-3.5 w-3.5" />
+                                Refresh desktop check
+                            </button>
+                        )}
+                    </div>
+                </SectionCard>
+
+                <SectionCard
                     icon={<MonitorPlay className="h-4 w-4" />}
                     title="Playback And Display"
                     hint="Foreground/background behavior and screensaver settings."
@@ -622,6 +746,30 @@ export function SettingsPanel({
                 {supportsWeather && (
                     <WeatherMoodSection uiSettings={effectiveUiSettings} patchUiSettings={patchUiSettings} />
                 )}
+
+                <SectionCard
+                    icon={<ShieldCheck className="h-4 w-4" />}
+                    title="Support Snapshot"
+                    hint="Export a redacted diagnostics file for QA or bug reports. API keys and local file paths are not exported verbatim."
+                >
+                    <div className="rounded-lg border border-player-border bg-player-bg/40 p-3">
+                        <button
+                            type="button"
+                            onClick={() => void handleExportSupportSnapshot()}
+                            className="inline-flex items-center gap-1.5 rounded bg-player-border px-3 py-2 text-xs text-player-text-muted hover:text-player-text"
+                        >
+                            <Download className="h-3.5 w-3.5" />
+                            Export support snapshot
+                        </button>
+                        <p className="mt-2 text-[11px] leading-5 text-player-text-muted">
+                            Includes runtime, playback, current source summary, settings summaries, preset
+                            metadata, and desktop backend availability.
+                        </p>
+                        {supportExportMessage && (
+                            <p className="mt-2 text-[11px] text-player-accent">{supportExportMessage}</p>
+                        )}
+                    </div>
+                </SectionCard>
 
                 <SectionCard
                     icon={<Radio className="h-4 w-4" />}
@@ -783,6 +931,24 @@ export function SettingsPanel({
                     )}
                 </SectionCard>
             </div>
+        </div>
+    );
+}
+
+function DesktopStatusPill({ label, value, className }: { label: string; value: string; className: string }) {
+    return (
+        <div className="rounded-lg border border-player-border bg-player-bg/50 px-3 py-2">
+            <div className="text-[10px] font-semibold uppercase tracking-wider text-player-text-muted">
+                {label}
+            </div>
+            <span
+                className={cn(
+                    "mt-2 inline-flex rounded px-2 py-1 text-[10px] font-semibold uppercase",
+                    className,
+                )}
+            >
+                {value}
+            </span>
         </div>
     );
 }

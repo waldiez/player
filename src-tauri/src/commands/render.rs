@@ -1,5 +1,6 @@
 //! Render-related Tauri commands
 
+use crate::project::Project;
 use crate::render::{RenderManager, RenderProgress, RenderSettings};
 use crate::Result;
 use tauri::command;
@@ -12,6 +13,16 @@ pub async fn start_render(
     output_path: String,
 ) -> Result<String> {
     RenderManager::start_render(&project_path, settings, &output_path).await
+}
+
+/// Start a render job from an in-memory project payload
+#[command]
+pub async fn start_render_project(
+    project: Project,
+    settings: RenderSettings,
+    output_path: String,
+) -> Result<String> {
+    RenderManager::start_render_for_project(project, settings, &output_path).await
 }
 
 /// Cancel a running render job
