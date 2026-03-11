@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T19:37:46.250Z",
+    "generatedAt": "2026-03-11T20:26:26.975Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "arvJVILABAE",
-            "name": "🔴LIVE: Today Headlines - 11 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "I9k8se7h-p0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "PUBLIC NEWS 24"
         },
         {
             "mood": "storm",
-            "videoId": "4RF2qNhrXU8",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.03.2026)| 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8Y_aseRNXZg",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uq8cmQVT384",
-            "name": "🔴LIVE: iran israel war | ஈரானின் ஒற்றை வார்த்தை - உலகையே நடுங்க வைத்த ட்ரம்பின் அறிவிப்பு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z9NPUDfEzK0",
-            "name": "🔴LIVE: iran war | America | கொலைவெறியில் அடிக்கும் டிரம்ப் - ஆட்டம் காணும் ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QKiboWL8XxQ",
-            "name": "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | North Korea Launch Missile! Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ukBYxiaV1LM",
-            "name": "ईरान अमेरिका जंग के ताजा हालात LIVE | Iran America War | Iran Israel War | Hormuz | Trump",
+            "videoId": "53vNmtAVlKA",
+            "name": "Bihar New CM Update LIVE: बिहार के नए मुख्यमंत्री पर मुहर? | Breaking Chirag Paswan News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "P-6_Lc9L8bo",
-            "name": "🔴LIVE : LPG Cylinder Shortage Tamil Nadu | Cooking Gas Crisis | தமிழகத்திற்கு அவசர செய்தி",
-            "artist": "Sathiyam News"
+            "videoId": "Tt75NJ_CzDc",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GCsO_F-KPgM",
-            "name": "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RCzdQ6cBZRo",
-            "name": "LIVE: Trump Claims Iran War Will End “Soon” | Vantage With Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "aCquauJpCtI",
+            "name": "Kim Jong-un’s Missile Launch | World on Edge | Iran Israel War | 9 PM Headlines | Pakistan News",
+            "artist": "Express News"
         }
     ],
     "sourceFilters": {
