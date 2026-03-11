@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T184354.082Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260311T193746.294Z-l4t35t"
   type: "state"
-  created: "2026-03-11T18:43:54.082Z"
+  created: "2026-03-11T19:37:46.294Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T184354.082Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T193746.294Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fTLZ04tzlTU"
-        name: "11 PM Gujarati News LIVE | 11 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "arvJVILABAE"
+        name: "🔴LIVE: Today Headlines - 11 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tt75NJ_CzDc"
-        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        videoId: "4RF2qNhrXU8"
+        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.03.2026)| 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8Y_aseRNXZg"
+        name: "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IVP1ZAtGzqs"
-        name: "Today's Breaking News: Iran Israel War Updates |  Netanyahu | Khamenei | Trump I Breaking News"
+        videoId: "uq8cmQVT384"
+        name: "🔴LIVE: iran israel war | ஈரானின் ஒற்றை வார்த்தை - உலகையே நடுங்க வைத்த ட்ரம்பின் அறிவிப்பு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "z9NPUDfEzK0"
+        name: "🔴LIVE: iran war | America | கொலைவெறியில் அடிக்கும் டிரம்ப் - ஆட்டம் காணும் ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QKiboWL8XxQ"
+        name: "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | North Korea Launch Missile! Dunya News"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ukBYxiaV1LM"
+        name: "ईरान अमेरिका जंग के ताजा हालात LIVE | Iran America War | Iran Israel War | Hormuz | Trump"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HuLEMNDto-w"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 11 March 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "P-6_Lc9L8bo"
+        name: "🔴LIVE : LPG Cylinder Shortage Tamil Nadu | Cooking Gas Crisis | தமிழகத்திற்கு அவசர செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GCsO_F-KPgM"
+        name: "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RCzdQ6cBZRo"
+        name: "LIVE: Trump Claims Iran War Will End “Soon” | Vantage With Palki Sharma"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T18:43:54.082Z"
+  exported_at: "2026-03-11T19:37:46.294Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T18:43:54.040Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-11T19:37:46.250Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
