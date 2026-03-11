@@ -9,8 +9,8 @@ use std::collections::HashMap;
 use std::fs;
 use std::path::{Path, PathBuf};
 use std::sync::{Arc, Mutex};
-use tempfile::tempdir;
 use tauri::async_runtime::spawn;
+use tempfile::tempdir;
 use tokio::process::Command;
 use tokio::time::sleep;
 
@@ -365,9 +365,19 @@ async fn render_video_mp4(
         .arg("-filter_complex")
         .arg(&filter_complex)
         .args(["-map", "[vout]"])
-        .args(if audio_labels.is_empty() { &[][..] } else { &["-map", "[aout]"][..] })
+        .args(if audio_labels.is_empty() {
+            &[][..]
+        } else {
+            &["-map", "[aout]"][..]
+        })
         .args(quality_args)
-        .args(["-pix_fmt", "yuv420p", "-movflags", "+faststart", "-shortest"])
+        .args([
+            "-pix_fmt",
+            "yuv420p",
+            "-movflags",
+            "+faststart",
+            "-shortest",
+        ])
         .arg(output_path);
 
     let status = command.status().await?;
@@ -395,7 +405,13 @@ fn append_scene_visual_input(command: &mut Command, scene: &TimelineScene) {
         }
         (Some(crate::project::TrackType::Video), Some(path)) => {
             command
-                .args(["-stream_loop", "-1", "-t", &scene.duration.to_string(), "-i"])
+                .args([
+                    "-stream_loop",
+                    "-1",
+                    "-t",
+                    &scene.duration.to_string(),
+                    "-i",
+                ])
                 .arg(path);
         }
         _ => {
@@ -627,7 +643,8 @@ fn collect_timeline_scenes(project: &Project) -> Vec<TimelineScene> {
                 .iter()
                 .find(|caption| caption.id == item.asset_id);
             let visual = visual_tracks.iter().find_map(|track| {
-                track.items
+                track
+                    .items
                     .iter()
                     .find(|visual_item| visual_item.start_time == item.start_time)
                     .map(|visual_item| (&track.track_type, visual_item.asset_id.as_str()))
@@ -648,7 +665,8 @@ fn collect_timeline_scenes(project: &Project) -> Vec<TimelineScene> {
                 _ => None,
             };
             let audio_item = audio_tracks.iter().find_map(|track| {
-                track.items
+                track
+                    .items
                     .iter()
                     .find(|audio_item| audio_item.start_time == item.start_time)
             });
@@ -674,9 +692,7 @@ fn collect_timeline_scenes(project: &Project) -> Vec<TimelineScene> {
                 visual_kind: visual.map(|(kind, _)| kind.clone()),
                 audio_path,
                 audio_offset: audio_item.map(|item| item.in_point).unwrap_or(0.0),
-                audio_volume: audio_item
-                    .map(|item| item.transform.opacity)
-                    .unwrap_or(0.8),
+                audio_volume: audio_item.map(|item| item.transform.opacity).unwrap_or(0.8),
             }
         })
         .collect::<Vec<_>>();

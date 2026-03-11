@@ -1,6 +1,8 @@
 .DEFAULT_GOAL := help
 
 CARGO_BIN ?= $(shell if [ -x /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo ]; then echo /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo; elif command -v cargo >/dev/null 2>&1; then command -v cargo; else echo cargo; fi)
+RUSTC_BIN ?= $(shell if [ -x /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustc ]; then echo /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustc; elif command -v rustc >/dev/null 2>&1; then command -v rustc; else echo rustc; fi)
+RUSTFMT_BIN ?= $(shell if [ -x /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustfmt ]; then echo /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustfmt; elif command -v rustfmt >/dev/null 2>&1; then command -v rustfmt; else echo rustfmt; fi)
 
 .PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-build-linux flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key flutter-run-linux flutter-run-linux-local flutter-run-linux-local-key flutter-build-linux-local flutter-build-linux-local-key
 
@@ -142,13 +144,13 @@ manifest-compat: ## Validate MANIFEST xperiens compatibility rules
 	bun run manifest:compat
 
 tauri-fmt: ## Check Rust formatting in src-tauri
-	cd src-tauri && $(CARGO_BIN) fmt --all -- --check
+	cd src-tauri && find src -name '*.rs' -print0 | xargs -0 $(RUSTFMT_BIN) --edition 2021 --check
 
 tauri-check: ## Check Rust backend in src-tauri
 	@if [ "$(FORCE_TAURI_CHECK)" = "1" ]; then \
-		cd src-tauri && $(CARGO_BIN) check --locked; \
+		cd src-tauri && RUSTC=$(RUSTC_BIN) $(CARGO_BIN) check --locked; \
 	elif command -v pkg-config >/dev/null 2>&1 && pkg-config --exists glib-2.0 gobject-2.0; then \
-		cd src-tauri && $(CARGO_BIN) check --locked; \
+		cd src-tauri && RUSTC=$(RUSTC_BIN) $(CARGO_BIN) check --locked; \
 	else \
 		echo "Skipping tauri-check: missing system deps for GTK/GLib (glib-2.0, gobject-2.0)."; \
 		echo "Install native packages (e.g. libglib2.0-dev libgtk-3-dev) or run 'make tauri-check FORCE_TAURI_CHECK=1' in a provisioned environment."; \
