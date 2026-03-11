@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T164218.700Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260311T174308.431Z-l4t35t"
   type: "state"
-  created: "2026-03-11T16:42:18.700Z"
+  created: "2026-03-11T17:43:08.431Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T164218.700Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T174308.431Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1D7XeuLWILU"
-        name: "Ghana Defies US & China: New Gold Tax Revealed as Prices Hit Record High | Firstpost Africa | N18G"
+        videoId: "uq8cmQVT384"
+        name: "🔴LIVE: iran israel war | ஈரானின் ஒற்றை வார்த்தை - உலகையே நடுங்க வைத்த ட்ரம்பின் அறிவிப்பு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RuNOgHAb20s"
+        name: "🔴Live : Tvk Vijay | Chennai | TVK | விஜயின் அடுத்த பாய்ச்சல் ..?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "z9NPUDfEzK0"
+        name: "🔴LIVE: iran war | America | கொலைவெறியில் அடிக்கும் டிரம்ப் - ஆட்டம் காணும் ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QKiboWL8XxQ"
+        name: "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | North Korea Launch Missile! Dunya News"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P-6_Lc9L8bo"
+        name: "🔴LIVE : LPG Cylinder Shortage Tamil Nadu | Cooking Gas Crisis | தமிழகத்திற்கு அவசர செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GCsO_F-KPgM"
+        name: "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RCzdQ6cBZRo"
+        name: "LIVE: Trump Claims Iran War Will End “Soon” | Vantage With Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x0pAwra-D5Y"
-        name: "Aaj Ki Taaja Khabar Live: 11 March 2026 | Israel Iran War | Trump | PM Modi | LPG Petrol Price"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "btb_qjN7D-c"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "DAILY NEWS BANGLA"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "432vIUWw9lk"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wVnLn6FQDLA"
-        name: "LIVE | Gulf War Expands: US Allies Send Military Assets to West Asia | Vantage with Palki Sharma"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AoQiT_WyZCU"
-        name: "Iran America War LIVE Updates: ईरान-अमेरिका जंग! देखिए ताजा हालात! | Middle East | Trump |  Khamenei"
+        videoId: "-Uqjl4Imp5g"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: सिलेंडर संकट, अफवाह या सच ? | Iran Amercia War LPG"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fLahLqRKIwA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "DAILY NEWS BANGLA"
+        videoId: "LKGYpiA1ycc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hkQ5EFSlp2M"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | LPG Petrol Price | | PM Modi | Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RWwAr3mWCEk"
+        name: "News Ki Pathshala Live : समुद्र में तेल के रास्ते पर वो भयंकर घमासान...| Sushant Sinha | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T16:42:18.700Z"
+  exported_at: "2026-03-11T17:43:08.431Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T16:42:18.659Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-11T17:43:08.387Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
