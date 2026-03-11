@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T09:35:17.308Z",
+    "generatedAt": "2026-03-11T10:31:33.269Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4Kg1ug7zz3A",
-            "name": "IRAN'S 'SUPER MISSILE' LIVE | Tehran Unveils One-Ton Warhead Missile in Major Escalation",
-            "artist": "Times Now World"
+            "videoId": "vox02L3T4DU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "vcDE0zntshc",
-            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
-            "artist": "Times Now World"
+            "videoId": "g8n5OXx9Cck",
+            "name": "Bihar New CM News LIVE: बिहार के नए मुख्यमंत्री पर मुहर?, इस छोटे नेताने मार ली बाजी! | Nitish Kumar",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "dU5Gt9xICdY",
-            "name": "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | Tel Aviv Haifa Under Bombing",
-            "artist": "Dunya News"
+            "videoId": "0_mbaJnjb3I",
+            "name": "Israel Attack on Iran Live: युद्ध का 12वां दिन | Israel Iran War | Tel Aviv-Yafo | Latest News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "i2SON7bnjVw",
-            "name": "Iran War News LIVE | Iran Open To Mediation If US and Israel Guarantee No Further Attacks",
-            "artist": "NDTV"
+            "videoId": "fIuSgMH1bjM",
+            "name": "🔴LIVE Lunch Time Sinhala News | (11.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "DJkajoxdg9U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NBS Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1Sswo7-3Snc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rEk4k2j55dI",
-            "name": "Iran israil war news ,#iranisrailwarupdate Iran israil war latest update ईरान‌ इजराइल युद्ध शुरू ‌।",
-            "artist": "Ronak Duggu ki duniya"
+            "videoId": "8lkCiq_OJQI",
+            "name": "ABC News Live Prime: Mar. 10, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
