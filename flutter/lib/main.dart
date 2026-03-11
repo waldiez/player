@@ -21,10 +21,30 @@ class PlayerFlutterApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    const Color background = Color(0xFF12121A);
+    const Color surface = Color(0xFF1A1B24);
+    const Color accent = Color(0xFF0EA5E9);
+
     return MaterialApp(
-      title: 'Waldiez Player (Flutter)',
+      title: 'Waldiez Player',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF0EA5E9)),
+        brightness: Brightness.dark,
+        colorScheme: const ColorScheme.dark(
+          primary: accent,
+          secondary: accent,
+          surface: surface,
+          onPrimary: Colors.white,
+          onSecondary: Colors.white,
+          onSurface: Colors.white,
+        ),
+        scaffoldBackgroundColor: background,
+        canvasColor: background,
+        appBarTheme: const AppBarTheme(
+          backgroundColor: background,
+          foregroundColor: Colors.white,
+          elevation: 0,
+        ),
+        progressIndicatorTheme: const ProgressIndicatorThemeData(color: accent),
       ),
       home: const PlayerWebViewPage(),
       debugShowCheckedModeBanner: false,
@@ -93,7 +113,7 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
     try {
       final HttpClient client = HttpClient()..connectionTimeout = const Duration(seconds: 2);
       final HttpClientRequest request = await client.getUrl(Uri.parse(_localUrl));
-      request.headers.add(HttpHeaders.userAgentHeader, 'player_flutter_probe');
+      request.headers.add(HttpHeaders.userAgentHeader, 'waldiez_player_probe');
       final HttpClientResponse response = await request.close();
       client.close(force: true);
       return response.statusCode >= 200 && response.statusCode < 500;
@@ -203,6 +223,10 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
                       child: const Text('Open in browser'),
                     ),
                   ],
+                child: Text(
+                  _errorText!,
+                  textAlign: TextAlign.center,
+                  style: Theme.of(context).textTheme.bodyMedium,
                 ),
               ),
             ),

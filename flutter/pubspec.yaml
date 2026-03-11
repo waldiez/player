@@ -1,5 +1,5 @@
-name: player_flutter
-description: "Waldiez Player desktop shell (Flutter + WebView)."
+name: waldiez_player
+description: "Waldiez Player shell built with Flutter and a hosted/local WebView frontend."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -54,6 +54,8 @@ dependency_overrides:
 
 flutter_launcher_icons:
   image_path: ../src-tauri/icons/icon.png
+  android: true
+  ios: true
   macos:
     generate: true
   windows:

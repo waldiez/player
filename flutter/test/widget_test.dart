@@ -7,7 +7,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:player_flutter/main.dart';
+import 'package:waldiez_player/main.dart';
 
 void main() {
   test('App widget can be instantiated', () {

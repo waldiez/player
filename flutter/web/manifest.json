@@ -1,12 +1,12 @@
 {
-    "name": "player_flutter",
-    "short_name": "player_flutter",
+    "name": "Waldiez Player",
+    "short_name": "Waldiez",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#12121a",
+    "theme_color": "#12121a",
+    "description": "Waldiez Player: web + desktop video player/editor with mood modes, playlists, streaming targets, and portable .wid/.waldiez exports.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
