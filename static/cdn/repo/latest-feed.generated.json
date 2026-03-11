@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T05:42:25.979Z",
+    "generatedAt": "2026-03-11T06:41:58.346Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1Sswo7-3Snc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "euUqILCp_CI",
+            "name": "Iran Israel War News LIVE | Middle East War Full Coverage LIVE | US Strike Iran | Donald Trump LIVE",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "W7AYajro9Q0",
-            "name": "Hindi News Live : हिंदी में समाचार लाइव टीवी | Om Birla | PM Modi |Iran Israel War |Trump | Top News",
-            "artist": "Times Now Navbharat"
+            "videoId": "i2SON7bnjVw",
+            "name": "Iran War News LIVE | Iran Open To Mediation If US and Israel Guarantee No Further Attacks",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "8lkCiq_OJQI",
-            "name": "ABC News Live Prime: Mar. 10, 2026",
+            "videoId": "3YKNHeRyXII",
+            "name": "Bihar New CM News LIVE: BJP को नीतीश का झटका!, ये महिला बनेगी बिहार की सीएम? | Nitish Kumar",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pgwcaQen0xc",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 10, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "dOK_qLa5QII",
-            "name": "US Iran LIVE: US Warns Iran of \"Most Intense Strikes\" of the War | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "2shbx5CgcMA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
         },
         {
             "mood": "storm",
-            "videoId": "PCCEKpLw1JE",
-            "name": "World News Live | Iran Israel War 11 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
-            "artist": "Times Now Navbharat"
+            "videoId": "XP88Zm_qva4",
+            "name": "Missile Attack Reported; Israeli Military Communications Disrupted |  6 AM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "53vNmtAVlKA",
-            "name": "Bihar New CM Update LIVE: बिहार के नए मुख्यमंत्री पर मुहर? | Breaking Chirag Paswan News",
-            "artist": "NDTV India"
+            "videoId": "5zg8hmBWcDI",
+            "name": "War With Iran Full Episode: Tue, Mar 10, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "llijJ6H1Uek",
-            "name": "BREAKING LIVE | Massive Explosions In Abu Dhabi, Iran Attacks Oil Tanker? | Gulf Tensions | Israel",
-            "artist": "CRUX"
+            "videoId": "MKmpBlNqJ5c",
+            "name": "Iran VS America War Latest New Security on High Alert in Pakistan | 6 AM Headlines | Pakistan News",
+            "artist": "Express News"
         }
     ],
     "sourceFilters": {
