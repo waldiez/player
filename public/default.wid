@@ -335,14 +335,8 @@ state:
           name: Death in Vegas - Dirge (HQ)
           artist: YouTube
           chapter: null
-        - type: youtube
-          ytType: video
-          videoId: hbe3CQamF8k
-          name: YouTube — hbe3CQamF8k
-          artist: YouTube
-          chapter: null
-      savedTrackId: hbe3CQamF8k
-      savedTime: 200
+      savedTrackId: oR_pxawRvng
+      savedTime: 20
       eq:
         bass: 1
         mid: 3
