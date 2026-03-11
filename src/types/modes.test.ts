@@ -5,6 +5,8 @@ import { MODE_CONFIGS, type PlayerMode, createCustomMode, getModeConfig } from "
 describe("modes config", () => {
     const allModes: PlayerMode[] = [
         "standard",
+        "reader",
+        "editor",
         "storyteller",
         "audiobook",
         "cinema",

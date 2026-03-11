@@ -1,5 +1,7 @@
 .DEFAULT_GOAL := help
 
+CARGO_BIN ?= $(shell if [ -x /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo ]; then echo /home/tam/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo; elif command -v cargo >/dev/null 2>&1; then command -v cargo; else echo cargo; fi)
+
 .PHONY: help install dev dev-tauri format lint test build snapshot ship manifest-check manifest-compat check ci clean clean-cache clean-build tauri-check tauri-fmt tauri-app tauri-dmg tauri-mas flutter-run flutter-build-macos flutter-build-linux flutter-icons flutter-run-key flutter-build-macos-key flutter-run-local flutter-run-local-key flutter-run-release flutter-run-release-local flutter-run-release-local-key flutter-build-macos-local flutter-build-macos-local-key flutter-run-linux flutter-run-linux-local flutter-run-linux-local-key flutter-build-linux-local flutter-build-linux-local-key
 
 help: ## Show available commands
@@ -140,13 +142,13 @@ manifest-compat: ## Validate MANIFEST xperiens compatibility rules
 	bun run manifest:compat
 
 tauri-fmt: ## Check Rust formatting in src-tauri
-	cd src-tauri && cargo fmt --all -- --check
+	cd src-tauri && $(CARGO_BIN) fmt --all -- --check
 
 tauri-check: ## Check Rust backend in src-tauri
 	@if [ "$(FORCE_TAURI_CHECK)" = "1" ]; then \
-		cd src-tauri && cargo check --locked; \
+		cd src-tauri && $(CARGO_BIN) check --locked; \
 	elif command -v pkg-config >/dev/null 2>&1 && pkg-config --exists glib-2.0 gobject-2.0; then \
-		cd src-tauri && cargo check --locked; \
+		cd src-tauri && $(CARGO_BIN) check --locked; \
 	else \
 		echo "Skipping tauri-check: missing system deps for GTK/GLib (glib-2.0, gobject-2.0)."; \
 		echo "Install native packages (e.g. libglib2.0-dev libgtk-3-dev) or run 'make tauri-check FORCE_TAURI_CHECK=1' in a provisioned environment."; \
