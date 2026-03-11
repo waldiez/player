@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T17:43:08.387Z",
+    "generatedAt": "2026-03-11T18:43:54.040Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uq8cmQVT384",
-            "name": "🔴LIVE: iran israel war | ஈரானின் ஒற்றை வார்த்தை - உலகையே நடுங்க வைத்த ட்ரம்பின் அறிவிப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "fTLZ04tzlTU",
+            "name": "11 PM Gujarati News LIVE | 11 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "RuNOgHAb20s",
-            "name": "🔴Live : Tvk Vijay | Chennai | TVK | விஜயின் அடுத்த பாய்ச்சல் ..?",
-            "artist": "Sathiyam News"
+            "videoId": "Tt75NJ_CzDc",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "z9NPUDfEzK0",
-            "name": "🔴LIVE: iran war | America | கொலைவெறியில் அடிக்கும் டிரம்ப் - ஆட்டம் காணும் ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QKiboWL8XxQ",
-            "name": "LIVE🔴Iran US Israel WAR Latest Updates! Iran Attacks Israel | North Korea Launch Missile! Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P-6_Lc9L8bo",
-            "name": "🔴LIVE : LPG Cylinder Shortage Tamil Nadu | Cooking Gas Crisis | தமிழகத்திற்கு அவசர செய்தி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GCsO_F-KPgM",
-            "name": "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RCzdQ6cBZRo",
-            "name": "LIVE: Trump Claims Iran War Will End “Soon” | Vantage With Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-Uqjl4Imp5g",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: सिलेंडर संकट, अफवाह या सच ? | Iran Amercia War LPG",
+            "videoId": "IVP1ZAtGzqs",
+            "name": "Today's Breaking News: Iran Israel War Updates |  Netanyahu | Khamenei | Trump I Breaking News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "LKGYpiA1ycc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hkQ5EFSlp2M",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | LPG Petrol Price | | PM Modi | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RWwAr3mWCEk",
-            "name": "News Ki Pathshala Live : समुद्र में तेल के रास्ते पर वो भयंकर घमासान...| Sushant Sinha | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "HuLEMNDto-w",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 11 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
