@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T103133.308Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260311T112741.843Z-l4t35t"
   type: "state"
-  created: "2026-03-11T10:31:33.308Z"
+  created: "2026-03-11T11:27:41.843Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T103133.308Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T112741.843Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vox02L3T4DU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g8n5OXx9Cck"
-        name: "Bihar New CM News LIVE: बिहार के नए मुख्यमंत्री पर मुहर?, इस छोटे नेताने मार ली बाजी! | Nitish Kumar"
+        videoId: "vXlDfWYVIt0"
+        name: "100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 11 March | Superfast | Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0_mbaJnjb3I"
-        name: "Israel Attack on Iran Live: युद्ध का 12वां दिन | Israel Iran War | Tel Aviv-Yafo | Latest News"
-        artist: "NDTV India"
+        videoId: "h9b8AwFDw5A"
+        name: "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.03.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fIuSgMH1bjM"
-        name: "🔴LIVE Lunch Time Sinhala News | (11.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "KYdv14RVDRk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8lkCiq_OJQI"
-        name: "ABC News Live Prime: Mar. 10, 2026"
-        artist: "ABC News"
+        videoId: "tmN1gIsPKx4"
+        name: "Israel Iran War Update : धधकता अरब 5 देशों से LIVE कवरेज | Netanyahu | Khamenei | Trump | US"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4RF2qNhrXU8"
+        name: "🔴LIVE :Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (11.03.2026)| 4 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T10:31:33.308Z"
+  exported_at: "2026-03-11T11:27:41.843Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T10:31:33.269Z"
+  source_generated_at: "2026-03-11T11:27:41.802Z"
   validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

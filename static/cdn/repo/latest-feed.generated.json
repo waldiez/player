@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-11T10:31:33.269Z",
+    "generatedAt": "2026-03-11T11:27:41.802Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vox02L3T4DU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g8n5OXx9Cck",
-            "name": "Bihar New CM News LIVE: बिहार के नए मुख्यमंत्री पर मुहर?, इस छोटे नेताने मार ली बाजी! | Nitish Kumar",
+            "videoId": "vXlDfWYVIt0",
+            "name": "100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 11 March | Superfast | Modi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0_mbaJnjb3I",
-            "name": "Israel Attack on Iran Live: युद्ध का 12वां दिन | Israel Iran War | Tel Aviv-Yafo | Latest News",
-            "artist": "NDTV India"
+            "videoId": "h9b8AwFDw5A",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "fIuSgMH1bjM",
-            "name": "🔴LIVE Lunch Time Sinhala News | (11.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "KYdv14RVDRk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "8lkCiq_OJQI",
-            "name": "ABC News Live Prime: Mar. 10, 2026",
-            "artist": "ABC News"
+            "videoId": "tmN1gIsPKx4",
+            "name": "Israel Iran War Update : धधकता अरब 5 देशों से LIVE कवरेज | Netanyahu | Khamenei | Trump | US",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4RF2qNhrXU8",
+            "name": "🔴LIVE :Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (11.03.2026)| 4 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
