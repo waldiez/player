@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T07:40:59.864Z",
+    "generatedAt": "2026-03-12T08:33:57.482Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7_CLLKUTbxs",
-            "name": "LIVE | Iran Attacks Saudi Arabia Airport | Middle East Crisis | World War3? | Deadly Drones | N18G",
-            "artist": "News18 Kannada"
+            "videoId": "K8WCtFeeqSM",
+            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "NOWUQuG1LWE",
-            "name": "Iran Israel War LIVE | Latest Update | 11 AM Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "oBRPkM-UqEo",
+            "name": "LOKA HD LIVE | ഇറാൻ വീണാൽ ഇന്ത്യയും വീഴും! | Iran Israel War | Trump | PM Modi | World News | N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "-x0aJ54s4ss",
-            "name": "Iran’s Peace Formula Revealed: Rights Recognition & Guarantees to End War | 8 AM Headlines Geo News",
-            "artist": "Geo News"
+            "videoId": "gmK4PnwNSqc",
+            "name": "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QxwJ3G3Tigw",
-            "name": "ABC News Live Prime: Mar. 11, 2026",
-            "artist": "ABC News"
+            "videoId": "hBmx3GNZHO4",
+            "name": "Israel Vs Iran war 2026 | World News | NKP | Sushant Sinha: US-Iran में न्या ट्विस्ट | Trump | NKP",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jJSh1UnXcZs",
+            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
