@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T06:43:31.153Z",
+    "generatedAt": "2026-03-12T07:40:59.864Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,26 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "K8WCtFeeqSM",
-            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "7_CLLKUTbxs",
+            "name": "LIVE | Iran Attacks Saudi Arabia Airport | Middle East Crisis | World War3? | Deadly Drones | N18G",
+            "artist": "News18 Kannada"
         },
         {
             "mood": "storm",
-            "videoId": "gmK4PnwNSqc",
-            "name": "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "NOWUQuG1LWE",
+            "name": "Iran Israel War LIVE | Latest Update | 11 AM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "jJSh1UnXcZs",
-            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G",
-            "artist": "Firstpost"
+            "videoId": "-x0aJ54s4ss",
+            "name": "Iran’s Peace Formula Revealed: Rights Recognition & Guarantees to End War | 8 AM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "fB2-0TAyuXw",
-            "name": "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lDfWjcny77Y",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 11, 2026",
+            "videoId": "QxwJ3G3Tigw",
+            "name": "ABC News Live Prime: Mar. 11, 2026",
             "artist": "ABC News"
         }
     ],
