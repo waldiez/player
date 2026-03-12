@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T08:33:57.482Z",
+    "generatedAt": "2026-03-12T09:35:38.932Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "K8WCtFeeqSM",
-            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oBRPkM-UqEo",
-            "name": "LOKA HD LIVE | ഇറാൻ വീണാൽ ഇന്ത്യയും വീഴും! | Iran Israel War | Trump | PM Modi | World News | N18G",
-            "artist": "News18 Kerala"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gmK4PnwNSqc",
-            "name": "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hBmx3GNZHO4",
-            "name": "Israel Vs Iran war 2026 | World News | NKP | Sushant Sinha: US-Iran में न्या ट्विस्ट | Trump | NKP",
+            "videoId": "FWbmd_YYRwI",
+            "name": "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "jJSh1UnXcZs",
-            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G",
-            "artist": "Firstpost"
+            "videoId": "cGuWuKD8zmY",
+            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-pgpVMEYFe8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xDt-ej_QXxU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EgYytn9vnZ0",
+            "name": "US Iran War LIVE | Iran To Surrender Soon? Trump Says Tehran Has ‘Nothing Left’ to Target | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7zlScrLuEyI",
+            "name": "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
