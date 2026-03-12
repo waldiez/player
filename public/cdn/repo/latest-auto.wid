@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260312T184203.079Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T193730.959Z-l4t35t"
   type: "state"
-  created: "2026-03-12T18:42:03.079Z"
+  created: "2026-03-12T19:37:30.959Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T184203.079Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T193730.959Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qruACgnMn_A"
-        name: "LIVE: US-Israel-Iran War Effect!! | India Lock Down! | Work From Home To IT Companies | ZEE News"
-        artist: "Zee Telugu News"
+        videoId: "gHvKgr89cV0"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1LGKupjAwGc"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TEojCeQexxk"
-        name: "🔴Live | ଖୁସି ଖବର, ପହଞ୍ଚିଲା ତେଲ ଜାହାଜ  | OilLoaded Ship Reaches Through Strait of Hormuz | OTV"
-        artist: "OTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CKJ8FcXK07Q"
-        name: "WATCH LIVE: President Trump Makes Big Announcement at the White House | Trump on Iran Israel War"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mi7XNdmTJ4k"
-        name: "🔴LIVE: Petrol | Diesel | Gas Cylinder | பெட்ரோல், டீசல், கேஸ் சிலிண்டர் - இந்தியாவுக்கு குட் நியூஸ்"
+        videoId: "7zlScrLuEyI"
+        name: "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4Z7p4r1TBG4"
-        name: "LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Central Israel | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "f8F6OagTj4o"
+        name: "🔴LIVE: Iran | America | ஓங்கும் ஈரானின் 'கை'..ஏவுகணை மழை.. அலறும் அமெரிக்கா!"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_Ok_hnGvLpI"
-        name: "LIVE: US President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "0upOAP-Ubkg"
+        name: "🔴LIVE: Iran US Israel War | ஈரான் revenge mode -ஷாக்கில் அமெரிக்கா"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X8OFs-9Uvws"
-        name: "News Ki Pathshala Live: ट्रंप अटैक रोक नहीं रहे.. क्या वो होगा जो महाप्रलय ले आएगा? |Israel Iran War"
-        artist: "Times Now Navbharat"
+        videoId: "E8gdisvW988"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DAILY NEWS BANGLA"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-12T18:42:03.079Z"
+  exported_at: "2026-03-12T19:37:30.959Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-12T18:42:03.048Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T19:37:30.918Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
