@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260312T040721.754Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T054441.205Z-l4t35t"
   type: "state"
-  created: "2026-03-12T04:07:21.754Z"
+  created: "2026-03-12T05:44:41.205Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T040721.754Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T054441.205Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1HPCDx_b34s"
-        name: "TRUMP LIVE: Trump Issues Urgent Warning to Iran, US Forces on High Alert | US Breaking NEWS"
-        artist: "MIRROR NOW"
+        videoId: "S926bvHSops"
+        name: "Iran LIVE | Tehran Hit By War's Most Intense Airstrikes, US Israel Destroy 20,000 Buildings | Crux"
+        artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gmK4PnwNSqc"
-        name: "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jJSh1UnXcZs"
-        name: "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fB2-0TAyuXw"
-        name: "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lDfWjcny77Y"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 11, 2026"
+        videoId: "QxwJ3G3Tigw"
+        name: "ABC News Live Prime: Mar. 11, 2026"
         artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qvISA5jb0-k"
-        name: "Iran Israel US War LIVE: स्ट्रेट ऑफ होर्मुज में तेल के लिए जंग शुरू | Iran Attack on Thailand Ship"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eSzuTJckigA"
-        name: "NDTV 24x7 Live TV:  US Iran War | Farooq Abdullah Assassination | Hormuz Ship | Mojtaba Khamenei"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gGtGScafZgQ"
-        name: "🔴LIVE | Iran’s Massive Attack! End for US & Israel? US Forces Step Back | North Korea Fires Missile"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JgvhFoNWOqE"
-        name: "Iran Israel War LIVE: ईरान युद्ध में 13वें दिन आ गया नया मोड़! America | Trump | Netanyahu |Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FD9d-DSBDr0"
-        name: "100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 12 March | Superfast | Modi"
-        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-12T04:07:21.754Z"
+  exported_at: "2026-03-12T05:44:41.205Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-12T04:07:21.722Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T05:44:41.166Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
