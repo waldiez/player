@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T22:17:39.677Z",
+    "generatedAt": "2026-03-12T23:20:30.687Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qlgDfWlHBdM",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "ezTI1DBSOi0",
+            "name": "First message from Iran's new Supreme Leader released | 2 AM Geo News Headlines | 13 Mar 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "cWSXSyNvh8A",
-            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | West Asia War N18G",
-            "artist": "Firstpost"
+            "videoId": "vBfJ-tNcRaA",
+            "name": "Sandesh News Live: Israel-Iran war | LPG Price Hike | Heatwave | Gold Silver MCX |",
+            "artist": "Sandesh News"
         },
         {
             "mood": "storm",
-            "videoId": "gHvKgr89cV0",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "mVtAhWM-jqs",
+            "name": "LIVE COVERAGE: Law enforcement responds to active shooter at Michigan synagogue",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "qruACgnMn_A",
-            "name": "LIVE: US-Israel-Iran War Effect!! | India Lock Down! | Work From Home To IT Companies | ZEE News",
-            "artist": "Zee Telugu News"
+            "videoId": "l1lWmdFE1MI",
+            "name": "Evening News Today LIVE | Maharashtra Budget Session | Iran Vs Israel | CNG LPG Gas | ABP Majha",
+            "artist": "ABP MAJHA"
         },
         {
             "mood": "storm",
-            "videoId": "1LGKupjAwGc",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TEojCeQexxk",
-            "name": "🔴Live | ଖୁସି ଖବର, ପହଞ୍ଚିଲା ତେଲ ଜାହାଜ  | OilLoaded Ship Reaches Through Strait of Hormuz | OTV",
-            "artist": "OTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7zlScrLuEyI",
-            "name": "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f8F6OagTj4o",
-            "name": "🔴LIVE: Iran | America | ஓங்கும் ஈரானின் 'கை'..ஏவுகணை மழை.. அலறும் அமெரிக்கா!",
-            "artist": "Sathiyam News"
+            "videoId": "0vXDeKSRxZo",
+            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {

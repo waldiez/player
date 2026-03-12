@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260312T221739.715Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T232030.726Z-l4t35t"
   type: "state"
-  created: "2026-03-12T22:17:39.715Z"
+  created: "2026-03-12T23:20:30.726Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T221739.715Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T232030.726Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qlgDfWlHBdM"
-        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "ezTI1DBSOi0"
+        name: "First message from Iran's new Supreme Leader released | 2 AM Geo News Headlines | 13 Mar 2026"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cWSXSyNvh8A"
-        name: "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | West Asia War N18G"
-        artist: "Firstpost"
+        videoId: "vBfJ-tNcRaA"
+        name: "Sandesh News Live: Israel-Iran war | LPG Price Hike | Heatwave | Gold Silver MCX |"
+        artist: "Sandesh News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gHvKgr89cV0"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "mVtAhWM-jqs"
+        name: "LIVE COVERAGE: Law enforcement responds to active shooter at Michigan synagogue"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qruACgnMn_A"
-        name: "LIVE: US-Israel-Iran War Effect!! | India Lock Down! | Work From Home To IT Companies | ZEE News"
-        artist: "Zee Telugu News"
+        videoId: "l1lWmdFE1MI"
+        name: "Evening News Today LIVE | Maharashtra Budget Session | Iran Vs Israel | CNG LPG Gas | ABP Majha"
+        artist: "ABP MAJHA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1LGKupjAwGc"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TEojCeQexxk"
-        name: "🔴Live | ଖୁସି ଖବର, ପହଞ୍ଚିଲା ତେଲ ଜାହାଜ  | OilLoaded Ship Reaches Through Strait of Hormuz | OTV"
-        artist: "OTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7zlScrLuEyI"
-        name: "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "f8F6OagTj4o"
-        name: "🔴LIVE: Iran | America | ஓங்கும் ஈரானின் 'கை'..ஏவுகணை மழை.. அலறும் அமெரிக்கா!"
-        artist: "Sathiyam News"
+        videoId: "0vXDeKSRxZo"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-12T22:17:39.715Z"
+  exported_at: "2026-03-12T23:20:30.726Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-12T22:17:39.677Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T23:20:30.687Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
