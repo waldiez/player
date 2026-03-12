@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260312T011653.570Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T040721.754Z-l4t35t"
   type: "state"
-  created: "2026-03-12T01:16:53.570Z"
+  created: "2026-03-12T04:07:21.754Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T011653.570Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T040721.754Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jArSVtoeL0g"
-        name: "🔴LIVE: யாருமே எதிர்பாரா நேரத்தில் என்ட்ரி கொடுத்த வட கொரியா.. அதிரும் உலக நாடுகள் | North Korea"
-        artist: "NewsTamil 24X7"
+        videoId: "1HPCDx_b34s"
+        name: "TRUMP LIVE: Trump Issues Urgent Warning to Iran, US Forces on High Alert | US Breaking NEWS"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A27NLY2R-L0"
-        name: "🔴LIVE: கொடூரனை இறக்கிய வட கொரியா... பீதியில் உலக நாடுகள்  | king john un | War"
-        artist: "NewsTamil 24X7"
+        videoId: "gmK4PnwNSqc"
+        name: "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Zv7bbCn-DVU"
-        name: "🔴LIVE | US President Trump's speech in Kentucky | ARY News Live"
-        artist: "ARY News"
+        videoId: "jJSh1UnXcZs"
+        name: "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JWMlveoxCxI"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session"
+        videoId: "fB2-0TAyuXw"
+        name: "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9sdukgizJuU"
-        name: "Iran war intensifies despite Trump’s optimism | World News Tonight"
-        artist: "TVP WORLD"
+        videoId: "lDfWjcny77Y"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 11, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nhr3mIMD4uQ"
-        name: "US-Israel war with Iran enters its 12th day | BBC News"
-        artist: "BBC News"
+        videoId: "qvISA5jb0-k"
+        name: "Iran Israel US War LIVE: स्ट्रेट ऑफ होर्मुज में तेल के लिए जंग शुरू | Iran Attack on Thailand Ship"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "I9k8se7h-p0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "PUBLIC NEWS 24"
+        videoId: "eSzuTJckigA"
+        name: "NDTV 24x7 Live TV:  US Iran War | Farooq Abdullah Assassination | Hormuz Ship | Mojtaba Khamenei"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "J8wcdQD1mMY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Time Two"
+        videoId: "gGtGScafZgQ"
+        name: "🔴LIVE | Iran’s Massive Attack! End for US & Israel? US Forces Step Back | North Korea Fires Missile"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "arvJVILABAE"
-        name: "🔴LIVE: Today Headlines - 11 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "JgvhFoNWOqE"
+        name: "Iran Israel War LIVE: ईरान युद्ध में 13वें दिन आ गया नया मोड़! America | Trump | Netanyahu |Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FD9d-DSBDr0"
+        name: "100 News Today LIVE | Israel Attack on Iran | Iran Attack | Headlines | 12 March | Superfast | Modi"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-12T01:16:53.570Z"
+  exported_at: "2026-03-12T04:07:21.754Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-12T01:16:53.539Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T04:07:21.722Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
