@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T19:37:30.918Z",
+    "generatedAt": "2026-03-12T20:26:36.242Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gHvKgr89cV0",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "cWSXSyNvh8A",
+            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | West Asia War N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "7zlScrLuEyI",
-            "name": "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்",
-            "artist": "Sathiyam News"
+            "videoId": "l1lWmdFE1MI",
+            "name": "Evening News Today LIVE | Maharashtra Budget Session | Iran Vs Israel | CNG LPG Gas | ABP Majha",
+            "artist": "ABP MAJHA"
         },
         {
             "mood": "storm",
-            "videoId": "f8F6OagTj4o",
-            "name": "🔴LIVE: Iran | America | ஓங்கும் ஈரானின் 'கை'..ஏவுகணை மழை.. அலறும் அமெரிக்கா!",
-            "artist": "Sathiyam News"
+            "videoId": "qruACgnMn_A",
+            "name": "LIVE: US-Israel-Iran War Effect!! | India Lock Down! | Work From Home To IT Companies | ZEE News",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "0upOAP-Ubkg",
-            "name": "🔴LIVE: Iran US Israel War | ஈரான் revenge mode -ஷாக்கில் அமெரிக்கா",
-            "artist": "Sathiyam News"
+            "videoId": "1LGKupjAwGc",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "E8gdisvW988",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "DAILY NEWS BANGLA"
+            "videoId": "wOH1mjjt024",
+            "name": "Debate With Arnab LIVE: Opposition Politicizes LPG Crisis But Avoids Serious Debate",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TEojCeQexxk",
+            "name": "🔴Live | ଖୁସି ଖବର, ପହଞ୍ଚିଲା ତେଲ ଜାହାଜ  | OilLoaded Ship Reaches Through Strait of Hormuz | OTV",
+            "artist": "OTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zLfWRmr76WA",
+            "name": "LIVE with Dr. Shahid Masood | Preparing to shed rivers of blood! Iran Israel War | 12 Mar 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2sxOTcLu-t4",
+            "name": "🔴Iran Attacks Dubai News LIVE:  Saudi Arabia intercepts drone; Hezbollah, Israel trade fresh attacks",
+            "artist": "moneycontrol"
         }
     ],
     "sourceFilters": {
