@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260311T231818.681Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T011653.570Z-l4t35t"
   type: "state"
-  created: "2026-03-11T23:18:18.681Z"
+  created: "2026-03-12T01:16:53.570Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260311T231818.681Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T011653.570Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WtLureh95K8"
-        name: "LIVE | Where Is Mojtaba Khamenei? New Iran Supreme Leader Unseen After 'Injury' In US-Israel Strike"
-        artist: "CRUX"
+        videoId: "jArSVtoeL0g"
+        name: "🔴LIVE: யாருமே எதிர்பாரா நேரத்தில் என்ட்ரி கொடுத்த வட கொரியா.. அதிரும் உலக நாடுகள் | North Korea"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Of73WsIjpbs"
-        name: "LIVE🔴Trump: “I Can End This War Anytime” | Iran’s New Military Strategy Exposed"
-        artist: "NTV"
+        videoId: "A27NLY2R-L0"
+        name: "🔴LIVE: கொடூரனை இறக்கிய வட கொரியா... பீதியில் உலக நாடுகள்  | king john un | War"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ulPpBEQd9yE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "Zv7bbCn-DVU"
+        name: "🔴LIVE | US President Trump's speech in Kentucky | ARY News Live"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JWMlveoxCxI"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9sdukgizJuU"
+        name: "Iran war intensifies despite Trump’s optimism | World News Tonight"
+        artist: "TVP WORLD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nhr3mIMD4uQ"
+        name: "US-Israel war with Iran enters its 12th day | BBC News"
+        artist: "BBC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I9k8se7h-p0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "PUBLIC NEWS 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "J8wcdQD1mMY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "Time Two"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4RF2qNhrXU8"
-        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.03.2026)| 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M0u4v6R9Z1Q"
-        name: "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GCsO_F-KPgM"
-        name: "🔴Live : iran israel war | Iran Attack In Strait Of Hormuz | ஈரான் செயலால் பதறும் உலகம்"
-        artist: "Sathiyam News"
+        videoId: "arvJVILABAE"
+        name: "🔴LIVE: Today Headlines - 11 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-11T23:18:18.681Z"
+  exported_at: "2026-03-12T01:16:53.570Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-11T23:18:18.643Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T01:16:53.539Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
