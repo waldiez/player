@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T11:27:23.891Z",
+    "generatedAt": "2026-03-12T12:40:18.410Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tmUOs7kUQD8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "ypSyed7GUuI",
+            "name": "🔴LIVE: India | Iran | இந்திய கப்பல்களுக்கு அனுமதி கொடுத்த ஈரான்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Hau6ET2hYvE",
-            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | Sangsad Odhibeshon | Parliament | Jatio Sangsad",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EZWTzLgN9F4",
-            "name": "🔴LIVE: Iran US, Israel War Escalates | Russia & China In Action | High Alet | Latest Updates | Samaa",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cGuWuKD8zmY",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "videoId": "3EppdEhEc24",
+            "name": "US Iran War LIVE: Donald Trump Gives Major Update on Operation Epic Fury | Breaking News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "-pgpVMEYFe8",
+            "videoId": "UsZde9Htxsc",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LNOARrFUDqI",
+            "name": "US News LIVE: Donald Trump Delivers Major Briefing on Escalating Iran War | Donald Trump Breaking",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MuuWzFX1IqA",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "artist": "RD News 24"
         },
         {
             "mood": "storm",
-            "videoId": "xDt-ej_QXxU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "fWogRqWKu0g",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "EgYytn9vnZ0",
-            "name": "US Iran War LIVE | Iran To Surrender Soon? Trump Says Tehran Has ‘Nothing Left’ to Target | N18G",
-            "artist": "CNN-News18"
+            "videoId": "uRnKsZ0NVI0",
+            "name": "ഇറാന് പിന്നാലെ അടുത്ത നീക്കം തുടങ്ങി | world news update I NEWS INDIA MALAYALAM",
+            "artist": "NEWS INDIA MALAYALAM"
         },
         {
             "mood": "storm",
-            "videoId": "7zlScrLuEyI",
-            "name": "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்",
-            "artist": "Sathiyam News"
+            "videoId": "9E2JFkDBlxk",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
