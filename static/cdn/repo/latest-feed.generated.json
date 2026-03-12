@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T12:40:18.410Z",
+    "generatedAt": "2026-03-12T13:58:09.902Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ypSyed7GUuI",
-            "name": "🔴LIVE: India | Iran | இந்திய கப்பல்களுக்கு அனுமதி கொடுத்த ஈரான்",
-            "artist": "Sathiyam News"
+            "videoId": "8q_KwDHht7g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS TV 24 "
         },
         {
             "mood": "storm",
-            "videoId": "3EppdEhEc24",
-            "name": "US Iran War LIVE: Donald Trump Gives Major Update on Operation Epic Fury | Breaking News",
-            "artist": "Times Now"
+            "videoId": "r9XB3x04PuU",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "UsZde9Htxsc",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "sSy5hfwA1pM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "LNOARrFUDqI",
-            "name": "US News LIVE: Donald Trump Delivers Major Briefing on Escalating Iran War | Donald Trump Breaking",
-            "artist": "ET Now World"
+            "videoId": "2SKC8KSYHeA",
+            "name": "🔴LIVE: இந்தியாவின் ராஜதந்திர மூவ்! பச்சை கொடி காட்டிய ஈரான்.. மிரண்டுபோன உலக நாடுகள்",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "MuuWzFX1IqA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RD News 24"
+            "videoId": "tmUOs7kUQD8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "fWogRqWKu0g",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
+            "videoId": "Hau6ET2hYvE",
+            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | Sangsad Odhibeshon | Parliament | Jatio Sangsad",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "uRnKsZ0NVI0",
-            "name": "ഇറാന് പിന്നാലെ അടുത്ത നീക്കം തുടങ്ങി | world news update I NEWS INDIA MALAYALAM",
-            "artist": "NEWS INDIA MALAYALAM"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9E2JFkDBlxk",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "taB3DSngIcc",
+            "name": "World News | ख़बरें विदेश की | 12 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
         }
     ],
     "sourceFilters": {
