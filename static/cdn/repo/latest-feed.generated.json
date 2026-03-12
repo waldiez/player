@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T20:26:36.242Z",
+    "generatedAt": "2026-03-12T21:25:54.773Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cWSXSyNvh8A",
-            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | West Asia War N18G",
+            "videoId": "vBfJ-tNcRaA",
+            "name": "Sandesh News Live: Israel-Iran war | LPG Price Hike | Heatwave | Gold Silver MCX |",
+            "artist": "Sandesh News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mVtAhWM-jqs",
+            "name": "LIVE COVERAGE: Law enforcement responds to active shooter at Michigan synagogue",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hmo8jS1P4KI",
+            "name": "Big Attack | New Update | Iran‑Israel War | 11 PM Headlines | Pakistan News",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cTQhp65zHr8",
+            "name": "এক নজরে মধ্যপ্রাচ্যসহ আজকের আন্তর্জাতিক সব খবর | International latest update today | Kalbela",
+            "artist": "Kalbela World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4Z7p4r1TBG4",
+            "name": "LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Central Israel | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "l1lWmdFE1MI",
-            "name": "Evening News Today LIVE | Maharashtra Budget Session | Iran Vs Israel | CNG LPG Gas | ABP Majha",
-            "artist": "ABP MAJHA"
+            "videoId": "vAWPIPTJQVM",
+            "name": "🔴LIVE : Thoothukudi School Girl Murder | தூத்துக்குடி மாணவிக்கு நடந்தது என்ன?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "qruACgnMn_A",
-            "name": "LIVE: US-Israel-Iran War Effect!! | India Lock Down! | Work From Home To IT Companies | ZEE News",
-            "artist": "Zee Telugu News"
+            "videoId": "_Ok_hnGvLpI",
+            "name": "LIVE: US President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "1LGKupjAwGc",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "E8gdisvW988",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DAILY NEWS BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "wOH1mjjt024",
-            "name": "Debate With Arnab LIVE: Opposition Politicizes LPG Crisis But Avoids Serious Debate",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TEojCeQexxk",
-            "name": "🔴Live | ଖୁସି ଖବର, ପହଞ୍ଚିଲା ତେଲ ଜାହାଜ  | OilLoaded Ship Reaches Through Strait of Hormuz | OTV",
-            "artist": "OTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zLfWRmr76WA",
-            "name": "LIVE with Dr. Shahid Masood | Preparing to shed rivers of blood! Iran Israel War | 12 Mar 2026 | GNN",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2sxOTcLu-t4",
-            "name": "🔴Iran Attacks Dubai News LIVE:  Saudi Arabia intercepts drone; Hezbollah, Israel trade fresh attacks",
-            "artist": "moneycontrol"
+            "videoId": "EWiphAwE3TM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Ekota Express"
         }
     ],
     "sourceFilters": {
