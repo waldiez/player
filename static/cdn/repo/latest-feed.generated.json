@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T09:35:38.932Z",
+    "generatedAt": "2026-03-12T10:31:42.980Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FWbmd_YYRwI",
-            "name": "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News",
-            "artist": "Times Now Navbharat"
+            "videoId": "UsZde9Htxsc",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "cGuWuKD8zmY",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
-            "artist": "Times Now"
+            "videoId": "9E2JFkDBlxk",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "-pgpVMEYFe8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "NOWUQuG1LWE",
+            "name": "Iran Israel War LIVE | Latest Update | 11 AM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "xDt-ej_QXxU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "0wdIuTwb_68",
+            "name": "#BREAKING | இந்தியாவுக்கு கை கொடுத்த ஈரான் | US-Israel-Iran War | PM Modi",
+            "artist": "PuthiyathalaimuraiTV"
         },
         {
             "mood": "storm",
-            "videoId": "EgYytn9vnZ0",
-            "name": "US Iran War LIVE | Iran To Surrender Soon? Trump Says Tehran Has ‘Nothing Left’ to Target | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7zlScrLuEyI",
-            "name": "🔴LIVE: Trump | Iran | Russia | India | ட்ரம்ப்-க்கு இடியை இறக்கிய செய்தி - வாய்பிளக்கும் உலகம்",
-            "artist": "Sathiyam News"
+            "videoId": "K8WCtFeeqSM",
+            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
