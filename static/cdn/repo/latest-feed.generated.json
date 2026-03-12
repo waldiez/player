@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T05:44:41.166Z",
+    "generatedAt": "2026-03-12T06:43:31.153Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,14 +28,32 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "S926bvHSops",
-            "name": "Iran LIVE | Tehran Hit By War's Most Intense Airstrikes, US Israel Destroy 20,000 Buildings | Crux",
-            "artist": "CRUX"
+            "videoId": "K8WCtFeeqSM",
+            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "QxwJ3G3Tigw",
-            "name": "ABC News Live Prime: Mar. 11, 2026",
+            "videoId": "gmK4PnwNSqc",
+            "name": "LIVE: President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jJSh1UnXcZs",
+            "name": "US Iran War LIVE: Heavy Strikes and Explosions Across Israel and Iran | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fB2-0TAyuXw",
+            "name": "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lDfWjcny77Y",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 11, 2026",
             "artist": "ABC News"
         }
     ],
