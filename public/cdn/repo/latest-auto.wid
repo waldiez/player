@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260312T135809.946Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260312T145014.074Z-l4t35t"
   type: "state"
-  created: "2026-03-12T13:58:09.946Z"
+  created: "2026-03-12T14:50:14.074Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T135809.946Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260312T145014.074Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8q_KwDHht7g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NEWS TV 24 "
+        videoId: "-HRcyscwEW4"
+        name: "🔴LIVE :Kim JongUn |\"என்னோட அடிய பார்த்ததில்லையே\"  ஈரான் போர்.. குறுக்கே வந்து ட்ரெய்லர் காட்டிய கிம்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r9XB3x04PuU"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "oD2gDkCIutQ"
+        name: "US-Iran War LIVE: Trump Threatens Biggest Air Assault On Tehran, Warns Of ‘Most Intense Strikes’"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sSy5hfwA1pM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "bFtUYNAQ6S8"
+        name: "Bihar New CM Update LIVE: बिहार के नए मुख्यमंत्री पर मुहर? | Breaking Chirag Paswan News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2SKC8KSYHeA"
-        name: "🔴LIVE: இந்தியாவின் ராஜதந்திர மூவ்! பச்சை கொடி காட்டிய ஈரான்.. மிரண்டுபோன உலக நாடுகள்"
-        artist: "NewsTamil 24X7"
+        videoId: "ERuMXc1AOeI"
+        name: "US–Iran War LIVE: Tehran Warns Trump of ‘Everlasting Consequences’ | Trump In shock! | World News"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tmUOs7kUQD8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "3EppdEhEc24"
+        name: "US Iran War LIVE: Donald Trump Gives Major Update on Operation Epic Fury | Breaking News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hau6ET2hYvE"
-        name: "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন (সরাসরি )  | Sangsad Odhibeshon | Parliament | Jatio Sangsad"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "taB3DSngIcc"
-        name: "World News | ख़बरें विदेश की | 12 march 2026 | Donald Trump | venezuela news | America #dblive"
-        artist: "DB Live"
+        videoId: "UsZde9Htxsc"
+        name: "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-12T13:58:09.946Z"
+  exported_at: "2026-03-12T14:50:14.074Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-12T13:58:09.902Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-12T14:50:14.011Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
