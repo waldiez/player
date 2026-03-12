@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T15:51:52.061Z",
+    "generatedAt": "2026-03-12T16:52:45.773Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ocKjmGoRy98",
-            "name": "News Headquarter LIVE : क़यामत बन टूट रही हैं ईरानी मिसाइलें! Iran Vs Israel | America | Trump",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EOxKV33MEsM",
-            "name": "🔴LIVE : IsrealIranwar | ஹார்முஸ் ஜலசந்தியில்  இந்திய கப்பல்களுக்கு ஈரான் அனுமதி",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ahn8bLuzGvk",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BeOMUGTU7Qg",
-            "name": "US vs Iran LIVE: Israel Strikes Tehran and Beirut, Trump Claims Iran Is “Decimated” | US Iran War",
+            "videoId": "4Z7p4r1TBG4",
+            "name": "LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Central Israel | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "8q_KwDHht7g",
+            "videoId": "_Ok_hnGvLpI",
+            "name": "LIVE: US President Trump Claims That Iran-US War Will \" End Soon\" | Vantage With Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X8OFs-9Uvws",
+            "name": "News Ki Pathshala Live: ट्रंप अटैक रोक नहीं रहे.. क्या वो होगा जो महाप्रलय ले आएगा? |Israel Iran War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_yFtWmhiBqQ",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Iran ने कहां धमाका कर होश उड़ा दिए? | Israel Iran War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-HRcyscwEW4",
+            "name": "🔴LIVE :Kim JongUn |\"என்னோட அடிய பார்த்ததில்லையே\"  ஈரான் போர்.. குறுக்கே வந்து ட்ரெய்லர் காட்டிய கிம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oD2gDkCIutQ",
+            "name": "US-Iran War LIVE: Trump Threatens Biggest Air Assault On Tehran, Warns Of ‘Most Intense Strikes’",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bFtUYNAQ6S8",
+            "name": "Bihar New CM Update LIVE: बिहार के नए मुख्यमंत्री पर मुहर? | Breaking Chirag Paswan News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_-Up6pMN0Fo",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "NEWS TV 24 "
-        },
-        {
-            "mood": "storm",
-            "videoId": "r9XB3x04PuU",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sSy5hfwA1pM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2SKC8KSYHeA",
-            "name": "🔴LIVE: இந்தியாவின் ராஜதந்திர மூவ்! பச்சை கொடி காட்டிய ஈரான்.. மிரண்டுபோன உலக நாடுகள்",
-            "artist": "NewsTamil 24X7"
         }
     ],
     "sourceFilters": {
