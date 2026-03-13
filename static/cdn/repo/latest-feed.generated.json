@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T19:26:11.983Z",
+    "generatedAt": "2026-03-13T20:25:56.523Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WhKL0xPf3VI",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "F3g3Pp3lr3s",
+            "name": "🔴LIVE: Today Headlines - 13 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "Gf4WYa5yzRU",
-            "name": "🔴LIVE: Iran | Isreal | war | china | ஈரான் போரில் குறுக்கே வந்து ட்ரெய்லர் காட்டிய சீனா",
-            "artist": "Sathiyam News"
+            "videoId": "Nr1YQl_qAWk",
+            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "93KYtr1amw4",
-            "name": "LIVE: Trump Warns Iran of \"Very Hard\" Hits Next Week | Vantage with Palki Sharma | West Asia War",
+            "videoId": "2oHTvhlwK4s",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N_n9MovUCMo",
+            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "WGpivWbjMNU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "M10iF2uFbj0",
+            "name": "Breaking World News Live | Global Leaders Latest Updates ",
+            "artist": "FREEDOM NEWS DESK"
         },
         {
             "mood": "storm",
-            "videoId": "LIx1_yzf3-s",
-            "name": "LIVE | Why The Iran War Is Still Not Over | What Went Wrong in the Middle East? | Israel-Iran | N18G",
-            "artist": "CNN-News18"
+            "videoId": "MbSlCYzP6C8",
+            "name": "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
