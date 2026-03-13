@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260313T012022.132Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260313T040527.603Z-l4t35t"
   type: "state"
-  created: "2026-03-13T01:20:22.132Z"
+  created: "2026-03-13T04:05:27.603Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T012022.132Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T040527.603Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6S5_qoqBZTc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Mz1PsY3mSyc"
-        name: "Iran's attacks on Israel , New video released  | 4 AM Geo News Headlines | 13 Mar 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NKansgTWow8"
-        name: "High Alert Issued | Iran Israel War Latest Update | 1 AM Headlines | Pakistan News"
+        videoId: "m8EbMcDM4nI"
+        name: "Iran Attack On Israel | Latest Update | 8 AM Headlines | Pakistan News"
         artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oZzSUDEOc8k"
-        name: "Attacks on US bases, Iran's big announcement | 12 AM Geo News Headlines | 13 Mar 2026"
-        artist: "Geo News"
+        videoId: "_-Up6pMN0Fo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NEWS TV 24 "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CByEKlN3HoI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "DAILY NEWS BANGLA"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PqFQxhYgbBM"
-        name: "News Ki Pathshala Live | Sushant Sinha | तेल की दिक्कत नहीं होगी क्या..सच क्या निकला? | LPG Crisis"
+        videoId: "HMqKhoR0RJE"
+        name: "World News NKP | Sushant Sinha:Ali Khamenei Death से विस्फोटक Iran |Strait of Hormuz|Trump|Iran Army"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4Z7p4r1TBG4"
-        name: "LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Central Israel | Vantage with Palki Sharma | N18G"
+        videoId: "ExwgkHsFXkw"
+        name: "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WxE4uTahxXE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "World Update News"
+        videoId: "DjgJePtbmcw"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 12, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "E8gdisvW988"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "DAILY NEWS BANGLA"
+        videoId: "ssQOBsWL0JY"
+        name: "Today's Headlines | 13 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tClLldq0uDY"
+        name: "Iran‑Israel‑US War:6 बजते ही रूस-ईरान का गठबंधन, युद्ध में होगा बड़ा विध्वंस! | Burj Khalifa | Trump"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "huKjwDOTohQ"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 13 March 2026 | NTV Latest News Update"
+        artist: "NTV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ezTI1DBSOi0"
+        name: "First message from Iran's new Supreme Leader released | 2 AM Geo News Headlines | 13 Mar 2026"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-13T01:20:22.132Z"
+  exported_at: "2026-03-13T04:05:27.603Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-13T01:20:22.091Z"
+  source_generated_at: "2026-03-13T04:05:27.563Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
