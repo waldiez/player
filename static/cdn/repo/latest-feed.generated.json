@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T20:25:56.523Z",
+    "generatedAt": "2026-03-13T21:26:27.368Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "F3g3Pp3lr3s",
-            "name": "🔴LIVE: Today Headlines - 13 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "WhKL0xPf3VI",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "Nr1YQl_qAWk",
-            "name": "🔴 LIVE || ରାତି ୧୦ଟାର ବଡ଼ ଖବର || 10PM Breaking News || Odisha  || Odia News || Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2oHTvhlwK4s",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N_n9MovUCMo",
-            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M10iF2uFbj0",
-            "name": "Breaking World News Live | Global Leaders Latest Updates ",
-            "artist": "FREEDOM NEWS DESK"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MbSlCYzP6C8",
-            "name": "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "Gf4WYa5yzRU",
+            "name": "🔴LIVE: Iran | Isreal | war | china | ஈரான் போரில் குறுக்கே வந்து ட்ரெய்லர் காட்டிய சீனா",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
