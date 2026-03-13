@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T10:28:40.898Z",
+    "generatedAt": "2026-03-13T11:25:08.344Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7YJHPKOU3hM",
-            "name": "LIVE🔴Iran Attacks Israel & US Airbases | Heavy Destruction in Tel Aviv | Iran US Israel WAR Update",
-            "artist": "Dunya News"
+            "videoId": "a96KxyVReFY",
+            "name": "🔴ବଦଲା ନେଲା ଇସ୍ରାଏଲ୍ Israel Iran War News LIVE | Iran Israel US War LIVE | Middle East War LIVE News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "aEyJWdo89Yg",
-            "name": "Iran US War Live | Iran's new supreme leader Warns | 12 PM Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "6PtvBaDBvBM",
+            "name": "🔴LIVE :Today Headlines |மதியம் 2 மணி தலைப்புச் செய்திகள் (13.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "1sqjp3tkQEo",
-            "name": "LIVE🔴Netanyahu Appears with New Threats | Iran Turns Tel Aviv Into Hell",
-            "artist": "NTV"
+            "videoId": "GPaHXS148ns",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 13 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "2yCa5bd3P-U",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ১৩ মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "uG75km-G27M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "_-Up6pMN0Fo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS TV 24 "
+            "videoId": "UYMwdMfXSwU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "HMqKhoR0RJE",
-            "name": "World News NKP | Sushant Sinha:Ali Khamenei Death से विस्फोटक Iran |Strait of Hormuz|Trump|Iran Army",
-            "artist": "Times Now Navbharat"
+            "videoId": "Bdtz4A5AztM",
+            "name": "Donald Trump LIVE | Trump Makes Very Big Announcement | US-Iran War LIVE | Trump On Iran LIVE",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8_TBvoY7XMc",
+            "name": "Breaking News LIVE: Iran Drone Strike Reported Near Dubai Creek Harbour | Exclusive Attack Footage",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JM5leKWsyo8",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
