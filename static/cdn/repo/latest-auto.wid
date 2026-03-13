@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260313T040527.603Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260313T054244.645Z-l4t35t"
   type: "state"
-  created: "2026-03-13T04:05:27.603Z"
+  created: "2026-03-13T05:42:44.645Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T040527.603Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T054244.645Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "m8EbMcDM4nI"
-        name: "Iran Attack On Israel | Latest Update | 8 AM Headlines | Pakistan News"
-        artist: "Express News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_-Up6pMN0Fo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NEWS TV 24 "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HMqKhoR0RJE"
-        name: "World News NKP | Sushant Sinha:Ali Khamenei Death से विस्फोटक Iran |Strait of Hormuz|Trump|Iran Army"
+        videoId: "ysOrLccZ90s"
+        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis | Khamenei | Trump"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ExwgkHsFXkw"
-        name: "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma"
+        videoId: "DOt9pDbnYJQ"
+        name: "World News Live : जिंदा हैं, अयातुल्ला अली खामेनेई की पत्नी | Iran Attack |  Iran Israel War Live |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "X72_YhQHXcU"
+        name: "Iran News Live : ईरान की नई ललकार, दुनिया में हाहाकार! World News | USA | Russia | Middle East |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eaGkEeFI_VY"
+        name: "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B5gkXj45mo0"
+        name: "Iran US War LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Israel |Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DjgJePtbmcw"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 12, 2026"
-        artist: "ABC News"
+        videoId: "rOB348nuJr8"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ssQOBsWL0JY"
-        name: "Today's Headlines | 13 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tClLldq0uDY"
-        name: "Iran‑Israel‑US War:6 बजते ही रूस-ईरान का गठबंधन, युद्ध में होगा बड़ा विध्वंस! | Burj Khalifa | Trump"
+        videoId: "WN3bAY6XPBE"
+        name: "Iran-America War | 13 मार्च 2026 LIVE News | अमेरिका-ईरान की जंग | Israel attacks | Mojtaba Khamenei"
         artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "huKjwDOTohQ"
-        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 13 March 2026 | NTV Latest News Update"
-        artist: "NTV News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ezTI1DBSOi0"
-        name: "First message from Iran's new Supreme Leader released | 2 AM Geo News Headlines | 13 Mar 2026"
-        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-13T04:05:27.603Z"
+  exported_at: "2026-03-13T05:42:44.645Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-13T04:05:27.563Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-13T05:42:44.601Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
