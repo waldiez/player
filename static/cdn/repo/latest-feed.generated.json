@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T09:32:57.564Z",
+    "generatedAt": "2026-03-13T10:28:40.898Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,38 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UYMwdMfXSwU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "7YJHPKOU3hM",
+            "name": "LIVE🔴Iran Attacks Israel & US Airbases | Heavy Destruction in Tel Aviv | Iran US Israel WAR Update",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "Bdtz4A5AztM",
-            "name": "Donald Trump LIVE | Trump Makes Very Big Announcement | US-Iran War LIVE | Trump On Iran LIVE",
-            "artist": "Hindustan Times"
+            "videoId": "aEyJWdo89Yg",
+            "name": "Iran US War Live | Iran's new supreme leader Warns | 12 PM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "8_TBvoY7XMc",
-            "name": "Breaking News LIVE: Iran Drone Strike Reported Near Dubai Creek Harbour | Exclusive Attack Footage",
-            "artist": "ET Now"
+            "videoId": "1sqjp3tkQEo",
+            "name": "LIVE🔴Netanyahu Appears with New Threats | Iran Turns Tel Aviv Into Hell",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "XNS_G_8KTx0",
-            "name": "World News Live : कोमा में, जूनियर खामेनेई ! Iran News | Iran Israel War | USA | Mojtaba Khamenei |",
-            "artist": "Times Now Navbharat"
+            "videoId": "2yCa5bd3P-U",
+            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ১৩ মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News",
+            "artist": "SOMOY TV Bulletin"
         },
         {
             "mood": "storm",
-            "videoId": "ysOrLccZ90s",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis | Khamenei | Trump",
+            "videoId": "_-Up6pMN0Fo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS TV 24 "
+        },
+        {
+            "mood": "storm",
+            "videoId": "HMqKhoR0RJE",
+            "name": "World News NKP | Sushant Sinha:Ali Khamenei Death से विस्फोटक Iran |Strait of Hormuz|Trump|Iran Army",
             "artist": "Times Now Navbharat"
         }
     ],
