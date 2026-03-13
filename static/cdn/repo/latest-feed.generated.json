@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T11:25:08.344Z",
+    "generatedAt": "2026-03-13T12:39:23.631Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "a96KxyVReFY",
-            "name": "🔴ବଦଲା ନେଲା ଇସ୍ରାଏଲ୍ Israel Iran War News LIVE | Iran Israel US War LIVE | Middle East War LIVE News",
-            "artist": "Kanak News"
+            "videoId": "DRDdHoPNi6k",
+            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "6PtvBaDBvBM",
-            "name": "🔴LIVE :Today Headlines |மதியம் 2 மணி தலைப்புச் செய்திகள் (13.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "RVTlK3Mz7js",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GPaHXS148ns",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 13 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "7YJHPKOU3hM",
+            "name": "LIVE🔴Iran Attacks Israel & US Airbases | Heavy Destruction in Tel Aviv | Iran US Israel WAR Update",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "uG75km-G27M",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
+            "videoId": "aEyJWdo89Yg",
+            "name": "Iran US War Live | Iran's new supreme leader Warns | 12 PM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "UYMwdMfXSwU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Bdtz4A5AztM",
-            "name": "Donald Trump LIVE | Trump Makes Very Big Announcement | US-Iran War LIVE | Trump On Iran LIVE",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8_TBvoY7XMc",
-            "name": "Breaking News LIVE: Iran Drone Strike Reported Near Dubai Creek Harbour | Exclusive Attack Footage",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JM5leKWsyo8",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "ET Now"
+            "videoId": "6K5_knMimKM",
+            "name": "🔴War BREAKING LIVE: Iranian Drone Strike Hits Central Dubai | Iran Israel War News Live",
+            "artist": "moneycontrol"
         }
     ],
     "sourceFilters": {
