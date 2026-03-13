@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T14:37:42.342Z",
+    "generatedAt": "2026-03-13T15:35:36.337Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9s-THNNldCM",
-            "name": "🔴LIVE : ஈரானின் 3 உடும்புப்பிடி.. உள்ளே சிக்கும் டிரம்ப்? வெற்றி வெற்றி.. என ஒலிக்கும் குரல்..",
-            "artist": "Thanthi TV"
+            "videoId": "LIx1_yzf3-s",
+            "name": "LIVE | Why The Iran War Is Still Not Over | What Went Wrong in the Middle East? | Israel-Iran | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "7VyL3KWurY8",
-            "name": "US-Iran War LIVE: The Battle For The Strait of Hormuz | Vantage with Palki Sharma",
+            "videoId": "wqHt-iBwU8E",
+            "name": "US-Israel Iran War LIVE: Dubai Attacked Again Amid Iranian Strikes, Air Defence Intercepts Threat",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fm8YeXCimIQ",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ei1dQx3Suj8",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fhy6vHuMZDs",
+            "name": "LIVE: Explosion Smoke Over Dubai After Iran's Mojtaba Khamenei's First Message | Firstpost Live",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "WJMJtPx1Dps",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 14 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "E3t6T2hjY-A",
+            "name": "🔴ବଦଲା ନେଲା ଇସ୍ରାଏଲ୍ Israel Iran War News LIVE | Iran Israel US War LIVE | Middle East War LIVE News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "RVTlK3Mz7js",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DRDdHoPNi6k",
-            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
-            "artist": "Times Now Navbharat"
+            "videoId": "ioo-IfL-ArE",
+            "name": "Iran US War Live | Iran's new supreme leader Warns | 4 PM Headlines | Pakistan News",
+            "artist": "Express News"
         }
     ],
     "sourceFilters": {
