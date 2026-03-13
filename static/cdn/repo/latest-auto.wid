@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260313T073935.312Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260313T083133.854Z-l4t35t"
   type: "state"
-  created: "2026-03-13T07:39:35.312Z"
+  created: "2026-03-13T08:31:33.854Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T073935.312Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T083133.854Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ASpPj72pbJ8"
-        name: "🔴LIVE: Iran | America | அமெரிக்காவுக்கு உச்சகட்ட எச்சரிக்கை"
-        artist: "Sathiyam News"
+        videoId: "7YJHPKOU3hM"
+        name: "LIVE🔴Iran Attacks Israel & US Airbases | Heavy Destruction in Tel Aviv | Iran US Israel WAR Update"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ysOrLccZ90s"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis | Khamenei | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "aEyJWdo89Yg"
+        name: "Iran US War Live | Iran's new supreme leader Warns | 12 PM Headlines | Pakistan News"
+        artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DOt9pDbnYJQ"
-        name: "World News Live : जिंदा हैं, अयातुल्ला अली खामेनेई की पत्नी | Iran Attack |  Iran Israel War Live |"
-        artist: "Times Now Navbharat"
+        videoId: "1sqjp3tkQEo"
+        name: "LIVE🔴Netanyahu Appears with New Threats | Iran Turns Tel Aviv Into Hell"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X72_YhQHXcU"
-        name: "Iran News Live : ईरान की नई ललकार, दुनिया में हाहाकार! World News | USA | Russia | Middle East |"
-        artist: "Times Now Navbharat"
+        videoId: "XFxGVmLrDRA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rBgrauKD8RQ"
-        name: "LIVE: Where is Iran's Supreme Leader Mojtaba Khamenei |US-Israel Strikes? |Vantage with Palki Sharma"
-        artist: "Firstpost"
+        videoId: "_-Up6pMN0Fo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NEWS TV 24 "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B5gkXj45mo0"
-        name: "Iran US War LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Israel |Vantage with Palki Sharma"
-        artist: "Firstpost"
+        videoId: "DjgJePtbmcw"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 12, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OZeC48dwrYQ"
-        name: "Iran Israel War Update LIVE: मुज्तबा को मिला Kim Jong का साथ, ट्रंप की दी धमकी! | Trump | America"
-        artist: "ABP NEWS"
+        videoId: "u-mXBUfLY3E"
+        name: "Israel rains missiles on Lebanon, 687 killed | 6 AM Geo News Headlines | 13Mar 2026"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TEhyQ9mdQlI"
+        name: "War With Iran Full Episode: Thu, Mar 12, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-13T07:39:35.312Z"
+  exported_at: "2026-03-13T08:31:33.854Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-13T07:39:35.274Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-13T08:31:33.816Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

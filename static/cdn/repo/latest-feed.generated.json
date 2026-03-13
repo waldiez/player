@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T07:39:35.274Z",
+    "generatedAt": "2026-03-13T08:31:33.816Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ASpPj72pbJ8",
-            "name": "🔴LIVE: Iran | America | அமெரிக்காவுக்கு உச்சகட்ட எச்சரிக்கை",
-            "artist": "Sathiyam News"
+            "videoId": "7YJHPKOU3hM",
+            "name": "LIVE🔴Iran Attacks Israel & US Airbases | Heavy Destruction in Tel Aviv | Iran US Israel WAR Update",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "ysOrLccZ90s",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis | Khamenei | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "aEyJWdo89Yg",
+            "name": "Iran US War Live | Iran's new supreme leader Warns | 12 PM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "DOt9pDbnYJQ",
-            "name": "World News Live : जिंदा हैं, अयातुल्ला अली खामेनेई की पत्नी | Iran Attack |  Iran Israel War Live |",
-            "artist": "Times Now Navbharat"
+            "videoId": "1sqjp3tkQEo",
+            "name": "LIVE🔴Netanyahu Appears with New Threats | Iran Turns Tel Aviv Into Hell",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "X72_YhQHXcU",
-            "name": "Iran News Live : ईरान की नई ललकार, दुनिया में हाहाकार! World News | USA | Russia | Middle East |",
-            "artist": "Times Now Navbharat"
+            "videoId": "XFxGVmLrDRA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "rBgrauKD8RQ",
-            "name": "LIVE: Where is Iran's Supreme Leader Mojtaba Khamenei |US-Israel Strikes? |Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "_-Up6pMN0Fo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS TV 24 "
         },
         {
             "mood": "storm",
-            "videoId": "B5gkXj45mo0",
-            "name": "Iran US War LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Israel |Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "DjgJePtbmcw",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 12, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "OZeC48dwrYQ",
-            "name": "Iran Israel War Update LIVE: मुज्तबा को मिला Kim Jong का साथ, ट्रंप की दी धमकी! | Trump | America",
-            "artist": "ABP NEWS"
+            "videoId": "u-mXBUfLY3E",
+            "name": "Israel rains missiles on Lebanon, 687 killed | 6 AM Geo News Headlines | 13Mar 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TEhyQ9mdQlI",
+            "name": "War With Iran Full Episode: Thu, Mar 12, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
