@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T15:35:36.337Z",
+    "generatedAt": "2026-03-13T16:31:15.954Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LIx1_yzf3-s",
-            "name": "LIVE | Why The Iran War Is Still Not Over | What Went Wrong in the Middle East? | Israel-Iran | N18G",
-            "artist": "CNN-News18"
+            "videoId": "M10iF2uFbj0",
+            "name": "Breaking World News Live | Global Leaders Latest Updates ",
+            "artist": "FREEDOM NEWS DESK"
         },
         {
             "mood": "storm",
-            "videoId": "wqHt-iBwU8E",
-            "name": "US-Israel Iran War LIVE: Dubai Attacked Again Amid Iranian Strikes, Air Defence Intercepts Threat",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fm8YeXCimIQ",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ei1dQx3Suj8",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fhy6vHuMZDs",
-            "name": "LIVE: Explosion Smoke Over Dubai After Iran's Mojtaba Khamenei's First Message | Firstpost Live",
+            "videoId": "MbSlCYzP6C8",
+            "name": "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "E3t6T2hjY-A",
-            "name": "🔴ବଦଲା ନେଲା ଇସ୍ରାଏଲ୍ Israel Iran War News LIVE | Iran Israel US War LIVE | Middle East War LIVE News",
-            "artist": "Kanak News"
+            "videoId": "M4xlY81_wEo",
+            "name": "Iran Vs America War LIVE Update | Iran enters US, first attack on California | Trump | Mojtaba |N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "ioo-IfL-ArE",
-            "name": "Iran US War Live | Iran's new supreme leader Warns | 4 PM Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "ln9nv8dyFBc",
+            "name": "Iran Israel War Update HD LIVE | Global Oil Crisis | US Intelligence Report | Hormuz | Trump | N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6AKBpt_-rFg",
+            "name": "Debate With Arnab LIVE: Trump's Fury Or Iran's Resistance - Who Is Winning the War?",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Zi8WQ2IDmtI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         }
     ],
     "sourceFilters": {
