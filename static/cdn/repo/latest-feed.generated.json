@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-13T05:42:44.601Z",
+    "generatedAt": "2026-03-13T06:41:28.366Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ysOrLccZ90s",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis | Khamenei | Trump",
+            "videoId": "XNS_G_8KTx0",
+            "name": "World News Live : कोमा में, जूनियर खामेनेई ! Iran News | Iran Israel War | USA | Mojtaba Khamenei |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "DOt9pDbnYJQ",
-            "name": "World News Live : जिंदा हैं, अयातुल्ला अली खामेनेई की पत्नी | Iran Attack |  Iran Israel War Live |",
+            "videoId": "m8EbMcDM4nI",
+            "name": "Iran Attack On Israel | Latest Update | 8 AM Headlines | Pakistan News",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_-Up6pMN0Fo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS TV 24 "
+        },
+        {
+            "mood": "storm",
+            "videoId": "62OiJHW2Tmw",
+            "name": "LIVE | US Military Aircraft Crashes In Iraq | Israel Says Iran Fires Fresh Missiles | World DNA LIVE",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HMqKhoR0RJE",
+            "name": "World News NKP | Sushant Sinha:Ali Khamenei Death से विस्फोटक Iran |Strait of Hormuz|Trump|Iran Army",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "X72_YhQHXcU",
-            "name": "Iran News Live : ईरान की नई ललकार, दुनिया में हाहाकार! World News | USA | Russia | Middle East |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eaGkEeFI_VY",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B5gkXj45mo0",
-            "name": "Iran US War LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Israel |Vantage with Palki Sharma",
+            "videoId": "ExwgkHsFXkw",
+            "name": "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma",
             "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rOB348nuJr8",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WN3bAY6XPBE",
-            "name": "Iran-America War | 13 मार्च 2026 LIVE News | अमेरिका-ईरान की जंग | Israel attacks | Mojtaba Khamenei",
-            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
