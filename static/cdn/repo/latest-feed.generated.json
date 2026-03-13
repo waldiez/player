@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-12T23:20:30.687Z",
+    "generatedAt": "2026-03-13T01:20:22.091Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ezTI1DBSOi0",
-            "name": "First message from Iran's new Supreme Leader released | 2 AM Geo News Headlines | 13 Mar 2026",
+            "videoId": "6S5_qoqBZTc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mz1PsY3mSyc",
+            "name": "Iran's attacks on Israel , New video released  | 4 AM Geo News Headlines | 13 Mar 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "vBfJ-tNcRaA",
-            "name": "Sandesh News Live: Israel-Iran war | LPG Price Hike | Heatwave | Gold Silver MCX |",
-            "artist": "Sandesh News"
+            "videoId": "NKansgTWow8",
+            "name": "High Alert Issued | Iran Israel War Latest Update | 1 AM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "mVtAhWM-jqs",
-            "name": "LIVE COVERAGE: Law enforcement responds to active shooter at Michigan synagogue",
-            "artist": "ABC News"
+            "videoId": "oZzSUDEOc8k",
+            "name": "Attacks on US bases, Iran's big announcement | 12 AM Geo News Headlines | 13 Mar 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "l1lWmdFE1MI",
-            "name": "Evening News Today LIVE | Maharashtra Budget Session | Iran Vs Israel | CNG LPG Gas | ABP Majha",
-            "artist": "ABP MAJHA"
+            "videoId": "CByEKlN3HoI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DAILY NEWS BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "0vXDeKSRxZo",
-            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Parliament Session",
+            "videoId": "PqFQxhYgbBM",
+            "name": "News Ki Pathshala Live | Sushant Sinha | तेल की दिक्कत नहीं होगी क्या..सच क्या निकला? | LPG Crisis",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4Z7p4r1TBG4",
+            "name": "LIVE: Iran Strikes Gulf Fuel Tanks, Missiles Hit Central Israel | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WxE4uTahxXE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Update News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E8gdisvW988",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 March  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DAILY NEWS BANGLA"
         }
     ],
     "sourceFilters": {
