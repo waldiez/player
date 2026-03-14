@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T11:17:39.192Z",
+    "generatedAt": "2026-03-14T12:33:34.994Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "g1kMV7IufXI",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "fLw8sIl1Kvo",
+            "name": "🔴LIVE | Pakistan Attack Afghan Taliban | Pak Afghan War | Army Action |Borders Situation | Dunya",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "KvNvN5BDiSA",
-            "name": "🔴 LIVE: Middle East War Escalates | Intense Strikes Continue | Strait of Hormuz Closed",
+            "videoId": "yzhQdRybz4s",
+            "name": "Netanyahu’s Latest Remarks Spark International Attention | 4 PM Headlines Geo News (14 Mar 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "N_n9MovUCMo",
-            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "WaudJ9QFqt8",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 14.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "AesJHTRKG-w",
-            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "mh2RgRLcX9k",
+            "name": "LIVE:US-Iran War:PM Modi Calls Iran President Amid War; India Prioritises Citizens & Energy Security",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "lSo8BvpRbX0",
-            "name": "Iran US War LIVE | US Marines Move Toward Middle East Amid Tensions, Fear Grow Of US Military | N18G",
-            "artist": "CNN-News18"
+            "videoId": "9U4f_skeIpA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "SVjJQwosGII",
+            "name": "Iran Israel War LIVE: ईरान ने भारत आ रहे जहाज को स्ट्रेट ऑफ होर्मुज में उड़ाया, हाहाकार! | Khamenei",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lBQz-PW4KCg",
+            "name": "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {

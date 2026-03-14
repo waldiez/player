@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T111739.231Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T123335.025Z-l4t35t"
   type: "state"
-  created: "2026-03-14T11:17:39.231Z"
+  created: "2026-03-14T12:33:35.025Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T111739.231Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T123335.025Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "g1kMV7IufXI"
-        name: "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.03.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "fLw8sIl1Kvo"
+        name: "🔴LIVE | Pakistan Attack Afghan Taliban | Pak Afghan War | Army Action |Borders Situation | Dunya"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KvNvN5BDiSA"
-        name: "🔴 LIVE: Middle East War Escalates | Intense Strikes Continue | Strait of Hormuz Closed"
+        videoId: "yzhQdRybz4s"
+        name: "Netanyahu’s Latest Remarks Spark International Attention | 4 PM Headlines Geo News (14 Mar 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N_n9MovUCMo"
-        name: "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "WaudJ9QFqt8"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 14.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AesJHTRKG-w"
-        name: "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News"
-        artist: "Times Now Navbharat"
+        videoId: "mh2RgRLcX9k"
+        name: "LIVE:US-Iran War:PM Modi Calls Iran President Amid War; India Prioritises Citizens & Energy Security"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lSo8BvpRbX0"
-        name: "Iran US War LIVE | US Marines Move Toward Middle East Amid Tensions, Fear Grow Of US Military | N18G"
-        artist: "CNN-News18"
+        videoId: "9U4f_skeIpA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SVjJQwosGII"
+        name: "Iran Israel War LIVE: ईरान ने भारत आ रहे जहाज को स्ट्रेट ऑफ होर्मुज में उड़ाया, हाहाकार! | Khamenei"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lBQz-PW4KCg"
+        name: "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T11:17:39.231Z"
+  exported_at: "2026-03-14T12:33:35.025Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T11:17:39.192Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T12:33:34.994Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
