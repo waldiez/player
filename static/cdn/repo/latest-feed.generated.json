@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T22:18:25.692Z",
+    "generatedAt": "2026-03-14T23:20:16.109Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lBQz-PW4KCg",
-            "name": "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates",
-            "artist": "SAMAA TV"
+            "videoId": "kVV_uk67nt4",
+            "name": "ഹോർമൂസ് കടലിടുക്ക് സൈനിക ബലത്തിലൂടെ പിടിച്ചെടുക്കുമെന്ന് ട്രംപ് | US-Israel-Iran War News",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "X4XcwFxdgys",
-            "name": "US News LIVE: President Trump's Media Briefing on Iran War, Oil Prices and Strait of Hormuz | N18G",
-            "artist": "Firstpost"
+            "videoId": "35ypepALHK8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "7TzMAq9Rgwk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 14 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS TV 24 "
+            "videoId": "kQ8hipup7Vg",
+            "name": "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "wqTgx_xjD5c",
-            "name": "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News",
-            "artist": "India News"
+            "videoId": "oLqPanVc1yg",
+            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : ईरानी 'लाइफलाइन' पर ट्रंप का अटैक! Iran",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "wJkPFtbzwjY",
-            "name": "Israel-Iran War LIVE: Tehran Launches Cluster Munition Wave | Gulf Bases Hit | US LIVE | Israel",
-            "artist": "News18 Urdu"
+            "videoId": "IdgT0x28-gQ",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bCPq_X2FcXU",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "tuWOvjqn11E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "UnSwT-EXDOc",
-            "name": "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences",
-            "artist": "CNN-News18"
+            "videoId": "XYwqYnPn0b8",
+            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 14.03.2026 | Top News | Today News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_veslzQ-XuY",
+            "name": "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
