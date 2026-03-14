@@ -21,6 +21,7 @@ import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriTray } from "@/hooks/useTauriTray";
 import { importReaderDocumentFromFile, isReaderFileName } from "@/lib/readerImport";
+import { onPlayerControl, onSceneMood, postMoodChanged, postNowPlaying } from "@/lib/synapse";
 import { type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { useIdleTimer } from "@/lib/useIdleTimer";
 import { cn } from "@/lib/utils";
@@ -148,6 +149,20 @@ export function App() {
     const isGuidedMode = (["storyteller", "presentation", "learning"] as PlayerMode[]).includes(playerMode);
     const isReaderMode = playerMode === "reader";
     const isEditorMode = playerMode === "editor";
+
+    // Notify SYNAPSE when mood mode changes so it can adapt its scene.
+    useEffect(() => {
+        if (isMoodMode) postMoodChanged(playerMode);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [playerMode]);
+
+    // Notify SYNAPSE when a new track starts playing.
+    useEffect(() => {
+        if (currentMedia && playback.isPlaying) {
+            postNowPlaying(currentMedia.name ?? currentMedia.path);
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [currentMedia?.path]);
 
     // Sync theme CSS variables whenever playerMode changes
     useEffect(() => {
@@ -322,6 +337,47 @@ export function App() {
             .catch(() => {});
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
+
+    // ── SYNAPSE OS bridge ────────────────────────────────────────────────────
+    // Listen for voice commands relayed from SYNAPSE (play/pause/next/prev…)
+    useEffect(() => {
+        return onPlayerControl(command => {
+            const store = usePlayerStore.getState();
+            switch (command) {
+                case "play":
+                    store.setPlayback({ isPlaying: true });
+                    break;
+                case "pause":
+                    store.setPlayback({ isPlaying: false });
+                    break;
+                case "next":
+                    store.playNextInLibrary();
+                    break;
+                case "prev":
+                    store.playPrevInLibrary();
+                    break;
+                case "stop":
+                    store.setPlayback({ isPlaying: false, currentTime: 0 });
+                    break;
+                case "volume_up":
+                    store.setVolume(Math.min(1, store.playback.volume + 0.1));
+                    break;
+                case "volume_down":
+                    store.setVolume(Math.max(0, store.playback.volume - 0.1));
+                    break;
+            }
+        });
+    }, []);
+
+    // When SYNAPSE pushes a mood (e.g. from its own scene change), mirror it.
+    useEffect(() => {
+        return onSceneMood(mood => {
+            const validMoods: PlayerMode[] = ["journey", "dock", "storm", "fest", "rock", "pop", "disco"];
+            if (validMoods.includes(mood as PlayerMode)) {
+                setPlayerMode(mood as PlayerMode);
+            }
+        });
+    }, [setPlayerMode]);
 
     // Swipe gesture for non-mood mode
     const swipeHandlers = useSwipeGesture({

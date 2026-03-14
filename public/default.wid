@@ -73,6 +73,12 @@ state:
           chapter: null
         - type: youtube
           ytType: video
+          videoId: S2V9VTCHHOA
+          name: bhukhurah - Παράμερα (Paramera)
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
           videoId: dZNekHrcMPc
           name: MIKRO Gefyra HD with lyrics
           artist: YouTube
@@ -476,7 +482,7 @@ state:
       - type: youtube
         ytType: video
         videoId: mSZtwhrovvY
-        name: YouTube Playlist — PL595BBE14
+        name: Radiohead Takeover - Thom Yorke Boiler Room DJ Live [HD]
         artist: YouTube
         chapter: null
       - type: youtube
@@ -495,12 +501,6 @@ state:
         ytType: video
         videoId: F5nzwqj3utY
         name: Death In Vegas - Dirge (Official Video)
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: dNxKy2weKxA
-        name: YouTube — dNxKy2weKxA
         artist: YouTube
         chapter: null
     pop:
