@@ -23,13 +23,9 @@
 html,
 body,
 #root {
-  min-height: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
-}
-
-html {
-  height: 100%;
 }
 
 body {
@@ -38,7 +34,6 @@ body {
   color: var(--color-player-text);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-y: auto;
   transition:
     background-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
     color 0.35s cubic-bezier(0.4, 0, 0.2, 1);

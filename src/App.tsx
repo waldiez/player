@@ -506,7 +506,7 @@ export function App() {
 
     if (isGuidedMode) {
         return (
-            <div className="flex min-h-screen flex-col bg-player-bg">
+            <div className="flex h-full flex-col bg-player-bg">
                 <DesktopDiagnosticsOverlay />
                 <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
                     <div className="flex items-center gap-3">
@@ -733,7 +733,7 @@ export function App() {
     return (
         <div
             ref={containerRef}
-            className="flex min-h-screen flex-col bg-player-bg"
+            className="flex h-full flex-col bg-player-bg"
             onDragOver={e => e.preventDefault()}
             onDrop={handleFileDrop}
             {...swipeHandlers}
@@ -868,7 +868,7 @@ export function App() {
             </header>
 
             {/* Main Content */}
-            <div className="flex flex-1 overflow-x-hidden">
+            <div className="flex flex-1 overflow-hidden">
                 {/* Video Area */}
                 <div className="flex flex-1 flex-col">
                     <div className="relative flex-1">
