@@ -223,10 +223,6 @@ class _PlayerWebViewPageState extends State<PlayerWebViewPage> {
                       child: const Text('Open in browser'),
                     ),
                   ],
-                child: Text(
-                  _errorText!,
-                  textAlign: TextAlign.center,
-                  style: Theme.of(context).textTheme.bodyMedium,
                 ),
               ),
             ),
