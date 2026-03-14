@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T053945.383Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T063636.518Z-l4t35t"
   type: "state"
-  created: "2026-03-14T05:39:45.383Z"
+  created: "2026-03-14T06:36:36.518Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T053945.383Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T063636.518Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Xa6wDhkVstk"
-        name: "🔴LIVE: Tvk Vijay | Bjp | விஜய்க்கு பாஜக போட்ட ஸ்கெட்ச்"
-        artist: "Sathiyam News"
+        videoId: "80t-PkonFhM"
+        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MtTxZ3_ie44"
-        name: "Iran BOMBS USS Abraham Lincoln LIVE| Trump’s Nuclear Warship FLEES Iran | U.S Vs Iran War LIVE"
-        artist: "Oneindia News"
+        videoId: "s-GQdrclJHk"
+        name: "Latest World News Update: नेपाल पर बढ़ रहा चीनी प्रभाव? आ गई सबसे बड़ी रिपोर्ट  |ABPLIVE"
+        artist: "ABPLIVE"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5vd-QY5TCiI"
-        name: "US Hits Iran News LIVE | Iran-Israel-US War News LIVE: B2 Bombers Drop 1000 KG Bombs On Iran"
-        artist: "India Today"
+        videoId: "V5sSkNdRD8U"
+        name: "US-Iran War LIVE: Iran Strikes 5 U.S. Military Aircraft In Saudi Arabia In Major Escalation | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eNaW6fWLVtM"
-        name: "US Attacks Iran News LIVE: Kharg Island Hit, US Destroys Iran's Military Targets, Says Trump"
-        artist: "India Today"
+        videoId: "2iZ5pHpWQWs"
+        name: "West Asia War LIVE: Trump Threatens \"Very Hard\" Hits Next Week | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U8M2aDAFGW8"
-        name: "Gulf War LIVE | Iran's New Supreme Leader Mojtaba Khamenei Lost Leg | Iran Israel War | Trump | N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s33eOl8wtbA"
-        name: "Iran America War Live Update: जंग के ताजा हालात |Khamenei |World War | Trump |Iran Israel War Update"
-        artist: "News18 UP Uttarakhand"
+        videoId: "zjMFfN1dQWU"
+        name: "Iran Israel War LIVE | Mojtaba Khamenei | Iran America War | Trump | ईरान-अमेरिका जंग 13 मार्च 2026"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T05:39:45.383Z"
+  exported_at: "2026-03-14T06:36:36.518Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T05:39:45.344Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T06:36:36.479Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
