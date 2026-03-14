@@ -82,6 +82,8 @@ export function reportDiagnostic(input: {
     detail?: unknown;
 }): DiagnosticEntry {
     hydrate();
+    const existing = entries.find(e => e.message === input.message && e.area === input.area);
+    if (existing) return existing;
     const entry: DiagnosticEntry = {
         id: buildId(),
         level: input.level,
