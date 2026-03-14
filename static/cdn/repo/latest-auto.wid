@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T201928.365Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T211919.835Z-l4t35t"
   type: "state"
-  created: "2026-03-14T20:19:28.365Z"
+  created: "2026-03-14T21:19:19.835Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T201928.365Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T211919.835Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lBQz-PW4KCg"
-        name: "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates"
-        artist: "SAMAA TV"
+        videoId: "A1Mbh5B9y4c"
+        name: "🔴LIVE: Today Headlines - 14 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X4XcwFxdgys"
-        name: "US News LIVE: President Trump's Media Briefing on Iran War, Oil Prices and Strait of Hormuz | N18G"
-        artist: "Firstpost"
+        videoId: "hzs3lKUrXRk"
+        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wqTgx_xjD5c"
-        name: "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News"
-        artist: "India News"
+        videoId: "uRSgNxuvQDM"
+        name: "LIVE  | New US Warship Heads To Gulf, Trump Deploys US Marines For Iran Ground War?"
+        artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bCPq_X2FcXU"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "Pgk1EBtp0JM"
+        name: "🔴 LIVE: Iran Announces Counter‑Attacks Amid Intense Bombardment, Situation Worsens - Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UnSwT-EXDOc"
-        name: "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oLqPanVc1yg"
-        name: "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : ईरानी 'लाइफलाइन' पर ट्रंप का अटैक! Iran"
-        artist: "NDTV India"
+        videoId: "kQ8hipup7Vg"
+        name: "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T20:19:28.365Z"
+  exported_at: "2026-03-14T21:19:19.835Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T20:19:28.321Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T21:19:19.801Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
