@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260313T232041.257Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T011821.734Z-l4t35t"
   type: "state"
-  created: "2026-03-13T23:20:41.257Z"
+  created: "2026-03-14T01:18:21.734Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260313T232041.257Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T011821.734Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,32 +53,44 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WVtu9eMRghA"
-        name: "World News Live: “शहीदों के खून का भयंकर बदला लेंगे” टैंक-मिसाइल तैनात, मचा हाहाकार ! Iran | USA |"
-        artist: "Times Now Navbharat"
+        videoId: "0zEbElSADzc"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WhKL0xPf3VI"
-        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "qYAbBgeCkk8"
+        name: "Important Person Martyred! Iran’s New Supreme Leader Mojtaba Khamenei Vows to Fight | 03AM Headlines"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Gf4WYa5yzRU"
-        name: "🔴LIVE: Iran | Isreal | war | china | ஈரான் போரில் குறுக்கே வந்து ட்ரெய்லர் காட்டிய சீனா"
-        artist: "Sathiyam News"
+        videoId: "M4hqK9EPDos"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M10iF2uFbj0"
-        name: "Breaking World News Live | Global Leaders Latest Updates "
-        artist: "FREEDOM NEWS DESK"
+        videoId: "IlDVZaqi0Pw"
+        name: "🟢LIVE: Israel Iran War Latest Updates | இறங்கி அடிக்கும் ஈரான்!- அடுத்தடுத்து Warning! |Trump |N18G"
+        artist: "News18 Tamil Nadu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MbSlCYzP6C8"
-        name: "LIVE: Iran Hits Gulf Fuel Tanks; Mojtaba Khamenei Breaks Silence | Vantage with Palki Sharma | N18G"
+        videoId: "F3g3Pp3lr3s"
+        name: "🔴LIVE: Today Headlines - 13 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JKVKmu95aQc"
+        name: "Israel-Iran War LIVE: Netanyahu Issues Stark Warning to Iran’s New Supreme Leader | US | Hezbollah"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N_n9MovUCMo"
+        name: "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G"
         artist: "Firstpost"
         chapter: null
   moodCustomizations:
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-13T23:20:41.257Z"
+  exported_at: "2026-03-14T01:18:21.734Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-13T23:20:41.218Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T01:18:21.694Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
