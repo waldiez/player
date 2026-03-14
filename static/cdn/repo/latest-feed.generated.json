@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T12:33:34.994Z",
+    "generatedAt": "2026-03-14T13:39:59.857Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "fLw8sIl1Kvo",
-            "name": "🔴LIVE | Pakistan Attack Afghan Taliban | Pak Afghan War | Army Action |Borders Situation | Dunya",
-            "artist": "Dunya News"
+            "videoId": "arBXkYHSaT0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "yzhQdRybz4s",
-            "name": "Netanyahu’s Latest Remarks Spark International Attention | 4 PM Headlines Geo News (14 Mar 2026)",
+            "videoId": "RFL6f9tzx5k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jH6BjdQyQ6k",
+            "name": "Us- Israel,Iran War - Massive Attacks, Latest Update | 5 PM Headlines Geo News (14 Mar 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "WaudJ9QFqt8",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 14.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "6iNA7niZWxQ",
+            "name": "🔴 LIVE: ইরানের সর্বোচ্চ নেতার মাথার দাম ঘোষণাসহ আলোচিত সব খবর | Iran-Israel War Update | Jugantor",
+            "artist": "Daily Jugantor"
         },
         {
             "mood": "storm",
-            "videoId": "mh2RgRLcX9k",
-            "name": "LIVE:US-Iran War:PM Modi Calls Iran President Amid War; India Prioritises Citizens & Energy Security",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9U4f_skeIpA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "SVjJQwosGII",
-            "name": "Iran Israel War LIVE: ईरान ने भारत आ रहे जहाज को स्ट्रेट ऑफ होर्मुज में उड़ाया, हाहाकार! | Khamenei",
+            "videoId": "VjUgLap4qgg",
+            "name": "Japan-North Korea Tension Update LIVE: मिडिल ईस्ट के बाद एशिया में भी जंग? | World War Begins...",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "lBQz-PW4KCg",
-            "name": "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates",
-            "artist": "SAMAA TV"
+            "videoId": "g1kMV7IufXI",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KvNvN5BDiSA",
+            "name": "🔴 LIVE: Middle East War Escalates | Intense Strikes Continue | Strait of Hormuz Closed",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N_n9MovUCMo",
+            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
