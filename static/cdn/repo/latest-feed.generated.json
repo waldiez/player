@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T06:36:36.479Z",
+    "generatedAt": "2026-03-14T07:31:01.962Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "80t-PkonFhM",
-            "name": "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "6AKBpt_-rFg",
+            "name": "Debate With Arnab LIVE: Trump's Fury Or Iran's Resistance - Who Is Winning the War?",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "s-GQdrclJHk",
-            "name": "Latest World News Update: नेपाल पर बढ़ रहा चीनी प्रभाव? आ गई सबसे बड़ी रिपोर्ट  |ABPLIVE",
-            "artist": "ABPLIVE"
+            "videoId": "KzPdvvls8DU",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "V5sSkNdRD8U",
-            "name": "US-Iran War LIVE: Iran Strikes 5 U.S. Military Aircraft In Saudi Arabia In Major Escalation | N18G",
+            "videoId": "MsL8a6C1KqE",
+            "name": "Iran Israel War Update Live |News Ki Pathshala | Sushant Sinha | Iran ने कहां धमाका कर होश उड़ा दिए?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xa6wDhkVstk",
+            "name": "🔴LIVE: Tvk Vijay | Bjp | விஜய்க்கு பாஜக போட்ட ஸ்கெட்ச்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MtTxZ3_ie44",
+            "name": "Iran BOMBS USS Abraham Lincoln LIVE| Trump’s Nuclear Warship FLEES Iran | U.S Vs Iran War LIVE",
+            "artist": "Oneindia News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y9SaSBeopeM",
+            "name": "U.S. VP Claims Iran Leader Mojtaba Khamenei Injured | Headlines 9 AM Geo News (14 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UnSwT-EXDOc",
+            "name": "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "2iZ5pHpWQWs",
-            "name": "West Asia War LIVE: Trump Threatens \"Very Hard\" Hits Next Week | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zjMFfN1dQWU",
-            "name": "Iran Israel War LIVE | Mojtaba Khamenei | Iran America War | Trump | ईरान-अमेरिका जंग 13 मार्च 2026",
-            "artist": "ABP NEWS"
+            "videoId": "9zhsblASRYw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Times Edition"
         }
     ],
     "sourceFilters": {
