@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T17:20:33.000Z",
+    "generatedAt": "2026-03-14T18:27:13.916Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kQ8hipup7Vg",
-            "name": "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi",
-            "artist": "Times Now Navbharat"
+            "videoId": "bCPq_X2FcXU",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "drdESWm9pOI",
-            "name": "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "n7YHmznVy5c",
-            "name": "🔴LIVE | Kim Jong-un’s Missile Launch | World on Edge | Iran's Big Surprise | Israel Sirens Blare",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dPVsndmPzco",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | LPG Petrol Price | | PM Modi | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_veslzQ-XuY",
-            "name": "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News",
+            "videoId": "Fjj3nEeWH58",
+            "name": "Iran Israel War LIVE: गायब हो गए नेतन्याहू?, ईरान में जश्न! | Trump | Netanyahu | World News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IVUqQqHdlUU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | PM Modi और INDI के बीच गजब घमासान हो गया! | Israel Iran War",
-            "artist": "Times Now Navbharat"
+            "videoId": "UnSwT-EXDOc",
+            "name": "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "w0BqnEaDYNs",
-            "name": "Breaking World News Live | Global Headlines & Updates",
-            "artist": "FREEDOM NEWS DESK"
+            "videoId": "GePLji4jwrw",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "arBXkYHSaT0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "tuWOvjqn11E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "65pTW7agT54",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Live Bangla Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9B-JdApcu4M",
+            "name": "LIVE : Strait of Hormuz Tensions Rise | హర్మూజ్‌తో ఆయువుపట్టుపై దెబ్బేసిన ఇరాన్ | Iran | 10TV",
+            "artist": "10TV DIGITAL"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I8iB4MbhDMc",
+            "name": "Breaking World News Live | Global Headlines & Updates ",
+            "artist": "US Briefing Hub"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XYwqYnPn0b8",
+            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 14.03.2026 | Top News | Today News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

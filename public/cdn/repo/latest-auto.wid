@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T172033.030Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T182713.963Z-l4t35t"
   type: "state"
-  created: "2026-03-14T17:20:33.030Z"
+  created: "2026-03-14T18:27:13.963Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T172033.030Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T182713.963Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "kQ8hipup7Vg"
-        name: "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi"
-        artist: "Times Now Navbharat"
+        videoId: "bCPq_X2FcXU"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "drdESWm9pOI"
-        name: "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "n7YHmznVy5c"
-        name: "🔴LIVE | Kim Jong-un’s Missile Launch | World on Edge | Iran's Big Surprise | Israel Sirens Blare"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dPVsndmPzco"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | LPG Petrol Price | | PM Modi | Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_veslzQ-XuY"
-        name: "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News"
+        videoId: "Fjj3nEeWH58"
+        name: "Iran Israel War LIVE: गायब हो गए नेतन्याहू?, ईरान में जश्न! | Trump | Netanyahu | World News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IVUqQqHdlUU"
-        name: "News Ki Pathshala Live | Sushant Sinha | PM Modi और INDI के बीच गजब घमासान हो गया! | Israel Iran War"
-        artist: "Times Now Navbharat"
+        videoId: "UnSwT-EXDOc"
+        name: "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "w0BqnEaDYNs"
-        name: "Breaking World News Live | Global Headlines & Updates"
-        artist: "FREEDOM NEWS DESK"
+        videoId: "GePLji4jwrw"
+        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "arBXkYHSaT0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "tuWOvjqn11E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "65pTW7agT54"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Live Bangla Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9B-JdApcu4M"
+        name: "LIVE : Strait of Hormuz Tensions Rise | హర్మూజ్‌తో ఆయువుపట్టుపై దెబ్బేసిన ఇరాన్ | Iran | 10TV"
+        artist: "10TV DIGITAL"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I8iB4MbhDMc"
+        name: "Breaking World News Live | Global Headlines & Updates "
+        artist: "US Briefing Hub"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XYwqYnPn0b8"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 14.03.2026 | Top News | Today News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T17:20:33.030Z"
+  exported_at: "2026-03-14T18:27:13.963Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T17:20:33.000Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T18:27:13.916Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
