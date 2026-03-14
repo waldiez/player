@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T011821.734Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T040416.757Z-l4t35t"
   type: "state"
-  created: "2026-03-14T01:18:21.734Z"
+  created: "2026-03-14T04:04:16.757Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T011821.734Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T040416.757Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0zEbElSADzc"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "KSNTyg3qAFU"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qYAbBgeCkk8"
-        name: "Important Person Martyred! Iran’s New Supreme Leader Mojtaba Khamenei Vows to Fight | 03AM Headlines"
+        videoId: "2iZ5pHpWQWs"
+        name: "West Asia War LIVE: Trump Threatens \"Very Hard\" Hits Next Week | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zjMFfN1dQWU"
+        name: "Iran Israel War LIVE | Mojtaba Khamenei | Iran America War | Trump | ईरान-अमेरिका जंग 13 मार्च 2026"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B1ABKGalHk8"
+        name: "Iran America War News LIVE: ईरान-अमेरिका जंग, 13 मार्च 2026 | Iran Attacks Israel | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0gqDJRgYIVY"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 13, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j-Ds0sp9VIE"
+        name: "US Iran War LIVE | Trump Loses Support Of Arab Partners In War Against Iran | Israel Iran War | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vLgvWeKR48w"
+        name: "NDTV 24x7 Live TV:  US Iran War | Strait Of Hormuz | Kharg Island| India Iran Ties | Trump| Khamenei"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c5gVHJHsNLs"
+        name: "LIVE🔴Iran-US Israel War | Russia China Entry | Trump Afraid of | Heavy Air Strikes | Dunya News"
         artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M4hqK9EPDos"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "jaYiHeAXaHM"
+        name: "Super 100 News LIVE: आज की बड़ी खबरें | Headlines Today | Aaj Ki Taja Khabar | War | 14  March"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IlDVZaqi0Pw"
-        name: "🟢LIVE: Israel Iran War Latest Updates | இறங்கி அடிக்கும் ஈரான்!- அடுத்தடுத்து Warning! |Trump |N18G"
-        artist: "News18 Tamil Nadu"
+        videoId: "_veslzQ-XuY"
+        name: "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F3g3Pp3lr3s"
-        name: "🔴LIVE: Today Headlines - 13 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JKVKmu95aQc"
-        name: "Israel-Iran War LIVE: Netanyahu Issues Stark Warning to Iran’s New Supreme Leader | US | Hezbollah"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N_n9MovUCMo"
-        name: "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "1G_NtlV4F2M"
+        name: "Today's Headlines | 14 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T01:18:21.734Z"
+  exported_at: "2026-03-14T04:04:16.757Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T01:18:21.694Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T04:04:16.717Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

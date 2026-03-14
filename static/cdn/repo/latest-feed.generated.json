@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T01:18:21.694Z",
+    "generatedAt": "2026-03-14T04:04:16.717Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0zEbElSADzc",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "KSNTyg3qAFU",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "qYAbBgeCkk8",
-            "name": "Important Person Martyred! Iran’s New Supreme Leader Mojtaba Khamenei Vows to Fight | 03AM Headlines",
+            "videoId": "2iZ5pHpWQWs",
+            "name": "West Asia War LIVE: Trump Threatens \"Very Hard\" Hits Next Week | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zjMFfN1dQWU",
+            "name": "Iran Israel War LIVE | Mojtaba Khamenei | Iran America War | Trump | ईरान-अमेरिका जंग 13 मार्च 2026",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B1ABKGalHk8",
+            "name": "Iran America War News LIVE: ईरान-अमेरिका जंग, 13 मार्च 2026 | Iran Attacks Israel | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0gqDJRgYIVY",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 13, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j-Ds0sp9VIE",
+            "name": "US Iran War LIVE | Trump Loses Support Of Arab Partners In War Against Iran | Israel Iran War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vLgvWeKR48w",
+            "name": "NDTV 24x7 Live TV:  US Iran War | Strait Of Hormuz | Kharg Island| India Iran Ties | Trump| Khamenei",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c5gVHJHsNLs",
+            "name": "LIVE🔴Iran-US Israel War | Russia China Entry | Trump Afraid of | Heavy Air Strikes | Dunya News",
             "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "M4hqK9EPDos",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "jaYiHeAXaHM",
+            "name": "Super 100 News LIVE: आज की बड़ी खबरें | Headlines Today | Aaj Ki Taja Khabar | War | 14  March",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IlDVZaqi0Pw",
-            "name": "🟢LIVE: Israel Iran War Latest Updates | இறங்கி அடிக்கும் ஈரான்!- அடுத்தடுத்து Warning! |Trump |N18G",
-            "artist": "News18 Tamil Nadu"
+            "videoId": "_veslzQ-XuY",
+            "name": "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "F3g3Pp3lr3s",
-            "name": "🔴LIVE: Today Headlines - 13 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JKVKmu95aQc",
-            "name": "Israel-Iran War LIVE: Netanyahu Issues Stark Warning to Iran’s New Supreme Leader | US | Hezbollah",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N_n9MovUCMo",
-            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "1G_NtlV4F2M",
+            "name": "Today's Headlines | 14 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
