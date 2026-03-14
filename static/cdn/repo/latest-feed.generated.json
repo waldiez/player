@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T10:20:25.358Z",
+    "generatedAt": "2026-03-14T11:17:39.192Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uSEZ8YYieMg",
-            "name": "🔴LIVE : TVK Vijay | AIADMK | EPS | TVK | விஜய்யின் ஒரே முடிவு.. EPS-க்கு போன் அடித்த TTV",
+            "videoId": "g1kMV7IufXI",
+            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.03.2026)| 2 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "O8tNgtwNbFk",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 14 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "KvNvN5BDiSA",
+            "name": "🔴 LIVE: Middle East War Escalates | Intense Strikes Continue | Strait of Hormuz Closed",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "jwux4bSDXxU",
-            "name": "TRUMP LIVE: Donald Trump Issues Urgent Warning as US Placed on High Alert Amid Rising Tensions",
-            "artist": "MIRROR NOW"
+            "videoId": "N_n9MovUCMo",
+            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QQe1W1qrxB8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "AesJHTRKG-w",
+            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "y3ImIcz1Auk",
-            "name": "Ajker khobor 14 Marc 2026 | Bangladesh latest News | Daily Report | Awami League vs BNP News | Today",
-            "artist": "Daily Report"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_3zAHkh-2YA",
-            "name": "Iran US War Live | Iran's new supreme leader Warns | 1 PM Headlines | Pakistan News",
-            "artist": "Express News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uEkkWyZpKOU",
-            "name": "Debate With Arnab LIVE: Did America and Israel Underestimate Iran's Firepower?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2rbx9Lw553Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "lSo8BvpRbX0",
+            "name": "Iran US War LIVE | US Marines Move Toward Middle East Amid Tensions, Fear Grow Of US Military | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
