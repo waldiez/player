@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T13:39:59.857Z",
+    "generatedAt": "2026-03-14T14:21:51.625Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "arBXkYHSaT0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RFL6f9tzx5k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jH6BjdQyQ6k",
-            "name": "Us- Israel,Iran War - Massive Attacks, Latest Update | 5 PM Headlines Geo News (14 Mar 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6iNA7niZWxQ",
-            "name": "🔴 LIVE: ইরানের সর্বোচ্চ নেতার মাথার দাম ঘোষণাসহ আলোচিত সব খবর | Iran-Israel War Update | Jugantor",
-            "artist": "Daily Jugantor"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VjUgLap4qgg",
-            "name": "Japan-North Korea Tension Update LIVE: मिडिल ईस्ट के बाद एशिया में भी जंग? | World War Begins...",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g1kMV7IufXI",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KvNvN5BDiSA",
-            "name": "🔴 LIVE: Middle East War Escalates | Intense Strikes Continue | Strait of Hormuz Closed",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N_n9MovUCMo",
-            "name": "LIVE | U.S. Military Plane Crash in Iraq: Accident or Attack? | Vantage with Palki Sharma | N18G",
+            "videoId": "GrGfqxNHbDc",
+            "name": "LIVE: Trump Says US Struck Military Targets in Iran's Oil Hub, Kharg Island | N18G",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dhaVOFDBo3o",
+            "name": "Israel Iran War Update : ईरान-इजरायल युद्ध बॉर्डर से सीधा LIVE | Netanyahu | Khamenei | Trump | War",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D1yogi3-WF0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Update News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IMmmU4t1lYI",
+            "name": "Out Of Focus Live | 14 March 2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yzhQdRybz4s",
+            "name": "Netanyahu’s Latest Remarks Spark International Attention | 4 PM Headlines Geo News (14 Mar 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mh2RgRLcX9k",
+            "name": "LIVE:US-Iran War:PM Modi Calls Iran President Amid War; India Prioritises Citizens & Energy Security",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9U4f_skeIpA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         }
     ],
     "sourceFilters": {
