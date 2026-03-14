@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T19:21:24.365Z",
+    "generatedAt": "2026-03-14T20:19:28.321Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "A1Mbh5B9y4c",
-            "name": "🔴LIVE: Today Headlines - 14 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "lBQz-PW4KCg",
+            "name": "🔴LIVE: Iran US, Israel War | US Massive Attack On Iran | North Korea In Action | Latest Updates",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "hzs3lKUrXRk",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "X4XcwFxdgys",
+            "name": "US News LIVE: President Trump's Media Briefing on Iran War, Oil Prices and Strait of Hormuz | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "uRSgNxuvQDM",
-            "name": "LIVE  | New US Warship Heads To Gulf, Trump Deploys US Marines For Iran Ground War?",
-            "artist": "CRUX"
+            "videoId": "wqTgx_xjD5c",
+            "name": "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "Pgk1EBtp0JM",
-            "name": "🔴 LIVE: Iran Announces Counter‑Attacks Amid Intense Bombardment, Situation Worsens - Geo News",
-            "artist": "Geo News"
+            "videoId": "bCPq_X2FcXU",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "SOlWn8QFyRw",
-            "name": "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G",
+            "videoId": "UnSwT-EXDOc",
+            "name": "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "kQ8hipup7Vg",
-            "name": "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IdgT0x28-gQ",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 March 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "oLqPanVc1yg",
+            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : ईरानी 'लाइफलाइन' पर ट्रंप का अटैक! Iran",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
