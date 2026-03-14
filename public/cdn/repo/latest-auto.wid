@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T182713.963Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T192124.406Z-l4t35t"
   type: "state"
-  created: "2026-03-14T18:27:13.963Z"
+  created: "2026-03-14T19:21:24.406Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T182713.963Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T192124.406Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "bCPq_X2FcXU"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "A1Mbh5B9y4c"
+        name: "🔴LIVE: Today Headlines - 14 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Fjj3nEeWH58"
-        name: "Iran Israel War LIVE: गायब हो गए नेतन्याहू?, ईरान में जश्न! | Trump | Netanyahu | World News"
-        artist: "ABP NEWS"
+        videoId: "hzs3lKUrXRk"
+        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UnSwT-EXDOc"
-        name: "Iran-Israel War LIVE: Iran Fires ‘Super-Heavy’ Missiles, Some Breach Israel’s Iron Dome Defences"
+        videoId: "uRSgNxuvQDM"
+        name: "LIVE  | New US Warship Heads To Gulf, Trump Deploys US Marines For Iran Ground War?"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Pgk1EBtp0JM"
+        name: "🔴 LIVE: Iran Announces Counter‑Attacks Amid Intense Bombardment, Situation Worsens - Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SOlWn8QFyRw"
+        name: "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GePLji4jwrw"
-        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
-        artist: "Kanak News"
+        videoId: "kQ8hipup7Vg"
+        name: "News Ki Pathshala Live | Sushant Sinha | उधर Iran ने तेल-गैस को लेकर क्या बड़ी बात कह दी? | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tuWOvjqn11E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "65pTW7agT54"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Live Bangla Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9B-JdApcu4M"
-        name: "LIVE : Strait of Hormuz Tensions Rise | హర్మూజ్‌తో ఆయువుపట్టుపై దెబ్బేసిన ఇరాన్ | Iran | 10TV"
-        artist: "10TV DIGITAL"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "I8iB4MbhDMc"
-        name: "Breaking World News Live | Global Headlines & Updates "
-        artist: "US Briefing Hub"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XYwqYnPn0b8"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 14.03.2026 | Top News | Today News | Latest News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "IdgT0x28-gQ"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 14 March 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T18:27:13.963Z"
+  exported_at: "2026-03-14T19:21:24.406Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T18:27:13.916Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T19:21:24.365Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
