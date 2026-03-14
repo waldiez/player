@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-14T14:21:51.625Z",
+    "generatedAt": "2026-03-14T15:20:50.790Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GrGfqxNHbDc",
-            "name": "LIVE: Trump Says US Struck Military Targets in Iran's Oil Hub, Kharg Island | N18G",
-            "artist": "Firstpost"
+            "videoId": "_veslzQ-XuY",
+            "name": "Iran Israel War LIVE: ईरान का इजरायल के तेल अवीव पर बड़ा हमला | Trump | Netanyahu | World News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "dhaVOFDBo3o",
-            "name": "Israel Iran War Update : ईरान-इजरायल युद्ध बॉर्डर से सीधा LIVE | Netanyahu | Khamenei | Trump | War",
-            "artist": "NDTV India"
+            "videoId": "arBXkYHSaT0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "D1yogi3-WF0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar\"2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Update News"
+            "videoId": "RFL6f9tzx5k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "IMmmU4t1lYI",
-            "name": "Out Of Focus Live | 14 March 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yzhQdRybz4s",
-            "name": "Netanyahu’s Latest Remarks Spark International Attention | 4 PM Headlines Geo News (14 Mar 2026)",
+            "videoId": "jH6BjdQyQ6k",
+            "name": "Us- Israel,Iran War - Massive Attacks, Latest Update | 5 PM Headlines Geo News (14 Mar 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "mh2RgRLcX9k",
-            "name": "LIVE:US-Iran War:PM Modi Calls Iran President Amid War; India Prioritises Citizens & Energy Security",
-            "artist": "Zee Telugu News"
+            "videoId": "WaudJ9QFqt8",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 14.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "9U4f_skeIpA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "VjUgLap4qgg",
+            "name": "Japan-North Korea Tension Update LIVE: मिडिल ईस्ट के बाद एशिया में भी जंग? | World War Begins...",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
