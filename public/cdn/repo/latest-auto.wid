@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260314T082639.988Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260314T092519.051Z-l4t35t"
   type: "state"
-  created: "2026-03-14T08:26:39.988Z"
+  created: "2026-03-14T09:25:19.051Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T082639.988Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260314T092519.051Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "uEkkWyZpKOU"
-        name: "Debate With Arnab LIVE: Did America and Israel Underestimate Iran's Firepower?"
+        videoId: "6AKBpt_-rFg"
+        name: "Debate With Arnab LIVE: Trump's Fury Or Iran's Resistance - Who Is Winning the War?"
         artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oDiscdUEjHU"
-        name: "US-Iran War LIVE: Trump: Iran War to Continue Until Nuclear Threat in the Middle East Is Eliminated"
-        artist: "CNN-News18"
+        videoId: "wIv5xCLLUzA"
+        name: "Iran Launches Missiles at Tel Aviv | Israel Under Attack | Headlines Geo News 10 AM (14th March 26)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_0l3FsdzmX0"
-        name: "Iran-Israel-US War News LIVE: B2 Bombers Drop 1000 KG Bombs On Iran | US Briefing On Iran War LIVE"
-        artist: "India Today"
+        videoId: "MsL8a6C1KqE"
+        name: "Iran Israel War Update Live |News Ki Pathshala | Sushant Sinha | Iran ने कहां धमाका कर होश उड़ा दिए?"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "80t-PkonFhM"
-        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
-        artist: "Times Now"
+        videoId: "Xa6wDhkVstk"
+        name: "🔴LIVE: Tvk Vijay | Bjp | விஜய்க்கு பாஜக போட்ட ஸ்கெட்ச்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MtTxZ3_ie44"
+        name: "Iran BOMBS USS Abraham Lincoln LIVE| Trump’s Nuclear Warship FLEES Iran | U.S Vs Iran War LIVE"
+        artist: "Oneindia News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y9SaSBeopeM"
+        name: "U.S. VP Claims Iran Leader Mojtaba Khamenei Injured | Headlines 9 AM Geo News (14 March 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nwFv2Xeorfg"
+        name: "Iran US War LIVE: Russia Emerges as Energy Winner in the West Asia War | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-14T08:26:39.988Z"
+  exported_at: "2026-03-14T09:25:19.051Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-14T08:26:39.946Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-14T09:25:19.007Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
