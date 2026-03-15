@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T11:20:07.406Z",
+    "generatedAt": "2026-03-15T12:34:50.643Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "i3FzRGxR6Sk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "SOlWn8QFyRw",
+            "name": "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "asb-4qTEBm4",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "videoId": "sj4VdODG7Zg",
+            "name": "Iran War LIVE Updates | Iran Threatens UAE Ports, After US Attacked Kharg Island | US Iran War |N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g1-sZ2n6gLY",
+            "name": "US-Iran War LIVE:  Iran Claims To Destroy Key US THAAD Radar, Targets American Air-Defence Network",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EAnxfNjEMJk",
+            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "dOZWfdpC4hQ",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "FtsafF9tya0",
+            "name": "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "M6geT0l9UeI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |15 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
+            "videoId": "12rMOwZSFCQ",
+            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
+            "artist": "Times Now Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "SFIouyBcGM4",
-            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
+            "videoId": "z2BaGLSl5Tg",
+            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Qukf6HYQM8k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Ekota Express"
         }
     ],
     "sourceFilters": {
