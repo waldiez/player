@@ -164,11 +164,11 @@ export function setSyncDefaultsFromLatest(enabled: boolean): boolean {
 
 export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     if (typeof window === "undefined" || typeof localStorage === "undefined") return false;
-    const existing = readPrefs();
-    const shouldSync = !existing || existing.syncDefaultsFromLatest !== false;
+    const initialPrefs = readPrefs();
+    const shouldSync = !initialPrefs || initialPrefs.syncDefaultsFromLatest !== false;
     if (!shouldSync) return false;
 
-    const keepSyncEnabled = existing?.syncDefaultsFromLatest !== false;
+    const keepSyncEnabled = initialPrefs?.syncDefaultsFromLatest !== false;
 
     // Full replacement — used for ?w= links and the stable default.wid / default.waldiez.
     function applyState(state: Record<string, unknown>): boolean {
@@ -183,19 +183,20 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     //   • When queue length >= NEWS_TRACK_MAX →  oldest tracks fall off the tail (replace).
     //   • Top-level `mode` is set only on the very first load (no saved mode yet).
     function applyNewsState(state: Record<string, unknown>): boolean {
+        const currentPrefs = readPrefs();
         const stateModeDefaults = state.modeDefaults as Record<string, WideriaTrack[]> | undefined;
         const newTracks = stateModeDefaults?.[NEWS_MOOD] ?? [];
         if (!newTracks.length) return false;
 
-        const existingModeDefaults = (existing?.modeDefaults ?? {}) as Record<string, WideriaTrack[]>;
+        const existingModeDefaults = (currentPrefs?.modeDefaults ?? {}) as Record<string, WideriaTrack[]>;
         const existingTracks = existingModeDefaults[NEWS_MOOD] ?? [];
 
         const merged = [...newTracks, ...existingTracks].slice(0, NEWS_TRACK_MAX);
 
         return safeWritePrefs({
-            ...(existing ?? {}),
+            ...(currentPrefs ?? {}),
             modeDefaults: { ...existingModeDefaults, [NEWS_MOOD]: merged },
-            ...(existing?.mode ? {} : { mode: NEWS_MOOD }),
+            ...(currentPrefs?.mode ? {} : { mode: NEWS_MOOD }),
             syncDefaultsFromLatest: keepSyncEnabled,
             v: 2,
         });
@@ -255,16 +256,21 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
             if (await tryWid(customUrl)) return true;
             if (await tryWaldiez(customUrl)) return true;
         }
-        // Latest news: rolling-merge into storm only, never wiping other moods.
+        const base = import.meta.env.BASE_URL ?? "/";
+        let applied = false;
+
+        // Stable bundled defaults are the baseline for a fresh tab.
+        if (await tryWid(`${base}default.wid`)) applied = true;
+        else if (await tryWaldiez(`${base}default.waldiez`)) applied = true;
+
+        // Latest news augments the storm queue on top of the stable baseline.
         // In Tauri, skip the CDN URL (it redirects to player.waldiez.io which
         // blocks localhost:5173 / tauri://localhost in dev/prod).  The local
         // bundled copy is fetched next and works fine in both contexts.
         if (!isTauri() && (await tryLatestWid(LATEST_WID_CDN_URL))) return true;
-        const base = import.meta.env.BASE_URL ?? "/";
         if (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) return true;
-        // Stable bundled defaults — full replacement only if news fetch failed.
-        if (await tryWid(`${base}default.wid`)) return true;
-        return await tryWaldiez(`${base}default.waldiez`);
+
+        return applied;
     } catch {
         return false;
     }
