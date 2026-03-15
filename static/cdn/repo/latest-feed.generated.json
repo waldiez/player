@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T01:43:46.828Z",
+    "generatedAt": "2026-03-15T04:26:46.835Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GmTIAbqHg-s",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
+            "videoId": "R1fgFCAKS6g",
+            "name": "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "R7Q6Q10IDXU",
-            "name": "Iran America War News LIVE: ईरान-अमेरिका जंग, 15 मार्च 2026 | Iran Attacks Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GcznzNy5o4Q",
-            "name": "LIVE | Trump’s Nuclear Bombshell on Iran Sends Shockwaves Across the Middle East | Nuke Out Soon?",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LL-oAk_RN0c",
-            "name": "LIVE | Tensions Rise: Iran Warns Residents Near UAE Ports After Missile Attacks | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XqU9FCQyyfI",
-            "name": "US-Iran War LIVE: Trump: Iran War to Continue Until Nuclear Threat in the Middle East Is Eliminated",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "s2D7ow19Wy0",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-GG3xizAbGc",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News  14 March   2026 || World News Bangla ||",
-            "artist": "ABC NEWS 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "igRxmOKGGS0",
-            "name": "LIVE: ABC News Live - Saturday, March 14",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "X4XcwFxdgys",
-            "name": "US News LIVE: President Trump's Media Briefing on Iran War, Oil Prices and Strait of Hormuz | N18G",
+            "videoId": "6kflZXwf7qo",
+            "name": "LIVE: Iran Targets Israel, Qatar, and UAE in Fresh Strikes",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "7TzMAq9Rgwk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 14 March 2026 |  BBC World News Bangla |  বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS TV 24 "
+            "videoId": "4Fm4NcO5MSM",
+            "name": "US-Iran War LIVE: Iran Claims USS Abraham Lincoln Flees After Hit By Missiles, Pentagon Responds",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "hzs3lKUrXRk",
-            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "5kzTs5MMVuo",
+            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "wJkPFtbzwjY",
-            "name": "Israel-Iran War LIVE: Tehran Launches Cluster Munition Wave | Gulf Bases Hit | US LIVE | Israel",
-            "artist": "News18 Urdu"
+            "videoId": "Fq74RetXcoM",
+            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1-YyFO4VQJU",
+            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oI8UFBP7eGk",
+            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "s1T5eOhtQX0",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 15 March",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
