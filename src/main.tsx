@@ -304,11 +304,14 @@ async function start() {
 
     void refreshDesktopStatus();
 
-    await bootstrapDefaultPrefsFromAsset();
+    const bootstrappedDefaults = await bootstrapDefaultPrefsFromAsset();
+    if (bootstrappedDefaults) {
+        applyImportedPrefsState();
+    }
 
     const widLoadedFromProtocol = await handleProtocolUri();
     const widLoadedFromWebQuery = await applyLaunchParams(new URLSearchParams(window.location.search));
-    const widLoaded = widLoadedFromProtocol || widLoadedFromWebQuery;
+    const widLoaded = bootstrappedDefaults || widLoadedFromProtocol || widLoadedFromWebQuery;
 
     // Set up Tauri event listeners before render (non-blocking for non-Tauri).
     if (runtime.isTauri) {
