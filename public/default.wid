@@ -205,12 +205,6 @@ state:
           name: Death In Vegas - Dirge (Official Video)
           artist: YouTube
           chapter: null
-        - type: youtube
-          ytType: video
-          videoId: dNxKy2weKxA
-          name: YouTube — dNxKy2weKxA
-          artist: YouTube
-          chapter: null
       savedTrackId: p2FSjK-OS8Q
       savedTime: 415
       eq:
