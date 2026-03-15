@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260315T134117.793Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260315T142319.737Z-l4t35t"
   type: "state"
-  created: "2026-03-15T13:41:17.793Z"
+  created: "2026-03-15T14:23:19.737Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T134117.793Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T142319.737Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "nOTQc0m8TbY"
-        name: "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News"
+        videoId: "N3DJwiLqPzc"
+        name: "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0rDKr6MN4NY"
-        name: "US-Iran War LIVE: Day 16 of Heavy Strikes and Explosions Across West Asia | Israel | UAE | Doha"
-        artist: "Firstpost"
+        videoId: "cKvPrNpcNRk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HumByVvNT5A"
-        name: "Iran War LIVE | IRGC Missiles Bleed Tel Aviv as Israel 'Runs Out' of Ballistic Missile Interceptors"
-        artist: "CRUX"
+        videoId: "ypnliO2isxk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BBC NEWS LIVE"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wc1V2hY3UYM"
-        name: "Pakistan News Live: पाकिस्तान की बढ़ी मुश्किलें ! Saudi Arbia | USA | Iran | World News | Breaking |"
-        artist: "Times Now Navbharat"
+        videoId: "SOlWn8QFyRw"
+        name: "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s2D7ow19Wy0"
-        name: "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i3FzRGxR6Sk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "asb-4qTEBm4"
-        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EZo6fmWn9_8"
-        name: "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War"
-        artist: "Times Now"
+        videoId: "sj4VdODG7Zg"
+        name: "Iran War LIVE Updates | Iran Threatens UAE Ports, After US Attacked Kharg Island | US Iran War |N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-15T13:41:17.793Z"
+  exported_at: "2026-03-15T14:23:19.737Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-15T13:41:17.752Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-15T14:23:19.699Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

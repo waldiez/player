@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T13:41:17.752Z",
+    "generatedAt": "2026-03-15T14:23:19.699Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nOTQc0m8TbY",
-            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
+            "videoId": "N3DJwiLqPzc",
+            "name": "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "0rDKr6MN4NY",
-            "name": "US-Iran War LIVE: Day 16 of Heavy Strikes and Explosions Across West Asia | Israel | UAE | Doha",
-            "artist": "Firstpost"
+            "videoId": "cKvPrNpcNRk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "HumByVvNT5A",
-            "name": "Iran War LIVE | IRGC Missiles Bleed Tel Aviv as Israel 'Runs Out' of Ballistic Missile Interceptors",
-            "artist": "CRUX"
+            "videoId": "ypnliO2isxk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BBC NEWS LIVE"
         },
         {
             "mood": "storm",
-            "videoId": "wc1V2hY3UYM",
-            "name": "Pakistan News Live: पाकिस्तान की बढ़ी मुश्किलें ! Saudi Arbia | USA | Iran | World News | Breaking |",
-            "artist": "Times Now Navbharat"
+            "videoId": "SOlWn8QFyRw",
+            "name": "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "s2D7ow19Wy0",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i3FzRGxR6Sk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "asb-4qTEBm4",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EZo6fmWn9_8",
-            "name": "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War",
-            "artist": "Times Now"
+            "videoId": "sj4VdODG7Zg",
+            "name": "Iran War LIVE Updates | Iran Threatens UAE Ports, After US Attacked Kharg Island | US Iran War |N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
