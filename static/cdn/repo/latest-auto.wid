@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260315T102226.750Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260315T112007.444Z-l4t35t"
   type: "state"
-  created: "2026-03-15T10:22:26.750Z"
+  created: "2026-03-15T11:20:07.444Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T102226.750Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T112007.444Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FtsafF9tya0"
-        name: "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba"
-        artist: "ABP NEWS"
+        videoId: "i3FzRGxR6Sk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z2BaGLSl5Tg"
-        name: "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LufnAFlFX0s"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "PUBLIC NEWS 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WlzydYdperQ"
-        name: "World War III?| Iran's Latest Attack | 48 Hours Important | 12 PM News Headlines | 15 March 2026"
-        artist: "SAMAA News Global"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IHqvAqK0iSc"
-        name: "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PAFK5O9mmik"
-        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        videoId: "asb-4qTEBm4"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oI8UFBP7eGk"
-        name: "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்"
-        artist: "Sathiyam News"
+        videoId: "dOZWfdpC4hQ"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.03.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4pyUvo2jq0E"
-        name: "Pakistan News Live: पाकिस्तान में रेड अलर्ट! Afghanistan | Saudi Arbia | Drone Attack | Asim Munir |"
+        videoId: "M6geT0l9UeI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |15 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SFIouyBcGM4"
+        name: "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Qukf6HYQM8k"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Ekota Express"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-15T10:22:26.750Z"
+  exported_at: "2026-03-15T11:20:07.444Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-15T10:22:26.710Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-15T11:20:07.406Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

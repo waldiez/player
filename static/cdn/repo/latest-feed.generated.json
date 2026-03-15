@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T10:22:26.710Z",
+    "generatedAt": "2026-03-15T11:20:07.406Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FtsafF9tya0",
-            "name": "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "i3FzRGxR6Sk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "z2BaGLSl5Tg",
-            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LufnAFlFX0s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "PUBLIC NEWS 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WlzydYdperQ",
-            "name": "World War III?| Iran's Latest Attack | 48 Hours Important | 12 PM News Headlines | 15 March 2026",
-            "artist": "SAMAA News Global"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IHqvAqK0iSc",
-            "name": "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PAFK5O9mmik",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "videoId": "asb-4qTEBm4",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "oI8UFBP7eGk",
-            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
-            "artist": "Sathiyam News"
+            "videoId": "dOZWfdpC4hQ",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "4pyUvo2jq0E",
-            "name": "Pakistan News Live: पाकिस्तान में रेड अलर्ट! Afghanistan | Saudi Arbia | Drone Attack | Asim Munir |",
+            "videoId": "M6geT0l9UeI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |15 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SFIouyBcGM4",
+            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qukf6HYQM8k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Ekota Express"
         }
     ],
     "sourceFilters": {
