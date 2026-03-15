@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T22:20:03.405Z",
+    "generatedAt": "2026-03-15T23:22:00.194Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dfR8pbevGrc",
-            "name": "🔴LIVE | Iran Launches New Secret Attacks on Israel & US Airbases | Destruction in Tel Aviv | Dunya",
-            "artist": "Dunya News"
+            "videoId": "q09SbFianwg",
+            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 14 March 2026 | Jamuna TV",
+            "artist": "Jamuna TV"
         },
         {
             "mood": "storm",
-            "videoId": "gSgP9G8CccY",
-            "name": "🔴LIVE : Iran Israel War Update | பகீர் திருப்பம்.. நெதன்யாகு இறந்து விட்டாரா? அதிர்ச்சி வீடியோ",
-            "artist": "NewsTamil 24X7"
+            "videoId": "ige0yZHLAME",
+            "name": "Devastation from new attacks by Iran and Hezbollah on Israel | Geo News 1 AM Headlines 16 March 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "BqNeUyi-NII",
-            "name": "🔴LIVE: World War III? Iran US Israel War Update | Iran Attacks Gulf Countries | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "sQ5vrcp6bV8",
+            "name": "Donald Trump Live: Trump’s Surprise Announcement Sends Shockwaves Across US | World News Live",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "TLxjL2ncsEc",
-            "name": "🔴LIVE: Today Headlines - 15 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dKVl3NpRe3g",
-            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YNXQ7qiorI4",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DQjav4LQHWo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "23D79A4P4xc",
-            "name": "🔴LIVE :  TN Election 2026 | தமிழகம் உள்ளிட்ட 5 மாநிலங்களுக்கும் தேர்தல் தேதி அறிவிப்பு",
-            "artist": "Thanthi TV"
+            "videoId": "CxDeUIyPpHc",
+            "name": "US News LIVE | Trump Declares EMERGENCY; Drops NUCLEAR Bombshell On Iran, Russia, China | NEWS LIVE",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
