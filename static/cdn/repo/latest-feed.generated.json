@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T08:28:12.661Z",
+    "generatedAt": "2026-03-15T09:26:31.169Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oI8UFBP7eGk",
-            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8Fa6XtpuaaI",
-            "name": "LIVE | Trump’s Nuclear Bombshell on Iran Sends Shockwaves Across the Middle East | Nuke Out Soon?",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4pyUvo2jq0E",
-            "name": "Pakistan News Live: पाकिस्तान में रेड अलर्ट! Afghanistan | Saudi Arbia | Drone Attack | Asim Munir |",
+            "videoId": "SFIouyBcGM4",
+            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "7Bp38Ct-QAI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "5jRyp6NqiRw",
+            "name": "LIVE | IRAN DECLARES DOOMSDAY ATTACK ON US AND ISRAEL, TEHRAN IN FLAMES! Breaking War News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "IHqvAqK0iSc",
-            "name": "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |",
-            "artist": "Times Now Navbharat"
+            "videoId": "YkIi00DHBEQ",
+            "name": "LIVE: Iran Showcases Missile Power & \"Underground Cities\" Amid War With Israel | US Attack | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "ACPBY5kRZ3g",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "ORff2xQ1e9I",
+            "name": "Iran Launches Missile On Israel | Latest Updates | Missile Destruction | 10AM Dunya News Bulletin",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "G1rVJgq3lB8",
-            "name": "🔴LIVE: Iran US Israel War Update | Missile Attack on Israel, UAE and Iraq | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0eMed7dARio",
-            "name": "Nepal News, International News, World News Today, Nepal International News, Live International",
-            "artist": "Dharmendra Tech My Vlogs"
+            "videoId": "znEXB2ZFKd0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
