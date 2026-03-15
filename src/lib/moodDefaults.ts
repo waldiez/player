@@ -23,6 +23,15 @@ export const PREFS_KEY = "wideria-prefs";
 // Absolute URL so the web-published version is fetched even in local-dev / Tauri.
 const LATEST_WID_CDN_URL = "https://waldiez.github.io/player/cdn/repo/latest-auto.wid";
 
+function shouldProbeRemoteLatestWid(): boolean {
+    if (typeof window === "undefined") return false;
+    try {
+        return new URL(LATEST_WID_CDN_URL).origin === window.location.origin;
+    } catch {
+        return false;
+    }
+}
+
 // ── News mood rolling-queue settings ──────────────────────────────────────
 // Must stay in sync with DEFAULT_MODE in generate-latest-wid.ts and
 // MOOD_ORDER in build-latest-news-feed.ts.
@@ -264,11 +273,13 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
         else if (await tryWaldiez(`${base}default.waldiez`)) applied = true;
 
         // Latest news augments the storm queue on top of the stable baseline.
-        // In Tauri, skip the CDN URL (it redirects to player.waldiez.io which
-        // blocks localhost:5173 / tauri://localhost in dev/prod).  The local
-        // bundled copy is fetched next and works fine in both contexts.
-        if (!isTauri() && (await tryLatestWid(LATEST_WID_CDN_URL))) return true;
+        // Prefer the bundled same-origin asset. Only probe the absolute URL
+        // when it is same-origin with the current host, otherwise hosted web
+        // deployments log avoidable CORS noise.
         if (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) return true;
+        if (!isTauri() && shouldProbeRemoteLatestWid() && (await tryLatestWid(LATEST_WID_CDN_URL))) {
+            return true;
+        }
 
         return applied;
     } catch {

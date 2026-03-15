@@ -10,9 +10,21 @@
  *   - MoodPlayer / playlist — post track/mood changes as IPC Notify
  */
 
-const RELAY_URL =
-    (typeof window !== "undefined" && (window as { __SYNAPSE_RELAY__?: string }).__SYNAPSE_RELAY__) ||
-    "http://localhost:1421";
+function resolveRelayUrl(): string | null {
+    if (typeof window === "undefined") return null;
+
+    const injected = (window as { __SYNAPSE_RELAY__?: string }).__SYNAPSE_RELAY__;
+    if (typeof injected === "string" && injected.trim()) return injected.trim();
+
+    const host = window.location.hostname;
+    if (host === "localhost" || host === "127.0.0.1" || host === "::1") {
+        return "http://localhost:1421";
+    }
+
+    return null;
+}
+
+const RELAY_URL = resolveRelayUrl();
 
 // ── IPC POST ──────────────────────────────────────────────────────────────────
 
@@ -22,6 +34,7 @@ interface IpcRequest {
 }
 
 export async function postIpc(req: IpcRequest): Promise<void> {
+    if (!RELAY_URL) return;
     try {
         await fetch(`${RELAY_URL}/ipc`, {
             method: "POST",
@@ -59,7 +72,7 @@ let _sse: EventSource | null = null;
 const _handlers = new Set<SynapseEventHandler>();
 
 function ensureSSE(): void {
-    if (_sse) return;
+    if (!RELAY_URL || _sse) return;
     try {
         _sse = new EventSource(`${RELAY_URL}/events`);
         _sse.onmessage = ev => {
@@ -96,6 +109,7 @@ function ensureSSE(): void {
  * Automatically starts the SSE connection on first call.
  */
 export function onSynapseEvent(handler: SynapseEventHandler): () => void {
+    if (!RELAY_URL) return () => {};
     ensureSSE();
     _handlers.add(handler);
     return () => _handlers.delete(handler);
