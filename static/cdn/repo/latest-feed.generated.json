@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T18:28:44.271Z",
+    "generatedAt": "2026-03-15T19:22:35.739Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DQjav4LQHWo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "23D79A4P4xc",
-            "name": "🔴LIVE :  TN Election 2026 | தமிழகம் உள்ளிட்ட 5 மாநிலங்களுக்கும் தேர்தல் தேதி அறிவிப்பு",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EAnxfNjEMJk",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
+            "videoId": "sQ5vrcp6bV8",
+            "name": "Donald Trump Live: Trump’s Surprise Announcement Sends Shockwaves Across US | World News Live",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "HGKxBOXuFMw",
-            "name": "Iran KILLS Netanyahu LIVE| Netanyahu’s CONTROVERSIAL Last Speech Before Assassination? ‘6 Fingers’",
-            "artist": "Oneindia News"
+            "videoId": "CxDeUIyPpHc",
+            "name": "US News LIVE | Trump Declares EMERGENCY; Drops NUCLEAR Bombshell On Iran, Russia, China | NEWS LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "-9DK7XrCbVw",
-            "name": "Iran America War LIVE Updates: ईरान-अमेरिका जंग पर सबसे बड़ी खबर | Israel | Trump | Khamenei | NDTV",
+            "videoId": "ai_F4wwz9W8",
+            "name": "🔴 LIVE: নেতানিয়াহুকে হ'ত্যা করতে ইরানিদের শপথসহ যু'দ্ধের সব খবর | International News | 15 March",
+            "artist": "Daily Jugantor"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0Pv1DQwlWds",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE:पहली इच्छामृत्यु, रुला देगी विदाई ? Iran War",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "vX5smHQq6o8",
-            "name": "Iran Missiles on Tel Aviv LIVE: \"Monster\" Cluster Bombs Hit Central Israel | Dubai LIVE | US | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "sjEKyfNHP94",
+            "name": "Massive Destruction | Iran’s Latest Weapon Strikes Fear Across Israel | 9 PM Headlines",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "BObW_As-QqI",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
+            "videoId": "9Ky_75ohjM0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "f3NgmWmvf1Q",
-            "name": "Iran Israel War News LIVE: ईरान की धमकी से हिल गया इजरायल! | Netanyahu | Khamenei | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "5dwEJIwhBDM",
+            "name": "LIVE🔴$3 Trillion American Assets Destroyed | Netanyahu Targeted for Assassination",
+            "artist": "NTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4vbh-Hsfr4M",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (15.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N3DJwiLqPzc",
+            "name": "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
