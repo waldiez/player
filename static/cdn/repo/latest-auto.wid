@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260315T042646.876Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260315T060123.314Z-l4t35t"
   type: "state"
-  created: "2026-03-15T04:26:46.876Z"
+  created: "2026-03-15T06:01:23.314Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T042646.876Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T060123.314Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "R1fgFCAKS6g"
-        name: "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News"
-        artist: "India News"
+        videoId: "ACPBY5kRZ3g"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6kflZXwf7qo"
-        name: "LIVE: Iran Targets Israel, Qatar, and UAE in Fresh Strikes"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4Fm4NcO5MSM"
-        name: "US-Iran War LIVE: Iran Claims USS Abraham Lincoln Flees After Hit By Missiles, Pentagon Responds"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5kzTs5MMVuo"
-        name: "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fq74RetXcoM"
-        name: "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1-YyFO4VQJU"
-        name: "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oI8UFBP7eGk"
-        name: "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s1T5eOhtQX0"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 15 March"
+        videoId: "FtsafF9tya0"
+        name: "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G1rVJgq3lB8"
+        name: "🔴LIVE: Iran US Israel War Update | Missile Attack on Israel, UAE and Iraq | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0eMed7dARio"
+        name: "Nepal News, International News, World News Today, Nepal International News, Live International"
+        artist: "Dharmendra Tech My Vlogs"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lIAuJeqVC_A"
+        name: "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-15T04:26:46.876Z"
+  exported_at: "2026-03-15T06:01:23.314Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-15T04:26:46.835Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-15T06:01:23.274Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

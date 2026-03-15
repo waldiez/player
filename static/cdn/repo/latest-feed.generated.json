@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T04:26:46.835Z",
+    "generatedAt": "2026-03-15T06:01:23.274Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "R1fgFCAKS6g",
-            "name": "World War 3 Live: महाजंग की हो गई शुरूआत...| Iran-America War | Trump | Breaking News | India News",
-            "artist": "India News"
+            "videoId": "ACPBY5kRZ3g",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "6kflZXwf7qo",
-            "name": "LIVE: Iran Targets Israel, Qatar, and UAE in Fresh Strikes",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4Fm4NcO5MSM",
-            "name": "US-Iran War LIVE: Iran Claims USS Abraham Lincoln Flees After Hit By Missiles, Pentagon Responds",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5kzTs5MMVuo",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fq74RetXcoM",
-            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1-YyFO4VQJU",
-            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oI8UFBP7eGk",
-            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "s1T5eOhtQX0",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 15 March",
+            "videoId": "FtsafF9tya0",
+            "name": "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G1rVJgq3lB8",
+            "name": "🔴LIVE: Iran US Israel War Update | Missile Attack on Israel, UAE and Iraq | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0eMed7dARio",
+            "name": "Nepal News, International News, World News Today, Nepal International News, Live International",
+            "artist": "Dharmendra Tech My Vlogs"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lIAuJeqVC_A",
+            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
