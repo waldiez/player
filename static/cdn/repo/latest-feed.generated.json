@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T20:20:11.604Z",
+    "generatedAt": "2026-03-15T21:21:21.666Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BqNeUyi-NII",
-            "name": "🔴LIVE: World War III? Iran US Israel War Update | Iran Attacks Gulf Countries | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TLxjL2ncsEc",
-            "name": "🔴LIVE: Today Headlines - 15 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dKVl3NpRe3g",
-            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YNXQ7qiorI4",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DQjav4LQHWo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "23D79A4P4xc",
-            "name": "🔴LIVE :  TN Election 2026 | தமிழகம் உள்ளிட்ட 5 மாநிலங்களுக்கும் தேர்தல் தேதி அறிவிப்பு",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EAnxfNjEMJk",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
+            "videoId": "sQ5vrcp6bV8",
+            "name": "Donald Trump Live: Trump’s Surprise Announcement Sends Shockwaves Across US | World News Live",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "-8sF9EHF_ZM",
-            "name": "🔴 LIVE: “Sejjil Missile Strike Rocks Israel, Devastation Caught on Camera” - Geo News",
-            "artist": "Geo News"
+            "videoId": "ollJub5sjlk",
+            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (15.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "jdcFf_2cBno",
-            "name": "🔴LIVE: Today Fast 100 | 15 MAR 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News",
-            "artist": "NewsTamil 24X7"
+            "videoId": "We_XUCLRouQ",
+            "name": "Israel expands scope of strikes while Iran fires more missiles | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "MK1Uxwxf8fk",
-            "name": "US-Iran War LIVE Update: Trump’s Final Message To Iran Sparks Global Tensions Amid Escalating Crisis",
-            "artist": "CNN-News18"
+            "videoId": "CxDeUIyPpHc",
+            "name": "US News LIVE | Trump Declares EMERGENCY; Drops NUCLEAR Bombshell On Iran, Russia, China | NEWS LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0Pv1DQwlWds",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE:पहली इच्छामृत्यु, रुला देगी विदाई ? Iran War",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c0JItspQ4CM",
+            "name": "LPG News Live : LPG संकट, खत्म ! | LPG Rate Today |LPG Crisis in India | World News | India News |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sjEKyfNHP94",
+            "name": "Massive Destruction | Iran’s Latest Weapon Strikes Fear Across Israel | 9 PM Headlines",
+            "artist": "Express News"
         }
     ],
     "sourceFilters": {
