@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260315T192235.782Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260315T202011.645Z-l4t35t"
   type: "state"
-  created: "2026-03-15T19:22:35.782Z"
+  created: "2026-03-15T20:20:11.645Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T192235.782Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T202011.645Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "sQ5vrcp6bV8"
-        name: "Donald Trump Live: Trump’s Surprise Announcement Sends Shockwaves Across US | World News Live"
+        videoId: "BqNeUyi-NII"
+        name: "🔴LIVE: World War III? Iran US Israel War Update | Iran Attacks Gulf Countries | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TLxjL2ncsEc"
+        name: "🔴LIVE: Today Headlines - 15 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dKVl3NpRe3g"
+        name: "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YNXQ7qiorI4"
+        name: "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House"
+        artist: "moneycontrol"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DQjav4LQHWo"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "23D79A4P4xc"
+        name: "🔴LIVE :  TN Election 2026 | தமிழகம் உள்ளிட்ட 5 மாநிலங்களுக்கும் தேர்தல் தேதி அறிவிப்பு"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EAnxfNjEMJk"
+        name: "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CxDeUIyPpHc"
-        name: "US News LIVE | Trump Declares EMERGENCY; Drops NUCLEAR Bombshell On Iran, Russia, China | NEWS LIVE"
-        artist: "ET Now"
+        videoId: "-8sF9EHF_ZM"
+        name: "🔴 LIVE: “Sejjil Missile Strike Rocks Israel, Devastation Caught on Camera” - Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ai_F4wwz9W8"
-        name: "🔴 LIVE: নেতানিয়াহুকে হ'ত্যা করতে ইরানিদের শপথসহ যু'দ্ধের সব খবর | International News | 15 March"
-        artist: "Daily Jugantor"
+        videoId: "jdcFf_2cBno"
+        name: "🔴LIVE: Today Fast 100 | 15 MAR 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0Pv1DQwlWds"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE:पहली इच्छामृत्यु, रुला देगी विदाई ? Iran War"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sjEKyfNHP94"
-        name: "Massive Destruction | Iran’s Latest Weapon Strikes Fear Across Israel | 9 PM Headlines"
-        artist: "Express News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9Ky_75ohjM0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5dwEJIwhBDM"
-        name: "LIVE🔴$3 Trillion American Assets Destroyed | Netanyahu Targeted for Assassination"
-        artist: "NTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4vbh-Hsfr4M"
-        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (15.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N3DJwiLqPzc"
-        name: "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News"
-        artist: "Times Now Navbharat"
+        videoId: "MK1Uxwxf8fk"
+        name: "US-Iran War LIVE Update: Trump’s Final Message To Iran Sparks Global Tensions Amid Escalating Crisis"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-15T19:22:35.782Z"
+  exported_at: "2026-03-15T20:20:11.645Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-15T19:22:35.739Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-15T20:20:11.604Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
