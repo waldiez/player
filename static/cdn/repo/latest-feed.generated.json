@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T07:39:38.455Z",
+    "generatedAt": "2026-03-15T08:28:12.661Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "i0NEQ13blbY",
-            "name": "🔴LIVE: Iran Latest Attack | Sirens Echo Across Bahrain, Jordan | WATCH",
+            "videoId": "oI8UFBP7eGk",
+            "name": "🔴LIVE: Tvk Vijay | விஜயின் திடீர் மாற்றம் - Exclusive தகவல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8Fa6XtpuaaI",
+            "name": "LIVE | Trump’s Nuclear Bombshell on Iran Sends Shockwaves Across the Middle East | Nuke Out Soon?",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4pyUvo2jq0E",
+            "name": "Pakistan News Live: पाकिस्तान में रेड अलर्ट! Afghanistan | Saudi Arbia | Drone Attack | Asim Munir |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7Bp38Ct-QAI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IHqvAqK0iSc",
+            "name": "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ACPBY5kRZ3g",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G1rVJgq3lB8",
+            "name": "🔴LIVE: Iran US Israel War Update | Missile Attack on Israel, UAE and Iraq | SAMAA TV",
             "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "kgI7SjycDO8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qf_AaKKxhec",
-            "name": "Iran-US SHOCKING News LIVE: Donald Trump Warns Of More Strikes On Iran's Kharg Island ‘Just For Fun’",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gcs-Z4q2ZLk",
-            "name": "LIVE | Tensions Rise: Iran Warns Residents Near UAE Ports After Missile Attacks | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DGTfondTPnI",
-            "name": "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fq74RetXcoM",
-            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7T7sXRk9NDQ",
-            "name": "🔴 LIVE: Walt Disney World – Magic Kingdom (Big Thunder Mountain Railroad) Latest News 2026 [4K]",
-            "artist": "Fun to be Free"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R7Q6Q10IDXU",
-            "name": "Iran America War News LIVE: ईरान-अमेरिका जंग, 15 मार्च 2026 | Iran Attacks Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IehEtxqnEx4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 14, 2026",
-            "artist": "ABC News"
+            "videoId": "0eMed7dARio",
+            "name": "Nepal News, International News, World News Today, Nepal International News, Live International",
+            "artist": "Dharmendra Tech My Vlogs"
         }
     ],
     "sourceFilters": {
