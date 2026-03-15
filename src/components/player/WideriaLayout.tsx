@@ -144,12 +144,14 @@ interface WideriaLayoutProps {
     mode: MoodMode;
     onAutomationsOpen?: () => void;
     pausePlaybackWhenHidden?: boolean;
+    showYtFallbackDiagnostics?: boolean;
 }
 
 export function WideriaLayout({
     mode,
     onAutomationsOpen,
     pausePlaybackWhenHidden = false,
+    showYtFallbackDiagnostics = false,
 }: WideriaLayoutProps) {
     // ── Audio chain ─────────────────────────────────────────────────────
     const [audioEl, setAudioEl] = useState<HTMLAudioElement | null>(null);
@@ -518,30 +520,42 @@ export function WideriaLayout({
                 if (!cancelled) {
                     setNativeYtUrl(null);
                     setYtResolveDone(true);
-                    reportDiagnostic({
-                        level: "warn",
-                        area: "playback",
-                        message: "YouTube native audio resolution failed; using embed fallback.",
-                        detail: ytId,
-                    });
+                    if (showYtFallbackDiagnostics) {
+                        reportDiagnostic({
+                            level: "warn",
+                            area: "playback",
+                            message: "YouTube native audio resolution failed; using embed fallback.",
+                            detail: ytId,
+                        });
+                    }
                 }
             } catch {
                 if (!cancelled) {
                     setNativeYtUrl(null);
                     setYtResolveDone(true);
-                    reportDiagnostic({
-                        level: "warn",
-                        area: "playback",
-                        message: "YouTube native audio resolution failed; using embed fallback.",
-                        detail: ytId,
-                    });
+                    if (showYtFallbackDiagnostics) {
+                        reportDiagnostic({
+                            level: "warn",
+                            area: "playback",
+                            message: "YouTube native audio resolution failed; using embed fallback.",
+                            detail: ytId,
+                        });
+                    }
                 }
             }
         })();
         return () => {
             cancelled = true;
         };
-    }, [currentMedia?.path, isTauriEnv, isTauriPackagedEnv, isYouTube, setPlayback, ytId]);
+    }, [
+        currentMedia?.path,
+        isTauriEnv,
+        isTauriPackagedEnv,
+        isYouTube,
+        setPlayback,
+        ytId,
+        showYtFallbackDiagnostics,
+    ]);
 
     // Stop mpv when we leave mpv mode / track changes away from YT.
     useEffect(() => {
@@ -1722,7 +1736,7 @@ export function WideriaLayout({
 
                 {/* ── Tracklist ── */}
                 <div
-                    className="flex flex-col overflow-hidden bg-[var(--color-player-bg)]"
+                    className="flex h-full flex-col overflow-hidden bg-[var(--color-player-bg)]"
                     onDragOver={e => e.preventDefault()}
                     onDrop={handleDrop}
                 >

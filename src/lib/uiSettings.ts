@@ -21,6 +21,8 @@ export interface UiSettings {
     weatherMoodEnabled: boolean;
     /** When true, auto-switch to the weather-suggested mood on app startup. */
     autoMoodOnStartup: boolean;
+    /** When true, show a diagnostic toast when YouTube native audio resolution fails. Off by default. */
+    showYtFallbackDiagnostics: boolean;
 }
 
 const DEFAULTS: UiSettings = {
@@ -32,6 +34,7 @@ const DEFAULTS: UiSettings = {
     tmdbApiKey: "",
     weatherMoodEnabled: false,
     autoMoodOnStartup: false,
+    showYtFallbackDiagnostics: false,
 };
 
 export function readUiSettings(): UiSettings {

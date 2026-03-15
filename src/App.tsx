@@ -488,6 +488,7 @@ export function App() {
                     mode={playerMode as MoodMode}
                     onAutomationsOpen={() => setShowAutomations(true)}
                     pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
+                    showYtFallbackDiagnostics={uiSettings.showYtFallbackDiagnostics}
                 />
                 {showAutomations && (
                     <div className="fixed right-0 top-0 z-50 h-full w-80 max-w-[85vw] animate-slide-right border-l border-player-border bg-player-surface shadow-2xl">

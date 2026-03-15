@@ -636,6 +636,13 @@ export function SettingsPanel({
                     />
 
                     <ToggleRow
+                        checked={effectiveUiSettings.showYtFallbackDiagnostics}
+                        onChange={checked => patchUiSettings({ showYtFallbackDiagnostics: checked })}
+                        label="Show YouTube fallback diagnostic"
+                        description="Display a warning when YouTube native audio resolution fails and the embed fallback is used. Off by default."
+                    />
+
+                    <ToggleRow
                         checked={effectiveUiSettings.screensaverEnabled}
                         onChange={checked => patchUiSettings({ screensaverEnabled: checked })}
                         label="Enable screensaver after inactivity"
