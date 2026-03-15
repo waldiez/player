@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T12:34:50.643Z",
+    "generatedAt": "2026-03-15T13:41:17.752Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SOlWn8QFyRw",
-            "name": "LIVE | Benjamin Netanyahu Missing? Here’s When He Was Last Seen: WATCH | Breaking News | N18G",
-            "artist": "CNN-News18"
+            "videoId": "nOTQc0m8TbY",
+            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sj4VdODG7Zg",
-            "name": "Iran War LIVE Updates | Iran Threatens UAE Ports, After US Attacked Kharg Island | US Iran War |N18G",
-            "artist": "CNN-News18"
+            "videoId": "0rDKr6MN4NY",
+            "name": "US-Iran War LIVE: Day 16 of Heavy Strikes and Explosions Across West Asia | Israel | UAE | Doha",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "g1-sZ2n6gLY",
-            "name": "US-Iran War LIVE:  Iran Claims To Destroy Key US THAAD Radar, Targets American Air-Defence Network",
-            "artist": "WION"
+            "videoId": "HumByVvNT5A",
+            "name": "Iran War LIVE | IRGC Missiles Bleed Tel Aviv as Israel 'Runs Out' of Ballistic Missile Interceptors",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "EAnxfNjEMJk",
-            "name": "BREAKING NEWS LIVE: 'Rare Video Emerges' After Trump’s Iran Strike | US-Iran War LIVE | World News",
+            "videoId": "wc1V2hY3UYM",
+            "name": "Pakistan News Live: पाकिस्तान की बढ़ी मुश्किलें ! Saudi Arbia | USA | Iran | World News | Breaking |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "s2D7ow19Wy0",
+            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i3FzRGxR6Sk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "asb-4qTEBm4",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "FtsafF9tya0",
-            "name": "Iran Israel War LIVE: ईरान ने कर दी इजरायली पीएम की हत्या? | Trump | Netanyahu | World News |Mojtaba",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "12rMOwZSFCQ",
-            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z2BaGLSl5Tg",
-            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
-            "artist": "Times Now Navbharat"
+            "videoId": "EZo6fmWn9_8",
+            "name": "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
