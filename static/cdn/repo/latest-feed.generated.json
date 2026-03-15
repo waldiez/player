@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-15T15:21:41.885Z",
+    "generatedAt": "2026-03-15T16:23:31.467Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xJ7_vyKUnNc",
-            "name": "Iran Israel War LIVE: ईरान ने भारत आ रहे जहाज को स्ट्रेट ऑफ होर्मुज में उड़ाया, हाहाकार! | Khamenei",
+            "videoId": "BObW_As-QqI",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "f3NgmWmvf1Q",
+            "name": "Iran Israel War News LIVE: ईरान की धमकी से हिल गया इजरायल! | Netanyahu | Khamenei | Trump | Mojtaba",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "t4-KOeg8eaM",
-            "name": "Aaj Ki Taaza Khabar LIVE:15 March News | Iran Amercia War | Trump | Israel | LPG Crisis India | Modi",
-            "artist": "NDTV India"
+            "videoId": "_1LrNgGokLo",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "fw4NVkIATrY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "OxK-hz7XYgY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "wc1V2hY3UYM",
-            "name": "Pakistan News Live: पाकिस्तान की बढ़ी मुश्किलें ! Saudi Arbia | USA | Iran | World News | Breaking |",
+            "videoId": "N3DJwiLqPzc",
+            "name": "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "s2D7ow19Wy0",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
+            "videoId": "nOTQc0m8TbY",
+            "name": "News Ki Pathshala Live | अमेरिका के खिलाफ नए Supreme Leader की ललकार ! | Breaking News | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "dOZWfdpC4hQ",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "0rDKr6MN4NY",
+            "name": "US-Iran War LIVE: Day 16 of Heavy Strikes and Explosions Across West Asia | Israel | UAE | Doha",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "SSlyFkNfWzI",
-            "name": "World News | ख़बरें विदेश की | 15 march 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
+            "videoId": "HumByVvNT5A",
+            "name": "Iran War LIVE | IRGC Missiles Bleed Tel Aviv as Israel 'Runs Out' of Ballistic Missile Interceptors",
+            "artist": "CRUX"
         }
     ],
     "sourceFilters": {
