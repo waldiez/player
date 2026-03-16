@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T194925.132Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T203041.124Z-l4t35t"
   type: "state"
-  created: "2026-03-16T19:49:25.132Z"
+  created: "2026-03-16T20:30:41.124Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T194925.132Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T203041.124Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hbr2q44p1e4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "GCU2JkBZYPQ"
+        name: "Evening News Today LIVE | Iran Vs Israel | LPG Crisis |Maharashtra Politics| Ajit Pawar |ABP Majha"
+        artist: "ABP MAJHA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Dcrd33t1wMQ"
-        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
-        artist: "Times Now Navbharat"
+        videoId: "SZaDNUqjkHU"
+        name: "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather | Latest News | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4DgOMVTw65U"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "2V2pl2XDj6w"
+        name: "Iran New Missile Attack | Destruction In Israel | Good News For Employs |  10PM Headlines"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XyDtqzrTs5Y"
-        name: "Middle East War LIVE News | Iranian Drone Strike Hits Central Dubai Sending Shockwaves Globally"
-        artist: "CNN-News18"
+        videoId: "qqGnHBKso_U"
+        name: "China Starts a New War? U.S. Losing Power? | Iran War Update | Live With Jami | EP 253 | 16 March 26"
+        artist: "SUNO NEWS HD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kHluurLL0u8"
+        name: "🔴LIVE: மத்திய கிழக்கு போரில் திடீர் திருப்பம் - டிரம்புக்கு இடியை இறக்கிய செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZOuOQdvNq8Q"
+        name: "🔴LIVE : isarel | Iran | War | அடுத்த  சம்பவம் செய்த இஸ்ரேல் - உலகமே அதிர்ச்சியில்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9UrLTP-vV48"
+        name: "LIVE with Dr. Shahid Masood | A River of Fire… Shocking Developments Unfold | 16 Mar 2026 | GNN"
+        artist: "GNN"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UgVAo3Smw78"
+        name: "🔴 LIVE: UK PM Keir Starmer Holds Major Press Conference | Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xOGdqC_6O6I"
+        name: "Iran Rejects Ceasefire Talks With Trump, Continues Missile Barrage | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T19:49:25.132Z"
+  exported_at: "2026-03-16T20:30:41.124Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T19:49:25.094Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T20:30:41.091Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
