@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T06:15:27.964Z",
+    "generatedAt": "2026-03-16T08:03:32.576Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PHPYjsl_Vdg",
-            "name": "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |",
+            "videoId": "xpuWfdWDudk",
+            "name": "Emergency In UAE News LIVE | Iran Attacks Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZAC1GH5bU9U",
+            "name": "Pakistan News Live: पाकिस्तान में मचा हड़कंप ! मरियम फरार ! Petrol Crisis | World News | Iran News |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "i4h5keESuzU",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "TbrUoQ8dS_0",
+            "name": "US Iran Israel War News LIVE: Putin के पास पहुंचे मुज्तबा खामेनेई... | Iran America | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "79Gb1dH2AX0",
-            "name": "Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா இறந்துவிட்டாரா?",
-            "artist": "Sathiyam News"
+            "videoId": "JMZ2_96wYeM",
+            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "Wl7XNj4DdLY",
-            "name": "LIVE: Iran Escalates Strikes Across Gulf; Trump Urges Allies to Send Warships to Strait of Hormuz",
-            "artist": "Firstpost"
+            "videoId": "dwXgd4kcbDk",
+            "name": "Today Fast 100 News | 16 MAR 2026 | இன்றைய 100 முக்கியச் செய்திகள் | TN Political Update",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "ywiS8EEnVcI",
-            "name": "BREAKING LIVE: Missiles Over Tel Aviv | Israel Intercepts Iranian Attack | Middle East War Escalates",
-            "artist": "Republic World"
+            "videoId": "z2BaGLSl5Tg",
+            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "R5mQ6_7YhEs",
-            "name": "Israel Iran War HD Live | Gulf War Updates | Dubai International Airport | Trump |  Netanyahu | N18G",
-            "artist": "News18 Kerala"
+            "videoId": "SFIouyBcGM4",
+            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3OcFsFp1lRc",
+            "name": "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7W3MgvOwfk0",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 15, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
