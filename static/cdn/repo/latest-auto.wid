@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T080332.614Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T095740.835Z-l4t35t"
   type: "state"
-  created: "2026-03-16T08:03:32.614Z"
+  created: "2026-03-16T09:57:40.835Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T080332.614Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T095740.835Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xpuWfdWDudk"
-        name: "Emergency In UAE News LIVE | Iran Attacks Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE"
+        videoId: "FWbmd_YYRwI"
+        name: "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fB2-0TAyuXw"
+        name: "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bmWzaK59Mjo"
+        name: "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "W469hr7dFMk"
+        name: "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Lyh-cNu90FE"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 16 March 2026"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u2lbEGiACA4"
+        name: "LIVE Iran Teases Never-Seen Before Missiles After Kheibar,Ghadr Hits: Israel Panics As Israel Burns?"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2fVXNLF5dM8"
+        name: "US Iran War LIVE | Trump Warns Putin After Reports Accuse Russia of Aiding Iran In War | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sN2J20EQzuU"
+        name: "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uyU4I8svK5Q"
+        name: "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1YXPQOKT9-Y"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B0jTynz-qHM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3LTtuKdt8Jk"
+        name: "Iran Attacks Dubai News LIVE | Iran-Dubai News LIVE | Dubai News LIVE | Iran News LIVE | Dubai News"
         artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZAC1GH5bU9U"
-        name: "Pakistan News Live: पाकिस्तान में मचा हड़कंप ! मरियम फरार ! Petrol Crisis | World News | Iran News |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TbrUoQ8dS_0"
-        name: "US Iran Israel War News LIVE: Putin के पास पहुंचे मुज्तबा खामेनेई... | Iran America | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JMZ2_96wYeM"
-        name: "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen"
-        artist: "Sairbeen News 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dwXgd4kcbDk"
-        name: "Today Fast 100 News | 16 MAR 2026 | இன்றைய 100 முக்கியச் செய்திகள் | TN Political Update"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "z2BaGLSl5Tg"
-        name: "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SFIouyBcGM4"
-        name: "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3OcFsFp1lRc"
-        name: "News Ki Pathshala Live | Sushant Sinha | US से बदला लेकर रहेंगे मोजतबा खामेनेई? | World News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7W3MgvOwfk0"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 15, 2026"
-        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T08:03:32.614Z"
+  exported_at: "2026-03-16T09:57:40.835Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T08:03:32.576Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T09:57:40.790Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
