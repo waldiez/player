@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T15:58:32.520Z",
+    "generatedAt": "2026-03-16T17:02:57.288Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lCsK-Kkx8XM",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mwjfH6LQkd4",
-            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rO8Qcu0Za9M",
-            "name": "Firstpost LIVE: Drone Strike Sparks Fire Near Dubai Airport as Iran War Enters Day 17 |West Asia War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EwH0HhG0mBg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kQOTdh34Kcs",
-            "name": "NEW DETAILS: US believes Iran supreme leader may not be alive",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8jLEFmh8dr8",
-            "name": "🔴LIVE:  Tvk Vijay | CBI | விஜயின் அடுத்த நகர்வு",
+            "videoId": "GXXoXREhszs",
+            "name": "🔴LIVE:  Tvk Vijay | CBI | விஜய்க்கு புதிய சிக்கல்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "agPKP9VQyk0",
-            "name": "Out Of Focus Live | 16 March 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "UgVAo3Smw78",
+            "name": "🔴 LIVE: UK PM Keir Starmer Holds Major Press Conference | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DpNnC5HUji0",
+            "name": "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Assembly Elections",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
