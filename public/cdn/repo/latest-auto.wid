@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T170257.333Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T185142.164Z-l4t35t"
   type: "state"
-  created: "2026-03-16T17:02:57.333Z"
+  created: "2026-03-16T18:51:42.164Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T170257.333Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T185142.164Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GXXoXREhszs"
-        name: "🔴LIVE:  Tvk Vijay | CBI | விஜய்க்கு புதிய சிக்கல்"
+        videoId: "hcSf3d-BYqA"
+        name: "🔴LIVE: Today Headlines - 16 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kyNqn0uadrY"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "En2VwtO9un0"
+        name: "🔴LIVE : TVK | Vijay | NDA Alliance |  NDA உடன் கூட்டணியா? - அறிவித்தது தவெக"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xDOhX5ubAtk"
+        name: "LIVE Iran's Bombshell Drone Attack On Dubai | Drones Strike Dubai international Airport, Intercepted"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MEiiyGri2ac"
+        name: "US-Iran War LIVE: Iran Launches Fresh Wave of Attacks on US Bases Across the Gulf | Gulf War | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kHluurLL0u8"
+        name: "🔴LIVE: மத்திய கிழக்கு போரில் திடீர் திருப்பம் - டிரம்புக்கு இடியை இறக்கிய செய்தி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UgVAo3Smw78"
-        name: "🔴 LIVE: UK PM Keir Starmer Holds Major Press Conference | Geo News"
-        artist: "Geo News"
+        videoId: "ZOuOQdvNq8Q"
+        name: "🔴LIVE : isarel | Iran | War | அடுத்த  சம்பவம் செய்த இஸ்ரேல் - உலகமே அதிர்ச்சியில்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DpNnC5HUji0"
-        name: "Top 100 News Today LIVE |100 बड़ी खबरें | PM Modi | Iran Israel War | LPG Crisis |Assembly Elections"
-        artist: "Times Now Navbharat"
+        videoId: "xOGdqC_6O6I"
+        name: "Iran Rejects Ceasefire Talks With Trump, Continues Missile Barrage | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T17:02:57.333Z"
+  exported_at: "2026-03-16T18:51:42.164Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T17:02:57.288Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T18:51:42.124Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
