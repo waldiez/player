@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T10:52:39.590Z",
+    "generatedAt": "2026-03-16T11:40:59.109Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dk8opuaKKcE",
-            "name": "LIVE | Netanyahu Releases Fresh Video Responding To Death Rumors: \"Dead for Coffee\" | AI Or Real?",
-            "artist": "CNN-News18"
+            "videoId": "Gv-WEdNqxUg",
+            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "McGgNvJ__a4",
-            "name": "LIVE updates: Drone attack on Dubai international airport - Iran US War | Breaking News",
-            "artist": "News 247 Urdu"
+            "videoId": "uyU4I8svK5Q",
+            "name": "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "KR0A8FC7e8g",
-            "name": "🔴LIVE: Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா கமேனிக்கு என்னாச்சு.?",
-            "artist": "Sathiyam News"
+            "videoId": "Y8wAvkf2rmg",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "BncjReNwLvA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "FWbmd_YYRwI",
+            "name": "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fB2-0TAyuXw",
+            "name": "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bmWzaK59Mjo",
+            "name": "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W469hr7dFMk",
+            "name": "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump",
+            "artist": "Hindustan Times"
         }
     ],
     "sourceFilters": {
