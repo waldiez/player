@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T09:57:40.790Z",
+    "generatedAt": "2026-03-16T10:52:39.590Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FWbmd_YYRwI",
-            "name": "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fB2-0TAyuXw",
-            "name": "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bmWzaK59Mjo",
-            "name": "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W469hr7dFMk",
-            "name": "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Lyh-cNu90FE",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 16 March 2026",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u2lbEGiACA4",
-            "name": "LIVE Iran Teases Never-Seen Before Missiles After Kheibar,Ghadr Hits: Israel Panics As Israel Burns?",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2fVXNLF5dM8",
-            "name": "US Iran War LIVE | Trump Warns Putin After Reports Accuse Russia of Aiding Iran In War | N18G",
+            "videoId": "dk8opuaKKcE",
+            "name": "LIVE | Netanyahu Releases Fresh Video Responding To Death Rumors: \"Dead for Coffee\" | AI Or Real?",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "sN2J20EQzuU",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
-            "artist": "Times Now"
+            "videoId": "McGgNvJ__a4",
+            "name": "LIVE updates: Drone attack on Dubai international airport - Iran US War | Breaking News",
+            "artist": "News 247 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "uyU4I8svK5Q",
-            "name": "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China",
-            "artist": "Times Now Navbharat"
+            "videoId": "KR0A8FC7e8g",
+            "name": "🔴LIVE: Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா கமேனிக்கு என்னாச்சு.?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "1YXPQOKT9-Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B0jTynz-qHM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3LTtuKdt8Jk",
-            "name": "Iran Attacks Dubai News LIVE | Iran-Dubai News LIVE | Dubai News LIVE | Iran News LIVE | Dubai News",
-            "artist": "India Today"
+            "videoId": "BncjReNwLvA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Today's Bangla News"
         }
     ],
     "sourceFilters": {
