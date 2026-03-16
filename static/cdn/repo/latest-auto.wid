@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T213155.131Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T232437.226Z-l4t35t"
   type: "state"
-  created: "2026-03-16T21:31:55.131Z"
+  created: "2026-03-16T23:24:37.226Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T213155.131Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T232437.226Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qoPHkMoNhFk"
-        name: "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March"
-        artist: "SAMAA TV"
+        videoId: "3JeYko_EBRI"
+        name: "Trump threatens NATO, while Israel launches operation in Lebanon | Sky News coverage and analysis"
+        artist: "Sky News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hbr2q44p1e4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hcSf3d-BYqA"
-        name: "🔴LIVE: Today Headlines - 16 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Dcrd33t1wMQ"
-        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
+        videoId: "-xJ0vkCxTV0"
+        name: "News Ki Pathshala Live | Sushant Sinha | Iran-America War नहीं रुका तो क्या गजब होनेवाला है?"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "En2VwtO9un0"
-        name: "🔴LIVE : TVK | Vijay | NDA Alliance |  NDA உடன் கூட்டணியா? - அறிவித்தது தவெக"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xDOhX5ubAtk"
-        name: "LIVE Iran's Bombshell Drone Attack On Dubai | Drones Strike Dubai international Airport, Intercepted"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4DgOMVTw65U"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UGADoaX-7jY"
-        name: "Sanju Samson PRESS MEET HD LIVE | സഞ്ജു സാംസൺ മാധ്യമങ്ങളെ കാണുന്നു | T20 World Cup | Latest News"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XyDtqzrTs5Y"
-        name: "Middle East War LIVE News | Iranian Drone Strike Hits Central Dubai Sending Shockwaves Globally"
-        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T21:31:55.131Z"
+  exported_at: "2026-03-16T23:24:37.226Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T21:31:55.093Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T23:24:37.188Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"

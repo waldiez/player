@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T21:31:55.093Z",
+    "generatedAt": "2026-03-16T23:24:37.188Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qoPHkMoNhFk",
-            "name": "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March",
-            "artist": "SAMAA TV"
+            "videoId": "3JeYko_EBRI",
+            "name": "Trump threatens NATO, while Israel launches operation in Lebanon | Sky News coverage and analysis",
+            "artist": "Sky News"
         },
         {
             "mood": "storm",
-            "videoId": "hbr2q44p1e4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hcSf3d-BYqA",
-            "name": "🔴LIVE: Today Headlines - 16 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Dcrd33t1wMQ",
-            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
+            "videoId": "-xJ0vkCxTV0",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Iran-America War नहीं रुका तो क्या गजब होनेवाला है?",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "En2VwtO9un0",
-            "name": "🔴LIVE : TVK | Vijay | NDA Alliance |  NDA உடன் கூட்டணியா? - அறிவித்தது தவெக",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xDOhX5ubAtk",
-            "name": "LIVE Iran's Bombshell Drone Attack On Dubai | Drones Strike Dubai international Airport, Intercepted",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4DgOMVTw65U",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UGADoaX-7jY",
-            "name": "Sanju Samson PRESS MEET HD LIVE | സഞ്ജു സാംസൺ മാധ്യമങ്ങളെ കാണുന്നു | T20 World Cup | Latest News",
-            "artist": "News18 Kerala"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XyDtqzrTs5Y",
-            "name": "Middle East War LIVE News | Iranian Drone Strike Hits Central Dubai Sending Shockwaves Globally",
-            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
