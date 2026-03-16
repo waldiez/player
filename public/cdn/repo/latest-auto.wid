@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T125329.350Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T141713.710Z-l4t35t"
   type: "state"
-  created: "2026-03-16T12:53:29.350Z"
+  created: "2026-03-16T14:17:13.710Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T125329.350Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T141713.710Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "PHPYjsl_Vdg"
-        name: "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |"
+        videoId: "Dcrd33t1wMQ"
+        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gDiN5bIqBNc"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March"
-        artist: "ABP NEWS"
+        videoId: "YlzU3gCjN_Y"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wUdaK8HBbA4"
-        name: "Iran America War LIVE Updates : नेतन्याहू की मौत का सच ? Benjamin Netanyahu | Trump | Khamenei"
-        artist: "NDTV India"
+        videoId: "NIvLvhjcAT8"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OB66mENxHuI"
-        name: "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions"
-        artist: "MIRROR NOW"
+        videoId: "Gv-WEdNqxUg"
+        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dk8opuaKKcE"
-        name: "LIVE | Netanyahu Releases Fresh Video Responding To Death Rumors: \"Dead for Coffee\" | AI Or Real?"
-        artist: "CNN-News18"
+        videoId: "QxUhpzKv4_A"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 16 March 2026 | Jamuna TV"
+        artist: "Jamuna TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "McGgNvJ__a4"
-        name: "LIVE updates: Drone attack on Dubai international airport - Iran US War | Breaking News"
-        artist: "News 247 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KR0A8FC7e8g"
-        name: "🔴LIVE: Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா கமேனிக்கு என்னாச்சு.?"
-        artist: "Sathiyam News"
+        videoId: "ukWhiL4OdFY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T12:53:29.350Z"
+  exported_at: "2026-03-16T14:17:13.710Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T12:53:29.307Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T14:17:13.678Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

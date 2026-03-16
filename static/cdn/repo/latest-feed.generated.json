@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T12:53:29.307Z",
+    "generatedAt": "2026-03-16T14:17:13.678Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PHPYjsl_Vdg",
-            "name": "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |",
+            "videoId": "Dcrd33t1wMQ",
+            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "gDiN5bIqBNc",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March",
-            "artist": "ABP NEWS"
+            "videoId": "YlzU3gCjN_Y",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "wUdaK8HBbA4",
-            "name": "Iran America War LIVE Updates : नेतन्याहू की मौत का सच ? Benjamin Netanyahu | Trump | Khamenei",
-            "artist": "NDTV India"
+            "videoId": "NIvLvhjcAT8",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "OB66mENxHuI",
-            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions",
-            "artist": "MIRROR NOW"
+            "videoId": "Gv-WEdNqxUg",
+            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "dk8opuaKKcE",
-            "name": "LIVE | Netanyahu Releases Fresh Video Responding To Death Rumors: \"Dead for Coffee\" | AI Or Real?",
-            "artist": "CNN-News18"
+            "videoId": "QxUhpzKv4_A",
+            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 16 March 2026 | Jamuna TV",
+            "artist": "Jamuna TV"
         },
         {
             "mood": "storm",
-            "videoId": "McGgNvJ__a4",
-            "name": "LIVE updates: Drone attack on Dubai international airport - Iran US War | Breaking News",
-            "artist": "News 247 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KR0A8FC7e8g",
-            "name": "🔴LIVE: Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா கமேனிக்கு என்னாச்சு.?",
-            "artist": "Sathiyam News"
+            "videoId": "ukWhiL4OdFY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         }
     ],
     "sourceFilters": {
