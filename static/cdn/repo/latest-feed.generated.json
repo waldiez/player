@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T04:34:04.550Z",
+    "generatedAt": "2026-03-16T06:15:27.964Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EpKH_0yPaPU",
-            "name": "LIVE: Netanyahu's Office Dismisses \"Fake\" Reports of His Assassination As War With Iran Intensifies",
+            "videoId": "PHPYjsl_Vdg",
+            "name": "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i4h5keESuzU",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "79Gb1dH2AX0",
+            "name": "Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா இறந்துவிட்டாரா?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wl7XNj4DdLY",
+            "name": "LIVE: Iran Escalates Strikes Across Gulf; Trump Urges Allies to Send Warships to Strait of Hormuz",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "z2BaGLSl5Tg",
-            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
-            "artist": "Times Now Navbharat"
+            "videoId": "ywiS8EEnVcI",
+            "name": "BREAKING LIVE: Missiles Over Tel Aviv | Israel Intercepts Iranian Attack | Middle East War Escalates",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "SFIouyBcGM4",
-            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1l8FXyN35u4",
-            "name": "US Iran War LIVE | Trump Threatens More Strikes on Iran’s Kharg Island | Israel Iran War | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7W3MgvOwfk0",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 15, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "06rni2XBv_4",
-            "name": "Israel-Iran War LIVE: Israel Faces Khorramshahr-4 Horror, Monster Ballistic Missile Strikes Israel",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fx7fdngDYe0",
-            "name": "Iran-Israel War Live News: IRGC Vows To Pursue Israel PM Benjamin Netanyahu Until He Is Dead | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gDiN5bIqBNc",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March",
-            "artist": "ABP NEWS"
+            "videoId": "R5mQ6_7YhEs",
+            "name": "Israel Iran War HD Live | Gulf War Updates | Dubai International Airport | Trump |  Netanyahu | N18G",
+            "artist": "News18 Kerala"
         }
     ],
     "sourceFilters": {

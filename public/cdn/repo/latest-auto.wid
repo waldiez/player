@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T043404.594Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T061528.006Z-l4t35t"
   type: "state"
-  created: "2026-03-16T04:34:04.594Z"
+  created: "2026-03-16T06:15:28.006Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T043404.594Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T061528.006Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "EpKH_0yPaPU"
-        name: "LIVE: Netanyahu's Office Dismisses \"Fake\" Reports of His Assassination As War With Iran Intensifies"
+        videoId: "PHPYjsl_Vdg"
+        name: "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i4h5keESuzU"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "79Gb1dH2AX0"
+        name: "Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா இறந்துவிட்டாரா?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wl7XNj4DdLY"
+        name: "LIVE: Iran Escalates Strikes Across Gulf; Trump Urges Allies to Send Warships to Strait of Hormuz"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z2BaGLSl5Tg"
-        name: "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |"
-        artist: "Times Now Navbharat"
+        videoId: "ywiS8EEnVcI"
+        name: "BREAKING LIVE: Missiles Over Tel Aviv | Israel Intercepts Iranian Attack | Middle East War Escalates"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SFIouyBcGM4"
-        name: "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1l8FXyN35u4"
-        name: "US Iran War LIVE | Trump Threatens More Strikes on Iran’s Kharg Island | Israel Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7W3MgvOwfk0"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 15, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "06rni2XBv_4"
-        name: "Israel-Iran War LIVE: Israel Faces Khorramshahr-4 Horror, Monster Ballistic Missile Strikes Israel"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fx7fdngDYe0"
-        name: "Iran-Israel War Live News: IRGC Vows To Pursue Israel PM Benjamin Netanyahu Until He Is Dead | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gDiN5bIqBNc"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March"
-        artist: "ABP NEWS"
+        videoId: "R5mQ6_7YhEs"
+        name: "Israel Iran War HD Live | Gulf War Updates | Dubai International Airport | Trump |  Netanyahu | N18G"
+        artist: "News18 Kerala"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T04:34:04.594Z"
+  exported_at: "2026-03-16T06:15:28.006Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T04:34:04.550Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T06:15:27.964Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
