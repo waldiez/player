@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260315T232200.233Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T014525.965Z-l4t35t"
   type: "state"
-  created: "2026-03-15T23:22:00.233Z"
+  created: "2026-03-16T01:45:25.965Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260315T232200.233Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T014525.965Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "q09SbFianwg"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 14 March 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "gwlB3mOiQOg"
+        name: "LIVE: Iran Showcases Missile Power & \"Underground Cities\" Amid War With Israel | US Attack | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ige0yZHLAME"
-        name: "Devastation from new attacks by Iran and Hezbollah on Israel | Geo News 1 AM Headlines 16 March 2026"
-        artist: "Geo News"
+        videoId: "UNDPXlT1F4I"
+        name: "ईरान-अमेरिका जंग 16 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sQ5vrcp6bV8"
-        name: "Donald Trump Live: Trump’s Surprise Announcement Sends Shockwaves Across US | World News Live"
-        artist: "Times Now"
+        videoId: "wVPimPk8_HY"
+        name: "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |"
+        artist: "Times Now Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CxDeUIyPpHc"
-        name: "US News LIVE | Trump Declares EMERGENCY; Drops NUCLEAR Bombshell On Iran, Russia, China | NEWS LIVE"
-        artist: "ET Now"
+        videoId: "dfR8pbevGrc"
+        name: "🔴LIVE | Iran Launches New Secret Attacks on Israel & US Airbases | Destruction in Tel Aviv | Dunya"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gSgP9G8CccY"
+        name: "🔴LIVE : Iran Israel War Update | பகீர் திருப்பம்.. நெதன்யாகு இறந்து விட்டாரா? அதிர்ச்சி வீடியோ"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BqNeUyi-NII"
+        name: "🔴LIVE: World War III? Iran US Israel War Update | Iran Attacks Gulf Countries | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2hGnaB-_AS8"
+        name: "LIVE | Trump’s Nuclear Bombshell on Iran Sends Shockwaves Across the Middle East | Nuke Out Soon?"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PHCTqbiA4nA"
+        name: "LIVE: ABC News Live - Sunday, March 15"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l-2nHxTseWs"
+        name: "Netanyahu’s Video Shocks World | Iran–Israel–US War Update | 12 AM Headlines | Pakistan News"
+        artist: "Express News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-15T23:22:00.233Z"
+  exported_at: "2026-03-16T01:45:25.965Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-15T23:22:00.194Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T01:45:25.927Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
