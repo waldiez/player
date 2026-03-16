@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T01:45:25.927Z",
+    "generatedAt": "2026-03-16T04:34:04.550Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gwlB3mOiQOg",
-            "name": "LIVE: Iran Showcases Missile Power & \"Underground Cities\" Amid War With Israel | US Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "EpKH_0yPaPU",
+            "name": "LIVE: Netanyahu's Office Dismisses \"Fake\" Reports of His Assassination As War With Iran Intensifies",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "UNDPXlT1F4I",
-            "name": "ईरान-अमेरिका जंग 16 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "z2BaGLSl5Tg",
+            "name": "World News Live: सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर..ईरान के नए हथियार देख, ट्रंप परेशान ! Iran |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "wVPimPk8_HY",
-            "name": "World News Live : ईरान हुआ और खूंखार, सदमे में ट्रंप सरकार ! Iran News | USA | Trump | Khamenei |",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "SFIouyBcGM4",
+            "name": "World News Live : ईरान से टकराना अमेरिका को पड़ा भारी ! ट्रंप का वादा हुआ धुआं धुआं ! Iran | USA |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "dfR8pbevGrc",
-            "name": "🔴LIVE | Iran Launches New Secret Attacks on Israel & US Airbases | Destruction in Tel Aviv | Dunya",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gSgP9G8CccY",
-            "name": "🔴LIVE : Iran Israel War Update | பகீர் திருப்பம்.. நெதன்யாகு இறந்து விட்டாரா? அதிர்ச்சி வீடியோ",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BqNeUyi-NII",
-            "name": "🔴LIVE: World War III? Iran US Israel War Update | Iran Attacks Gulf Countries | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2hGnaB-_AS8",
-            "name": "LIVE | Trump’s Nuclear Bombshell on Iran Sends Shockwaves Across the Middle East | Nuke Out Soon?",
+            "videoId": "1l8FXyN35u4",
+            "name": "US Iran War LIVE | Trump Threatens More Strikes on Iran’s Kharg Island | Israel Iran War | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "PHCTqbiA4nA",
-            "name": "LIVE: ABC News Live - Sunday, March 15",
+            "videoId": "7W3MgvOwfk0",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 15, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "l-2nHxTseWs",
-            "name": "Netanyahu’s Video Shocks World | Iran–Israel–US War Update | 12 AM Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "06rni2XBv_4",
+            "name": "Israel-Iran War LIVE: Israel Faces Khorramshahr-4 Horror, Monster Ballistic Missile Strikes Israel",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fx7fdngDYe0",
+            "name": "Iran-Israel War Live News: IRGC Vows To Pursue Israel PM Benjamin Netanyahu Until He Is Dead | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gDiN5bIqBNc",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
