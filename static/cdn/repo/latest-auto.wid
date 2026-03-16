@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T114059.149Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T125329.350Z-l4t35t"
   type: "state"
-  created: "2026-03-16T11:40:59.149Z"
+  created: "2026-03-16T12:53:29.350Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T114059.149Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T125329.350Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Gv-WEdNqxUg"
-        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
+        videoId: "PHPYjsl_Vdg"
+        name: "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uyU4I8svK5Q"
-        name: "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China"
-        artist: "Times Now Navbharat"
+        videoId: "gDiN5bIqBNc"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 16 March"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y8wAvkf2rmg"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.03.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "wUdaK8HBbA4"
+        name: "Iran America War LIVE Updates : नेतन्याहू की मौत का सच ? Benjamin Netanyahu | Trump | Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FWbmd_YYRwI"
-        name: "Iran Israel War Live Updates : भारत के लिए गुड न्यूज | World News | Strait Of Hormuz | Breaking News"
-        artist: "Times Now Navbharat"
+        videoId: "OB66mENxHuI"
+        name: "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fB2-0TAyuXw"
-        name: "World News Live | Iran Israel War 12 March Live : ईरान अमेरिका युद्ध का ताजा हालात | Iran Attack"
-        artist: "Times Now Navbharat"
+        videoId: "dk8opuaKKcE"
+        name: "LIVE | Netanyahu Releases Fresh Video Responding To Death Rumors: \"Dead for Coffee\" | AI Or Real?"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bmWzaK59Mjo"
-        name: "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |"
-        artist: "Times Now Navbharat"
+        videoId: "McGgNvJ__a4"
+        name: "LIVE updates: Drone attack on Dubai international airport - Iran US War | Breaking News"
+        artist: "News 247 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W469hr7dFMk"
-        name: "LIVE | US Navy In Panic? Iran Launches ‘Forbidden’ Missile At USS Lincoln | Khamenei | Trump"
-        artist: "Hindustan Times"
+        videoId: "KR0A8FC7e8g"
+        name: "🔴LIVE: Israel Iran War | Iran Supreme Leader Mojtaba Khamenei Death? | மொஜ்தபா கமேனிக்கு என்னாச்சு.?"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T11:40:59.149Z"
+  exported_at: "2026-03-16T12:53:29.350Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T11:40:59.109Z"
+  source_generated_at: "2026-03-16T12:53:29.307Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
