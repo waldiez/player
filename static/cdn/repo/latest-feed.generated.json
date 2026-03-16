@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T14:17:13.678Z",
+    "generatedAt": "2026-03-16T15:58:32.520Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Dcrd33t1wMQ",
-            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
-            "artist": "Times Now Navbharat"
+            "videoId": "lCsK-Kkx8XM",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "YlzU3gCjN_Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "mwjfH6LQkd4",
+            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "NIvLvhjcAT8",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "rO8Qcu0Za9M",
+            "name": "Firstpost LIVE: Drone Strike Sparks Fire Near Dubai Airport as Iran War Enters Day 17 |West Asia War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "Gv-WEdNqxUg",
-            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
-            "artist": "Times Now Navbharat"
+            "videoId": "EwH0HhG0mBg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "QxUhpzKv4_A",
-            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 16 March 2026 | Jamuna TV",
-            "artist": "Jamuna TV"
+            "videoId": "kQOTdh34Kcs",
+            "name": "NEW DETAILS: US believes Iran supreme leader may not be alive",
+            "artist": "Fox News"
         },
         {
             "mood": "storm",
-            "videoId": "ukWhiL4OdFY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "8jLEFmh8dr8",
+            "name": "🔴LIVE:  Tvk Vijay | CBI | விஜயின் அடுத்த நகர்வு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "agPKP9VQyk0",
+            "name": "Out Of Focus Live | 16 March 2026",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {

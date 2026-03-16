@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T141713.710Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260316T155832.559Z-l4t35t"
   type: "state"
-  created: "2026-03-16T14:17:13.710Z"
+  created: "2026-03-16T15:58:32.559Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T141713.710Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T155832.559Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Dcrd33t1wMQ"
-        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
-        artist: "Times Now Navbharat"
+        videoId: "lCsK-Kkx8XM"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YlzU3gCjN_Y"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "mwjfH6LQkd4"
+        name: "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NIvLvhjcAT8"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
+        videoId: "rO8Qcu0Za9M"
+        name: "Firstpost LIVE: Drone Strike Sparks Fire Near Dubai Airport as Iran War Enters Day 17 |West Asia War"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Gv-WEdNqxUg"
-        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
-        artist: "Times Now Navbharat"
+        videoId: "EwH0HhG0mBg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QxUhpzKv4_A"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 16 March 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "kQOTdh34Kcs"
+        name: "NEW DETAILS: US believes Iran supreme leader may not be alive"
+        artist: "Fox News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ukWhiL4OdFY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "8jLEFmh8dr8"
+        name: "🔴LIVE:  Tvk Vijay | CBI | விஜயின் அடுத்த நகர்வு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "agPKP9VQyk0"
+        name: "Out Of Focus Live | 16 March 2026"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T14:17:13.710Z"
+  exported_at: "2026-03-16T15:58:32.559Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T14:17:13.678Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-16T15:58:32.520Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
