@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T113824.882Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T125248.775Z-l4t35t"
   type: "state"
-  created: "2026-03-17T11:38:24.882Z"
+  created: "2026-03-17T12:52:48.775Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T113824.882Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T125248.775Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mG6R6HGbU_o"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "TITCuRaXFZg"
+        name: "Iran Israel War LIVE: 17 ही दिन में अमेरिकाने तोड़ा दम!, इजरायल की ईरान ने निकाली हवा! | Attack LIVE"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BXEqtOUc8R4"
-        name: "🔴 LIVE: \"Iran Thanks Pakistan for Support as Missile Strikes Continue Against Israel\" - Geo News"
-        artist: "Geo News"
+        videoId: "vvy0pfFAyCE"
+        name: "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HStyvzmfjM8"
-        name: "News Ki Pathshala Live : Trump की ऐसी बुरी हालत.. अब China के सामने क्यों हाथ जोड़ने पड़ गए? | Iran"
-        artist: "Times Now Navbharat"
+        videoId: "kSjYqeNkKmk"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pfZtDIFdWAQ"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0Mc4_0p0Jt8"
-        name: "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_mqRGaNYMgY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026| বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hpTTR6ndRig"
-        name: "ABC News Live Prime: Mar. 16, 2026"
-        artist: "ABC News"
+        videoId: "clel59TNmc4"
+        name: "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (17.03.2026) | 6 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T11:38:24.882Z"
+  exported_at: "2026-03-17T12:52:48.775Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T11:38:24.832Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T12:52:48.730Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
