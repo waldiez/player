@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T212959.484Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T222511.784Z-l4t35t"
   type: "state"
-  created: "2026-03-17T21:29:59.484Z"
+  created: "2026-03-17T22:25:11.784Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T212959.484Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T222511.784Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2-sahLtvAmE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "hnb07ccH46I"
+        name: "🔴LIVE: Tvk Vijay | யாருடன் கூட்டணி..? - இறுதி முடிவை அறிவித்த விஜய்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XObZY5iROKQ"
-        name: "🔴LIVE: Today Headlines - 17 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "r3-NyJJRjGM"
+        name: "🔴LIVE: World War III? Iran Launches Fresh Missile Attack on Israel | Gulf Countries Under Attack"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "clel59TNmc4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (17.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "NHGIr677iF4"
+        name: "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F3STRf1V1M8"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "982NmtiOypc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NBS Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dtDwzu8UEsc"
-        name: "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "3BP0omjuORM"
+        name: "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1vttG15Yom4"
-        name: "Janhit LIVE:  कहां-कहां विश्व युद्ध? | World War 3 | Pak-Afghan | Iran Israel War | America | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Vn2sR0bWfq8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "3ROXa1c1kAE"
+        name: "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 17-03-2026"
+        artist: "News18 Kerala"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T21:29:59.484Z"
+  exported_at: "2026-03-17T22:25:11.784Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T21:29:59.445Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T22:25:11.750Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
