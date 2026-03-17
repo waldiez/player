@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260316T232437.226Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T012247.927Z-l4t35t"
   type: "state"
-  created: "2026-03-16T23:24:37.226Z"
+  created: "2026-03-17T01:22:47.927Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260316T232437.226Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T012247.927Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3JeYko_EBRI"
-        name: "Trump threatens NATO, while Israel launches operation in Lebanon | Sky News coverage and analysis"
-        artist: "Sky News"
+        videoId: "Kix6Cj2RPXc"
+        name: "🔴LIVE | US President Donald Trump Speaks to Media at the White House | ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-xJ0vkCxTV0"
-        name: "News Ki Pathshala Live | Sushant Sinha | Iran-America War नहीं रुका तो क्या गजब होनेवाला है?"
+        videoId: "rCl3YdkHqZ0"
+        name: "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wb1r62QVz6s"
+        name: "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |"
+        artist: "Times Now Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0obNZWm_eqc"
+        name: "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |"
+        artist: "Times Now Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XdciyAA6q8Y"
+        name: "World News Live : सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर...ईरान के नए हथियार देख, ट्रंप परेशान !"
+        artist: "Times Now Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qoPHkMoNhFk"
+        name: "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "a3P0Al0tfPo"
+        name: "President Trump signs an executive order forming anti-fraud taskforce: LIVE"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E0GH5m5GUXQ"
+        name: "Trump pressures countries over Strait of Hormuz | BBC News"
+        artist: "BBC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hbr2q44p1e4"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-16T23:24:37.226Z"
+  exported_at: "2026-03-17T01:22:47.927Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-16T23:24:37.188Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T01:22:47.888Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

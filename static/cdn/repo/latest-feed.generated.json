@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-16T23:24:37.188Z",
+    "generatedAt": "2026-03-17T01:22:47.888Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3JeYko_EBRI",
-            "name": "Trump threatens NATO, while Israel launches operation in Lebanon | Sky News coverage and analysis",
-            "artist": "Sky News"
+            "videoId": "Kix6Cj2RPXc",
+            "name": "🔴LIVE | US President Donald Trump Speaks to Media at the White House | ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "-xJ0vkCxTV0",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Iran-America War नहीं रुका तो क्या गजब होनेवाला है?",
+            "videoId": "rCl3YdkHqZ0",
+            "name": "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wb1r62QVz6s",
+            "name": "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |",
+            "artist": "Times Now Bihar Jharkhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0obNZWm_eqc",
+            "name": "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |",
+            "artist": "Times Now Bihar Jharkhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XdciyAA6q8Y",
+            "name": "World News Live : सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर...ईरान के नए हथियार देख, ट्रंप परेशान !",
+            "artist": "Times Now Bihar Jharkhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qoPHkMoNhFk",
+            "name": "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "a3P0Al0tfPo",
+            "name": "President Trump signs an executive order forming anti-fraud taskforce: LIVE",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E0GH5m5GUXQ",
+            "name": "Trump pressures countries over Strait of Hormuz | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hbr2q44p1e4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
