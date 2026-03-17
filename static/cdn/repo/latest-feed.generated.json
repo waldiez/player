@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T18:51:37.891Z",
+    "generatedAt": "2026-03-17T19:51:01.533Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NHGIr677iF4",
-            "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
-            "artist": "Times Now Navbharat"
+            "videoId": "2-sahLtvAmE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "JSKlZLzTSCc",
-            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War",
-            "artist": "NDTV India"
+            "videoId": "XObZY5iROKQ",
+            "name": "🔴LIVE: Today Headlines - 17 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "opclCIkWtBU",
-            "name": "LIVE: Iran Hits US Embassy in Iraq and UAE's Fujairah Port | Vantage with Palki Sharma",
+            "videoId": "clel59TNmc4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (17.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dtDwzu8UEsc",
+            "name": "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "hFSGWnJEEmo",
-            "name": "LIVE: President Trump holds bilateral meeting with prime minister of Ireland",
-            "artist": "ABC News"
+            "videoId": "Vn2sR0bWfq8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "Ng2eVvtve-o",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 17 March 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "7RFy3KoL0fA",
+            "name": "US Iran War LIVE: Viral Video Shows Dubai Airport “On Fire” | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "yBa_t1sSGuI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_mx-BWYepww",
-            "name": "US Breaking News LIVE: Top US Intel Officer Resigns Over Iran War | Trump Faces Internal Revolt",
-            "artist": "CNN-News18"
+            "videoId": "o78erw0v9ho",
+            "name": "🔴LIVE :IranWar | Dubai | UAE | AirStrike | Trump | துபாயை நிலைகுலைய விட்ட ஈரான்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
