@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T012247.927Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T041040.160Z-l4t35t"
   type: "state"
-  created: "2026-03-17T01:22:47.927Z"
+  created: "2026-03-17T04:10:40.160Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T012247.927Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T041040.160Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Kix6Cj2RPXc"
-        name: "🔴LIVE | US President Donald Trump Speaks to Media at the White House | ARY News Live"
-        artist: "ARY News"
+        videoId: "rlDAloxtyZ0"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rCl3YdkHqZ0"
-        name: "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China"
+        videoId: "TmFs5gRlXP0"
+        name: "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PFKOYWG4hmc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Festival Update"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IF3JoZJeiUE"
+        name: "China in World War 3 LIVE: विश्वयुद्ध में कूद गया चीन... अब होगा ट्रंप-पुतिन का खात्मा! | Breaking"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bI7Pdd4vuOs"
+        name: "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G463-kJLfp8"
+        name: "Iran War LIVE: IRAN UNLEASHES ‘HELLFIRE’ On Israel | Jerusalem Quakes Under Iranian Storm | Tehran"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Xgkm6vEHWV0"
+        name: "Iran War Day 17 LIVE: Israel Bombs Tehran, Oil Surges, Trump \"Not Sure\" on Peace Deal"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8GqurNCiMxE"
+        name: "US Iran War LIVE: Day 17 of West Asia War | Strait of Hormuz | Israel | Dubai Airport | Trump"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iyFkLMsUAgk"
+        name: "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "o9Ex5ch1F4o"
+        name: "NDTV 24x7 LIVE TV: US Israel Iran War | Pakistan Attacks Afghanistan Full Coverage | Dubai Attack"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Gv-WEdNqxUg"
+        name: "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wb1r62QVz6s"
-        name: "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0obNZWm_eqc"
-        name: "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XdciyAA6q8Y"
-        name: "World News Live : सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर...ईरान के नए हथियार देख, ट्रंप परेशान !"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qoPHkMoNhFk"
-        name: "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "a3P0Al0tfPo"
-        name: "President Trump signs an executive order forming anti-fraud taskforce: LIVE"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "E0GH5m5GUXQ"
-        name: "Trump pressures countries over Strait of Hormuz | BBC News"
-        artist: "BBC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hbr2q44p1e4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T01:22:47.927Z"
+  exported_at: "2026-03-17T04:10:40.160Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T01:22:47.888Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T04:10:40.121Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

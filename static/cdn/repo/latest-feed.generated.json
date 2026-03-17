@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T01:22:47.888Z",
+    "generatedAt": "2026-03-17T04:10:40.121Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Kix6Cj2RPXc",
-            "name": "🔴LIVE | US President Donald Trump Speaks to Media at the White House | ARY News Live",
-            "artist": "ARY News"
+            "videoId": "rlDAloxtyZ0",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "rCl3YdkHqZ0",
-            "name": "World News Live: ईरान के साथ आए, रूस और चीन ! अब होगी असली तबाही ? Iran News | USA | Russia | China",
+            "videoId": "TmFs5gRlXP0",
+            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PFKOYWG4hmc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IF3JoZJeiUE",
+            "name": "China in World War 3 LIVE: विश्वयुद्ध में कूद गया चीन... अब होगा ट्रंप-पुतिन का खात्मा! | Breaking",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bI7Pdd4vuOs",
+            "name": "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G463-kJLfp8",
+            "name": "Iran War LIVE: IRAN UNLEASHES ‘HELLFIRE’ On Israel | Jerusalem Quakes Under Iranian Storm | Tehran",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xgkm6vEHWV0",
+            "name": "Iran War Day 17 LIVE: Israel Bombs Tehran, Oil Surges, Trump \"Not Sure\" on Peace Deal",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8GqurNCiMxE",
+            "name": "US Iran War LIVE: Day 17 of West Asia War | Strait of Hormuz | Israel | Dubai Airport | Trump",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iyFkLMsUAgk",
+            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "o9Ex5ch1F4o",
+            "name": "NDTV 24x7 LIVE TV: US Israel Iran War | Pakistan Attacks Afghanistan Full Coverage | Dubai Attack",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Gv-WEdNqxUg",
+            "name": "World News Live: इजराइल के सिर मौच नाच रही है? |  Iran News | USA | Russia | China | Hindi News",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wb1r62QVz6s",
-            "name": "Iran News Live: ईरान के मोजैक रणनीति में, फंसा अमेरिका ! World News | War | USA | Trump | Breaking |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0obNZWm_eqc",
-            "name": "World News Live : भारत को लेकर ईरान ने दिया बड़ा बयान ! Iran News | USA | India | Trump | Modi |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XdciyAA6q8Y",
-            "name": "World News Live : सुसाइड ड्रोन, सुसाइड बोट, बारूदी बंकर...ईरान के नए हथियार देख, ट्रंप परेशान !",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qoPHkMoNhFk",
-            "name": "🔴LIVE:World War III? Iran Launches Sejjil Missile on Israel | Gulf Countries Under Attack | 16 March",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "a3P0Al0tfPo",
-            "name": "President Trump signs an executive order forming anti-fraud taskforce: LIVE",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E0GH5m5GUXQ",
-            "name": "Trump pressures countries over Strait of Hormuz | BBC News",
-            "artist": "BBC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hbr2q44p1e4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (16.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
