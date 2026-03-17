@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T155748.463Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T170329.630Z-l4t35t"
   type: "state"
-  created: "2026-03-17T15:57:48.463Z"
+  created: "2026-03-17T17:03:29.630Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T155748.463Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T170329.630Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "yRgoEvUbuGw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pfZtDIFdWAQ"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F6JIMCNH0oc"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fbJ06OeAlk0"
-        name: "Superfast News LIVE: आज की बड़ी खबरें फटाफट अंदाज में देखिए | Iran US-Israel War | Trump | Breaking"
-        artist: "Aaj Tak"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qB0DNe5Q_cs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hD4aXLALAcY"
-        name: "Today's Morning News LIVE: LPG Ship Shivalik | Nanda Devi | Israel Iran War | Mojtaba Khamenei"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vvy0pfFAyCE"
-        name: "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Tw1lnubaFKg"
-        name: "US Iran War LIVE: Iran's \"Dancing Missile\" Enters West Asia War for the First Time | N18G"
+        videoId: "dtDwzu8UEsc"
+        name: "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bU4hQnJUeYo"
-        name: "Goonj with Rubika Liyaquat LIVE: Pakistan-Afghanistan War | Saudi Arab | UAE | Iran Israel War News"
-        artist: "News18 India"
+        videoId: "o78erw0v9ho"
+        name: "🔴LIVE :IranWar | Dubai | UAE | AirStrike | Trump | துபாயை நிலைகுலைய விட்ட ஈரான்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mG6R6HGbU_o"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "lynD-kMhVZU"
+        name: "News Ki Pathshala Live | Sushant Sinha | अब युद्ध रुकेगा या और ज्यादा बम बरसेंगे? | Iran Israel War"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qKlPM43hYLg"
+        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (17.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "moUV97DYSrA"
+        name: "Pakistan Afghanistan War Live | Kabul Hospital Attack | Explosions In Rawalpindi, Taliban's Revenge?"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ndHYnU-6UvQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World "
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T15:57:48.463Z"
+  exported_at: "2026-03-17T17:03:29.630Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T15:57:48.420Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T17:03:29.584Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
