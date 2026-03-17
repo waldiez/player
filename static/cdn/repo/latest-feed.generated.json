@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T08:42:06.232Z",
+    "generatedAt": "2026-03-17T09:47:46.544Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "erebSkz_r88",
-            "name": "Debate With Arnab LIVE: Trump Isolated On Hormuz Coalition?",
-            "artist": "Republic World"
+            "videoId": "0Mc4_0p0Jt8",
+            "name": "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "u0YwrSSBp10",
-            "name": "Iran America War News: ईरान-अमेरिका जंग, 17 मार्च 2026 | America | Trump Vs Mojtaba Khamenei",
+            "videoId": "hpTTR6ndRig",
+            "name": "ABC News Live Prime: Mar. 16, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U8LRceBhkgE",
+            "name": "Iran Israel War LIVE: ईरान का धरती फाड़बम, इजरायल-अमेरिका खत्म!, हलचल तेज! | Khamenei | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jtB0L35hsbM",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ১৭ মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "raBqCTWLn6o",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "No9OZ8paeeo",
-            "name": "Pakistan Afghanistan War News Live : पाकिस्तान के हमले से दहला अफगानिस्तान ! | Breaking News | Kabul",
-            "artist": "Times Now Navbharat"
+            "videoId": "3_oQoBTJgzU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0ieTTdbbGH4",
+            "name": "US Iran War LIVE: Drones, Rockets Attack US embassy in Baghdad | Trump vs Iran | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iYmuucVj1hw",
+            "name": "China Start World War Three LIVE: दुनिया का खात्मा होना वाला है Trump Putin से भी ज्यादा घातक हुआ ?",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1coOTuplbCQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fx_KLdAD5M4",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nOOeWA3UIVQ",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

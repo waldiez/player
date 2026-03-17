@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T084206.271Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T094746.583Z-l4t35t"
   type: "state"
-  created: "2026-03-17T08:42:06.271Z"
+  created: "2026-03-17T09:47:46.583Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T084206.271Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T094746.583Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "erebSkz_r88"
-        name: "Debate With Arnab LIVE: Trump Isolated On Hormuz Coalition?"
-        artist: "Republic World"
+        videoId: "0Mc4_0p0Jt8"
+        name: "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "u0YwrSSBp10"
-        name: "Iran America War News: ईरान-अमेरिका जंग, 17 मार्च 2026 | America | Trump Vs Mojtaba Khamenei"
+        videoId: "hpTTR6ndRig"
+        name: "ABC News Live Prime: Mar. 16, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U8LRceBhkgE"
+        name: "Iran Israel War LIVE: ईरान का धरती फाड़बम, इजरायल-अमेरिका खत्म!, हलचल तेज! | Khamenei | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jtB0L35hsbM"
-        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ১৭ মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "raBqCTWLn6o"
+        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "No9OZ8paeeo"
-        name: "Pakistan Afghanistan War News Live : पाकिस्तान के हमले से दहला अफगानिस्तान ! | Breaking News | Kabul"
-        artist: "Times Now Navbharat"
+        videoId: "3_oQoBTJgzU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0ieTTdbbGH4"
+        name: "US Iran War LIVE: Drones, Rockets Attack US embassy in Baghdad | Trump vs Iran | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iYmuucVj1hw"
+        name: "China Start World War Three LIVE: दुनिया का खात्मा होना वाला है Trump Putin से भी ज्यादा घातक हुआ ?"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1coOTuplbCQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fx_KLdAD5M4"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nOOeWA3UIVQ"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T08:42:06.271Z"
+  exported_at: "2026-03-17T09:47:46.583Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T08:42:06.232Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T09:47:46.544Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
