@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T170329.630Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T185137.938Z-l4t35t"
   type: "state"
-  created: "2026-03-17T17:03:29.630Z"
+  created: "2026-03-17T18:51:37.938Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T170329.630Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T185137.938Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "dtDwzu8UEsc"
-        name: "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "o78erw0v9ho"
-        name: "🔴LIVE :IranWar | Dubai | UAE | AirStrike | Trump | துபாயை நிலைகுலைய விட்ட ஈரான்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lynD-kMhVZU"
-        name: "News Ki Pathshala Live | Sushant Sinha | अब युद्ध रुकेगा या और ज्यादा बम बरसेंगे? | Iran Israel War"
+        videoId: "NHGIr677iF4"
+        name: "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qKlPM43hYLg"
-        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (17.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "JSKlZLzTSCc"
+        name: "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "moUV97DYSrA"
-        name: "Pakistan Afghanistan War Live | Kabul Hospital Attack | Explosions In Rawalpindi, Taliban's Revenge?"
-        artist: "CRUX"
+        videoId: "opclCIkWtBU"
+        name: "LIVE: Iran Hits US Embassy in Iraq and UAE's Fujairah Port | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ndHYnU-6UvQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World "
+        videoId: "hFSGWnJEEmo"
+        name: "LIVE: President Trump holds bilateral meeting with prime minister of Ireland"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ng2eVvtve-o"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 17 March 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yBa_t1sSGuI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_mx-BWYepww"
+        name: "US Breaking News LIVE: Top US Intel Officer Resigns Over Iran War | Trump Faces Internal Revolt"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T17:03:29.630Z"
+  exported_at: "2026-03-17T18:51:37.938Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T17:03:29.584Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T18:51:37.891Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

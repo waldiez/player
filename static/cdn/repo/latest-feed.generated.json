@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T17:03:29.584Z",
+    "generatedAt": "2026-03-17T18:51:37.891Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dtDwzu8UEsc",
-            "name": "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "o78erw0v9ho",
-            "name": "🔴LIVE :IranWar | Dubai | UAE | AirStrike | Trump | துபாயை நிலைகுலைய விட்ட ஈரான்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lynD-kMhVZU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | अब युद्ध रुकेगा या और ज्यादा बम बरसेंगे? | Iran Israel War",
+            "videoId": "NHGIr677iF4",
+            "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "qKlPM43hYLg",
-            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (17.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "JSKlZLzTSCc",
+            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "moUV97DYSrA",
-            "name": "Pakistan Afghanistan War Live | Kabul Hospital Attack | Explosions In Rawalpindi, Taliban's Revenge?",
-            "artist": "CRUX"
+            "videoId": "opclCIkWtBU",
+            "name": "LIVE: Iran Hits US Embassy in Iraq and UAE's Fujairah Port | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "ndHYnU-6UvQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World "
+            "videoId": "hFSGWnJEEmo",
+            "name": "LIVE: President Trump holds bilateral meeting with prime minister of Ireland",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ng2eVvtve-o",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 17 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yBa_t1sSGuI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_mx-BWYepww",
+            "name": "US Breaking News LIVE: Top US Intel Officer Resigns Over Iran War | Trump Faces Internal Revolt",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
