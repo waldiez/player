@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T075012.852Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260317T084206.271Z-l4t35t"
   type: "state"
-  created: "2026-03-17T07:50:12.852Z"
+  created: "2026-03-17T08:42:06.271Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T075012.852Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T084206.271Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "U8LRceBhkgE"
-        name: "Iran Israel War LIVE: ईरान का धरती फाड़बम, इजरायल-अमेरिका खत्म!, हलचल तेज! | Khamenei | Breaking"
+        videoId: "erebSkz_r88"
+        name: "Debate With Arnab LIVE: Trump Isolated On Hormuz Coalition?"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u0YwrSSBp10"
+        name: "Iran America War News: ईरान-अमेरिका जंग, 17 मार्च 2026 | America | Trump Vs Mojtaba Khamenei"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "raBqCTWLn6o"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "Times Now"
+        videoId: "jtB0L35hsbM"
+        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ১৭ মার্চ ২০২৬ | Somoy TV Bulletin 9am | Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0ieTTdbbGH4"
-        name: "US Iran War LIVE: Drones, Rockets Attack US embassy in Baghdad | Trump vs Iran | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1coOTuplbCQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1EuwbS3XRcY"
-        name: "News Ki Pathshala Live : Trump की निकल गई हेकड़ी.. तो HELP-HELP चिल्लाने लगे ! | World News | Iran"
+        videoId: "No9OZ8paeeo"
+        name: "Pakistan Afghanistan War News Live : पाकिस्तान के हमले से दहला अफगानिस्तान ! | Breaking News | Kabul"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nOOeWA3UIVQ"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hnb07ccH46I"
-        name: "🔴LIVE: Tvk Vijay | யாருடன் கூட்டணி..? - இறுதி முடிவை அறிவித்த விஜய்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Gi17_7bNl30"
-        name: "Iran Israel War Update LIVE: ईरान-इजरायल और अमेरिका युद्ध पर बड़ी खबर | America | Trump | Mojtaba"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Yr2aG2o0as4"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jhWaM-y777M"
-        name: "World News | Sushant Sinha: News Ki Pathshala में देखिए Netanyahu Dead Or Alive का सच|Iran Vs Israel"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iOmtxPLKk8k"
-        name: "Iran Israel War LIVE  युद्ध के 18वें दिन, भयंकर तबाही! | Netanyahu | Trump | Khamenei | World War"
-        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T07:50:12.852Z"
+  exported_at: "2026-03-17T08:42:06.271Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T07:50:12.810Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-17T08:42:06.232Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
