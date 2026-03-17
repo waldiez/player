@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T10:42:27.481Z",
+    "generatedAt": "2026-03-17T11:38:24.832Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "clel59TNmc4",
-            "name": "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (17.03.2026) | 4 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "mG6R6HGbU_o",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "pt4Im6TDxyo",
-            "name": "Iran Israel War News LIVE: 17 मार्च के युद्ध के सबसे ताजा हालात सीधे ईरान से LIVE! | Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "BXEqtOUc8R4",
+            "name": "🔴 LIVE: \"Iran Thanks Pakistan for Support as Missile Strikes Continue Against Israel\" - Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "erebSkz_r88",
-            "name": "Debate With Arnab LIVE: Trump Isolated On Hormuz Coalition?",
-            "artist": "Republic World"
+            "videoId": "HStyvzmfjM8",
+            "name": "News Ki Pathshala Live : Trump की ऐसी बुरी हालत.. अब China के सामने क्यों हाथ जोड़ने पड़ गए? | Iran",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "ByY2hgzYc9E",
-            "name": "কুপোকাত যুক্তরাষ্ট্র, যু'দ্ধের নিয়ন্ত্রণ পুরোপুরি ইরানের হাতে | Iran latest news today | Kalbela",
-            "artist": "Kalbela World"
+            "videoId": "pfZtDIFdWAQ",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0Mc4_0p0Jt8",
+            "name": "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_mqRGaNYMgY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026| বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hpTTR6ndRig",
+            "name": "ABC News Live Prime: Mar. 16, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
