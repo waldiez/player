@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T12:52:48.730Z",
+    "generatedAt": "2026-03-17T14:15:23.688Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "TITCuRaXFZg",
-            "name": "Iran Israel War LIVE: 17 ही दिन में अमेरिकाने तोड़ा दम!, इजरायल की ईरान ने निकाली हवा! | Attack LIVE",
-            "artist": "ABP NEWS"
+            "videoId": "yldyI5wxAoA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World "
         },
         {
             "mood": "storm",
-            "videoId": "vvy0pfFAyCE",
-            "name": "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War",
-            "artist": "News18 Urdu"
+            "videoId": "QR-emi2W86U",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "kSjYqeNkKmk",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "6HWSKokbFcY",
+            "name": "Out Of Focus Live | 17 March 2026",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "clel59TNmc4",
-            "name": "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (17.03.2026) | 6 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "IQ8bgMpqLVY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HStyvzmfjM8",
+            "name": "News Ki Pathshala Live : Trump की ऐसी बुरी हालत.. अब China के सामने क्यों हाथ जोड़ने पड़ गए? | Iran",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4KABVpjXo5I",
+            "name": "Top Iranian Leader Targeted? Israel Makes Big Claim |  2PM Headlines Geo News (17 march 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M2Te3z2R3Po",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
