@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T14:15:23.688Z",
+    "generatedAt": "2026-03-17T15:57:48.420Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yldyI5wxAoA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World "
+            "videoId": "yRgoEvUbuGw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "QR-emi2W86U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "pfZtDIFdWAQ",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "6HWSKokbFcY",
-            "name": "Out Of Focus Live | 17 March 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "F6JIMCNH0oc",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "IQ8bgMpqLVY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "fbJ06OeAlk0",
+            "name": "Superfast News LIVE: आज की बड़ी खबरें फटाफट अंदाज में देखिए | Iran US-Israel War | Trump | Breaking",
+            "artist": "Aaj Tak"
         },
         {
             "mood": "storm",
-            "videoId": "HStyvzmfjM8",
-            "name": "News Ki Pathshala Live : Trump की ऐसी बुरी हालत.. अब China के सामने क्यों हाथ जोड़ने पड़ गए? | Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "qB0DNe5Q_cs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "4KABVpjXo5I",
-            "name": "Top Iranian Leader Targeted? Israel Makes Big Claim |  2PM Headlines Geo News (17 march 2026)",
-            "artist": "Geo News"
+            "videoId": "hD4aXLALAcY",
+            "name": "Today's Morning News LIVE: LPG Ship Shivalik | Nanda Devi | Israel Iran War | Mojtaba Khamenei",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "M2Te3z2R3Po",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "vvy0pfFAyCE",
+            "name": "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Tw1lnubaFKg",
+            "name": "US Iran War LIVE: Iran's \"Dancing Missile\" Enters West Asia War for the First Time | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bU4hQnJUeYo",
+            "name": "Goonj with Rubika Liyaquat LIVE: Pakistan-Afghanistan War | Saudi Arab | UAE | Iran Israel War News",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mG6R6HGbU_o",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         }
     ],
     "sourceFilters": {
