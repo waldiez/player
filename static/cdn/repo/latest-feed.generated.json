@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-17T05:53:53.389Z",
+    "generatedAt": "2026-03-17T06:54:51.866Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "w9rgZC9IPmI",
-            "name": "🔴LIVE: pakistan attack afghanistan | காதை கிழிக்கும் குண்டு சத்தம்! - உலகின் அடுத்த பெரும் பதற்றம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nOOeWA3UIVQ",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 17.03.2026 | Today News | Latest News | Ajker News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oswFQ24X0pY",
-            "name": "Pakistan Airstrike on Kabul News LIVE: आधी रात पाकिस्तान की काबुल पर एयरस्ट्राइक, एक और युद्ध शुरू!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Yr2aG2o0as4",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NkN0Yi2nKKE",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tjhYKDYZArg",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 16, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5_OVcPnaDiw",
-            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "A5yHhiCT5VY",
-            "name": "Thunderstorms likely in the country from today to March 25 | Headlines Geo News 6 AM | 17 Mar 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tYTdOkmMQgg",
-            "name": "News Ki Pathshala Live : ईरान का बदला, ट्रंप के उड़े होश ? | World News | Iran America War update",
+            "videoId": "No9OZ8paeeo",
+            "name": "Pakistan Afghanistan War News Live : पाकिस्तान के हमले से दहला अफगानिस्तान ! | Breaking News | Kabul",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rlDAloxtyZ0",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PFKOYWG4hmc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bI7Pdd4vuOs",
+            "name": "LIVE: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G463-kJLfp8",
+            "name": "Iran War LIVE: IRAN UNLEASHES ‘HELLFIRE’ On Israel | Jerusalem Quakes Under Iranian Storm | Tehran",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xgkm6vEHWV0",
+            "name": "Iran War Day 17 LIVE: Israel Bombs Tehran, Oil Surges, Trump \"Not Sure\" on Peace Deal",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8GqurNCiMxE",
+            "name": "US Iran War LIVE: Day 17 of West Asia War | Strait of Hormuz | Israel | Dubai Airport | Trump",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
