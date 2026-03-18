@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260318T222559.179Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260318T232512.483Z-l4t35t"
   type: "state"
-  created: "2026-03-18T22:25:59.179Z"
+  created: "2026-03-18T23:25:12.483Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T222559.179Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T232512.483Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JPAuOGB6UdQ"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "ofQ-b5P99p8"
+        name: "🔴LIVE :IranWar | Trump | Mojtaba Khamenei | ஈரான் போரில் திடீர் திருப்பம்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IqgMDKCGVqQ"
-        name: "Trump LIVE: Trump Makes Shocking National Emergency Statement | Latest Updates | Donald Trump Speech"
-        artist: "MIRROR NOW"
+        videoId: "kgxhecLopAI"
+        name: "JUST IN: Iran's supreme leader issues NEW statement after intel chief killed"
+        artist: "Fox News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jXB2vaqYdk0"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 18.03.2026 | Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "wyyWHSTfqBY"
+        name: "Iran says its facilities on the world’s largest natural gas field attacked | BBC News"
+        artist: "BBC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bJ5diS4RwVc"
-        name: "News Ki Pathshala Live : Iran के धमाके से ट्रंप के उड़े होश ! | World News | Iran America War |Trump"
-        artist: "Times Now Navbharat"
+        videoId: "kUkhRWZfvmA"
+        name: "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i3K1Is8EU98"
+        name: "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather | Latest News | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DAvdiDRj-AU"
+        name: "🔴LIVE : News 1st: Prime Time Sinhala News - 10 PM | 18.03.2026 රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M8aiWiZm31Q"
+        name: "🔴LIVE: Isreal Iran War | குலை நடுங்க வைத்த இஸ்ரேல்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DXC7d-DbpAE"
+        name: "LIVE: Iran's Largest Gas Field Hit, Cluster Bombs Rain On Israel |Vantage with Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cMbBohzyPUs"
+        name: "IRAN-ISRAEL WAR: Iran Unleashes New Barrage Of Cluster Bombs Targeting Israeli Cities | US-Iran War"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PDfsLLNoisA"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जंग के जख्म मिटाएगा भारत? | Iran Israel US"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-18T22:25:59.179Z"
+  exported_at: "2026-03-18T23:25:12.483Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-18T22:25:59.140Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-18T23:25:12.444Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
