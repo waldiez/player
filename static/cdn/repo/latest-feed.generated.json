@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T11:39:44.266Z",
+    "generatedAt": "2026-03-18T12:52:34.851Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tbZaGlkIrqM",
+            "videoId": "cNNt7TRqB8I",
+            "name": "US-Iran War LIVE: Gulf Under Fire! Explosions Rock Dubai, Qatar As War Escalates | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wgFsmCaeBNY",
+            "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "e7dQOBdy8RI",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World "
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "UBdwT7lNimU",
-            "name": "LIVE: Iran Hits US Embassy in Iraq and UAE's Fujairah Port | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "jUaeRkvJzFw",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (18.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "KRlEG5zhNUQ",
-            "name": "IRAN WAR LATEST NEWS LIVE | “We Will Find Him” – Israel’s Warning Shakes Iran | Mojtaba Khamenei",
-            "artist": "CNN-News18"
+            "videoId": "gc4CGgAVmuI",
+            "name": "🔴 LIVE: War intensifies! Iranian Supreme Leader's Categorical Announcement | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "tMc28kD4xkE",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 18.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "Vhv_DyLHd6w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |18 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "J_o2-6ExJ9Y",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "aBecqtQErV8",
+            "name": "ईरान-अमेरिका जंग |18 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "cV7k8XPffpY",
-            "name": "US Breaking News LIVE: Donald Trump's Stunning Claim | Donald Trump Latest Speech LIVE | Trump LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F6JIMCNH0oc",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
+            "videoId": "UVm5ovA4wBo",
+            "name": "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (18.03.2026) | 6 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
