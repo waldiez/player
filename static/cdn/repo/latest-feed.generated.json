@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T16:02:48.999Z",
+    "generatedAt": "2026-03-18T17:54:41.832Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bJ5diS4RwVc",
-            "name": "News Ki Pathshala Live : Iran के धमाके से ट्रंप के उड़े होश ! | World News | Iran America War |Trump",
+            "videoId": "ocD0z-arshw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M8aiWiZm31Q",
+            "name": "🔴LIVE: Isreal Iran War | குலை நடுங்க வைத்த இஸ்ரேல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DXC7d-DbpAE",
+            "name": "LIVE: Iran's Largest Gas Field Hit, Cluster Bombs Rain On Israel |Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CKMbR4VX71k",
+            "name": "🔴LIVE: Iran america war | போர் பதற்றமும் UAE-ன் தற்போதைய நிலையும்..",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PDfsLLNoisA",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जंग के जख्म मिटाएगा भारत? | Iran Israel US",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sbLtDnis3bw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rfRLSL8v0UU",
+            "name": "News Ki Pathshala Live | Sushant Sinha | ईरान के परमाणु बम फटने वाले हैं क्या? | Iran Israel War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "AMgWp4tNtNQ",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
+            "videoId": "xEmox3jJWmA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "UQAz4aJkWXg",
-            "name": "World News Live : अमेरिका में महंगाई का बम फटा, ट्रंप की टीम में इस्तीफे शुरू ! USA | Trump News |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m4pnRZ72GrM",
-            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | US-Iran",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bK4udSlJaOE",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cNNt7TRqB8I",
-            "name": "US-Iran War LIVE: Gulf Under Fire! Explosions Rock Dubai, Qatar As War Escalates | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tbZaGlkIrqM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World "
-        },
-        {
-            "mood": "storm",
-            "videoId": "wgFsmCaeBNY",
-            "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
-            "artist": "Times Now Navbharat"
+            "videoId": "MXVx58Y_RRI",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.03.2026 | Today News |  News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
