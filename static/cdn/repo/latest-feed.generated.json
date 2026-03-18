@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T07:01:42.562Z",
+    "generatedAt": "2026-03-18T08:38:51.074Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_mx-BWYepww",
-            "name": "US Breaking News LIVE: Top US Intel Officer Resigns Over Iran War | Trump Faces Internal Revolt",
-            "artist": "CNN-News18"
+            "videoId": "aY7MybLaYmU",
+            "name": "🔴LIVE: Iran war | America | போரில் திடீர் திருப்பம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "da9cYRD6ukw",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 18.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "UQAz4aJkWXg",
+            "name": "World News Live : अमेरिका में महंगाई का बम फटा, ट्रंप की टीम में इस्तीफे शुरू ! USA | Trump News |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "NHGIr677iF4",
+            "videoId": "zqqWapuuEYQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F6JIMCNH0oc",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "k_NVkJGWlPQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yb5kAknqO_w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wgFsmCaeBNY",
             "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "A8QmIrSrubU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Iran War के बीच Pakistan का शॉकिंग कांड! | Asim Munir",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VRwmjFVThac",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 18.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9jm_A44nOFo",
-            "name": "LIVE: Netanyahu Says Larijani Killed but Iran Silent | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RdbVLvQ_lQk",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 18 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
