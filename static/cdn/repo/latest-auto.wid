@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260318T125234.892Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260318T141810.487Z-l4t35t"
   type: "state"
-  created: "2026-03-18T12:52:34.892Z"
+  created: "2026-03-18T14:18:10.487Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T125234.892Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T141810.487Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cNNt7TRqB8I"
-        name: "US-Iran War LIVE: Gulf Under Fire! Explosions Rock Dubai, Qatar As War Escalates | WION"
+        videoId: "E_fHv8uZ8AU"
+        name: "Iran Strikes Israel LIVE: Tel Aviv Rocked By Iran Missile Barrage! War Takes Deadly Turn"
         artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wgFsmCaeBNY"
-        name: "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "e7dQOBdy8RI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jUaeRkvJzFw"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (18.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gc4CGgAVmuI"
-        name: "🔴 LIVE: War intensifies! Iranian Supreme Leader's Categorical Announcement | Geo News"
+        videoId: "yj4t4icyNBE"
+        name: "🔴LIVE: Ali Larijani Updates on Iran–Israel–US War Day 19 | Breaking News & Latest Developments"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Vhv_DyLHd6w"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |18 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "WT9PMoDSh_Y"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aBecqtQErV8"
-        name: "ईरान-अमेरिका जंग |18 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "XO8yxuPPwFY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UVm5ovA4wBo"
-        name: "🔴LIVE: Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (18.03.2026) | 6 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "WcLZw-jtG0Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qy6ZlPqYH7A"
+        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 18.03.2026 | Top News | Latest News | Breaking News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UBdwT7lNimU"
+        name: "LIVE: Iran Hits US Embassy in Iraq and UAE's Fujairah Port | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-18T12:52:34.892Z"
+  exported_at: "2026-03-18T14:18:10.487Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-18T12:52:34.851Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-18T14:18:10.448Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
