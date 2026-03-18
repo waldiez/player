@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260317T232508.302Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260318T012559.563Z-l4t35t"
   type: "state"
-  created: "2026-03-17T23:25:08.302Z"
+  created: "2026-03-18T01:25:59.563Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260317T232508.302Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T012559.563Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "LNA9CAmZ5Ps"
-        name: "Netanyahu claims to have targeted  Ali Larijani | Geo News  12 AM Geo Bulletin 18 March"
-        artist: "Geo News"
+        videoId: "UbDR8Id2XQI"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2-sahLtvAmE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "cBpUHAJyXPA"
+        name: "US Iran War LIVE: Day 18 of West Asia War | Israel Claims Iran's Gen. Ali Larijani Dead"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XObZY5iROKQ"
-        name: "🔴LIVE: Today Headlines - 17 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "izr-j3Upd-I"
+        name: "US-IRAN WAR LIVE: Trump's Big Announcement On Military Action Against Iran | Breaking News | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "clel59TNmc4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (17.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "m5MKCr8O4qg"
+        name: "Live | “ISRAEL STRIKES IRAN!” Ali Larijani Targeted As IDF Bombards Tehran | Middle East War LIVE"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_wxdKj7vtHo"
+        name: "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zg_9mcHRfsc"
+        name: "Sau Baat Ki Ek Baat with Kishore Ajwani LIVE: Pak-Afghanistan War | Middle East | Iran Israel | US"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ci7WuJgVX-4"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pL78-5cHfVc"
+        name: "LIVE: Trump Makes Shocking National Emergency Statement | Latest Updates | Donald Trump Speech"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hnb07ccH46I"
+        name: "🔴LIVE: Tvk Vijay | யாருடன் கூட்டணி..? - இறுதி முடிவை அறிவித்த விஜய்"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-17T23:25:08.302Z"
+  exported_at: "2026-03-18T01:25:59.563Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-17T23:25:08.271Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-18T01:25:59.525Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
