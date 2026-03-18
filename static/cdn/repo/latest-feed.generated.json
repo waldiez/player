@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T09:44:34.366Z",
+    "generatedAt": "2026-03-18T10:43:25.951Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hms_cQbj9l4",
-            "name": "Iran Israel War: Iran Missiles Light Up Tel Aviv Sky As Israel Intercepts | Israel Iran War | N18G",
+            "videoId": "jUaeRkvJzFw",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (18.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gc4CGgAVmuI",
+            "name": "🔴 LIVE: War intensifies! Iranian Supreme Leader's Categorical Announcement | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Vhv_DyLHd6w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |18 Mar'2026  | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-PqJTwt-Nsw",
+            "name": "Iran Attack Dubai Live | Major fire breaks out at Dubai International Airport after drone strike",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "KRlEG5zhNUQ",
-            "name": "IRAN WAR LATEST NEWS LIVE | “We Will Find Him” – Israel’s Warning Shakes Iran | Mojtaba Khamenei",
-            "artist": "CNN-News18"
+            "videoId": "kUkhRWZfvmA",
+            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "J_o2-6ExJ9Y",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "UVm5ovA4wBo",
+            "name": "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (18.03.2026) | 4 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "cV7k8XPffpY",
-            "name": "US Breaking News LIVE: Donald Trump's Stunning Claim | Donald Trump Latest Speech LIVE | Trump LIVE",
-            "artist": "ET Now"
+            "videoId": "YREH7WBw2IY",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 18 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "jlADWyg0oXo",
-            "name": "IRAN-ISRAEL WAR LIVE: Iranian Missile Waves Strike North, Central And Southern Cities In Danger",
-            "artist": "Times Now World"
+            "videoId": "aY7MybLaYmU",
+            "name": "🔴LIVE: Iran war | America | போரில் திடீர் திருப்பம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UQAz4aJkWXg",
+            "name": "World News Live : अमेरिका में महंगाई का बम फटा, ट्रंप की टीम में इस्तीफे शुरू ! USA | Trump News |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
