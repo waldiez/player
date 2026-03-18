@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T08:38:51.074Z",
+    "generatedAt": "2026-03-18T09:44:34.366Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aY7MybLaYmU",
-            "name": "🔴LIVE: Iran war | America | போரில் திடீர் திருப்பம்",
-            "artist": "Sathiyam News"
+            "videoId": "hms_cQbj9l4",
+            "name": "Iran Israel War: Iran Missiles Light Up Tel Aviv Sky As Israel Intercepts | Israel Iran War | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "UQAz4aJkWXg",
-            "name": "World News Live : अमेरिका में महंगाई का बम फटा, ट्रंप की टीम में इस्तीफे शुरू ! USA | Trump News |",
-            "artist": "Times Now Navbharat"
+            "videoId": "KRlEG5zhNUQ",
+            "name": "IRAN WAR LATEST NEWS LIVE | “We Will Find Him” – Israel’s Warning Shakes Iran | Mojtaba Khamenei",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "zqqWapuuEYQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "J_o2-6ExJ9Y",
+            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "F6JIMCNH0oc",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "videoId": "cV7k8XPffpY",
+            "name": "US Breaking News LIVE: Donald Trump's Stunning Claim | Donald Trump Latest Speech LIVE | Trump LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jlADWyg0oXo",
+            "name": "IRAN-ISRAEL WAR LIVE: Iranian Missile Waves Strike North, Central And Southern Cities In Danger",
             "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k_NVkJGWlPQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yb5kAknqO_w",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wgFsmCaeBNY",
-            "name": "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News",
-            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
