@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260318T055751.740Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260318T070142.603Z-l4t35t"
   type: "state"
-  created: "2026-03-18T05:57:51.740Z"
+  created: "2026-03-18T07:01:42.603Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T055751.740Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260318T070142.603Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QjqkAfP5hX8"
-        name: "Ali Larijani Death News Live : लारिजानी की मौत के बाद भयंकर तबाही शुरू ! | Israel Attack Iran Live"
+        videoId: "_mx-BWYepww"
+        name: "US Breaking News LIVE: Top US Intel Officer Resigns Over Iran War | Trump Faces Internal Revolt"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "da9cYRD6ukw"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 18.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NHGIr677iF4"
+        name: "World News Live | News Ki Pathshala | Iran पर सबसे घातक हमले के बीच Trump ने क्या कहा? ! | War News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7AkEpq5VfIQ"
-        name: "Iran Us Israel War Live : युद्ध का 19वां दिन, भयंकर तबाही ! | iran us war | israel and iran war|News"
+        videoId: "A8QmIrSrubU"
+        name: "News Ki Pathshala Live | Sushant Sinha | Iran War के बीच Pakistan का शॉकिंग कांड! | Asim Munir"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "963PJhne7ZE"
-        name: "Ali Larijani Death News | News Ki Pathshala | Sushant Sinha | World News: Iran ने Trump उड़ाया मज़ाक"
-        artist: "Times Now Navbharat"
+        videoId: "VRwmjFVThac"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 18.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ikmvkrd1WQc"
-        name: "Top 100 News | Israel Iran War | US Iran War | 18 March | World News | Breaking News | Top News"
-        artist: "Times Now Navbharat"
+        videoId: "9jm_A44nOFo"
+        name: "LIVE: Netanyahu Says Larijani Killed but Iran Silent | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g7U9THd5d1M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Festival Update"
+        videoId: "RdbVLvQ_lQk"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 18 Mar'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-18T05:57:51.740Z"
+  exported_at: "2026-03-18T07:01:42.603Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-18T05:57:51.701Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-18T07:01:42.562Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
