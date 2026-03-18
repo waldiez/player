@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T01:25:59.525Z",
+    "generatedAt": "2026-03-18T04:16:44.717Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UbDR8Id2XQI",
+            "videoId": "AHDYgdOJfm0",
+            "name": "Iran Israel War: खाली होने लगा ईरान? | World War 3 | Trump | Attack LIVE | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UPqEbz8icUY",
+            "name": "🔴LIVE: Trump | Isreal Iran war | டிரம்புக்கு அடுத்தடுத்து அதிர்ச்சி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7RFy3KoL0fA",
+            "name": "US Iran War LIVE: Viral Video Shows Dubai Airport “On Fire” | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "k4UH3qb4s78",
+            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pt4Im6TDxyo",
+            "name": "Iran Israel War News: 17 मार्च के युद्ध के सबसे ताजा हालात सीधे ईरान से LIVE! | Khamenei",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pZsZd8NYbJA",
+            "name": "LIVE: Israel Claims Iran's Top Leader Larijani Killed; UAE Port Hit | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "r5GEtHiyd2k",
             "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
             "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "cBpUHAJyXPA",
-            "name": "US Iran War LIVE: Day 18 of West Asia War | Israel Claims Iran's Gen. Ali Larijani Dead",
-            "artist": "Firstpost"
+            "videoId": "-trHrO1cfXI",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 17, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "izr-j3Upd-I",
-            "name": "US-IRAN WAR LIVE: Trump's Big Announcement On Military Action Against Iran | Breaking News | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m5MKCr8O4qg",
-            "name": "Live | “ISRAEL STRIKES IRAN!” Ali Larijani Targeted As IDF Bombards Tehran | Middle East War LIVE",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_wxdKj7vtHo",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zg_9mcHRfsc",
-            "name": "Sau Baat Ki Ek Baat with Kishore Ajwani LIVE: Pak-Afghanistan War | Middle East | Iran Israel | US",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ci7WuJgVX-4",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "videoId": "oMzxi_Fc0Fs",
+            "name": "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "pL78-5cHfVc",
-            "name": "LIVE: Trump Makes Shocking National Emergency Statement | Latest Updates | Donald Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hnb07ccH46I",
-            "name": "🔴LIVE: Tvk Vijay | யாருடன் கூட்டணி..? - இறுதி முடிவை அறிவித்த விஜய்",
-            "artist": "Sathiyam News"
+            "videoId": "0Mc4_0p0Jt8",
+            "name": "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
