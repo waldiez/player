@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T04:16:44.717Z",
+    "generatedAt": "2026-03-18T05:57:51.701Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AHDYgdOJfm0",
-            "name": "Iran Israel War: खाली होने लगा ईरान? | World War 3 | Trump | Attack LIVE | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UPqEbz8icUY",
-            "name": "🔴LIVE: Trump | Isreal Iran war | டிரம்புக்கு அடுத்தடுத்து அதிர்ச்சி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7RFy3KoL0fA",
-            "name": "US Iran War LIVE: Viral Video Shows Dubai Airport “On Fire” | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k4UH3qb4s78",
-            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pt4Im6TDxyo",
-            "name": "Iran Israel War News: 17 मार्च के युद्ध के सबसे ताजा हालात सीधे ईरान से LIVE! | Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pZsZd8NYbJA",
-            "name": "LIVE: Israel Claims Iran's Top Leader Larijani Killed; UAE Port Hit | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "r5GEtHiyd2k",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-trHrO1cfXI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 17, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oMzxi_Fc0Fs",
-            "name": "Kabul News LIVE | 400 Killed In Alleged Pakistan Airstrike On Kabul Hospital: Taliban | N18G | War",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0Mc4_0p0Jt8",
-            "name": "World News Live : नेतन्याहू के मौत का असली सच ! Iran News | USA | Israel | Benjamin Netanyahu |",
+            "videoId": "QjqkAfP5hX8",
+            "name": "Ali Larijani Death News Live : लारिजानी की मौत के बाद भयंकर तबाही शुरू ! | Israel Attack Iran Live",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7AkEpq5VfIQ",
+            "name": "Iran Us Israel War Live : युद्ध का 19वां दिन, भयंकर तबाही ! | iran us war | israel and iran war|News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "963PJhne7ZE",
+            "name": "Ali Larijani Death News | News Ki Pathshala | Sushant Sinha | World News: Iran ने Trump उड़ाया मज़ाक",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ikmvkrd1WQc",
+            "name": "Top 100 News | Israel Iran War | US Iran War | 18 March | World News | Breaking News | Top News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g7U9THd5d1M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
         }
     ],
     "sourceFilters": {
