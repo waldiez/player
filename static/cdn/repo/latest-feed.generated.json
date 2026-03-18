@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T17:54:41.832Z",
+    "generatedAt": "2026-03-18T18:50:08.529Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ocD0z-arshw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "kUkhRWZfvmA",
+            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "M8aiWiZm31Q",
-            "name": "🔴LIVE: Isreal Iran War | குலை நடுங்க வைத்த இஸ்ரேல்",
+            "videoId": "saHDfYAZPW8",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qrthcHLNBTY",
+            "name": "LIVE | US Deploys 2,500 Marines To Strait Of Hormuz Amid Attacks On Ships | Iran War News | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wuaX-rqVMao",
+            "name": "🔴LIVE: Trump | India | இந்தியர்களுக்கு டிரம்ப் அறிவித்த மெகா சலுகை",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "DXC7d-DbpAE",
-            "name": "LIVE: Iran's Largest Gas Field Hit, Cluster Bombs Rain On Israel |Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "jXB2vaqYdk0",
+            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 18.03.2026 | Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "CKMbR4VX71k",
-            "name": "🔴LIVE: Iran america war | போர் பதற்றமும் UAE-ன் தற்போதைய நிலையும்..",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PDfsLLNoisA",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जंग के जख्म मिटाएगा भारत? | Iran Israel US",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sbLtDnis3bw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rfRLSL8v0UU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | ईरान के परमाणु बम फटने वाले हैं क्या? | Iran Israel War",
+            "videoId": "bJ5diS4RwVc",
+            "name": "News Ki Pathshala Live : Iran के धमाके से ट्रंप के उड़े होश ! | World News | Iran America War |Trump",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "xEmox3jJWmA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MXVx58Y_RRI",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.03.2026 | Today News |  News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "UQAz4aJkWXg",
+            "name": "World News Live : अमेरिका में महंगाई का बम फटा, ट्रंप की टीम में इस्तीफे शुरू ! USA | Trump News |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
