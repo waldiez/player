@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-18T23:25:12.444Z",
+    "generatedAt": "2026-03-19T01:26:12.478Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ofQ-b5P99p8",
-            "name": "🔴LIVE :IranWar | Trump | Mojtaba Khamenei | ஈரான் போரில் திடீர் திருப்பம்",
+            "videoId": "tmI-4Qpw_QI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bh6Oji0ukh4",
+            "name": "LIVE | US Deploys 2,500 Marines To Strait Of Hormuz Amid Attacks On Ships | Iran War News | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AfBqRFDb_mc",
+            "name": "Iran-Israel War Live | Missile Sets Ship On Fire In Hormuz As Strait Crisis Escalates Amid Iran War",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pWwcdZ9Q_o8",
+            "name": "US & Israel Not Ready For Iran? | LIVE: Iran Drops Bombshell — We Haven’t Used Our Best Weapons Yet",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qiPGahesV0c",
+            "name": "News Ki Pathshala Live : बौखलाए ट्रंप ने ईरान में लारिजानी को मार दिया ! | Ali Larijani Death News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2CIh_vPZ55U",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Insight World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TOQ-GOcCvi0",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 19 March 2026 | NTV Latest News Update",
+            "artist": "NTV News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UVm5ovA4wBo",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (18.03.2026) | 11 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "kgxhecLopAI",
-            "name": "JUST IN: Iran's supreme leader issues NEW statement after intel chief killed",
-            "artist": "Fox News"
+            "videoId": "IqgMDKCGVqQ",
+            "name": "Trump LIVE: Trump Makes Shocking National Emergency Statement | Latest Updates | Donald Trump Speech",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "wyyWHSTfqBY",
-            "name": "Iran says its facilities on the world’s largest natural gas field attacked | BBC News",
-            "artist": "BBC News"
+            "videoId": "JKaiYrSdAMc",
+            "name": "China In World War 3 Live: China की चाल से चौंके Donald Trump! शुरू होने वाला है World War 3?",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "kUkhRWZfvmA",
-            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i3K1Is8EU98",
-            "name": "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather | Latest News | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DAvdiDRj-AU",
-            "name": "🔴LIVE : News 1st: Prime Time Sinhala News - 10 PM | 18.03.2026 රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M8aiWiZm31Q",
-            "name": "🔴LIVE: Isreal Iran War | குலை நடுங்க வைத்த இஸ்ரேல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DXC7d-DbpAE",
-            "name": "LIVE: Iran's Largest Gas Field Hit, Cluster Bombs Rain On Israel |Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cMbBohzyPUs",
-            "name": "IRAN-ISRAEL WAR: Iran Unleashes New Barrage Of Cluster Bombs Targeting Israeli Cities | US-Iran War",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PDfsLLNoisA",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जंग के जख्म मिटाएगा भारत? | Iran Israel US",
-            "artist": "NDTV India"
+            "videoId": "VIgCJD7bYrU",
+            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
