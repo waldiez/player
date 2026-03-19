@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T04:15:32.306Z",
+    "generatedAt": "2026-03-19T05:53:41.853Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bHjyoNXt0cY",
-            "name": "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G",
-            "artist": "Firstpost"
+            "videoId": "ocD0z-arshw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "hjQp9dUm3-o",
-            "name": "ABC News Live Prime: March 18, 2026",
-            "artist": "ABC News"
+            "videoId": "9o6qME2ssck",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "dTQ9Q-uJfL4",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ypuROdl0yrs",
-            "name": "WORLD NEWS LIVE: US Forces Brace As Iran Fires Hypersonic Missiles | Breaking News | US-Iran War",
+            "videoId": "2UomJR5DWeI",
+            "name": "LIVE | Putin’s Emergency Address Triggers Global Alarm As World War Three Fears Surge  | US-Iran War",
             "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gdSANEoHG7A",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 18, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vVsLYH-vCrg",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7aB4CDKN-Y0",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XqzjVuD3er8",
-            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FAYNjE0jcUU",
-            "name": "Iran Israel War News: युद्ध के 19वें दिन Trump को Kim Jong की धमकी! | America | Netanyahu",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UqZu4qKrxfY",
-            "name": "Seedha Sawal: नेतन्याहू के 'जाल' में ट्रंप, भारत में हड़कंप| Sandeep Chaudhary |Iran Israel War",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zbDY5M8rHjw",
-            "name": "ईरान-अमेरिका जंग 19 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WeKO8AtW17s",
-            "name": "Today's Headlines | 19 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
