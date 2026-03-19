@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T19:41:29.457Z",
+    "generatedAt": "2026-03-19T20:28:44.321Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "97yWyz3opLo",
-            "name": "🔴LIVE : Gold Price | 'மீண்டும் மீண்டும்..' - ஒரே நாளில் அடியோடு குறைந்த தங்கம்",
+            "videoId": "uK0gKZ2ZmvM",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (19.03.2026) | 11 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "VoODQFGaHYk",
-            "name": "Iran Attacks Dubai News LIVE | Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE | Dubai News",
-            "artist": "India Today"
+            "videoId": "j720qhHqGiQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "ffiiuCEp1PU",
-            "name": "🔴LIVE: Today Headlines - 19 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "vMQg4VmAYag",
+            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "j32PYvY-wcA",
-            "name": "Iran Attacks Saudi Arabia LIVE: 4 BALLISTIC Missiles BLOW Oil Facility in Riyadh | Trump FURIOUS",
-            "artist": "Oneindia News"
+            "videoId": "xCV0h3pNaqg",
+            "name": "Middle East War Escalates | Iran Strikes Gas Fields | Qatar Hit in Retaliation Attacks :🔴LIVE",
+            "artist": "ETV Andhra Pradesh"
         },
         {
             "mood": "storm",
-            "videoId": "vYDA7HZj5mI",
-            "name": "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G",
+            "videoId": "2i60xmcv9qQ",
+            "name": "🔴LIVE :Vilathikulam |  \"கைது’’ - விளாத்திகுளம் மாணவி படுகொலையில் எதிர்பாரா திருப்பம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6MK5hbE_qGw",
+            "name": "Debate With Arnab LIVE: Energy Crisis Hits Hard As World Markets Tank | Iran War",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "smOvYB0s-hA",
+            "name": "Trump Weighs Sending \"Thousands of US Troops\" to West Asia | Vantage with Palki Sharma",
             "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "megh1YRmvKs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
         }
     ],
     "sourceFilters": {

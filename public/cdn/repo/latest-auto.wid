@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260319T194129.496Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260319T202844.360Z-l4t35t"
   type: "state"
-  created: "2026-03-19T19:41:29.496Z"
+  created: "2026-03-19T20:28:44.360Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T194129.496Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T202844.360Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "97yWyz3opLo"
-        name: "🔴LIVE : Gold Price | 'மீண்டும் மீண்டும்..' - ஒரே நாளில் அடியோடு குறைந்த தங்கம்"
+        videoId: "uK0gKZ2ZmvM"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (19.03.2026) | 11 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VoODQFGaHYk"
-        name: "Iran Attacks Dubai News LIVE | Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE | Dubai News"
-        artist: "India Today"
+        videoId: "j720qhHqGiQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ffiiuCEp1PU"
-        name: "🔴LIVE: Today Headlines - 19 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "vMQg4VmAYag"
+        name: "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j32PYvY-wcA"
-        name: "Iran Attacks Saudi Arabia LIVE: 4 BALLISTIC Missiles BLOW Oil Facility in Riyadh | Trump FURIOUS"
-        artist: "Oneindia News"
+        videoId: "xCV0h3pNaqg"
+        name: "Middle East War Escalates | Iran Strikes Gas Fields | Qatar Hit in Retaliation Attacks :🔴LIVE"
+        artist: "ETV Andhra Pradesh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vYDA7HZj5mI"
-        name: "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G"
+        videoId: "2i60xmcv9qQ"
+        name: "🔴LIVE :Vilathikulam |  \"கைது’’ - விளாத்திகுளம் மாணவி படுகொலையில் எதிர்பாரா திருப்பம்"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6MK5hbE_qGw"
+        name: "Debate With Arnab LIVE: Energy Crisis Hits Hard As World Markets Tank | Iran War"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "smOvYB0s-hA"
+        name: "Trump Weighs Sending \"Thousands of US Troops\" to West Asia | Vantage with Palki Sharma"
         artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "megh1YRmvKs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC বাংলা NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-19T19:41:29.496Z"
+  exported_at: "2026-03-19T20:28:44.360Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-19T19:41:29.457Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-19T20:28:44.321Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
