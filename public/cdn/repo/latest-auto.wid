@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260319T055341.892Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260319T065020.701Z-l4t35t"
   type: "state"
-  created: "2026-03-19T05:53:41.892Z"
+  created: "2026-03-19T06:50:20.701Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T055341.892Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T065020.701Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ocD0z-arshw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "3ggmGQ5AuEE"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 10 March 2026 || World News Bangla |"
+        artist: "ABC NEWS 72"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9o6qME2ssck"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "AfpmX1vXC-E"
+        name: "Big Attack | New Update | Iran‑Israel War | 9 AM Headlines | Pakistan News"
+        artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2UomJR5DWeI"
-        name: "LIVE | Putin’s Emergency Address Triggers Global Alarm As World War Three Fears Surge  | US-Iran War"
+        videoId: "bHjyoNXt0cY"
+        name: "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hjQp9dUm3-o"
+        name: "ABC News Live Prime: March 18, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dTQ9Q-uJfL4"
+        name: "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ypuROdl0yrs"
+        name: "WORLD NEWS LIVE: US Forces Brace As Iran Fires Hypersonic Missiles | Breaking News | US-Iran War"
         artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gdSANEoHG7A"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 18, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vVsLYH-vCrg"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-19T05:53:41.892Z"
+  exported_at: "2026-03-19T06:50:20.701Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-19T05:53:41.853Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-19T06:50:20.659Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
