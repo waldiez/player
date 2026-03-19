@@ -195,6 +195,12 @@ state:
           chapter: null
         - type: youtube
           ytType: video
+          videoId: aLnZ1NQm2uk
+          name: All About That Bass - Postmodern Jukebox European Tour Version
+          artist: YouTube
+          chapter: null
+        - type: youtube
+          ytType: video
           videoId: p2FSjK-OS8Q
           name: YouTube — p2FSjK-OS8Q
           artist: YouTube
@@ -457,14 +463,9 @@ state:
     journey:
       - type: youtube
         ytType: video
-        videoId: 7hHZnvjCbVw
-        name: Habits — Vintage 1930's Jazz (Haley Reinhart)
-        artist: YouTube
-        chapter: null
-      - type: youtube
-        ytType: video
-        videoId: I03xFqbxUp8
-        name: Thom Yorke - Last I Heard (…He Was Circling The Drain)
+        videoId: UngXu2zwF9E
+        name: Don&#39;t Stop Believin&#39; - Journey (ONE TAKE Vintage Postmodern
+          Jukebox Cover)
         artist: YouTube
         chapter: null
       - type: youtube
@@ -483,6 +484,18 @@ state:
         ytType: video
         videoId: qt-ohn5C3kU
         name: Thom Yorke Boiler Room London DJ set
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: 7hHZnvjCbVw
+        name: Habits — Vintage 1930's Jazz (Haley Reinhart)
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: aLnZ1NQm2uk
+        name: All About That Bass - Postmodern Jukebox European Tour Version
         artist: YouTube
         chapter: null
       - type: youtube
@@ -509,6 +522,12 @@ state:
         videoId: RgKAFK5djSk
         name: Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7
           Soundtrack
+        artist: YouTube
+        chapter: null
+      - type: youtube
+        ytType: video
+        videoId: DyDfgMOUjCI
+        name: Billie Eilish - bad guy
         artist: YouTube
         chapter: null
   moodCustomizations: {}
