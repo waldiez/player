@@ -15,8 +15,8 @@
 
 ## Player Manifest
 
-- Manifest file: [`MANIFEST`](/Users/laztoum/Projects/waldiez/player/MANIFEST)
-- Schema file: [`schemas/waldiez-manifest.schema.json`](/Users/laztoum/Projects/waldiez/player/schemas/waldiez-manifest.schema.json)
+- Manifest file: [`MANIFEST`][~/Projects/waldiez/player/MANIFEST]
+- Schema file: [`schemas/waldiez-manifest.schema.json`](~/Projects/waldiez/player/schemas/waldiez-manifest.schema.json)
 
 ## URI Shape (Draft)
 
