@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T09:36:06.394Z",
+    "generatedAt": "2026-03-19T10:32:39.027Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AbkO5Gm3DkA",
-            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
-            "artist": "Times Now"
+            "videoId": "BXoA_U3yY9M",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (19.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "Cw6DeAkJS0k",
-            "name": "🔴LIVE: Iran’s Missile Attack on U.S and Israel | World War Started? | Iran Israel War Latest Updates",
-            "artist": "Public News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qGbAWAqv1hw",
-            "name": "RUSSIA WARNS US LIVE | Will Trump Listen? Russia's Stern Message on Iran Military Action",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uStxXbFpjTg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LTvDQA4Fxp4",
-            "name": "News Ki Pathshala Live : Larijani की मौत का बदला लेने के लिए ईरान ने क्या गजब कर दिया? | Iran Israel",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ocD0z-arshw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "WOIaedHy11Y",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "KhvC7WdcLDw",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "cM9NxUruR0U",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lHi-1O2hN8E",
+            "name": "🟢America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell onCentral Israel | US",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JBAdcNjqZh8",
+            "name": "Trump threatens to blow up the world's largest gas field | Sky News coverage and analysis",
+            "artist": "Sky News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MC-XqRJxmRg",
+            "name": "🔴LIVE: Iran War | ஈரான் போரால் நடக்கும் மாற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_5sHqvg0ZVs",
+            "name": "News Ki Pathshala Live : Iran के परमाणु बम फटने वाले हैं क्या ? | Iran Israel War |Trump |World News",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
