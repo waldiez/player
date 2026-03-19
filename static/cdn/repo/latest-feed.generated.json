@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T10:32:39.027Z",
+    "generatedAt": "2026-03-19T11:29:35.180Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BXoA_U3yY9M",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (19.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WOIaedHy11Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cM9NxUruR0U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lHi-1O2hN8E",
-            "name": "🟢America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell onCentral Israel | US",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JBAdcNjqZh8",
-            "name": "Trump threatens to blow up the world's largest gas field | Sky News coverage and analysis",
-            "artist": "Sky News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MC-XqRJxmRg",
-            "name": "🔴LIVE: Iran War | ஈரான் போரால் நடக்கும் மாற்றம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_5sHqvg0ZVs",
-            "name": "News Ki Pathshala Live : Iran के परमाणु बम फटने वाले हैं क्या ? | Iran Israel War |Trump |World News",
+            "videoId": "YDO7ZYzM2Ng",
+            "name": "News Ki Pathshala Live : Iran  ने क्या भयंकर बदला ले लिया? | Iran Israel War | Trump | World News",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nWMYb1oN9tU",
+            "name": "ईरान-अमेरिका जंग 19  मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3LXM_gA7QRU",
+            "name": "Iran America War LIVE : युद्ध के मैदान से सीधा LIVE |  Iran Israel War | Trump | Missile Attack",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AbkO5Gm3DkA",
+            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FNbq3GbGBV8",
+            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WHH2UD_I8tg",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 19.03.2026 | Today News | Ajker News | Breaking News | Latest News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZAhivVKTofo",
+            "name": "China In World War 3 LIVE: Trump-Putin की एंट्री से दुनिया अलर्ट | America | Taiwan | World War 3",
+            "artist": "India News"
         }
     ],
     "sourceFilters": {
