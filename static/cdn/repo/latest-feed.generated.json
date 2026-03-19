@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T20:28:44.321Z",
+    "generatedAt": "2026-03-19T21:28:27.735Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uK0gKZ2ZmvM",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (19.03.2026) | 11 PM Headlines | ThanthiTV",
+            "videoId": "QmAyWmL6r-4",
+            "name": "LIVE 🚨 | Eid Moon Sighting 🌝 | Eid Moon Sighted in World | Eid Moon Updates | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1tVMk7ZWzK8",
+            "name": "Iran Israel War Live Update: World War 3 | Ali Khamenei | Netanyahu | Trump | Iran America War | USA",
+            "artist": "News18 UP Uttarakhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Tmj3tUv7_w",
+            "name": "LIVE | Putin’s Emergency Address Triggers Global Alarm As World War Three Fears Surge  | US-Iran War",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "97yWyz3opLo",
+            "name": "🔴LIVE : Gold Price | 'மீண்டும் மீண்டும்..' - ஒரே நாளில் அடியோடு குறைந்த தங்கம்",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "j720qhHqGiQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "VoODQFGaHYk",
+            "name": "Iran Attacks Dubai News LIVE | Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE | Dubai News",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "vMQg4VmAYag",
-            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xCV0h3pNaqg",
-            "name": "Middle East War Escalates | Iran Strikes Gas Fields | Qatar Hit in Retaliation Attacks :🔴LIVE",
-            "artist": "ETV Andhra Pradesh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2i60xmcv9qQ",
-            "name": "🔴LIVE :Vilathikulam |  \"கைது’’ - விளாத்திகுளம் மாணவி படுகொலையில் எதிர்பாரா திருப்பம்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6MK5hbE_qGw",
-            "name": "Debate With Arnab LIVE: Energy Crisis Hits Hard As World Markets Tank | Iran War",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "smOvYB0s-hA",
-            "name": "Trump Weighs Sending \"Thousands of US Troops\" to West Asia | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "ffiiuCEp1PU",
+            "name": "🔴LIVE: Today Headlines - 19 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         }
     ],
     "sourceFilters": {
