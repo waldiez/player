@@ -2,7 +2,6 @@
  * WID (Waldiez/SYNAPSE Identifier) generation and validation.
  * Format: YYYYMMDDTHHMMSS[mmm].<seqW>Z[-<scope>][-<padZ>]
  *
- * Copied from /Users/laztoum/Projects/waldiez/wid/typescript/src/wid.ts
  */
 import { type TimeUnit, timeDigits } from "./time";
 

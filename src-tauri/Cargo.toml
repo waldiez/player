@@ -2,7 +2,11 @@
 name = "waldiez-player"
 version = "0.1.0"
 description = "A video player and editor with an impressive UI"
-authors = ["Lazaros Toumanidis <laztoum@waldiez.io>"]
+authors = [
+     "Panagiotis Kasnesis <pkasnesis@waldiez.io>",
+     "Lazaros Toumanidis <laztoum@waldiez.io>",
+     "Christos Chatzigeorgiou <chrihatz@waldiez.io>",
+]
 license = "Apache-2.0"
 repository = "https://github.com/waldiez/player"
 edition = "2021"
