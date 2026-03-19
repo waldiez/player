@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T06:50:20.659Z",
+    "generatedAt": "2026-03-19T07:41:35.594Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3ggmGQ5AuEE",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 10 March 2026 || World News Bangla |",
-            "artist": "ABC NEWS 72"
+            "videoId": "LTvDQA4Fxp4",
+            "name": "News Ki Pathshala Live : Larijani की मौत का बदला लेने के लिए ईरान ने क्या गजब कर दिया? | Iran Israel",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "AfpmX1vXC-E",
-            "name": "Big Attack | New Update | Iran‑Israel War | 9 AM Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "5mYpL3clWog",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 19 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "bHjyoNXt0cY",
-            "name": "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G",
-            "artist": "Firstpost"
+            "videoId": "ocD0z-arshw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "hjQp9dUm3-o",
-            "name": "ABC News Live Prime: March 18, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dTQ9Q-uJfL4",
-            "name": "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "videoId": "7aB4CDKN-Y0",
+            "name": "🟢LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
             "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ypuROdl0yrs",
-            "name": "WORLD NEWS LIVE: US Forces Brace As Iran Fires Hypersonic Missiles | Breaking News | US-Iran War",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gdSANEoHG7A",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 18, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vVsLYH-vCrg",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
         }
     ],
     "sourceFilters": {
