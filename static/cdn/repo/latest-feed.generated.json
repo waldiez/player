@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T16:49:43.124Z",
+    "generatedAt": "2026-03-19T17:48:58.146Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hTOjwfKJ1dk",
-            "name": "Decode Live: Iran-US War | Qatar | Ras Laffan | Oil Crisis | Middle East Tension | PM Modi | Israel",
-            "artist": "DD News"
+            "videoId": "j32PYvY-wcA",
+            "name": "Iran Attacks Saudi Arabia LIVE: 4 BALLISTIC Missiles BLOW Oil Facility in Riyadh | Trump FURIOUS",
+            "artist": "Oneindia News"
         },
         {
             "mood": "storm",
-            "videoId": "smOvYB0s-hA",
-            "name": "Trump Weighs Sending \"Thousands of US Troops\" to West Asia | Vantage with Palki Sharma",
+            "videoId": "gXuVfynGDiM",
+            "name": "अरब देशों में ईरान ने लगी दी भयंकर आग LIVE| Iran Israel US | War News | World News | Top News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vYDA7HZj5mI",
+            "name": "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "hQX2BaPe-dg",
-            "name": "LIVE🔴Trump Issues New Threat to Iran | Kuwait & Saudi Refineries Under Attack",
-            "artist": "NTV"
+            "videoId": "XrJKwttVEg0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "QMm3FBZI5Q8",
-            "name": "🔴 LIVE: ইরান যু'দ্ধে চীনের ছকসহ আন্তর্জাতিক সব খবর | International News | Jugantor",
-            "artist": "Daily Jugantor"
+            "videoId": "Wq1EimYYI20",
+            "name": "🔴LIVE: Iran Attacks LPG Gas Plant | உலகிலயே மிகப்பெரிய LPG ஆலையை அடித்த ஈரான்! | Qatar | N18G",
+            "artist": "News18 Tamil Nadu"
         },
         {
             "mood": "storm",
-            "videoId": "9o6qME2ssck",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "CLranN1CulI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "HdKTlfOm9mo",
-            "name": "Out Of Focus Live | 19 March 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "_whnbeFqii4",
+            "name": "News Ki Pathshala Live | Sushant Sinha | भारत पर कितना असर.. PM Modi का प्लान क्या?| Iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "0WhmTQj6_bk",
-            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | Situation Out of Control",
-            "artist": "SAMAA TV"
+            "videoId": "6SC2TCrz3Pw",
+            "name": "America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell on Central Israel | US",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YO5CGg7ybcA",
+            "name": "Iran USA Israel LIVE | Iran Hits Qatar Gas Field & Saudi Depot, UAE Halts Operations | Iran War News",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RjGtpuNru3w",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
         }
     ],
     "sourceFilters": {
