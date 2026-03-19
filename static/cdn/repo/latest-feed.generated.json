@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-19T07:41:35.594Z",
+    "generatedAt": "2026-03-19T08:33:30.325Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LTvDQA4Fxp4",
-            "name": "News Ki Pathshala Live : Larijani की मौत का बदला लेने के लिए ईरान ने क्या गजब कर दिया? | Iran Israel",
+            "videoId": "_5sHqvg0ZVs",
+            "name": "News Ki Pathshala Live : Iran के परमाणु बम फटने वाले हैं क्या ? | Iran Israel War |Trump |World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "5mYpL3clWog",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 19 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "AfpmX1vXC-E",
+            "name": "Big Attack | New Update | Iran‑Israel War | 9 AM Headlines | Pakistan News",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "ocD0z-arshw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "bHjyoNXt0cY",
+            "name": "LIVE: Iran's Largest Gas Field Attacked, Regime Threatens Gulf Oil | Vantage with Palki Sharma |N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "7aB4CDKN-Y0",
-            "name": "🟢LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "hjQp9dUm3-o",
+            "name": "ABC News Live Prime: March 18, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gdSANEoHG7A",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 18, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XqzjVuD3er8",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WeKO8AtW17s",
+            "name": "Today's Headlines | 19 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
