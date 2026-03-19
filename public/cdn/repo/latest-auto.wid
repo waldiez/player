@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260319T154444.487Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260319T164943.163Z-l4t35t"
   type: "state"
-  created: "2026-03-19T15:44:44.487Z"
+  created: "2026-03-19T16:49:43.163Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T154444.487Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T164943.163Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YO5CGg7ybcA"
-        name: "Iran USA Israel LIVE | Iran Hits Qatar Gas Field & Saudi Depot, UAE Halts Operations | Iran War News"
-        artist: "Hindustan Times"
+        videoId: "hTOjwfKJ1dk"
+        name: "Decode Live: Iran-US War | Qatar | Ras Laffan | Oil Crisis | Middle East Tension | PM Modi | Israel"
+        artist: "DD News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RjGtpuNru3w"
-        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
-        artist: "Kanak News"
+        videoId: "smOvYB0s-hA"
+        name: "Trump Weighs Sending \"Thousands of US Troops\" to West Asia | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BBrphnc3dsw"
-        name: "Iran War Live | Donald Trump's War Ends Up Costing U.S. Heavily in Troops, Weapons | US Vs Tehran"
-        artist: "Hindustan Times"
+        videoId: "hQX2BaPe-dg"
+        name: "LIVE🔴Trump Issues New Threat to Iran | Kuwait & Saudi Refineries Under Attack"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QyzArhnHHuk"
-        name: "US-IRAN WAR LIVE | Day 17 Of War: Iran Targets Dubai, Rules Out Ceasefire Talks With Trump | N18G"
-        artist: "CNN-News18"
+        videoId: "QMm3FBZI5Q8"
+        name: "🔴 LIVE: ইরান যু'দ্ধে চীনের ছকসহ আন্তর্জাতিক সব খবর | International News | Jugantor"
+        artist: "Daily Jugantor"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "E8RlcbfC-Sw"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "9o6qME2ssck"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6C7ogYD59LU"
-        name: "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G"
-        artist: "News18 Urdu"
+        videoId: "HdKTlfOm9mo"
+        name: "Out Of Focus Live | 19 March 2026"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "js251jfM-rg"
-        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
-        artist: "Times Now World"
+        videoId: "0WhmTQj6_bk"
+        name: "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | Situation Out of Control"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-19T15:44:44.487Z"
+  exported_at: "2026-03-19T16:49:43.163Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-19T15:44:44.454Z"
+  source_generated_at: "2026-03-19T16:49:43.124Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
