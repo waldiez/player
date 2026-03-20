@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T07:40:43.366Z",
+    "generatedAt": "2026-03-20T08:32:27.569Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ueGnJ9Cl5Dg",
-            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया परमाणु से घातक बम? | Trump | Netanyahu | Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "wiks7hHJFmA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "B B C আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "l1kh1XU4HJ8",
-            "name": "Today's Morning News LIVE: Pakistan-Afghanistan War | Israrl Iran War Update | Dhurandhar 2 Movie",
-            "artist": "News18 India"
+            "videoId": "Sev1JO5mtZk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "XwzDpz4vVfE",
-            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "K_hBEWfpZ38",
-            "name": "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DK6sTkM9Co8",
-            "name": "Iran Israel War update | News Ki Pathshala Live | ईरान का अमेरिका को बड़ा झटका ! | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lOY9sEj4n9g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qJdVhdrX4_E",
-            "name": "LIVE: Iran FM Abbas Araghchi Issues Big Warning To Israel & US | Middle East War | World News LIVE",
-            "artist": "Times Now"
+            "videoId": "Ylran9LdzMs",
+            "name": "LIVE: ABC News Live - Thursday, March 19",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

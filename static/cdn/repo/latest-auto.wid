@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260320T074043.405Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T083227.610Z-l4t35t"
   type: "state"
-  created: "2026-03-20T07:40:43.405Z"
+  created: "2026-03-20T08:32:27.610Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T074043.405Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T083227.610Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ueGnJ9Cl5Dg"
-        name: "Iran Israel War News LIVE: ईरान ने फोड़ दिया परमाणु से घातक बम? | Trump | Netanyahu | Khamenei"
-        artist: "ABP NEWS"
+        videoId: "wiks7hHJFmA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "B B C আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l1kh1XU4HJ8"
-        name: "Today's Morning News LIVE: Pakistan-Afghanistan War | Israrl Iran War Update | Dhurandhar 2 Movie"
-        artist: "News18 India"
+        videoId: "Sev1JO5mtZk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XwzDpz4vVfE"
-        name: "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K_hBEWfpZ38"
-        name: "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DK6sTkM9Co8"
-        name: "Iran Israel War update | News Ki Pathshala Live | ईरान का अमेरिका को बड़ा झटका ! | World News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lOY9sEj4n9g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qJdVhdrX4_E"
-        name: "LIVE: Iran FM Abbas Araghchi Issues Big Warning To Israel & US | Middle East War | World News LIVE"
-        artist: "Times Now"
+        videoId: "Ylran9LdzMs"
+        name: "LIVE: ABC News Live - Thursday, March 19"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-20T07:40:43.405Z"
+  exported_at: "2026-03-20T08:32:27.610Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-20T07:40:43.366Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-20T08:32:27.569Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
