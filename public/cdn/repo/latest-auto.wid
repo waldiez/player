@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260320T173028.241Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T183643.790Z-l4t35t"
   type: "state"
-  created: "2026-03-20T17:30:28.241Z"
+  created: "2026-03-20T18:36:43.790Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T173028.241Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T183643.790Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hxjs3FtQ9Ic"
-        name: "🔴LIVE: iran america war | டிரம்ப்-ன் அடுத்த திட்டம்...? மிகப்பெரிய ஆபத்தை நோக்கி நகரும் போர்"
-        artist: "Sathiyam News"
+        videoId: "Mjx5rP9jDCk"
+        name: "LIVE:Iran US War Live Update: US F-35 Stealth Jet Hit, 16 US Military Aircraft Destroyed| Iran War|"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BEQBc8dfRTE"
-        name: "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vcpiaVhO6SQ"
-        name: "Decode Live: Dhurandhar Part 2 | Iran-US War | F-35 | Trump | Hormuz | Oil Crisis | Israel Airstrike"
-        artist: "DD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "q9mbHzGc29k"
-        name: "ईरान-अमेरिका जंग 20 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3as6jHySqvY"
-        name: "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S-dmzbH3iqE"
-        name: "LIVE: US-Israeli Strikes Destroy Iran's Cargo Ships, Tehran Hits Back | Firstpost Spotlight | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m5XugzDoIow"
-        name: "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War"
+        videoId: "6GDiZsVEVsQ"
+        name: "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UoqhEmtCykE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "SBlAy0hZK-U"
+        name: "LIVE: Iran Hits US F-35 Jet and Israel's Haifa Refinery | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lOY9sEj4n9g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "AQR0PVofUHQ"
+        name: "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sP12jNfbzxk"
+        name: "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E2ZulxYIXqA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d87kYZ8k2Y0"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-20T17:30:28.241Z"
+  exported_at: "2026-03-20T18:36:43.790Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-20T17:30:28.196Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-20T18:36:43.745Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
