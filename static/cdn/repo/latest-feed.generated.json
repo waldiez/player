@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T19:32:41.673Z",
+    "generatedAt": "2026-03-20T20:23:28.704Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hxjs3FtQ9Ic",
-            "name": "🔴LIVE: iran america war | டிரம்ப்-ன் அடுத்த திட்டம்...? மிகப்பெரிய ஆபத்தை நோக்கி நகரும் போர்",
-            "artist": "Sathiyam News"
+            "videoId": "WwJkYWbAXE0",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (20.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "BEQBc8dfRTE",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vcpiaVhO6SQ",
-            "name": "Decode Live: Dhurandhar Part 2 | Iran-US War | F-35 | Trump | Hormuz | Oil Crisis | Israel Airstrike",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "q9mbHzGc29k",
-            "name": "ईरान-अमेरिका जंग 20 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3as6jHySqvY",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qewVbxCdKYc",
-            "name": "Aaj Ki Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 20 March",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m5XugzDoIow",
-            "name": "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War",
+            "videoId": "6GDiZsVEVsQ",
+            "name": "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SBlAy0hZK-U",
+            "name": "LIVE: Iran Hits US F-35 Jet and Israel's Haifa Refinery | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AQR0PVofUHQ",
+            "name": "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sP12jNfbzxk",
+            "name": "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E2ZulxYIXqA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S-dmzbH3iqE",
+            "name": "LIVE: US-Israeli Strikes Destroy Iran's Cargo Ships, Tehran Hits Back | Firstpost Spotlight | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
