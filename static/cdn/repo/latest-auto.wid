@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260320T103029.350Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T112535.754Z-l4t35t"
   type: "state"
-  created: "2026-03-20T10:30:29.350Z"
+  created: "2026-03-20T11:25:35.754Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T103029.350Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T112535.754Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5YBmMb6xpOg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "B B C আন্তর্জাতিক সংবাদ"
+        videoId: "yfTW7K6qG2Q"
+        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 19.03.2026 | Top News | Latest News | Breaking News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X6CW78qDono"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
+        videoId: "aERPZnzWjco"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "trz4nFWXXDk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "iiXMn87rtFU"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lwax4wzrRy0"
-        name: "News Ki Pathshala Live : Iran का भयंकर बदला, मच गया कोहराम ! | Iran Israel War | Trump | World News"
+        videoId: "rqQtZKpeJBQ"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (20.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eFKTUE7-qmI"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4jKUE-DXZfI"
-        name: "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wiks7hHJFmA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "B B C আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6GDiZsVEVsQ"
-        name: "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9kW50leRSwQ"
-        name: "Iran Israel And US War - Latest Update | Iran Warns World | ARY News 12PM Headlines | 20 March  2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Sev1JO5mtZk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-20T10:30:29.350Z"
+  exported_at: "2026-03-20T11:25:35.754Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-20T10:30:29.285Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-20T11:25:35.714Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
