@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260319T232300.179Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T012133.435Z-l4t35t"
   type: "state"
-  created: "2026-03-19T23:23:00.179Z"
+  created: "2026-03-20T01:21:33.435Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260319T232300.179Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T012133.435Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QmAyWmL6r-4"
-        name: "LIVE 🚨 | Eid Moon Sighting 🌝 | Eid Moon Sighted in World | Eid Moon Updates | Dunya News"
-        artist: "Dunya News"
+        videoId: "wm8eUlRGe3o"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1tVMk7ZWzK8"
-        name: "Iran Israel War Live Update: World War 3 | Ali Khamenei | Netanyahu | Trump | Iran America War | USA"
-        artist: "News18 UP Uttarakhand"
+        videoId: "geshwVML6vc"
+        name: "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "97yWyz3opLo"
-        name: "🔴LIVE : Gold Price | 'மீண்டும் மீண்டும்..' - ஒரே நாளில் அடியோடு குறைந்த தங்கம்"
-        artist: "Thanthi TV"
+        videoId: "2Zr-xM_Vw5s"
+        name: "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ffiiuCEp1PU"
-        name: "🔴LIVE: Today Headlines - 19 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "VoODQFGaHYk"
+        name: "Iran Attacks Dubai News LIVE | Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE | Dubai News"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZRKYHshoUsE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NBS Bangla News"
+        videoId: "y-iXWvhbcMs"
+        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j720qhHqGiQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vMQg4VmAYag"
+        name: "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xCV0h3pNaqg"
+        name: "Middle East War Escalates | Iran Strikes Gas Fields | Qatar Hit in Retaliation Attacks :🔴LIVE"
+        artist: "ETV Andhra Pradesh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e4n7r0LiWOY"
+        name: "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-19T23:23:00.179Z"
+  exported_at: "2026-03-20T01:21:33.435Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-19T23:23:00.139Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-20T01:21:33.396Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
