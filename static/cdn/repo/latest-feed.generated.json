@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T01:21:33.396Z",
+    "generatedAt": "2026-03-20T07:40:43.366Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "wm8eUlRGe3o",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "ueGnJ9Cl5Dg",
+            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया परमाणु से घातक बम? | Trump | Netanyahu | Khamenei",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "geshwVML6vc",
-            "name": "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE",
-            "artist": "Times Now World"
+            "videoId": "l1kh1XU4HJ8",
+            "name": "Today's Morning News LIVE: Pakistan-Afghanistan War | Israrl Iran War Update | Dhurandhar 2 Movie",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "2Zr-xM_Vw5s",
-            "name": "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "XwzDpz4vVfE",
+            "name": "Iran Israel War News LIVE: ईरान ने फोड़ दिया सबसे घातक बम? | Trump | Netanyahu | World War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "VoODQFGaHYk",
-            "name": "Iran Attacks Dubai News LIVE | Dubai News LIVE | Iran-Dubai News LIVE | Iran News LIVE | Dubai News",
-            "artist": "India Today"
+            "videoId": "K_hBEWfpZ38",
+            "name": "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "y-iXWvhbcMs",
-            "name": "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "DK6sTkM9Co8",
+            "name": "Iran Israel War update | News Ki Pathshala Live | ईरान का अमेरिका को बड़ा झटका ! | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "j720qhHqGiQ",
+            "videoId": "lOY9sEj4n9g",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "vMQg4VmAYag",
-            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
+            "videoId": "qJdVhdrX4_E",
+            "name": "LIVE: Iran FM Abbas Araghchi Issues Big Warning To Israel & US | Middle East War | World News LIVE",
             "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xCV0h3pNaqg",
-            "name": "Middle East War Escalates | Iran Strikes Gas Fields | Qatar Hit in Retaliation Attacks :🔴LIVE",
-            "artist": "ETV Andhra Pradesh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e4n7r0LiWOY",
-            "name": "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
