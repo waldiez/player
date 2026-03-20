@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T09:33:39.286Z",
+    "generatedAt": "2026-03-20T10:30:29.285Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Hm7PnoORPes",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 20.03.2026 | Today News | Latest news | Ajker News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "5YBmMb6xpOg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "B B C আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "eFKTUE7-qmI",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6SC2TCrz3Pw",
-            "name": "🟢America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell onCentral Israel | US",
+            "videoId": "X6CW78qDono",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "nDdp6feZO1c",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 20 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "trz4nFWXXDk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lwax4wzrRy0",
+            "name": "News Ki Pathshala Live : Iran का भयंकर बदला, मच गया कोहराम ! | Iran Israel War | Trump | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4jKUE-DXZfI",
+            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wiks7hHJFmA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "B B C আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6GDiZsVEVsQ",
+            "name": "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9kW50leRSwQ",
+            "name": "Iran Israel And US War - Latest Update | Iran Warns World | ARY News 12PM Headlines | 20 March  2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Sev1JO5mtZk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
