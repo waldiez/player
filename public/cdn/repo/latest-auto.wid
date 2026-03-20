@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260320T212307.417Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T222023.259Z-l4t35t"
   type: "state"
-  created: "2026-03-20T21:23:07.417Z"
+  created: "2026-03-20T22:20:23.259Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T212307.417Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T222023.259Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_oYWXU_oUuE"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "_XGq07QLrs4"
+        name: "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | Gold Price"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hxjs3FtQ9Ic"
-        name: "🔴LIVE: iran america war | டிரம்ப்-ன் அடுத்த திட்டம்...? மிகப்பெரிய ஆபத்தை நோக்கி நகரும் போர்"
-        artist: "Sathiyam News"
+        videoId: "WwJkYWbAXE0"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (20.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2_rWYxxjtDI"
-        name: "US BREAKING LIVE: Trump Drops Urgent Warning, America on Edge | US NEWS"
-        artist: "ET Now"
+        videoId: "h-_A21aNM0w"
+        name: "9 News Live: World Breaking News 24/7 | Updated Every 20 Mins | Latest Global Headlines"
+        artist: "Rainy Study Vibes"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q9mbHzGc29k"
-        name: "ईरान-अमेरिका जंग 20 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei"
-        artist: "News18 India"
+        videoId: "SBlAy0hZK-U"
+        name: "LIVE: Iran Hits US F-35 Jet and Israel's Haifa Refinery | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3as6jHySqvY"
-        name: "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens"
-        artist: "Times Now"
+        videoId: "sP12jNfbzxk"
+        name: "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0xFdr4P3bNQ"
-        name: "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East"
-        artist: "Times Now World"
+        videoId: "E2ZulxYIXqA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-20T21:23:07.417Z"
+  exported_at: "2026-03-20T22:20:23.259Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-20T21:23:07.377Z"
+  source_generated_at: "2026-03-20T22:20:23.214Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
