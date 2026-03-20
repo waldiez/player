@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T12:39:52.774Z",
+    "generatedAt": "2026-03-20T13:56:33.744Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mEGTTguiY1k",
-            "name": "Iran Attacks Qatar LIVE: Iran Strike Hits World’s Biggest LNG Hub, Global Energy Crisis Fears Rise",
-            "artist": "WION"
+            "videoId": "lOY9sEj4n9g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "vGcG-PHEYuE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "yfTW7K6qG2Q",
+            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 19.03.2026 | Top News | Latest News | Breaking News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "Ahp5PmVNCEY",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 20 March 2026",
-            "artist": "CK Time TV North America"
+            "videoId": "aERPZnzWjco",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "5YBmMb6xpOg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "B B C আন্তর্জাতিক সংবাদ"
+            "videoId": "rqQtZKpeJBQ",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (20.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "X6CW78qDono",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "dgzNkL0Qnds",
+            "name": "കനത്ത ജാഗ്രതയില്‍ അമേരിക്ക| world news update I NEWS INDIA MALAYALAM",
+            "artist": "NEWS INDIA MALAYALAM"
         },
         {
             "mood": "storm",
-            "videoId": "trz4nFWXXDk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lwax4wzrRy0",
-            "name": "News Ki Pathshala Live : Iran का भयंकर बदला, मच गया कोहराम ! | Iran Israel War | Trump | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4jKUE-DXZfI",
-            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "sAmNXKZ-kQQ",
+            "name": "Iran Israel War News LIVE: खत्म हुए ईरान के हथियार! | Trump | Netanyahu | World War | Breaking News",
+            "artist": "Republic Bharat"
         }
     ],
     "sourceFilters": {
