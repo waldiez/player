@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260320T083227.610Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260320T093339.346Z-l4t35t"
   type: "state"
-  created: "2026-03-20T08:32:27.610Z"
+  created: "2026-03-20T09:33:39.346Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T083227.610Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260320T093339.346Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wiks7hHJFmA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "B B C আন্তর্জাতিক সংবাদ"
+        videoId: "Hm7PnoORPes"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 20.03.2026 | Today News | Latest news | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Sev1JO5mtZk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "eFKTUE7-qmI"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ylran9LdzMs"
-        name: "LIVE: ABC News Live - Thursday, March 19"
-        artist: "ABC News"
+        videoId: "6SC2TCrz3Pw"
+        name: "🟢America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell onCentral Israel | US"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nDdp6feZO1c"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 20 March 2026"
+        artist: "CK Time TV North America"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-20T08:32:27.610Z"
+  exported_at: "2026-03-20T09:33:39.346Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-20T08:32:27.569Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-20T09:33:39.286Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

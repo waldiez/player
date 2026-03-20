@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T08:32:27.569Z",
+    "generatedAt": "2026-03-20T09:33:39.286Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "wiks7hHJFmA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "B B C আন্তর্জাতিক সংবাদ"
+            "videoId": "Hm7PnoORPes",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 20.03.2026 | Today News | Latest news | Ajker News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "Sev1JO5mtZk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "eFKTUE7-qmI",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Ylran9LdzMs",
-            "name": "LIVE: ABC News Live - Thursday, March 19",
-            "artist": "ABC News"
+            "videoId": "6SC2TCrz3Pw",
+            "name": "🟢America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell onCentral Israel | US",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nDdp6feZO1c",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 20 March 2026",
+            "artist": "CK Time TV North America"
         }
     ],
     "sourceFilters": {
