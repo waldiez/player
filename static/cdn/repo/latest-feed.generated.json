@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T15:35:49.462Z",
+    "generatedAt": "2026-03-20T16:34:08.892Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DD3eHTMVUuc",
-            "name": "US Iran War LIVE: Iran Strikes Oil Refineries in Israel, Saudi; Kuwait Warns of Gas Supply Crunch",
+            "videoId": "SBlAy0hZK-U",
+            "name": "LIVE | Vantage with Palki Sharma: Your New Destination for Global News with an Indian Perspective",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "Yy650gXrAGY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RMT ANTORJATIK NEWS"
+            "videoId": "AQR0PVofUHQ",
+            "name": "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "lOY9sEj4n9g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "sP12jNfbzxk",
+            "name": "LIVE | \"New Phase Of War\": Trump Weighs Sending Thousands Of US Troops | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "yfTW7K6qG2Q",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 19.03.2026 | Top News | Latest News | Breaking News",
-            "artist": "ATN Bangla News"
+            "videoId": "E2ZulxYIXqA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "WNEOcNqja0M",
-            "name": "Israel and Iran launch new attacks as Trump meets Takaichi | Reuters World News",
-            "artist": "Reuters"
+            "videoId": "00hT-LqFMig",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "aERPZnzWjco",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "Pdcq_LeoCcA",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HmcJioYOrIc",
+            "name": "America-IRAN WAR LIVE: Iran Hits US Bases & Gulf Energy Hubs After South Pars Strike! Tel Aviv |N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7-HIwTKH8P0",
+            "name": "🔴LIVE: iran america war | போரால் சரசரவென குறையும் டாலர்...",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mEGTTguiY1k",
+            "name": "Iran Attacks Qatar LIVE: Iran Strike Hits World’s Biggest LNG Hub, Global Energy Crisis Fears Rise",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vGcG-PHEYuE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
