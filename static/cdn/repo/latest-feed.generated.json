@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T11:25:35.714Z",
+    "generatedAt": "2026-03-20T12:39:52.774Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,50 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yfTW7K6qG2Q",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 19.03.2026 | Top News | Latest News | Breaking News",
-            "artist": "ATN Bangla News"
+            "videoId": "mEGTTguiY1k",
+            "name": "Iran Attacks Qatar LIVE: Iran Strike Hits World’s Biggest LNG Hub, Global Energy Crisis Fears Rise",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "aERPZnzWjco",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "vGcG-PHEYuE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "iiXMn87rtFU",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "Ahp5PmVNCEY",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 20 March 2026",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "rqQtZKpeJBQ",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (20.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "5YBmMb6xpOg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "B B C আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "eFKTUE7-qmI",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Shortage | Mamata",
+            "videoId": "X6CW78qDono",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "trz4nFWXXDk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lwax4wzrRy0",
+            "name": "News Ki Pathshala Live : Iran का भयंकर बदला, मच गया कोहराम ! | Iran Israel War | Trump | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4jKUE-DXZfI",
+            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
             "artist": "Times Now Navbharat"
         }
     ],
