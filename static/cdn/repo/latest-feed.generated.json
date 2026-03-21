@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T17:19:24.801Z",
+    "generatedAt": "2026-03-21T18:25:51.123Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gEdYKjHtD3o",
-            "name": "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்",
+            "videoId": "stQGaSYpN-0",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WzGaAtzSh0w",
+            "name": "🔴LIVE :usa | iranwar | pakistan |  ஈரானுக்கு அடுத்த இலக்கு பாகிஸ்தானா? ஸ்கெட்ச் போட்டார் டிரம்ப்..",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-Tppc6OKbBY",
+            "name": "🔴LIVE: iran | எரிமலையில் கைவைத்த ஈரான்.. உலகின் பெரிய கிடங்கே காலி",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "8JPf8w0YRhI",
-            "name": "🔴LIVE: iran america war | போர் - பொறுத்தது போதும் - இந்தியா எடுத்த முடிவு",
+            "videoId": "o2BIfIPDtPA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC বাংলা NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3baWFhM30nk",
+            "name": "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்...",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Nt1hFggBMVI",
-            "name": "LIVE : మూడో ప్రపంచ యుద్ధం.. ఇరాన్ టాప్ కమాండర్ ఖతం |  Iran, Israel War | Third World War | hmtv",
-            "artist": "hmtv Telugu News"
+            "videoId": "J47RRZOL64c",
+            "name": "US-Iran War LIVE: Donald Trump Mulls \"Winding Down\" Military Operations In Iran | Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "wkquOBqIBe0",
-            "name": "Decode Live: War Update | Iran Oil Sanctions | Diego Garcia Attack | India | Nuclear ICBM | PM Modi",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "c9VGj8SJeS4",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mYHyIW0gBQc",
-            "name": "Iran Major Attack on Israel !!! | Geo News 8PM Headlines | 21 March 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "s6N9d9fP2bA",
-            "name": "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1vuWAZCnYfM",
-            "name": "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
+            "videoId": "9b2QDkjqPDY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {

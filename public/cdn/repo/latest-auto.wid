@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T171924.834Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T182551.163Z-l4t35t"
   type: "state"
-  created: "2026-03-21T17:19:24.834Z"
+  created: "2026-03-21T18:25:51.163Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T171924.834Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T182551.163Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "gEdYKjHtD3o"
-        name: "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்"
+        videoId: "stQGaSYpN-0"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WzGaAtzSh0w"
+        name: "🔴LIVE :usa | iranwar | pakistan |  ஈரானுக்கு அடுத்த இலக்கு பாகிஸ்தானா? ஸ்கெட்ச் போட்டார் டிரம்ப்.."
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-Tppc6OKbBY"
+        name: "🔴LIVE: iran | எரிமலையில் கைவைத்த ஈரான்.. உலகின் பெரிய கிடங்கே காலி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8JPf8w0YRhI"
-        name: "🔴LIVE: iran america war | போர் - பொறுத்தது போதும் - இந்தியா எடுத்த முடிவு"
+        videoId: "o2BIfIPDtPA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC বাংলা NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3baWFhM30nk"
+        name: "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்..."
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Nt1hFggBMVI"
-        name: "LIVE : మూడో ప్రపంచ యుద్ధం.. ఇరాన్ టాప్ కమాండర్ ఖతం |  Iran, Israel War | Third World War | hmtv"
-        artist: "hmtv Telugu News"
+        videoId: "J47RRZOL64c"
+        name: "US-Iran War LIVE: Donald Trump Mulls \"Winding Down\" Military Operations In Iran | Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wkquOBqIBe0"
-        name: "Decode Live: War Update | Iran Oil Sanctions | Diego Garcia Attack | India | Nuclear ICBM | PM Modi"
-        artist: "DD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "c9VGj8SJeS4"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mYHyIW0gBQc"
-        name: "Iran Major Attack on Israel !!! | Geo News 8PM Headlines | 21 March 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s6N9d9fP2bA"
-        name: "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1vuWAZCnYfM"
-        name: "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei"
-        artist: "News18 India"
+        videoId: "9b2QDkjqPDY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T17:19:24.834Z"
+  exported_at: "2026-03-21T18:25:51.163Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T17:19:24.801Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T18:25:51.123Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
