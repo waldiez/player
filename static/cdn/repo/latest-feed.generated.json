@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T10:19:08.030Z",
+    "generatedAt": "2026-03-21T11:16:58.589Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nvuqVFvgWHk",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "e1MQ63RFxec",
+            "name": "Eid ul-Fitr 2026 LIVE: Muslims Gather in New Delhi for Eid Prayers to Mark End of Ramadan | N18L",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "FDJFzsNJBkA",
-            "name": "America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell on Central Israel | US",
-            "artist": "News18 Urdu"
+            "videoId": "km7iqaMCJSk",
+            "name": "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "4D3kOMlThkw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "izy7NzkPMDc",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | Gold Price",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "gEdYKjHtD3o",
-            "name": "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்",
-            "artist": "Sathiyam News"
+            "videoId": "xz4vpQg1Onk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UOVxc9jQ7nA",
+            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AuQDY28I0T8",
+            "name": "🔴LIVE: PM Shehbaz's Address To Nation | Iran US War Live | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DNX0vwa7MSI",
+            "name": "World News Live : चीन ताइवान युद्ध का बढ़ा खतरा...बड़ी अपडेट ! China | Taiwan | USA | Russia |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NP7D2tq__i0",
+            "name": "Iran Israel War LIVE: ईरान ने कर दिया इजरायल पर सबसे बड़ा हमला! | Trump | Netanyahu | Air Strike",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
