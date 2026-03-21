@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-20T23:21:51.035Z",
+    "generatedAt": "2026-03-21T01:16:42.551Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_oYWXU_oUuE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "Yy650gXrAGY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "RMT ANTORJATIK NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "6GDiZsVEVsQ",
-            "name": "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha",
+            "videoId": "J5UDpuoGdxY",
+            "name": "Iran's supreme leader delivers new year message | Analysis",
+            "artist": "Sky News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_XGq07QLrs4",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | Gold Price",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "hxjs3FtQ9Ic",
-            "name": "🔴LIVE: iran america war | டிரம்ப்-ன் அடுத்த திட்டம்...? மிகப்பெரிய ஆபத்தை நோக்கி நகரும் போர்",
-            "artist": "Sathiyam News"
+            "videoId": "WwJkYWbAXE0",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (20.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "2_rWYxxjtDI",
-            "name": "US BREAKING LIVE: Trump Drops Urgent Warning, America on Edge | US NEWS",
-            "artist": "ET Now"
+            "videoId": "h-_A21aNM0w",
+            "name": "9 News Live: World Breaking News 24/7 | Updated Every 20 Mins | Latest Global Headlines",
+            "artist": "Rainy Study Vibes"
         },
         {
             "mood": "storm",
-            "videoId": "km7iqaMCJSk",
-            "name": "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "ycMQmCiX4Uo",
+            "name": "US vs Iran LIVE: Israel Hit the World's Largest Gas Field In Iran | West Asia War | US Iran War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "q9mbHzGc29k",
-            "name": "ईरान-अमेरिका जंग 20 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
+            "videoId": "emwv0uEZfGg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "WALD NEWS BD"
         },
         {
             "mood": "storm",
-            "videoId": "3as6jHySqvY",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M6xkbrpjzwY",
-            "name": "US News LIVE | New SAVE Act Bill Faces Odds In US Senate; Democrats Clash With Republicans | Watch",
-            "artist": "Times Of India"
+            "videoId": "vcpiaVhO6SQ",
+            "name": "Decode Live: Dhurandhar Part 2 | Iran-US War | F-35 | Trump | Hormuz | Oil Crisis | Israel Airstrike",
+            "artist": "DD News"
         }
     ],
     "sourceFilters": {
