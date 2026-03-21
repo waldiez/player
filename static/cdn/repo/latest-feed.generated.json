@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T03:58:30.055Z",
+    "generatedAt": "2026-03-21T05:06:49.460Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MsOh2_TG4yg",
-            "name": "US Iran War LIVE: What Does the Iran War Mean for China? | Vantage with Palki Sharma",
+            "videoId": "xi0LdHyePXo",
+            "name": "LIVE: Iran Claims First Strike on US F-35 Amid Escalating West Asia War | Vantage with Palki Sharma",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "ewaEakUNF7Y",
-            "name": "Iran Vs Israel War LIVE : नक्शे से मिटेगा ईरान? Trump | Hindi News | Breaking | 20 March | Natanyahu",
-            "artist": "NDTV India"
+            "videoId": "MMZ-eqF5-h4",
+            "name": "World DNA LIVE: Trump to 'Wind Down' Iran War | US Eases Iran Oil Sanctions | WION Live",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "Xsc2IrBn4NE",
-            "name": "ABC News Live Prime: March 20, 2026",
-            "artist": "ABC News"
+            "videoId": "OLJF_gmhzDc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
         },
         {
             "mood": "storm",
-            "videoId": "l5YXsxEjfMY",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 20, 2026",
-            "artist": "ABC News"
+            "videoId": "fZF0b-eRJYI",
+            "name": "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "YVLBFkiFpbY",
-            "name": "Superfast News LIVE: अभी तक की 100 हेडलाइंस | PM Modi | Iran Israel War | Trump | Gold Silver Price",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DNbHemOIF5E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "67JxKAdUFI0",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 21 March",
+            "videoId": "BJhxe9W4Qcc",
+            "name": "ईरान-अमेरिका जंग, 21 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "p0BCMi0SjKE",
-            "name": "Today's Headlines | 21 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nRaVsSJ-U4k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WALD NEWS BD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ngDoYGBLH7w",
-            "name": "Trump calls Nato allies 'cowards' on day 21 of US-Israel war with Iran | BBC News",
-            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
