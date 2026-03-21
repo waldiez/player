@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T16:20:05.148Z",
+    "generatedAt": "2026-03-21T17:19:24.801Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9b2QDkjqPDY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "gEdYKjHtD3o",
+            "name": "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "XTtpX-Q_h2g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "8JPf8w0YRhI",
+            "name": "🔴LIVE: iran america war | போர் - பொறுத்தது போதும் - இந்தியா எடுத்த முடிவு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "pvGO8rOEs2g",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "Nt1hFggBMVI",
+            "name": "LIVE : మూడో ప్రపంచ యుద్ధం.. ఇరాన్ టాప్ కమాండర్ ఖతం |  Iran, Israel War | Third World War | hmtv",
+            "artist": "hmtv Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "6GUK-dBA0m0",
-            "name": "Iran Israel War - Latest Update | Geo News 7PM Headlines | 21 March 2026",
+            "videoId": "wkquOBqIBe0",
+            "name": "Decode Live: War Update | Iran Oil Sanctions | Diego Garcia Attack | India | Nuclear ICBM | PM Modi",
+            "artist": "DD News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c9VGj8SJeS4",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mYHyIW0gBQc",
+            "name": "Iran Major Attack on Israel !!! | Geo News 8PM Headlines | 21 March 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "IpzURfJi6IY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "s6N9d9fP2bA",
+            "name": "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "smeAH6sSlS0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RMT ANTORJATIK NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5APxpmV13yg",
-            "name": "Out Of Focus Live | 21 March 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "1vuWAZCnYfM",
+            "name": "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
+            "artist": "News18 India"
         }
     ],
     "sourceFilters": {
