@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T151847.251Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T162005.188Z-l4t35t"
   type: "state"
-  created: "2026-03-21T15:18:47.251Z"
+  created: "2026-03-21T16:20:05.188Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T151847.251Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T162005.188Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1vuWAZCnYfM"
-        name: "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rKMu9woWbjk"
-        name: "World News Live: ईरान-अमेरिका जंग पर Trump का बड़ा ऐलान! | Iran Vs America Breaking News | Hindi New"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JJeZcX9vtWA"
-        name: "War - Attack on Nuclear Facilities !!! | Geo News 6PM Headlines | 21 March 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mLeBx-EYhS8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "9b2QDkjqPDY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FIq4uYJLhrI"
-        name: "War - Russia & Iran Together - Big Announcement | Geo News 5PM Headlines | 21 March 2026"
+        videoId: "XTtpX-Q_h2g"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pvGO8rOEs2g"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6GUK-dBA0m0"
+        name: "Iran Israel War - Latest Update | Geo News 7PM Headlines | 21 March 2026"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DUiu-J_sdDY"
-        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 21.03.2026 | Top News | Latest News | Breaking News"
-        artist: "ATN Bangla News"
+        videoId: "IpzURfJi6IY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wapwi5sO-yI"
-        name: "Field Marshal Asim Munir BIG Statement | Geo News 4PM Headlines | 21 March 2026"
-        artist: "Geo News"
+        videoId: "smeAH6sSlS0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "RMT ANTORJATIK NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5APxpmV13yg"
+        name: "Out Of Focus Live | 21 March 2026"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T15:18:47.251Z"
+  exported_at: "2026-03-21T16:20:05.188Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T15:18:47.213Z"
+  source_generated_at: "2026-03-21T16:20:05.148Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T15:18:47.213Z",
+    "generatedAt": "2026-03-21T16:20:05.148Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1vuWAZCnYfM",
-            "name": "ईरान-अमेरिका जंग 21 मार्च 2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rKMu9woWbjk",
-            "name": "World News Live: ईरान-अमेरिका जंग पर Trump का बड़ा ऐलान! | Iran Vs America Breaking News | Hindi New",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JJeZcX9vtWA",
-            "name": "War - Attack on Nuclear Facilities !!! | Geo News 6PM Headlines | 21 March 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mLeBx-EYhS8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "9b2QDkjqPDY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "FIq4uYJLhrI",
-            "name": "War - Russia & Iran Together - Big Announcement | Geo News 5PM Headlines | 21 March 2026",
+            "videoId": "XTtpX-Q_h2g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pvGO8rOEs2g",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6GUK-dBA0m0",
+            "name": "Iran Israel War - Latest Update | Geo News 7PM Headlines | 21 March 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "DUiu-J_sdDY",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 21.03.2026 | Top News | Latest News | Breaking News",
-            "artist": "ATN Bangla News"
+            "videoId": "IpzURfJi6IY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "Wapwi5sO-yI",
-            "name": "Field Marshal Asim Munir BIG Statement | Geo News 4PM Headlines | 21 March 2026",
-            "artist": "Geo News"
+            "videoId": "smeAH6sSlS0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "RMT ANTORJATIK NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5APxpmV13yg",
+            "name": "Out Of Focus Live | 21 March 2026",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
