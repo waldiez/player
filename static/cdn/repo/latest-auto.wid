@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T221632.284Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T231730.399Z-l4t35t"
   type: "state"
-  created: "2026-03-21T22:16:32.284Z"
+  created: "2026-03-21T23:17:30.399Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T221632.284Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T231730.399Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AN3xcOR7evc"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6FmK87pCNxw"
-        name: "Good Morning America Full Broadcast — Saturday, March 21, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V1uQavRXjo8"
-        name: "US Iran War LIVE | President Trump Sends Additional Troops To Tehran, Iran Capture Soon? | N18G"
+        videoId: "Zt6ED_yJhOI"
+        name: "US Was Not Ready For This! | LIVE: Trump Signals Possible Exit as Iran Claims Strategic Masterstroke"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WzGaAtzSh0w"
-        name: "🔴LIVE :usa | iranwar | pakistan |  ஈரானுக்கு அடுத்த இலக்கு பாகிஸ்தானா? ஸ்கெட்ச் போட்டார் டிரம்ப்.."
-        artist: "Thanthi TV"
+        videoId: "AnD3H-rHNYM"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x6Kiw9_JDfw"
-        name: "Iran fires missiles at UK-US Diego Garcia base, it is understood | BBC News"
-        artist: "BBC News"
+        videoId: "DzcvDGITd4s"
+        name: "Today Headlines - 21 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gE7w-g6hiMU"
-        name: "Iran vs Israel and US - Putin Big Statement | Geo News 10 PM Headlines | 21 March 2026"
+        videoId: "15lbFco81HA"
+        name: "War Update - Iran Issues Big Statement| Geo News 11 PM Headlines | 21 March 2026"
         artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-Tppc6OKbBY"
-        name: "🔴LIVE: iran | எரிமலையில் கைவைத்த ஈரான்.. உலகின் பெரிய கிடங்கே காலி"
-        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T22:16:32.284Z"
+  exported_at: "2026-03-21T23:17:30.399Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T22:16:32.242Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T23:17:30.360Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
