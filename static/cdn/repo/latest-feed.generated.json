@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T07:28:17.712Z",
+    "generatedAt": "2026-03-21T08:22:55.244Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DNX0vwa7MSI",
-            "name": "World News Live : चीन ताइवान युद्ध का बढ़ा खतरा...बड़ी अपडेट ! China | Taiwan | USA | Russia |",
+            "videoId": "Oi-yU6ExJPU",
+            "name": "News Ki Pathshala Live | Sushant Sinha | खत्म कर दिया...बर्बाद कर दिया...ट्रंप माहौल बनाते रहे!",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "JBP5IJ4XaT8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "_qQdwVyS9Jc",
+            "name": "Iran Israel War - Massive Attacks, Latest Update | 9AM Headlines Express News (21 March 2026)",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "4xkR5siOjQk",
-            "name": "100 News Today | Israel-US Attack On Iran News | Chaitra Navratri | World News | Today News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KelZ9pGf_8A",
-            "name": "Trump LIVE: US President Drops Urgent Bombshell, Americans In Shock? | US News | Trump's War Update",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Zt6ED_yJhOI",
-            "name": "US Was Not Ready For This! | LIVE: Trump Signals Possible Exit as Iran Claims Strategic Masterstroke",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xi0LdHyePXo",
-            "name": "LIVE: Iran Claims First Strike on US F-35 Amid Escalating West Asia War | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hkYTdggbBZU",
-            "name": "LIVE | ईरान-अमेरिका जंग 21 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "3baWFhM30nk",
+            "name": "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்...",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
