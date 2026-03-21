@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T092452.929Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T101908.069Z-l4t35t"
   type: "state"
-  created: "2026-03-21T09:24:52.929Z"
+  created: "2026-03-21T10:19:08.069Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T092452.929Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T101908.069Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "izy7NzkPMDc"
-        name: "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | Gold Price"
-        artist: "Times Now Navbharat"
+        videoId: "nvuqVFvgWHk"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xz4vpQg1Onk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "FDJFzsNJBkA"
+        name: "America VS Iran LIVE: Iron Dome SHATTERED? Iranian Cluster Missiles Rain Hell on Central Israel | US"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UOVxc9jQ7nA"
-        name: "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei"
-        artist: "Times Now Navbharat"
+        videoId: "4D3kOMlThkw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AuQDY28I0T8"
-        name: "🔴LIVE: PM Shehbaz's Address To Nation | Iran US War Live | SAMAA TV"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ayCtXNgocaQ"
-        name: "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DNX0vwa7MSI"
-        name: "World News Live : चीन ताइवान युद्ध का बढ़ा खतरा...बड़ी अपडेट ! China | Taiwan | USA | Russia |"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JBP5IJ4XaT8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OjrWHgNcOeM"
-        name: "India-Pakistan Nuclear War LIVE: युद्ध परमाणु संकट में बदल सकता है | US Intelligence Warning"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4xkR5siOjQk"
-        name: "100 News Today | Israel-US Attack On Iran News | Chaitra Navratri | World News | Today News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uplW0HhOVko"
-        name: "Iran Israel America War Updates LIVE: होर्मुज पर शुरू हुई भयंकर जंग! | Trump | Netanyahu | World War"
-        artist: "ABP NEWS"
+        videoId: "gEdYKjHtD3o"
+        name: "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T09:24:52.929Z"
+  exported_at: "2026-03-21T10:19:08.069Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T09:24:52.890Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T10:19:08.030Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
