@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T05:06:49.460Z",
+    "generatedAt": "2026-03-21T06:33:30.455Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xi0LdHyePXo",
-            "name": "LIVE: Iran Claims First Strike on US F-35 Amid Escalating West Asia War | Vantage with Palki Sharma",
+            "videoId": "o2v0L0zj4mw",
+            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_qQdwVyS9Jc",
+            "name": "Iran Israel War - Massive Attacks, Latest Update | 9AM Headlines Express News (21 March 2026)",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3baWFhM30nk",
+            "name": "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்...",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jcEfyr-lrdk",
+            "name": "IRAN WAR ENDING? | LIVE: Donald Trump Hints Ongoing War Could Be Nearing Its Final Phase | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kBo5qn5pRWE",
+            "name": "US Israel Iran LIVE | West Asia War News | Middle East War | World War 3? | India Today Live",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MsOh2_TG4yg",
+            "name": "US Iran War LIVE: What Does the Iran War Mean for China? | Vantage with Palki Sharma",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "MMZ-eqF5-h4",
-            "name": "World DNA LIVE: Trump to 'Wind Down' Iran War | US Eases Iran Oil Sanctions | WION Live",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OLJF_gmhzDc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Festival Update"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fZF0b-eRJYI",
-            "name": "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BJhxe9W4Qcc",
-            "name": "ईरान-अमेरिका जंग, 21 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "Xsc2IrBn4NE",
+            "name": "ABC News Live Prime: March 20, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

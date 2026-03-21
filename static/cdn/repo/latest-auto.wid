@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T050649.490Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T063330.497Z-l4t35t"
   type: "state"
-  created: "2026-03-21T05:06:49.490Z"
+  created: "2026-03-21T06:33:30.497Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T050649.490Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T063330.497Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xi0LdHyePXo"
-        name: "LIVE: Iran Claims First Strike on US F-35 Amid Escalating West Asia War | Vantage with Palki Sharma"
+        videoId: "o2v0L0zj4mw"
+        name: "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_qQdwVyS9Jc"
+        name: "Iran Israel War - Massive Attacks, Latest Update | 9AM Headlines Express News (21 March 2026)"
+        artist: "Express News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3baWFhM30nk"
+        name: "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்..."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jcEfyr-lrdk"
+        name: "IRAN WAR ENDING? | LIVE: Donald Trump Hints Ongoing War Could Be Nearing Its Final Phase | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kBo5qn5pRWE"
+        name: "US Israel Iran LIVE | West Asia War News | Middle East War | World War 3? | India Today Live"
+        artist: "India Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MsOh2_TG4yg"
+        name: "US Iran War LIVE: What Does the Iran War Mean for China? | Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MMZ-eqF5-h4"
-        name: "World DNA LIVE: Trump to 'Wind Down' Iran War | US Eases Iran Oil Sanctions | WION Live"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OLJF_gmhzDc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Festival Update"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fZF0b-eRJYI"
-        name: "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BJhxe9W4Qcc"
-        name: "ईरान-अमेरिका जंग, 21 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
-        artist: "ABP NEWS"
+        videoId: "Xsc2IrBn4NE"
+        name: "ABC News Live Prime: March 20, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T05:06:49.490Z"
+  exported_at: "2026-03-21T06:33:30.497Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T05:06:49.460Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T06:33:30.455Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
