@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T08:22:55.244Z",
+    "generatedAt": "2026-03-21T09:24:52.890Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Oi-yU6ExJPU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | खत्म कर दिया...बर्बाद कर दिया...ट्रंप माहौल बनाते रहे!",
+            "videoId": "izy7NzkPMDc",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | Gold Price",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "_qQdwVyS9Jc",
-            "name": "Iran Israel War - Massive Attacks, Latest Update | 9AM Headlines Express News (21 March 2026)",
-            "artist": "Express News"
+            "videoId": "xz4vpQg1Onk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "3baWFhM30nk",
-            "name": "🔴LIVE:  iran war | America | isarel | போரில் புதிய ட்விஸ்ட்...",
-            "artist": "Sathiyam News"
+            "videoId": "UOVxc9jQ7nA",
+            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AuQDY28I0T8",
+            "name": "🔴LIVE: PM Shehbaz's Address To Nation | Iran US War Live | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ayCtXNgocaQ",
+            "name": "Iran Massive Attack Live | News Ki Pathshala Live |  घायल ईरान का सबसे बड़ा बदला !| Sushant Sinha",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DNX0vwa7MSI",
+            "name": "World News Live : चीन ताइवान युद्ध का बढ़ा खतरा...बड़ी अपडेट ! China | Taiwan | USA | Russia |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JBP5IJ4XaT8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OjrWHgNcOeM",
+            "name": "India-Pakistan Nuclear War LIVE: युद्ध परमाणु संकट में बदल सकता है | US Intelligence Warning",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4xkR5siOjQk",
+            "name": "100 News Today | Israel-US Attack On Iran News | Chaitra Navratri | World News | Today News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uplW0HhOVko",
+            "name": "Iran Israel America War Updates LIVE: होर्मुज पर शुरू हुई भयंकर जंग! | Trump | Netanyahu | World War",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
