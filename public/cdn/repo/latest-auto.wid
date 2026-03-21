@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T133710.815Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T141958.298Z-l4t35t"
   type: "state"
-  created: "2026-03-21T13:37:10.815Z"
+  created: "2026-03-21T14:19:58.298Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T133710.815Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T141958.298Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VeeyUFZHzWc"
-        name: "LIVE | Iran Fires Ballistic Missiles At US-UK Military Base In Diego Garcia | Gulf War Gets Bigger"
-        artist: "CRUX"
+        videoId: "G1IVw5SPD3U"
+        name: "LIVE: Youtuber Vaishnavi Incident Latest Updates | Korutla Jagtial District | Zee Telugu News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DUiu-J_sdDY"
-        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 21.03.2026 | Top News | Latest News | Breaking News"
+        videoId: "IpzURfJi6IY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BWsxmgNNhhE"
+        name: "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tBwQV0_97Zs"
+        name: "LIVE: Iran Vows to Strike Israel’s Dimona Nuclear Plant After Tehran Leadership Assassinated | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jcEfyr-lrdk"
+        name: "IRAN WAR ENDING? | LIVE: Donald Trump Hints Ongoing War Could Be Nearing Its Final Phase | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RPcmPre9eJg"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 21.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wapwi5sO-yI"
-        name: "Field Marshal Asim Munir BIG Statement | Geo News 4PM Headlines | 21 March 2026"
-        artist: "Geo News"
+        videoId: "mCcJiMOvMng"
+        name: "Iran Israel War LIVE: सुबह-सुबह ईरान ने किया युद्ध खत्म?| Netanyahu | Eid Alert | Trump | Mojtaba"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uZVDo3Fq4CM"
-        name: "LIVE | Iran Fires Long-Range Missiles at US-UK Diego Garcia Base, Escalating War Tensions"
-        artist: "Mint"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cUGDnBm9JhQ"
-        name: "Middle East Crisis: Putin tells Tehran: Russia stands by Iran | Geo News 3PM Headlines | 21 March 26"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "e1MQ63RFxec"
-        name: "Eid ul-Fitr 2026 LIVE: Muslims Gather in New Delhi for Eid Prayers to Mark End of Ramadan | N18L"
-        artist: "Firstpost"
+        videoId: "ffRPOXVe8EE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T13:37:10.815Z"
+  exported_at: "2026-03-21T14:19:58.298Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T13:37:10.775Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T14:19:58.259Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
