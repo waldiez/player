@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T21:17:37.301Z",
+    "generatedAt": "2026-03-21T22:16:32.242Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Zt6ED_yJhOI",
-            "name": "US Was Not Ready For This! | LIVE: Trump Signals Possible Exit as Iran Claims Strategic Masterstroke",
+            "videoId": "AN3xcOR7evc",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6FmK87pCNxw",
+            "name": "Good Morning America Full Broadcast — Saturday, March 21, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "V1uQavRXjo8",
+            "name": "US Iran War LIVE | President Trump Sends Additional Troops To Tehran, Iran Capture Soon? | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "AnD3H-rHNYM",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "WzGaAtzSh0w",
+            "name": "🔴LIVE :usa | iranwar | pakistan |  ஈரானுக்கு அடுத்த இலக்கு பாகிஸ்தானா? ஸ்கெட்ச் போட்டார் டிரம்ப்..",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "DzcvDGITd4s",
-            "name": "Today Headlines - 21 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "x6Kiw9_JDfw",
+            "name": "Iran fires missiles at UK-US Diego Garcia base, it is understood | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "15lbFco81HA",
-            "name": "War Update - Iran Issues Big Statement| Geo News 11 PM Headlines | 21 March 2026",
+            "videoId": "gE7w-g6hiMU",
+            "name": "Iran vs Israel and US - Putin Big Statement | Geo News 10 PM Headlines | 21 March 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "gEdYKjHtD3o",
-            "name": "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்",
+            "videoId": "-Tppc6OKbBY",
+            "name": "🔴LIVE: iran | எரிமலையில் கைவைத்த ஈரான்.. உலகின் பெரிய கிடங்கே காலி",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8JPf8w0YRhI",
-            "name": "🔴LIVE: iran america war | போர் - பொறுத்தது போதும் - இந்தியா எடுத்த முடிவு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EAwI1jKzxP4",
-            "name": "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wkquOBqIBe0",
-            "name": "Decode Live: War Update | Iran Oil Sanctions | Diego Garcia Attack | India | Nuclear ICBM | PM Modi",
-            "artist": "DD News"
         }
     ],
     "sourceFilters": {
