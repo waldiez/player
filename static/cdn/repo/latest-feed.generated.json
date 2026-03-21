@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T12:31:33.428Z",
+    "generatedAt": "2026-03-21T13:37:10.775Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tBwQV0_97Zs",
-            "name": "LIVE: Iran Vows to Strike Israel’s Dimona Nuclear Plant After Tehran Leadership Assassinated | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "VeeyUFZHzWc",
+            "name": "LIVE | Iran Fires Ballistic Missiles At US-UK Military Base In Diego Garcia | Gulf War Gets Bigger",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "jcEfyr-lrdk",
-            "name": "IRAN WAR ENDING? | LIVE: Donald Trump Hints Ongoing War Could Be Nearing Its Final Phase | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RPcmPre9eJg",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 21.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "videoId": "DUiu-J_sdDY",
+            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 21.03.2026 | Top News | Latest News | Breaking News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "mCcJiMOvMng",
-            "name": "Iran Israel War LIVE: सुबह-सुबह ईरान ने किया युद्ध खत्म?| Netanyahu | Eid Alert | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "Wapwi5sO-yI",
+            "name": "Field Marshal Asim Munir BIG Statement | Geo News 4PM Headlines | 21 March 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "ffRPOXVe8EE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "uZVDo3Fq4CM",
+            "name": "LIVE | Iran Fires Long-Range Missiles at US-UK Diego Garcia Base, Escalating War Tensions",
+            "artist": "Mint"
         },
         {
             "mood": "storm",
-            "videoId": "nvuqVFvgWHk",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "cUGDnBm9JhQ",
+            "name": "Middle East Crisis: Putin tells Tehran: Russia stands by Iran | Geo News 3PM Headlines | 21 March 26",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "e1MQ63RFxec",
+            "name": "Eid ul-Fitr 2026 LIVE: Muslims Gather in New Delhi for Eid Prayers to Mark End of Ramadan | N18L",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
