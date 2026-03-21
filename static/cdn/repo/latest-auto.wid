@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260321T201744.266Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260321T211737.492Z-l4t35t"
   type: "state"
-  created: "2026-03-21T20:17:44.266Z"
+  created: "2026-03-21T21:17:37.492Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T201744.266Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260321T211737.492Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AN3xcOR7evc"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "Zt6ED_yJhOI"
+        name: "US Was Not Ready For This! | LIVE: Trump Signals Possible Exit as Iran Claims Strategic Masterstroke"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "stQGaSYpN-0"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "AnD3H-rHNYM"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WzGaAtzSh0w"
-        name: "🔴LIVE :usa | iranwar | pakistan |  ஈரானுக்கு அடுத்த இலக்கு பாகிஸ்தானா? ஸ்கெட்ச் போட்டார் டிரம்ப்.."
-        artist: "Thanthi TV"
+        videoId: "DzcvDGITd4s"
+        name: "Today Headlines - 21 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-Tppc6OKbBY"
-        name: "🔴LIVE: iran | எரிமலையில் கைவைத்த ஈரான்.. உலகின் பெரிய கிடங்கே காலி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YkT6i4Iwrco"
-        name: "🔴LIVE :World News | அமெரிக்காவுக்கு  பேரதிர்ச்சி கொடுத்த Iran"
-        artist: "Malaimurasu Tv 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ds6sxKZ5Qxk"
-        name: "Middle East Tension, Big Attack From Iran to Israel | Geo News 9PM Headlines | 21 March 2026"
+        videoId: "15lbFco81HA"
+        name: "War Update - Iran Issues Big Statement| Geo News 11 PM Headlines | 21 March 2026"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Nt1hFggBMVI"
-        name: "LIVE : మూడో ప్రపంచ యుద్ధం.. ఇరాన్ టాప్ కమాండర్ ఖతం |  Iran, Israel War | Third World War | hmtv"
-        artist: "hmtv Telugu News"
+        videoId: "gEdYKjHtD3o"
+        name: "🔴LIVE:  Iran war | போரில் அடுத்த சம்பவம்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8JPf8w0YRhI"
+        name: "🔴LIVE: iran america war | போர் - பொறுத்தது போதும் - இந்தியா எடுத்த முடிவு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EAwI1jKzxP4"
+        name: "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wkquOBqIBe0"
+        name: "Decode Live: War Update | Iran Oil Sanctions | Diego Garcia Attack | India | Nuclear ICBM | PM Modi"
+        artist: "DD News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-21T20:17:44.266Z"
+  exported_at: "2026-03-21T21:17:37.492Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-21T20:17:44.225Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-21T21:17:37.301Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
