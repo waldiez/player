@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-21T23:17:30.360Z",
+    "generatedAt": "2026-03-22T01:25:49.958Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Zt6ED_yJhOI",
-            "name": "US Was Not Ready For This! | LIVE: Trump Signals Possible Exit as Iran Claims Strategic Masterstroke",
+            "videoId": "Ad7NrCCCZjU",
+            "name": "🔴LIVE : அநாதையாய் விடப்பட்ட டிரம்ப்.. 2,200 கிலோ வெடிகுண்டுடன் இறங்கிய US.. ஈரானில் பெரும் பதற்றம்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ndy8DE_UWuY",
+            "name": "America-IRAN WAR LIVE: Iran Hits US Bases & Gulf Energy Hubs After South Pars Strike! Tel Aviv |N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eXsNZKcYqV4",
+            "name": "LIVE: ABC News Live - Saturday, March 21",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_AthHIkMSBU",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AN3xcOR7evc",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6FmK87pCNxw",
+            "name": "Good Morning America Full Broadcast — Saturday, March 21, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "V1uQavRXjo8",
+            "name": "US Iran War LIVE | President Trump Sends Additional Troops To Tehran, Iran Capture Soon? | N18G",
             "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AnD3H-rHNYM",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DzcvDGITd4s",
-            "name": "Today Headlines - 21 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "15lbFco81HA",
-            "name": "War Update - Iran Issues Big Statement| Geo News 11 PM Headlines | 21 March 2026",
-            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
