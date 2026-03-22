@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T16:20:38.509Z",
+    "generatedAt": "2026-03-22T17:19:10.475Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ppg32KuSV-0",
-            "name": "🔴 LIVE | World War III | Emergency Imposed in Israel After Iranian Attacks | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "g3AJeS6rtwo",
+            "name": "🔴LIVE: Tvk Vijay |  New Vijay | Election 2020 Plan | 25-ம் தேதி முதல் புது விஜய்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "AZ9hMoYt96k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "t27TP0jV6CM",
+            "name": "Janhit LIVE: एटमी वॉर का सायरन ? | Iran Israel War | Nuclear News | Trump | Netanyahu | WW3",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TyAmd2Sq7so",
-            "name": "BREAKING FIRST LIVE | Iran Strikes Dimona, Close to Israel’s Nuclear Facility; More Than 100 Injured",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZNyJ_ZrCpd0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zPH1IpglZV0",
-            "name": "9 PM Gujarati News LIVE | 9 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ssjaL9XR2MI",
-            "name": "Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | N18G",
+            "videoId": "NMxxHv4J88U",
+            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "0PXAcM4OKYs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "iKz7_OXYGOg",
+            "name": "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "7gFVewJW4cc",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "Times Now"
+            "videoId": "N5tg-ylc9o0",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Trump ने फाइटर..Pakistan की ओर मोड़ा? | Iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "GuPoxN8GJqY",
-            "name": "Donald Trump Speech LIVE | Donald Trump Issues 48-Hour Iran Ultimatum—War Incoming? | US NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "rIQLtQ9r47M",
+            "name": "News Headquarter LIVE : यूरोप तक पहुंची ईरान की झमता| War Breaking | Top News LIVE",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EAwI1jKzxP4",
+            "name": "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Jf9ZSzZiuZA",
+            "name": "Iran Israel War - Latest Update | Express News 4 PM Headlines | 22 March 2026",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sGNyguDhdsI",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
