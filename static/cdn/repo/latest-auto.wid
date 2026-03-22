@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260322T102001.319Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260322T111731.076Z-l4t35t"
   type: "state"
-  created: "2026-03-22T10:20:01.319Z"
+  created: "2026-03-22T11:17:31.076Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T102001.319Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T111731.076Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,37 +53,49 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ihuci3-HEEk"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.03.2026) | 2 PM Headlines | ThanthiTV"
+        videoId: "KxY-m73Wox8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dl6wSypTkn0"
+        name: "News Ki Pathshala Live: Iran का ऐसा बदला...दुनियाभर में हड़कंप!| PM Modi | America | Israel Vs Iran"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vUkQI3iJAWI"
+        name: "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (22.03.2026) | 4 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6BPu4bAuLmQ"
-        name: "LIVE | Iran’s Revenge Unleashed: Deadliest Strike Wave Targets US-Israel Bases | Trump | Netanyahu"
-        artist: "Mint"
+        videoId: "B4EI82A3hlc"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 22.03.2026 | Today News | Ajker News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mi2AT55lk0I"
+        videoId: "CMogF60v2dA"
         name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9BltO07o2l8"
-        name: "World News Live : घायल ईरान का घातक हमला !  अमेरिका परेशान, ट्रंप हैरान, जमीन पर उतारेंगे सेना !"
-        artist: "Times Now Navbharat"
+        videoId: "THDyKkliL94"
+        name: "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_mGzZ-20tb4"
-        name: "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei"
-        artist: "Times Now Navbharat"
+        videoId: "5ZEHSx4Jh5A"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lVd64F64blM"
+        videoId: "xz4vpQg1Onk"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-22T10:20:01.319Z"
+  exported_at: "2026-03-22T11:17:31.076Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-22T10:20:01.278Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-22T11:17:31.034Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
