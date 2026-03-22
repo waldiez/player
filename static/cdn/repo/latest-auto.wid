@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260322T133838.628Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260322T142106.281Z-l4t35t"
   type: "state"
-  created: "2026-03-22T13:38:38.628Z"
+  created: "2026-03-22T14:21:06.281Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T133838.628Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T142106.281Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Vj31z1fvyuE"
-        name: "LIVE | Nuke Shockwaves Rock Iran As US-Israel Bomb Natanz, Tehran In Major Middle East Escalation"
-        artist: "CRUX"
+        videoId: "Zg2gohkIDbo"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Jf9ZSzZiuZA"
-        name: "Iran Israel War - Latest Update | Express News 4 PM Headlines | 22 March 2026"
-        artist: "Express News"
+        videoId: "0PXAcM4OKYs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KxY-m73Wox8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "7gFVewJW4cc"
+        name: "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GuPoxN8GJqY"
+        name: "Donald Trump Speech LIVE | Donald Trump Issues 48-Hour Iran Ultimatum—War Incoming? | US NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EAwI1jKzxP4"
+        name: "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sGNyguDhdsI"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Nv03D2vv_xo"
+        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 22.03.2026 | Top News | Latest News | Breaking News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hqcfqJfA4VI"
+        name: "Putin LIVE: Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning? | Iran-Israel War"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-22T13:38:38.628Z"
+  exported_at: "2026-03-22T14:21:06.281Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-22T13:38:38.589Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-22T14:21:06.237Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
