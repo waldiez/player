@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T01:25:49.958Z",
+    "generatedAt": "2026-03-22T04:12:23.240Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ad7NrCCCZjU",
-            "name": "🔴LIVE : அநாதையாய் விடப்பட்ட டிரம்ப்.. 2,200 கிலோ வெடிகுண்டுடன் இறங்கிய US.. ஈரானில் பெரும் பதற்றம்",
-            "artist": "NewsTamil 24X7"
+            "videoId": "_mGzZ-20tb4",
+            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Ndy8DE_UWuY",
-            "name": "America-IRAN WAR LIVE: Iran Hits US Bases & Gulf Energy Hubs After South Pars Strike! Tel Aviv |N18G",
+            "videoId": "Yv4ZosmMzZQ",
+            "name": "US Iran War Latest News | Iran Rejects Ceasefire, Demands Permanent End To War With Guarantees",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-fD1I8ro_H0",
+            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "11Ip5wvkDdI",
+            "name": "US NEWS LIVE: Pam Bondi Reacts to New Epstein Files Target Trump | Pam Bondi LIVE | World News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b7ul66jOFzc",
+            "name": "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M8AoSe4vSvU",
+            "name": "Putin LIVE: Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning? | Iran-Israel War",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EkHSHPkJWMU",
+            "name": "US Iran War LIVE: Iran Claims US-Israeli Strike on Its Natanz Nuclear Facility | Firstpost | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yV5VINvFOds",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 21, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vZUojlKjQsc",
+            "name": "Gujarat Breaking News Live | Gujarat Unseasonal Rain Alert | Patan Demolition | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w2pp0OEE2yw",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "eXsNZKcYqV4",
-            "name": "LIVE: ABC News Live - Saturday, March 21",
-            "artist": "ABC News"
+            "videoId": "kRNsAz3-uzQ",
+            "name": "US Breaking News LIVE: Donald Trump's Urgent Announcement | US On High Alert? | White House LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "_AthHIkMSBU",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AN3xcOR7evc",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6FmK87pCNxw",
-            "name": "Good Morning America Full Broadcast — Saturday, March 21, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V1uQavRXjo8",
-            "name": "US Iran War LIVE | President Trump Sends Additional Troops To Tehran, Iran Capture Soon? | N18G",
-            "artist": "CNN-News18"
+            "videoId": "sGNyguDhdsI",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {

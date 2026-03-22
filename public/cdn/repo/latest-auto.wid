@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260322T012549.997Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260322T041223.280Z-l4t35t"
   type: "state"
-  created: "2026-03-22T01:25:49.997Z"
+  created: "2026-03-22T04:12:23.280Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T012549.997Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T041223.280Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ad7NrCCCZjU"
-        name: "🔴LIVE : அநாதையாய் விடப்பட்ட டிரம்ப்.. 2,200 கிலோ வெடிகுண்டுடன் இறங்கிய US.. ஈரானில் பெரும் பதற்றம்"
-        artist: "NewsTamil 24X7"
+        videoId: "_mGzZ-20tb4"
+        name: "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ndy8DE_UWuY"
-        name: "America-IRAN WAR LIVE: Iran Hits US Bases & Gulf Energy Hubs After South Pars Strike! Tel Aviv |N18G"
+        videoId: "Yv4ZosmMzZQ"
+        name: "US Iran War Latest News | Iran Rejects Ceasefire, Demands Permanent End To War With Guarantees"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-fD1I8ro_H0"
+        name: "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "11Ip5wvkDdI"
+        name: "US NEWS LIVE: Pam Bondi Reacts to New Epstein Files Target Trump | Pam Bondi LIVE | World News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b7ul66jOFzc"
+        name: "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M8AoSe4vSvU"
+        name: "Putin LIVE: Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning? | Iran-Israel War"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EkHSHPkJWMU"
+        name: "US Iran War LIVE: Iran Claims US-Israeli Strike on Its Natanz Nuclear Facility | Firstpost | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yV5VINvFOds"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 21, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vZUojlKjQsc"
+        name: "Gujarat Breaking News Live | Gujarat Unseasonal Rain Alert | Patan Demolition | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w2pp0OEE2yw"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eXsNZKcYqV4"
-        name: "LIVE: ABC News Live - Saturday, March 21"
-        artist: "ABC News"
+        videoId: "kRNsAz3-uzQ"
+        name: "US Breaking News LIVE: Donald Trump's Urgent Announcement | US On High Alert? | White House LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_AthHIkMSBU"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AN3xcOR7evc"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6FmK87pCNxw"
-        name: "Good Morning America Full Broadcast — Saturday, March 21, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V1uQavRXjo8"
-        name: "US Iran War LIVE | President Trump Sends Additional Troops To Tehran, Iran Capture Soon? | N18G"
-        artist: "CNN-News18"
+        videoId: "sGNyguDhdsI"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-22T01:25:49.997Z"
+  exported_at: "2026-03-22T04:12:23.280Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-22T01:25:49.958Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-22T04:12:23.240Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
