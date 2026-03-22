@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T17:19:10.475Z",
+    "generatedAt": "2026-03-22T18:26:02.449Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,56 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "g3AJeS6rtwo",
-            "name": "🔴LIVE: Tvk Vijay |  New Vijay | Election 2020 Plan | 25-ம் தேதி முதல் புது விஜய்",
-            "artist": "Sathiyam News"
+            "videoId": "UFLtDNu6fFU",
+            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "t27TP0jV6CM",
-            "name": "Janhit LIVE: एटमी वॉर का सायरन ? | Iran Israel War | Nuclear News | Trump | Netanyahu | WW3",
-            "artist": "ABP NEWS"
+            "videoId": "1M583OAoFrY",
+            "name": "US-Iran War LIVE: Netanyahu Calls on World to Join War After Iran Strikes Near Israel Nuclear Site",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "NMxxHv4J88U",
-            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
-            "artist": "Firstpost"
+            "videoId": "ANLzGvlRyyc",
+            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 22-03-2026",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "iKz7_OXYGOg",
-            "name": "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "ppg32KuSV-0",
+            "name": "🔴 LIVE | World War III | Emergency Imposed in Israel After Iranian Attacks | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "N5tg-ylc9o0",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Trump ने फाइटर..Pakistan की ओर मोड़ा? | Iran Israel War",
+            "videoId": "AZ9hMoYt96k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JzR6PXxxa6Q",
+            "name": "News Ki Pathshala Live: Trump ईरान में सेना लेकर उतरने वाले हैं?| PM Modi | America | Israel Vs Iran",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "rIQLtQ9r47M",
-            "name": "News Headquarter LIVE : यूरोप तक पहुंची ईरान की झमता| War Breaking | Top News LIVE",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EAwI1jKzxP4",
-            "name": "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jf9ZSzZiuZA",
-            "name": "Iran Israel War - Latest Update | Express News 4 PM Headlines | 22 March 2026",
-            "artist": "Express News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sGNyguDhdsI",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "videoId": "KJaPgkVnfLk",
+            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
             "artist": "Times Now World"
         }
     ],
