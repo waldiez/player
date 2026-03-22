@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T14:21:06.237Z",
+    "generatedAt": "2026-03-22T15:19:03.155Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Zg2gohkIDbo",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "Vj31z1fvyuE",
+            "name": "LIVE | Nuke Shockwaves Rock Iran As US-Israel Bomb Natanz, Tehran In Major Middle East Escalation",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "0PXAcM4OKYs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "OrCH6XEzMwI",
+            "name": "LIVE NEWS: Iran war latest, gas prices, SAVE America Act debate",
+            "artist": "LiveNOW from FOX"
         },
         {
             "mood": "storm",
-            "videoId": "7gFVewJW4cc",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "Times Now"
+            "videoId": "Jf9ZSzZiuZA",
+            "name": "Iran Israel War - Latest Update | Express News 4 PM Headlines | 22 March 2026",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "GuPoxN8GJqY",
-            "name": "Donald Trump Speech LIVE | Donald Trump Issues 48-Hour Iran Ultimatum—War Incoming? | US NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "47uH2xct8eU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "EAwI1jKzxP4",
-            "name": "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sGNyguDhdsI",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nv03D2vv_xo",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 22.03.2026 | Top News | Latest News | Breaking News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hqcfqJfA4VI",
-            "name": "Putin LIVE: Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning? | Iran-Israel War",
-            "artist": "Times Now World"
+            "videoId": "hTEzd0B6o9s",
+            "name": "Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
