@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T19:19:51.044Z",
+    "generatedAt": "2026-03-22T20:18:05.168Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C3rGyWCEi0Q",
-            "name": "Iran Big Attack, War Alert - Latest Update| Headlines Geo News 11 PM (22nd March 2026)",
+            "videoId": "vUkQI3iJAWI",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UFLtDNu6fFU",
+            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cV6SqWBYhF8",
+            "name": "Iran Ready to Attack London? Israel Claim - Iran Latest | Headlines Geo News 10 PM (22nd March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "g3AJeS6rtwo",
-            "name": "🔴LIVE: Tvk Vijay |  New Vijay | Election 2020 Plan | 25-ம் தேதி முதல் புது விஜய்",
-            "artist": "Sathiyam News"
+            "videoId": "ANLzGvlRyyc",
+            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 22-03-2026",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "NMxxHv4J88U",
-            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
-            "artist": "Firstpost"
+            "videoId": "ppg32KuSV-0",
+            "name": "🔴 LIVE | World War III | Emergency Imposed in Israel After Iranian Attacks | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "d35xxSRxMes",
-            "name": "LIVE: Ex-Pak Envoy Makes Provocative Remarks, says \"If US Attacks Pakistan, We Will Target India\"",
-            "artist": "Firstpost"
+            "videoId": "AZ9hMoYt96k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "iKz7_OXYGOg",
-            "name": "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N5tg-ylc9o0",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Trump ने फाइटर..Pakistan की ओर मोड़ा? | Iran Israel War",
-            "artist": "Times Now Navbharat"
+            "videoId": "KJaPgkVnfLk",
+            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
