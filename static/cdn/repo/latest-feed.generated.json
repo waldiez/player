@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T09:25:01.913Z",
+    "generatedAt": "2026-03-22T10:20:01.278Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CMogF60v2dA",
+            "videoId": "Ihuci3-HEEk",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6BPu4bAuLmQ",
+            "name": "LIVE | Iran’s Revenge Unleashed: Deadliest Strike Wave Targets US-Israel Bases | Trump | Netanyahu",
+            "artist": "Mint"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mi2AT55lk0I",
             "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "THDyKkliL94",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
-            "artist": "Times Now"
+            "videoId": "9BltO07o2l8",
+            "name": "World News Live : घायल ईरान का घातक हमला !  अमेरिका परेशान, ट्रंप हैरान, जमीन पर उतारेंगे सेना !",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "xz4vpQg1Onk",
+            "videoId": "_mGzZ-20tb4",
+            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lVd64F64blM",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hmUOdAQC5Cg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "102JUhSF0QM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
