@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T15:19:03.155Z",
+    "generatedAt": "2026-03-22T16:20:38.509Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Vj31z1fvyuE",
-            "name": "LIVE | Nuke Shockwaves Rock Iran As US-Israel Bomb Natanz, Tehran In Major Middle East Escalation",
-            "artist": "CRUX"
+            "videoId": "ppg32KuSV-0",
+            "name": "🔴 LIVE | World War III | Emergency Imposed in Israel After Iranian Attacks | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "OrCH6XEzMwI",
-            "name": "LIVE NEWS: Iran war latest, gas prices, SAVE America Act debate",
-            "artist": "LiveNOW from FOX"
+            "videoId": "AZ9hMoYt96k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "Jf9ZSzZiuZA",
-            "name": "Iran Israel War - Latest Update | Express News 4 PM Headlines | 22 March 2026",
-            "artist": "Express News"
+            "videoId": "TyAmd2Sq7so",
+            "name": "BREAKING FIRST LIVE | Iran Strikes Dimona, Close to Israel’s Nuclear Facility; More Than 100 Injured",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "47uH2xct8eU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "ZNyJ_ZrCpd0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "hTEzd0B6o9s",
-            "name": "Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open | BBC News",
-            "artist": "BBC News"
+            "videoId": "zPH1IpglZV0",
+            "name": "9 PM Gujarati News LIVE | 9 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ssjaL9XR2MI",
+            "name": "Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0PXAcM4OKYs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7gFVewJW4cc",
+            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GuPoxN8GJqY",
+            "name": "Donald Trump Speech LIVE | Donald Trump Issues 48-Hour Iran Ultimatum—War Incoming? | US NEWS LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
