@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T05:47:41.929Z",
+    "generatedAt": "2026-03-22T06:40:51.815Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3TKCN0S3WyA",
-            "name": "Israel Iran War LIVE | IRGC Ballistic Missiles 'Hit' US-UK Military Base 4000km Away In Diego Garcia",
-            "artist": "CRUX"
+            "videoId": "s6N9d9fP2bA",
+            "name": "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "4BD8bnueGAI",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 22.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "videoId": "_mGzZ-20tb4",
+            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b7ul66jOFzc",
+            "name": "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "igPOjHIWtg8",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 22.03.2026 | Morning News | Today News | Ajker News | ATN Bangla",
             "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "COaha8pLS6E",
-            "name": "US Iran War LIVE: BIG UPDATE from CENTCOM in US Iran War | US Claims Massive Damage to Iran Military",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_AthHIkMSBU",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UzDo1oee394",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OzAKZhMqU1U",
-            "name": "Trump LIVE: US President Drops Urgent Bombshell, Americans In Shock?  | Trump's War Update | us news",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qFcpSNxrRGw",
-            "name": "Trump LIVE: Trump Issues Big War Warning In Viral Speech | Trump Address Iran War | World News LIVE",
-            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
