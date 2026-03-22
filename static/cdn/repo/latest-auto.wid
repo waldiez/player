@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260322T041223.280Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260322T054741.969Z-l4t35t"
   type: "state"
-  created: "2026-03-22T04:12:23.280Z"
+  created: "2026-03-22T05:47:41.969Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T041223.280Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T054741.969Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_mGzZ-20tb4"
-        name: "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei"
-        artist: "Times Now Navbharat"
+        videoId: "3TKCN0S3WyA"
+        name: "Israel Iran War LIVE | IRGC Ballistic Missiles 'Hit' US-UK Military Base 4000km Away In Diego Garcia"
+        artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Yv4ZosmMzZQ"
-        name: "US Iran War Latest News | Iran Rejects Ceasefire, Demands Permanent End To War With Guarantees"
-        artist: "NDTV"
+        videoId: "4BD8bnueGAI"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 22.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-fD1I8ro_H0"
-        name: "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "11Ip5wvkDdI"
-        name: "US NEWS LIVE: Pam Bondi Reacts to New Epstein Files Target Trump | Pam Bondi LIVE | World News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b7ul66jOFzc"
-        name: "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M8AoSe4vSvU"
-        name: "Putin LIVE: Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning? | Iran-Israel War"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EkHSHPkJWMU"
-        name: "US Iran War LIVE: Iran Claims US-Israeli Strike on Its Natanz Nuclear Facility | Firstpost | N18G"
+        videoId: "COaha8pLS6E"
+        name: "US Iran War LIVE: BIG UPDATE from CENTCOM in US Iran War | US Claims Massive Damage to Iran Military"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yV5VINvFOds"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 21, 2026"
-        artist: "ABC News"
+        videoId: "_AthHIkMSBU"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vZUojlKjQsc"
-        name: "Gujarat Breaking News Live | Gujarat Unseasonal Rain Alert | Patan Demolition | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "UzDo1oee394"
+        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "w2pp0OEE2yw"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kRNsAz3-uzQ"
-        name: "US Breaking News LIVE: Donald Trump's Urgent Announcement | US On High Alert? | White House LIVE"
+        videoId: "OzAKZhMqU1U"
+        name: "Trump LIVE: US President Drops Urgent Bombshell, Americans In Shock?  | Trump's War Update | us news"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sGNyguDhdsI"
-        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
-        artist: "Times Now World"
+        videoId: "qFcpSNxrRGw"
+        name: "Trump LIVE: Trump Issues Big War Warning In Viral Speech | Trump Address Iran War | World News LIVE"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-22T04:12:23.280Z"
+  exported_at: "2026-03-22T05:47:41.969Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-22T04:12:23.240Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-22T05:47:41.929Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
