@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T20:18:05.168Z",
+    "generatedAt": "2026-03-22T21:18:59.228Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vUkQI3iJAWI",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "hPs2DltCUpM",
+            "name": "US‑IRAN WAR LIVE | Trump Issues Ultimatum, Military Action Update | Breaking News LIVE",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "UFLtDNu6fFU",
-            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
-            "artist": "ET Now World"
+            "videoId": "9s8vdqR7-NM",
+            "name": "World News Live : तेल गैस में लगी आग, दुनिया भर के शेयर मार्केट में मचा हाहाकार ! Iran Israel War |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "cV6SqWBYhF8",
-            "name": "Iran Ready to Attack London? Israel Claim - Iran Latest | Headlines Geo News 10 PM (22nd March 2026)",
+            "videoId": "C3rGyWCEi0Q",
+            "name": "Iran Big Attack, War Alert - Latest Update| Headlines Geo News 11 PM (22nd March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "ANLzGvlRyyc",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 22-03-2026",
-            "artist": "News18 Kerala"
+            "videoId": "ZfI0P8KH4S8",
+            "name": "Israel-Iran War LIVE: Iran Unlocks 'Beast' Mode, Missiles Set Israel's Nuclear City Dimona On Fire",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "ppg32KuSV-0",
-            "name": "🔴 LIVE | World War III | Emergency Imposed in Israel After Iranian Attacks | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "1M583OAoFrY",
+            "name": "US-Iran War LIVE: Netanyahu Calls on World to Join War After Iran Strikes Near Israel Nuclear Site",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "AZ9hMoYt96k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "NMxxHv4J88U",
+            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "KJaPgkVnfLk",
-            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
-            "artist": "Times Now World"
+            "videoId": "d35xxSRxMes",
+            "name": "LIVE: Ex-Pak Envoy Makes Provocative Remarks, says \"If US Attacks Pakistan, We Will Target India\"",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2rMq-kCWBD8",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 22 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
