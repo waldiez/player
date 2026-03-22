@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T22:17:50.330Z",
+    "generatedAt": "2026-03-22T23:20:03.894Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Sg-4tKciJxU",
-            "name": "Eid । गोरक्षक । शिक्षक । Govt ❌ Decision । नवरात्रि । Iran War Latest Live । Dimona । Arad । World",
-            "artist": "Nitin Shukla Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xlBBv4NEGzc",
-            "name": "WATCH LIVE: President Trump Makes Big Announcement at the White House | Trump on Iran Israel War",
+            "videoId": "hPs2DltCUpM",
+            "name": "US‑IRAN WAR LIVE | Trump Issues Ultimatum, Military Action Update | Breaking News LIVE",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "UFLtDNu6fFU",
-            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cV6SqWBYhF8",
-            "name": "Iran Ready to Attack London? Israel Claim - Iran Latest | Headlines Geo News 10 PM (22nd March 2026)",
+            "videoId": "HCsBl10SrqY",
+            "name": "Iran Massive Attack on Nuclear Plant, Dozens Dead | Headlines Geo News 12 AM (23 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "ANLzGvlRyyc",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 22-03-2026",
-            "artist": "News18 Kerala"
+            "videoId": "9s8vdqR7-NM",
+            "name": "World News Live : तेल गैस में लगी आग, दुनिया भर के शेयर मार्केट में मचा हाहाकार ! Iran Israel War |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "iKz7_OXYGOg",
-            "name": "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "LVv277x-iM0",
+            "name": "Iran US War Live Updates | Israel's Nuclear Center on Iran's Target | 12 AM News Headlines",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C3rGyWCEi0Q",
+            "name": "Iran Big Attack, War Alert - Latest Update| Headlines Geo News 11 PM (22nd March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NMxxHv4J88U",
+            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d35xxSRxMes",
+            "name": "LIVE: Ex-Pak Envoy Makes Provocative Remarks, says \"If US Attacks Pakistan, We Will Target India\"",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
