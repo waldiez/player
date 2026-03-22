@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260322T211859.267Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260322T221750.369Z-l4t35t"
   type: "state"
-  created: "2026-03-22T21:18:59.267Z"
+  created: "2026-03-22T22:17:50.369Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T211859.267Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260322T221750.369Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hPs2DltCUpM"
-        name: "US‑IRAN WAR LIVE | Trump Issues Ultimatum, Military Action Update | Breaking News LIVE"
+        videoId: "Sg-4tKciJxU"
+        name: "Eid । गोरक्षक । शिक्षक । Govt ❌ Decision । नवरात्रि । Iran War Latest Live । Dimona । Arad । World"
+        artist: "Nitin Shukla Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xlBBv4NEGzc"
+        name: "WATCH LIVE: President Trump Makes Big Announcement at the White House | Trump on Iran Israel War"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9s8vdqR7-NM"
-        name: "World News Live : तेल गैस में लगी आग, दुनिया भर के शेयर मार्केट में मचा हाहाकार ! Iran Israel War |"
-        artist: "Times Now Navbharat"
+        videoId: "UFLtDNu6fFU"
+        name: "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C3rGyWCEi0Q"
-        name: "Iran Big Attack, War Alert - Latest Update| Headlines Geo News 11 PM (22nd March 2026)"
+        videoId: "cV6SqWBYhF8"
+        name: "Iran Ready to Attack London? Israel Claim - Iran Latest | Headlines Geo News 10 PM (22nd March 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZfI0P8KH4S8"
-        name: "Israel-Iran War LIVE: Iran Unlocks 'Beast' Mode, Missiles Set Israel's Nuclear City Dimona On Fire"
-        artist: "Hindustan Times"
+        videoId: "ANLzGvlRyyc"
+        name: "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 22-03-2026"
+        artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1M583OAoFrY"
-        name: "US-Iran War LIVE: Netanyahu Calls on World to Join War After Iran Strikes Near Israel Nuclear Site"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NMxxHv4J88U"
-        name: "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "d35xxSRxMes"
-        name: "LIVE: Ex-Pak Envoy Makes Provocative Remarks, says \"If US Attacks Pakistan, We Will Target India\""
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2rMq-kCWBD8"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 22 March 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "iKz7_OXYGOg"
+        name: "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-22T21:18:59.267Z"
+  exported_at: "2026-03-22T22:17:50.369Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-22T21:18:59.228Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-22T22:17:50.330Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
