@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T11:17:31.034Z",
+    "generatedAt": "2026-03-22T12:33:12.246Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KxY-m73Wox8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "0PXAcM4OKYs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "dl6wSypTkn0",
-            "name": "News Ki Pathshala Live: Iran का ऐसा बदला...दुनियाभर में हड़कंप!| PM Modi | America | Israel Vs Iran",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vUkQI3iJAWI",
-            "name": "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (22.03.2026) | 4 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B4EI82A3hlc",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 22.03.2026 | Today News | Ajker News | Latest News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CMogF60v2dA",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "THDyKkliL94",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "videoId": "7gFVewJW4cc",
+            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "5ZEHSx4Jh5A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "GuPoxN8GJqY",
+            "name": "Donald Trump Speech LIVE | Donald Trump Issues 48-Hour Iran Ultimatum—War Incoming? | US NEWS LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "xz4vpQg1Onk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "EAwI1jKzxP4",
+            "name": "PUTIN LIVE: Putin Stuns the World With Shocking New Statement | World News",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sGNyguDhdsI",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fykORxwYxwk",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LBdH-LmaTEE",
+            "name": "ईरान-अमेरिका जंग, 22 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ao0e6tTM13k",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 22 March 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ihuci3-HEEk",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
