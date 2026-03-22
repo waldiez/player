@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T06:40:51.815Z",
+    "generatedAt": "2026-03-22T07:33:33.112Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "s6N9d9fP2bA",
-            "name": "News Ki Pathshala Live | Sushant Sinha | 21 दिन से युद्ध की चपेट में पूरी दुनिया | Iran Israel War",
+            "videoId": "F0WFVdoy1BY",
+            "name": "LIVE | ईरान-अमेरिका जंग 22 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9s8vdqR7-NM",
+            "name": "World News Live : तेल गैस में लगी आग, दुनिया भर के शेयर मार्केट में मचा हाहाकार ! Iran Israel War |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "_mGzZ-20tb4",
-            "name": "World News live | News Ki Pathshala |  Iran Israel War में America को भारी नुकसान | Mojtaba Khamenei",
+            "videoId": "-iy79E6onE8",
+            "name": "Today's Morning News LIVE: Petrol Diesel Price Hike | Israel Iran War | Donald Trump | Dhurandhar 2",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NcDBlPUrCj0",
+            "name": "News Ki Pathshala Live: Iran का ऐसा बदला...दुनियाभर में हड़कंप!| PM Modi | America | Israel Vs Iran",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "b7ul66jOFzc",
-            "name": "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR",
-            "artist": "Times Now World"
+            "videoId": "V3OxbkZ_Y8g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Today's Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "igPOjHIWtg8",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 22.03.2026 | Morning News | Today News | Ajker News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "3TKCN0S3WyA",
+            "name": "Israel Iran War LIVE | IRGC Ballistic Missiles 'Hit' US-UK Military Base 4000km Away In Diego Garcia",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_AthHIkMSBU",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         }
     ],
     "sourceFilters": {
