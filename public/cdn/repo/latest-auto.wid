@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T104917.693Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T113852.379Z-l4t35t"
   type: "state"
-  created: "2026-03-23T10:49:17.693Z"
+  created: "2026-03-23T11:38:52.379Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T104917.693Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T113852.379Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "k1GXbQHDKnw"
-        name: "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East"
-        artist: "Times Now World"
+        videoId: "oOz2JSR1rb0"
+        name: "Super 100 News LIVE: आज की बड़ी खबरें | Headlines Today | Aaj Ki Taja Khabar | War | 23 March"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y9pOH--yGvc"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "uf1EvzmygrM"
+        name: "Iran Vs Israel-US War Live: ईरान-Trump की ﻿टक्कर में एटमी विनाश का डर! | Middle East War | PM Modi"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tgg8fajgK-8"
-        name: "World News Live : ईरान के बाद, पाक का फाइनल हिसाब होगा ! Iran | Pakistan | USA | Israel | Trump |"
+        videoId: "EvxgkYLgAB0"
+        name: "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6ZdtEyhxqVo"
-        name: "🔴LIVE: Vijay | Tvk | விரைவில்... புது விஜய்"
+        videoId: "AlgUszIQUV4"
+        name: "Iran War LIVE: Iran War Escalates Sharply, Faces Massive Destruction As Global Tensions Surge | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HXO7de0Iz7I"
+        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YOjG8hXVbBU"
+        name: "🔴LIVE: வெடித்தது போர் 2.0! லிட்டில் இந்தியாவை அழிக்கும் ஈரான்."
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fI27EFRqNDY"
-        name: "Warning Signal: Oil Shortage Crisis Imminent | Headlines Geo News 12 PM (23 March 2026)"
-        artist: "Geo News"
+        videoId: "LA8qdqI2NA0"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 23.03.2026 | Today News | Latest News | Breaking News | Update News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LSSykm3bmaU"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 23 Mar'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T10:49:17.693Z"
+  exported_at: "2026-03-23T11:38:52.379Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T10:49:17.654Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-23T11:38:52.340Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
