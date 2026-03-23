@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T06:06:05.802Z",
+    "generatedAt": "2026-03-23T07:57:32.576Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "imeNfWxLTq0",
-            "name": "World News Live: युद्ध के बीच, ईरानी राष्ट्रपति और PM मोदी के बीच अहम बातचीत! Iran | India | Modi |",
-            "artist": "Times Now Navbharat"
+            "videoId": "RM9KjzGjeio",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Rapid News World"
         },
         {
             "mood": "storm",
-            "videoId": "qTTJ3n8kJiQ",
-            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
-            "artist": "Times Now World"
+            "videoId": "JQmVE_1tksU",
+            "name": "TRUMP IRAN CRISIS LIVE: U.S. Military on High Alert After Trump's Ultimatum to Tehran | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "5ESWQ2HeQk0",
-            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस सिलेंडर के लिए कोहराम ! | iran Israel War",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zyE3IbJbe3s",
-            "name": "पाकिस्तान-अफगानिस्तान जंग LIVE, 22  मार्च 2026 |Kabul Air Strike | War Breaking News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fykORxwYxwk",
-            "name": "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "APCNY_LdoRk",
-            "name": "News Ki Pathshala Live | Iran Us War | ईरान के हमले से क्यों मचा हाहाकार ? | World News | Iran news",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NXoWAtxtyL0",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 23.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S69TCtAUZPs",
-            "name": "Iran Launches New Cluster Warhead Missile Attack on Israel | Headlines Geo News 9 AM (23 March 2026)",
+            "videoId": "_AB7kDnSVEc",
+            "name": "Senator Urges End to War Amid Rising Tensions | Headlines Geo News 10 AM (23 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "3hubukYd2OE",
-            "name": "Iran Latest Attack on Israel | 8 AM News Headlines | 23 March 2026 | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Tq52f-5cXyI",
-            "name": "ईरान-अमेरिका जंग, 23 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "Mr0qdIf5GWk",
+            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ২৩ মার্চ ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
+            "artist": "SOMOY TV Bulletin"
         }
     ],
     "sourceFilters": {
