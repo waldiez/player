@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T08:54:55.577Z",
+    "generatedAt": "2026-03-23T09:56:21.436Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0xGudkx_v6Y",
-            "name": "LIVE: Ex-Pak Envoy says \"If US Attacks Pakistan, We Will Target Delhi & Mumbai\"",
-            "artist": "Firstpost"
+            "videoId": "EvxgkYLgAB0",
+            "name": "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Y5iXVhispx8",
-            "name": "🔴LIVE Lunch Time Sinhala News | (23.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5LLPfYchobc",
-            "name": "Today Headlines | 23 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "videoId": "YOjG8hXVbBU",
+            "name": "🔴LIVE: வெடித்தது போர் 2.0! லிட்டில் இந்தியாவை அழிக்கும் ஈரான்.",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "imeNfWxLTq0",
-            "name": "World News Live: युद्ध के बीच, ईरानी राष्ट्रपति और PM मोदी के बीच अहम बातचीत! Iran | India | Modi |",
-            "artist": "Times Now Navbharat"
+            "videoId": "LA8qdqI2NA0",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 23.03.2026 | Today News | Latest News | Breaking News | Update News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "qTTJ3n8kJiQ",
-            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
-            "artist": "Times Now World"
+            "videoId": "WecsJoJ3VVU",
+            "name": "Israel-Iran War LIVE | Biggest Attack On Tehran Yet | US Forces In Iran? | US-Iran War LIVE | Trump",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "5ESWQ2HeQk0",
-            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस सिलेंडर के लिए कोहराम ! | iran Israel War",
-            "artist": "Times Now Navbharat"
+            "videoId": "qXEQO-YdrXA",
+            "name": "Breaking News: New York में Airport प्लेन हादसे में Pilot-CO Pilot की मौत - TV9 | Air Canada",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RM9KjzGjeio",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Rapid News World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JQmVE_1tksU",
+            "name": "TRUMP IRAN CRISIS LIVE: U.S. Military on High Alert After Trump's Ultimatum to Tehran | World News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
