@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T15:53:53.868Z",
+    "generatedAt": "2026-03-23T16:50:12.329Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EvxgkYLgAB0",
-            "name": "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |",
-            "artist": "Times Now Navbharat"
+            "videoId": "mNCm9VouORk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "Tgg8fajgK-8",
-            "name": "World News Live : ईरान के बाद, पाक का फाइनल हिसाब होगा ! Iran | Pakistan | USA | Israel | Trump |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PTFTr_TO-fU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3_0TzJYy5C0",
-            "name": "Firstpost LIVE | India: PM Modi Addresses Parliament On Iran-US War As West Asia Crisis Deepens",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5dPclfAcVI4",
-            "name": "Seedha Sawal LIVE: ट्रंप भरे शांति का दम, इजरायल बरसाए बम | Iran Attack on US-Israel War | Trump",
+            "videoId": "96GkXbFUBnU",
+            "name": "Iran Israel War LIVE: ईरान ने इजरायल के परमाणु केंद्र को उड़ाया? | America | Trump | Nulcear Sites",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XkXq1dK8WQE",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "U1WMUqFqoMM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "7W2EuEI6ajk",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 23 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "-M34uZrlpZk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "2v4VtHpVdV8",
+            "name": "US Iran War Latest News | Iran Mocks Trump's Strike Pause, Claims Victory and Denies Any US Talks",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OG9GxQukcs4",
+            "name": "Iran Us War New Live Update | Trump Stops War | 05 PM News Headlines | 23 March 2026 | SAMAA TV",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
