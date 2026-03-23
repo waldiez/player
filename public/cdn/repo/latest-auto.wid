@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T012559.443Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T042215.190Z-l4t35t"
   type: "state"
-  created: "2026-03-23T01:25:59.443Z"
+  created: "2026-03-23T04:22:15.190Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T012559.443Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T042215.190Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "g_xrFjQMeIA"
-        name: "US Iran War LIVE | Iran Threatens To Close Strait Of Hormuz | Trump | Israel Iran War | N18G"
-        artist: "CNN-News18"
+        videoId: "5uhbmHILPaM"
+        name: "News Ki Pathshala Live : ईरान के ताबड़तोड़ हमले, Trump परेशान ? | America Iran War news | Iran news"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KJaPgkVnfLk"
-        name: "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?"
-        artist: "Times Now World"
+        videoId: "qT8SECwScAE"
+        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v8jd44a5eSE"
+        videoId: "6faGpMAik5I"
+        name: "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | LPG Crisis"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5YURN0F8fr4"
+        name: "🔴LIVE: போர் 2.0  - லிட்டில் இந்தியா மீது ஈரான் ஏவுகணைத் தாக்குதல்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tkWHCKGeNKo"
         name: "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nvMmKarEsJI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Rapid News World"
+        videoId: "LSFt5AEfYt4"
+        name: "World War 3 Live: शुरू हो गई महाजंग! Trump | Iran-America War | Breaking News | India News"
+        artist: "India News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tdJm7mVBrhU"
-        name: "LIVE: ABC News Live - Sunday, March 22"
-        artist: "ABC News"
+        videoId: "G1Q5xhWALwY"
+        name: "War Drives Oil Prices Higher in International Markets | Headlines Geo News 7 AM (23 March 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LyATNwXUlWg"
-        name: "Iran strikes near nuclear facility in Israel | BBC News"
-        artist: "BBC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1DMFMA77iwE"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UFLtDNu6fFU"
-        name: "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE"
-        artist: "ET Now World"
+        videoId: "eUAtVWxHSXc"
+        name: "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T01:25:59.443Z"
+  exported_at: "2026-03-23T04:22:15.190Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T01:25:59.403Z"
+  source_generated_at: "2026-03-23T04:22:15.150Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
