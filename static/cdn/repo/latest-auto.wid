@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T165012.370Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T174454.359Z-l4t35t"
   type: "state"
-  created: "2026-03-23T16:50:12.370Z"
+  created: "2026-03-23T17:44:54.359Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T165012.370Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T174454.359Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mNCm9VouORk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express Bangla"
+        videoId: "3YsZh9mJpcw"
+        name: "Trump LIVE: Trump says Strikes on Iranian Energy Infrastructure Paused for 5 Days Amid US-Iran Talks"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "96GkXbFUBnU"
-        name: "Iran Israel War LIVE: ईरान ने इजरायल के परमाणु केंद्र को उड़ाया? | America | Trump | Nulcear Sites"
-        artist: "ABP NEWS"
+        videoId: "CE7T9a0BODI"
+        name: "🔴LIVE:  sathankulam | சாத்தான்குளம் தந்தை-மகன் வழக்கு - வெளியானது தீர்ப்பு"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U1WMUqFqoMM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "Wzvmp4qv6cY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-M34uZrlpZk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "fqnCXi3WIj0"
+        name: "🔴LIVE: Iran | America | ஈரானிடம் வெள்ளைக்கொடி காட்டுகிறதா அமெரிக்கா..?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2v4VtHpVdV8"
-        name: "US Iran War Latest News | Iran Mocks Trump's Strike Pause, Claims Victory and Denies Any US Talks"
-        artist: "NDTV"
+        videoId: "jd-1j673rkA"
+        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OG9GxQukcs4"
-        name: "Iran Us War New Live Update | Trump Stops War | 05 PM News Headlines | 23 March 2026 | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "675_ulcVUcg"
+        name: "LIVE: Trump Delays Iran Strikes, Hails \"Strong\" Talks To End War | Vantage with Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EvxgkYLgAB0"
+        name: "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xT8_CsFWAHE"
+        name: "News Ki Pathshala Live | Sushant Sinha | Iran War पर Modi संसद में क्या बोले..इंडी ने गदर मचा दिया"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tgg8fajgK-8"
+        name: "World News Live : ईरान के बाद, पाक का फाइनल हिसाब होगा ! Iran | Pakistan | USA | Israel | Trump |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7uzPeGB6_oA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC বাংলা খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3_0TzJYy5C0"
+        name: "Firstpost LIVE | India: PM Modi Addresses Parliament On Iran-US War As West Asia Crisis Deepens"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T16:50:12.370Z"
+  exported_at: "2026-03-23T17:44:54.359Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T16:50:12.329Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-23T17:44:54.318Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
