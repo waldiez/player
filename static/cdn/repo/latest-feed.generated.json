@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T11:38:52.340Z",
+    "generatedAt": "2026-03-23T12:47:19.673Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oOz2JSR1rb0",
-            "name": "Super 100 News LIVE: आज की बड़ी खबरें | Headlines Today | Aaj Ki Taja Khabar | War | 23 March",
-            "artist": "ABP NEWS"
+            "videoId": "ug_YfU5-giA",
+            "name": "🔴LIVE: Today Headlines | Puthiyathalaimurai Headlines | மாலை தலைப்புச் செய்திகள் | 23.03.26",
+            "artist": "PuthiyathalaimuraiTV"
         },
         {
             "mood": "storm",
-            "videoId": "uf1EvzmygrM",
-            "name": "Iran Vs Israel-US War Live: ईरान-Trump की ﻿टक्कर में एटमी विनाश का डर! | Middle East War | PM Modi",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "yWuu1EP6orc",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "EvxgkYLgAB0",
-            "name": "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |",
-            "artist": "Times Now Navbharat"
+            "videoId": "921MHhQRJr8",
+            "name": "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "AlgUszIQUV4",
-            "name": "Iran War LIVE: Iran War Escalates Sharply, Faces Massive Destruction As Global Tensions Surge | N18G",
-            "artist": "CNN-News18"
+            "videoId": "nCv6V8EckYY",
+            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "HXO7de0Iz7I",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
+            "videoId": "k1GXbQHDKnw",
+            "name": "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "YOjG8hXVbBU",
-            "name": "🔴LIVE: வெடித்தது போர் 2.0! லிட்டில் இந்தியாவை அழிக்கும் ஈரான்.",
-            "artist": "Sathiyam News"
+            "videoId": "Y9pOH--yGvc",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "LA8qdqI2NA0",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 23.03.2026 | Today News | Latest News | Breaking News | Update News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LSSykm3bmaU",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 23 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "8CUiDVuRaCs",
+            "name": "World News | ख़बरें विदेश की | 23 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
         }
     ],
     "sourceFilters": {
