@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T21:28:41.890Z",
+    "generatedAt": "2026-03-23T22:24:28.851Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rW2Pg8jnFhM",
-            "name": "🔴LIVE | US Iran Negotiation - Donald  Trump Statement | ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cgudSVnBT98",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UeDWgdnRhh8",
-            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update",
+            "videoId": "szM-cOWRYxM",
+            "name": "🔴 LIVE | US–Israel–Iran war | Trump approaches Field Marshal Asim Munir to bring peace | SAMAA TV",
             "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "DDJ3U9w7ByA",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "7e1I3zbX_-g",
+            "name": "🔴LIVE : IRAN | ISRAEL | America | ஈரான் போரில் உலகமே எதிர்பாரா திருப்பம் - டிரம்பின் ஷாக் அறிவிப்பு",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "yUMCr8z6t0w",
-            "name": "Iran Us War New Live | Iran Rejected Trump Offer! | 11 PM News Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "9tQfO2NfSVY",
+            "name": "LaGuardia Airport crash latest",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "n7i0lsnHdlI",
+            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे Trump ! | Netanyahu | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HkP08X_1fiM",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EvKao3iyY_g",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Iran में हारते Trump कुछ भयंकर प्लान कर रहे हैं?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CE7T9a0BODI",
+            "name": "🔴LIVE:  sathankulam | சாத்தான்குளம் தந்தை-மகன் வழக்கு - வெளியானது தீர்ப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8M8sW3L33ZI",
+            "name": "🟢LIVE: Israel vs Iran | வெறித்தனமாய் தாக்கும் Iran! -குலைநடுங்கும் Israel.. டிரம்ப்க்கு எச்சரிக்கை!",
+            "artist": "News18 Tamil Nadu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fqnCXi3WIj0",
+            "name": "🔴LIVE: Iran | America | ஈரானிடம் வெள்ளைக்கொடி காட்டுகிறதா அமெரிக்கா..?",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
