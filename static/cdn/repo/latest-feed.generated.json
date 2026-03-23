@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T07:57:32.576Z",
+    "generatedAt": "2026-03-23T08:54:55.577Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RM9KjzGjeio",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Rapid News World"
+            "videoId": "0xGudkx_v6Y",
+            "name": "LIVE: Ex-Pak Envoy says \"If US Attacks Pakistan, We Will Target Delhi & Mumbai\"",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "JQmVE_1tksU",
-            "name": "TRUMP IRAN CRISIS LIVE: U.S. Military on High Alert After Trump's Ultimatum to Tehran | World News",
-            "artist": "Times Now"
+            "videoId": "Y5iXVhispx8",
+            "name": "🔴LIVE Lunch Time Sinhala News | (23.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "_AB7kDnSVEc",
-            "name": "Senator Urges End to War Amid Rising Tensions | Headlines Geo News 10 AM (23 March 2026)",
-            "artist": "Geo News"
+            "videoId": "5LLPfYchobc",
+            "name": "Today Headlines | 23 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Mr0qdIf5GWk",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ২৩ মার্চ ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "imeNfWxLTq0",
+            "name": "World News Live: युद्ध के बीच, ईरानी राष्ट्रपति और PM मोदी के बीच अहम बातचीत! Iran | India | Modi |",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qTTJ3n8kJiQ",
+            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5ESWQ2HeQk0",
+            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस सिलेंडर के लिए कोहराम ! | iran Israel War",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {

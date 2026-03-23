@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T075732.616Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T085455.619Z-l4t35t"
   type: "state"
-  created: "2026-03-23T07:57:32.616Z"
+  created: "2026-03-23T08:54:55.619Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T075732.616Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T085455.619Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RM9KjzGjeio"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Rapid News World"
+        videoId: "0xGudkx_v6Y"
+        name: "LIVE: Ex-Pak Envoy says \"If US Attacks Pakistan, We Will Target Delhi & Mumbai\""
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JQmVE_1tksU"
-        name: "TRUMP IRAN CRISIS LIVE: U.S. Military on High Alert After Trump's Ultimatum to Tehran | World News"
-        artist: "Times Now"
+        videoId: "Y5iXVhispx8"
+        name: "🔴LIVE Lunch Time Sinhala News | (23.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_AB7kDnSVEc"
-        name: "Senator Urges End to War Amid Rising Tensions | Headlines Geo News 10 AM (23 March 2026)"
-        artist: "Geo News"
+        videoId: "5LLPfYchobc"
+        name: "Today Headlines | 23 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Mr0qdIf5GWk"
-        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ২৩ মার্চ ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "imeNfWxLTq0"
+        name: "World News Live: युद्ध के बीच, ईरानी राष्ट्रपति और PM मोदी के बीच अहम बातचीत! Iran | India | Modi |"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qTTJ3n8kJiQ"
+        name: "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5ESWQ2HeQk0"
+        name: "News Ki Pathshala Live | LPG Gas Crisis in India | गैस सिलेंडर के लिए कोहराम ! | iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T07:57:32.616Z"
+  exported_at: "2026-03-23T08:54:55.619Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T07:57:32.576Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-23T08:54:55.577Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
