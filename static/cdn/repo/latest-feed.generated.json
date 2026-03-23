@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T12:47:19.673Z",
+    "generatedAt": "2026-03-23T14:10:09.183Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ug_YfU5-giA",
-            "name": "🔴LIVE: Today Headlines | Puthiyathalaimurai Headlines | மாலை தலைப்புச் செய்திகள் | 23.03.26",
-            "artist": "PuthiyathalaimuraiTV"
+            "videoId": "mNCm9VouORk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "yWuu1EP6orc",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
+            "videoId": "96GkXbFUBnU",
+            "name": "Iran Israel War LIVE: ईरान ने इजरायल के परमाणु केंद्र को उड़ाया? | America | Trump | Nulcear Sites",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "921MHhQRJr8",
-            "name": "PUTIN LIVE: Final Warning to US—Face Consequences as World War 3 Fears Rise | US IRAN WAR",
-            "artist": "Times Now World"
+            "videoId": "U1WMUqFqoMM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "nCv6V8EckYY",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "Times Now"
+            "videoId": "OG9GxQukcs4",
+            "name": "Iran Us War New Live Update | Trump Stops War | 05 PM News Headlines | 23 March 2026 | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "k1GXbQHDKnw",
-            "name": "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East",
-            "artist": "Times Now World"
+            "videoId": "AlgUszIQUV4",
+            "name": "Iran War LIVE: Iran War Escalates Sharply, Faces Massive Destruction As Global Tensions Surge | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Y9pOH--yGvc",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "eRMYX10JQpc",
+            "name": "BREAKING: Trump HALTS strikes against Iran energy targets after 'very good' talks",
+            "artist": "Fox News"
         },
         {
             "mood": "storm",
-            "videoId": "8CUiDVuRaCs",
-            "name": "World News | ख़बरें विदेश की | 23 march 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
+            "videoId": "UD3idchhvUk",
+            "name": "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oOz2JSR1rb0",
+            "name": "Super 100 News LIVE: आज की बड़ी खबरें | Headlines Today | Aaj Ki Taja Khabar | War | 23 March",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
