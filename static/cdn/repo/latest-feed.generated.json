@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T04:22:15.150Z",
+    "generatedAt": "2026-03-23T06:06:05.802Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5uhbmHILPaM",
-            "name": "News Ki Pathshala Live : ईरान के ताबड़तोड़ हमले, Trump परेशान ? | America Iran War news | Iran news",
+            "videoId": "imeNfWxLTq0",
+            "name": "World News Live: युद्ध के बीच, ईरानी राष्ट्रपति और PM मोदी के बीच अहम बातचीत! Iran | India | Modi |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "qT8SECwScAE",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "MIRROR NOW"
+            "videoId": "qTTJ3n8kJiQ",
+            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "6faGpMAik5I",
-            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें |PM Modi | Iran Israel War |Trump | World News | LPG Crisis",
+            "videoId": "5ESWQ2HeQk0",
+            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस सिलेंडर के लिए कोहराम ! | iran Israel War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "5YURN0F8fr4",
-            "name": "🔴LIVE: போர் 2.0  - லிட்டில் இந்தியா மீது ஈரான் ஏவுகணைத் தாக்குதல்",
-            "artist": "Sathiyam News"
+            "videoId": "zyE3IbJbe3s",
+            "name": "पाकिस्तान-अफगानिस्तान जंग LIVE, 22  मार्च 2026 |Kabul Air Strike | War Breaking News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "tkWHCKGeNKo",
-            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
+            "videoId": "fykORxwYxwk",
+            "name": "🟢Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "APCNY_LdoRk",
+            "name": "News Ki Pathshala Live | Iran Us War | ईरान के हमले से क्यों मचा हाहाकार ? | World News | Iran news",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "LSFt5AEfYt4",
-            "name": "World War 3 Live: शुरू हो गई महाजंग! Trump | Iran-America War | Breaking News | India News",
-            "artist": "India News"
+            "videoId": "NXoWAtxtyL0",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 23.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "G1Q5xhWALwY",
-            "name": "War Drives Oil Prices Higher in International Markets | Headlines Geo News 7 AM (23 March 2026)",
+            "videoId": "S69TCtAUZPs",
+            "name": "Iran Launches New Cluster Warhead Missile Attack on Israel | Headlines Geo News 9 AM (23 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "eUAtVWxHSXc",
-            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel & Arab Countries | High Alert | Latest Update",
+            "videoId": "3hubukYd2OE",
+            "name": "Iran Latest Attack on Israel | 8 AM News Headlines | 23 March 2026 | SAMAA TV",
             "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Tq52f-5cXyI",
+            "name": "ईरान-अमेरिका जंग, 23 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
