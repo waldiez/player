@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T203100.041Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T212841.931Z-l4t35t"
   type: "state"
-  created: "2026-03-23T20:31:00.041Z"
+  created: "2026-03-23T21:28:41.931Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T203100.041Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T212841.931Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7e1I3zbX_-g"
-        name: "🔴LIVE : IRAN | ISRAEL | America | ஈரான் போரில் உலகமே எதிர்பாரா திருப்பம் - டிரம்பின் ஷாக் அறிவிப்பு"
-        artist: "Thanthi TV"
+        videoId: "rW2Pg8jnFhM"
+        name: "🔴LIVE | US Iran Negotiation - Donald  Trump Statement | ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n7i0lsnHdlI"
-        name: "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे Trump ! | Netanyahu | World News"
-        artist: "Times Now Navbharat"
+        videoId: "cgudSVnBT98"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WCvfXtxgEtA"
-        name: "LIVE | Russia To Enter Iran War Very Soon? Kremlin Aide’s Scary Warning Amid World War Fears | War"
-        artist: "Hindustan Times"
+        videoId: "UeDWgdnRhh8"
+        name: "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HkP08X_1fiM"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "DDJ3U9w7ByA"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wf_AedOtBp4"
-        name: "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline"
-        artist: "Times Now"
+        videoId: "yUMCr8z6t0w"
+        name: "Iran Us War New Live | Iran Rejected Trump Offer! | 11 PM News Headlines | Pakistan News"
+        artist: "Express News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T20:31:00.041Z"
+  exported_at: "2026-03-23T21:28:41.931Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T20:31:00.001Z"
+  source_generated_at: "2026-03-23T21:28:41.890Z"
   validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
