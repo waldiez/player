@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T09:56:21.436Z",
+    "generatedAt": "2026-03-23T10:49:17.654Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EvxgkYLgAB0",
-            "name": "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |",
+            "videoId": "k1GXbQHDKnw",
+            "name": "Iran War Latest News LIVE: Fireballs Over Tehran, Iran Retaliates With Missile Barrage | Middle East",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y9pOH--yGvc",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Tgg8fajgK-8",
+            "name": "World News Live : ईरान के बाद, पाक का फाइनल हिसाब होगा ! Iran | Pakistan | USA | Israel | Trump |",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "YOjG8hXVbBU",
-            "name": "🔴LIVE: வெடித்தது போர் 2.0! லிட்டில் இந்தியாவை அழிக்கும் ஈரான்.",
+            "videoId": "6ZdtEyhxqVo",
+            "name": "🔴LIVE: Vijay | Tvk | விரைவில்... புது விஜய்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "LA8qdqI2NA0",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 23.03.2026 | Today News | Latest News | Breaking News | Update News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WecsJoJ3VVU",
-            "name": "Israel-Iran War LIVE | Biggest Attack On Tehran Yet | US Forces In Iran? | US-Iran War LIVE | Trump",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qXEQO-YdrXA",
-            "name": "Breaking News: New York में Airport प्लेन हादसे में Pilot-CO Pilot की मौत - TV9 | Air Canada",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RM9KjzGjeio",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Rapid News World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JQmVE_1tksU",
-            "name": "TRUMP IRAN CRISIS LIVE: U.S. Military on High Alert After Trump's Ultimatum to Tehran | World News",
-            "artist": "Times Now"
+            "videoId": "fI27EFRqNDY",
+            "name": "Warning Signal: Oil Shortage Crisis Imminent | Headlines Geo News 12 PM (23 March 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
