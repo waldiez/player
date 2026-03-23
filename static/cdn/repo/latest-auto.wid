@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T194222.829Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260323T203100.041Z-l4t35t"
   type: "state"
-  created: "2026-03-23T19:42:22.829Z"
+  created: "2026-03-23T20:31:00.041Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T194222.829Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T203100.041Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cgudSVnBT98"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
+        videoId: "7e1I3zbX_-g"
+        name: "🔴LIVE : IRAN | ISRAEL | America | ஈரான் போரில் உலகமே எதிர்பாரா திருப்பம் - டிரம்பின் ஷாக் அறிவிப்பு"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UeDWgdnRhh8"
-        name: "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update"
-        artist: "SAMAA TV"
+        videoId: "n7i0lsnHdlI"
+        name: "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे Trump ! | Netanyahu | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DDJ3U9w7ByA"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "WCvfXtxgEtA"
+        name: "LIVE | Russia To Enter Iran War Very Soon? Kremlin Aide’s Scary Warning Amid World War Fears | War"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CE7T9a0BODI"
-        name: "🔴LIVE:  sathankulam | சாத்தான்குளம் தந்தை-மகன் வழக்கு - வெளியானது தீர்ப்பு"
-        artist: "Sathiyam News"
+        videoId: "HkP08X_1fiM"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8M8sW3L33ZI"
-        name: "🟢LIVE: Israel vs Iran | வெறித்தனமாய் தாக்கும் Iran! -குலைநடுங்கும் Israel.. டிரம்ப்க்கு எச்சரிக்கை!"
-        artist: "News18 Tamil Nadu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wzvmp4qv6cY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "Wf_AedOtBp4"
+        name: "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T19:42:22.829Z"
+  exported_at: "2026-03-23T20:31:00.041Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T19:42:22.787Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-23T20:31:00.001Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
