@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T18:42:19.376Z",
+    "generatedAt": "2026-03-23T19:42:22.787Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "n7i0lsnHdlI",
-            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे Trump ! | Netanyahu | World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "cgudSVnBT98",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "WCvfXtxgEtA",
-            "name": "LIVE | Russia To Enter Iran War Very Soon? Kremlin Aide’s Scary Warning Amid World War Fears | War",
-            "artist": "Hindustan Times"
+            "videoId": "UeDWgdnRhh8",
+            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "HkP08X_1fiM",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "DDJ3U9w7ByA",
+            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "Wf_AedOtBp4",
-            "name": "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline",
-            "artist": "Times Now"
+            "videoId": "CE7T9a0BODI",
+            "name": "🔴LIVE:  sathankulam | சாத்தான்குளம் தந்தை-மகன் வழக்கு - வெளியானது தீர்ப்பு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "e8nIxEYqLjU",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "8M8sW3L33ZI",
+            "name": "🟢LIVE: Israel vs Iran | வெறித்தனமாய் தாக்கும் Iran! -குலைநடுங்கும் Israel.. டிரம்ப்க்கு எச்சரிக்கை!",
+            "artist": "News18 Tamil Nadu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wzvmp4qv6cY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
