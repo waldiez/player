@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T17:44:54.318Z",
+    "generatedAt": "2026-03-23T18:42:19.376Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3YsZh9mJpcw",
-            "name": "Trump LIVE: Trump says Strikes on Iranian Energy Infrastructure Paused for 5 Days Amid US-Iran Talks",
-            "artist": "Firstpost"
+            "videoId": "n7i0lsnHdlI",
+            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे Trump ! | Netanyahu | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "CE7T9a0BODI",
-            "name": "🔴LIVE:  sathankulam | சாத்தான்குளம் தந்தை-மகன் வழக்கு - வெளியானது தீர்ப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "WCvfXtxgEtA",
+            "name": "LIVE | Russia To Enter Iran War Very Soon? Kremlin Aide’s Scary Warning Amid World War Fears | War",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "Wzvmp4qv6cY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "HkP08X_1fiM",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "fqnCXi3WIj0",
-            "name": "🔴LIVE: Iran | America | ஈரானிடம் வெள்ளைக்கொடி காட்டுகிறதா அமெரிக்கா..?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jd-1j673rkA",
-            "name": "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE",
+            "videoId": "Wf_AedOtBp4",
+            "name": "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "675_ulcVUcg",
-            "name": "LIVE: Trump Delays Iran Strikes, Hails \"Strong\" Talks To End War | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EvxgkYLgAB0",
-            "name": "World News Live: ट्रंप ने फाइटर जेट पाक की ओर मोड़ा ! Iran News | India | USA | Pakistan | Trump |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xT8_CsFWAHE",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Iran War पर Modi संसद में क्या बोले..इंडी ने गदर मचा दिया",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Tgg8fajgK-8",
-            "name": "World News Live : ईरान के बाद, पाक का फाइनल हिसाब होगा ! Iran | Pakistan | USA | Israel | Trump |",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7uzPeGB6_oA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CBC বাংলা খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "3_0TzJYy5C0",
-            "name": "Firstpost LIVE | India: PM Modi Addresses Parliament On Iran-US War As West Asia Crisis Deepens",
-            "artist": "Firstpost"
+            "videoId": "e8nIxEYqLjU",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
