@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-22T23:20:03.894Z",
+    "generatedAt": "2026-03-23T01:25:59.403Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hPs2DltCUpM",
-            "name": "US‑IRAN WAR LIVE | Trump Issues Ultimatum, Military Action Update | Breaking News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "g_xrFjQMeIA",
+            "name": "US Iran War LIVE | Iran Threatens To Close Strait Of Hormuz | Trump | Israel Iran War | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "HCsBl10SrqY",
-            "name": "Iran Massive Attack on Nuclear Plant, Dozens Dead | Headlines Geo News 12 AM (23 March 2026)",
-            "artist": "Geo News"
+            "videoId": "KJaPgkVnfLk",
+            "name": "Breaking News LIVE:  Putin’s Explosive Speech Puts World On Edge | Putin's Last Warning?",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "9s8vdqR7-NM",
-            "name": "World News Live : तेल गैस में लगी आग, दुनिया भर के शेयर मार्केट में मचा हाहाकार ! Iran Israel War |",
+            "videoId": "v8jd44a5eSE",
+            "name": "News Ki Pathshala Live | Iran Israel War Live | Iran के परमाणु बम फटने वाले हैं क्या ? | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "LVv277x-iM0",
-            "name": "Iran US War Live Updates | Israel's Nuclear Center on Iran's Target | 12 AM News Headlines",
-            "artist": "SAMAA TV"
+            "videoId": "nvMmKarEsJI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Rapid News World"
         },
         {
             "mood": "storm",
-            "videoId": "C3rGyWCEi0Q",
-            "name": "Iran Big Attack, War Alert - Latest Update| Headlines Geo News 11 PM (22nd March 2026)",
-            "artist": "Geo News"
+            "videoId": "tdJm7mVBrhU",
+            "name": "LIVE: ABC News Live - Sunday, March 22",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "NMxxHv4J88U",
-            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Saudi Arabia, UAE, and Israel | Firstpost | N18G",
-            "artist": "Firstpost"
+            "videoId": "LyATNwXUlWg",
+            "name": "Iran strikes near nuclear facility in Israel | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "d35xxSRxMes",
-            "name": "LIVE: Ex-Pak Envoy Makes Provocative Remarks, says \"If US Attacks Pakistan, We Will Target India\"",
-            "artist": "Firstpost"
+            "videoId": "1DMFMA77iwE",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UFLtDNu6fFU",
+            "name": "US Breaking News LIVE | US Issues 'Final Warning' Over Middle East Aggression | World News LIVE",
+            "artist": "ET Now World"
         }
     ],
     "sourceFilters": {
