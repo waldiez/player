@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T10:43:08.218Z",
+    "generatedAt": "2026-03-24T11:39:56.189Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "zqmmG8ITkAg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "jf_kJcBhVZo",
+            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 24 March 2026 || World News Bangla ||",
+            "artist": "BBC BANGLA NEWS BD 24"
         },
         {
             "mood": "storm",
-            "videoId": "GbQK4bqSbAg",
-            "name": "Debate With Arnab LIVE: First Ultimatum, Then Climbdown – Has Trump Lost to Iran? | Iran Israel War",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_CdtbVMDsWY",
-            "name": "World News | Iran Vs America War 2026 | Donald Trump | Khamenei: Trump खुद के जाल में फंसे! US News",
+            "videoId": "HEAzfdpoZyg",
+            "name": "World News Live: युद्ध के बीच, धमकी देकर पीछे हटे ट्रंप! Iran News | India | USA | Pakistan | Trump|",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "JC298ft6-3E",
-            "name": "🔴LIVE | Iran Launches Fresh Missile Attack After Israeli Strikes | Emergency Situation in Israel",
-            "artist": "SAMAA TV"
+            "videoId": "Wzvmp4qv6cY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "7LMQGZ5y01M",
-            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "Z0lSMGqEc_c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "B9JReiuTwoY",
-            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "v8LgmyXa5_4",
+            "name": "Iran War News LIVE | Iran Responds To Donald Trump's Ceasefire Statement: 'Another Defeat For Devil'",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "iYgrWew3ZlQ",
-            "name": "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?",
-            "artist": "Sathiyam News"
+            "videoId": "JdcBUw98Ci4",
+            "name": "[LIVE] Fox & Friends 03/24/2026 Live HD | FOX NEWS LIVE Mar 24, 2026",
+            "artist": "مرسال الابتسامة"
+        },
+        {
+            "mood": "storm",
+            "videoId": "inXFPJDppo0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0zbJj2BdDME",
+            "name": "🔴LIVE Lunch Time Sinhala News | (24.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {
