@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T11:39:56.189Z",
+    "generatedAt": "2026-03-24T12:53:25.733Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jf_kJcBhVZo",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 24 March 2026 || World News Bangla ||",
-            "artist": "BBC BANGLA NEWS BD 24"
+            "videoId": "y3yqmKdQmg4",
+            "name": "Mahadangal LIVE: चुनौती है बड़ी, परीक्षा की घड़ी! | PM Modi | World War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "HEAzfdpoZyg",
-            "name": "World News Live: युद्ध के बीच, धमकी देकर पीछे हटे ट्रंप! Iran News | India | USA | Pakistan | Trump|",
-            "artist": "Times Now Navbharat"
+            "videoId": "BjaWwNbJliY",
+            "name": "Lockdown in Britain?, News LIVE: सरकार का ऐलान!, लग गया लॉकडाउन? |  Meningitis Outbreak | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Wzvmp4qv6cY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "IHoGu_4EKcE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "Z0lSMGqEc_c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
+            "videoId": "43GaNPakeIA",
+            "name": "युद्ध से ईरान मालामाल..बाकी मुस्लिम देश कंगाल! | Iran America War LIVE | Hormuz Strait | Trump",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "v8LgmyXa5_4",
-            "name": "Iran War News LIVE | Iran Responds To Donald Trump's Ceasefire Statement: 'Another Defeat For Devil'",
-            "artist": "NDTV"
+            "videoId": "QuVn_xTEm2c",
+            "name": "US-Iran War LIVE: Iran Launches Fresh Wave of Attacks on US Bases Across the Gulf | Gulf War | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "JdcBUw98Ci4",
-            "name": "[LIVE] Fox & Friends 03/24/2026 Live HD | FOX NEWS LIVE Mar 24, 2026",
-            "artist": "مرسال الابتسامة"
+            "videoId": "zqmmG8ITkAg",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "inXFPJDppo0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0zbJj2BdDME",
-            "name": "🔴LIVE Lunch Time Sinhala News | (24.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "-iA8sGxrElY",
+            "name": "Iran War LIVE | Iran’s Missile Math Revealed: A Steady Drumbeat Of Attacks Aimed At Central Israel |",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
