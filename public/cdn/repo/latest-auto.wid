@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260323T232510.637Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T011951.666Z-l4t35t"
   type: "state"
-  created: "2026-03-23T23:25:10.637Z"
+  created: "2026-03-24T01:19:51.666Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260323T232510.637Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T011951.666Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-RumwzLHofw"
-        name: "Iran–Saudi Arabia Tensions: Latest Developments and Regional Concerns | 3 AM News Headlines"
-        artist: "Express News"
+        videoId: "UD3idchhvUk"
+        name: "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XEE_YhIKE8g"
-        name: "Iran should stop threatening the US, Trump says | Headlines Geo News 12 AM (24 March 2026)"
-        artist: "Geo News"
+        videoId: "8ahNTH05dnM"
+        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DDJ3U9w7ByA"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "nriDhfCxOHc"
+        name: "World News Live: ईरान के समर्थन में उतरे कश्मीर के लोग! Iran | India | Jammu Kashmir | Breaking News"
+        artist: "Times Now Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yUMCr8z6t0w"
-        name: "Iran Us War New Live | Iran Rejected Trump Offer! | 11 PM News Headlines | Pakistan News"
-        artist: "Express News"
+        videoId: "7e1I3zbX_-g"
+        name: "🔴LIVE : IRAN | ISRAEL | America | ஈரான் போரில் உலகமே எதிர்பாரா திருப்பம் - டிரம்பின் ஷாக் அறிவிப்பு"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CNq9Nj8J0O0"
-        name: "Trump's options: how could the Iran war end? | The Global Story"
-        artist: "BBC News"
+        videoId: "39XyUNO5ug0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Rapid News World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cgudSVnBT98"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UeDWgdnRhh8"
+        name: "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-23T23:25:10.637Z"
+  exported_at: "2026-03-24T01:19:51.666Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-23T23:25:10.598Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-24T01:19:51.622Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

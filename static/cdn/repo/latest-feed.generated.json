@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-23T23:25:10.598Z",
+    "generatedAt": "2026-03-24T01:19:51.622Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-RumwzLHofw",
-            "name": "Iran–Saudi Arabia Tensions: Latest Developments and Regional Concerns | 3 AM News Headlines",
-            "artist": "Express News"
+            "videoId": "UD3idchhvUk",
+            "name": "US-Iran War LIVE: Big Update In War As Trump Hints At Iran De-escalation 12 Hours Before Deadline",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "XEE_YhIKE8g",
-            "name": "Iran should stop threatening the US, Trump says | Headlines Geo News 12 AM (24 March 2026)",
-            "artist": "Geo News"
+            "videoId": "8ahNTH05dnM",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "DDJ3U9w7ByA",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "nriDhfCxOHc",
+            "name": "World News Live: ईरान के समर्थन में उतरे कश्मीर के लोग! Iran | India | Jammu Kashmir | Breaking News",
+            "artist": "Times Now Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "yUMCr8z6t0w",
-            "name": "Iran Us War New Live | Iran Rejected Trump Offer! | 11 PM News Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "7e1I3zbX_-g",
+            "name": "🔴LIVE : IRAN | ISRAEL | America | ஈரான் போரில் உலகமே எதிர்பாரா திருப்பம் - டிரம்பின் ஷாக் அறிவிப்பு",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "CNq9Nj8J0O0",
-            "name": "Trump's options: how could the Iran war end? | The Global Story",
-            "artist": "BBC News"
+            "videoId": "39XyUNO5ug0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Rapid News World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cgudSVnBT98",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UeDWgdnRhh8",
+            "name": "🔴LIVE | World War III? Iran Missile Attack on Israel | Emergency Imposed | Latest Update",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
