@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T14:15:48.615Z",
+    "generatedAt": "2026-03-24T15:59:09.975Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SeaGRvPAaO0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "a1KtWHgoYRE",
+            "name": "Bharat Ki Baat  LIVE: युद्धविराम..डॉनल्ड का 'डबल गेम' | PM Modi | World War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "CX4A22bjZmY",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jd0c_BlAGKg",
-            "name": "Out Of Focus Live | 24 March 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qwUZL1WsBwQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jf_kJcBhVZo",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 24 March 2026 || World News Bangla ||",
-            "artist": "BBC BANGLA NEWS BD 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HEAzfdpoZyg",
-            "name": "World News Live: युद्ध के बीच, धमकी देकर पीछे हटे ट्रंप! Iran News | India | USA | Pakistan | Trump|",
+            "videoId": "g9LpoTT3iiI",
+            "name": "News Ki Pathshala Live | गैस-तेल के दामों में लगी आगमचा हाहाकार! | LPG Crisis | iran Israel War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Wzvmp4qv6cY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "p9VdAgEZA1s",
+            "name": "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1KFe3P8TZTA",
+            "name": "🔴LIVE : PM Modi | Iran War | ஈரான் போர்..  பிரதமர் பரபரப்பு பேச்சு",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-iA8sGxrElY",
+            "name": "Iran War LIVE | Iran’s Missile Math Revealed: A Steady Drumbeat Of Attacks Aimed At Central Israel |",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-siy8TNpUq4",
+            "name": "ABP Report LIVE: ट्रंप का युद्धविराम, सरेंडर या 'छल'? | PM Modi | World War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UEWfZNo6W9g",
+            "name": "🔴Live |  ଇସ୍ରାଏଲ ଦେଲା ସାଂଘାତିକ ଧମକ |  Israel Issues Deadly Warning | OTV",
+            "artist": "OTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "y3yqmKdQmg4",
+            "name": "Mahadangal LIVE: चुनौती है बड़ी, परीक्षा की घड़ी! | PM Modi | World War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IHoGu_4EKcE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         }
     ],
     "sourceFilters": {
