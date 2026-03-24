@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260324T203341.902Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T213027.938Z-l4t35t"
   type: "state"
-  created: "2026-03-24T20:33:41.902Z"
+  created: "2026-03-24T21:30:27.938Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T203341.902Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T213027.938Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "sUO8KEYhVck"
-        name: "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G"
-        artist: "News18 Urdu"
+        videoId: "oOKlHQI90Gg"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lQTDPhe-jSU"
-        name: "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "pCYUEpTmlZI"
+        name: "Israel Iran War LIVE: Israel Intercepts Fresh Barrage of Iranian Missiles as US Iran War Continues"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6-t5WHy2Tm8"
-        name: "News Ki Pathshala Live | Sushant Sinha | Iran Israel War |LPG Crisis | Trump |Netanyahu | World News"
-        artist: "Times Now Navbharat"
+        videoId: "1rUavo0ocqU"
+        name: "US Iran War LIVE: Trump's BIG CLAIM, Says \"Iran Agreed to Not Have a Nuclear Weapon\" | Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iYgrWew3ZlQ"
-        name: "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?"
-        artist: "Sathiyam News"
+        videoId: "bmsRCjjQ6TI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "প্রতিদিনের রাজনীতি"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WflC6RqUC9o"
-        name: "🔴 LIVE | PM Modi LIVE | WITT Summit 2026 | India And The World | PM Modi Keynote Address - TV9"
-        artist: "Tv9 Kannada"
+        videoId: "9KwTlnrRNDk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "RMT ANTORJATIK NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rW_tQcd06aw"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 25 Mar'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
+        videoId: "JN_hsNuBk2I"
+        name: "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-24T20:33:41.902Z"
+  exported_at: "2026-03-24T21:30:27.938Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-24T20:33:41.863Z"
+  source_generated_at: "2026-03-24T21:30:27.893Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
