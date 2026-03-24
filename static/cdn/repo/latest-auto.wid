@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260324T170256.125Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T185211.178Z-l4t35t"
   type: "state"
-  created: "2026-03-24T17:02:56.125Z"
+  created: "2026-03-24T18:52:11.178Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T170256.125Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T185211.178Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JN_hsNuBk2I"
-        name: "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "cJqQLT-CBiE"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AszhU_xrfrY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oAUtA8mYFx4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4KvMcoHgrRA"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu"
+        videoId: "lQTDPhe-jSU"
+        name: "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wxwVETjLOfg"
-        name: "US-Israel-Iran War News: Modi Warning 🚨 Lockdown Again? | War Impact on India | The 10 Min Show"
-        artist: "Ashutosh Connects Bharat"
+        videoId: "6-t5WHy2Tm8"
+        name: "News Ki Pathshala Live | Sushant Sinha | Iran Israel War |LPG Crisis | Trump |Netanyahu | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YsbWaWBR9hs"
-        name: "US-Iran War LIVE: Iran Launches Fresh Wave of Attacks on US Bases Across the Gulf | Gulf War | N18G"
-        artist: "News18 Urdu"
+        videoId: "iYgrWew3ZlQ"
+        name: "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q8HY5n9w77A"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 24.03.2026 | Today News | Fuel Crisis | Iran War | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "rW_tQcd06aw"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 25 Mar'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q2X0p3x2tjo"
+        name: "LIVE: Trump Delays Iran Strikes, Hails \"Strong\" Talks To End War | Vantage with Palki Sharma"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "a1KtWHgoYRE"
+        name: "Bharat Ki Baat  LIVE: युद्धविराम..डॉनल्ड का 'डबल गेम' | PM Modi | World War | Trump | Netanyahu"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "g9LpoTT3iiI"
+        name: "News Ki Pathshala Live | गैस-तेल के दामों में लगी आगमचा हाहाकार! | LPG Crisis | iran Israel War"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BkX2ER0uwR4"
+        name: "News Ki Pathshala Live | Sushant Sinha | दो दिन में PM Modi ने दूसरी बार ALERT मोड ऑन कर दिया"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-24T17:02:56.125Z"
+  exported_at: "2026-03-24T18:52:11.178Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-24T17:02:56.086Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-24T18:52:11.137Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
