@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T21:30:27.893Z",
+    "generatedAt": "2026-03-24T22:22:57.148Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oOKlHQI90Gg",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "lQTDPhe-jSU",
+            "name": "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "pCYUEpTmlZI",
-            "name": "Israel Iran War LIVE: Israel Intercepts Fresh Barrage of Iranian Missiles as US Iran War Continues",
-            "artist": "Firstpost"
+            "videoId": "6-t5WHy2Tm8",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Iran Israel War |LPG Crisis | Trump |Netanyahu | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "1rUavo0ocqU",
-            "name": "US Iran War LIVE: Trump's BIG CLAIM, Says \"Iran Agreed to Not Have a Nuclear Weapon\" | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "iYgrWew3ZlQ",
+            "name": "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "bmsRCjjQ6TI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "প্রতিদিনের রাজনীতি"
+            "videoId": "d9s0738M_N8",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 24.03.2026 | Today News | Fuel Crisis | Iran War | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "9KwTlnrRNDk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RMT ANTORJATIK NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JN_hsNuBk2I",
-            "name": "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "WflC6RqUC9o",
+            "name": "🔴 LIVE | PM Modi LIVE | WITT Summit 2026 | India And The World | PM Modi Keynote Address - TV9",
+            "artist": "Tv9 Kannada"
         }
     ],
     "sourceFilters": {
