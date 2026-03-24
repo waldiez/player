@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260324T094829.209Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T104308.257Z-l4t35t"
   type: "state"
-  created: "2026-03-24T09:48:29.209Z"
+  created: "2026-03-24T10:43:08.257Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T094829.209Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T104308.257Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "v8LgmyXa5_4"
-        name: "Iran War News LIVE | Iran Responds To Donald Trump's Ceasefire Statement: 'Another Defeat For Devil'"
-        artist: "NDTV"
+        videoId: "zqmmG8ITkAg"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.03.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GcTw6qJn5PA"
-        name: "LIVE: Karoline Leavitt Delivers Explosive Update on US–Iran War | Trump | Pete Hegseth | White House"
-        artist: "ET Now World"
+        videoId: "GbQK4bqSbAg"
+        name: "Debate With Arnab LIVE: First Ultimatum, Then Climbdown – Has Trump Lost to Iran? | Iran Israel War"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0zbJj2BdDME"
-        name: "🔴LIVE Lunch Time Sinhala News | (24.03.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7wvlVDlaXDQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eucCK4sWcJY"
-        name: "🔴LIVE: Isreal iran War | போரில் திடீர் திருப்பம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UH_QVGbx0NA"
-        name: "World News Live: सोना चांदी धड़ाम, शेयर मार्केट की लंका लगी ! मचा हाहाकार ! Iran Israel War | India|"
+        videoId: "_CdtbVMDsWY"
+        name: "World News | Iran Vs America War 2026 | Donald Trump | Khamenei: Trump खुद के जाल में फंसे! US News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OQ1uGOEWz_k"
-        name: "LOKA HD LIVE | ട്രംപിന്റെ ജീവൻ അപകടത്തിൽ ? ഇനി എത്രനാൾ ? | Trump |World News | Iran Israel War |N18G"
-        artist: "News18 Kerala"
+        videoId: "JC298ft6-3E"
+        name: "🔴LIVE | Iran Launches Fresh Missile Attack After Israeli Strikes | Emergency Situation in Israel"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7LMQGZ5y01M"
+        name: "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B9JReiuTwoY"
+        name: "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iYgrWew3ZlQ"
+        name: "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-24T09:48:29.209Z"
+  exported_at: "2026-03-24T10:43:08.257Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-24T09:48:29.177Z"
+  source_generated_at: "2026-03-24T10:43:08.218Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
