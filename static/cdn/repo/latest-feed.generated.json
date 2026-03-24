@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T19:49:12.528Z",
+    "generatedAt": "2026-03-24T20:33:41.863Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1rUavo0ocqU",
-            "name": "US Iran War LIVE: Trump's BIG CLAIM, Says \"Iran Agreed to Not Have a Nuclear Weapon\" | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "sUO8KEYhVck",
+            "name": "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "yA1SA6aRudo",
-            "name": "🔴LIVE : மோடிக்கு போன் போட்டு பேசிய அமெரிக்க அதிபர் ட்ரம்ப்.. என்ன பேசினார்?",
-            "artist": "Polimer News"
+            "videoId": "lQTDPhe-jSU",
+            "name": "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "bmsRCjjQ6TI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "প্রতিদিনের রাজনীতি"
+            "videoId": "6-t5WHy2Tm8",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Iran Israel War |LPG Crisis | Trump |Netanyahu | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "9KwTlnrRNDk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RMT ANTORJATIK NEWS"
+            "videoId": "iYgrWew3ZlQ",
+            "name": "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "JN_hsNuBk2I",
-            "name": "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma | N18G",
-            "artist": "Firstpost"
+            "videoId": "WflC6RqUC9o",
+            "name": "🔴 LIVE | PM Modi LIVE | WITT Summit 2026 | India And The World | PM Modi Keynote Address - TV9",
+            "artist": "Tv9 Kannada"
         },
         {
             "mood": "storm",
-            "videoId": "n3uj6Oc_XlE",
-            "name": "Decode Live: Iran-US War | PM Modi-Trump Call | Lockdown Philippines | Ceasefire | West Asia | India",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AszhU_xrfrY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "rW_tQcd06aw",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 25 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
