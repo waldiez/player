@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260324T155910.016Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T170256.125Z-l4t35t"
   type: "state"
-  created: "2026-03-24T15:59:10.016Z"
+  created: "2026-03-24T17:02:56.125Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T155910.016Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T170256.125Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "a1KtWHgoYRE"
-        name: "Bharat Ki Baat  LIVE: युद्धविराम..डॉनल्ड का 'डबल गेम' | PM Modi | World War | Trump | Netanyahu"
-        artist: "ABP NEWS"
+        videoId: "JN_hsNuBk2I"
+        name: "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g9LpoTT3iiI"
-        name: "News Ki Pathshala Live | गैस-तेल के दामों में लगी आगमचा हाहाकार! | LPG Crisis | iran Israel War"
+        videoId: "AszhU_xrfrY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oAUtA8mYFx4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4KvMcoHgrRA"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p9VdAgEZA1s"
-        name: "Trump LIVE: Trump SHOCKS World With BIG WAR Declaration | Destroy Iran | Israel | Tel Aviv | US News"
-        artist: "Times Now"
+        videoId: "wxwVETjLOfg"
+        name: "US-Israel-Iran War News: Modi Warning 🚨 Lockdown Again? | War Impact on India | The 10 Min Show"
+        artist: "Ashutosh Connects Bharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1KFe3P8TZTA"
-        name: "🔴LIVE : PM Modi | Iran War | ஈரான் போர்..  பிரதமர் பரபரப்பு பேச்சு"
-        artist: "Polimer News"
+        videoId: "YsbWaWBR9hs"
+        name: "US-Iran War LIVE: Iran Launches Fresh Wave of Attacks on US Bases Across the Gulf | Gulf War | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-iA8sGxrElY"
-        name: "Iran War LIVE | Iran’s Missile Math Revealed: A Steady Drumbeat Of Attacks Aimed At Central Israel |"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-siy8TNpUq4"
-        name: "ABP Report LIVE: ट्रंप का युद्धविराम, सरेंडर या 'छल'? | PM Modi | World War | Trump | Netanyahu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UEWfZNo6W9g"
-        name: "🔴Live |  ଇସ୍ରାଏଲ ଦେଲା ସାଂଘାତିକ ଧମକ |  Israel Issues Deadly Warning | OTV"
-        artist: "OTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "y3yqmKdQmg4"
-        name: "Mahadangal LIVE: चुनौती है बड़ी, परीक्षा की घड़ी! | PM Modi | World War | Trump | Netanyahu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IHoGu_4EKcE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "q8HY5n9w77A"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 24.03.2026 | Today News | Fuel Crisis | Iran War | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-24T15:59:10.016Z"
+  exported_at: "2026-03-24T17:02:56.125Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-24T15:59:09.975Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-24T17:02:56.086Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
