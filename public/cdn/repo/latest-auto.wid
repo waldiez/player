@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260324T222257.182Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260324T232442.347Z-l4t35t"
   type: "state"
-  created: "2026-03-24T22:22:57.182Z"
+  created: "2026-03-24T23:24:42.347Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T222257.182Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260324T232442.347Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lQTDPhe-jSU"
-        name: "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "HJWzvx8uQY4"
+        name: "LIVE: From Winning to Talking, Trump's Many U-turns on Iran | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6-t5WHy2Tm8"
-        name: "News Ki Pathshala Live | Sushant Sinha | Iran Israel War |LPG Crisis | Trump |Netanyahu | World News"
-        artist: "Times Now Navbharat"
+        videoId: "oOKlHQI90Gg"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iYgrWew3ZlQ"
-        name: "🔴LIVE: iran war | america | ''போர் நிறுத்தம் இல்லை..'' ட்ரம்ப் சொன்னது பொய்யா..?"
-        artist: "Sathiyam News"
+        videoId: "8F3XTORhaQQ"
+        name: "Iran War LIVE | Iran’s Missile Math Revealed: A Steady Drumbeat Of Attacks Aimed At Central Israel |"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d9s0738M_N8"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ | 24.03.2026 | Today News | Fuel Crisis | Iran War | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "pCYUEpTmlZI"
+        name: "Israel Iran War LIVE: Israel Intercepts Fresh Barrage of Iranian Missiles as US Iran War Continues"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WflC6RqUC9o"
-        name: "🔴 LIVE | PM Modi LIVE | WITT Summit 2026 | India And The World | PM Modi Keynote Address - TV9"
-        artist: "Tv9 Kannada"
+        videoId: "1rUavo0ocqU"
+        name: "US Iran War LIVE: Trump's BIG CLAIM, Says \"Iran Agreed to Not Have a Nuclear Weapon\" | Firstpost"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bmsRCjjQ6TI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "প্রতিদিনের রাজনীতি"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9KwTlnrRNDk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "RMT ANTORJATIK NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-24T22:22:57.182Z"
+  exported_at: "2026-03-24T23:24:42.347Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-24T22:22:57.148Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-24T23:24:42.307Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
