@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T06:55:19.149Z",
+    "generatedAt": "2026-03-24T07:50:33.679Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PEGnxeOonzE",
-            "name": "Iran Vs America War LIVE: ट्रंप ने डाले हथियार! | Trump | World War | US Army Base | Middle East War",
-            "artist": "ABP NEWS"
+            "videoId": "7wvlVDlaXDQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "7KX-G-UAxAs",
-            "name": "🟢Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
+            "videoId": "7LMQGZ5y01M",
+            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "d3pl99xefOk",
-            "name": "🔴LIVE: Isreal iran War | போர் நிறுத்தி வைப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "UH_QVGbx0NA",
+            "name": "World News Live: सोना चांदी धड़ाम, शेयर मार्केट की लंका लगी ! मचा हाहाकार ! Iran Israel War | India|",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "2FbNOxG3jCQ",
-            "name": "Iran-US-Israel CEASEFIRE ANNOUNCED: \"No Strikes Against Iran Power Plants For 5 Days\", Says Trump",
-            "artist": "CNN-News18"
+            "videoId": "OQ1uGOEWz_k",
+            "name": "LOKA HD LIVE | ട്രംപിന്റെ ജീവൻ അപകടത്തിൽ ? ഇനി എത്രനാൾ ? | Trump |World News | Iran Israel War |N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "oZM-LbyeDuI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
+            "videoId": "2CIdljWBsnM",
+            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे ट्रंप ? | America Iran News | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zmM3qZYpdtA",
+            "name": "Heavy rain, important forecast | Headlines Geo News 7 AM (24 March 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
