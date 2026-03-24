@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T07:50:33.679Z",
+    "generatedAt": "2026-03-24T08:41:48.941Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7wvlVDlaXDQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "rW2Pg8jnFhM",
+            "name": "🔴LIVE | US Iran Negotiation - Donald  Trump Statement | ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "7LMQGZ5y01M",
-            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UH_QVGbx0NA",
-            "name": "World News Live: सोना चांदी धड़ाम, शेयर मार्केट की लंका लगी ! मचा हाहाकार ! Iran Israel War | India|",
+            "videoId": "4DhuTgq0yrY",
+            "name": "News Ki Pathshala Live : ट्रंप की धमकी, ईरान का पलटवार ! | America Iran News | Trump | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "OQ1uGOEWz_k",
-            "name": "LOKA HD LIVE | ട്രംപിന്റെ ജീവൻ അപകടത്തിൽ ? ഇനി എത്രനാൾ ? | Trump |World News | Iran Israel War |N18G",
-            "artist": "News18 Kerala"
+            "videoId": "GbQK4bqSbAg",
+            "name": "Debate With Arnab LIVE: First Ultimatum, Then Climbdown – Has Trump Lost to Iran? | Iran Israel War",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "2CIdljWBsnM",
-            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे ट्रंप ? | America Iran News | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "PEGnxeOonzE",
+            "name": "Iran Vs America War LIVE: ट्रंप ने डाले हथियार! | Trump | World War | US Army Base | Middle East War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "zmM3qZYpdtA",
-            "name": "Heavy rain, important forecast | Headlines Geo News 7 AM (24 March 2026)",
-            "artist": "Geo News"
+            "videoId": "Tx3jH-casko",
+            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ২৪ মার্চ ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
+            "artist": "SOMOY TV Bulletin"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d3pl99xefOk",
+            "name": "🔴LIVE: Isreal iran War | போர் நிறுத்தி வைப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2FbNOxG3jCQ",
+            "name": "Iran-US-Israel CEASEFIRE ANNOUNCED: \"No Strikes Against Iran Power Plants For 5 Days\", Says Trump",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
