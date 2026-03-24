@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T04:11:14.737Z",
+    "generatedAt": "2026-03-24T05:54:59.176Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "d3pl99xefOk",
-            "name": "🔴LIVE: Isreal iran War | போர் நிறுத்தி வைப்பு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2FbNOxG3jCQ",
-            "name": "Iran-US-Israel CEASEFIRE ANNOUNCED: \"No Strikes Against Iran Power Plants For 5 Days\", Says Trump",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oZM-LbyeDuI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qKGa5x33qWw",
-            "name": "LIVE: Trump Delays Iran Strikes, Hails \"Strong\" Talks To End War | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HI58WkYzlNY",
-            "name": "IRAN WAR LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | PUTIN SPEECH LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "55ebqzljYsI",
-            "name": "US Iran War LIVE: Trump Issues 48 Hours Warning As Iran Warns Total Hormuz Shutdown",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N0D8HDtlQWk",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 23, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YS01LIzu_wU",
-            "name": "World News Live | Iran के इस ऐलान से ट्रंप के उड़े होश! | World News | Iran Attack America | Trump",
+            "videoId": "UH_QVGbx0NA",
+            "name": "World News Live: सोना चांदी धड़ाम, शेयर मार्केट की लंका लगी ! मचा हाहाकार ! Iran Israel War | India|",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "850bXA7p8YY",
-            "name": "Latest Updated News from Adiala Jail!! | Imran Khan | 6 AM News Headlines | Pakistan News",
-            "artist": "Express News"
+            "videoId": "OQ1uGOEWz_k",
+            "name": "LOKA HD LIVE | ട്രംപിന്റെ ജീവൻ അപകടത്തിൽ ? ഇനി എത്രനാൾ ? | Trump |World News | Iran Israel War |N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "PYcGQ4gg16s",
-            "name": "PM Narendra Modi LIVE | WITT Summit 2026 | India And The World | PM Modi Keynote Address - TV9",
-            "artist": "TV9 Telugu Live"
+            "videoId": "2CIdljWBsnM",
+            "name": "News Ki Pathshala Live | Iran को 48 घंटे की धमकी देकर क्यों पलटे ट्रंप ? | America Iran News | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zmM3qZYpdtA",
+            "name": "Heavy rain, important forecast | Headlines Geo News 7 AM (24 March 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
