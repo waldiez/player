@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T041237.828Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T055615.870Z-l4t35t"
   type: "state"
-  created: "2026-03-25T04:12:37.828Z"
+  created: "2026-03-25T05:56:15.870Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T041237.828Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T055615.870Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "PQrK2TXer1o"
-        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
+        videoId: "-peP8-PRzcs"
+        name: "🔴LIVE: Speed News | 24 Headlines | 25-03-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xPaxzBT6_MU"
+        name: "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YcITHJMfPnA"
-        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
-        artist: "ET Now"
+        videoId: "SAURK1Hezyo"
+        name: "Iran Vs America War LIVE: ईरान- अमेरिका युद्ध का 24वां दिन हुआ बड़ा खतरनाक! Trump | Israel | Hormuz"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nJzAzOHWu6M"
-        name: "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks  | Vantage with Palki Sharma"
+        videoId: "mWv1PQuiutg"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 25 March"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oZp_askG2nQ"
+        name: "World News Live: युद्ध के बीच अचानक ट्रंप ने PM मोदी को क्यों लगाया फोन ! Iran News | PM Modi | USA|"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yPLdGvueWBs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pGXjBq7EoOk"
+        name: "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Dtrnvc7OdEM"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 24, 2026"
-        artist: "ABC News"
+        videoId: "lQTDPhe-jSU"
+        name: "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1FCPjfCF2jA"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 25 March"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wNh23szEP9Y"
-        name: "Today's Headlines | 25 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kJ0aZySdrIk"
-        name: "Strict work-from-home guidelines for private institutions | Headlines Geo News 5 AM (25 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Mtg5WRetybA"
-        name: "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | N18G"
-        artist: "CNN-News18"
+        videoId: "ELWaiIm3sqo"
+        name: "LIVE: TRUMP JUST DECIDED AMERICA'S FATE – Iran War Plans EXPOSED in EMERGENCY ADDRESS"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T04:12:37.828Z"
+  exported_at: "2026-03-25T05:56:15.870Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T04:12:37.785Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T05:56:15.828Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
