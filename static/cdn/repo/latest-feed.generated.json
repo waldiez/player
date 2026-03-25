@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T18:45:16.649Z",
+    "generatedAt": "2026-03-25T19:40:37.457Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jXCE59U4o6c",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "uZsBb6RSBBg",
+            "name": "Earthquake News Live: भूकंप के झटके...कई देशों में हड़कंप ! Breaking News | Top News | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "GjEA8el6_wA",
-            "name": "🔴LIVE: Iran | america | ஆபத்து! ஆபத்து! - கைமீறிப்போன நிலை.. அவசர நிலை அறிவிப்பு!",
+            "videoId": "SqJQ8iRxbn8",
+            "name": "🔴LIVE: Iran | war | ஈரான் போரில் யாரும் எதிர்பாராத ட்விஸ்ட்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "AtCqxMd6ZkU",
-            "name": "Debate With Arnab: Iran Blocks Pakistan's Mediation Attempt | US-Israel-Iran War | #IranSnubsPak",
+            "videoId": "tUwAbRcPGgw",
+            "name": "LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FAj4sXvV4iM",
+            "name": "Debate With Arnab LIVE: Mr Trump, Where Is Your Ceasefire? | US-Israel-Iran War",
             "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "IFxCf51FBNY",
-            "name": "Are we heading for World War Three? | The Global Story",
-            "artist": "BBC News"
+            "videoId": "4fODPkRVq_g",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U-P8ZGnFHu0",
+            "name": "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bKt5JyhUJ3M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
