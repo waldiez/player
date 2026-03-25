@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T07:51:22.791Z",
+    "generatedAt": "2026-03-25T08:40:39.469Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,44 +28,38 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oaLvMLptzoI",
-            "name": "US NEWS LIVE: Trump Issues Urgent 24-Hour Warning in Powerful Speech LIVE | Donald Trump Speech LIVE",
+            "videoId": "IBysa8M8iDU",
+            "name": "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dlidLaYAL3w",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "zS_7ob9l5ek",
-            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "GwLtV9xRALk",
+            "name": "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "ecaS9iUj-mM",
-            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | Breaking News",
-            "artist": "ET Now"
+            "videoId": "5cpgi4l6GAI",
+            "name": "US Iran War LIVE | President Trump Issues Final Ultimatum to Tehran Over Strait of Hormuz | Israel",
+            "artist": "Mint"
         },
         {
             "mood": "storm",
-            "videoId": "RLXvtm7QSyc",
-            "name": "LIVE | Israel Blinded By Trump? Iran Rains Missiles Mocking Trump's Talk Of Joint Control Of Hormuz",
+            "videoId": "K60ytfff8aE",
+            "name": "Drone Attack ON CAM LIVE | Energy Crisis Alert — Iran Strikes Kuwait Fuel Targets | War Breaking",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Nl4TC29R5Bk",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-peP8-PRzcs",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 25-03-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "xPaxzBT6_MU",
-            "name": "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |",
+            "videoId": "0rKX3RwbXSo",
+            "name": "News Ki Pathshala Live | Iran Attack Haifa | Israel में क्लस्टर बम की बारिश | Iran Attack in Israel",
             "artist": "Times Now Navbharat"
         }
     ],
