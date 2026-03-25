@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T16:02:13.873Z",
+    "generatedAt": "2026-03-25T17:51:47.189Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vCBhNV5ZSGg",
-            "name": "🔴LIVE : trump | USA | iranAttack அணு அணுவாக அழியும் அமெரிக்காஜாலியாக கைகொட்டி சிரிக்கும் ரஷ்யா, சீனா",
-            "artist": "Thanthi TV"
+            "videoId": "SqJQ8iRxbn8",
+            "name": "🔴LIVE: Iran | war | ஈரான் போரில் யாரும் எதிர்பாராத ட்விஸ்ட்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "F3zYXSTgXHM",
-            "name": "LIVE: యుద్ధం ముదిరితే... భారత్ కు భారీ ముప్పు! | Global War Effects on India: Fuel Prices, Economy",
-            "artist": "10TV News Telugu"
+            "videoId": "tUwAbRcPGgw",
+            "name": "LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "gTp639ja7zk",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
+            "videoId": "FAj4sXvV4iM",
+            "name": "Debate With Arnab LIVE: Mr Trump, Where Is Your Ceasefire? | US-Israel-Iran War",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "lMJKqJlwZlk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "4fODPkRVq_g",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "JFOn9t6z_9s",
-            "name": "US-Iran War LIVE: Iranian Navy Claims Attack On USS Abraham Lincoln, West Asia War Explodes | WION",
-            "artist": "WION"
+            "videoId": "U-P8ZGnFHu0",
+            "name": "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks | Vantage with Palki Sharma | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "IxrN1NWDnaE",
-            "name": "🟠Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "videoId": "BIWBRbd-qno",
+            "name": "Iran Stops Pakistani Ship Live: IRGC ने पाकिस्तानी जहाज को Hormuz में रोका | Breaking | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bKt5JyhUJ3M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BnYO0LIYkQY",
+            "name": "LIVE | Israel–Iran Exchange Fresh Strikes as Ceasefire Hopes Collapse | Trump | Strait Of Hormuz",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jwfym3LwCOE",
+            "name": "Gujarati News LIVE |  સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
             "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rXniaiIni1Q",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (25.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nSAnVbhXNs4",
+            "name": "News Ki Pathshala Live | Sushant Sinha |युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8Zd6yq832N4",
+            "name": "Iran America War Updates LIVE | Hormuz Strait | Trump | Mojtaba | War News| ईरान-इजरायल जंग की खबरें",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {

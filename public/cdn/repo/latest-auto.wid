@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T160213.918Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T175147.227Z-l4t35t"
   type: "state"
-  created: "2026-03-25T16:02:13.918Z"
+  created: "2026-03-25T17:51:47.227Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T160213.918Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T175147.227Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vCBhNV5ZSGg"
-        name: "🔴LIVE : trump | USA | iranAttack அணு அணுவாக அழியும் அமெரிக்காஜாலியாக கைகொட்டி சிரிக்கும் ரஷ்யா, சீனா"
-        artist: "Thanthi TV"
+        videoId: "SqJQ8iRxbn8"
+        name: "🔴LIVE: Iran | war | ஈரான் போரில் யாரும் எதிர்பாராத ட்விஸ்ட்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F3zYXSTgXHM"
-        name: "LIVE: యుద్ధం ముదిరితే... భారత్ కు భారీ ముప్పు! | Global War Effects on India: Fuel Prices, Economy"
-        artist: "10TV News Telugu"
+        videoId: "tUwAbRcPGgw"
+        name: "LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gTp639ja7zk"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
+        videoId: "FAj4sXvV4iM"
+        name: "Debate With Arnab LIVE: Mr Trump, Where Is Your Ceasefire? | US-Israel-Iran War"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lMJKqJlwZlk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "4fODPkRVq_g"
+        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JFOn9t6z_9s"
-        name: "US-Iran War LIVE: Iranian Navy Claims Attack On USS Abraham Lincoln, West Asia War Explodes | WION"
-        artist: "WION"
+        videoId: "U-P8ZGnFHu0"
+        name: "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks | Vantage with Palki Sharma | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IxrN1NWDnaE"
-        name: "🟠Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
+        videoId: "BIWBRbd-qno"
+        name: "Iran Stops Pakistani Ship Live: IRGC ने पाकिस्तानी जहाज को Hormuz में रोका | Breaking | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bKt5JyhUJ3M"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BnYO0LIYkQY"
+        name: "LIVE | Israel–Iran Exchange Fresh Strikes as Ceasefire Hopes Collapse | Trump | Strait Of Hormuz"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jwfym3LwCOE"
+        name: "Gujarati News LIVE |  સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
         artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rXniaiIni1Q"
+        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (25.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nSAnVbhXNs4"
+        name: "News Ki Pathshala Live | Sushant Sinha |युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है?"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8Zd6yq832N4"
+        name: "Iran America War Updates LIVE | Hormuz Strait | Trump | Mojtaba | War News| ईरान-इजरायल जंग की खबरें"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T16:02:13.918Z"
+  exported_at: "2026-03-25T17:51:47.227Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T16:02:13.873Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T17:51:47.189Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
