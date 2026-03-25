@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T12:50:30.294Z",
+    "generatedAt": "2026-03-25T14:14:19.800Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IxrN1NWDnaE",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3vj7yTmGSsY",
-            "name": "Iran Vs US-Israel War: लो युद्ध खत्म करने की मान गया ईरान? दुनिया में खुशी की लहर! | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bLdM2RI0ZQY",
-            "name": "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (25.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d4CKZGBsbiA",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 25 March 2026 || World News Bangla ||",
-            "artist": "BBC BANGLA NEWS BD 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IBysa8M8iDU",
-            "name": "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B1dIJGyk2aQ",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "videoId": "Nl4TC29R5Bk",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "GwLtV9xRALk",
-            "name": "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB",
-            "artist": "Times Now Navbharat"
+            "videoId": "MtRPSAa92FA",
+            "name": "LIVE | World War Alert | Gas Cylinder Shortage | CM Fadnavis | Ashok Kharat Case | Saamtv",
+            "artist": "Saam TV News"
         },
         {
             "mood": "storm",
-            "videoId": "-8w6NpTDU1E",
-            "name": "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack",
-            "artist": "Times Now Navbharat"
+            "videoId": "tFu6An5e5EE",
+            "name": "Out Of Focus Live | 25 March 2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ld_FhE1Wm-E",
+            "name": "World News | ख़बरें विदेश की | 25 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kIyFuo9LSJ8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
