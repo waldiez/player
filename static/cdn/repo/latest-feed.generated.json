@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T05:56:15.828Z",
+    "generatedAt": "2026-03-25T06:57:11.232Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-peP8-PRzcs",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 25-03-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
+            "videoId": "dlidLaYAL3w",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "xPaxzBT6_MU",
-            "name": "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |",
+            "videoId": "B1dIJGyk2aQ",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5cpgi4l6GAI",
+            "name": "US Iran War LIVE | President Trump Issues Final Ultimatum to Tehran Over Strait of Hormuz | Israel",
+            "artist": "Mint"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TU90RbVAso0",
+            "name": "🟢Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0rKX3RwbXSo",
+            "name": "News Ki Pathshala Live | Iran Attack Haifa | Israel में क्लस्टर बम की बारिश | Iran Attack in Israel",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SAURK1Hezyo",
-            "name": "Iran Vs America War LIVE: ईरान- अमेरिका युद्ध का 24वां दिन हुआ बड़ा खतरनाक! Trump | Israel | Hormuz",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mWv1PQuiutg",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | Breaking | 25 March",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oZp_askG2nQ",
-            "name": "World News Live: युद्ध के बीच अचानक ट्रंप ने PM मोदी को क्यों लगाया फोन ! Iran News | PM Modi | USA|",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yPLdGvueWBs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pGXjBq7EoOk",
-            "name": "LIVE: Iranian Missile Hits Tel Aviv, Massive Destruction Reported | Vantage with Palki Sharma",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lQTDPhe-jSU",
-            "name": "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ELWaiIm3sqo",
-            "name": "LIVE: TRUMP JUST DECIDED AMERICA'S FATE – Iran War Plans EXPOSED in EMERGENCY ADDRESS",
-            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
