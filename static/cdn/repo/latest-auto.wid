@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T084039.509Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T094504.612Z-l4t35t"
   type: "state"
-  created: "2026-03-25T08:40:39.509Z"
+  created: "2026-03-25T09:45:04.612Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T084039.509Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T094504.612Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,38 +53,50 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "IBysa8M8iDU"
-        name: "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION"
-        artist: "WION"
+        videoId: "Ah63z7HO7Ws"
+        name: "Iran Launches Massive Missile | Chaos in Iran| Latest War Update | 12 PM Bulletin"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dlidLaYAL3w"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
+        videoId: "oaLvMLptzoI"
+        name: "US NEWS LIVE: Trump Issues Urgent 24-Hour Warning in Powerful Speech LIVE | Donald Trump Speech LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GwLtV9xRALk"
-        name: "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB"
+        videoId: "zS_7ob9l5ek"
+        name: "🟠Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pYZrVc8-a8I"
+        name: "Today Headlines | 25 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BsDbTw9HfTw"
+        name: "🔴LIVE: AIADMK Candidate list | EPS | அதிமுகவின் வேட்பாளர் பட்டியல் வெளியீடு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-8w6NpTDU1E"
+        name: "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5cpgi4l6GAI"
-        name: "US Iran War LIVE | President Trump Issues Final Ultimatum to Tehran Over Strait of Hormuz | Israel"
-        artist: "Mint"
+        videoId: "TU90RbVAso0"
+        name: "🟢Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "K60ytfff8aE"
-        name: "Drone Attack ON CAM LIVE | Energy Crisis Alert — Iran Strikes Kuwait Fuel Targets | War Breaking"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0rKX3RwbXSo"
-        name: "News Ki Pathshala Live | Iran Attack Haifa | Israel में क्लस्टर बम की बारिश | Iran Attack in Israel"
+        videoId: "xPaxzBT6_MU"
+        name: "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |"
         artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T08:40:39.509Z"
+  exported_at: "2026-03-25T09:45:04.612Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T08:40:39.469Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T09:45:04.573Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

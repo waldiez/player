@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T08:40:39.469Z",
+    "generatedAt": "2026-03-25T09:45:04.573Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,38 +28,50 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IBysa8M8iDU",
-            "name": "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION",
-            "artist": "WION"
+            "videoId": "Ah63z7HO7Ws",
+            "name": "Iran Launches Massive Missile | Chaos in Iran| Latest War Update | 12 PM Bulletin",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "dlidLaYAL3w",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "videoId": "oaLvMLptzoI",
+            "name": "US NEWS LIVE: Trump Issues Urgent 24-Hour Warning in Powerful Speech LIVE | Donald Trump Speech LIVE",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "GwLtV9xRALk",
-            "name": "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB",
+            "videoId": "zS_7ob9l5ek",
+            "name": "🟠Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pYZrVc8-a8I",
+            "name": "Today Headlines | 25 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BsDbTw9HfTw",
+            "name": "🔴LIVE: AIADMK Candidate list | EPS | அதிமுகவின் வேட்பாளர் பட்டியல் வெளியீடு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-8w6NpTDU1E",
+            "name": "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "5cpgi4l6GAI",
-            "name": "US Iran War LIVE | President Trump Issues Final Ultimatum to Tehran Over Strait of Hormuz | Israel",
-            "artist": "Mint"
+            "videoId": "TU90RbVAso0",
+            "name": "🟢Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "K60ytfff8aE",
-            "name": "Drone Attack ON CAM LIVE | Energy Crisis Alert — Iran Strikes Kuwait Fuel Targets | War Breaking",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0rKX3RwbXSo",
-            "name": "News Ki Pathshala Live | Iran Attack Haifa | Israel में क्लस्टर बम की बारिश | Iran Attack in Israel",
+            "videoId": "xPaxzBT6_MU",
+            "name": "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |",
             "artist": "Times Now Navbharat"
         }
     ],
