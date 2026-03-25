@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T012417.964Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T041237.828Z-l4t35t"
   type: "state"
-  created: "2026-03-25T01:24:17.964Z"
+  created: "2026-03-25T04:12:37.828Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T012417.964Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T041237.828Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "S8tv-IOJRYU"
+        videoId: "PQrK2TXer1o"
+        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YcITHJMfPnA"
         name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
-        artist: "MIRROR NOW"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AwQN2MXH9Ck"
-        name: "US-Iran-Israel War LIVE | Ceasefire: Calm Before Storm? Iran Rejects, Israel Signals More Strikes"
-        artist: "CNN-News18"
+        videoId: "nJzAzOHWu6M"
+        name: "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks  | Vantage with Palki Sharma"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eepArxYcHXk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Advut Jaal"
+        videoId: "Dtrnvc7OdEM"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 24, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e-Gj4AbkCTE"
-        name: "US President says he is negotiating with Iran | Headlines Geo News 12 AM (25 March 2026)"
+        videoId: "1FCPjfCF2jA"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 25 March"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wNh23szEP9Y"
+        name: "Today's Headlines | 25 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kJ0aZySdrIk"
+        name: "Strict work-from-home guidelines for private institutions | Headlines Geo News 5 AM (25 March 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gVtAQcwZSng"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC বাংলা NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AhvwI9wxS68"
-        name: "Aaj Ki Taaja Khabar Live: 25 March 2026 | Israel Iran War | Trump | PM Modi | LPG Crisis | Iran News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lQTDPhe-jSU"
-        name: "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "Mtg5WRetybA"
+        name: "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T01:24:17.964Z"
+  exported_at: "2026-03-25T04:12:37.828Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T01:24:17.932Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T04:12:37.785Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

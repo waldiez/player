@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T01:24:17.932Z",
+    "generatedAt": "2026-03-25T04:12:37.785Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "S8tv-IOJRYU",
+            "videoId": "PQrK2TXer1o",
+            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YcITHJMfPnA",
             "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "AwQN2MXH9Ck",
-            "name": "US-Iran-Israel War LIVE | Ceasefire: Calm Before Storm? Iran Rejects, Israel Signals More Strikes",
-            "artist": "CNN-News18"
+            "videoId": "nJzAzOHWu6M",
+            "name": "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks  | Vantage with Palki Sharma",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "eepArxYcHXk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Advut Jaal"
+            "videoId": "Dtrnvc7OdEM",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 24, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "e-Gj4AbkCTE",
-            "name": "US President says he is negotiating with Iran | Headlines Geo News 12 AM (25 March 2026)",
+            "videoId": "1FCPjfCF2jA",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 25 March",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wNh23szEP9Y",
+            "name": "Today's Headlines | 25 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kJ0aZySdrIk",
+            "name": "Strict work-from-home guidelines for private institutions | Headlines Geo News 5 AM (25 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "gVtAQcwZSng",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AhvwI9wxS68",
-            "name": "Aaj Ki Taaja Khabar Live: 25 March 2026 | Israel Iran War | Trump | PM Modi | LPG Crisis | Iran News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lQTDPhe-jSU",
-            "name": "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "Mtg5WRetybA",
+            "name": "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
