@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-24T23:24:42.307Z",
+    "generatedAt": "2026-03-25T01:24:17.932Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HJWzvx8uQY4",
-            "name": "LIVE: From Winning to Talking, Trump's Many U-turns on Iran | Vantage with Palki Sharma",
-            "artist": "Firstpost"
+            "videoId": "S8tv-IOJRYU",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "oOKlHQI90Gg",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8F3XTORhaQQ",
-            "name": "Iran War LIVE | Iran’s Missile Math Revealed: A Steady Drumbeat Of Attacks Aimed At Central Israel |",
+            "videoId": "AwQN2MXH9Ck",
+            "name": "US-Iran-Israel War LIVE | Ceasefire: Calm Before Storm? Iran Rejects, Israel Signals More Strikes",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "pCYUEpTmlZI",
-            "name": "Israel Iran War LIVE: Israel Intercepts Fresh Barrage of Iranian Missiles as US Iran War Continues",
-            "artist": "Firstpost"
+            "videoId": "eepArxYcHXk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Advut Jaal"
         },
         {
             "mood": "storm",
-            "videoId": "1rUavo0ocqU",
-            "name": "US Iran War LIVE: Trump's BIG CLAIM, Says \"Iran Agreed to Not Have a Nuclear Weapon\" | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "e-Gj4AbkCTE",
+            "name": "US President says he is negotiating with Iran | Headlines Geo News 12 AM (25 March 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "bmsRCjjQ6TI",
+            "videoId": "gVtAQcwZSng",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "প্রতিদিনের রাজনীতি"
+            "artist": "CDC বাংলা NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "9KwTlnrRNDk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "RMT ANTORJATIK NEWS"
+            "videoId": "AhvwI9wxS68",
+            "name": "Aaj Ki Taaja Khabar Live: 25 March 2026 | Israel Iran War | Trump | PM Modi | LPG Crisis | Iran News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lQTDPhe-jSU",
+            "name": "World News Live: ईरान तो दनादन मारता चला जा रहा है! | Iran News | PM Modi | USA | Pakistan | Trump",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
