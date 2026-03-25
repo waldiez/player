@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T094504.612Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T104045.559Z-l4t35t"
   type: "state"
-  created: "2026-03-25T09:45:04.612Z"
+  created: "2026-03-25T10:40:45.559Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T094504.612Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T104045.559Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ah63z7HO7Ws"
-        name: "Iran Launches Massive Missile | Chaos in Iran| Latest War Update | 12 PM Bulletin"
-        artist: "Dunya News"
+        videoId: "3vj7yTmGSsY"
+        name: "Iran Vs US-Israel War: लो युद्ध खत्म करने की मान गया ईरान? दुनिया में खुशी की लहर! | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oaLvMLptzoI"
-        name: "US NEWS LIVE: Trump Issues Urgent 24-Hour Warning in Powerful Speech LIVE | Donald Trump Speech LIVE"
-        artist: "ET Now"
+        videoId: "bLdM2RI0ZQY"
+        name: "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (25.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zS_7ob9l5ek"
-        name: "🟠Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pYZrVc8-a8I"
-        name: "Today Headlines | 25 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BsDbTw9HfTw"
-        name: "🔴LIVE: AIADMK Candidate list | EPS | அதிமுகவின் வேட்பாளர் பட்டியல் வெளியீடு"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-8w6NpTDU1E"
+        videoId: "Ei-zcHYw6KM"
         name: "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TU90RbVAso0"
-        name: "🟢Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu"
-        artist: "News18 Urdu"
+        videoId: "NBYQ6VUoOYA"
+        name: "🔴LIVE: Today Headlines |  மதியம் 3 மணி தலைப்புச் செய்திகள் (25.03.2026) | 3 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xPaxzBT6_MU"
-        name: "World News Live: ट्रंप ने भारत से मांगी मदद,PM मोदी का करारा जबाब ! Iran News | PM Modi | USA |"
-        artist: "Times Now Navbharat"
+        videoId: "kIyFuo9LSJ8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lggRULBqi6w"
+        name: "LPG Booking New Rule News LIVE: गैस सिलेंडर पर सरकार का एक और बड़ा ऐलान, लोगों में मचा हड़कंप!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KnblDLBzal0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ecaS9iUj-mM"
+        name: "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | Breaking News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dlidLaYAL3w"
+        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T09:45:04.612Z"
+  exported_at: "2026-03-25T10:40:45.559Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T09:45:04.573Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T10:40:45.512Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
