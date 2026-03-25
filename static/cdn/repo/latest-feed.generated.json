@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-25T11:36:18.803Z",
+    "generatedAt": "2026-03-25T12:50:30.294Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ah63z7HO7Ws",
-            "name": "Iran Launches Massive Missile | Chaos in Iran| Latest War Update | 12 PM Bulletin",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zS_7ob9l5ek",
-            "name": "🟠Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "videoId": "IxrN1NWDnaE",
+            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "rV0NRfDh3qs",
-            "name": "World News Live : ‘युद्ध का असर भारत पर होगा ही होगा...’अलर्ट रहें लोग ! Iran | India | USA | Modi |",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "3vj7yTmGSsY",
+            "name": "Iran Vs US-Israel War: लो युद्ध खत्म करने की मान गया ईरान? दुनिया में खुशी की लहर! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bLdM2RI0ZQY",
+            "name": "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (25.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d4CKZGBsbiA",
+            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 25 March 2026 || World News Bangla ||",
+            "artist": "BBC BANGLA NEWS BD 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IBysa8M8iDU",
+            "name": "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B1dIJGyk2aQ",
+            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GwLtV9xRALk",
+            "name": "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-8w6NpTDU1E",
+            "name": "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {

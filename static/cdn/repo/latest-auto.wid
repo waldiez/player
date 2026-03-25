@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T113618.846Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260325T125030.339Z-l4t35t"
   type: "state"
-  created: "2026-03-25T11:36:18.846Z"
+  created: "2026-03-25T12:50:30.339Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T113618.846Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T125030.339Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ah63z7HO7Ws"
-        name: "Iran Launches Massive Missile | Chaos in Iran| Latest War Update | 12 PM Bulletin"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zS_7ob9l5ek"
-        name: "🟠Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
+        videoId: "IxrN1NWDnaE"
+        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
         artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rV0NRfDh3qs"
-        name: "World News Live : ‘युद्ध का असर भारत पर होगा ही होगा...’अलर्ट रहें लोग ! Iran | India | USA | Modi |"
-        artist: "Times Now Bihar Jharkhand"
+        videoId: "3vj7yTmGSsY"
+        name: "Iran Vs US-Israel War: लो युद्ध खत्म करने की मान गया ईरान? दुनिया में खुशी की लहर! | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bLdM2RI0ZQY"
+        name: "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (25.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d4CKZGBsbiA"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 25 March 2026 || World News Bangla ||"
+        artist: "BBC BANGLA NEWS BD 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IBysa8M8iDU"
+        name: "Iran Strikes Gulf LIVE: Iran Strikes World’s Biggest Gas Hub, Fires Erupt In Qatar | WION"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B1dIJGyk2aQ"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GwLtV9xRALk"
+        name: "News Ki Pathshala।Sushant Sinha:ईरान तो दनादन मारता चला जा रहा,ट्रंप का 5 दिन वाला सीजफायर बेकारTNNB"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-8w6NpTDU1E"
+        name: "News Ki Pathshala Live | Iran Missile Attack On Israel | इजरायल में तबाही ! | War News | Iran Arrack"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T11:36:18.846Z"
+  exported_at: "2026-03-25T12:50:30.339Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T11:36:18.803Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-25T12:50:30.294Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
