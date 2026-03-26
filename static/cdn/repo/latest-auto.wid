@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T012949.723Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T042713.065Z-l4t35t"
   type: "state"
-  created: "2026-03-26T01:29:49.723Z"
+  created: "2026-03-26T04:27:13.065Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T012949.723Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T042713.065Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-EU2LeIfrtA"
-        name: "🔴LIVE :Iran Israel War | Iran War | Donald Trump | நூலிழையில் தப்பிய இஸ்ரேல் அதிபர்.."
-        artist: "Thanthi TV"
+        videoId: "ViMj_tdm3Gs"
+        name: "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3CUvB6Z8zlY"
-        name: "Iran rejects US ceasefire proposals | Headlines Geo News 12 AM (26 March 2026)"
+        videoId: "7fa2neA2OjQ"
+        name: "LIVE: Trump Drops Massive Lockdown Statement | Trump's URGENT Announcement LIVE | Donald Trump LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iOzS7UYySuU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ofs6hZuNs9c"
+        name: "🔴Live ଯାଜପୁରରେ କାଳବୈଶାଖୀର ତାଣ୍ଡବ Severe Thunderstorm Destroys Jajati Mahotsav in Jajpur | Heavy Rain"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5prv7t3Gh6A"
+        name: "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bLblEOCCSyE"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 25, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Xd2O2yfd3jw"
+        name: "US IRAN WAR LIVE: Iran DECLARES WAR? SHOCKING Warning to US Will Leave You SPEECHLESS!"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ll3Bja_UZy8"
+        name: "Iran accelerates preparations for war on Kharg Island | Headlines Geo News 6 AM (26 March 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ls7GX3RDid0"
-        name: "Terrible Attack on Airport | High Alert Issued| Iran Israel War Latest 12AM Headlines |Pakistan News"
-        artist: "Express News"
+        videoId: "SesI_HAM4Xc"
+        name: "LIVE: 🔴Lockdown Shortage of LPG Gas Cylinders & Petrol | లాక్ డౌన్!కాసేపట్లో మోడీ ప్రకటన? | ZEE"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NBYQ6VUoOYA"
-        name: "🔴LIVE: Today Headlines |  இரவு 11 மணி தலைப்புச் செய்திகள் (25.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "L-DzNK4f5-Y"
+        name: "LIVE: Iran Attacks Israel Amid De-Escalation Claims | Iran Rejects Any Talks With USA | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6F5Jmsv1TwE"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jXCE59U4o6c"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xdRly9ehpUg"
-        name: "News Ki Pathshala Live : युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है? | Sushant Sinha"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4fODPkRVq_g"
-        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U-P8ZGnFHu0"
-        name: "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks | Vantage with Palki Sharma | N18G"
-        artist: "Firstpost"
+        videoId: "0tzhRwHHRzQ"
+        name: "TRUMP WARNS IRAN: Make a Deal Immediately or Prepare for Severe Military Consequences | LIVE NEWS"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T01:29:49.723Z"
+  exported_at: "2026-03-26T04:27:13.065Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T01:29:49.680Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T04:27:13.029Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
