@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T11:43:35.328Z",
+    "generatedAt": "2026-03-26T12:55:59.732Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "O9xKZBtwKYg",
-            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
-            "artist": "MIRROR NOW"
+            "videoId": "ta--9-XK4ww",
+            "name": "ईरान-अमेरिका जंग, 26 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "cJQKgQJvHPY",
-            "name": "3 PM Gujarati News LIVE | 3 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "S6MoU9B9TJk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "L_pzhzwlMQI",
-            "name": "US IRAN WAR LIVE | Tehran Rejects Trump’s 15-Point Ceasefire Plan, Continue Attack On Israel | N18G",
+            "videoId": "B2GvaKrWzBc",
+            "name": "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL — IMMEDIATE Lockdown Declared Across America | World News",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7NbVGByrQ30",
+            "name": "Live: Israel Intensifies Strikes, Top Iran Target Reportedly Killed in Major Escalation | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "TZoRAo5q_pI",
-            "name": "Iran Israel News Live: इजरायल के आसमान में छाए काले कौवे, भयंकर तबाही का प्रतीक ! Crows | War News |",
-            "artist": "Times Now Navbharat"
+            "videoId": "HE2KsmIytlA",
+            "name": "US vs Iran LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | West Asia War | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "y5VWxre9pM4",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "59bFdxBqspo",
+            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ZWbPTunlkUY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "gOOlmgGfxp8",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "Nt9_gSLMGQ8",
-            "name": "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026",
-            "artist": "ATN Bangla News"
+            "videoId": "3VWi8oEh4Wo",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "1NAFHGNzi1o",
-            "name": "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America",
-            "artist": "Times Now Navbharat"
+            "videoId": "aHtIofX1Ltw",
+            "name": "West Asia War LIVE: Iranian Cluster Bombs Hit Israel; Targets Across Tehran Bombed | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bqbyo8uZ99c",
+            "name": "LIVE: German Defence Minister Warns The World: “Globe Must Rely Less on the US” | Boris Pistorius",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {

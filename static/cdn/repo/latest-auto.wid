@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T114335.366Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T125559.773Z-l4t35t"
   type: "state"
-  created: "2026-03-26T11:43:35.366Z"
+  created: "2026-03-26T12:55:59.773Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T114335.366Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T125559.773Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "O9xKZBtwKYg"
-        name: "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News"
-        artist: "MIRROR NOW"
+        videoId: "ta--9-XK4ww"
+        name: "ईरान-अमेरिका जंग, 26 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cJQKgQJvHPY"
-        name: "3 PM Gujarati News LIVE | 3 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "S6MoU9B9TJk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L_pzhzwlMQI"
-        name: "US IRAN WAR LIVE | Tehran Rejects Trump’s 15-Point Ceasefire Plan, Continue Attack On Israel | N18G"
+        videoId: "B2GvaKrWzBc"
+        name: "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL — IMMEDIATE Lockdown Declared Across America | World News"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7NbVGByrQ30"
+        name: "Live: Israel Intensifies Strikes, Top Iran Target Reportedly Killed in Major Escalation | N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TZoRAo5q_pI"
-        name: "Iran Israel News Live: इजरायल के आसमान में छाए काले कौवे, भयंकर तबाही का प्रतीक ! Crows | War News |"
-        artist: "Times Now Navbharat"
+        videoId: "HE2KsmIytlA"
+        name: "US vs Iran LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | West Asia War | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y5VWxre9pM4"
-        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "59bFdxBqspo"
+        name: "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZWbPTunlkUY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "gOOlmgGfxp8"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.03.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Nt9_gSLMGQ8"
-        name: "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026"
-        artist: "ATN Bangla News"
+        videoId: "3VWi8oEh4Wo"
+        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1NAFHGNzi1o"
-        name: "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America"
-        artist: "Times Now Navbharat"
+        videoId: "aHtIofX1Ltw"
+        name: "West Asia War LIVE: Iranian Cluster Bombs Hit Israel; Targets Across Tehran Bombed | US Iran War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bqbyo8uZ99c"
+        name: "LIVE: German Defence Minister Warns The World: “Globe Must Rely Less on the US” | Boris Pistorius"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T11:43:35.366Z"
+  exported_at: "2026-03-26T12:55:59.773Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T11:43:35.328Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T12:55:59.732Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
