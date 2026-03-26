@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T19:52:28.650Z",
+    "generatedAt": "2026-03-26T20:29:12.791Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tzR8qByheQc",
-            "name": "🔴LIVE : Today Headlines - 26 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "HWO_EHWcCVA",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "yRARJtUBrO4",
-            "name": "News ki Pathshala Live | Sushant Sinha : Trump अब Iran पर हमले के 4 प्लान ले आए? | Iran Israel War",
-            "artist": "Times Now Navbharat"
+            "videoId": "QqB6GsEUYHE",
+            "name": "🔴LIVE : IRAN | Israel | ஈரான் கப்பற்படை தளபதி கொலை?வெறியாட்டமாடிய இஸ்ரேல்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "v75LLKH-Cwo",
-            "name": "LIVE: Iran Big Shock To Trump | Iran Israel War Updates | నువ్వు ఆపమంటే ఆగం! ట్రంప్‌ కు ఇరాన్‌ షాక్‌",
-            "artist": "Zee Telugu News"
+            "videoId": "3VWi8oEh4Wo",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "z5sj1IFnKM0",
-            "name": "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "6qBeYSvF56I",
+            "name": "US Iran War LIVE: Iran Eases Hormuz Strait Oil Passage for \"Friend\" India | West Asia War | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QDNe3BG36Ig",
-            "name": "🔴LIVE: abraham lincoln | Iran | அமெரிக்காவின் இதயத்தின் மீது கைவைத்த ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "snEweqiTdo8",
-            "name": "The Debate LIVE: Has Donald Trump Lost The Grip On Iran War?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kGTvvW3oUu0",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 26 March 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "lHxuE0Qf7sg",
+            "name": "President Trump leads cabinet meeting at the White House: LIVE",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

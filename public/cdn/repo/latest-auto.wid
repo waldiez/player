@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T195228.692Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T202912.824Z-l4t35t"
   type: "state"
-  created: "2026-03-26T19:52:28.692Z"
+  created: "2026-03-26T20:29:12.824Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T195228.692Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T202912.824Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "tzR8qByheQc"
-        name: "🔴LIVE : Today Headlines - 26 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "HWO_EHWcCVA"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yRARJtUBrO4"
-        name: "News ki Pathshala Live | Sushant Sinha : Trump अब Iran पर हमले के 4 प्लान ले आए? | Iran Israel War"
-        artist: "Times Now Navbharat"
+        videoId: "QqB6GsEUYHE"
+        name: "🔴LIVE : IRAN | Israel | ஈரான் கப்பற்படை தளபதி கொலை?வெறியாட்டமாடிய இஸ்ரேல்"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v75LLKH-Cwo"
-        name: "LIVE: Iran Big Shock To Trump | Iran Israel War Updates | నువ్వు ఆపమంటే ఆగం! ట్రంప్‌ కు ఇరాన్‌ షాక్‌"
-        artist: "Zee Telugu News"
+        videoId: "3VWi8oEh4Wo"
+        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z5sj1IFnKM0"
-        name: "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு"
-        artist: "Sathiyam News"
+        videoId: "6qBeYSvF56I"
+        name: "US Iran War LIVE: Iran Eases Hormuz Strait Oil Passage for \"Friend\" India | West Asia War | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QDNe3BG36Ig"
-        name: "🔴LIVE: abraham lincoln | Iran | அமெரிக்காவின் இதயத்தின் மீது கைவைத்த ஈரான்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "snEweqiTdo8"
-        name: "The Debate LIVE: Has Donald Trump Lost The Grip On Iran War?"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kGTvvW3oUu0"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 26 March 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "lHxuE0Qf7sg"
+        name: "President Trump leads cabinet meeting at the White House: LIVE"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T19:52:28.692Z"
+  exported_at: "2026-03-26T20:29:12.824Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T19:52:28.650Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T20:29:12.791Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
