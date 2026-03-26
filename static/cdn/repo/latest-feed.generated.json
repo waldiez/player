@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T17:55:07.814Z",
+    "generatedAt": "2026-03-26T18:55:40.173Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,38 +28,56 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "z5sj1IFnKM0",
-            "name": "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "OEeex9YgO_8",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "snEweqiTdo8",
-            "name": "The Debate LIVE: Has Donald Trump Lost The Grip On Iran War?",
-            "artist": "Republic World"
+            "videoId": "3VWi8oEh4Wo",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "BeHfWPk8tQA",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 27 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "T8yT0q0dFKU",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "aR5wnmTfQSw",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "videoId": "cmw3I0Bygzg",
+            "name": "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "zl9dyKAN87k",
-            "name": "Iran War News Today | Deal Or Denial? Trump Pushes To End War This Week | NDTV 24x7 LIVE TV",
-            "artist": "NDTV"
+            "videoId": "6YJF3FbJjUc",
+            "name": "LIVE: Trump Preparing \"Final Blow\" Against Iran? | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "V4GPdDGhx9A",
-            "name": "Pakistan News Live: ईरान की मिसाइल का मुंह पाकिस्तान की ओर मुड़ेगा ! | Asim Munir | Missile Attack |",
+            "videoId": "lHxuE0Qf7sg",
+            "name": "President Trump leads cabinet meeting at the White House: LIVE",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HHUx4BGyrDs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hcHFlWdqanU",
+            "name": "US Iran War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tjoWF0iqM_8",
+            "name": "News Ki Pathshala Live | Sushant Sinha | Trump अब Iran पर हमले के 4 प्लान ले आए? | Hindi News",
             "artist": "Times Now Navbharat"
         }
     ],
