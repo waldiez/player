@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260325T232704.031Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T012949.723Z-l4t35t"
   type: "state"
-  created: "2026-03-25T23:27:04.031Z"
+  created: "2026-03-26T01:29:49.723Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260325T232704.031Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T012949.723Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0_ZZElJf1Gk"
-        name: "LIVE: Philippine President Ferdinand Marcos Jr. Holds Briefing Amid Rising Fuel Prices | N18G"
+        videoId: "-EU2LeIfrtA"
+        name: "🔴LIVE :Iran Israel War | Iran War | Donald Trump | நூலிழையில் தப்பிய இஸ்ரேல் அதிபர்.."
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3CUvB6Z8zlY"
+        name: "Iran rejects US ceasefire proposals | Headlines Geo News 12 AM (26 March 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ls7GX3RDid0"
+        name: "Terrible Attack on Airport | High Alert Issued| Iran Israel War Latest 12AM Headlines |Pakistan News"
+        artist: "Express News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NBYQ6VUoOYA"
+        name: "🔴LIVE: Today Headlines |  இரவு 11 மணி தலைப்புச் செய்திகள் (25.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6F5Jmsv1TwE"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jXCE59U4o6c"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xdRly9ehpUg"
+        name: "News Ki Pathshala Live : युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है? | Sushant Sinha"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4fODPkRVq_g"
+        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U-P8ZGnFHu0"
+        name: "LIVE: Iranian Missiles Hit Tel Aviv; War Continues Despite Talks | Vantage with Palki Sharma | N18G"
         artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jG8ZFsAMXYk"
-        name: "World News Live : ट्रंप का हाफ सीजफायर फेल ! Iran News | India | USA | Trump | Iran Israel War |"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rV0NRfDh3qs"
-        name: "World News Live : ‘युद्ध का असर भारत पर होगा ही होगा...’अलर्ट रहें लोग ! Iran | India | USA | Modi |"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LELeB21zli4"
-        name: "US Iran War LIVE: Iran's Cluster Bomb Missiles Strike Central Israel | Israel Iran War | Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SqJQ8iRxbn8"
-        name: "🔴LIVE: Iran | war | ஈரான் போரில் யாரும் எதிர்பாராத ட்விஸ்ட்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tUwAbRcPGgw"
-        name: "LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FAj4sXvV4iM"
-        name: "Debate With Arnab LIVE: Mr Trump, Where Is Your Ceasefire? | US-Israel-Iran War"
-        artist: "Republic World"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-25T23:27:04.031Z"
+  exported_at: "2026-03-26T01:29:49.723Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-25T23:27:03.991Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T01:29:49.680Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
