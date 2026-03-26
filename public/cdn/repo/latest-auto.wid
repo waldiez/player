@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T042713.065Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T060755.392Z-l4t35t"
   type: "state"
-  created: "2026-03-26T04:27:13.065Z"
+  created: "2026-03-26T06:07:55.392Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T042713.065Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T060755.392Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ViMj_tdm3Gs"
-        name: "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu"
-        artist: "News18 Urdu"
+        videoId: "RNnpDarh7Uw"
+        name: "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7fa2neA2OjQ"
-        name: "LIVE: Trump Drops Massive Lockdown Statement | Trump's URGENT Announcement LIVE | Donald Trump LIVE"
-        artist: "MIRROR NOW"
+        videoId: "37viVzrRa6s"
+        name: "নয়াদিল্লিকেও চায় ইরান, সর্বদলীয় বৈঠকে ভারত | Iran-India latest updates | Kalbela International"
+        artist: "Kalbela World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iOzS7UYySuU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ofs6hZuNs9c"
-        name: "🔴Live ଯାଜପୁରରେ କାଳବୈଶାଖୀର ତାଣ୍ଡବ Severe Thunderstorm Destroys Jajati Mahotsav in Jajpur | Heavy Rain"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5prv7t3Gh6A"
-        name: "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bLblEOCCSyE"
-        name: "ABC World News Tonight with David Muir Full Broadcast - March 25, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Xd2O2yfd3jw"
-        name: "US IRAN WAR LIVE: Iran DECLARES WAR? SHOCKING Warning to US Will Leave You SPEECHLESS!"
+        videoId: "-QQKK9Dhtxo"
+        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ll3Bja_UZy8"
-        name: "Iran accelerates preparations for war on Kharg Island | Headlines Geo News 6 AM (26 March 2026)"
-        artist: "Geo News"
+        videoId: "IRq4EeqJ2gM"
+        name: "News Ki Patshala Live | Iran America War | युद्ध खत्म होने वाला है.. या भयंकर ट्विस्ट की तैयारी है?"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SesI_HAM4Xc"
-        name: "LIVE: 🔴Lockdown Shortage of LPG Gas Cylinders & Petrol | లాక్ డౌన్!కాసేపట్లో మోడీ ప్రకటన? | ZEE"
-        artist: "Zee Telugu News"
+        videoId: "F0tRf6fiNLw"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 26.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L-DzNK4f5-Y"
-        name: "LIVE: Iran Attacks Israel Amid De-Escalation Claims | Iran Rejects Any Talks With USA | N18G"
-        artist: "CNN-News18"
+        videoId: "333byZV-V_8"
+        name: "West Asia War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | US Iran War | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0tzhRwHHRzQ"
-        name: "TRUMP WARNS IRAN: Make a Deal Immediately or Prepare for Severe Military Consequences | LIVE NEWS"
-        artist: "CNN-News18"
+        videoId: "qd4zdWmHqdY"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T04:27:13.065Z"
+  exported_at: "2026-03-26T06:07:55.392Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T04:27:13.029Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T06:07:55.346Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
