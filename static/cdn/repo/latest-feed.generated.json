@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T14:23:01.520Z",
+    "generatedAt": "2026-03-26T16:05:26.942Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ozssx958ZUM",
-            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent Statement on Middle East Tensions | World News",
-            "artist": "MIRROR NOW"
+            "videoId": "HHUx4BGyrDs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "V4GPdDGhx9A",
-            "name": "Pakistan News Live: ईरान की मिसाइल का मुंह पाकिस्तान की ओर मुड़ेगा ! | Asim Munir | Missile Attack |",
-            "artist": "Times Now Navbharat"
+            "videoId": "hcHFlWdqanU",
+            "name": "US Iran War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QyJ5D9lNIrI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "HlxJyVL1Ybc",
+            "name": "West Asia War LIVE: Saudi Arabia Asking Trump to Keep Bombing Iran? | US Iran War | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "uwz46GdfiFg",
-            "name": "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G",
+            "videoId": "GJNDyHa99Us",
+            "name": "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "uZL65eEfoqk",
-            "name": "Petrol Diesel Crisis In India Live : पेट्रोल - डीजल के लिए क्यों मचा हाहाकार ? | Iran Israel War",
-            "artist": "Times Now Navbharat"
+            "videoId": "Y8MVEDc6lDw",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "NbkA0us60wY",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
-            "artist": "Times Now World"
+            "videoId": "U-hbh10Uysg",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (26.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "r87wUa4DVeI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "c9g_j7eNbH4",
+            "name": "TRUMP LIVE | Trump Declares National Emergency! | Trump Signs Urgent Order | US on Edge | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "OumCiXM_1uo",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now World"
+            "videoId": "nGy93QVhExY",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NItjTXSTOQ0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Krishno Biswas"
         }
     ],
     "sourceFilters": {
