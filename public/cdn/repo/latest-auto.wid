@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T104506.288Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T114335.366Z-l4t35t"
   type: "state"
-  created: "2026-03-26T10:45:06.288Z"
+  created: "2026-03-26T11:43:35.366Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T104506.288Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T114335.366Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "gOOlmgGfxp8"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.03.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "O9xKZBtwKYg"
+        name: "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aHtIofX1Ltw"
-        name: "West Asia War LIVE: Iranian Cluster Bombs Hit Israel; Targets Across Tehran Bombed | US Iran War"
-        artist: "Firstpost"
+        videoId: "cJQKgQJvHPY"
+        name: "3 PM Gujarati News LIVE | 3 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lv9SLJV2TcU"
-        name: "News Ki Pathshala Live | Iran में ग्राउंड ऑपरेशन करेगा America ? | Iran America War | Trump | Iran"
+        videoId: "L_pzhzwlMQI"
+        name: "US IRAN WAR LIVE | Tehran Rejects Trump’s 15-Point Ceasefire Plan, Continue Attack On Israel | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TZoRAo5q_pI"
+        name: "Iran Israel News Live: इजरायल के आसमान में छाए काले कौवे, भयंकर तबाही का प्रतीक ! Crows | War News |"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MiUlNTbhswI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "y5VWxre9pM4"
+        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MCn18XYDmns"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "ZWbPTunlkUY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hEYd6Ij_OQU"
-        name: "🔴LIVE : জাতীয় প্যারেড গ্রাউন্ড থেকে সরাসরি"
-        artist: "NTV News"
+        videoId: "Nt9_gSLMGQ8"
+        name: "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1NAFHGNzi1o"
+        name: "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T10:45:06.288Z"
+  exported_at: "2026-03-26T11:43:35.366Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T10:45:06.255Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T11:43:35.328Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
