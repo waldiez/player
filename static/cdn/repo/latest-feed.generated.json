@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T16:05:26.942Z",
+    "generatedAt": "2026-03-26T17:55:07.814Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HHUx4BGyrDs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "z5sj1IFnKM0",
+            "name": "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "hcHFlWdqanU",
-            "name": "US Iran War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "snEweqiTdo8",
+            "name": "The Debate LIVE: Has Donald Trump Lost The Grip On Iran War?",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "HlxJyVL1Ybc",
-            "name": "West Asia War LIVE: Saudi Arabia Asking Trump to Keep Bombing Iran? | US Iran War | N18G",
-            "artist": "Firstpost"
+            "videoId": "BeHfWPk8tQA",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 27 Mar'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "GJNDyHa99Us",
-            "name": "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y8MVEDc6lDw",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "U-hbh10Uysg",
-            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (26.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "c9g_j7eNbH4",
-            "name": "TRUMP LIVE | Trump Declares National Emergency! | Trump Signs Urgent Order | US on Edge | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nGy93QVhExY",
+            "videoId": "aR5wnmTfQSw",
             "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "NItjTXSTOQ0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Krishno Biswas"
+            "videoId": "zl9dyKAN87k",
+            "name": "Iran War News Today | Deal Or Denial? Trump Pushes To End War This Week | NDTV 24x7 LIVE TV",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "V4GPdDGhx9A",
+            "name": "Pakistan News Live: ईरान की मिसाइल का मुंह पाकिस्तान की ओर मुड़ेगा ! | Asim Munir | Missile Attack |",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
