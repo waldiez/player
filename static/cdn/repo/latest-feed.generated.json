@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T20:29:12.791Z",
+    "generatedAt": "2026-03-26T23:24:33.294Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HWO_EHWcCVA",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "L8Achmmw7x8",
+            "name": "🔴Live Israel vs Iran Latest Update। क्या World War 3 का खतरा बढ़ रहा है?",
+            "artist": "Neeraj Ji"
         },
         {
             "mood": "storm",
-            "videoId": "QqB6GsEUYHE",
-            "name": "🔴LIVE : IRAN | Israel | ஈரான் கப்பற்படை தளபதி கொலை?வெறியாட்டமாடிய இஸ்ரேல்",
-            "artist": "Thanthi TV"
+            "videoId": "tzR8qByheQc",
+            "name": "🔴LIVE : Today Headlines - 26 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "3VWi8oEh4Wo",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
+            "videoId": "OEeex9YgO_8",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "6qBeYSvF56I",
-            "name": "US Iran War LIVE: Iran Eases Hormuz Strait Oil Passage for \"Friend\" India | West Asia War | N18G",
-            "artist": "Firstpost"
+            "videoId": "HpenwbvaEvg",
+            "name": "US Iran War LIVE | Trump Troops Attack Kharg Island, U.S Marines In Action | Israel Iran War | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "lHxuE0Qf7sg",
-            "name": "President Trump leads cabinet meeting at the White House: LIVE",
-            "artist": "ABC News"
+            "videoId": "yRARJtUBrO4",
+            "name": "News ki Pathshala Live | Sushant Sinha : Trump अब Iran पर हमले के 4 प्लान ले आए? | Iran Israel War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LlGCoyamCiI",
+            "name": "Breaking News Live Bulletin | Pakistan & World Updates Today | Latest Headlines | Live News 24/7",
+            "artist": "Faiz News Network - FNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z5sj1IFnKM0",
+            "name": "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QDNe3BG36Ig",
+            "name": "🔴LIVE: abraham lincoln | Iran | அமெரிக்காவின் இதயத்தின் மீது கைவைத்த ஈரான்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
