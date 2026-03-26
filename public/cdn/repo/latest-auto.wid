@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T185540.209Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T195228.692Z-l4t35t"
   type: "state"
-  created: "2026-03-26T18:55:40.209Z"
+  created: "2026-03-26T19:52:28.692Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T185540.209Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T195228.692Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OEeex9YgO_8"
-        name: "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "tzR8qByheQc"
+        name: "🔴LIVE : Today Headlines - 26 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3VWi8oEh4Wo"
-        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T8yT0q0dFKU"
-        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cmw3I0Bygzg"
-        name: "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6YJF3FbJjUc"
-        name: "LIVE: Trump Preparing \"Final Blow\" Against Iran? | Vantage on Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lHxuE0Qf7sg"
-        name: "President Trump leads cabinet meeting at the White House: LIVE"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HHUx4BGyrDs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hcHFlWdqanU"
-        name: "US Iran War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tjoWF0iqM_8"
-        name: "News Ki Pathshala Live | Sushant Sinha | Trump अब Iran पर हमले के 4 प्लान ले आए? | Hindi News"
+        videoId: "yRARJtUBrO4"
+        name: "News ki Pathshala Live | Sushant Sinha : Trump अब Iran पर हमले के 4 प्लान ले आए? | Iran Israel War"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v75LLKH-Cwo"
+        name: "LIVE: Iran Big Shock To Trump | Iran Israel War Updates | నువ్వు ఆపమంటే ఆగం! ట్రంప్‌ కు ఇరాన్‌ షాక్‌"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "z5sj1IFnKM0"
+        name: "🔴LIVE:Vijay | Tvk | Perambur | விஜய் பிரச்சாரம் அறிவிப்பு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QDNe3BG36Ig"
+        name: "🔴LIVE: abraham lincoln | Iran | அமெரிக்காவின் இதயத்தின் மீது கைவைத்த ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "snEweqiTdo8"
+        name: "The Debate LIVE: Has Donald Trump Lost The Grip On Iran War?"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kGTvvW3oUu0"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 26 March 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T18:55:40.209Z"
+  exported_at: "2026-03-26T19:52:28.692Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T18:55:40.173Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T19:52:28.650Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
