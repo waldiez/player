@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260326T075717.906Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260326T085406.257Z-l4t35t"
   type: "state"
-  created: "2026-03-26T07:57:17.906Z"
+  created: "2026-03-26T08:54:06.257Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T075717.906Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260326T085406.257Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Nt9_gSLMGQ8"
-        name: "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026"
-        artist: "ATN Bangla News"
+        videoId: "MCn18XYDmns"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1NAFHGNzi1o"
-        name: "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America"
+        videoId: "RNnpDarh7Uw"
+        name: "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IRq4EeqJ2gM"
+        name: "News Ki Patshala Live | Iran America War | युद्ध खत्म होने वाला है.. या भयंकर ट्विस्ट की तैयारी है?"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D-uHmxKrkqI"
-        name: "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | US News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cbzE0EJD1lo"
-        name: "IRAN WAR NEWS LIVE | U.S. Launches Massive Strikes Across Iran as Target Count Soars Into Thousands"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hEYd6Ij_OQU"
-        name: "🔴LIVE : জাতীয় প্যারেড গ্রাউন্ড থেকে সরাসরি"
-        artist: "NTV News"
+        videoId: "ivr_jldYG18"
+        name: "🔴LIVE:Vijay | Tvk | Perambur | ''சர்க்கார்'' சிங்கம் வருது! விஜய் பிரச்சாரம் அறிவிப்பு"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-26T07:57:17.906Z"
+  exported_at: "2026-03-26T08:54:06.257Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-26T07:57:17.864Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-26T08:54:06.216Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
