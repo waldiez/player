@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T06:07:55.346Z",
+    "generatedAt": "2026-03-26T07:57:17.864Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RNnpDarh7Uw",
-            "name": "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "37viVzrRa6s",
-            "name": "নয়াদিল্লিকেও চায় ইরান, সর্বদলীয় বৈঠকে ভারত | Iran-India latest updates | Kalbela International",
-            "artist": "Kalbela World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-QQKK9Dhtxo",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IRq4EeqJ2gM",
-            "name": "News Ki Patshala Live | Iran America War | युद्ध खत्म होने वाला है.. या भयंकर ट्विस्ट की तैयारी है?",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F0tRf6fiNLw",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 26.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "videoId": "Nt9_gSLMGQ8",
+            "name": "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "333byZV-V_8",
-            "name": "West Asia War LIVE: Iran's Cluster Munitions Hit Israel, Kuwait Airport Struck | US Iran War | N18G",
-            "artist": "Firstpost"
+            "videoId": "1NAFHGNzi1o",
+            "name": "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "qd4zdWmHqdY",
-            "name": "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News LIVE",
-            "artist": "Times Now World"
+            "videoId": "D-uHmxKrkqI",
+            "name": "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cbzE0EJD1lo",
+            "name": "IRAN WAR NEWS LIVE | U.S. Launches Massive Strikes Across Iran as Target Count Soars Into Thousands",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hEYd6Ij_OQU",
+            "name": "🔴LIVE : জাতীয় প্যারেড গ্রাউন্ড থেকে সরাসরি",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
