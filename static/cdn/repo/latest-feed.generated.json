@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-26T09:55:07.445Z",
+    "generatedAt": "2026-03-26T10:45:06.255Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "a9bDyPsOcco",
-            "name": "Iran Vs America War LIVE : US युद्धपोत पर ईरान का हमला ! Trump | Israel | Netanyahu | War Breaking",
-            "artist": "NDTV India"
+            "videoId": "gOOlmgGfxp8",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.03.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "TZoRAo5q_pI",
-            "name": "Iran Israel News Live: इजरायल के आसमान में छाए काले कौवे, भयंकर तबाही का प्रतीक ! Crows | War News |",
+            "videoId": "aHtIofX1Ltw",
+            "name": "West Asia War LIVE: Iranian Cluster Bombs Hit Israel; Targets Across Tehran Bombed | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lv9SLJV2TcU",
+            "name": "News Ki Pathshala Live | Iran में ग्राउंड ऑपरेशन करेगा America ? | Iran America War | Trump | Iran",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "y5VWxre9pM4",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "MiUlNTbhswI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "ZWbPTunlkUY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "MCn18XYDmns",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "1AAZ1z-IUFI",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nt9_gSLMGQ8",
-            "name": "LIVE🔴মহান স্বাধীনতা ও জাতীয় দিবসে জাতীয় প্যারেড গ্রাউন্ডে কুচকাওয়াজ | Independence Day Parade 2026",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1NAFHGNzi1o",
-            "name": "News Ki Pathshala Live | Iran तो भयंकर फोड़ रहा है ! | America Iran News |Trump |Iran Attack America",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D-uHmxKrkqI",
-            "name": "IRAN WAR LIVE | Trump Deploys 1000+ Troops — Crisis Reaches Breaking Point | US MARINES | US News",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cbzE0EJD1lo",
-            "name": "IRAN WAR NEWS LIVE | U.S. Launches Massive Strikes Across Iran as Target Count Soars Into Thousands",
-            "artist": "CNN-News18"
+            "videoId": "hEYd6Ij_OQU",
+            "name": "🔴LIVE : জাতীয় প্যারেড গ্রাউন্ড থেকে সরাসরি",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
