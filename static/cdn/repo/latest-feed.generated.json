@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T20:30:03.820Z",
+    "generatedAt": "2026-03-27T21:27:09.730Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "edOwmxr-PXQ",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "iFd0oE_2nQM",
+            "name": "NDTV 24x7 LIVE TV: Day 28 Of Gulf War | NDTV Live From Warzone",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "ytVu3p809c4",
-            "name": "🔴LIVE: PM Shehbaz's Address to Nation | New Petrol Prices | Big News for Public | Iran US War Update",
-            "artist": "SAMAA TV"
+            "videoId": "77Mrb1z9NuY",
+            "name": "🔴LIVE | Prime Minister Shahbaz Sharif addresses the nation | Iran Israel-US War | Big Decisions",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "GcPtzsPZF0w",
-            "name": "World News Live : ट्रंप का अचानक चीन का दौरा...ईरान युद्ध से कनेक्शन ! Iran News | USA | Trump |",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "t2ccBSUnzjU",
+            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "3KvqZtvez10",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4HA3BiUZlGo",
-            "name": "Iran War Live |Missiles, Drones & New Weapons Changing the Battlefield | US Army To Strike Iran?",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d8Fw9hyOOlU",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Hjjl2bfbvbU",
-            "name": "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tOl_edNZ4HU",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7IhFTGJpTZY",
-            "name": "🔴LIVE: Iran war | India | | Lockdown | மீண்டும் லாக்டவுனா..? முடங்குமா இந்தியா?",
+            "videoId": "cBrhl0-cU2M",
+            "name": "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yrwNCf4Q5fk",
+            "name": "ईरान-अमेरिका जंग, 27 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DRKkbbIM1Ys",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 27 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
