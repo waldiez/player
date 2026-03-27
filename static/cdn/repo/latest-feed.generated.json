@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T15:43:44.144Z",
+    "generatedAt": "2026-03-27T16:44:20.347Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Oau_mKJ54Zw",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "videoId": "-vugTji9Hck",
+            "name": "IRAN WAR News LIVE | Trump holds Cabinet meeting amid Iran war, partial shutdown | Israel-US On Iran",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rgNtA6LUW2w",
+            "name": "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RcBkex4ZYhw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FISrX9LvlcQ",
+            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (27.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-DXz_tWHu88",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
             "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "pwMFVaIPRgQ",
-            "name": "Israel-Iran War LIVE: Iran Unleashes Heavy Missiles! Sejjil & Khorramshahr Rain Down On Israel",
-            "artist": "WION"
+            "videoId": "NWPv3JFOgi8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "yrwNCf4Q5fk",
+            "videoId": "buNq6XR6gos",
             "name": "ईरान-अमेरिका जंग, 27 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Hjjl2bfbvbU",
-            "name": "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War",
-            "artist": "ET Now"
+            "videoId": "Dr4TQEfy4II",
+            "name": "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "pj3UIB77hFQ",
-            "name": "Iran LIVE | Huge Explosions In Tehran, Hardliners Call For Nuclear Bomb As Israeli Strikes Intensify",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jl16jNl4Aw0",
-            "name": "Iran America War: ईरान पर हमला नहीं करेगा अमेरिका! | Iran Israel | Ceasrefire | World War 3",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1XHLgfzN0XI",
-            "name": "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
-            "artist": "News18 Urdu"
+            "videoId": "xF3qwCUCi-A",
+            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {

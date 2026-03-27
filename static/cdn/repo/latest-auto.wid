@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260327T154344.177Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260327T164420.425Z-l4t35t"
   type: "state"
-  created: "2026-03-27T15:43:44.177Z"
+  created: "2026-03-27T16:44:20.425Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T154344.177Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T164420.425Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Oau_mKJ54Zw"
-        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
+        videoId: "-vugTji9Hck"
+        name: "IRAN WAR News LIVE | Trump holds Cabinet meeting amid Iran war, partial shutdown | Israel-US On Iran"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rgNtA6LUW2w"
+        name: "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RcBkex4ZYhw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FISrX9LvlcQ"
+        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (27.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-DXz_tWHu88"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
         artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pwMFVaIPRgQ"
-        name: "Israel-Iran War LIVE: Iran Unleashes Heavy Missiles! Sejjil & Khorramshahr Rain Down On Israel"
-        artist: "WION"
+        videoId: "NWPv3JFOgi8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yrwNCf4Q5fk"
+        videoId: "buNq6XR6gos"
         name: "ईरान-अमेरिका जंग, 27 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hjjl2bfbvbU"
-        name: "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War"
-        artist: "ET Now"
+        videoId: "Dr4TQEfy4II"
+        name: "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pj3UIB77hFQ"
-        name: "Iran LIVE | Huge Explosions In Tehran, Hardliners Call For Nuclear Bomb As Israeli Strikes Intensify"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Jl16jNl4Aw0"
-        name: "Iran America War: ईरान पर हमला नहीं करेगा अमेरिका! | Iran Israel | Ceasrefire | World War 3"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1XHLgfzN0XI"
-        name: "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu"
-        artist: "News18 Urdu"
+        videoId: "xF3qwCUCi-A"
+        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-27T15:43:44.177Z"
+  exported_at: "2026-03-27T16:44:20.425Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-27T15:43:44.144Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-27T16:44:20.347Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
