@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T16:44:20.347Z",
+    "generatedAt": "2026-03-27T17:43:05.124Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-vugTji9Hck",
-            "name": "IRAN WAR News LIVE | Trump holds Cabinet meeting amid Iran war, partial shutdown | Israel-US On Iran",
-            "artist": "ET Now World"
+            "videoId": "7IhFTGJpTZY",
+            "name": "🔴LIVE: Iran war | India | | Lockdown | மீண்டும் லாக்டவுனா..? முடங்குமா இந்தியா?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "rgNtA6LUW2w",
-            "name": "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "uP9vKzgXmQI",
+            "name": "🔴LIVE | Iran Israel war updates | Iran Massive Attack on Israel With EMP Bomb | City Collapses",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "RcBkex4ZYhw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "cBrhl0-cU2M",
+            "name": "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "FISrX9LvlcQ",
-            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (27.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-DXz_tWHu88",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NWPv3JFOgi8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "buNq6XR6gos",
+            "videoId": "yrwNCf4Q5fk",
             "name": "ईरान-अमेरिका जंग, 27 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Dr4TQEfy4II",
-            "name": "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News",
-            "artist": "Times Now"
+            "videoId": "-mU3rWe5GPc",
+            "name": "LIVE: Trump Claims Iran \"Begging\" for Peace Deal | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "xF3qwCUCi-A",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "Times Now World"
+            "videoId": "6LaGbbASk8I",
+            "name": "LIVE: Big Decisions Likely As Pm Modi Chairs Key Meeting With State CMs | Iran War | Energy Crisis",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MdIeYm8N4M8",
+            "name": "News Ki Pathshala | Sushant Sinha: अमेरिका के मददगार को ईरान की चेतावनी | World News | US Iran War",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
