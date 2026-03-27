@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T08:42:40.323Z",
+    "generatedAt": "2026-03-27T09:46:09.203Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RLH9aWOrwmk",
-            "name": "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
-            "artist": "News18 Urdu"
+            "videoId": "6_rwtO5GG5I",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "PEc7KkqRfn0",
-            "name": "Today Headlines | 27 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "videoId": "UntLO8ZkT6U",
+            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Z7RDAzW6ahk",
+            "name": "News Ki Pathshala Live | Iran America War | कल से ईरान-अमेरिका के बीच होगा भयंकर युद्ध ? |World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-SGw_GOJzvM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Buvr_WSmf34",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cBrhl0-cU2M",
+            "name": "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "gwmznLMQ0AI",
-            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस-तेल के दामों में लगी ! | iran Israel War",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xuheAq_wwek",
-            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें | PM Modi | Iran Israel War | Trump | World News Live",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YmdtkRbhlGE",
-            "name": "Rain with stormy winds, high alert | Headlines Geo News 7 AM (27 March 2026)",
+            "videoId": "Wf5ffW3Kewo",
+            "name": "Live: US-Iran War - Alert: Critical Hours Ahead as Major New Attack Threat Emerges | Geo News",
             "artist": "Geo News"
         }
     ],
