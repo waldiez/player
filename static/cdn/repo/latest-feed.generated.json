@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T07:55:34.528Z",
+    "generatedAt": "2026-03-27T08:42:40.323Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Wf5ffW3Kewo",
-            "name": "Live: US-Iran War - Alert: Critical Hours Ahead as Major New Attack Threat Emerges | Geo News",
+            "videoId": "RLH9aWOrwmk",
+            "name": "Israel Under Attack LIVE | Iran Launches Missiles On Tel Aviv | Israel-Iran War Update | Netanyahu",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PEc7KkqRfn0",
+            "name": "Today Headlines | 27 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gwmznLMQ0AI",
+            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस-तेल के दामों में लगी ! | iran Israel War",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xuheAq_wwek",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें | PM Modi | Iran Israel War | Trump | World News Live",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YmdtkRbhlGE",
+            "name": "Rain with stormy winds, high alert | Headlines Geo News 7 AM (27 March 2026)",
             "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Dt8yecR84pA",
-            "name": "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "my14qqg8Of4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 26, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N738zogDcnU",
-            "name": "No country is willing to support Israel, says mayor | Headlines Geo News 6 AM (27 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WG5EwiRWQ7A",
-            "name": "Energy Lockdown Live: युद्ध के बीच कई नए नियम लागू | Breaking News | World War 3 | India News",
-            "artist": "India News"
         }
     ],
     "sourceFilters": {
