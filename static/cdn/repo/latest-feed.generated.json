@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T04:28:01.257Z",
+    "generatedAt": "2026-03-27T06:08:03.869Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Dt8yecR84pA",
-            "name": "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "gwmznLMQ0AI",
+            "name": "News Ki Pathshala Live | LPG Gas Crisis in India | गैस-तेल के दामों में लगी ! | iran Israel War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "tcbcZBMjEQE",
-            "name": "LIVE: ISRAELI NUCLEAR CITY TARGETED: Iranian Missile Strikes Dimona, Explosions Captured Live",
-            "artist": "News18 Urdu"
+            "videoId": "E9hBy35qcr8",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 27-03-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "my14qqg8Of4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 26, 2026",
-            "artist": "ABC News"
+            "videoId": "7LQk4OYxrOI",
+            "name": "Namaste India LIVE: देखिए अगले 2 घंटे सिर्फ आज की बड़ी खबरें |  Hormuz Strait | Trump | Mojtaba",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "N738zogDcnU",
-            "name": "No country is willing to support Israel, says mayor | Headlines Geo News 6 AM (27 March 2026)",
+            "videoId": "YmdtkRbhlGE",
+            "name": "Rain with stormy winds, high alert | Headlines Geo News 7 AM (27 March 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "8J22v-kcgOk",
-            "name": "Donald Trump LIVE: Trump Sets Final Terms To End Iran War | Big Warning To Tehran | Tehran In Shock!",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nGy93QVhExY",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1vFuN3IjHlc",
-            "name": "NDTV 24x7 Live TV: US Iran War Latest News | Iran News | Iran Attacks Israel | West Bengal Elections",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "o_kAI4JYELQ",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FlE2wTCKc8A",
-            "name": "Iran US Israel War LIVE: सुबह-सुबह ईरान ने कर दिया सभी को हैरान | America | Trump | Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RvjO_a9w4B4",
-            "name": "Today's Headlines | 27 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u1oVy2ef2F4",
-            "name": "Shahbaz Sharif mentioned again in Trump's conversation | Headlines Geo News 5 AM (27 March 2026)",
-            "artist": "Geo News"
+            "videoId": "BCorIGGAKVs",
+            "name": "🔴Live આજના તાજા સમાચાર | Gujarat Latest News | 27 March 2026 | Gujarati Live News",
+            "artist": "G24 Live Gujarati "
         }
     ],
     "sourceFilters": {
