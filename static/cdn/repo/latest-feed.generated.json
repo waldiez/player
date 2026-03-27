@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T18:45:24.125Z",
+    "generatedAt": "2026-03-27T19:36:49.187Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "d8Fw9hyOOlU",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "iFd0oE_2nQM",
+            "name": "NDTV 24x7 LIVE TV: Day 28 Of Gulf War | NDTV Live From Warzone",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "Hjjl2bfbvbU",
-            "name": "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War",
-            "artist": "ET Now"
+            "videoId": "77Mrb1z9NuY",
+            "name": "🔴LIVE | Prime Minister Shahbaz Sharif addresses the nation | Iran Israel-US War | Big Decisions",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "tOl_edNZ4HU",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "uP9vKzgXmQI",
+            "name": "🔴LIVE | Iran Israel war updates | Iran Massive Attack on Israel With EMP Bomb | City Collapses",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "3W_XAlJ-XEs",
-            "name": "🔴LIVE: Gas Cylinder | வந்தது எச்சரிக்கை செய்தி",
+            "videoId": "cBrhl0-cU2M",
+            "name": "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "-vugTji9Hck",
-            "name": "IRAN WAR News LIVE | Trump holds Cabinet meeting amid Iran war, partial shutdown | Israel-US On Iran",
-            "artist": "ET Now World"
+            "videoId": "yrwNCf4Q5fk",
+            "name": "ईरान-अमेरिका जंग, 27 मार्च 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "rgNtA6LUW2w",
-            "name": "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost",
+            "videoId": "DRKkbbIM1Ys",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 27 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-mU3rWe5GPc",
+            "name": "LIVE: Trump Claims Iran \"Begging\" for Peace Deal | Vantage on Firstpost | N18G",
             "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RcBkex4ZYhw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
