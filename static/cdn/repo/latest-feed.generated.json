@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T09:46:09.203Z",
+    "generatedAt": "2026-03-27T10:40:18.415Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6_rwtO5GG5I",
-            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UntLO8ZkT6U",
-            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z7RDAzW6ahk",
-            "name": "News Ki Pathshala Live | Iran America War | कल से ईरान-अमेरिका के बीच होगा भयंकर युद्ध ? |World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-SGw_GOJzvM",
+            "videoId": "ZASn2luzkvw",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "artist": "Today's Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "Buvr_WSmf34",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "wqCbRXvLYJg",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "cBrhl0-cU2M",
-            "name": "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY",
-            "artist": "Sathiyam News"
+            "videoId": "1bbEcbZiCcM",
+            "name": "LIVE: Trump’s Secret ‘Plan B’ on Iran Revealed — Massive Escalation If Demands Aren’t Met | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Wf5ffW3Kewo",
-            "name": "Live: US-Iran War - Alert: Critical Hours Ahead as Major New Attack Threat Emerges | Geo News",
-            "artist": "Geo News"
+            "videoId": "cmw3I0Bygzg",
+            "name": "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XoTFvw7BYcU",
+            "name": "Petrol-Diesel-LPG Crisis in India News LIVE: अचानक पेट्रोल-डीजल को लेकर देश में मचा हड़कंप!",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
