@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260327T222401.161Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260327T232450.602Z-l4t35t"
   type: "state"
-  created: "2026-03-27T22:24:01.161Z"
+  created: "2026-03-27T23:24:50.602Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T222401.161Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T232450.602Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,44 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "edOwmxr-PXQ"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "2vUcNcgWdf0"
+        name: "President Trump delivers remarks in Miami at the Future Investment Initiative: LIVE"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GcPtzsPZF0w"
-        name: "World News Live : ट्रंप का अचानक चीन का दौरा...ईरान युद्ध से कनेक्शन ! Iran News | USA | Trump |"
-        artist: "Times Now Bihar Jharkhand"
+        videoId: "1wW9-SQdrfY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "WALD NEWS BD"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4HA3BiUZlGo"
-        name: "Iran War Live |Missiles, Drones & New Weapons Changing the Battlefield | US Army To Strike Iran?"
-        artist: "CNN-News18"
+        videoId: "iFd0oE_2nQM"
+        name: "NDTV 24x7 LIVE TV: Day 28 Of Gulf War | NDTV Live From Warzone"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d8Fw9hyOOlU"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "3KvqZtvez10"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hjjl2bfbvbU"
-        name: "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War"
-        artist: "ET Now"
+        videoId: "77Mrb1z9NuY"
+        name: "🔴LIVE | Prime Minister Shahbaz Sharif addresses the nation | Iran Israel-US War | Big Decisions"
+        artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tOl_edNZ4HU"
-        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7IhFTGJpTZY"
-        name: "🔴LIVE: Iran war | India | | Lockdown | மீண்டும் லாக்டவுனா..? முடங்குமா இந்தியா?"
+        videoId: "cBrhl0-cU2M"
+        name: "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY"
         artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-27T22:24:01.161Z"
+  exported_at: "2026-03-27T23:24:50.602Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-27T22:24:01.103Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-27T23:24:50.574Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
