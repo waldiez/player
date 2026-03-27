@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-27T10:40:18.415Z",
+    "generatedAt": "2026-03-27T11:36:29.722Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZASn2luzkvw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
+            "videoId": "Bq9ih-zFYw4",
+            "name": "US Iran War LIVE: Donald Trump Pauses Strikes on Iran's Energy Sites for 10 Days | Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "wqCbRXvLYJg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.03.2026) | 2 PM Headlines | ThanthiTV",
+            "videoId": "6_rwtO5GG5I",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UntLO8ZkT6U",
+            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "edOwmxr-PXQ",
+            "name": "🔴LIVE: Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (27.03.2026) | 5 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1bbEcbZiCcM",
-            "name": "LIVE: Trump’s Secret ‘Plan B’ on Iran Revealed — Massive Escalation If Demands Aren’t Met | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cmw3I0Bygzg",
-            "name": "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XoTFvw7BYcU",
-            "name": "Petrol-Diesel-LPG Crisis in India News LIVE: अचानक पेट्रोल-डीजल को लेकर देश में मचा हड़कंप!",
-            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
