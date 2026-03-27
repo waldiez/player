@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260327T012950.876Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260327T042801.298Z-l4t35t"
   type: "state"
-  created: "2026-03-27T01:29:50.876Z"
+  created: "2026-03-27T04:28:01.298Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T012950.876Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T042801.298Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "tsDh8WLxQOY"
-        name: "LIVE🔴Iran-US Israel War | Iran Massive Strike Back Tel Aviv Haifa | American Fleet Under Attack"
-        artist: "Dunya News"
+        videoId: "Dt8yecR84pA"
+        name: "LIVE: Trump Claims Iran \"Begging\" For Deal; Tehran Fires More Missiles | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Fz615f1sQZM"
-        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
+        videoId: "tcbcZBMjEQE"
+        name: "LIVE: ISRAELI NUCLEAR CITY TARGETED: Iranian Missile Strikes Dimona, Explosions Captured Live"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "my14qqg8Of4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 26, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N738zogDcnU"
+        name: "No country is willing to support Israel, says mayor | Headlines Geo News 6 AM (27 March 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8J22v-kcgOk"
+        name: "Donald Trump LIVE: Trump Sets Final Terms To End Iran War | Big Warning To Tehran | Tehran In Shock!"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SHcd5SIenwk"
-        name: "LIVE: TRUMP ASSEMBLES CABINET, 'Iran Will PAY' – War on BRINK? | World News"
-        artist: "Times Now"
+        videoId: "nGy93QVhExY"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S4GhrZxdatc"
-        name: "Iran Terrible Attack | Alert | Iran Israel War Latest News Updates | 3 AM Headlines | Pakistan New"
-        artist: "Express News"
+        videoId: "1vFuN3IjHlc"
+        name: "NDTV 24x7 Live TV: US Iran War Latest News | Iran News | Iran Attacks Israel | West Bengal Elections"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LUTiqwvFh0g"
-        name: "Torrential rains in Middle Eastern countries, including UAE | Headlines Geo News 3AM (27 March 2026)"
+        videoId: "o_kAI4JYELQ"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FlE2wTCKc8A"
+        name: "Iran US Israel War LIVE: सुबह-सुबह ईरान ने कर दिया सभी को हैरान | America | Trump | Mojtaba Khamenei"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RvjO_a9w4B4"
+        name: "Today's Headlines | 27 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u1oVy2ef2F4"
+        name: "Shahbaz Sharif mentioned again in Trump's conversation | Headlines Geo News 5 AM (27 March 2026)"
         artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fO21eRajKuI"
-        name: "Iran attacks on Israeli cities Haifa and Dimona | Headlines Geo News 12 AM (27 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HWO_EHWcCVA"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QqB6GsEUYHE"
-        name: "🔴LIVE : IRAN | Israel | ஈரான் கப்பற்படை தளபதி கொலை?வெறியாட்டமாடிய இஸ்ரேல்"
-        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-27T01:29:50.876Z"
+  exported_at: "2026-03-27T04:28:01.298Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-27T01:29:50.836Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-27T04:28:01.257Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
