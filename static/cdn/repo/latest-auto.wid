@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T202106.542Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T212259.123Z-l4t35t"
   type: "state"
-  created: "2026-03-28T20:21:06.542Z"
+  created: "2026-03-28T21:22:59.123Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T202106.542Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T212259.123Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,9 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ppk8JLXxTls"
-        name: "🔴LIVE: యుద్ధం ఆగదు ..! || Missiles with \"Thank You India\" Message! || Israel-Iran War 2026 || ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "catGpW37V_s"
-        name: "ABC News Live Prime: March 26, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gI92YBEPb14"
-        name: "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gvTNu0D7wGw"
-        name: "🔴LIVE: War | Iran | israel | போரின் இறுதி ஆட்டம் ஆரம்பமா..?"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qCIcrIHoANE"
-        name: "🔴LIVE: Trump | Iran | உச்சக்கட்ட கோபத்தில் ஈரான்.. குஷியில் ட்ரம்ப்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mbbqkMuWKyI"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SH3c30WYj_U"
-        name: "LIVE with Dr. Shahid Masood | New Waves of Destruction Hit Hard! | 28 Mar 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DglgodbhkiM"
-        name: "News Ki Pathshala Live | Sushant Sinha | युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है?"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S6o9c9M1wdw"
-        name: "Iran War LIVE | US And Israel Attack Iran’s Bushehr Nuclear Plant | Trump | US Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KKQb_fRkxfg"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 28 March 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "DmswYM9MTD0"
+        name: "US Breaking News LIVE: Trump Claims US-Iran War Is OVER | Trump's Mega Speech Goes Viral | Watch"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +66,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T20:21:06.542Z"
+  exported_at: "2026-03-28T21:22:59.123Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T20:21:06.505Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T21:22:59.089Z"
+  validation: "validation enabled: accepted 1/1 tracks; maxAgeHours=72 minKeywordHits=1"
