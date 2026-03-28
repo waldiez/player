@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T19:24:22.001Z",
+    "generatedAt": "2026-03-28T20:21:06.505Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ffw2lSM90q0",
-            "name": "Aaj Ki Taaja Khabar Live: 28 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News",
+            "videoId": "ppk8JLXxTls",
+            "name": "🔴LIVE: యుద్ధం ఆగదు ..! || Missiles with \"Thank You India\" Message! || Israel-Iran War 2026 || ABN",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "catGpW37V_s",
+            "name": "ABC News Live Prime: March 26, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gI92YBEPb14",
+            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "ryOm8I3ShSg",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 29 Mar'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "gvTNu0D7wGw",
+            "name": "🔴LIVE: War | Iran | israel | போரின் இறுதி ஆட்டம் ஆரம்பமா..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "aQfg0V_Lssc",
-            "name": "LIVE: PM Modi Inaugurates Noida International Airport Phase 1 | Jewar Airport | CM Yogi | UP",
-            "artist": "Republic World"
+            "videoId": "qCIcrIHoANE",
+            "name": "🔴LIVE: Trump | Iran | உச்சக்கட்ட கோபத்தில் ஈரான்.. குஷியில் ட்ரம்ப்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "xr_p4vrCPBU",
-            "name": "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (28.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "mbbqkMuWKyI",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SH3c30WYj_U",
+            "name": "LIVE with Dr. Shahid Masood | New Waves of Destruction Hit Hard! | 28 Mar 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DglgodbhkiM",
+            "name": "News Ki Pathshala Live | Sushant Sinha | युद्ध खत्म होने वाला है या भयंकर ट्विस्ट की तैयारी है?",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S6o9c9M1wdw",
+            "name": "Iran War LIVE | US And Israel Attack Iran’s Bushehr Nuclear Plant | Trump | US Iran War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KKQb_fRkxfg",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 28 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
