@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T04:12:28.996Z",
+    "generatedAt": "2026-03-28T05:51:55.886Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9t8KveBbuVI",
-            "name": "IRAN's MOST DEADLY WEAPON! | LIVE: Iran Fires Cluster Bomb Missiles Against US & Israel | WAR NEWS",
-            "artist": "CNN-News18"
+            "videoId": "sjFyuxqfNik",
+            "name": "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "ACkk7bZWe_8",
-            "name": "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News",
-            "artist": "Times Now"
+            "videoId": "gI92YBEPb14",
+            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "B0JctYskYjA",
-            "name": "LIVE: Trump Signals Possible To END Iran War After ‘Strong Talks’ With Iran | Trump Biggest Speech",
-            "artist": "ET Now"
+            "videoId": "uPLnDzzwYow",
+            "name": "Rain with wind in Karachi, important forecast | Headlines Geo News 7 AM (28 March 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "xh0L0oO3GWY",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2WUZtyWiAok",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 27, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x1G-nTMdL0Q",
-            "name": "Latest update: Trump, Rubio & Iran war: Retaliation, oil shock & global crisis",
-            "artist": "Al Jazeera English"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MPvhtpTgQlI",
-            "name": "IRAN WAR NEWS LIVE: Iran Fires Cluster Bomb Missiles Against US Bases In The Gulf | BREAKING UPDATE",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b0O9pT2hdpI",
-            "name": "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "64iUD0zv2bM",
-            "name": "LIVE: Raja Singh Sri Rama Navami Shobha Yatra Hyderabad | Owaisi Brothers | ZEE Telugu News",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MLD75rQEySk",
-            "name": "LIVE: Building Demolished | High Tension In Old City | Raja Singh Sri Rama Navami Shobha Yatra | Hyd",
-            "artist": "Zee Telugu News"
+            "videoId": "JgnDqG9A_W0",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 28.03.2026 | Morning News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
