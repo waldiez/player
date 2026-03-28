@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T07:40:01.623Z",
+    "generatedAt": "2026-03-28T08:29:48.290Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "t2ccBSUnzjU",
-            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "Vaa1LV0ssPs",
+            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "EZX44QcahMk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "hBUK2oeH4uI",
+            "name": "Today Headlines | 28 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "hvpTCaFvgCM",
-            "name": "LIVE🔴ই স রা ইলের ১১ জায়গায় আঘাত হানল ইরানের এক মি'সাইল | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "AIOT8jdLu68",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "qXkb91L2-3k",
-            "name": "US Israel Iran War News LIVE: Iran's Biggest Attack News LIVE | Israel Iran War LIVE | Iran War News",
-            "artist": "India Today"
+            "videoId": "Co1l6xsTcRg",
+            "name": "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "g_7amZB2GoU",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
+            "videoId": "MFcpjj3o7Tc",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "sjFyuxqfNik",
-            "name": "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei",
-            "artist": "Times Now Navbharat"
+            "videoId": "YUBZBqvvu1A",
+            "name": "Iran Attack On Israel | Latest Update | 10 AM News Headlines | Pakistan News",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SsNbJVuliGM",
+            "name": "Change in Price of Petroleum Products | Headlines Geo News 9AM (28 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "O18o8FvEnEE",
+            "name": "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
