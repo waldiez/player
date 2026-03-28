@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T05:51:55.886Z",
+    "generatedAt": "2026-03-28T06:49:24.908Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sjFyuxqfNik",
-            "name": "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei",
-            "artist": "Times Now Navbharat"
+            "videoId": "AIOT8jdLu68",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "gI92YBEPb14",
-            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uPLnDzzwYow",
-            "name": "Rain with wind in Karachi, important forecast | Headlines Geo News 7 AM (28 March 2026)",
+            "videoId": "Co1l6xsTcRg",
+            "name": "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "JgnDqG9A_W0",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 28.03.2026 | Morning News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "MFcpjj3o7Tc",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "O18o8FvEnEE",
+            "name": "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ccEhra7TnY0",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {

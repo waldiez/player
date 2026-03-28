@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T055155.920Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T064924.940Z-l4t35t"
   type: "state"
-  created: "2026-03-28T05:51:55.920Z"
+  created: "2026-03-28T06:49:24.940Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T055155.920Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T064924.940Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "sjFyuxqfNik"
-        name: "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei"
-        artist: "Times Now Navbharat"
+        videoId: "AIOT8jdLu68"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gI92YBEPb14"
-        name: "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uPLnDzzwYow"
-        name: "Rain with wind in Karachi, important forecast | Headlines Geo News 7 AM (28 March 2026)"
+        videoId: "Co1l6xsTcRg"
+        name: "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JgnDqG9A_W0"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 28.03.2026 | Morning News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "MFcpjj3o7Tc"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "O18o8FvEnEE"
+        name: "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ccEhra7TnY0"
+        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T05:51:55.920Z"
+  exported_at: "2026-03-28T06:49:24.940Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T05:51:55.886Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T06:49:24.908Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
