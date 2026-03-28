@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260327T232450.602Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T012335.053Z-l4t35t"
   type: "state"
-  created: "2026-03-27T23:24:50.602Z"
+  created: "2026-03-28T01:23:35.053Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260327T232450.602Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T012335.053Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2vUcNcgWdf0"
-        name: "President Trump delivers remarks in Miami at the Future Investment Initiative: LIVE"
-        artist: "ABC News"
+        videoId: "LYcnrow7pmg"
+        name: "🔴LIVE : సీఎంలతో ప్రధాని మోడీ భేటీ | PM Modi Meeting With All States CMs | ABN Telugu"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1wW9-SQdrfY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "WALD NEWS BD"
+        videoId: "akzcBEuUWMw"
+        name: "Hezbollah attacks, Israeli soldiers killed | Headlines Geo News 2 AM (28 March 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iFd0oE_2nQM"
-        name: "NDTV 24x7 LIVE TV: Day 28 Of Gulf War | NDTV Live From Warzone"
-        artist: "NDTV"
+        videoId: "i-qunuP6wxk"
+        name: "Attack on Iranian Facilities Despite Trump's Announcement | Headlines Geo News 12 AM (28 March 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3KvqZtvez10"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "edOwmxr-PXQ"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "77Mrb1z9NuY"
-        name: "🔴LIVE | Prime Minister Shahbaz Sharif addresses the nation | Iran Israel-US War | Big Decisions"
-        artist: "Express News"
+        videoId: "EqV0GnIPSa0"
+        name: "News Ki Pathshala | Sushant Sinha: Trump का प्लान दुनिया में आग लगा देगा? US Iran War | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cBrhl0-cU2M"
-        name: "🔴LIVE:போரில் திடீர் திருப்பம்“Final Strike Ready!”-டிரம்ப் முடிவு|iran war | America| isarel | TODAY"
-        artist: "Sathiyam News"
+        videoId: "GcPtzsPZF0w"
+        name: "World News Live : ट्रंप का अचानक चीन का दौरा...ईरान युद्ध से कनेक्शन ! Iran News | USA | Trump |"
+        artist: "Times Now Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4HA3BiUZlGo"
+        name: "Iran War Live |Missiles, Drones & New Weapons Changing the Battlefield | US Army To Strike Iran?"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d8Fw9hyOOlU"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Hjjl2bfbvbU"
+        name: "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-27T23:24:50.602Z"
+  exported_at: "2026-03-28T01:23:35.053Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-27T23:24:50.574Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T01:23:35.024Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
