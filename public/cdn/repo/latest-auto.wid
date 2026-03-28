@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T064924.940Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T074001.657Z-l4t35t"
   type: "state"
-  created: "2026-03-28T06:49:24.940Z"
+  created: "2026-03-28T07:40:01.657Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T064924.940Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T074001.657Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AIOT8jdLu68"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "t2ccBSUnzjU"
+        name: "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Co1l6xsTcRg"
-        name: "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)"
-        artist: "Geo News"
+        videoId: "EZX44QcahMk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MFcpjj3o7Tc"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
+        videoId: "hvpTCaFvgCM"
+        name: "LIVE🔴ই স রা ইলের ১১ জায়গায় আঘাত হানল ইরানের এক মি'সাইল | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O18o8FvEnEE"
-        name: "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY"
-        artist: "Sathiyam News"
+        videoId: "qXkb91L2-3k"
+        name: "US Israel Iran War News LIVE: Iran's Biggest Attack News LIVE | Israel Iran War LIVE | Iran War News"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ccEhra7TnY0"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
+        videoId: "g_7amZB2GoU"
+        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sjFyuxqfNik"
+        name: "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T06:49:24.940Z"
+  exported_at: "2026-03-28T07:40:01.657Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T06:49:24.908Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T07:40:01.623Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

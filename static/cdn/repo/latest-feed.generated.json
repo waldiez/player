@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T06:49:24.908Z",
+    "generatedAt": "2026-03-28T07:40:01.623Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AIOT8jdLu68",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "t2ccBSUnzjU",
+            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Co1l6xsTcRg",
-            "name": "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)",
-            "artist": "Geo News"
+            "videoId": "EZX44QcahMk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "MFcpjj3o7Tc",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "hvpTCaFvgCM",
+            "name": "LIVE🔴ই স রা ইলের ১১ জায়গায় আঘাত হানল ইরানের এক মি'সাইল | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "O18o8FvEnEE",
-            "name": "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY",
-            "artist": "Sathiyam News"
+            "videoId": "qXkb91L2-3k",
+            "name": "US Israel Iran War News LIVE: Iran's Biggest Attack News LIVE | Israel Iran War LIVE | Iran War News",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "ccEhra7TnY0",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
+            "videoId": "g_7amZB2GoU",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sjFyuxqfNik",
+            "name": "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
