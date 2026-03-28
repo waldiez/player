@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T082948.323Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T092917.390Z-l4t35t"
   type: "state"
-  created: "2026-03-28T08:29:48.323Z"
+  created: "2026-03-28T09:29:17.390Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T082948.323Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T092917.390Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Vaa1LV0ssPs"
-        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "enWQlQ-pSaM"
+        name: "🔴Live: এইমাত্র পাওয়া Bangla News 28 Mar 2026 l Bangladesh Latest news | Somoy Sangbad | VIP News"
+        artist: "News Thunder BD"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hBUK2oeH4uI"
-        name: "Today Headlines | 28 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "EfOYU_EEHoM"
+        name: "IRAN WAR NEWS LIVE | Iran’s Hidden Strength Shocks Experts — Is Trump Really Getting Nervous Now?"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AIOT8jdLu68"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "WCu7LZEe52U"
+        name: "PM Modi ने किया Noida International Airport का उद्घाटन! | Jewar Airport Phase 1 First Look | CM Yogi"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Co1l6xsTcRg"
-        name: "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)"
+        videoId: "t2ccBSUnzjU"
+        name: "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EZX44QcahMk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hvpTCaFvgCM"
+        name: "LIVE🔴ই স রা ইলের ১১ জায়গায় আঘাত হানল ইরানের এক মি'সাইল | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZOl6XDp_IFI"
+        name: "Good News for Pakistan! Big Positive Development Announced | Headlines Geo News 11AM (28 March 26)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MFcpjj3o7Tc"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
+        videoId: "bGsjVwJT8AQ"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YUBZBqvvu1A"
-        name: "Iran Attack On Israel | Latest Update | 10 AM News Headlines | Pakistan News"
-        artist: "Express News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SsNbJVuliGM"
-        name: "Change in Price of Petroleum Products | Headlines Geo News 9AM (28 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O18o8FvEnEE"
-        name: "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY"
-        artist: "Sathiyam News"
+        videoId: "zE-5jaSc_5Q"
+        name: "Breaking News LIVE: Sergey Lavrov's Final Warning To President Trump | US-Iran War | World News"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T08:29:48.323Z"
+  exported_at: "2026-03-28T09:29:17.390Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T08:29:48.290Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T09:29:17.350Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

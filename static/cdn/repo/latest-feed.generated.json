@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T08:29:48.290Z",
+    "generatedAt": "2026-03-28T09:29:17.350Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Vaa1LV0ssPs",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "enWQlQ-pSaM",
+            "name": "🔴Live: এইমাত্র পাওয়া Bangla News 28 Mar 2026 l Bangladesh Latest news | Somoy Sangbad | VIP News",
+            "artist": "News Thunder BD"
         },
         {
             "mood": "storm",
-            "videoId": "hBUK2oeH4uI",
-            "name": "Today Headlines | 28 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "EfOYU_EEHoM",
+            "name": "IRAN WAR NEWS LIVE | Iran’s Hidden Strength Shocks Experts — Is Trump Really Getting Nervous Now?",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "AIOT8jdLu68",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "WCu7LZEe52U",
+            "name": "PM Modi ने किया Noida International Airport का उद्घाटन! | Jewar Airport Phase 1 First Look | CM Yogi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Co1l6xsTcRg",
-            "name": "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)",
+            "videoId": "t2ccBSUnzjU",
+            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EZX44QcahMk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hvpTCaFvgCM",
+            "name": "LIVE🔴ই স রা ইলের ১১ জায়গায় আঘাত হানল ইরানের এক মি'সাইল | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZOl6XDp_IFI",
+            "name": "Good News for Pakistan! Big Positive Development Announced | Headlines Geo News 11AM (28 March 26)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "MFcpjj3o7Tc",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "bGsjVwJT8AQ",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "YUBZBqvvu1A",
-            "name": "Iran Attack On Israel | Latest Update | 10 AM News Headlines | Pakistan News",
-            "artist": "Express News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SsNbJVuliGM",
-            "name": "Change in Price of Petroleum Products | Headlines Geo News 9AM (28 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O18o8FvEnEE",
-            "name": "🔴LIVE: கொடூரமாக தாக்கிய ஈரான் - திக் திக் காட்சி  |iran war | America| isarel | TODAY",
-            "artist": "Sathiyam News"
+            "videoId": "zE-5jaSc_5Q",
+            "name": "Breaking News LIVE: Sergey Lavrov's Final Warning To President Trump | US-Iran War | World News",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
