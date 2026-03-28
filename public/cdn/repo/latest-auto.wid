@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T123647.989Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T134430.373Z-l4t35t"
   type: "state"
-  created: "2026-03-28T12:36:47.989Z"
+  created: "2026-03-28T13:44:30.373Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T123647.989Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T134430.373Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "yUT8YDKADhI"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Update"
-        artist: "Global Pulse Network"
+        videoId: "0HDmax1NWx0"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ccEhra7TnY0"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
+        videoId: "gsEW9qUGGWc"
+        name: "Iran US Israel War LIVE: सुबह-सुबह ईरान ने युद्ध कर दिया खत्म! | America | Trump | Mojtaba Khamenei"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hpNnvHoTI9Y"
-        name: "US-IRAN WAR LIVE | Breaking Trump Issues Final Warning To Iran World On Edge | Breaking News LIVE"
-        artist: "Times Now"
+        videoId: "bcylNQAJ7Cg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iZc4vEaQZMs"
-        name: "🔴LIVE: TVK Vijay | tn secretariat | தலைமை செயலகம் செல்லும் விஜய்"
+        videoId: "C7fo-dHqQbk"
+        name: "LIVE | Israel Strikes Iran’s Nuclear Facilities! Iran Retaliates on U.S. Base in Saudi Arabia"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b0O9pT2hdpI"
+        name: "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "keQcjFKOAiY"
-        name: "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G"
-        artist: "News18 Urdu"
+        videoId: "PxhX2gHIzl4"
+        name: "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EZpnmTWVdm4"
-        name: "LIVE | ईरान-अमेरिका जंग 28 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "024AkDw6HOs"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu"
-        artist: "Times Now Navbharat"
+        videoId: "SVpRMvq8fTg"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T12:36:47.989Z"
+  exported_at: "2026-03-28T13:44:30.373Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T12:36:47.951Z"
+  source_generated_at: "2026-03-28T13:44:30.340Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
