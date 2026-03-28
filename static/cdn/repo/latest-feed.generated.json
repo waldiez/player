@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T10:24:22.241Z",
+    "generatedAt": "2026-03-28T11:22:21.935Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "024AkDw6HOs",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HmVfKpDL0WU",
-            "name": "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b-F7xZTzcKg",
-            "name": "US Iran War LIVE | Iran's Oil Hub Hit: Is a U.S. Invasion of Kharg Island Next? | Israel Iran War",
+            "videoId": "C7fo-dHqQbk",
+            "name": "LIVE | Israel Strikes Iran’s Nuclear Facilities! Iran Retaliates on U.S. Base in Saudi Arabia",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Vaa1LV0ssPs",
-            "name": "🟠Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "b0O9pT2hdpI",
+            "name": "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "AIOT8jdLu68",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "SVpRMvq8fTg",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "Co1l6xsTcRg",
-            "name": "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)",
-            "artist": "Geo News"
+            "videoId": "OeJrS8s5F94",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WCu7LZEe52U",
+            "name": "PM Modi ने किया Noida International Airport का उद्घाटन! | Jewar Airport Phase 1 First Look | CM Yogi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t2ccBSUnzjU",
+            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EZX44QcahMk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {

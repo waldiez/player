@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T102422.274Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T112221.994Z-l4t35t"
   type: "state"
-  created: "2026-03-28T10:24:22.274Z"
+  created: "2026-03-28T11:22:21.994Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T102422.274Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T112221.994Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "024AkDw6HOs"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HmVfKpDL0WU"
-        name: "Iran US Israel War News LIVE : ट्रंप अब ईरान पर हमले के 4 प्लान ले आए? | Trump Vs Mojtaba Khamenei"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b-F7xZTzcKg"
-        name: "US Iran War LIVE | Iran's Oil Hub Hit: Is a U.S. Invasion of Kharg Island Next? | Israel Iran War"
+        videoId: "C7fo-dHqQbk"
+        name: "LIVE | Israel Strikes Iran’s Nuclear Facilities! Iran Retaliates on U.S. Base in Saudi Arabia"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Vaa1LV0ssPs"
-        name: "🟠Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "b0O9pT2hdpI"
+        name: "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AIOT8jdLu68"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "SVpRMvq8fTg"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.03.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Co1l6xsTcRg"
-        name: "Iran War! Israel Splits Under Pressure | New Divisions Exposed | Headlines Geo News 10AM (28 March)"
-        artist: "Geo News"
+        videoId: "OeJrS8s5F94"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WCu7LZEe52U"
+        name: "PM Modi ने किया Noida International Airport का उद्घाटन! | Jewar Airport Phase 1 First Look | CM Yogi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t2ccBSUnzjU"
+        name: "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EZX44QcahMk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T10:24:22.274Z"
+  exported_at: "2026-03-28T11:22:21.994Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T10:24:22.241Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T11:22:21.935Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
