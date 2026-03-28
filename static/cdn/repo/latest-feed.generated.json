@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T13:44:30.340Z",
+    "generatedAt": "2026-03-28T14:25:36.495Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0HDmax1NWx0",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "D1sq8yzgjjQ",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "gsEW9qUGGWc",
-            "name": "Iran US Israel War LIVE: सुबह-सुबह ईरान ने युद्ध कर दिया खत्म! | America | Trump | Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bcylNQAJ7Cg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C7fo-dHqQbk",
-            "name": "LIVE | Israel Strikes Iran’s Nuclear Facilities! Iran Retaliates on U.S. Base in Saudi Arabia",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b0O9pT2hdpI",
-            "name": "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PxhX2gHIzl4",
-            "name": "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
+            "videoId": "JwZgijim3zU",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "SVpRMvq8fTg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "yUT8YDKADhI",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Update",
+            "artist": "Global Pulse Network"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ccEhra7TnY0",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iZc4vEaQZMs",
+            "name": "🔴LIVE: TVK Vijay | tn secretariat | தலைமை செயலகம் செல்லும் விஜய்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
