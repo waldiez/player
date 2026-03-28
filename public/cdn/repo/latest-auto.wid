@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T142536.530Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T152418.857Z-l4t35t"
   type: "state"
-  created: "2026-03-28T14:25:36.530Z"
+  created: "2026-03-28T15:24:18.857Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T142536.530Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T152418.857Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "D1sq8yzgjjQ"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "ET Now"
+        videoId: "aQfg0V_Lssc"
+        name: "LIVE: PM Modi Inaugurates Noida International Airport Phase 1 | Jewar Airport | CM Yogi | UP"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JwZgijim3zU"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "g_pJYdqt3LU"
+        name: "US vs Iran War LIVE | Is a Ground War About to Begin? | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yUT8YDKADhI"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Update"
-        artist: "Global Pulse Network"
+        videoId: "QdnkFszGQxg"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ccEhra7TnY0"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
+        videoId: "0HDmax1NWx0"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iZc4vEaQZMs"
-        name: "🔴LIVE: TVK Vijay | tn secretariat | தலைமை செயலகம் செல்லும் விஜய்"
-        artist: "Sathiyam News"
+        videoId: "gsEW9qUGGWc"
+        name: "Iran US Israel War LIVE: सुबह-सुबह ईरान ने युद्ध कर दिया खत्म! | America | Trump | Mojtaba Khamenei"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bcylNQAJ7Cg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UsZCh9zMOKs"
+        name: "Iran Israel America War LIVE: किसकी जीत, कौन पराजित? | Trump | World War 3 | Mojtaba Khamenei"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T14:25:36.530Z"
+  exported_at: "2026-03-28T15:24:18.857Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T14:25:36.495Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T15:24:18.823Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
