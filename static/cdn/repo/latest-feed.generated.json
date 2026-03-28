@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T11:22:21.935Z",
+    "generatedAt": "2026-03-28T12:36:47.951Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C7fo-dHqQbk",
-            "name": "LIVE | Israel Strikes Iran’s Nuclear Facilities! Iran Retaliates on U.S. Base in Saudi Arabia",
-            "artist": "CNN-News18"
+            "videoId": "yUT8YDKADhI",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Update",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "b0O9pT2hdpI",
-            "name": "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!",
+            "videoId": "ccEhra7TnY0",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hpNnvHoTI9Y",
+            "name": "US-IRAN WAR LIVE | Breaking Trump Issues Final Warning To Iran World On Edge | Breaking News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iZc4vEaQZMs",
+            "name": "🔴LIVE: TVK Vijay | tn secretariat | தலைமை செயலகம் செல்லும் விஜய்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "SVpRMvq8fTg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "keQcjFKOAiY",
+            "name": "Israel-Iran War LIVE: Tel Aviv Hit by Cluster Bombs | Knesset Members Take Shelter | Knesset | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "OeJrS8s5F94",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28  Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WCu7LZEe52U",
-            "name": "PM Modi ने किया Noida International Airport का उद्घाटन! | Jewar Airport Phase 1 First Look | CM Yogi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t2ccBSUnzjU",
-            "name": "ईरान-अमेरिका जंग, 28 मार्च 2026 LIVE | Iran America Israel War News | Trump Vs Mojtaba Khamenei",
+            "videoId": "EZpnmTWVdm4",
+            "name": "LIVE | ईरान-अमेरिका जंग 28 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "EZX44QcahMk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "024AkDw6HOs",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
