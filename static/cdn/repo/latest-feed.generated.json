@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T22:20:48.124Z",
+    "generatedAt": "2026-03-28T23:22:54.775Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LlTC7mLVJfs",
-            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "videoId": "DmswYM9MTD0",
+            "name": "US Breaking News LIVE: Trump Claims US-Iran War Is OVER | Trump's Mega Speech Goes Viral | Watch",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "bc-393hsZEI",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (28.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "HIK1kzTpnpw",
+            "name": "Noida Jewar Airport Inauguration LIVE | PM Modi LIVE | Noida International Airport Open | N18L",
+            "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "ppk8JLXxTls",
-            "name": "🔴LIVE: యుద్ధం ఆగదు ..! || Missiles with \"Thank You India\" Message! || Israel-Iran War 2026 || ABN",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "catGpW37V_s",
-            "name": "ABC News Live Prime: March 26, 2026",
+            "videoId": "KsxxnY50QPE",
+            "name": "Good Morning America Full Broadcast - Saturday, March 28, 2026",
             "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gI92YBEPb14",
-            "name": "World News Live | News Ki Pathshala Live | युद्ध अब बहुत भयानक होगा! | Iran Israel War Update",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gvTNu0D7wGw",
-            "name": "🔴LIVE: War | Iran | israel | போரின் இறுதி ஆட்டம் ஆரம்பமா..?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qCIcrIHoANE",
-            "name": "🔴LIVE: Trump | Iran | உச்சக்கட்ட கோபத்தில் ஈரான்.. குஷியில் ட்ரம்ப்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mbbqkMuWKyI",
-            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla",
-            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
