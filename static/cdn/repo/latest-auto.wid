@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T162446.667Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T172206.627Z-l4t35t"
   type: "state"
-  created: "2026-03-28T16:24:46.667Z"
+  created: "2026-03-28T17:22:06.627Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T162446.667Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T172206.627Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mzRSeTwa8Ac"
-        name: "News Ki Pathshala Live | Sushant Sinha | Trump अब Iran पर हमले के 4 प्लान ले आए? | Hindi News"
+        videoId: "0wjW_4STwWg"
+        name: "Gujarat Breaking News Live | CM Bhupendra Patel Visit Rajkot | Local Body Election | Weather Update"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yNDTsnQGmls"
+        name: "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ffw2lSM90q0"
+        name: "Aaj Ki Taaja Khabar Live: 28 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UpaTgx9YT1Y"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "ryOm8I3ShSg"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 29 Mar'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bc-393hsZEI"
-        name: "🔴LIVE: Today Headlines |   இரவு  9 மணி தலைப்புச் செய்திகள் (28.03.2026) | 9 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "aQfg0V_Lssc"
+        name: "LIVE: PM Modi Inaugurates Noida International Airport Phase 1 | Jewar Airport | CM Yogi | UP"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vofBXLV9QBs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "xr_p4vrCPBU"
+        name: "🔴 LIVE  - News 1st: Prime Time Sinhala News - 7 PM (28.03.2026) රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D1sq8yzgjjQ"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JwZgijim3zU"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 28.03.2026 | Ajker News | Latest News | Update News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "g_pJYdqt3LU"
+        name: "US vs Iran War LIVE | Is a Ground War About to Begin? | N18G"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T16:24:46.667Z"
+  exported_at: "2026-03-28T17:22:06.627Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T16:24:46.634Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T17:22:06.591Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
