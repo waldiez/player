@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260328T012335.053Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260328T041229.028Z-l4t35t"
   type: "state"
-  created: "2026-03-28T01:23:35.053Z"
+  created: "2026-03-28T04:12:29.028Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T012335.053Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260328T041229.028Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "LYcnrow7pmg"
-        name: "🔴LIVE : సీఎంలతో ప్రధాని మోడీ భేటీ | PM Modi Meeting With All States CMs | ABN Telugu"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "akzcBEuUWMw"
-        name: "Hezbollah attacks, Israeli soldiers killed | Headlines Geo News 2 AM (28 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i-qunuP6wxk"
-        name: "Attack on Iranian Facilities Despite Trump's Announcement | Headlines Geo News 12 AM (28 March 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "edOwmxr-PXQ"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EqV0GnIPSa0"
-        name: "News Ki Pathshala | Sushant Sinha: Trump का प्लान दुनिया में आग लगा देगा? US Iran War | World News"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GcPtzsPZF0w"
-        name: "World News Live : ट्रंप का अचानक चीन का दौरा...ईरान युद्ध से कनेक्शन ! Iran News | USA | Trump |"
-        artist: "Times Now Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4HA3BiUZlGo"
-        name: "Iran War Live |Missiles, Drones & New Weapons Changing the Battlefield | US Army To Strike Iran?"
+        videoId: "9t8KveBbuVI"
+        name: "IRAN's MOST DEADLY WEAPON! | LIVE: Iran Fires Cluster Bomb Missiles Against US & Israel | WAR NEWS"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d8Fw9hyOOlU"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "ACkk7bZWe_8"
+        name: "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hjjl2bfbvbU"
-        name: "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War"
+        videoId: "B0JctYskYjA"
+        name: "LIVE: Trump Signals Possible To END Iran War After ‘Strong Talks’ With Iran | Trump Biggest Speech"
         artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xh0L0oO3GWY"
+        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2WUZtyWiAok"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 27, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "x1G-nTMdL0Q"
+        name: "Latest update: Trump, Rubio & Iran war: Retaliation, oil shock & global crisis"
+        artist: "Al Jazeera English"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MPvhtpTgQlI"
+        name: "IRAN WAR NEWS LIVE: Iran Fires Cluster Bomb Missiles Against US Bases In The Gulf | BREAKING UPDATE"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b0O9pT2hdpI"
+        name: "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "64iUD0zv2bM"
+        name: "LIVE: Raja Singh Sri Rama Navami Shobha Yatra Hyderabad | Owaisi Brothers | ZEE Telugu News"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MLD75rQEySk"
+        name: "LIVE: Building Demolished | High Tension In Old City | Raja Singh Sri Rama Navami Shobha Yatra | Hyd"
+        artist: "Zee Telugu News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-28T01:23:35.053Z"
+  exported_at: "2026-03-28T04:12:29.028Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-28T01:23:35.024Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-28T04:12:28.996Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

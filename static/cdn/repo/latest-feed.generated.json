@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T01:23:35.024Z",
+    "generatedAt": "2026-03-28T04:12:28.996Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LYcnrow7pmg",
-            "name": "🔴LIVE : సీఎంలతో ప్రధాని మోడీ భేటీ | PM Modi Meeting With All States CMs | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "akzcBEuUWMw",
-            "name": "Hezbollah attacks, Israeli soldiers killed | Headlines Geo News 2 AM (28 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i-qunuP6wxk",
-            "name": "Attack on Iranian Facilities Despite Trump's Announcement | Headlines Geo News 12 AM (28 March 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "edOwmxr-PXQ",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EqV0GnIPSa0",
-            "name": "News Ki Pathshala | Sushant Sinha: Trump का प्लान दुनिया में आग लगा देगा? US Iran War | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GcPtzsPZF0w",
-            "name": "World News Live : ट्रंप का अचानक चीन का दौरा...ईरान युद्ध से कनेक्शन ! Iran News | USA | Trump |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4HA3BiUZlGo",
-            "name": "Iran War Live |Missiles, Drones & New Weapons Changing the Battlefield | US Army To Strike Iran?",
+            "videoId": "9t8KveBbuVI",
+            "name": "IRAN's MOST DEADLY WEAPON! | LIVE: Iran Fires Cluster Bomb Missiles Against US & Israel | WAR NEWS",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "d8Fw9hyOOlU",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "ACkk7bZWe_8",
+            "name": "TRUMP IRAN CRISIS LIVE: US Military on High Alert After Trump's Ultimatum to Tehran | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Hjjl2bfbvbU",
-            "name": "BREAKING News LIVE: Iran Rejects Trump's Ceasefire Plan, Vows to 'Teach US a Lesson' I US-Iran War",
+            "videoId": "B0JctYskYjA",
+            "name": "LIVE: Trump Signals Possible To END Iran War After ‘Strong Talks’ With Iran | Trump Biggest Speech",
             "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xh0L0oO3GWY",
+            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2WUZtyWiAok",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - March 27, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x1G-nTMdL0Q",
+            "name": "Latest update: Trump, Rubio & Iran war: Retaliation, oil shock & global crisis",
+            "artist": "Al Jazeera English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MPvhtpTgQlI",
+            "name": "IRAN WAR NEWS LIVE: Iran Fires Cluster Bomb Missiles Against US Bases In The Gulf | BREAKING UPDATE",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b0O9pT2hdpI",
+            "name": "🔴LIVE: Trump | Iran war | உலகையே பதறவைக்கும் முடிவு!",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "64iUD0zv2bM",
+            "name": "LIVE: Raja Singh Sri Rama Navami Shobha Yatra Hyderabad | Owaisi Brothers | ZEE Telugu News",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MLD75rQEySk",
+            "name": "LIVE: Building Demolished | High Tension In Old City | Raja Singh Sri Rama Navami Shobha Yatra | Hyd",
+            "artist": "Zee Telugu News"
         }
     ],
     "sourceFilters": {
