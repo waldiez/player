@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T18:30:39.335Z",
+    "generatedAt": "2026-03-29T19:26:28.089Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "wA2KCVKAu4I",
-            "name": "LIVE: Egyptian Foreign Ministry arrives at Foreign Office | GEO News",
-            "artist": "Geo News"
+            "videoId": "CYHdLEEkOyI",
+            "name": "Today Headlines - 29 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "QYZZIUiStnk",
-            "name": "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis",
+            "videoId": "yl7aoomymOY",
+            "name": "US News LIVE: Trump’s Explosive Iran Move Stuns Nation | Trump Emergency Speech | World News LIVE",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "v8-XGWPVUI8",
-            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News",
-            "artist": "NDTV India"
+            "videoId": "zHtVkLr0PEk",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (29.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "UU0DNM9UF4E",
-            "name": "LIVE: US Ground Invasion Soon? Rising Tensions Spark Fears Of Boots On Ground In Region | N18G",
-            "artist": "CNN-News18"
+            "videoId": "uM-b49uoOVk",
+            "name": "Middle East War Escalates | Houthis Enter Battle Backing Iran🔴LIVE",
+            "artist": "ETV Andhra Pradesh"
         },
         {
             "mood": "storm",
-            "videoId": "pLjHllXjcD8",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now World"
+            "videoId": "PiqMl_KLKDU",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "vN7BrOsNTbo",
-            "name": "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Iran Israel War |Mojtaba Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "d81w9ORfVv8",
+            "name": "🔴LIVE: Trump | Iran  | \"அடுத்த சில வாரத்தில் ஈரான் காலி!\" - ட்ரம்ப் இறக்கிய பயங்கர ஆயுதம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "LXJaCIM3SpA",
-            "name": "News Ki Pathshala Live | Sushant Sinha | सऊदी-UAE डायरेक्ट वॉर में उतरने वाले हैं | Trump | PM Modi",
-            "artist": "Times Now Navbharat"
+            "videoId": "4L0WMm9cSEQ",
+            "name": "LIVE | Trump’s Worst Nightmare! 500 US Troops Dead In… | US-Iran War LIVE | Israel-Iran War LIVE",
+            "artist": "Hindustan Times"
         }
     ],
     "sourceFilters": {

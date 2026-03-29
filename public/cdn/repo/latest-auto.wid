@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T183039.383Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T192628.123Z-l4t35t"
   type: "state"
-  created: "2026-03-29T18:30:39.383Z"
+  created: "2026-03-29T19:26:28.123Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T183039.383Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T192628.123Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wA2KCVKAu4I"
-        name: "LIVE: Egyptian Foreign Ministry arrives at Foreign Office | GEO News"
-        artist: "Geo News"
+        videoId: "CYHdLEEkOyI"
+        name: "Today Headlines - 29 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QYZZIUiStnk"
-        name: "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis"
+        videoId: "yl7aoomymOY"
+        name: "US News LIVE: Trump’s Explosive Iran Move Stuns Nation | Trump Emergency Speech | World News LIVE"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v8-XGWPVUI8"
-        name: "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News"
-        artist: "NDTV India"
+        videoId: "zHtVkLr0PEk"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (29.03.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UU0DNM9UF4E"
-        name: "LIVE: US Ground Invasion Soon? Rising Tensions Spark Fears Of Boots On Ground In Region | N18G"
-        artist: "CNN-News18"
+        videoId: "uM-b49uoOVk"
+        name: "Middle East War Escalates | Houthis Enter Battle Backing Iran🔴LIVE"
+        artist: "ETV Andhra Pradesh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pLjHllXjcD8"
-        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
-        artist: "Times Now World"
+        videoId: "PiqMl_KLKDU"
+        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vN7BrOsNTbo"
-        name: "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Iran Israel War |Mojtaba Khamenei"
-        artist: "ABP NEWS"
+        videoId: "d81w9ORfVv8"
+        name: "🔴LIVE: Trump | Iran  | \"அடுத்த சில வாரத்தில் ஈரான் காலி!\" - ட்ரம்ப் இறக்கிய பயங்கர ஆயுதம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LXJaCIM3SpA"
-        name: "News Ki Pathshala Live | Sushant Sinha | सऊदी-UAE डायरेक्ट वॉर में उतरने वाले हैं | Trump | PM Modi"
-        artist: "Times Now Navbharat"
+        videoId: "4L0WMm9cSEQ"
+        name: "LIVE | Trump’s Worst Nightmare! 500 US Troops Dead In… | US-Iran War LIVE | Israel-Iran War LIVE"
+        artist: "Hindustan Times"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T18:30:39.383Z"
+  exported_at: "2026-03-29T19:26:28.123Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T18:30:39.335Z"
+  source_generated_at: "2026-03-29T19:26:28.089Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
