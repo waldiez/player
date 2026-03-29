@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T043124.220Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T060744.325Z-l4t35t"
   type: "state"
-  created: "2026-03-29T04:31:24.220Z"
+  created: "2026-03-29T06:07:44.325Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T043124.220Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T060744.325Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jlppOlBl948"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 29.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mcGgNCc0poA"
-        name: "Iran Israel War Update LIVE: ईरान की अमेरिका को चुनौती! | Iran Israel US Tensions | World News Live"
+        videoId: "mzRSeTwa8Ac"
+        name: "News Ki Pathshala Live | Sushant Sinha | Trump अब Iran पर हमले के 4 प्लान ले आए? | Hindi News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KvG83i2mQ0Q"
-        name: "Seedha Sawal LIVE: संकट में सरकार निकाले राह...कौन फैला रहा अफवाह? | Sandeep Chaudhary | World War 3"
-        artist: "ABP NEWS"
+        videoId: "j_OQ-GUtSc0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক বাংলা"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CMyl_LFNd9E"
-        name: "Iran War LIVE | US And Israel Attack Iran’s Bushehr Nuclear Plant | Trump | US Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GwjNNDMrzZ4"
-        name: "Iran Major Attack Reported at Kuwait International Airport  | Geo News 6AM Headlines | 29 March 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KQMuUXZHzoM"
-        name: "Iran Attack On Dubai  News : दुबई में हमले के बाद के हालात LIVE |  Netanyahu | Trump Israel Iran War"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FNnUVJDXw6M"
-        name: "Israel Iran War LIVE News | Houthis Join Iran War, Launch Missiles At Israel | Netanyahu | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-rIi6d6qM7Y"
-        name: "Today's Headlines | 29 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YZUKNJg0DOQ"
-        name: "US Iran War LIVE | Iran Kills U.S. Troop In Counter Attack, Issue Stern Warning To Trump | N18G"
-        artist: "CNN-News18"
+        videoId: "bpBRDLoxak8"
+        name: "NDTV 24x7 Live TV: US Iran War | Iran Strikes Dubai | Dubai Attacked | Trump Mocks Saudi's MBS"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T04:31:24.220Z"
+  exported_at: "2026-03-29T06:07:44.325Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T04:31:24.186Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T06:07:44.288Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
