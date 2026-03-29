@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T10:25:12.545Z",
+    "generatedAt": "2026-03-29T11:22:07.577Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XEuQbKWE3X0",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "qc4OKp4ffE4",
+            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 29-03-2026",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "aueQ255hoqk",
-            "name": "🔴LIVE :TVK | Candidate | Vijay Speech | அரங்கமே அதிர விஜய் பேச்சு",
-            "artist": "Sathiyam News"
+            "videoId": "tmqVLaMvE3Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "5dw42SvB72s",
-            "name": "Aaj Ki Taaza Khabar LIVE: 29 March News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
-            "artist": "NDTV India"
+            "videoId": "nkLzsZwhIBI",
+            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {

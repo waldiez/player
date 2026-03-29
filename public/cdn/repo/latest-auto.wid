@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T102512.580Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T112207.611Z-l4t35t"
   type: "state"
-  created: "2026-03-29T10:25:12.580Z"
+  created: "2026-03-29T11:22:07.611Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T102512.580Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T112207.611Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "XEuQbKWE3X0"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "qc4OKp4ffE4"
+        name: "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 29-03-2026"
+        artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aueQ255hoqk"
-        name: "🔴LIVE :TVK | Candidate | Vijay Speech | அரங்கமே அதிர விஜய் பேச்சு"
-        artist: "Sathiyam News"
+        videoId: "tmqVLaMvE3Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5dw42SvB72s"
-        name: "Aaj Ki Taaza Khabar LIVE: 29 March News | Iran America War LIVE | Trump | Netanyahu | PM Modi"
-        artist: "NDTV India"
+        videoId: "nkLzsZwhIBI"
+        name: "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T10:25:12.580Z"
+  exported_at: "2026-03-29T11:22:07.611Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T10:25:12.545Z"
+  source_generated_at: "2026-03-29T11:22:07.577Z"
   validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
