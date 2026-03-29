@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T09:29:35.055Z",
+    "generatedAt": "2026-03-29T10:25:12.545Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tmqVLaMvE3Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "XEuQbKWE3X0",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "uMPuAZJ3gSU",
-            "name": "LIVE | ईरान-अमेरिका जंग 29 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "videoId": "aueQ255hoqk",
+            "name": "🔴LIVE :TVK | Candidate | Vijay Speech | அரங்கமே அதிர விஜய் பேச்சு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5dw42SvB72s",
+            "name": "Aaj Ki Taaza Khabar LIVE: 29 March News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YAC1f6MMF30",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
