@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T14:27:34.941Z",
+    "generatedAt": "2026-03-29T15:24:00.423Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "N6tTJHMF_g0",
-            "name": "🔴LIVE: Russia | Trump | Vladimir Putin | ஓங்கியது ரஷ்யாவின் கை.. வசமாக சிக்கினார் டிரம்ப்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "L1K2IPGkWVk",
-            "name": "US-Iran War LIVE: ‘No Kings’ Protests Sweep US Over Trump Policies, Iran War | WION Live",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rQ_QFddTxo4",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O23Z1XfiquA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "cJsQuhDJop4",
-            "name": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের দ্বিতীয় অধিবেশন | 29.03.2026 | Sangsad | Parliament | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "A07s4pRDIqg",
+            "videoId": "RWht6sBytQU",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World Voice"
+            "artist": "BD World News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_zJdhhuBbrs",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "A07dfqxeyLU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YH7w3qc_6PA",
+            "name": "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
