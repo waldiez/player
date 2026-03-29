@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T07:48:14.161Z",
+    "generatedAt": "2026-03-29T08:31:48.172Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qPimesfHUsE",
-            "name": "Middle East War LIVE: Kuwait Under Attack! Explosions Reported Amid Escalation Across Gulf | N18G",
-            "artist": "CNN-News18"
+            "videoId": "aueQ255hoqk",
+            "name": "🔴LIVE :TVK | Candidate | Vijay Speech | அரங்கமே அதிர விஜய் பேச்சு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "mcGgNCc0poA",
-            "name": "Iran Israel War Update LIVE: ईरान की अमेरिका को चुनौती! | Iran Israel US Tensions | World News Live",
-            "artist": "Times Now Navbharat"
+            "videoId": "5dw42SvB72s",
+            "name": "Aaj Ki Taaza Khabar LIVE: 29 March News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "rQ_QFddTxo4",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
+            "videoId": "A07s4pRDIqg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World Voice"
         },
         {
             "mood": "storm",
-            "videoId": "KvG83i2mQ0Q",
-            "name": "Seedha Sawal LIVE: संकट में सरकार निकाले राह...कौन फैला रहा अफवाह? | Sandeep Chaudhary | World War 3",
-            "artist": "ABP NEWS"
+            "videoId": "ZynDj4lnEhQ",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "cHeXBFvNXB8",
-            "name": "US Iran War LIVE | Trump Sends More US Troops To Middle East, Kharg Island Strike Soon | N18G",
-            "artist": "CNN-News18"
+            "videoId": "cn6ptV-3bxM",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "GwjNNDMrzZ4",
-            "name": "Iran Major Attack Reported at Kuwait International Airport  | Geo News 6AM Headlines | 29 March 2026",
-            "artist": "Geo News"
+            "videoId": "Fwu8ZGbGRdc",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 29.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UauVSjOQIbw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4f9-a4vns9Y",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 29.03.2026 | Breaking News | Latest News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

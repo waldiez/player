@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T074814.194Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T083148.234Z-l4t35t"
   type: "state"
-  created: "2026-03-29T07:48:14.194Z"
+  created: "2026-03-29T08:31:48.234Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T074814.194Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T083148.234Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qPimesfHUsE"
-        name: "Middle East War LIVE: Kuwait Under Attack! Explosions Reported Amid Escalation Across Gulf | N18G"
-        artist: "CNN-News18"
+        videoId: "aueQ255hoqk"
+        name: "🔴LIVE :TVK | Candidate | Vijay Speech | அரங்கமே அதிர விஜய் பேச்சு"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mcGgNCc0poA"
-        name: "Iran Israel War Update LIVE: ईरान की अमेरिका को चुनौती! | Iran Israel US Tensions | World News Live"
-        artist: "Times Now Navbharat"
+        videoId: "5dw42SvB72s"
+        name: "Aaj Ki Taaza Khabar LIVE: 29 March News | Iran America War LIVE | Trump | Netanyahu | PM Modi"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rQ_QFddTxo4"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
+        videoId: "A07s4pRDIqg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World Voice"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KvG83i2mQ0Q"
-        name: "Seedha Sawal LIVE: संकट में सरकार निकाले राह...कौन फैला रहा अफवाह? | Sandeep Chaudhary | World War 3"
-        artist: "ABP NEWS"
+        videoId: "ZynDj4lnEhQ"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cHeXBFvNXB8"
-        name: "US Iran War LIVE | Trump Sends More US Troops To Middle East, Kharg Island Strike Soon | N18G"
-        artist: "CNN-News18"
+        videoId: "cn6ptV-3bxM"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GwjNNDMrzZ4"
-        name: "Iran Major Attack Reported at Kuwait International Airport  | Geo News 6AM Headlines | 29 March 2026"
-        artist: "Geo News"
+        videoId: "Fwu8ZGbGRdc"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 29.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UauVSjOQIbw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4f9-a4vns9Y"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 29.03.2026 | Breaking News | Latest News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T07:48:14.194Z"
+  exported_at: "2026-03-29T08:31:48.234Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T07:48:14.161Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T08:31:48.172Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
