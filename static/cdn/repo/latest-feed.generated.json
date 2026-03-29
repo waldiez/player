@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T12:37:28.755Z",
+    "generatedAt": "2026-03-29T13:46:52.577Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "L1K2IPGkWVk",
-            "name": "US-Iran War LIVE: ‘No Kings’ Protests Sweep US Over Trump Policies, Iran War | WION Live",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rQ_QFddTxo4",
-            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O23Z1XfiquA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "A07s4pRDIqg",
+            "videoId": "RWht6sBytQU",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World Voice"
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "1yHD08bsRTY",
-            "name": "LIVE: Iran Strong Warning To Gulf Countries | Iran - Israel War Updates | USA | Trump | ZEE",
-            "artist": "Zee Telugu News"
+            "videoId": "_zJdhhuBbrs",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "_QGkGBJngBU",
-            "name": "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G",
-            "artist": "Firstpost"
+            "videoId": "A07dfqxeyLU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "XEuQbKWE3X0",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "YH7w3qc_6PA",
+            "name": "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {

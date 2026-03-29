@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T123728.790Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T134652.614Z-l4t35t"
   type: "state"
-  created: "2026-03-29T12:37:28.790Z"
+  created: "2026-03-29T13:46:52.614Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T123728.790Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T134652.614Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "L1K2IPGkWVk"
-        name: "US-Iran War LIVE: ‘No Kings’ Protests Sweep US Over Trump Policies, Iran War | WION Live"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rQ_QFddTxo4"
-        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O23Z1XfiquA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "A07s4pRDIqg"
+        videoId: "RWht6sBytQU"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World Voice"
+        artist: "BD World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1yHD08bsRTY"
-        name: "LIVE: Iran Strong Warning To Gulf Countries | Iran - Israel War Updates | USA | Trump | ZEE"
-        artist: "Zee Telugu News"
+        videoId: "_zJdhhuBbrs"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_QGkGBJngBU"
-        name: "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G"
-        artist: "Firstpost"
+        videoId: "A07dfqxeyLU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XEuQbKWE3X0"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "YH7w3qc_6PA"
+        name: "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T12:37:28.790Z"
+  exported_at: "2026-03-29T13:46:52.614Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T12:37:28.755Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T13:46:52.577Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
