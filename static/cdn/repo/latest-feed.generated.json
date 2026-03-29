@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-28T23:22:54.775Z",
+    "generatedAt": "2026-03-29T01:46:05.778Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DmswYM9MTD0",
-            "name": "US Breaking News LIVE: Trump Claims US-Iran War Is OVER | Trump's Mega Speech Goes Viral | Watch",
+            "videoId": "qLhIZtKHsRE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S6o9c9M1wdw",
+            "name": "Iran War LIVE | US And Israel Attack Iran’s Bushehr Nuclear Plant | Trump | US Iran War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XEuQbKWE3X0",
+            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (29.03.2026) | 7 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "slopcfT7qzE",
+            "name": "US Iran War LIVE | Trump Sends More US Troops To Middle East, Kharg Island Strike Soon | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LlTC7mLVJfs",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "HIK1kzTpnpw",
-            "name": "Noida Jewar Airport Inauguration LIVE | PM Modi LIVE | Noida International Airport Open | N18L",
-            "artist": "CNBC-TV18"
+            "videoId": "YLxwfq09e9Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Vata Update Date "
         },
         {
             "mood": "storm",
-            "videoId": "KsxxnY50QPE",
-            "name": "Good Morning America Full Broadcast - Saturday, March 28, 2026",
-            "artist": "ABC News"
+            "videoId": "7zcbrnUQmtY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iwvXyBfmq9Q",
+            "name": "LIVE: Protests Erupt Across U.S. Against Trump Over Iran War Concerns | GEO News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MQwWftxsQAA",
+            "name": "Breaking News LIVE 🔴 World War 3 | Middle East War Update | Iran US Tension #BreakingNews #LiveNews",
+            "artist": "Saurabh Mishra Entertainment"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vXfhfVQjkt0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক বাংলা"
         }
     ],
     "sourceFilters": {
