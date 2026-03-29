@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T162645.334Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T172322.872Z-l4t35t"
   type: "state"
-  created: "2026-03-29T16:26:45.334Z"
+  created: "2026-03-29T17:23:22.872Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T162645.334Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T172322.872Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "pLjHllXjcD8"
-        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
-        artist: "Times Now World"
+        videoId: "3ynFHQFcNF0"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vN7BrOsNTbo"
-        name: "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Iran Israel War |Mojtaba Khamenei"
-        artist: "ABP NEWS"
+        videoId: "-R23EpT2ANI"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE :जंग में ट्रंप ने उतार दी सेना | Iran US War |Trump"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PswuQXjfVjM"
-        name: "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G"
-        artist: "News18 Urdu"
+        videoId: "Lvk1wqaqlzc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rr0qa7ucllI"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "UXizJBg50T4"
+        name: "🟠WAR LIVE : IRAN | INDIA | ஈரான் எடுத்த முடிவு - போரில் எதிர்பாராத திருப்பம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nVmZ0UWsJMs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "ueWRkPHFBh8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World Voice"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N6tTJHMF_g0"
-        name: "🔴LIVE: Russia | Trump | Vladimir Putin | ஓங்கியது ரஷ்யாவின் கை.. வசமாக சிக்கினார் டிரம்ப்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RyvPgMgcriU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "RWht6sBytQU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T16:26:45.334Z"
+  exported_at: "2026-03-29T17:23:22.872Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T16:26:45.301Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T17:23:22.839Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
