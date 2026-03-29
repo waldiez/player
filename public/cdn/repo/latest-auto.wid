@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T152400.454Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T162645.334Z-l4t35t"
   type: "state"
-  created: "2026-03-29T15:24:00.454Z"
+  created: "2026-03-29T16:26:45.334Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T152400.454Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T162645.334Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RWht6sBytQU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "pLjHllXjcD8"
+        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_zJdhhuBbrs"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "vN7BrOsNTbo"
+        name: "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Iran Israel War |Mojtaba Khamenei"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A07dfqxeyLU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "PswuQXjfVjM"
+        name: "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YH7w3qc_6PA"
-        name: "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G"
-        artist: "CNN-News18"
+        videoId: "rr0qa7ucllI"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nVmZ0UWsJMs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N6tTJHMF_g0"
+        name: "🔴LIVE: Russia | Trump | Vladimir Putin | ஓங்கியது ரஷ்யாவின் கை.. வசமாக சிக்கினார் டிரம்ப்"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RyvPgMgcriU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T15:24:00.454Z"
+  exported_at: "2026-03-29T16:26:45.334Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T15:24:00.423Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T16:26:45.301Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

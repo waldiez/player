@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T15:24:00.423Z",
+    "generatedAt": "2026-03-29T16:26:45.301Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RWht6sBytQU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "pLjHllXjcD8",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "_zJdhhuBbrs",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "vN7BrOsNTbo",
+            "name": "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Iran Israel War |Mojtaba Khamenei",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "A07dfqxeyLU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "PswuQXjfVjM",
+            "name": "America VS Iran LIVE: Iran’s \"Deadly Vow\": IRGC Vows to Eliminate Netanyahu as War Expands | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "YH7w3qc_6PA",
-            "name": "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "rr0qa7ucllI",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nVmZ0UWsJMs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N6tTJHMF_g0",
+            "name": "🔴LIVE: Russia | Trump | Vladimir Putin | ஓங்கியது ரஷ்யாவின் கை.. வசமாக சிக்கினார் டிரம்ப்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RyvPgMgcriU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
