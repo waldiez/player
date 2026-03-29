@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T11:22:07.577Z",
+    "generatedAt": "2026-03-29T12:37:28.755Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qc4OKp4ffE4",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 29-03-2026",
-            "artist": "News18 Kerala"
+            "videoId": "L1K2IPGkWVk",
+            "name": "US-Iran War LIVE: ‘No Kings’ Protests Sweep US Over Trump Policies, Iran War | WION Live",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "tmqVLaMvE3Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "rQ_QFddTxo4",
+            "name": "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "nkLzsZwhIBI",
-            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "O23Z1XfiquA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "A07s4pRDIqg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World Voice"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1yHD08bsRTY",
+            "name": "LIVE: Iran Strong Warning To Gulf Countries | Iran - Israel War Updates | USA | Trump | ZEE",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_QGkGBJngBU",
+            "name": "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XEuQbKWE3X0",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.03.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
