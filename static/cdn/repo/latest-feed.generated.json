@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T01:46:05.778Z",
+    "generatedAt": "2026-03-29T04:31:24.186Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qLhIZtKHsRE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "jlppOlBl948",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 29.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "S6o9c9M1wdw",
+            "videoId": "mcGgNCc0poA",
+            "name": "Iran Israel War Update LIVE: ईरान की अमेरिका को चुनौती! | Iran Israel US Tensions | World News Live",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KvG83i2mQ0Q",
+            "name": "Seedha Sawal LIVE: संकट में सरकार निकाले राह...कौन फैला रहा अफवाह? | Sandeep Chaudhary | World War 3",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CMyl_LFNd9E",
             "name": "Iran War LIVE | US And Israel Attack Iran’s Bushehr Nuclear Plant | Trump | US Iran War | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "XEuQbKWE3X0",
-            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (29.03.2026) | 7 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "slopcfT7qzE",
-            "name": "US Iran War LIVE | Trump Sends More US Troops To Middle East, Kharg Island Strike Soon | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LlTC7mLVJfs",
-            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YLxwfq09e9Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Vata Update Date "
-        },
-        {
-            "mood": "storm",
-            "videoId": "7zcbrnUQmtY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iwvXyBfmq9Q",
-            "name": "LIVE: Protests Erupt Across U.S. Against Trump Over Iran War Concerns | GEO News",
+            "videoId": "GwjNNDMrzZ4",
+            "name": "Iran Major Attack Reported at Kuwait International Airport  | Geo News 6AM Headlines | 29 March 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "MQwWftxsQAA",
-            "name": "Breaking News LIVE 🔴 World War 3 | Middle East War Update | Iran US Tension #BreakingNews #LiveNews",
-            "artist": "Saurabh Mishra Entertainment"
+            "videoId": "KQMuUXZHzoM",
+            "name": "Iran Attack On Dubai  News : दुबई में हमले के बाद के हालात LIVE |  Netanyahu | Trump Israel Iran War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "vXfhfVQjkt0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক বাংলা"
+            "videoId": "FNnUVJDXw6M",
+            "name": "Israel Iran War LIVE News | Houthis Join Iran War, Launch Missiles At Israel | Netanyahu | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-rIi6d6qM7Y",
+            "name": "Today's Headlines | 29 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YZUKNJg0DOQ",
+            "name": "US Iran War LIVE | Iran Kills U.S. Troop In Counter Attack, Issue Stern Warning To Trump | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
