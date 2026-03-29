@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260329T060744.325Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260329T074814.194Z-l4t35t"
   type: "state"
-  created: "2026-03-29T06:07:44.325Z"
+  created: "2026-03-29T07:48:14.194Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T060744.325Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260329T074814.194Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mzRSeTwa8Ac"
-        name: "News Ki Pathshala Live | Sushant Sinha | Trump अब Iran पर हमले के 4 प्लान ले आए? | Hindi News"
+        videoId: "qPimesfHUsE"
+        name: "Middle East War LIVE: Kuwait Under Attack! Explosions Reported Amid Escalation Across Gulf | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mcGgNCc0poA"
+        name: "Iran Israel War Update LIVE: ईरान की अमेरिका को चुनौती! | Iran Israel US Tensions | World News Live"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j_OQ-GUtSc0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক বাংলা"
+        videoId: "rQ_QFddTxo4"
+        name: "Trump LIVE: Big Iran War Announcement Shocks World With Major Decision Today |  US Iran War"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bpBRDLoxak8"
-        name: "NDTV 24x7 Live TV: US Iran War | Iran Strikes Dubai | Dubai Attacked | Trump Mocks Saudi's MBS"
-        artist: "NDTV"
+        videoId: "KvG83i2mQ0Q"
+        name: "Seedha Sawal LIVE: संकट में सरकार निकाले राह...कौन फैला रहा अफवाह? | Sandeep Chaudhary | World War 3"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cHeXBFvNXB8"
+        name: "US Iran War LIVE | Trump Sends More US Troops To Middle East, Kharg Island Strike Soon | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GwjNNDMrzZ4"
+        name: "Iran Major Attack Reported at Kuwait International Airport  | Geo News 6AM Headlines | 29 March 2026"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-29T06:07:44.325Z"
+  exported_at: "2026-03-29T07:48:14.194Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-29T06:07:44.288Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-29T07:48:14.161Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
