@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260330T195038.506Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260330T203708.246Z-l4t35t"
   type: "state"
-  created: "2026-03-30T19:50:38.506Z"
+  created: "2026-03-30T20:37:08.246Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T195038.506Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T203708.246Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "a6zIIHCHhB4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.03.2026)| 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "bfhmewewPnw"
+        name: "Iran war News LIVE: Trump Declares National Lockdown? | Donald Trump DROPS BOMBSHELL | US News"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3mTZgfPDkog"
-        name: "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News"
-        artist: "MIRROR NOW"
+        videoId: "T0p_q-d3nlo"
+        name: "Iran War Escalates: Pentagon Prepares For Ground Operations | US Troops to Enter Iran? LIVE-N18L"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QWAktrmZYGE"
-        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WqhfjSTP-O4"
-        name: "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8VMinn_PlZk"
-        name: "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tAF4m_IXgjQ"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : जमीनी लड़ाई का ट्रंप प्लान सामने आया!  Iran US"
+        videoId: "jfVHT3GmZxU"
+        name: "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MIGGQXTJ0wY"
-        name: "US Israel Iran War LIVE :Trump के खिलाफ सबसे बड़ा प्रदर्शन | PM Modi | Strait Of Hormuz | Hindi News"
+        videoId: "5_nRPU15q2I"
+        name: "Debate With Arnab LIVE: Will America Invade Iran And Put Foot On The Ground?"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xQIPFWt1KjI"
+        name: "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TNZhwa22JMI"
+        name: "America Protest Live: Trump के खिलाफ खड़े हुए उनके ही लोग | World War 3 | Iran | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CoisUuEdUs0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World Voice"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-30T19:50:38.506Z"
+  exported_at: "2026-03-30T20:37:08.246Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-30T19:50:38.357Z"
+  source_generated_at: "2026-03-30T20:37:08.217Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

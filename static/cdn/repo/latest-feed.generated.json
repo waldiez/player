@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T19:50:38.357Z",
+    "generatedAt": "2026-03-30T20:37:08.217Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "a6zIIHCHhB4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.03.2026)| 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "bfhmewewPnw",
+            "name": "Iran war News LIVE: Trump Declares National Lockdown? | Donald Trump DROPS BOMBSHELL | US News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "3mTZgfPDkog",
-            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
-            "artist": "MIRROR NOW"
+            "videoId": "T0p_q-d3nlo",
+            "name": "Iran War Escalates: Pentagon Prepares For Ground Operations | US Troops to Enter Iran? LIVE-N18L",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "QWAktrmZYGE",
-            "name": "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WqhfjSTP-O4",
-            "name": "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8VMinn_PlZk",
-            "name": "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tAF4m_IXgjQ",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : जमीनी लड़ाई का ट्रंप प्लान सामने आया!  Iran US",
+            "videoId": "jfVHT3GmZxU",
+            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "MIGGQXTJ0wY",
-            "name": "US Israel Iran War LIVE :Trump के खिलाफ सबसे बड़ा प्रदर्शन | PM Modi | Strait Of Hormuz | Hindi News",
+            "videoId": "5_nRPU15q2I",
+            "name": "Debate With Arnab LIVE: Will America Invade Iran And Put Foot On The Ground?",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xQIPFWt1KjI",
+            "name": "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TNZhwa22JMI",
+            "name": "America Protest Live: Trump के खिलाफ खड़े हुए उनके ही लोग | World War 3 | Iran | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CoisUuEdUs0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World Voice"
         }
     ],
     "sourceFilters": {
