@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T06:25:52.010Z",
+    "generatedAt": "2026-03-30T08:18:20.224Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0VnOf8NURIQ",
-            "name": "Iran US Israel War : ट्रंप ने मांगी माफी!, बोले 'SORRY' | America | Big Breaking | LIVE",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oM4MK3VkWQw",
-            "name": "Trump LIVE: U.S Military Just Did Something MASSIVE in Iran... | Israel | Tel Aviv | US News Live",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ndW2SJINjCQ",
-            "name": "Internet Blackout News Live : दुनिया में इंटरनेट ब्लैकआउट का खतरा ? World News | War News | Iran |",
+            "videoId": "DhOZ8mkKcbo",
+            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "-sLt_HEVNhs",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 30.03.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "dqfcLJvVTQ0",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 30-03-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "YH7w3qc_6PA",
-            "name": "US Iran War LIVE | Welcome To Hell, Iran Vows Brutal Retaliation | Trump On Iran War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "FyMqUDTRMCk",
+            "name": "News Ki Pathshala Live | Trump का गुरूर हुआ चकनाचूर ! | Iran America War | war update | Iran Israel",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nATTP8gavm4",
+            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | Breaking News",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
