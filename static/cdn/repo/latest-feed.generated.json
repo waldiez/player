@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T17:45:40.062Z",
+    "generatedAt": "2026-03-30T18:49:54.234Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QWAktrmZYGE",
-            "name": "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS",
-            "artist": "ET Now"
+            "videoId": "bfhmewewPnw",
+            "name": "Iran war News LIVE: Trump Declares National Lockdown? | Donald Trump DROPS BOMBSHELL | US News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "WqhfjSTP-O4",
-            "name": "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்",
-            "artist": "Sathiyam News"
+            "videoId": "T0p_q-d3nlo",
+            "name": "Iran War Escalates: Pentagon Prepares For Ground Operations | US Troops to Enter Iran? LIVE-N18L",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "8VMinn_PlZk",
-            "name": "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tAF4m_IXgjQ",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : जमीनी लड़ाई का ट्रंप प्लान सामने आया!  Iran US",
+            "videoId": "jfVHT3GmZxU",
+            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "pMSPHuB1dQo",
-            "name": "LOKA HD LIVE |  Trumpനെ ചുട്ട് കൊല്ലാനുള്ള ബ്രഹ്മാസ്ത്രമൊരുക്കി Kim Jong Un | World News | N18G",
-            "artist": "News18 Kerala"
+            "videoId": "xQIPFWt1KjI",
+            "name": "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sdJFA3q6YB0",
-            "name": "LIVE | Donald Trump Threatens to Seize Kharg Island, Says US Could ‘Take Iran’s Oil’ | N18G",
-            "artist": "CNN-News18"
+            "videoId": "0FmhGKW46Y8",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 30 March 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "SLcQr0f5bAc",
-            "name": "Israel Iran War LIVE | IDF Releases Target List After Houthis Attack Israel | US Iran War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "dFDKdSocz5U",
+            "name": "Aaj Ki Taaja Khabar Live: 30 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "5VqVtz6xBic",
-            "name": "LIVE: Iran Confirms Key Navy Commander Killed Amid Trump's \"Regime Change\" Claim",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W3WoDYVV7fc",
-            "name": "WAR LIVE: U.S. Prepares Iran Ground Ops | Arak Nuclear Reactor Hit | Houthi Attack |Iran Attack LIVE",
-            "artist": "News18 Urdu"
+            "videoId": "Vr0VqkIQGoQ",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | Netanyahu",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
