@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T21:35:05.141Z",
+    "generatedAt": "2026-03-30T22:27:16.802Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yEIyJsKqZqs",
-            "name": "World News Live : ट्रंप के पार्टी में ही विरोध शुरू, ट्रंप की भयंकर बेइज्जती ! Iran |  USA | China |",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "7x8UUmt_VAU",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "QU35YQMwngk",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "r78H2HanEIo",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "a6zIIHCHhB4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.03.2026)| 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "xQIPFWt1KjI",
+            "name": "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "R8Xf0WUFAas",
-            "name": "Iran War LIVE: Arnab Exclusive With Former Trump Insider Frederick H. Fleitz",
-            "artist": "Republic World"
+            "videoId": "QWAktrmZYGE",
+            "name": "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "3mTZgfPDkog",
-            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
-            "artist": "MIRROR NOW"
+            "videoId": "XwfTa6P1vd8",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ । 30.03.2026 | Latest News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WqhfjSTP-O4",
+            "name": "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TzVxSohVoV4",
+            "name": "US Iran War LIVE: US Jet Damaged, Haifa Targeted: War Escalate on Day 31 | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "btwmLP0gKYI",
+            "name": "LIVE NEWS | Putin’s BOLD Reply to Trump STUNS the World—Geopolitical Shockwaves Unleashed! | Putin",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
