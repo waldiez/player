@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260330T160127.315Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260330T174540.096Z-l4t35t"
   type: "state"
-  created: "2026-03-30T16:01:27.315Z"
+  created: "2026-03-30T17:45:40.096Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T160127.315Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T174540.096Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "dFDKdSocz5U"
-        name: "Aaj Ki Taaja Khabar Live: 30 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News"
-        artist: "Times Now Navbharat"
+        videoId: "QWAktrmZYGE"
+        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2DYGx1xKLyw"
-        name: "News Ki Pathshala Live | Sushant Sinha | लास्ट मिनट इजरायल ने क्या गजब कर दिया? | PM Modi | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "WqhfjSTP-O4"
+        name: "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZwBj9Wosabs"
-        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7y3H5nlwUgw"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 30.03.2026 | Latest News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vbWsYYhR44Y"
-        name: "LIVE🔴Trump’s Secret Uranium Plan  | Iran Strikes Back | Netanyahu’s New Order Shocks the World"
-        artist: "NTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JoOjVDzR3Y0"
-        name: "Live: Iran US War Enters Dangerous Phase | Pentagon Signals Major Move | Special Forces Deployed"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ffv_KeiNLhY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YP_W3YZ3DWI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Dvxuf0CJGPU"
-        name: "US Iran War LIVE: Trump Preparing \"Final Blow\" Against Iran? | West Asia War | N18G"
+        videoId: "8VMinn_PlZk"
+        name: "Iran US War LIVE: Trump Sends 10,000 Troops for Ground Invasion Near Kharg Island | Khamenei | N18G"
         artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tAF4m_IXgjQ"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : जमीनी लड़ाई का ट्रंप प्लान सामने आया!  Iran US"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pMSPHuB1dQo"
+        name: "LOKA HD LIVE |  Trumpനെ ചുട്ട് കൊല്ലാനുള്ള ബ്രഹ്മാസ്ത്രമൊരുക്കി Kim Jong Un | World News | N18G"
+        artist: "News18 Kerala"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sdJFA3q6YB0"
+        name: "LIVE | Donald Trump Threatens to Seize Kharg Island, Says US Could ‘Take Iran’s Oil’ | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SLcQr0f5bAc"
+        name: "Israel Iran War LIVE | IDF Releases Target List After Houthis Attack Israel | US Iran War | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5VqVtz6xBic"
+        name: "LIVE: Iran Confirms Key Navy Commander Killed Amid Trump's \"Regime Change\" Claim"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "W3WoDYVV7fc"
+        name: "WAR LIVE: U.S. Prepares Iran Ground Ops | Arak Nuclear Reactor Hit | Houthi Attack |Iran Attack LIVE"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-30T16:01:27.315Z"
+  exported_at: "2026-03-30T17:45:40.096Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-30T16:01:27.281Z"
+  source_generated_at: "2026-03-30T17:45:40.062Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
