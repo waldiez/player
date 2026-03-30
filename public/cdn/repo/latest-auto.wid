@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260330T144212.533Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260330T160127.315Z-l4t35t"
   type: "state"
-  created: "2026-03-30T14:42:12.533Z"
+  created: "2026-03-30T16:01:27.315Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T144212.533Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T160127.315Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WIunsBE-bXs"
-        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
-        artist: "News18 Urdu"
+        videoId: "dFDKdSocz5U"
+        name: "Aaj Ki Taaja Khabar Live: 30 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AzHArbfpS98"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "2DYGx1xKLyw"
+        name: "News Ki Pathshala Live | Sushant Sinha | लास्ट मिनट इजरायल ने क्या गजब कर दिया? | PM Modi | Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D1ky3Tdo_1Y"
-        name: "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | Russia"
-        artist: "Times Now World"
+        videoId: "ZwBj9Wosabs"
+        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "k8pTifqnie4"
-        name: "Russia Invades Britain? Shocking War Scenario Sends World Into Panic | 4PM Headlines Geo News 30Mar"
-        artist: "Geo News"
+        videoId: "7y3H5nlwUgw"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 30.03.2026 | Latest News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q5SUB-pNyL0"
-        name: "LIVE | Trump’s Worst Nightmare! 500 US Troops Dead In… | US-Iran War LIVE | Israel-Iran War LIVE"
-        artist: "Hindustan Times"
+        videoId: "vbWsYYhR44Y"
+        name: "LIVE🔴Trump’s Secret Uranium Plan  | Iran Strikes Back | Netanyahu’s New Order Shocks the World"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "13eywDQAvGg"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.03.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "JoOjVDzR3Y0"
+        name: "Live: Iran US War Enters Dangerous Phase | Pentagon Signals Major Move | Special Forces Deployed"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "E_-yuNfQsAM"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "MIRROR NOW"
+        videoId: "ffv_KeiNLhY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y6-fQwShLLE"
-        name: "Bangla News BBC World News 30 March 2026 || World News Bangla || International News Today"
-        artist: "mr tv 71"
+        videoId: "YP_W3YZ3DWI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Dvxuf0CJGPU"
+        name: "US Iran War LIVE: Trump Preparing \"Final Blow\" Against Iran? | West Asia War | N18G"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-30T14:42:12.533Z"
+  exported_at: "2026-03-30T16:01:27.315Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-30T14:42:12.494Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-30T16:01:27.281Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T14:42:12.494Z",
+    "generatedAt": "2026-03-30T16:01:27.281Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WIunsBE-bXs",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "dFDKdSocz5U",
+            "name": "Aaj Ki Taaja Khabar Live: 30 March 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "AzHArbfpS98",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "2DYGx1xKLyw",
+            "name": "News Ki Pathshala Live | Sushant Sinha | लास्ट मिनट इजरायल ने क्या गजब कर दिया? | PM Modi | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "D1ky3Tdo_1Y",
-            "name": "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | Russia",
-            "artist": "Times Now World"
+            "videoId": "ZwBj9Wosabs",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "k8pTifqnie4",
-            "name": "Russia Invades Britain? Shocking War Scenario Sends World Into Panic | 4PM Headlines Geo News 30Mar",
-            "artist": "Geo News"
+            "videoId": "7y3H5nlwUgw",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 30.03.2026 | Latest News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "Q5SUB-pNyL0",
-            "name": "LIVE | Trump’s Worst Nightmare! 500 US Troops Dead In… | US-Iran War LIVE | Israel-Iran War LIVE",
-            "artist": "Hindustan Times"
+            "videoId": "vbWsYYhR44Y",
+            "name": "LIVE🔴Trump’s Secret Uranium Plan  | Iran Strikes Back | Netanyahu’s New Order Shocks the World",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "13eywDQAvGg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "JoOjVDzR3Y0",
+            "name": "Live: Iran US War Enters Dangerous Phase | Pentagon Signals Major Move | Special Forces Deployed",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "E_-yuNfQsAM",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "MIRROR NOW"
+            "videoId": "ffv_KeiNLhY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "y6-fQwShLLE",
-            "name": "Bangla News BBC World News 30 March 2026 || World News Bangla || International News Today",
-            "artist": "mr tv 71"
+            "videoId": "YP_W3YZ3DWI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Dvxuf0CJGPU",
+            "name": "US Iran War LIVE: Trump Preparing \"Final Blow\" Against Iran? | West Asia War | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
