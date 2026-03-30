@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-29T23:25:00.649Z",
+    "generatedAt": "2026-03-30T01:48:43.224Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SfrI-ToYGR0",
-            "name": "Live: Iran-US War Update | Pakistan Host Four-Nation Mediation Talks In Islamabad | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "MOoiPO4MKIs",
+            "name": "🔴LIVE: Iran-US War Update | Pakistan Host Four-Nation Mediation Talks In Islamabad | Public News",
+            "artist": "Public News"
         },
         {
             "mood": "storm",
-            "videoId": "CYHdLEEkOyI",
-            "name": "Today Headlines - 29 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yl7aoomymOY",
-            "name": "US News LIVE: Trump’s Explosive Iran Move Stuns Nation | Trump Emergency Speech | World News LIVE",
+            "videoId": "ov1EXZ34Vto",
+            "name": "Vladimir Putin Live | Vladimir Putin Drops Huge Bombshell | Russia Ukraine War | Iran | Trump | US",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "zHtVkLr0PEk",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (29.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wA2KCVKAu4I",
-            "name": "LIVE: Egyptian Foreign Ministry arrives at Foreign Office | GEO News",
+            "videoId": "nimN-4nB36o",
+            "name": "Preparing for ground attacks on US coastal areas | Geo News 12 AM Headlines | 30 March 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "PiqMl_KLKDU",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "ET Now"
+            "videoId": "okvH7gFeMrw",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "d81w9ORfVv8",
-            "name": "🔴LIVE: Trump | Iran  | \"அடுத்த சில வாரத்தில் ஈரான் காலி!\" - ட்ரம்ப் இறக்கிய பயங்கர ஆயுதம்",
-            "artist": "Sathiyam News"
+            "videoId": "imDhavaz3AM",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KxRKYDW7qFU",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4bNUtQ8jWi4",
+            "name": "US IRAN WAR LIVE: Did IRGC Missiles Just DESTROY Netanyahu's Home? | World News",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QYZZIUiStnk",
+            "name": "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
