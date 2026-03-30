@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T11:50:40.292Z",
+    "generatedAt": "2026-03-30T13:00:07.445Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,20 +28,32 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "13eywDQAvGg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "Dvxuf0CJGPU",
+            "name": "US Iran War LIVE: Trump Preparing \"Final Blow\" Against Iran? | West Asia War | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "E_-yuNfQsAM",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "videoId": "4bNUtQ8jWi4",
+            "name": "US IRAN WAR LIVE: Did IRGC Missiles Just DESTROY Netanyahu's Home? | World News",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8MiS0zn1wog",
+            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "nATTP8gavm4",
-            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | Breaking News",
+            "videoId": "6wDZjcGYANE",
+            "name": "World News | ख़बरें विदेश की | 30 march 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NiTkad5kiEU",
+            "name": "Trump LIVE: Trump Makes An Announcement | President Trump Briefing On Iran War |  | US Iran War LIVE",
             "artist": "ET Now"
         }
     ],
