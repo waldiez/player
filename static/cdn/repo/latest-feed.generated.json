@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T08:18:20.224Z",
+    "generatedAt": "2026-03-30T10:09:13.463Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DhOZ8mkKcbo",
-            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
-            "artist": "Times Now Navbharat"
+            "videoId": "8MiS0zn1wog",
+            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "dqfcLJvVTQ0",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 30-03-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "FyMqUDTRMCk",
-            "name": "News Ki Pathshala Live | Trump का गुरूर हुआ चकनाचूर ! | Iran America War | war update | Iran Israel",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nATTP8gavm4",
-            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | Breaking News",
+            "videoId": "NiTkad5kiEU",
+            "name": "Trump LIVE: Trump Makes An Announcement | President Trump Briefing On Iran War |  | US Iran War LIVE",
             "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "avtZ8v2xAco",
+            "name": "US News LIVE: Trump’s Explosive Iran Move Stuns Nation | Trump Emergency Speech | World News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IyMJPkRhNbo",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 30.03.2026 | Today News | Latest News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7r-b-y6iqlg",
+            "name": "Iran’s BIG Victory? Oil Prices EXPLODE Amid War | 12PM Headlines Geo News  (30 March 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kpaOoJYGSnw",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-KYbyk9n-tE",
+            "name": "🔴LIVE: Iran | war | Trump | ''சவப்பெட்டியில் தான் போவீங்க..'' - உச்சகட்ட கோபத்தில் ஈரான்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "daW9lfUxDqE",
+            "name": "Today Headlines | 30 Mar 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
