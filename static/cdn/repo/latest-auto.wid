@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260330T222716.840Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260330T232833.974Z-l4t35t"
   type: "state"
-  created: "2026-03-30T22:27:16.840Z"
+  created: "2026-03-30T23:28:33.974Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T222716.840Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T232833.974Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7x8UUmt_VAU"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "yEIyJsKqZqs"
+        name: "World News Live : ट्रंप के पार्टी में ही विरोध शुरू, ट्रंप की भयंकर बेइज्जती ! Iran |  USA | China |"
+        artist: "Times Now Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r78H2HanEIo"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xQIPFWt1KjI"
-        name: "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QWAktrmZYGE"
-        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XwfTa6P1vd8"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 30.03.2026 | Latest News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WqhfjSTP-O4"
-        name: "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TzVxSohVoV4"
-        name: "US Iran War LIVE: US Jet Damaged, Haifa Targeted: War Escalate on Day 31 | Vantage on Firstpost"
+        videoId: "JClqWGGsrJc"
+        name: "LIVE: China Deploys New Warships For Combat Drills In South China Sea | Firstpost | N18G"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "btwmLP0gKYI"
-        name: "LIVE NEWS | Putin’s BOLD Reply to Trump STUNS the World—Geopolitical Shockwaves Unleashed! | Putin"
-        artist: "Times Now"
+        videoId: "a6zIIHCHhB4"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.03.2026)| 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NKA4TeGKVGE"
+        name: "Iran-America War Live: Shehbaz कराएंगे सुलह ? World War 3 | Breaking News | Middle East | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bfhmewewPnw"
+        name: "Iran war News LIVE: Trump Declares National Lockdown? | Donald Trump DROPS BOMBSHELL | US News"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T0p_q-d3nlo"
+        name: "Iran War Escalates: Pentagon Prepares For Ground Operations | US Troops to Enter Iran? LIVE-N18L"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jfVHT3GmZxU"
+        name: "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "R8Xf0WUFAas"
+        name: "Iran War LIVE: Arnab Exclusive With Former Trump Insider Frederick H. Fleitz"
+        artist: "Republic World"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-30T22:27:16.840Z"
+  exported_at: "2026-03-30T23:28:33.974Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-30T22:27:16.802Z"
+  source_generated_at: "2026-03-30T23:28:33.935Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
