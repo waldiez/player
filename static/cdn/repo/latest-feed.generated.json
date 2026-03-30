@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-30T20:37:08.217Z",
+    "generatedAt": "2026-03-30T21:35:05.141Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bfhmewewPnw",
-            "name": "Iran war News LIVE: Trump Declares National Lockdown? | Donald Trump DROPS BOMBSHELL | US News",
-            "artist": "ET Now World"
+            "videoId": "yEIyJsKqZqs",
+            "name": "World News Live : ट्रंप के पार्टी में ही विरोध शुरू, ट्रंप की भयंकर बेइज्जती ! Iran |  USA | China |",
+            "artist": "Times Now Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "T0p_q-d3nlo",
-            "name": "Iran War Escalates: Pentagon Prepares For Ground Operations | US Troops to Enter Iran? LIVE-N18L",
-            "artist": "CNN-News18"
+            "videoId": "QU35YQMwngk",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "jfVHT3GmZxU",
-            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News",
-            "artist": "NDTV India"
+            "videoId": "a6zIIHCHhB4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.03.2026)| 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "5_nRPU15q2I",
-            "name": "Debate With Arnab LIVE: Will America Invade Iran And Put Foot On The Ground?",
+            "videoId": "R8Xf0WUFAas",
+            "name": "Iran War LIVE: Arnab Exclusive With Former Trump Insider Frederick H. Fleitz",
             "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "xQIPFWt1KjI",
-            "name": "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TNZhwa22JMI",
-            "name": "America Protest Live: Trump के खिलाफ खड़े हुए उनके ही लोग | World War 3 | Iran | India News",
-            "artist": "India News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CoisUuEdUs0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World Voice"
+            "videoId": "3mTZgfPDkog",
+            "name": "US-IRAN WAR LIVE: Trump Announces Major Military Action Plan Against Iran | Breaking News",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
