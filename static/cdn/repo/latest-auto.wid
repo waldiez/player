@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260330T014843.262Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260330T043932.901Z-l4t35t"
   type: "state"
-  created: "2026-03-30T01:48:43.262Z"
+  created: "2026-03-30T04:39:32.901Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T014843.262Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260330T043932.901Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "MOoiPO4MKIs"
-        name: "🔴LIVE: Iran-US War Update | Pakistan Host Four-Nation Mediation Talks In Islamabad | Public News"
-        artist: "Public News"
+        videoId: "UXizJBg50T4"
+        name: "🟠WAR LIVE : IRAN | INDIA | ஈரான் எடுத்த முடிவு - போரில் எதிர்பாராத திருப்பம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ov1EXZ34Vto"
-        name: "Vladimir Putin Live | Vladimir Putin Drops Huge Bombshell | Russia Ukraine War | Iran | Trump | US"
-        artist: "Times Now World"
+        videoId: "dA8Pyq3eirI"
+        name: "Top 100 News Today LIVE | 100 बड़ी खबरें | PM Modi | Iran Israel War | Trump | World News Live"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nimN-4nB36o"
-        name: "Preparing for ground attacks on US coastal areas | Geo News 12 AM Headlines | 30 March 2026"
-        artist: "Geo News"
+        videoId: "MXnqphT8yqg"
+        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "okvH7gFeMrw"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "WqhfjSTP-O4"
+        name: "🟠WAR LIVE : IRAN | INDIA | U-Turn அடித்த ஈரான் - போரில் பெரிய மாற்றம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "imDhavaz3AM"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "yAweI5J-x-c"
+        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KxRKYDW7qFU"
-        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
-        artist: "MIRROR NOW"
+        videoId: "J3Ob9dgGdRk"
+        name: "LIVE: Millions Rally Against Trump's Policies, Iran War As \"No Kings\" Protests Spread in US, Europe"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4bNUtQ8jWi4"
-        name: "US IRAN WAR LIVE: Did IRGC Missiles Just DESTROY Netanyahu's Home? | World News"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QYZZIUiStnk"
-        name: "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis"
-        artist: "Times Now World"
+        videoId: "k2uRQQy_ixE"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 29, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-30T01:48:43.262Z"
+  exported_at: "2026-03-30T04:39:32.901Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-30T01:48:43.224Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-30T04:39:32.868Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
