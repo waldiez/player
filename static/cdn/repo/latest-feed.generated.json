@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T10:51:53.556Z",
+    "generatedAt": "2026-03-31T11:42:34.500Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DNDbcvMdSbE",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (31.03.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "ATAX2PMEuSM",
+            "name": "US Breaking News LIVE: Barack Obama Under Fire | White House' Big Remark On Obama's Arrest | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "eNAxxt0ynhU",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "gFjGim5Kr5I",
+            "name": "West Asia War LIVE: US President Donald Trump Mocks Saudi Crown Prince MBS Amid Iran War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "md5wA-esX7E",
-            "name": "News Ki Pathshala Live | Netanyahu ने ट्रंप को दिया झटका ! | Iran Israel War | World News |Netanyahu",
+            "videoId": "Um10azdJ8H0",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DutOXnuCGuY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QcBvrBzyjOA",
+            "name": "Fit India में देखिए: World News | Trump News | Netanyahu News | Delhi News | Delhi Police |Iran News",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "13xJha22vCY",
-            "name": "News Ki Pathshala Live | ईरान नॉनस्टॉप मार रहा ! | Iran Attack America | World News | Trump | Iran",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VFwj9qyOc34",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KpncFaTR3fE",
-            "name": "News Ki Pathshala Live | ईरान नॉनस्टॉप मार रहा ! | Iran Attack America | World News | Trump | Iran",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wSOflyVv0lA",
-            "name": "Live: Day 31 :Trump threatens to 'obliterate' Iran's energy facilities if deal not reached 'shortly'",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b3EFSJeNErg",
-            "name": "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்",
-            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
