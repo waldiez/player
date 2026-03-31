@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260331T160031.301Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260331T174958.967Z-l4t35t"
   type: "state"
-  created: "2026-03-31T16:00:31.301Z"
+  created: "2026-03-31T17:49:58.967Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T160031.301Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T174958.967Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "eQKcP2F_MTk"
-        name: "LIVE |Iran Unleashes Hell On Israel’s War Machine? Fresh Strikes Hit Bibi’s Missile Production Sites"
-        artist: "Hindustan Times"
+        videoId: "YjTR6WhCN_w"
+        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SgFEKM1_pzg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Festival Update"
+        videoId: "g4XDvj8gs2M"
+        name: "US Iran War LIVE | Trump says the US \"Won't Help\" in Strait of Hormuz | Vantage on Firstpost | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s-2yXXVTGsA"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ke8Vw8Osx0M"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5QxOomeWLr8"
-        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 31 March 2026 || World News Bangla ||"
-        artist: "DESH TV NEWS 72"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gAe5XE7CGSo"
-        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
+        videoId: "PU2G_cJ3soI"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gFjGim5Kr5I"
-        name: "West Asia War LIVE: US President Donald Trump Mocks Saudi Crown Prince MBS Amid Iran War"
+        videoId: "Ao3M8toij9k"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ejNlwP1xpqo"
+        name: "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | War News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hpb_JZ8-du4"
+        name: "News Ki Pathshala Live | Sushant Sinha | तेल गैस का संकट अब खत्म नहीं होगा? | PM Modi | Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bn2VfdK4XwY"
+        name: "🔴LIVE : BJP | Annamalai | Chennai | பாஜக வேட்பாளர்கள் தேர்வு- ஹெலிகாப்டரில் சென்னை விரையும் அண்ணாமலை"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KveG-nKJrgE"
+        name: "US Iran War LIVE | 50,000+ Troops: Trump Planning to Invade Iran? | Vantage on Firstpost"
         artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y_e5GSVhITM"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-31T16:00:31.301Z"
+  exported_at: "2026-03-31T17:49:58.967Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-31T16:00:31.265Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-31T17:49:58.904Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
