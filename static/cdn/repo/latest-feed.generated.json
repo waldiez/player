@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T20:35:45.158Z",
+    "generatedAt": "2026-03-31T21:31:49.683Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eFRvOJywJqs",
-            "name": "LIVE🔴Trump’s Final Warning to Iran | “War Won’t Last Long” Claim Shocks World",
-            "artist": "NTV"
+            "videoId": "AgP9ZGLtfdo",
+            "name": "Today Headlines - 31 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "b3EFSJeNErg",
-            "name": "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்",
+            "videoId": "ZNNKXEzHv9I",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (31.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pKUakL6WJ9M",
+            "name": "🔴LIVE :  Iran War Trump Video | ஈரானை நாசமாக்கிய ட்ரம்ப்.. மொத்தமாக முடிந்த கதை - பதற்றத்தில் உலகம்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "3zIRrnUnI3w",
-            "name": "🔴LIVE : Trump | Iran | China | போரை தலைகீழாக திருப்பிய ட்ரம்ப்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_Jsv5ZC2gvQ",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HkxG5Go-nic",
-            "name": "Firstpost LIVE: Iran Attack Sparks Dubai Alert After Kuwait Oil Tanker Hit | US Iran War | N18G",
+            "videoId": "X7pCF6zUqp8",
+            "name": "US Iran War LIVE: Iran Targets Kuwaiti Oil Tanker Near UAE Port, NATO on Guard | N18G",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g4XDvj8gs2M",
+            "name": "US Iran War LIVE | Trump says the US \"Won't Help\" in Strait of Hormuz | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PU2G_cJ3soI",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "alYJ9pX0Ozk",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : होर्मुज स्ट्रेट में टोल टैक्स वसूली पर मुहर! Iran",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
