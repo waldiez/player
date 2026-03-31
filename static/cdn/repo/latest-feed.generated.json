@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T22:27:00.071Z",
+    "generatedAt": "2026-03-31T23:27:55.302Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "b3EFSJeNErg",
-            "name": "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்",
+            "videoId": "AgP9ZGLtfdo",
+            "name": "Today Headlines - 31 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZNNKXEzHv9I",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (31.03.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pKUakL6WJ9M",
+            "name": "🔴LIVE :  Iran War Trump Video | ஈரானை நாசமாக்கிய ட்ரம்ப்.. மொத்தமாக முடிந்த கதை - பதற்றத்தில் உலகம்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "3zIRrnUnI3w",
-            "name": "🔴LIVE : Trump | Iran | China | போரை தலைகீழாக திருப்பிய ட்ரம்ப்",
-            "artist": "Sathiyam News"
+            "videoId": "X7pCF6zUqp8",
+            "name": "US Iran War LIVE: Iran Targets Kuwaiti Oil Tanker Near UAE Port, NATO on Guard | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "_Jsv5ZC2gvQ",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "Times Now"
+            "videoId": "AAo12FRj6bk",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "frw1WYtdLJ4",
-            "name": "db live news today | db live news hindi | db live world news today | db live news |",
-            "artist": "ASZAD MAHMUD "
-        },
-        {
-            "mood": "storm",
-            "videoId": "YjTR6WhCN_w",
-            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
-            "artist": "Times Now"
+            "videoId": "g4XDvj8gs2M",
+            "name": "US Iran War LIVE | Trump says the US \"Won't Help\" in Strait of Hormuz | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
