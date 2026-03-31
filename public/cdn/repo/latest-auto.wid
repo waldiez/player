@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260331T014458.283Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260331T043044.971Z-l4t35t"
   type: "state"
-  created: "2026-03-31T01:44:58.283Z"
+  created: "2026-03-31T04:30:44.971Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T014458.283Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T043044.971Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2fbzxVEvMiw"
-        name: "Today's Headlines | 31 Mar 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
+        videoId: "5T-PVjbJGsE"
+        name: "7 PM Gujarati News LIVE | 7 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4-MJYf-dWes"
-        name: "America Protest Live: Trump के खिलाफ खड़े हुए उनके ही लोग | World War 3 | Iran | India News"
-        artist: "India News"
+        videoId: "6KG9Kf4o6dk"
+        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7x8UUmt_VAU"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "D1ky3Tdo_1Y"
+        name: "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | Russia"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KMTejFIn0AM"
-        name: "White House press briefing: LIVE"
+        videoId: "PVztwMeOwSs"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 30, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r78H2HanEIo"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xQIPFWt1KjI"
-        name: "News Ki Pathshala Live | Sushant Sinha | White House पर अटैक होगा क्या? | Trump | PM Modi | Munir"
+        videoId: "-rVI-YUOD6c"
+        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QWAktrmZYGE"
-        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now"
+        videoId: "REksaD2xCxA"
+        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dq9aBPdkbjY"
+        name: "LIVE: Iran Hits US Airbase in Saudi Arabia | $700M AWACS Destroyed | Aircraft Damaged | Gulf | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QkUnvd8OBSg"
+        name: "🔴LIVE : Iran | America | ஈரானுக்குள் இறங்கும் அமெரிக்கா - பதற்றத்தில் உலகம்"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-31T01:44:58.283Z"
+  exported_at: "2026-03-31T04:30:44.971Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-31T01:44:58.250Z"
-  validation: "validation enabled: accepted 7/8 tracks; maxAgeHours=72 minKeywordHits=1; rejected: vON03ikd__4 (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 50 < 70)"
+  source_generated_at: "2026-03-31T04:30:44.937Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
