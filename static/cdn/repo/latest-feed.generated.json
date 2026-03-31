@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T04:30:44.937Z",
+    "generatedAt": "2026-03-31T06:12:02.552Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5T-PVjbJGsE",
-            "name": "7 PM Gujarati News LIVE | 7 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "gId0FOnZ3rE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "TOP BD NEWS 24"
         },
         {
             "mood": "storm",
-            "videoId": "6KG9Kf4o6dk",
-            "name": "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D1ky3Tdo_1Y",
-            "name": "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | Russia",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PVztwMeOwSs",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 30, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-rVI-YUOD6c",
-            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
+            "videoId": "BE1dOmgthyE",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें | PM Modi | Iran Israel War | Trump | World News Live",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "REksaD2xCxA",
-            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
-            "artist": "News18 Urdu"
+            "videoId": "BbpjgT3HFhk",
+            "name": "US Iran War LIVE: Trump Claims \"Regime Change\" Achieved in Iran, Hints at Seizing Oil",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "dq9aBPdkbjY",
-            "name": "LIVE: Iran Hits US Airbase in Saudi Arabia | $700M AWACS Destroyed | Aircraft Damaged | Gulf | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "YjTR6WhCN_w",
+            "name": "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "QkUnvd8OBSg",
-            "name": "🔴LIVE : Iran | America | ஈரானுக்குள் இறங்கும் அமெரிக்கா - பதற்றத்தில் உலகம்",
-            "artist": "Sathiyam News"
+            "videoId": "7_zkZAHoPUM",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 31.03.2026 | Breaking News | Latest News | Update News | BD News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
