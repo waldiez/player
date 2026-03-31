@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260331T195051.984Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260331T203545.187Z-l4t35t"
   type: "state"
-  created: "2026-03-31T19:50:51.984Z"
+  created: "2026-03-31T20:35:45.187Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T195051.984Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T203545.187Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AgP9ZGLtfdo"
-        name: "Today Headlines - 31 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "eFRvOJywJqs"
+        name: "LIVE🔴Trump’s Final Warning to Iran | “War Won’t Last Long” Claim Shocks World"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZNNKXEzHv9I"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (31.03.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pKUakL6WJ9M"
-        name: "🔴LIVE :  Iran War Trump Video | ஈரானை நாசமாக்கிய ட்ரம்ப்.. மொத்தமாக முடிந்த கதை - பதற்றத்தில் உலகம்"
+        videoId: "b3EFSJeNErg"
+        name: "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X7pCF6zUqp8"
-        name: "US Iran War LIVE: Iran Targets Kuwaiti Oil Tanker Near UAE Port, NATO on Guard | N18G"
-        artist: "Firstpost"
+        videoId: "3zIRrnUnI3w"
+        name: "🔴LIVE : Trump | Iran | China | போரை தலைகீழாக திருப்பிய ட்ரம்ப்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YjTR6WhCN_w"
-        name: "Breaking News LIVE: 'We Will End Iran', Karoline Drops Huge Bombshell | US-IRAN War | World News"
+        videoId: "_Jsv5ZC2gvQ"
+        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g4XDvj8gs2M"
-        name: "US Iran War LIVE | Trump says the US \"Won't Help\" in Strait of Hormuz | Vantage on Firstpost | N18G"
+        videoId: "HkxG5Go-nic"
+        name: "Firstpost LIVE: Iran Attack Sparks Dubai Alert After Kuwait Oil Tanker Hit | US Iran War | N18G"
         artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PU2G_cJ3soI"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SFtL2PwqKpc"
-        name: "US-Iran War LIVE: Iranian Navy Claims Attack On USS Abraham Lincoln, West Asia War Explodes | WION"
-        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-31T19:50:51.984Z"
+  exported_at: "2026-03-31T20:35:45.187Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-31T19:50:51.950Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-31T20:35:45.158Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
