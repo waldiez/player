@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260331T142712.837Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260331T160031.301Z-l4t35t"
   type: "state"
-  created: "2026-03-31T14:27:12.837Z"
+  created: "2026-03-31T16:00:31.301Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T142712.837Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T160031.301Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ucsdYW8VkYk"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "eQKcP2F_MTk"
+        name: "LIVE |Iran Unleashes Hell On Israel’s War Machine? Fresh Strikes Hit Bibi’s Missile Production Sites"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KveG-nKJrgE"
-        name: "US Iran War LIVE | 50,000+ Troops: Trump Planning to Invade Iran? | Vantage on Firstpost"
-        artist: "Firstpost"
+        videoId: "SgFEKM1_pzg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Festival Update"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y_e5GSVhITM"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
+        videoId: "s-2yXXVTGsA"
+        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "I_hD2RlrN18"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "Ke8Vw8Osx0M"
+        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cgGp2U1Q8ik"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        videoId: "5QxOomeWLr8"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 31 March 2026 || World News Bangla ||"
+        artist: "DESH TV NEWS 72"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gAe5XE7CGSo"
+        name: "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Um10azdJ8H0"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dwF9Aqn-70Q"
-        name: "Iran strikes tanker after Trump power plant threats | Reuters World News"
-        artist: "Reuters"
+        videoId: "gFjGim5Kr5I"
+        name: "West Asia War LIVE: US President Donald Trump Mocks Saudi Crown Prince MBS Amid Iran War"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-31T14:27:12.837Z"
+  exported_at: "2026-03-31T16:00:31.301Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-31T14:27:12.800Z"
+  source_generated_at: "2026-03-31T16:00:31.265Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T14:27:12.800Z",
+    "generatedAt": "2026-03-31T16:00:31.265Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ucsdYW8VkYk",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "eQKcP2F_MTk",
+            "name": "LIVE |Iran Unleashes Hell On Israel’s War Machine? Fresh Strikes Hit Bibi’s Missile Production Sites",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "KveG-nKJrgE",
-            "name": "US Iran War LIVE | 50,000+ Troops: Trump Planning to Invade Iran? | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "SgFEKM1_pzg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Festival Update"
         },
         {
             "mood": "storm",
-            "videoId": "Y_e5GSVhITM",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
+            "videoId": "s-2yXXVTGsA",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "I_hD2RlrN18",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "Ke8Vw8Osx0M",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "cgGp2U1Q8ik",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "videoId": "5QxOomeWLr8",
+            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 31 March 2026 || World News Bangla ||",
+            "artist": "DESH TV NEWS 72"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gAe5XE7CGSo",
+            "name": "LIVE: Iran’s ‘Kheibar’ Missile Hits Netanyahu’s Office? | Israel-Iran War Update | US LIVE | Iran",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "Um10azdJ8H0",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dwF9Aqn-70Q",
-            "name": "Iran strikes tanker after Trump power plant threats | Reuters World News",
-            "artist": "Reuters"
+            "videoId": "gFjGim5Kr5I",
+            "name": "West Asia War LIVE: US President Donald Trump Mocks Saudi Crown Prince MBS Amid Iran War",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
