@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260331T125857.362Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260331T142712.837Z-l4t35t"
   type: "state"
-  created: "2026-03-31T12:58:57.362Z"
+  created: "2026-03-31T14:27:12.837Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T125857.362Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260331T142712.837Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ke8Vw8Osx0M"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "ucsdYW8VkYk"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5QxOomeWLr8"
-        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 31 March 2026 || World News Bangla ||"
-        artist: "DESH TV NEWS 72"
+        videoId: "KveG-nKJrgE"
+        name: "US Iran War LIVE | 50,000+ Troops: Trump Planning to Invade Iran? | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gry5UE71Dyk"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 31.03.2026 | Sangsad | Parliament | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "Y_e5GSVhITM"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DNDbcvMdSbE"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (31.03.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "I_hD2RlrN18"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eNAxxt0ynhU"
+        videoId: "cgGp2U1Q8ik"
         name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "md5wA-esX7E"
-        name: "News Ki Pathshala Live | Netanyahu ने ट्रंप को दिया झटका ! | Iran Israel War | World News |Netanyahu"
-        artist: "Times Now Navbharat"
+        videoId: "Um10azdJ8H0"
+        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "13xJha22vCY"
-        name: "News Ki Pathshala Live | ईरान नॉनस्टॉप मार रहा ! | Iran Attack America | World News | Trump | Iran"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pGwN27_VP_A"
-        name: "US Iran War LIVE: Trump Wants Arab Nations to Pay for Iran War? White House Reveals Plan | Firstpost"
-        artist: "Firstpost"
+        videoId: "dwF9Aqn-70Q"
+        name: "Iran strikes tanker after Trump power plant threats | Reuters World News"
+        artist: "Reuters"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-03-31T12:58:57.362Z"
+  exported_at: "2026-03-31T14:27:12.837Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-03-31T12:58:57.333Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-03-31T14:27:12.800Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
