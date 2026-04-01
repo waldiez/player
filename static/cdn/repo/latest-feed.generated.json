@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T10:00:59.089Z",
+    "generatedAt": "2026-04-01T11:44:25.318Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DWdFomwF6FI",
-            "name": "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
+            "videoId": "96flsqZTqyw",
+            "name": "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "CNoMpIve_cs",
-            "name": "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G",
+            "videoId": "02p_rZ3XLLc",
+            "name": "LIVE: Iran, Hezbollah & Houthis Launch Mass Attack on Israel | US-Iran War Day 31 | America | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EiEduuYfGn4",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ao3M8toij9k",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xxe4_pyl5sU",
+            "name": "US vs Iran War LIVE: Trump to End the War With Strait of Hormuz Still Shut? | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "xp-3hOTNi6A",
-            "name": "Today's Breaking News Live : US-Iran Israel War | Middle East War News | 100  बड़ी खबर | US Army",
+            "videoId": "QMcFmusDMzw",
+            "name": "Iran US War - Latest Update || ARY News 2 PM Headlines || 1 April 2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CLthKphsBCM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QwwQHn8OqTY",
+            "name": "अप्रैल शुरू होते ही ईरान का बड़ा धमाका! LIVE | इजरायल पर फिर अटैक |ट्रंप के उड़ गए होश! | World News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "yhTyUaeTYDY",
-            "name": "West Asia War LIVE: US Drops More Bunker Buster Bombs on Iran | N18G",
-            "artist": "Firstpost"
+            "videoId": "t2biKEoby-w",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "fgV6jdwIVZA",
-            "name": "Iran US Israel War News LIVE: पलट गए ट्रंप!, सरेंडर! LIVE | Trump | Netanyahu | World War",
-            "artist": "ABP NEWS"
+            "videoId": "suN5Tn84F3E",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 01.04.2026 | Latest News | Constitution | Songsad | Parliament",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "EM3tEW6NCAA",
-            "name": "Pakistan Ceasefire Violation Live:  पाकिस्तान ने LOC पर तोड़ा सीजफायर | Breaking | India News",
-            "artist": "India News"
+            "videoId": "UyuHKt3oy14",
+            "name": "| Israel Iran War New Twist | Israel Iran War Latest News போரில் திடீர் ட்விஸ்ட்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
