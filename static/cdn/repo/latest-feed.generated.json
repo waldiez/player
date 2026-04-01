@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T16:05:29.904Z",
+    "generatedAt": "2026-04-01T17:43:06.021Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "I13K3Ku-ClY",
-            "name": "Gujarati News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Latest Gujarati News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "ELWnqbQMkhI",
+            "name": "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "gfj58nCdyQw",
-            "name": "NO END TO IRAN WAR! | LIVE: Iran To Strike US Tech Firms; Trump To Send US Troops On Ground Soon",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RGRjrDtAiTU",
-            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C7DTxGA6yM4",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "videoId": "WOAP5mLrQR0",
+            "name": "Israel-Iran War LIVE: Chemical Warehouse Destroyed in Southern Israel Barrage | Haifa | Adama | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "moFr7hHGq5w",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "eQxjbpWXWUM",
+            "name": "Debate With Arnab LIVE: Dumped By The Allies, Trump Signals End Of NATO | #TrumpIsolated",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "KdJXXpww6PU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "9KXHu-3XxkA",
+            "name": "Gujarat Breaking News Live | Gujarat Political News | Local Body Election | BJP | Weather Forecast",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "8ieNPXrtXRc",
-            "name": "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G",
+            "videoId": "HslWDWGf5rg",
+            "name": "LIVE | Trump’s Ceasefire Hint: Real Breakthrough or Just Rhetoric? | Vantage on Firstpost | N18G",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VJnzu24y7Ww",
+            "name": "Firstpost LIVE: US Escalates Iran Air Campaign With B-52 Bombers Ahead of Trump's Address | Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wwdpyzZIUGE",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अब NATO से भिड़े ट्रंप! Iran Us War | Breaking",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6_2sctymlio",
+            "name": "Mic On Hai With Sucherita Kukreti LIVE: ईरान जंग में रूस की एंट्री!  Iran US War | Trump | Hormuz",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tnaVTD43O-M",
+            "name": "Aaj Ki Taaja Khabar Live: 01 April 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TBh2-zopcGU",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 01.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

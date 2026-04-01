@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260401T160529.937Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260401T174306.059Z-l4t35t"
   type: "state"
-  created: "2026-04-01T16:05:29.937Z"
+  created: "2026-04-01T17:43:06.059Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T160529.937Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T174306.059Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "I13K3Ku-ClY"
-        name: "Gujarati News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Latest Gujarati News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "ELWnqbQMkhI"
+        name: "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gfj58nCdyQw"
-        name: "NO END TO IRAN WAR! | LIVE: Iran To Strike US Tech Firms; Trump To Send US Troops On Ground Soon"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RGRjrDtAiTU"
-        name: "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "C7DTxGA6yM4"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        videoId: "WOAP5mLrQR0"
+        name: "Israel-Iran War LIVE: Chemical Warehouse Destroyed in Southern Israel Barrage | Haifa | Adama | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "moFr7hHGq5w"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "eQxjbpWXWUM"
+        name: "Debate With Arnab LIVE: Dumped By The Allies, Trump Signals End Of NATO | #TrumpIsolated"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KdJXXpww6PU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "9KXHu-3XxkA"
+        name: "Gujarat Breaking News Live | Gujarat Political News | Local Body Election | BJP | Weather Forecast"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8ieNPXrtXRc"
-        name: "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G"
+        videoId: "HslWDWGf5rg"
+        name: "LIVE | Trump’s Ceasefire Hint: Real Breakthrough or Just Rhetoric? | Vantage on Firstpost | N18G"
         artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VJnzu24y7Ww"
+        name: "Firstpost LIVE: US Escalates Iran Air Campaign With B-52 Bombers Ahead of Trump's Address | Iran War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wwdpyzZIUGE"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अब NATO से भिड़े ट्रंप! Iran Us War | Breaking"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6_2sctymlio"
+        name: "Mic On Hai With Sucherita Kukreti LIVE: ईरान जंग में रूस की एंट्री!  Iran US War | Trump | Hormuz"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tnaVTD43O-M"
+        name: "Aaj Ki Taaja Khabar Live: 01 April 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TBh2-zopcGU"
+        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 01.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-01T16:05:29.937Z"
+  exported_at: "2026-04-01T17:43:06.059Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-01T16:05:29.904Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-01T17:43:06.021Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
