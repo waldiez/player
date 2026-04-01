@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T22:29:34.320Z",
+    "generatedAt": "2026-04-01T23:29:51.837Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eXVzPeFFAAk",
-            "name": "World News Live : ईरान के निशाने पर Google, Apple, Teslaजैसी बड़ी कम्पनी! भड़के ट्रंप! Iran | USA |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CFsqzcoq8Ds",
-            "name": "US Iran War LIVE: UAE Pushes Military Option to Reopen Strait of Hormuz Amid Iranian Attacks | N18G",
+            "videoId": "wljL3A4ZUV4",
+            "name": "US Iran War LIVE: US Drops 907 Kilo-Heavy Bunker Buster Bombs on Iran | West Asia War",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "PptmvCRoR_M",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (01.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "2kmUFlDhhus",
+            "name": "🔴LIVE: Iran குறிவைத்த அந்த நிறுவனம்.. மிரண்டுபோன USA!.. என்ன செய்யப்போகிறார் Trump? | Tamil News",
+            "artist": "News18 Tamil Nadu"
         },
         {
             "mood": "storm",
-            "videoId": "6fsyTuEdkWw",
-            "name": "Today Headlines - 01 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "R1iBVsA8vu0",
+            "name": "Middle East On FIRE | Gulf in Flames: Iran’s Brutal Strikes Shock World | Iran US War Live | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "6z3GaWnV7yk",
-            "name": "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''",
-            "artist": "Sathiyam News"
+            "videoId": "vr4tJfR5tkU",
+            "name": "LIVE: Countdown to Artemis II Launch: NASA coverage of moon mission blast off",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "_d7MPjrkKHY",
-            "name": "🔴LIVE:Iran | America | போரில் திடீர் ட்விஸ்ட் - இஸ்ரேலின் முடிவால் அதிர்ச்சி",
-            "artist": "Sathiyam News"
+            "videoId": "t-4V8HC8bsY",
+            "name": "World News Live: ईरान युद्ध पर रूस का बड़ा बयान,ट्रंप बौखलाए, दहशत में दुनिया! Iran | Russia | USA |",
+            "artist": "Times Now Bihar Jharkhand"
         }
     ],
     "sourceFilters": {
