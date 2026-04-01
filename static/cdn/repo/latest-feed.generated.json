@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T04:42:43.124Z",
+    "generatedAt": "2026-04-01T06:23:15.896Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MaPtBRCivxc",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 01 April 2026 || World News Bangla ||",
-            "artist": "DESH TV NEWS 72"
+            "videoId": "atZ4X-Bs59c",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "XQHuHN1_JAY",
-            "name": "LIVE | Trump's Net Approval Rating Falls To Minus 18 As Iran War Drags | People of US Want An END",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zYuAeIg6GTg",
-            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gXvto7uAGBM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Festival Update"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7rU5Bze2W4c",
-            "name": "LIVE | Iran’s Hidden Strength Shocks Experts — Is Trump Really Getting Nervous Now? | IRAN WAR NEWS",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kX6ZXl2j3yU",
-            "name": "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SKoPMeNOniI",
-            "name": "US Iran War LIVE | US Jet Damaged, Haifa Targeted: War Escalate on Day 31 | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cgGp2U1Q8ik",
+            "videoId": "HnyTWm-O_EE",
             "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "4cTlE00QY8Q",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - March 31, 2026",
-            "artist": "ABC News"
+            "videoId": "8YwQ6bKUS8M",
+            "name": "Live: LAVROV JUST ISSUED DEADLY ULTIMATUM – Will Russia & Iran NOW CRUSH US FORCES? Trump STUNNED",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PwcKNSc4gBk",
+            "name": "Trump Claims Iran War Could End Soon, “WAR WON’T LAST LONG” | Mojtaba Khamenei | LIVE WAR NEWS",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lT5Vh2fB_4E",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 01 April'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DWdFomwF6FI",
+            "name": "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DBG2_pQKoHU",
+            "name": "LIVE IRAN WAR NEWS | Iran-US Tensions Escalate as Tehran Sends Message to American Forces | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
