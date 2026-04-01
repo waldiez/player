@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T18:50:35.590Z",
+    "generatedAt": "2026-04-01T19:54:01.801Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "N4AEGRPrvBs",
-            "name": "News Ki Pathshala Live | युद्ध छोड़कर निकलने वाले हैं ट्रंप? | Iran Israel War Update | World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "2kmUFlDhhus",
+            "name": "🔴LIVE: Iran குறிவைத்த அந்த நிறுவனம்.. மிரண்டுபோன USA!.. என்ன செய்யப்போகிறார் Trump? | Tamil News",
+            "artist": "News18 Tamil Nadu"
         },
         {
             "mood": "storm",
-            "videoId": "IPzJAhczM-k",
-            "name": "US Iran War LIVE: Trump Announces Iran War Exit Timeline | US Leaving Iran \"Very Soon\"? |",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6z3GaWnV7yk",
-            "name": "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_d7MPjrkKHY",
-            "name": "🔴LIVE:Iran | America | போரில் திடீர் ட்விஸ்ட் - இஸ்ரேலின் முடிவால் அதிர்ச்சி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uma0bI9jmxs",
-            "name": "LIVE | ‘Two To Three Weeks’: Trump Signals End Of War, Says U.S To Leave Iran ‘Very Soon’ | N18G",
+            "videoId": "R1iBVsA8vu0",
+            "name": "Middle East On FIRE | Gulf in Flames: Iran’s Brutal Strikes Shock World | Iran US War Live | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "NRoiOWM15nk",
-            "name": "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "vr4tJfR5tkU",
+            "name": "LIVE: Countdown to Artemis II Launch: NASA coverage of moon mission blast off",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "T3nCv9nCB-8",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "6fsyTuEdkWw",
+            "name": "Today Headlines - 01 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "EYjYEAqG8nk",
-            "name": "Latest News Live | News 24x7 |  Today Punjabi News | Iran Israel War | SGPC | Chandigarh News",
-            "artist": "News18 Punjab"
+            "videoId": "FkiLkOa_iGU",
+            "name": "🔴LIVE: April 1 rule changes | இந்தியாவில் 10 தலைகீழ் மெகா மாற்றங்கள்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ELWnqbQMkhI",
+            "name": "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
