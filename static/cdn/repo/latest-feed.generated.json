@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T17:43:06.021Z",
+    "generatedAt": "2026-04-01T18:50:35.590Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ELWnqbQMkhI",
-            "name": "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WOAP5mLrQR0",
-            "name": "Israel-Iran War LIVE: Chemical Warehouse Destroyed in Southern Israel Barrage | Haifa | Adama | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eQxjbpWXWUM",
-            "name": "Debate With Arnab LIVE: Dumped By The Allies, Trump Signals End Of NATO | #TrumpIsolated",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9KXHu-3XxkA",
-            "name": "Gujarat Breaking News Live | Gujarat Political News | Local Body Election | BJP | Weather Forecast",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HslWDWGf5rg",
-            "name": "LIVE | Trump’s Ceasefire Hint: Real Breakthrough or Just Rhetoric? | Vantage on Firstpost | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VJnzu24y7Ww",
-            "name": "Firstpost LIVE: US Escalates Iran Air Campaign With B-52 Bombers Ahead of Trump's Address | Iran War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wwdpyzZIUGE",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अब NATO से भिड़े ट्रंप! Iran Us War | Breaking",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6_2sctymlio",
-            "name": "Mic On Hai With Sucherita Kukreti LIVE: ईरान जंग में रूस की एंट्री!  Iran US War | Trump | Hormuz",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tnaVTD43O-M",
-            "name": "Aaj Ki Taaja Khabar Live: 01 April 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News",
+            "videoId": "N4AEGRPrvBs",
+            "name": "News Ki Pathshala Live | युद्ध छोड़कर निकलने वाले हैं ट्रंप? | Iran Israel War Update | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "TBh2-zopcGU",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 01.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "IPzJAhczM-k",
+            "name": "US Iran War LIVE: Trump Announces Iran War Exit Timeline | US Leaving Iran \"Very Soon\"? |",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6z3GaWnV7yk",
+            "name": "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_d7MPjrkKHY",
+            "name": "🔴LIVE:Iran | America | போரில் திடீர் ட்விஸ்ட் - இஸ்ரேலின் முடிவால் அதிர்ச்சி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uma0bI9jmxs",
+            "name": "LIVE | ‘Two To Three Weeks’: Trump Signals End Of War, Says U.S To Leave Iran ‘Very Soon’ | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NRoiOWM15nk",
+            "name": "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "T3nCv9nCB-8",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EYjYEAqG8nk",
+            "name": "Latest News Live | News 24x7 |  Today Punjabi News | Iran Israel War | SGPC | Chandigarh News",
+            "artist": "News18 Punjab"
         }
     ],
     "sourceFilters": {

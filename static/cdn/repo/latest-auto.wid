@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260401T174306.059Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260401T185035.628Z-l4t35t"
   type: "state"
-  created: "2026-04-01T17:43:06.059Z"
+  created: "2026-04-01T18:50:35.628Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T174306.059Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T185035.628Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ELWnqbQMkhI"
-        name: "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WOAP5mLrQR0"
-        name: "Israel-Iran War LIVE: Chemical Warehouse Destroyed in Southern Israel Barrage | Haifa | Adama | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eQxjbpWXWUM"
-        name: "Debate With Arnab LIVE: Dumped By The Allies, Trump Signals End Of NATO | #TrumpIsolated"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9KXHu-3XxkA"
-        name: "Gujarat Breaking News Live | Gujarat Political News | Local Body Election | BJP | Weather Forecast"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HslWDWGf5rg"
-        name: "LIVE | Trump’s Ceasefire Hint: Real Breakthrough or Just Rhetoric? | Vantage on Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VJnzu24y7Ww"
-        name: "Firstpost LIVE: US Escalates Iran Air Campaign With B-52 Bombers Ahead of Trump's Address | Iran War"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wwdpyzZIUGE"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अब NATO से भिड़े ट्रंप! Iran Us War | Breaking"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6_2sctymlio"
-        name: "Mic On Hai With Sucherita Kukreti LIVE: ईरान जंग में रूस की एंट्री!  Iran US War | Trump | Hormuz"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tnaVTD43O-M"
-        name: "Aaj Ki Taaja Khabar Live: 01 April 2026 | Israel Iran War | Trump | PM Modi |LPG Crisis | World News"
+        videoId: "N4AEGRPrvBs"
+        name: "News Ki Pathshala Live | युद्ध छोड़कर निकलने वाले हैं ट्रंप? | Iran Israel War Update | World News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TBh2-zopcGU"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 01.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "IPzJAhczM-k"
+        name: "US Iran War LIVE: Trump Announces Iran War Exit Timeline | US Leaving Iran \"Very Soon\"? |"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6z3GaWnV7yk"
+        name: "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_d7MPjrkKHY"
+        name: "🔴LIVE:Iran | America | போரில் திடீர் ட்விஸ்ட் - இஸ்ரேலின் முடிவால் அதிர்ச்சி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uma0bI9jmxs"
+        name: "LIVE | ‘Two To Three Weeks’: Trump Signals End Of War, Says U.S To Leave Iran ‘Very Soon’ | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NRoiOWM15nk"
+        name: "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T3nCv9nCB-8"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EYjYEAqG8nk"
+        name: "Latest News Live | News 24x7 |  Today Punjabi News | Iran Israel War | SGPC | Chandigarh News"
+        artist: "News18 Punjab"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-01T17:43:06.059Z"
+  exported_at: "2026-04-01T18:50:35.628Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-01T17:43:06.021Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-01T18:50:35.590Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
