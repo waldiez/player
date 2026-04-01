@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260401T015209.926Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260401T044243.218Z-l4t35t"
   type: "state"
-  created: "2026-04-01T01:52:09.926Z"
+  created: "2026-04-01T04:42:43.218Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T015209.926Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T044243.218Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "N-PuIKwVPyY"
-        name: "Sandeep Chaudhary LIVE: जारी रहेगी लड़ाई.. तो आएगी मंदी और महंगाई? | War | Rupee vs Dollar Crisis"
-        artist: "ABP NEWS"
+        videoId: "MaPtBRCivxc"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 01 April 2026 || World News Bangla ||"
+        artist: "DESH TV NEWS 72"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Lt5d__WJHwo"
-        name: "LIVE | ईरान-अमेरिका जंग 31 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "XQHuHN1_JAY"
+        name: "LIVE | Trump's Net Approval Rating Falls To Minus 18 As Iran War Drags | People of US Want An END"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "96flsqZTqyw"
-        name: "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்"
-        artist: "Sathiyam News"
+        videoId: "zYuAeIg6GTg"
+        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-3gCmyBOBTM"
-        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
-        artist: "Global Pulse Network"
+        videoId: "gXvto7uAGBM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Festival Update"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EiEduuYfGn4"
-        name: "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (01.04.2026) | 7 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "7rU5Bze2W4c"
+        name: "LIVE | Iran’s Hidden Strength Shocks Experts — Is Trump Really Getting Nervous Now? | IRAN WAR NEWS"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eFRvOJywJqs"
-        name: "LIVE🔴Trump’s Final Warning to Iran | “War Won’t Last Long” Claim Shocks World"
-        artist: "NTV"
+        videoId: "kX6ZXl2j3yU"
+        name: "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6KG9Kf4o6dk"
-        name: "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now"
+        videoId: "SKoPMeNOniI"
+        name: "US Iran War LIVE | US Jet Damaged, Haifa Targeted: War Escalate on Day 31 | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b3EFSJeNErg"
-        name: "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்"
-        artist: "Sathiyam News"
+        videoId: "cgGp2U1Q8ik"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3zIRrnUnI3w"
-        name: "🔴LIVE : Trump | Iran | China | போரை தலைகீழாக திருப்பிய ட்ரம்ப்"
-        artist: "Sathiyam News"
+        videoId: "4cTlE00QY8Q"
+        name: "ABC World News Tonight with David Muir Full Broadcast - March 31, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-01T01:52:09.926Z"
+  exported_at: "2026-04-01T04:42:43.218Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-01T01:52:09.893Z"
+  source_generated_at: "2026-04-01T04:42:43.124Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
