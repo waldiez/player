@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T06:23:15.896Z",
+    "generatedAt": "2026-04-01T08:11:39.257Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "atZ4X-Bs59c",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "Times Now"
+            "videoId": "UyuHKt3oy14",
+            "name": "| Israel Iran War New Twist | Israel Iran War Latest News போரில் திடீர் ட்விஸ்ட்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "HnyTWm-O_EE",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "kRx67G41xYs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "8YwQ6bKUS8M",
-            "name": "Live: LAVROV JUST ISSUED DEADLY ULTIMATUM – Will Russia & Iran NOW CRUSH US FORCES? Trump STUNNED",
-            "artist": "Times Now World"
+            "videoId": "6z3GaWnV7yk",
+            "name": "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "PwcKNSc4gBk",
-            "name": "Trump Claims Iran War Could End Soon, “WAR WON’T LAST LONG” | Mojtaba Khamenei | LIVE WAR NEWS",
+            "videoId": "CFMqGxGmO_w",
+            "name": "News Ki Pathshala Live | America Attack On isfahan | Iran पर अमेरिका का जबरदस्त स्ट्राइक ! | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Kbz8k0MHaXU",
+            "name": "LIVE: Iran & Houthis Launch Fresh Attacks Even As Donald Trump Claims War Could End In Weeks | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "lT5Vh2fB_4E",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 01 April'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "wYf4MEGrH6g",
+            "name": "अप्रैल शुरू होते ही ईरान का बड़ा धमाका! LIVE | इजरायल पर फिर अटैक |ट्रंप के उड़ गए होश! | World News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "DWdFomwF6FI",
-            "name": "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
+            "videoId": "grAexk9joAw",
+            "name": "US Iran War LIVE: Trump May Exit Iran War Without Reopening of Hormuz Despite Oil Crisis",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "DBG2_pQKoHU",
-            "name": "LIVE IRAN WAR NEWS | Iran-US Tensions Escalate as Tehran Sends Message to American Forces | N18G",
-            "artist": "CNN-News18"
+            "videoId": "NjEKnCZp6Yc",
+            "name": "US Iran War LIVE: Will Arabs Help Pay for Iran War? Trump Shows Growing Interest | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
