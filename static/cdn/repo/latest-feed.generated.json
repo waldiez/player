@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T14:57:36.493Z",
+    "generatedAt": "2026-04-01T16:05:29.904Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JK08_wZ5WQo",
-            "name": "US-Iran War LIVE: Trump to End the War With Strait of Hormuz Still Shut? | Vantage on Firstpost",
+            "videoId": "I13K3Ku-ClY",
+            "name": "Gujarati News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Latest Gujarati News | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gfj58nCdyQw",
+            "name": "NO END TO IRAN WAR! | LIVE: Iran To Strike US Tech Firms; Trump To Send US Troops On Ground Soon",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RGRjrDtAiTU",
+            "name": "🔴 LIVE | ସନ୍ଧ୍ୟା ୬ଟାର ବଡ଼ ଖବର | 6PM Bulletin | Breaking News Today | Kanak News | Odisha News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C7DTxGA6yM4",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "moFr7hHGq5w",
+            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KdJXXpww6PU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8ieNPXrtXRc",
+            "name": "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G",
             "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yBg5vDlSGKY",
-            "name": "US Iran War News LIVE | US Israel Iran War LIVE Updates | Trump's Statement on War LIVE | Trump News",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_S3aQo18PTE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MaPtBRCivxc",
-            "name": "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 01 April 2026 || World News Bangla ||",
-            "artist": "DESH TV NEWS 72"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bWUzpK2wCXg",
-            "name": "News Ki Pathshala Live | युद्ध छोड़कर निकलने वाले हैं ट्रंप? | Iran Israel War Update | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e4p4acOgvD4",
-            "name": "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
-            "artist": "News18 India"
         }
     ],
     "sourceFilters": {
