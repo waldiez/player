@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260401T130035.282Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260401T145736.526Z-l4t35t"
   type: "state"
-  created: "2026-04-01T13:00:35.282Z"
+  created: "2026-04-01T14:57:36.526Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T130035.282Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T145736.526Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "moFr7hHGq5w"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KdJXXpww6PU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8ieNPXrtXRc"
-        name: "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G"
+        videoId: "JK08_wZ5WQo"
+        name: "US-Iran War LIVE: Trump to End the War With Strait of Hormuz Still Shut? | Vantage on Firstpost"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DCX_kSINUvE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "yBg5vDlSGKY"
+        name: "US Iran War News LIVE | US Israel Iran War LIVE Updates | Trump's Statement on War LIVE | Trump News"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LSMeJJeekzk"
-        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
-        artist: "Times Now World"
+        videoId: "_S3aQo18PTE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iiHXS7B4vMQ"
-        name: "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury"
-        artist: "Firstpost"
+        videoId: "MaPtBRCivxc"
+        name: "🔴LIVE: EKATTOR TV LIVE | বাংলা খবর BBC World News 01 April 2026 || World News Bangla ||"
+        artist: "DESH TV NEWS 72"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5RuCSHfFuwg"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 01.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "bWUzpK2wCXg"
+        name: "News Ki Pathshala Live | युद्ध छोड़कर निकलने वाले हैं ट्रंप? | Iran Israel War Update | World News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e4p4acOgvD4"
+        name: "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei"
+        artist: "News18 India"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-01T13:00:35.282Z"
+  exported_at: "2026-04-01T14:57:36.526Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-01T13:00:35.249Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-01T14:57:36.493Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
