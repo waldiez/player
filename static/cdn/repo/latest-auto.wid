@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260401T195401.835Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260401T203651.405Z-l4t35t"
   type: "state"
-  created: "2026-04-01T19:54:01.835Z"
+  created: "2026-04-01T20:36:51.405Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T195401.835Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260401T203651.405Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2kmUFlDhhus"
-        name: "🔴LIVE: Iran குறிவைத்த அந்த நிறுவனம்.. மிரண்டுபோன USA!.. என்ன செய்யப்போகிறார் Trump? | Tamil News"
-        artist: "News18 Tamil Nadu"
+        videoId: "PptmvCRoR_M"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (01.04.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R1iBVsA8vu0"
-        name: "Middle East On FIRE | Gulf in Flames: Iran’s Brutal Strikes Shock World | Iran US War Live | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vr4tJfR5tkU"
-        name: "LIVE: Countdown to Artemis II Launch: NASA coverage of moon mission blast off"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6fsyTuEdkWw"
-        name: "Today Headlines - 01 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FkiLkOa_iGU"
-        name: "🔴LIVE: April 1 rule changes | இந்தியாவில் 10 தலைகீழ் மெகா மாற்றங்கள்"
+        videoId: "6z3GaWnV7yk"
+        name: "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ELWnqbQMkhI"
-        name: "LIVE: Trump SHAKES The World With BIGGEST War Warning , Is World War III On The Brink? | US News"
-        artist: "Times Now"
+        videoId: "_d7MPjrkKHY"
+        name: "🔴LIVE:Iran | America | போரில் திடீர் ட்விஸ்ட் - இஸ்ரேலின் முடிவால் அதிர்ச்சி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uma0bI9jmxs"
+        name: "LIVE | ‘Two To Three Weeks’: Trump Signals End Of War, Says U.S To Leave Iran ‘Very Soon’ | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NRoiOWM15nk"
+        name: "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-01T19:54:01.835Z"
+  exported_at: "2026-04-01T20:36:51.405Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-01T19:54:01.801Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-01T20:36:51.373Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
