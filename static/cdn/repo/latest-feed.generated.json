@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-03-31T23:27:55.302Z",
+    "generatedAt": "2026-04-01T01:52:09.893Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AgP9ZGLtfdo",
-            "name": "Today Headlines - 31 Mar 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "N-PuIKwVPyY",
+            "name": "Sandeep Chaudhary LIVE: जारी रहेगी लड़ाई.. तो आएगी मंदी और महंगाई? | War | Rupee vs Dollar Crisis",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZNNKXEzHv9I",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (31.03.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "Lt5d__WJHwo",
+            "name": "LIVE | ईरान-अमेरिका जंग 31 मार्च 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "pKUakL6WJ9M",
-            "name": "🔴LIVE :  Iran War Trump Video | ஈரானை நாசமாக்கிய ட்ரம்ப்.. மொத்தமாக முடிந்த கதை - பதற்றத்தில் உலகம்",
+            "videoId": "96flsqZTqyw",
+            "name": "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "X7pCF6zUqp8",
-            "name": "US Iran War LIVE: Iran Targets Kuwaiti Oil Tanker Near UAE Port, NATO on Guard | N18G",
-            "artist": "Firstpost"
+            "videoId": "-3gCmyBOBTM",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "AAo12FRj6bk",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
+            "videoId": "EiEduuYfGn4",
+            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (01.04.2026) | 7 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "g4XDvj8gs2M",
-            "name": "US Iran War LIVE | Trump says the US \"Won't Help\" in Strait of Hormuz | Vantage on Firstpost | N18G",
-            "artist": "Firstpost"
+            "videoId": "eFRvOJywJqs",
+            "name": "LIVE🔴Trump’s Final Warning to Iran | “War Won’t Last Long” Claim Shocks World",
+            "artist": "NTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6KG9Kf4o6dk",
+            "name": "Epstein Files NEWS LIVE: Senate Lawmakers Drop Bombshell Updates | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b3EFSJeNErg",
+            "name": "🔴LIVE : US Iran War Latest News | மொத்த சீனையும் மாற்றிய ஈரான்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3zIRrnUnI3w",
+            "name": "🔴LIVE : Trump | Iran | China | போரை தலைகீழாக திருப்பிய ட்ரம்ப்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
