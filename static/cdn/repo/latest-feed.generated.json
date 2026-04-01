@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-01T08:11:39.257Z",
+    "generatedAt": "2026-04-01T10:00:59.089Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UyuHKt3oy14",
-            "name": "| Israel Iran War New Twist | Israel Iran War Latest News போரில் திடீர் ட்விஸ்ட்",
-            "artist": "Sathiyam News"
+            "videoId": "DWdFomwF6FI",
+            "name": "Iran America War 1 April  2026 LIVE News | Iran America War | Israel attacks Iran | Khamenei",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "kRx67G41xYs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "CNoMpIve_cs",
+            "name": "US Iran War LIVE: Pentagon Asks Iran to \"Make a Deal\" or Else \"War Will Intensify\" | West Asia |N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "6z3GaWnV7yk",
-            "name": "🔴LIVE: America | Iran | War | பேரழிவு ஆரம்பம்.. ''முடிந்தால் மோதிப்பார்..''",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CFMqGxGmO_w",
-            "name": "News Ki Pathshala Live | America Attack On isfahan | Iran पर अमेरिका का जबरदस्त स्ट्राइक ! | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kbz8k0MHaXU",
-            "name": "LIVE: Iran & Houthis Launch Fresh Attacks Even As Donald Trump Claims War Could End In Weeks | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wYf4MEGrH6g",
-            "name": "अप्रैल शुरू होते ही ईरान का बड़ा धमाका! LIVE | इजरायल पर फिर अटैक |ट्रंप के उड़ गए होश! | World News",
+            "videoId": "xp-3hOTNi6A",
+            "name": "Today's Breaking News Live : US-Iran Israel War | Middle East War News | 100  बड़ी खबर | US Army",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "grAexk9joAw",
-            "name": "US Iran War LIVE: Trump May Exit Iran War Without Reopening of Hormuz Despite Oil Crisis",
+            "videoId": "yhTyUaeTYDY",
+            "name": "West Asia War LIVE: US Drops More Bunker Buster Bombs on Iran | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "NjEKnCZp6Yc",
-            "name": "US Iran War LIVE: Will Arabs Help Pay for Iran War? Trump Shows Growing Interest | N18G",
-            "artist": "Firstpost"
+            "videoId": "fgV6jdwIVZA",
+            "name": "Iran US Israel War News LIVE: पलट गए ट्रंप!, सरेंडर! LIVE | Trump | Netanyahu | World War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EM3tEW6NCAA",
+            "name": "Pakistan Ceasefire Violation Live:  पाकिस्तान ने LOC पर तोड़ा सीजफायर | Breaking | India News",
+            "artist": "India News"
         }
     ],
     "sourceFilters": {
