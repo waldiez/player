@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T174301.079Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260402T184426.328Z-l4t35t"
   type: "state"
-  created: "2026-04-02T17:43:01.079Z"
+  created: "2026-04-02T18:44:26.328Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T174301.079Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T184426.328Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jM3wx6efcFg"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
+        videoId: "fj11wtxxdyE"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0cUrzIYfcgw"
-        name: "LIVE: Trump Tries to Convince US Public as Pezeshkian Pens Letter To Americans | Vantage | Firstpost"
-        artist: "Firstpost"
+        videoId: "j4CLanzKrQM"
+        name: "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dritHsqwdnw"
-        name: "🔴LIVE | Iran Final Attack | US on High Alert | Iran Israel War | Trump Statement | Ceasefire"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VivO9zLPtA8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Stream Bangla"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rQIO0mXsyA0"
-        name: "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்"
+        videoId: "8_xwWSpL1W0"
+        name: "🔴LIVE: Iran war | Trump | போரில் திருப்பம்.. உலகே எதிர்பாரா திருப்பம்.."
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tRpkIHupGSc"
-        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
-        artist: "ET Now"
+        videoId: "RKsJADpJMLQ"
+        name: "🔴LIVE: sathankulam case | சாத்தான்குளம் வழக்கு.. வெளியாகும் தண்டனை விவரம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gMS35xKeLbQ"
-        name: "US Iran War LIVE | Trump Says US Will Finish Job Soon, Signals More Strikes Ahead | Iran News | N18G"
-        artist: "CNN-News18"
+        videoId: "3k4dmwwcWwI"
+        name: "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QWGurOOnJwI"
-        name: "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?"
-        artist: "Thanthi TV"
+        videoId: "wZ4LPtx95gg"
+        name: "🔴LIVE: ''சல்லி சல்லியா நொறுங்க போகுது'' - அடித்து காலி செய்யும் ட்ரம்ப் - உருக்குலைந்த ஈரான்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ear5lF0UlQQ"
-        name: "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?"
-        artist: "Thanthi TV"
+        videoId: "nMgaUdSzS1k"
+        name: "US Iran War LIVE: Iran Launches Fresh Strikes on Israel After Trump’s Threat | West Asia War"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-QIfVIMzHIY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "lQHjw5So_Us"
+        name: "News Ki Pathshala Live | Sushant Sinha | तेल-गैस का संकट और बढ़ जाएगा? | Iran Israel War |LPG Crisis"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SVhNHpYADL0"
+        name: "US Iran War LIVE | Trump Claims Iran Wants Ceasefire: Will Iran Accept US Terms? |Vantage |Firstpost"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DwMfqK-bQ38"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T17:43:01.079Z"
+  exported_at: "2026-04-02T18:44:26.328Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T17:43:01.043Z"
+  source_generated_at: "2026-04-02T18:44:26.294Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
