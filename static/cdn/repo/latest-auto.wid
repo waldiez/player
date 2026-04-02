@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T095323.158Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260402T104413.229Z-l4t35t"
   type: "state"
-  created: "2026-04-02T09:53:23.158Z"
+  created: "2026-04-02T10:44:13.229Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T095323.158Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T104413.229Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ET-SK_Oo5JA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Today's Bangla News"
+        videoId: "Iq8YL8gaO74"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (02.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "grx3CIrMwuc"
-        name: "Live: :“Day 33 of War: Israel in Mourning Amid Rising Casualties”- Geo News"
-        artist: "Geo News"
+        videoId: "tRpkIHupGSc"
+        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DzdwWHeugiI"
-        name: "US Iran War LIVE: Why US is Expanding Air War With Deep Strike Missions | Vantage on Firstpost"
-        artist: "Firstpost"
+        videoId: "iOcdt_upqVE"
+        name: "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bFJsit2ZPXM"
-        name: "LIVE: Iran Targets US Tech Giants; Massive Strike on Amazon Cloud Hub in Bahrain | Tel Aviv | N18G"
-        artist: "News18 Urdu"
+        videoId: "QdkdxMQIJPs"
+        name: "Iran Israel Us War Update Live : युद्ध का 34वां दिन | Iran America War | Trump | World News | Iran"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pJb8n3Kp3Cg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC বাংলা NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6mjgj9Utcto"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "JSZ0LjFquYI"
+        name: "🔴LIVE:Tiruchirappalli | vijay | நெருங்கும் விஜய்.. அதிரும் திருச்சி கிழக்கு"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T09:53:23.158Z"
+  exported_at: "2026-04-02T10:44:13.229Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T09:53:23.125Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-02T10:44:13.194Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
