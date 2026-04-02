@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-02T01:28:15.581Z",
+    "generatedAt": "2026-04-02T04:23:15.182Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7b26R1ZRZ2I",
-            "name": "Iran Israel Us War Update Live : युद्ध का 33वां दिन | Iran America War | Trump | World News | Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "-aniKU8ioCc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World"
         },
         {
             "mood": "storm",
-            "videoId": "qMt5k013JGY",
-            "name": "LIVE: Artemis II Mission to the Moon Launch",
-            "artist": "ABC News"
+            "videoId": "0O4rTmW9x7Q",
+            "name": "WAR LIVE: U.S. Prepares Iran Ground Ops | Arak Nuclear Reactor Hit | Houthi Attack |Iran Attack LIVE",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "eXVzPeFFAAk",
-            "name": "World News Live : ईरान के निशाने पर Google, Apple, Teslaजैसी बड़ी कम्पनी! भड़के ट्रंप! Iran | USA |",
-            "artist": "Times Now Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CFsqzcoq8Ds",
-            "name": "US Iran War LIVE: UAE Pushes Military Option to Reopen Strait of Hormuz Amid Iranian Attacks | N18G",
+            "videoId": "bFlmOgMVv2s",
+            "name": "US Iran War LIVE: Drone Strikes Hit Kuwait, Tanker Hit Off Qatar Coast | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "PptmvCRoR_M",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (01.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "-7pj26oUYWY",
+            "name": "Iran US Israel War Latest News LIVE: टूटा NATO? | Trump | Starmer | Macron | War News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "6fsyTuEdkWw",
-            "name": "Today Headlines - 01 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "mcvDC62V_aY",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 1, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-x5xfsXrb-4",
+            "name": "LIVE: President Trump addresses the nation",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C7DTxGA6yM4",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lSDYyKvQ1p4",
+            "name": "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rQIO0mXsyA0",
+            "name": "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qT5Rf6HIp-0",
+            "name": "LIVE: Trump addresses the nation on the Iran war | NBC News",
+            "artist": "NBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6qIqpLYyIq4",
+            "name": "Iran Israel Us War Update Live : युद्ध का 34वां दिन | Iran America War | Trump | World News | Iran",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
