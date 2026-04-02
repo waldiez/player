@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-02T18:44:26.294Z",
+    "generatedAt": "2026-04-02T19:43:34.925Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "fj11wtxxdyE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "GAnBp1Kzv0M",
+            "name": "IRAN WAR NEWS | LIVE: ‘No Ceasefire, No Surrender’: Iran Hits Back Hard After Trump’s Recent Speech",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "j4CLanzKrQM",
-            "name": "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG",
-            "artist": "ABC News"
+            "videoId": "Ear5lF0UlQQ",
+            "name": "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "8_xwWSpL1W0",
-            "name": "🔴LIVE: Iran war | Trump | போரில் திருப்பம்.. உலகே எதிர்பாரா திருப்பம்..",
-            "artist": "Sathiyam News"
+            "videoId": "SZeBWGZ0UuM",
+            "name": "Today Headlines - 02 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "RKsJADpJMLQ",
-            "name": "🔴LIVE: sathankulam case | சாத்தான்குளம் வழக்கு.. வெளியாகும் தண்டனை விவரம்",
-            "artist": "Sathiyam News"
+            "videoId": "bRqsB75lMag",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "3k4dmwwcWwI",
-            "name": "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wZ4LPtx95gg",
-            "name": "🔴LIVE: ''சல்லி சல்லியா நொறுங்க போகுது'' - அடித்து காலி செய்யும் ட்ரம்ப் - உருக்குலைந்த ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nMgaUdSzS1k",
-            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Israel After Trump’s Threat | West Asia War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lQHjw5So_Us",
-            "name": "News Ki Pathshala Live | Sushant Sinha | तेल-गैस का संकट और बढ़ जाएगा? | Iran Israel War |LPG Crisis",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SVhNHpYADL0",
-            "name": "US Iran War LIVE | Trump Claims Iran Wants Ceasefire: Will Iran Accept US Terms? |Vantage |Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DwMfqK-bQ38",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "Tf1GcxmV69E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC বাংলা NEWS"
         }
     ],
     "sourceFilters": {
