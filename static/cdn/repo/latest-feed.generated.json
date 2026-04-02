@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-02T22:24:49.837Z",
+    "generatedAt": "2026-04-02T23:28:19.635Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DweOy5w6ouA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Vata Update Date "
+            "videoId": "SZeBWGZ0UuM",
+            "name": "Today Headlines - 02 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "57BKnQ2vmbM",
-            "name": "Live | Iran Israel us war Latest Situation | Iran’s Powerful Strike on Israel | High Alert Issued",
-            "artist": "Express News"
+            "videoId": "3k4dmwwcWwI",
+            "name": "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "bRqsB75lMag",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "nMgaUdSzS1k",
+            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Israel After Trump’s Threat | West Asia War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "Tf1GcxmV69E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "15kBRkhrXvU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fj11wtxxdyE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "j4CLanzKrQM",
-            "name": "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8_xwWSpL1W0",
-            "name": "🔴LIVE: Iran war | Trump | போரில் திருப்பம்.. உலகே எதிர்பாரா திருப்பம்..",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R43rjPSt48o",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Vata Update Date "
+            "videoId": "lQHjw5So_Us",
+            "name": "News Ki Pathshala Live | Sushant Sinha | तेल-गैस का संकट और बढ़ जाएगा? | Iran Israel War |LPG Crisis",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
