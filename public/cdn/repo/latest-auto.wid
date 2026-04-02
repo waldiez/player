@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T164945.285Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260402T174301.079Z-l4t35t"
   type: "state"
-  created: "2026-04-02T16:49:45.285Z"
+  created: "2026-04-02T17:43:01.079Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T164945.285Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T174301.079Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VvflER8Qr1s"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "jM3wx6efcFg"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-aniKU8ioCc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World"
+        videoId: "0cUrzIYfcgw"
+        name: "LIVE: Trump Tries to Convince US Public as Pezeshkian Pens Letter To Americans | Vantage | Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dKkB66O-a8Q"
-        name: "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "dritHsqwdnw"
+        name: "🔴LIVE | Iran Final Attack | US on High Alert | Iran Israel War | Trump Statement | Ceasefire"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5eu8Y5XBJUE"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "VivO9zLPtA8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Je_v7SSvH-Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "rQIO0mXsyA0"
+        name: "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tRpkIHupGSc"
+        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gMS35xKeLbQ"
+        name: "US Iran War LIVE | Trump Says US Will Finish Job Soon, Signals More Strikes Ahead | Iran News | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QWGurOOnJwI"
+        name: "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ear5lF0UlQQ"
+        name: "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-QIfVIMzHIY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T16:49:45.285Z"
+  exported_at: "2026-04-02T17:43:01.079Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T16:49:45.251Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-02T17:43:01.043Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

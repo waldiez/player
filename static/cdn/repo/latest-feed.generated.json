@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-02T16:49:45.251Z",
+    "generatedAt": "2026-04-02T17:43:01.043Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VvflER8Qr1s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "jM3wx6efcFg",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "-aniKU8ioCc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World"
+            "videoId": "0cUrzIYfcgw",
+            "name": "LIVE: Trump Tries to Convince US Public as Pezeshkian Pens Letter To Americans | Vantage | Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "dKkB66O-a8Q",
-            "name": "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "dritHsqwdnw",
+            "name": "🔴LIVE | Iran Final Attack | US on High Alert | Iran Israel War | Trump Statement | Ceasefire",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "5eu8Y5XBJUE",
-            "name": "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News",
-            "artist": "Kanak News"
+            "videoId": "VivO9zLPtA8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "Je_v7SSvH-Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "rQIO0mXsyA0",
+            "name": "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tRpkIHupGSc",
+            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gMS35xKeLbQ",
+            "name": "US Iran War LIVE | Trump Says US Will Finish Job Soon, Signals More Strikes Ahead | Iran News | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QWGurOOnJwI",
+            "name": "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ear5lF0UlQQ",
+            "name": "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-QIfVIMzHIY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         }
     ],
     "sourceFilters": {
