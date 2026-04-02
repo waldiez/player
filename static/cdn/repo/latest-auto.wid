@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T042315.217Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260402T060727.024Z-l4t35t"
   type: "state"
-  created: "2026-04-02T04:23:15.217Z"
+  created: "2026-04-02T06:07:27.024Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T042315.217Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T060727.024Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-aniKU8ioCc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World"
+        videoId: "FgGkvC-Tono"
+        name: "🔴LIVE :Iran | Donald Trump | Mojtaba Khamenei | ``ஈரான் போர் நெருங்கியது கிளைமாக்ஸ்''"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0O4rTmW9x7Q"
-        name: "WAR LIVE: U.S. Prepares Iran Ground Ops | Arak Nuclear Reactor Hit | Houthi Attack |Iran Attack LIVE"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bFlmOgMVv2s"
-        name: "US Iran War LIVE: Drone Strikes Hit Kuwait, Tanker Hit Off Qatar Coast | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-7pj26oUYWY"
-        name: "Iran US Israel War Latest News LIVE: टूटा NATO? | Trump | Starmer | Macron | War News"
+        videoId: "Jn7-EryMDVQ"
+        name: "ईरान-अमेरिका जंग 2 अप्रैल 2026 | Iran US Israel War Latest News LIVE |  War Breaking"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mcvDC62V_aY"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 1, 2026"
+        videoId: "mYCpJJ0BQj8"
+        name: "LIVE: Putin’s Emergency Address — World War 3 Fears Skyrocket Amid Middle East Oil Crisis"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jZnog5KbGq8"
+        name: "Presidential Address to the Nation: ABC News Special"
         artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-x5xfsXrb-4"
-        name: "LIVE: President Trump addresses the nation"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "C7DTxGA6yM4"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lSDYyKvQ1p4"
-        name: "LIVE | ईरान-अमेरिका जंग 01 March 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rQIO0mXsyA0"
-        name: "🔴LIVE : US Israel Iran War Latest News | உலகையே உறைய வைத்த தாக்குதல்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qT5Rf6HIp-0"
-        name: "LIVE: Trump addresses the nation on the Iran war | NBC News"
-        artist: "NBC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6qIqpLYyIq4"
-        name: "Iran Israel Us War Update Live : युद्ध का 34वां दिन | Iran America War | Trump | World News | Iran"
-        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T04:23:15.217Z"
+  exported_at: "2026-04-02T06:07:27.024Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T04:23:15.182Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-02T06:07:26.987Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
