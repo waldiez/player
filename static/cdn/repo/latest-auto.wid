@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T080029.288Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260402T095323.158Z-l4t35t"
   type: "state"
-  created: "2026-04-02T08:00:29.288Z"
+  created: "2026-04-02T09:53:23.158Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T080029.288Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T095323.158Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lfbvlv2HGlE"
-        name: "US IRAN WAR LIVE: TRUMP DROPS BOMBSHELL – 'NATO & Allies, GO TAKE YOUR OIL FROM IRAN, US WON'T HELP'"
-        artist: "ET Now World"
+        videoId: "ET-SK_Oo5JA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iOcdt_upqVE"
-        name: "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "grx3CIrMwuc"
+        name: "Live: :“Day 33 of War: Israel in Mourning Amid Rising Casualties”- Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QdkdxMQIJPs"
-        name: "Iran Israel Us War Update Live : युद्ध का 34वां दिन | Iran America War | Trump | World News | Iran"
-        artist: "Times Now Navbharat"
+        videoId: "DzdwWHeugiI"
+        name: "US Iran War LIVE: Why US is Expanding Air War With Deep Strike Missions | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JSZ0LjFquYI"
-        name: "🔴LIVE:Tiruchirappalli | vijay | நெருங்கும் விஜய்.. அதிரும் திருச்சி கிழக்கு"
-        artist: "Thanthi TV"
+        videoId: "bFJsit2ZPXM"
+        name: "LIVE: Iran Targets US Tech Giants; Massive Strike on Amazon Cloud Hub in Bahrain | Tel Aviv | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RKsJADpJMLQ"
-        name: "🔴LIVE: sathankulam case | சாத்தான்குளம் வழக்கு.. வெளியாகும் தண்டனை விவரம்"
-        artist: "Sathiyam News"
+        videoId: "pJb8n3Kp3Cg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC বাংলা NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MgigzkwcL2w"
-        name: "🔴LIVE: Iran | Donald Trump | Mojtaba Khamenei |ஈரான் போரில் திடீர் திருப்பம்.. அறிவித்தார் டிரம்ப்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "E3iAAXtxRZY"
-        name: "US-Iran War LIVE: Trump Addresses Nation On Iran War, Big Announcement Expected | West Asia War"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "l4kDfAKxWC8"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Top News | Hindi News | PM Modi | 2 April"
-        artist: "NDTV India"
+        videoId: "6mjgj9Utcto"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T08:00:29.288Z"
+  exported_at: "2026-04-02T09:53:23.158Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T08:00:29.255Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-02T09:53:23.125Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
