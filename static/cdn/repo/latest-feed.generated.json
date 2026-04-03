@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T21:25:35.958Z",
+    "generatedAt": "2026-04-03T22:25:27.579Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "N7YK-sblTu4",
-            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
+            "videoId": "aDAwFAISMVE",
+            "name": "Ira Vs US LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6OiWE-Tcsss",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4ERmC5wi3KA",
+            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent White House Address as Tensions Rise | World News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "6p6k67AM__s",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yPo4vJjq-3M",
-            "name": "LIVE: Dubai Responds to Iran's Claim on Oracle Cloud Facility Attack | Firstpost Live | N18G",
+            "videoId": "MrxWUYJotys",
+            "name": "Iran War LIVE: Kuwait Refinery Hit; UAE, Bahrain on Alert Amid Gulf Attacks | Firstpost",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "RE4zDdQapWI",
-            "name": "Aaj Ki Taaza Khabar LIVE: 03 April News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
-            "artist": "NDTV India"
+            "videoId": "qZrSiLHIv_g",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "czVTzDtn8IA",
-            "name": "🔴Live | ଉଡ଼ିଗଲା ଇରାନର ଲାଇଫଲାଇନ୍  | Trump Warns Iran After Deadly Airstrike  | OTV",
-            "artist": "OTV"
+            "videoId": "JWbTVi2sbUc",
+            "name": "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "44ObNTXd4Yw",
+            "name": "🔴LIVE: Trump | War | கைகழுவிய ட்ரம்ப்..?",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
