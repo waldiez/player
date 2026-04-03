@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T06:07:24.709Z",
+    "generatedAt": "2026-04-03T07:57:35.013Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "pAoFwyuxuV8",
-            "name": "🔴LIVE: Petrol Price Increases in Pakistan | FinMin, Petroleum Minister's Press Conference",
-            "artist": "SAMAA TV"
+            "videoId": "2cP_EzVqCjI",
+            "name": "US Iran War LIVE: Iran Says \"Indian Friends Safe\" in Strait of Hormuz | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "0vd4FFOrzR0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
+            "videoId": "wqomTQYhI9k",
+            "name": "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "PZiG_BcK8uA",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "LT4v8UtGikc",
+            "name": "News Ki Pathshala Live | America Attack On Iran | Trump के ऐलान से दुनिया भर में हंगामा मच गया ?",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "nfE6qzrqivg",
-            "name": "World DNA LIVE: US Hits Tallest Bridge in Iran | Hegseth Fires Top Military General | WION",
-            "artist": "WION"
+            "videoId": "bDLwi3nbtpE",
+            "name": "LIVE | “No One Will Leave Alive” Iran Says 7 Million Ready To Take Up Arms If US Starts Ground War",
+            "artist": "CRUX"
         },
         {
             "mood": "storm",
-            "videoId": "aVkHmZCyqsg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World"
+            "videoId": "iUl-LGdhiXI",
+            "name": "ईरान-अमेरिका जंग 3 अप्रैल 2026 | Iran US Israel War Latest News LIVE |  War Breaking",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {

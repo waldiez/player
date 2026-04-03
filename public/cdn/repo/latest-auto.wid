@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T060724.766Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T075735.046Z-l4t35t"
   type: "state"
-  created: "2026-04-03T06:07:24.766Z"
+  created: "2026-04-03T07:57:35.046Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T060724.766Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T075735.046Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "pAoFwyuxuV8"
-        name: "🔴LIVE: Petrol Price Increases in Pakistan | FinMin, Petroleum Minister's Press Conference"
-        artist: "SAMAA TV"
+        videoId: "2cP_EzVqCjI"
+        name: "US Iran War LIVE: Iran Says \"Indian Friends Safe\" in Strait of Hormuz | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0vd4FFOrzR0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC বাংলা NEWS"
+        videoId: "wqomTQYhI9k"
+        name: "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PZiG_BcK8uA"
-        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
-        artist: "Agenda-Free TV"
+        videoId: "LT4v8UtGikc"
+        name: "News Ki Pathshala Live | America Attack On Iran | Trump के ऐलान से दुनिया भर में हंगामा मच गया ?"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nfE6qzrqivg"
-        name: "World DNA LIVE: US Hits Tallest Bridge in Iran | Hegseth Fires Top Military General | WION"
-        artist: "WION"
+        videoId: "bDLwi3nbtpE"
+        name: "LIVE | “No One Will Leave Alive” Iran Says 7 Million Ready To Take Up Arms If US Starts Ground War"
+        artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aVkHmZCyqsg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World"
+        videoId: "iUl-LGdhiXI"
+        name: "ईरान-अमेरिका जंग 3 अप्रैल 2026 | Iran US Israel War Latest News LIVE |  War Breaking"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T06:07:24.766Z"
+  exported_at: "2026-04-03T07:57:35.046Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T06:07:24.709Z"
+  source_generated_at: "2026-04-03T07:57:35.013Z"
   validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
