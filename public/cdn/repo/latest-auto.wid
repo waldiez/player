@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T094545.310Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T103621.002Z-l4t35t"
   type: "state"
-  created: "2026-04-03T09:45:45.310Z"
+  created: "2026-04-03T10:36:21.002Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T094545.310Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T103621.002Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jQCNpFnwUE4"
-        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
+        videoId: "bwaEFt5re3I"
+        name: "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pELgCoztliI"
+        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "098e-5rLBtc"
-        name: "Iran America Israel War LIVE: ईरान ने शुरू किया असली खूनी खेल... | World War 3 Begins | Hindi Update"
+        videoId: "zi0glDyAqnM"
+        name: "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lJ9BhD_PjUI"
+        name: "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0t7pfvzSQNo"
-        name: "World War 3 Begins? LIVE: अमेरिका के पलटवार से पहले ईरान क जवाब... | Mojtaba Khamenei | Trump Order"
-        artist: "ABP NEWS"
+        videoId: "YEzNjjm-O1E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JZ7e-GUKFwc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tap3BR8oSiI"
-        name: "EPS-95 Pension Latest Update 2026 : क्या आपको मिलेगी ज्यादा Pension या नहीं? | Government News"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LT4v8UtGikc"
-        name: "News Ki Pathshala Live | America Attack On Iran | Trump के ऐलान से दुनिया भर में हंगामा मच गया ?"
-        artist: "Times Now Navbharat"
+        videoId: "wqomTQYhI9k"
+        name: "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T09:45:45.310Z"
+  exported_at: "2026-04-03T10:36:21.002Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T09:45:45.278Z"
+  source_generated_at: "2026-04-03T10:36:20.970Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
