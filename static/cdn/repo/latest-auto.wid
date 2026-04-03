@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T103621.002Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T113247.486Z-l4t35t"
   type: "state"
-  created: "2026-04-03T10:36:21.002Z"
+  created: "2026-04-03T11:32:47.486Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T103621.002Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T113247.486Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "bwaEFt5re3I"
-        name: "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "KUzxBTFQ3l8"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pELgCoztliI"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zi0glDyAqnM"
-        name: "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lJ9BhD_PjUI"
-        name: "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3"
+        videoId: "IYbaO58upVQ"
+        name: "Big Breaking on World War 3 LIVE: 5 अप्रैल से WW3 शुरू? | Iran US Israel War | Trump | Netanyahu"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YEzNjjm-O1E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "P3IC0GB46WQ"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wqomTQYhI9k"
-        name: "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost"
-        artist: "Firstpost"
+        videoId: "5JNDRsdhVwU"
+        name: "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jQCNpFnwUE4"
+        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "098e-5rLBtc"
+        name: "Iran America Israel War: ईरान ने शुरू किया असली खूनी खेल... | World War 3 Begins | Hindi Update"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-JFrk9DgWIE"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "om3i46hMdlk"
+        name: "Trump LIVE: SHOCKING War Warning Sends World Toward Potential World War III | US News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VivO9zLPtA8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T10:36:21.002Z"
+  exported_at: "2026-04-03T11:32:47.486Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T10:36:20.970Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T11:32:47.453Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

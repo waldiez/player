@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T10:36:20.970Z",
+    "generatedAt": "2026-04-03T11:32:47.453Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bwaEFt5re3I",
-            "name": "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "KUzxBTFQ3l8",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "pELgCoztliI",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zi0glDyAqnM",
-            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lJ9BhD_PjUI",
-            "name": "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3",
+            "videoId": "IYbaO58upVQ",
+            "name": "Big Breaking on World War 3 LIVE: 5 अप्रैल से WW3 शुरू? | Iran US Israel War | Trump | Netanyahu",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YEzNjjm-O1E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "P3IC0GB46WQ",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "wqomTQYhI9k",
-            "name": "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "5JNDRsdhVwU",
+            "name": "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jQCNpFnwUE4",
+            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "098e-5rLBtc",
+            "name": "Iran America Israel War: ईरान ने शुरू किया असली खूनी खेल... | World War 3 Begins | Hindi Update",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-JFrk9DgWIE",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "om3i46hMdlk",
+            "name": "Trump LIVE: SHOCKING War Warning Sends World Toward Potential World War III | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VivO9zLPtA8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
         }
     ],
     "sourceFilters": {
