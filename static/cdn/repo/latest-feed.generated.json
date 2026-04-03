@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T07:57:35.013Z",
+    "generatedAt": "2026-04-03T08:53:00.903Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2cP_EzVqCjI",
-            "name": "US Iran War LIVE: Iran Says \"Indian Friends Safe\" in Strait of Hormuz | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "6oqgmywy_Co",
+            "name": "Iran Vows ‘Crushing’ attacks after Trump’s warning | Latest Updates | DD India Live",
+            "artist": "DD India"
         },
         {
             "mood": "storm",
-            "videoId": "wqomTQYhI9k",
-            "name": "US Iran War LIVE: Oil Surges, Stocks Crash As Trump Signals More Iran Strikes | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "lJ9BhD_PjUI",
+            "name": "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LT4v8UtGikc",
-            "name": "News Ki Pathshala Live | America Attack On Iran | Trump के ऐलान से दुनिया भर में हंगामा मच गया ?",
+            "videoId": "YEzNjjm-O1E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VivO9zLPtA8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hqeQw_rJ4m4",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 03.04.2026 | Morning News | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pAoFwyuxuV8",
+            "name": "🔴LIVE: Petrol Price Increases in Pakistan | FinMin, Petroleum Minister's Press Conference",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "R0Yw3PPqdSQ",
+            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "bDLwi3nbtpE",
-            "name": "LIVE | “No One Will Leave Alive” Iran Says 7 Million Ready To Take Up Arms If US Starts Ground War",
-            "artist": "CRUX"
+            "videoId": "nfE6qzrqivg",
+            "name": "World DNA LIVE: US Hits Tallest Bridge in Iran | Hegseth Fires Top Military General | WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "iUl-LGdhiXI",
-            "name": "ईरान-अमेरिका जंग 3 अप्रैल 2026 | Iran US Israel War Latest News LIVE |  War Breaking",
-            "artist": "NDTV India"
+            "videoId": "tWyuFUnANeM",
+            "name": "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
