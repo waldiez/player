@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-02T23:28:19.635Z",
+    "generatedAt": "2026-04-03T01:43:36.504Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SZeBWGZ0UuM",
-            "name": "Today Headlines - 02 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "ZifW0R9zQVo",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "3k4dmwwcWwI",
-            "name": "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury",
-            "artist": "Firstpost"
+            "videoId": "PZiG_BcK8uA",
+            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "nMgaUdSzS1k",
-            "name": "US Iran War LIVE: Iran Launches Fresh Strikes on Israel After Trump’s Threat | West Asia War",
-            "artist": "Firstpost"
+            "videoId": "Ear5lF0UlQQ",
+            "name": "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "lQHjw5So_Us",
-            "name": "News Ki Pathshala Live | Sushant Sinha | तेल-गैस का संकट और बढ़ जाएगा? | Iran Israel War |LPG Crisis",
-            "artist": "Times Now Navbharat"
+            "videoId": "Tf1GcxmV69E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC বাংলা NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "15kBRkhrXvU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Today's Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fj11wtxxdyE",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "f0n5s0zIU4w",
+            "name": "US Iran War News Live | Donald Trump Issues Stark Nuclear Warning on Iran | White House | Tehran",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bwaEFt5re3I",
+            "name": "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j4CLanzKrQM",
+            "name": "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

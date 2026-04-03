@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260402T232819.668Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T014336.536Z-l4t35t"
   type: "state"
-  created: "2026-04-02T23:28:19.668Z"
+  created: "2026-04-03T01:43:36.536Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260402T232819.668Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T014336.536Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SZeBWGZ0UuM"
-        name: "Today Headlines - 02 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "ZifW0R9zQVo"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3k4dmwwcWwI"
-        name: "Trump Iran War LIVE: US Drops B2 Bombers on Iran | Iran US War Escalates | Operation Epic Fury"
-        artist: "Firstpost"
+        videoId: "PZiG_BcK8uA"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nMgaUdSzS1k"
-        name: "US Iran War LIVE: Iran Launches Fresh Strikes on Israel After Trump’s Threat | West Asia War"
-        artist: "Firstpost"
+        videoId: "Ear5lF0UlQQ"
+        name: "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lQHjw5So_Us"
-        name: "News Ki Pathshala Live | Sushant Sinha | तेल-गैस का संकट और बढ़ जाएगा? | Iran Israel War |LPG Crisis"
-        artist: "Times Now Navbharat"
+        videoId: "Tf1GcxmV69E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC বাংলা NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "15kBRkhrXvU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fj11wtxxdyE"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f0n5s0zIU4w"
+        name: "US Iran War News Live | Donald Trump Issues Stark Nuclear Warning on Iran | White House | Tehran"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bwaEFt5re3I"
+        name: "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j4CLanzKrQM"
+        name: "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-02T23:28:19.668Z"
+  exported_at: "2026-04-03T01:43:36.536Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-02T23:28:19.635Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T01:43:36.504Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
