@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T135744.862Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T144135.455Z-l4t35t"
   type: "state"
-  created: "2026-04-03T13:57:44.862Z"
+  created: "2026-04-03T14:41:35.455Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T135744.862Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T144135.455Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aVkHmZCyqsg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yIZvjCcFDT8"
-        name: "LIVE | ‘Iran’s NUCLEAR DUST…’: Trump SHOCKS World With BIGGEST War Address, ‘CONFIRMS’ End?"
-        artist: "Times Of India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8fL1izS75Ig"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TEoZLthNf7s"
-        name: "US ARMY SHOCKED! | LIVE: Hegseth Orders Immediate Exit of US Army Chief  Randy George | Iran War"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nxGP88h2DEw"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
+        videoId: "GXXhZphDEhs"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7M9SikGBwAk"
-        name: "US-Iran War LIVE: Iran Vows \"No Surrender\" as Missiles Hit Tel Aviv | Trump Peace Deal Fake? N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "phmPMqPiHaU"
-        name: "LIVE | US-F35 Pilot CAPTURED in Iran | Jet Shot Down by IRGC | Pilot Ejects… Then DISAPPEARS!"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qXYxecNtG6Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "0vd4FFOrzR0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "CDC বাংলা NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P3IC0GB46WQ"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.04.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "Lwxg84P4b2M"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Today's Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sLLiLW0vLIg"
+        name: "LIVE: Iran Claims Second US F-35 Jet Shot Down as West Asia War Rages | Firstpost Live | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4uzIWcqhGyo"
+        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sywk9hmUqhw"
+        name: "Out Of Focus Live | 03 April 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2YDJj1Llu6E"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 03 April 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XShaj7Ti408"
+        name: "US LOSING WAR? | LIVE: Trump’s Iran Plan Faces Setback as Missiles Rain Down Despite Pentagon's Ops"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T13:57:44.862Z"
+  exported_at: "2026-04-03T14:41:35.455Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T13:57:44.832Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T14:41:35.420Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
