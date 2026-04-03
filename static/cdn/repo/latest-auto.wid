@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T085300.931Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T094545.310Z-l4t35t"
   type: "state"
-  created: "2026-04-03T08:53:00.931Z"
+  created: "2026-04-03T09:45:45.310Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T085300.931Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T094545.310Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6oqgmywy_Co"
-        name: "Iran Vows ‘Crushing’ attacks after Trump’s warning | Latest Updates | DD India Live"
-        artist: "DD India"
+        videoId: "jQCNpFnwUE4"
+        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lJ9BhD_PjUI"
-        name: "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3"
+        videoId: "098e-5rLBtc"
+        name: "Iran America Israel War LIVE: ईरान ने शुरू किया असली खूनी खेल... | World War 3 Begins | Hindi Update"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YEzNjjm-O1E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "0t7pfvzSQNo"
+        name: "World War 3 Begins? LIVE: अमेरिका के पलटवार से पहले ईरान क जवाब... | Mojtaba Khamenei | Trump Order"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VivO9zLPtA8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Stream Bangla"
+        videoId: "JZ7e-GUKFwc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hqeQw_rJ4m4"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 03.04.2026 | Morning News | Todays News | Latest News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "tap3BR8oSiI"
+        name: "EPS-95 Pension Latest Update 2026 : क्या आपको मिलेगी ज्यादा Pension या नहीं? | Government News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pAoFwyuxuV8"
-        name: "🔴LIVE: Petrol Price Increases in Pakistan | FinMin, Petroleum Minister's Press Conference"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "R0Yw3PPqdSQ"
-        name: "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ | Iran Israel War"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nfE6qzrqivg"
-        name: "World DNA LIVE: US Hits Tallest Bridge in Iran | Hegseth Fires Top Military General | WION"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tWyuFUnANeM"
-        name: "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran"
+        videoId: "LT4v8UtGikc"
+        name: "News Ki Pathshala Live | America Attack On Iran | Trump के ऐलान से दुनिया भर में हंगामा मच गया ?"
         artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T08:53:00.931Z"
+  exported_at: "2026-04-03T09:45:45.310Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T08:53:00.903Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T09:45:45.278Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
