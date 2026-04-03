@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T042357.450Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T060724.766Z-l4t35t"
   type: "state"
-  created: "2026-04-03T04:23:57.450Z"
+  created: "2026-04-03T06:07:24.766Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T042357.450Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T060724.766Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "feCPirmjfrI"
-        name: "TRUMP FIRES AG BONDI LIVE | Breaking News: President Trump Terminates Attorney General Pam Bondi"
-        artist: "Times Now World"
+        videoId: "pAoFwyuxuV8"
+        name: "🔴LIVE: Petrol Price Increases in Pakistan | FinMin, Petroleum Minister's Press Conference"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jhz3SrsbGt0"
-        name: "🔴LIVE | Iran Launch New Missile Early Morning War Started | Israel Under Fire,US Aircraft Destroyed"
-        artist: "Dunya News"
+        videoId: "0vd4FFOrzR0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC বাংলা NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tWyuFUnANeM"
-        name: "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran"
-        artist: "Times Now Navbharat"
+        videoId: "PZiG_BcK8uA"
+        name: "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4mpyJX9Au5w"
-        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
-        artist: "Times Now"
+        videoId: "nfE6qzrqivg"
+        name: "World DNA LIVE: US Hits Tallest Bridge in Iran | Hegseth Fires Top Military General | WION"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RDjT9ND3b5A"
-        name: "Iran Vs Israel-US War Live: ईरान का Dubai, UAE और Kuwait पर हमला ! Trump | US Army | Drone Missile"
-        artist: "News Nation"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i8y4mcpC948"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 03.04.2026 | Morning News | Todays News | Latest News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oQvME_5ePI8"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 2, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "48OyVHPNuSw"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JWbTVi2sbUc"
-        name: "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jQCNpFnwUE4"
-        name: "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BQVCpLcjT7U"
-        name: "NDTV 24x7 LIVE TV: US Iran War Latest | Macron Slams Trump | Epstein Files Disclosure | AAP News"
-        artist: "NDTV"
+        videoId: "aVkHmZCyqsg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T04:23:57.450Z"
+  exported_at: "2026-04-03T06:07:24.766Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T04:23:57.415Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T06:07:24.709Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
