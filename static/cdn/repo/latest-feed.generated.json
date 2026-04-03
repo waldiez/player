@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T15:34:09.747Z",
+    "generatedAt": "2026-04-03T16:31:06.874Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3xxSw7HZgUk",
-            "name": "Poochta Hai Bharat With Arnab LIVE: Dented By Iran, Trump Looking For Exit From War?",
-            "artist": "Republic World"
+            "videoId": "5GboNiS78dY",
+            "name": "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "lJ9BhD_PjUI",
-            "name": "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3",
-            "artist": "ABP NEWS"
+            "videoId": "YM32cz6JL6o",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "8ZuMLP-0Ap4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Vata Update Date "
+            "videoId": "cCuSJkBbDKc",
+            "name": "LIVE | Trump’s Bombshell Statement, Could Iran War Be Over, US Citizens React | Iran War IS End?",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "yZMnq_ZvXAM",
-            "name": "Iran US Israel War Latest News: 77 साल बाद टूटा NATO? | Trump | Starmer | Macron | War Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "co_sDkMr5AE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "aVkHmZCyqsg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World"
+            "videoId": "svu4t72188I",
+            "name": "News Ki Pathshala Live | Sushant Sinha | भारत क्या पाकिस्तान पर एक्शन की तैयारी में..? | Ind Vs PAK",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "p_iM6k3Ypco",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 04 April'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "GXXhZphDEhs",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8B4QL9gsJ-A",
+            "name": "🔴LIVE: kamal haasan | அடி மேல் அடி - கமலின் அடுத்த மூவ்..?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uGqpBo3b3dA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0vd4FFOrzR0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC বাংলা NEWS"
         }
     ],
     "sourceFilters": {
