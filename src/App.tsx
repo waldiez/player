@@ -6,6 +6,7 @@ import { BottomNav } from "@/components/player/BottomNav";
 import { DesktopDiagnosticsOverlay } from "@/components/player/DesktopDiagnosticsOverlay";
 import { EditorView } from "@/components/player/EditorView";
 import { GuidedModeCanvas } from "@/components/player/GuidedModeCanvas";
+import { MODE_ICONS, ModeMenuDropdown } from "@/components/player/ModeMenuDropdown";
 import { MoodPlayer } from "@/components/player/MoodPlayer";
 import type { MoodPlayerHandle } from "@/components/player/MoodPlayer";
 import { PlaylistPanel } from "@/components/player/PlaylistPanel";
@@ -17,52 +18,41 @@ import { VideoPlayer } from "@/components/player/VideoPlayer";
 import { WideriaLayout } from "@/components/player/WideriaLayout";
 import { Button, Slider, Tooltip } from "@/components/ui";
 import { useAutomations } from "@/hooks/useAutomations";
+import { useMediaHandlers } from "@/hooks/useMediaHandlers";
 import { useMediaSession } from "@/hooks/useMediaSession";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
 import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriTray } from "@/hooks/useTauriTray";
-import { importReaderDocumentFromFile, isReaderFileName } from "@/lib/readerImport";
 import { onPlayerControl, onSceneMood, postMoodChanged, postNowPlaying } from "@/lib/synapse";
 import { type UiSettings, readUiSettings, writeUiSettings } from "@/lib/uiSettings";
 import { useIdleTimer } from "@/lib/useIdleTimer";
 import { cn } from "@/lib/utils";
 import { getSuggestedMood } from "@/lib/weatherMood";
-import { nextWid } from "@/lib/wid";
 import { usePlayerStore, useReaderStore } from "@/stores";
-import { MODE_CONFIGS, type PlayerMode, getModeConfig } from "@/types";
+import type { PlayerMode } from "@/types";
 import type { MediaFile } from "@/types";
 import type { MoodMode } from "@/types/mood";
 
 import { useCallback, useEffect, useRef, useState } from "react";
 
 import {
-    BookOpen,
-    BookOpenText,
     ChevronLeft,
     ChevronRight,
-    Disc3,
     Film,
-    Flame,
     FolderOpen,
     Globe,
-    GraduationCap,
     ListMusic,
     Maximize2,
     Minimize2,
     Moon,
-    Orbit,
     Pause,
-    PencilRuler,
     Play,
-    PlayCircle,
-    Presentation,
     Repeat,
     Repeat1,
     RotateCcw,
     Settings,
     SkipBack,
     SkipForward,
-    Sparkles,
     Volume1,
     Volume2,
     VolumeX,
@@ -77,24 +67,6 @@ function MoodPersistenceBridge({ mode }: { mode: MoodMode }) {
     useMoodPersistence(mode);
     return null;
 }
-
-const MODE_ICONS: Record<PlayerMode, React.FC<{ className?: string }>> = {
-    standard: PlayCircle,
-    reader: BookOpenText,
-    editor: PencilRuler,
-    storyteller: Flame,
-    audiobook: BookOpen,
-    cinema: Film,
-    presentation: Presentation,
-    learning: GraduationCap,
-    journey: Orbit,
-    dock: Disc3,
-    storm: Zap,
-    fest: Sparkles,
-    rock: Flame,
-    pop: Wand2,
-    disco: Sparkles,
-};
 
 export function App() {
     const {
@@ -140,7 +112,6 @@ export function App() {
     const [uiSettings, setUiSettings] = useState<UiSettings>(readUiSettings);
     const containerRef = useRef<HTMLDivElement>(null);
     const currentReaderDocument = useReaderStore(s => s.currentDocument);
-    const setCurrentDocument = useReaderStore(s => s.setCurrentDocument);
     // Ref to MoodPlayer so we can forward scrubber/keyboard seeks to YouTube
     const moodPlayerRef = useRef<MoodPlayerHandle>(null);
 
@@ -184,6 +155,8 @@ export function App() {
 
     // Get current mode icon
     const CurrentModeIcon = MODE_ICONS[playerMode];
+
+    const { handleFileDrop, handleFileSelect } = useMediaHandlers();
 
     const formatTime = useCallback((seconds: number): string => {
         if (!isFinite(seconds) || isNaN(seconds)) return "0:00";
@@ -404,76 +377,10 @@ export function App() {
         store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
     }, []);
 
-    const addMedia = useCallback((file: File) => {
-        const store = usePlayerStore.getState();
-        const url = URL.createObjectURL(file);
-        const entry = {
-            id: nextWid(),
-            name: file.name,
-            path: url,
-            type: (file.type.startsWith("video/") ? "video" : "audio") as "video" | "audio",
-            duration: 0,
-            size: file.size,
-            createdAt: new Date(),
-        };
-        store.addToLibrary(entry);
-        store.setCurrentMedia(entry);
-        store.setPlayback({ currentTime: 0, duration: 0, isPlaying: true });
-    }, []);
-
-    const openReaderDocument = useCallback(
-        async (file: File) => {
-            const document = await importReaderDocumentFromFile(file);
-            setCurrentDocument(document);
-            setPlayerMode("reader");
-        },
-        [setCurrentDocument, setPlayerMode],
-    );
-
-    const handleFileDrop = useCallback(
-        (e: React.DragEvent) => {
-            e.preventDefault();
-            const files = Array.from(e.dataTransfer.files);
-            void Promise.all(
-                files.map(async file => {
-                    if (isReaderFileName(file.name)) {
-                        await openReaderDocument(file);
-                        return;
-                    }
-                    if (file.type.startsWith("video/") || file.type.startsWith("audio/")) {
-                        addMedia(file);
-                    }
-                }),
-            );
-        },
-        [addMedia, openReaderDocument],
-    );
-
-    const handleFileSelect = useCallback(() => {
-        const input = document.createElement("input");
-        input.type = "file";
-        input.accept = "video/*,audio/*,.txt,.md,.markdown,.pdf,.html,.htm,.wid,.waldiez,.json,.yaml,.yml";
-        input.multiple = true;
-        input.onchange = e => {
-            const files = Array.from((e.target as HTMLInputElement).files ?? []);
-            void Promise.all(
-                files.map(async file => {
-                    if (isReaderFileName(file.name)) {
-                        await openReaderDocument(file);
-                        return;
-                    }
-                    addMedia(file);
-                }),
-            );
-        };
-        input.click();
-    }, [addMedia, openReaderDocument]);
-
     const VolumeIcon =
         playback.isMuted || playback.volume === 0 ? VolumeX : playback.volume < 0.5 ? Volume1 : Volume2;
     const speedOptions = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
     const sleepOptions = playerModeConfig.behavior.sleepTimerOptions;
-    const modes = Object.keys(MODE_CONFIGS) as PlayerMode[];
 
     // Check if we should show page controls
     const showPageControls =
@@ -773,69 +680,14 @@ export function App() {
                         )}
 
                         {/* Player Mode Selector */}
-                        <div className="relative">
-                            <Tooltip content={`Mode: ${playerModeConfig.name}`}>
-                                <Button
-                                    variant="secondary"
-                                    size="icon"
-                                    onClick={() => setShowModeMenu(!showModeMenu)}
-                                >
-                                    <CurrentModeIcon className="h-4 w-4" />
-                                </Button>
-                            </Tooltip>
-
-                            {showModeMenu && (
-                                <>
-                                    <div
-                                        className="fixed inset-0 z-40"
-                                        onClick={() => setShowModeMenu(false)}
-                                    />
-                                    <div className="absolute right-0 top-full z-50 mt-2 w-64 rounded-lg border border-player-border bg-player-surface p-1 shadow-xl">
-                                        <div className="mb-2 border-b border-player-border px-3 py-2">
-                                            <span className="text-xs font-medium uppercase tracking-wider text-player-text-muted">
-                                                Player Mode
-                                            </span>
-                                        </div>
-                                        {modes.map(m => {
-                                            const config = getModeConfig(m);
-                                            const Icon = MODE_ICONS[m];
-                                            const isSelected = m === playerMode;
-
-                                            return (
-                                                <button
-                                                    key={m}
-                                                    onClick={() => {
-                                                        setPlayerMode(m);
-                                                        setShowModeMenu(false);
-                                                    }}
-                                                    className={cn(
-                                                        "flex w-full items-center gap-3 rounded-md px-3 py-2 text-left transition-colors",
-                                                        isSelected
-                                                            ? "bg-player-accent text-white"
-                                                            : "hover:bg-player-border",
-                                                    )}
-                                                >
-                                                    <Icon className="h-4 w-4 flex-shrink-0" />
-                                                    <div className="min-w-0 flex-1">
-                                                        <div className="font-medium">{config.name}</div>
-                                                        <div
-                                                            className={cn(
-                                                                "truncate text-xs",
-                                                                isSelected
-                                                                    ? "text-white/70"
-                                                                    : "text-player-text-muted",
-                                                            )}
-                                                        >
-                                                            {config.description}
-                                                        </div>
-                                                    </div>
-                                                </button>
-                                            );
-                                        })}
-                                    </div>
-                                </>
-                            )}
-                        </div>
+                        <ModeMenuDropdown
+                            playerMode={playerMode}
+                            playerModeConfig={playerModeConfig}
+                            showModeMenu={showModeMenu}
+                            onToggle={() => setShowModeMenu(!showModeMenu)}
+                            onClose={() => setShowModeMenu(false)}
+                            onModeSelect={setPlayerMode}
+                        />
 
                         <Tooltip content="Playlist">
                             <Button

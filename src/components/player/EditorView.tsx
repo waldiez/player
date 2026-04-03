@@ -1,13 +1,13 @@
-import { Button } from "@/components/ui";
-import { reportDiagnostic } from "@/lib/diagnostics";
 import {
-    createEmptyEditorProject,
-    exportEditorProjectJson,
-    openEditorProject,
-    reportEditorPersistenceError,
-    saveEditorProject,
-    saveEditorProjectAs,
-} from "@/lib/editorPersistence";
+    Field,
+    InspectorCard,
+    MiniAction,
+    SegmentedChoiceField,
+    SelectField,
+} from "@/components/player/EditorInspectorFields";
+import { Button } from "@/components/ui";
+import { useEditorFileOps } from "@/hooks/useEditorFileOps";
+import { createEmptyEditorProject } from "@/lib/editorPersistence";
 import {
     type RenderProgress,
     cancelEditorRender,
@@ -42,7 +42,6 @@ import {
     Square,
     Trash2,
     Undo2,
-    WandSparkles,
 } from "lucide-react";
 
 import type { EditorRenderSettings } from "@waldiez/editor-core";
@@ -101,10 +100,7 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
     const removeClip = useEditorStore(s => s.removeClip);
     const removeScene = useEditorStore(s => s.removeScene);
     const moveScene = useEditorStore(s => s.moveScene);
-    const markSaved = useEditorStore(s => s.markSaved);
-    const [saving, setSaving] = useState(false);
-    const [opening, setOpening] = useState(false);
-    const [exporting, setExporting] = useState(false);
+    const { saving, opening, exporting, handleOpen, handleSave, handleExportJson } = useEditorFileOps();
     const [isPreviewPlaying, setIsPreviewPlaying] = useState(false);
     const [previewElapsed, setPreviewElapsed] = useState(0);
     const [renderSettings, setRenderSettings] = useState<EditorRenderSettings>(() => ({
@@ -197,56 +193,6 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
         }, 600);
         return () => window.clearInterval(timer);
     }, [renderJobId]);
-
-    async function handleOpen() {
-        setOpening(true);
-        try {
-            const project = await openEditorProject();
-            setCurrentProject(project);
-            setPlayerMode("editor");
-        } catch (error) {
-            reportEditorPersistenceError("open", error);
-        } finally {
-            setOpening(false);
-        }
-    }
-
-    async function handleSave(forceDialog = false) {
-        if (!currentProject) return;
-        setSaving(true);
-        try {
-            const savedPath = forceDialog
-                ? await saveEditorProjectAs(currentProject)
-                : await saveEditorProject(currentProject);
-            markSaved(savedPath);
-            reportDiagnostic({
-                level: "info",
-                area: "editor",
-                message: `Editor project saved to ${savedPath}.`,
-            });
-        } catch (error) {
-            reportEditorPersistenceError(forceDialog ? "save as" : "save", error);
-        } finally {
-            setSaving(false);
-        }
-    }
-
-    async function handleExportJson() {
-        if (!currentProject) return;
-        setExporting(true);
-        try {
-            const destination = exportEditorProjectJson(currentProject);
-            reportDiagnostic({
-                level: "info",
-                area: "editor",
-                message: `Exported editor project JSON to ${destination}.`,
-            });
-        } catch (error) {
-            reportEditorPersistenceError("export", error);
-        } finally {
-            setExporting(false);
-        }
-    }
 
     async function handleSelectSceneMedia() {
         if (!selectedScene) return;
@@ -1362,135 +1308,5 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                 </aside>
             </div>
         </div>
-    );
-}
-
-function InspectorCard({ title, children }: { title: string; children: React.ReactNode }) {
-    return (
-        <div className="mb-4 rounded-[24px] border border-white/10 bg-white/5 p-4">
-            <div className="mb-3 flex items-center gap-2 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
-                <WandSparkles className="h-3.5 w-3.5 text-amber-300" />
-                {title}
-            </div>
-            <div className="space-y-3">{children}</div>
-        </div>
-    );
-}
-
-function Field({
-    label,
-    value,
-    onChange,
-}: {
-    label: string;
-    value: string;
-    onChange: (value: string) => void;
-}) {
-    return (
-        <label className="block">
-            <span className="mb-1 block text-[10px] font-semibold uppercase tracking-wider text-slate-400">
-                {label}
-            </span>
-            <input
-                value={value}
-                onChange={event => onChange(event.target.value)}
-                className="w-full rounded-2xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-white outline-none transition focus:border-teal-400/60"
-            />
-        </label>
-    );
-}
-
-function SelectField({
-    label,
-    value,
-    options,
-    onChange,
-}: {
-    label: string;
-    value: string;
-    options: Array<{ value: string; label: string }>;
-    onChange: (value: string) => void;
-}) {
-    return (
-        <label className="block">
-            <span className="mb-1 block text-[10px] font-semibold uppercase tracking-wider text-slate-400">
-                {label}
-            </span>
-            <select
-                value={value}
-                onChange={event => onChange(event.target.value)}
-                className="w-full rounded-2xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-white outline-none transition focus:border-teal-400/60"
-            >
-                {options.map(option => (
-                    <option key={option.value} value={option.value}>
-                        {option.label}
-                    </option>
-                ))}
-            </select>
-        </label>
-    );
-}
-
-function SegmentedChoiceField({
-    label,
-    value,
-    options,
-    onChange,
-}: {
-    label: string;
-    value: string;
-    options: Array<{ value: string; label: string }>;
-    onChange: (value: string) => void;
-}) {
-    return (
-        <div className="block">
-            <span className="mb-1 block text-[10px] font-semibold uppercase tracking-wider text-slate-400">
-                {label}
-            </span>
-            <div className="grid grid-cols-2 gap-2">
-                {options.map(option => {
-                    const active = option.value === value;
-                    return (
-                        <button
-                            key={option.value}
-                            type="button"
-                            onClick={() => onChange(option.value)}
-                            className={cn(
-                                "rounded-2xl border px-3 py-2 text-sm transition",
-                                active
-                                    ? "border-teal-400/70 bg-teal-400/15 text-white"
-                                    : "border-white/10 bg-white/5 text-slate-300 hover:bg-white/10",
-                            )}
-                        >
-                            {option.label}
-                        </button>
-                    );
-                })}
-            </div>
-        </div>
-    );
-}
-
-function MiniAction({
-    children,
-    onClick,
-    label,
-}: {
-    children: React.ReactNode;
-    onClick: () => void;
-    label: string;
-}) {
-    return (
-        <button
-            type="button"
-            onClick={event => {
-                event.stopPropagation();
-                onClick();
-            }}
-            aria-label={label}
-            className="rounded-full border border-white/10 bg-black/20 px-2 py-0.5 text-xs text-slate-300 transition hover:bg-white/10"
-        >
-            {children}
-        </button>
     );
 }

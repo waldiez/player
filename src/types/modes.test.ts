@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { MODE_CONFIGS, type PlayerMode, createCustomMode, getModeConfig } from "./modes";
+import { MODE_CONFIGS, type PlayerMode, createCustomMode, getModeConfig } from ".";
 
 describe("modes config", () => {
     const allModes: PlayerMode[] = [
