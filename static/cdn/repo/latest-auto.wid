@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T144135.455Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T153409.774Z-l4t35t"
   type: "state"
-  created: "2026-04-03T14:41:35.455Z"
+  created: "2026-04-03T15:34:09.774Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T144135.455Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T153409.774Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GXXhZphDEhs"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "3xxSw7HZgUk"
+        name: "Poochta Hai Bharat With Arnab LIVE: Dented By Iran, Trump Looking For Exit From War?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0vd4FFOrzR0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC বাংলা NEWS"
+        videoId: "lJ9BhD_PjUI"
+        name: "Iran US Israel War Latest Update LIVE: ईरान ने नेतन्याहू का सुरक्षा कवच तोड़ा? Trump | World War 3"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Lwxg84P4b2M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Today's Bangla News"
+        videoId: "8ZuMLP-0Ap4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Vata Update Date "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sLLiLW0vLIg"
-        name: "LIVE: Iran Claims Second US F-35 Jet Shot Down as West Asia War Rages | Firstpost Live | N18G"
-        artist: "Firstpost"
+        videoId: "yZMnq_ZvXAM"
+        name: "Iran US Israel War Latest News: 77 साल बाद टूटा NATO? | Trump | Starmer | Macron | War Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4uzIWcqhGyo"
-        name: "🔴 LIVE | ଅପରାହ୍ଣ ୫ଟାର ବଡ଼ ଖବର | 5PM Bulletin | Breaking News | Odia News | Kanak News"
-        artist: "Kanak News"
+        videoId: "aVkHmZCyqsg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sywk9hmUqhw"
-        name: "Out Of Focus Live | 03 April 2026"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2YDJj1Llu6E"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 03 April 2026 | Jamuna TV"
-        artist: "Jamuna TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XShaj7Ti408"
-        name: "US LOSING WAR? | LIVE: Trump’s Iran Plan Faces Setback as Missiles Rain Down Despite Pentagon's Ops"
-        artist: "CNN-News18"
+        videoId: "p_iM6k3Ypco"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 04 April'2026 || World News Bangla || International News Today"
+        artist: "Desh tv 71"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T14:41:35.455Z"
+  exported_at: "2026-04-03T15:34:09.774Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T14:41:35.420Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T15:34:09.747Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
