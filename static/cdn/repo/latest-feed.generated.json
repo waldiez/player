@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T01:43:36.504Z",
+    "generatedAt": "2026-04-03T04:23:57.415Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZifW0R9zQVo",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "videoId": "feCPirmjfrI",
+            "name": "TRUMP FIRES AG BONDI LIVE | Breaking News: President Trump Terminates Attorney General Pam Bondi",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jhz3SrsbGt0",
+            "name": "🔴LIVE | Iran Launch New Missile Early Morning War Started | Israel Under Fire,US Aircraft Destroyed",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tWyuFUnANeM",
+            "name": "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4mpyJX9Au5w",
+            "name": "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RDjT9ND3b5A",
+            "name": "Iran Vs Israel-US War Live: ईरान का Dubai, UAE और Kuwait पर हमला ! Trump | US Army | Drone Missile",
+            "artist": "News Nation"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i8y4mcpC948",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 03.04.2026 | Morning News | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oQvME_5ePI8",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 2, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "48OyVHPNuSw",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "PZiG_BcK8uA",
-            "name": "US and Israel Attack Iran - LIVE Breaking News Coverage & War Updates",
-            "artist": "Agenda-Free TV"
+            "videoId": "JWbTVi2sbUc",
+            "name": "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Ear5lF0UlQQ",
-            "name": "🔴LIVE: NoKings | Trump | America | NoKings முடிவுக்கு வருகிறதா டிரம்ப் ஆட்சி?",
-            "artist": "Thanthi TV"
+            "videoId": "jQCNpFnwUE4",
+            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "Tf1GcxmV69E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC বাংলা NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "15kBRkhrXvU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Today's Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fj11wtxxdyE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f0n5s0zIU4w",
-            "name": "US Iran War News Live | Donald Trump Issues Stark Nuclear Warning on Iran | White House | Tehran",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bwaEFt5re3I",
-            "name": "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "j4CLanzKrQM",
-            "name": "ABC NEWS SPECIAL REPORT: President Trump removes Pam Bondi as AG",
-            "artist": "ABC News"
+            "videoId": "BQVCpLcjT7U",
+            "name": "NDTV 24x7 LIVE TV: US Iran War Latest | Macron Slams Trump | Epstein Files Disclosure | AAP News",
+            "artist": "NDTV"
         }
     ],
     "sourceFilters": {
