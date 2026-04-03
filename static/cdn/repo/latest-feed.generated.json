@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T18:36:30.339Z",
+    "generatedAt": "2026-04-03T19:33:27.057Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MrxWUYJotys",
-            "name": "Iran War LIVE: Kuwait Refinery Hit; UAE, Bahrain on Alert Amid Gulf Attacks | Firstpost",
+            "videoId": "yPo4vJjq-3M",
+            "name": "LIVE: Dubai Responds to Iran's Claim on Oracle Cloud Facility Attack | Firstpost Live | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "qZrSiLHIv_g",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JWbTVi2sbUc",
-            "name": "Iran Israel Us War Update Live : युद्ध का 35वां दिन | Iran America War | Trump | World News | Iran",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UWIOuaCMxT4",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "44ObNTXd4Yw",
-            "name": "🔴LIVE: Trump | War | கைகழுவிய ட்ரம்ப்..?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wz20-QFVtF4",
-            "name": "US Iran War LIVE: Iran Claims US F-35 Jet Shot Down, Offers Bounty for Pilot | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iUl-LGdhiXI",
-            "name": "ईरान-अमेरिका जंग 3 अप्रैल 2026 | Iran US Israel War Latest News LIVE |  War Breaking",
+            "videoId": "RE4zDdQapWI",
+            "name": "Aaj Ki Taaza Khabar LIVE: 03 April News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "TB6ZJeJzFFc",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Munir की एक गलती, Pakistan साफ हो जाएगा? | Ind Vs PAK",
-            "artist": "Times Now Navbharat"
+            "videoId": "_hVe2Pxy0-o",
+            "name": "🔴LIVE: PM Shehbaz's Address to Nation | New Petrol Prices | Big News for Public | Iran US War Update",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "Etg3LOR48xw",
-            "name": "US-Iran War LIVE: Iran Vows \"No Surrender\" as Missiles Hit Tel Aviv | Trump Peace Deal Fake? N18G",
-            "artist": "News18 Urdu"
+            "videoId": "doAZF6TsKMk",
+            "name": "🟠8 PM Gujarati News LIVE | 8 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cJxI6Y7_mh8",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
