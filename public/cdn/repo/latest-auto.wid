@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260403T124330.537Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260403T135744.862Z-l4t35t"
   type: "state"
-  created: "2026-04-03T12:43:30.537Z"
+  created: "2026-04-03T13:57:44.862Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T124330.537Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260403T135744.862Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "pihftOBsuWU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "aVkHmZCyqsg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XShaj7Ti408"
-        name: "US LOSING WAR? | LIVE: Trump’s Iran Plan Faces Setback as Missiles Rain Down Despite Pentagon's Ops"
+        videoId: "yIZvjCcFDT8"
+        name: "LIVE | ‘Iran’s NUCLEAR DUST…’: Trump SHOCKS World With BIGGEST War Address, ‘CONFIRMS’ End?"
+        artist: "Times Of India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8fL1izS75Ig"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TEoZLthNf7s"
+        name: "US ARMY SHOCKED! | LIVE: Hegseth Orders Immediate Exit of US Army Chief  Randy George | Iran War"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bwaEFt5re3I"
-        name: "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "nxGP88h2DEw"
+        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JZ7e-GUKFwc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "7M9SikGBwAk"
+        name: "US-Iran War LIVE: Iran Vows \"No Surrender\" as Missiles Hit Tel Aviv | Trump Peace Deal Fake? N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Kwpq_u2X0_w"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 03 April'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
+        videoId: "phmPMqPiHaU"
+        name: "LIVE | US-F35 Pilot CAPTURED in Iran | Jet Shot Down by IRGC | Pilot Ejects… Then DISAPPEARS!"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BhxKpfgb6AM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Voice News"
+        videoId: "qXYxecNtG6Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC বাংলা NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P3IC0GB46WQ"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-03T12:43:30.537Z"
+  exported_at: "2026-04-03T13:57:44.862Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-03T12:43:30.478Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-03T13:57:44.832Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

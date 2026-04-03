@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T12:43:30.478Z",
+    "generatedAt": "2026-04-03T13:57:44.832Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "pihftOBsuWU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "aVkHmZCyqsg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World"
         },
         {
             "mood": "storm",
-            "videoId": "XShaj7Ti408",
-            "name": "US LOSING WAR? | LIVE: Trump’s Iran Plan Faces Setback as Missiles Rain Down Despite Pentagon's Ops",
+            "videoId": "yIZvjCcFDT8",
+            "name": "LIVE | ‘Iran’s NUCLEAR DUST…’: Trump SHOCKS World With BIGGEST War Address, ‘CONFIRMS’ End?",
+            "artist": "Times Of India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8fL1izS75Ig",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TEoZLthNf7s",
+            "name": "US ARMY SHOCKED! | LIVE: Hegseth Orders Immediate Exit of US Army Chief  Randy George | Iran War",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "bwaEFt5re3I",
-            "name": "LIVE | ईरान-अमेरिका जंग 03 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "nxGP88h2DEw",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 03.04.2026 | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "JZ7e-GUKFwc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "7M9SikGBwAk",
+            "name": "US-Iran War LIVE: Iran Vows \"No Surrender\" as Missiles Hit Tel Aviv | Trump Peace Deal Fake? N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "Kwpq_u2X0_w",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 03 April'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "phmPMqPiHaU",
+            "name": "LIVE | US-F35 Pilot CAPTURED in Iran | Jet Shot Down by IRGC | Pilot Ejects… Then DISAPPEARS!",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "BhxKpfgb6AM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
+            "videoId": "qXYxecNtG6Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC বাংলা NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P3IC0GB46WQ",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
