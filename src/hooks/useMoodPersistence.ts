@@ -14,8 +14,10 @@
  *   for the current mode (mirrors kideria's "★ Save as default" button).
  */
 import {
+    NEWS_MOOD,
     fetchYouTubeTitle,
     loadModeTracklist,
+    refreshLatestWidIfStale,
     saveDefaultForMode,
     saveModeTracksToPrefs,
 } from "@/lib/moodDefaults";
@@ -93,6 +95,44 @@ export function useMoodPersistence(mode: MoodMode) {
         return () => {
             unsub();
             if (saveTimer.current) clearTimeout(saveTimer.current);
+        };
+    }, []);
+
+    // ── Periodically refresh latest-auto.wid (visibility, online, 1-hour) ──
+    // Fires when the user returns to a tab/PWA that has been in the background
+    // for more than 1 hour, or when the device comes back online.
+    useEffect(() => {
+        async function tryRefresh() {
+            const updated = await refreshLatestWidIfStale();
+            if (updated && modeRef.current === NEWS_MOOD) {
+                // Re-read prefs and reload the live playlist so the user sees
+                // the new news tracks without having to switch modes.
+                const store = usePlayerStore.getState();
+                const { files, currentId } = loadModeTracklist(modeRef.current);
+                isLoading.current = true;
+                store.setMediaLibrary(files);
+                isLoading.current = false;
+                if (currentId) {
+                    store.setCurrentMedia(files.find(f => f.youtubeId === currentId) ?? files[0] ?? null);
+                }
+            }
+        }
+
+        function onVisible() {
+            if (document.visibilityState === "visible") void tryRefresh();
+        }
+        function onOnline() {
+            void tryRefresh();
+        }
+
+        const intervalId = setInterval(() => void tryRefresh(), 60 * 60 * 1000);
+        document.addEventListener("visibilitychange", onVisible);
+        window.addEventListener("online", onOnline);
+
+        return () => {
+            clearInterval(intervalId);
+            document.removeEventListener("visibilitychange", onVisible);
+            window.removeEventListener("online", onOnline);
         };
     }, []);
 

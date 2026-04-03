@@ -1,3 +1,4 @@
+import { ErrorBoundary } from "@/components/ErrorBoundary";
 import { EffectsPanel } from "@/components/effects";
 import { AddSourceDialog } from "@/components/player/AddSourceDialog";
 import { AutomationsPanel } from "@/components/player/AutomationsPanel";
@@ -482,516 +483,96 @@ export function App() {
     // Mood modes always use the full WideriaLayout (responsive for all screen sizes)
     if (isMoodMode) {
         return (
-            <>
-                <DesktopDiagnosticsOverlay />
-                <WideriaLayout
-                    mode={playerMode as MoodMode}
-                    onAutomationsOpen={() => setShowAutomations(true)}
-                    pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
-                    showYtFallbackDiagnostics={uiSettings.showYtFallbackDiagnostics}
-                />
-                {showAutomations && (
-                    <div className="fixed right-0 top-0 z-50 h-full w-80 max-w-[85vw] animate-slide-right border-l border-player-border bg-player-surface shadow-2xl">
-                        <AutomationsPanel
-                            onClose={() => setShowAutomations(false)}
-                            rules={automationRules}
-                            onAdd={addRule}
-                            onRemove={removeRule}
-                            onToggle={toggleRule}
-                        />
-                    </div>
-                )}
-            </>
+            <ErrorBoundary label="Player">
+                <>
+                    <DesktopDiagnosticsOverlay />
+                    <WideriaLayout
+                        mode={playerMode as MoodMode}
+                        onAutomationsOpen={() => setShowAutomations(true)}
+                        pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
+                        showYtFallbackDiagnostics={uiSettings.showYtFallbackDiagnostics}
+                    />
+                    {showAutomations && (
+                        <div className="fixed right-0 top-0 z-50 h-full w-80 max-w-[85vw] animate-slide-right border-l border-player-border bg-player-surface shadow-2xl">
+                            <AutomationsPanel
+                                onClose={() => setShowAutomations(false)}
+                                rules={automationRules}
+                                onAdd={addRule}
+                                onRemove={removeRule}
+                                onToggle={toggleRule}
+                            />
+                        </div>
+                    )}
+                </>
+            </ErrorBoundary>
         );
     }
 
     if (isGuidedMode) {
         return (
-            <div className="flex h-full flex-col bg-player-bg">
-                <DesktopDiagnosticsOverlay />
-                <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
-                    <div className="flex items-center gap-3">
-                        <CurrentModeIcon className="h-4 w-4 text-player-accent" />
-                        <div className="font-semibold">{playerModeConfig.name}</div>
-                    </div>
-                    <div className="flex items-center gap-2">
-                        <SearchBar onAdd={addMediaUrl} />
-                        <Button variant="ghost" size="icon" onClick={handleFileSelect}>
-                            <FolderOpen className="h-4 w-4" />
-                        </Button>
-                        <Button variant="ghost" size="icon" onClick={() => setShowSettings(true)}>
-                            <Settings className="h-4 w-4" />
-                        </Button>
-                    </div>
-                </header>
-                <div className="min-h-0 flex-1">
-                    <GuidedModeCanvas
-                        mode={playerMode as "storyteller" | "presentation" | "learning"}
-                        currentMediaName={currentMedia?.name}
-                        currentDocument={currentReaderDocument}
-                        onOpenFiles={handleFileSelect}
-                        onOpenReader={() => {
-                            if (currentReaderDocument) {
-                                setPlayerMode("reader");
-                                return;
-                            }
-                            handleFileSelect();
-                        }}
-                        onOpenSettings={() => setShowSettings(true)}
-                    >
-                        <div className="flex h-full flex-col">
-                            <div className="relative min-h-0 flex-1">
-                                <VideoPlayer className="h-full w-full" />
-                                {!playback.isPlaying && currentMedia && (
-                                    <button
-                                        className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-player-accent/80 p-6 transition-all hover:scale-110 hover:bg-player-accent"
-                                        onClick={togglePlay}
-                                    >
-                                        <Play className="h-12 w-12 text-white" fill="white" />
-                                    </button>
-                                )}
-                            </div>
-                            <div className="border-t border-player-border bg-player-surface p-4">
-                                <div className="mb-4">
-                                    <Slider
-                                        value={[playback.currentTime]}
-                                        min={0}
-                                        max={playback.duration || 1}
-                                        step={0.1}
-                                        onValueChange={handleSeek}
-                                        className="w-full"
-                                        disabled={!currentMedia}
-                                    />
-                                    <div className="mt-1 flex justify-between text-xs text-player-text-muted">
-                                        <span>{formatTime(playback.currentTime)}</span>
-                                        <span>{formatTime(playback.duration)}</span>
-                                    </div>
-                                </div>
-                                <div className="flex items-center justify-between gap-4">
-                                    <div className="flex items-center gap-1">
-                                        <Button
-                                            variant="ghost"
-                                            size="icon"
-                                            onClick={() => handleSkip(-10)}
-                                            disabled={!currentMedia}
-                                        >
-                                            <SkipBack className="h-4 w-4" />
-                                        </Button>
-                                        <Button
-                                            variant="ghost"
-                                            size="icon"
-                                            onClick={togglePlay}
-                                            disabled={!currentMedia}
-                                        >
-                                            {playback.isPlaying ? (
-                                                <Pause className="h-6 w-6" />
-                                            ) : (
-                                                <Play className="h-6 w-6" />
-                                            )}
-                                        </Button>
-                                        <Button
-                                            variant="ghost"
-                                            size="icon"
-                                            onClick={() => handleSkip(10)}
-                                            disabled={!currentMedia}
-                                        >
-                                            <SkipForward className="h-4 w-4" />
-                                        </Button>
-                                        {playerModeConfig.controls.showPageControls && (
-                                            <>
-                                                <div className="mx-2 h-6 w-px bg-player-border" />
-                                                <Button
-                                                    variant="ghost"
-                                                    size="icon"
-                                                    onClick={prevPage}
-                                                    disabled={currentPage <= 1}
-                                                >
-                                                    <ChevronLeft className="h-5 w-5" />
-                                                </Button>
-                                                <div className="text-sm text-player-text-muted">
-                                                    Page {currentPage}/{totalPages}
-                                                </div>
-                                                <Button
-                                                    variant="ghost"
-                                                    size="icon"
-                                                    onClick={nextPage}
-                                                    disabled={currentPage >= totalPages}
-                                                >
-                                                    <ChevronRight className="h-5 w-5" />
-                                                </Button>
-                                            </>
-                                        )}
-                                    </div>
-                                    <div className="flex items-center gap-2">
-                                        <Button variant="ghost" size="icon" onClick={toggleMute}>
-                                            <VolumeIcon className="h-4 w-4" />
-                                        </Button>
-                                        <Slider
-                                            value={[playback.isMuted ? 0 : playback.volume]}
-                                            min={0}
-                                            max={1}
-                                            step={0.01}
-                                            onValueChange={handleVolumeChange}
-                                            className="w-24"
-                                        />
-                                        {playerModeConfig.controls.sleepTimer && (
-                                            <Button
-                                                variant={sleepTimerMinutes ? "default" : "ghost"}
-                                                size="icon"
-                                                onClick={() =>
-                                                    setSleepTimer(
-                                                        sleepTimerMinutes ? null : (sleepOptions[0] ?? 15),
-                                                    )
-                                                }
-                                            >
-                                                <Moon className="h-4 w-4" />
-                                            </Button>
-                                        )}
-                                        {playerModeConfig.controls.abLoop && (
-                                            <>
-                                                <Button variant="ghost" size="sm" onClick={setLoopPointA}>
-                                                    A
-                                                </Button>
-                                                <Button
-                                                    variant="ghost"
-                                                    size="sm"
-                                                    onClick={setLoopPointB}
-                                                    disabled={abLoop.a === null}
-                                                >
-                                                    B
-                                                </Button>
-                                                {(abLoop.a !== null || abLoop.b !== null) && (
-                                                    <Button variant="ghost" size="icon" onClick={clearAbLoop}>
-                                                        <Repeat1 className="h-4 w-4" />
-                                                    </Button>
-                                                )}
-                                            </>
-                                        )}
-                                    </div>
-                                </div>
-                            </div>
+            <ErrorBoundary label="Player">
+                <div className="flex h-full flex-col bg-player-bg">
+                    <DesktopDiagnosticsOverlay />
+                    <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
+                        <div className="flex items-center gap-3">
+                            <CurrentModeIcon className="h-4 w-4 text-player-accent" />
+                            <div className="font-semibold">{playerModeConfig.name}</div>
                         </div>
-                    </GuidedModeCanvas>
-                </div>
-                {showSettings && (
-                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
-                        <SettingsPanel
-                            onClose={() => setShowSettings(false)}
-                            onUiSettingsChange={next => {
-                                setUiSettings(next);
-                                writeUiSettings(next);
-                            }}
-                            uiSettings={uiSettings}
-                        />
-                    </div>
-                )}
-            </div>
-        );
-    }
-
-    if (isReaderMode) {
-        return (
-            <>
-                <DesktopDiagnosticsOverlay />
-                <ReaderView onSettingsOpen={() => setShowSettings(true)} />
-                {showSettings && (
-                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
-                        <SettingsPanel
-                            onClose={() => setShowSettings(false)}
-                            onUiSettingsChange={next => {
-                                setUiSettings(next);
-                                writeUiSettings(next);
-                            }}
-                            uiSettings={uiSettings}
-                        />
-                    </div>
-                )}
-            </>
-        );
-    }
-
-    if (isEditorMode) {
-        return (
-            <>
-                <DesktopDiagnosticsOverlay />
-                <EditorView onSettingsOpen={() => setShowSettings(true)} />
-                {showSettings && (
-                    <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
-                        <SettingsPanel
-                            onClose={() => setShowSettings(false)}
-                            onUiSettingsChange={next => {
-                                setUiSettings(next);
-                                writeUiSettings(next);
-                            }}
-                            uiSettings={uiSettings}
-                        />
-                    </div>
-                )}
-            </>
-        );
-    }
-
-    return (
-        <div
-            ref={containerRef}
-            className="flex h-full flex-col bg-player-bg"
-            onDragOver={e => e.preventDefault()}
-            onDrop={handleFileDrop}
-            {...swipeHandlers}
-        >
-            <DesktopDiagnosticsOverlay />
-            {/* Header */}
-            <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
-                <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                        <Film className="h-5 w-5 text-player-accent" />
-                        <span className="font-semibold">Waldiez Player</span>
-                    </div>
-                </div>
-
-                <div className="flex items-center gap-2">
-                    {currentMedia && (
-                        <span className="mr-4 max-w-[300px] truncate text-sm text-player-text-muted">
-                            {currentMedia.name}
-                        </span>
-                    )}
-
-                    {/* Player Mode Selector */}
-                    <div className="relative">
-                        <Tooltip content={`Mode: ${playerModeConfig.name}`}>
-                            <Button
-                                variant="secondary"
-                                size="icon"
-                                onClick={() => setShowModeMenu(!showModeMenu)}
-                            >
-                                <CurrentModeIcon className="h-4 w-4" />
+                        <div className="flex items-center gap-2">
+                            <SearchBar onAdd={addMediaUrl} />
+                            <Button variant="ghost" size="icon" onClick={handleFileSelect}>
+                                <FolderOpen className="h-4 w-4" />
                             </Button>
-                        </Tooltip>
-
-                        {showModeMenu && (
-                            <>
-                                <div className="fixed inset-0 z-40" onClick={() => setShowModeMenu(false)} />
-                                <div className="absolute right-0 top-full z-50 mt-2 w-64 rounded-lg border border-player-border bg-player-surface p-1 shadow-xl">
-                                    <div className="mb-2 border-b border-player-border px-3 py-2">
-                                        <span className="text-xs font-medium uppercase tracking-wider text-player-text-muted">
-                                            Player Mode
-                                        </span>
-                                    </div>
-                                    {modes.map(m => {
-                                        const config = getModeConfig(m);
-                                        const Icon = MODE_ICONS[m];
-                                        const isSelected = m === playerMode;
-
-                                        return (
-                                            <button
-                                                key={m}
-                                                onClick={() => {
-                                                    setPlayerMode(m);
-                                                    setShowModeMenu(false);
-                                                }}
-                                                className={cn(
-                                                    "flex w-full items-center gap-3 rounded-md px-3 py-2 text-left transition-colors",
-                                                    isSelected
-                                                        ? "bg-player-accent text-white"
-                                                        : "hover:bg-player-border",
-                                                )}
-                                            >
-                                                <Icon className="h-4 w-4 flex-shrink-0" />
-                                                <div className="min-w-0 flex-1">
-                                                    <div className="font-medium">{config.name}</div>
-                                                    <div
-                                                        className={cn(
-                                                            "truncate text-xs",
-                                                            isSelected
-                                                                ? "text-white/70"
-                                                                : "text-player-text-muted",
-                                                        )}
-                                                    >
-                                                        {config.description}
-                                                    </div>
-                                                </div>
-                                            </button>
-                                        );
-                                    })}
-                                </div>
-                            </>
-                        )}
-                    </div>
-
-                    <Tooltip content="Playlist">
-                        <Button
-                            variant={showPlaylistPanel ? "default" : "ghost"}
-                            size="icon"
-                            onClick={togglePlaylistPanel}
-                        >
-                            <ListMusic className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                    <SearchBar onAdd={addMediaUrl} />
-                    <Tooltip content="Add URL (YouTube, Spotify, stream…)">
-                        <Button variant="ghost" size="icon" onClick={() => setShowAddSource(true)}>
-                            <Globe className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                    <Tooltip content="Open File">
-                        <Button variant="ghost" size="icon" onClick={handleFileSelect}>
-                            <FolderOpen className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                    <Tooltip content="Effects">
-                        <Button
-                            variant={showEffectsPanel ? "default" : "ghost"}
-                            size="icon"
-                            onClick={toggleEffectsPanel}
-                        >
-                            <Wand2 className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                    <Tooltip content="Automations">
-                        <Button
-                            variant={showAutomations ? "default" : "ghost"}
-                            size="icon"
-                            onClick={() => setShowAutomations(!showAutomations)}
-                        >
-                            <Zap className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                    <Tooltip content="Settings">
-                        <Button
-                            variant={showSettings ? "default" : "ghost"}
-                            size="icon"
-                            onClick={() => setShowSettings(!showSettings)}
-                        >
-                            <Settings className="h-4 w-4" />
-                        </Button>
-                    </Tooltip>
-                </div>
-            </header>
-
-            {/* Main Content */}
-            <div className="flex flex-1 overflow-hidden">
-                {/* Video Area */}
-                <div className="flex flex-1 flex-col">
-                    <div className="relative flex-1">
-                        {/* Load/save playlists for mood modes on small screens */}
-                        {isMoodMode && <MoodPersistenceBridge mode={playerMode as MoodMode} />}
-                        {isMoodMode ? (
-                            <MoodPlayer
-                                ref={moodPlayerRef}
-                                mode={playerMode as MoodMode}
-                                className="h-full w-full"
-                                pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
-                            />
-                        ) : isGuidedMode ? (
-                            <GuidedModeCanvas
-                                mode={playerMode as "storyteller" | "presentation" | "learning"}
-                                currentMediaName={currentMedia?.name}
-                                currentDocument={currentReaderDocument}
-                                onOpenFiles={handleFileSelect}
-                                onOpenReader={() => {
-                                    if (currentReaderDocument) {
-                                        setPlayerMode("reader");
-                                        return;
-                                    }
-                                    handleFileSelect();
-                                }}
-                                onOpenSettings={() => setShowSettings(true)}
-                            >
-                                <VideoPlayer className="h-full w-full" />
-                            </GuidedModeCanvas>
-                        ) : (
-                            <VideoPlayer className="h-full w-full" />
-                        )}
-
-                        {/* Center Play Button Overlay */}
-                        {!playback.isPlaying && currentMedia && (
-                            <button
-                                className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-player-accent/80 p-6 transition-all hover:scale-110 hover:bg-player-accent"
-                                onClick={togglePlay}
-                            >
-                                <Play className="h-12 w-12 text-white" fill="white" />
-                            </button>
-                        )}
-
-                        {/* Page indicator for audiobook/presentation modes */}
-                        {showPageControls && (
-                            <div className="absolute bottom-4 left-1/2 -translate-x-1/2 rounded-full bg-player-surface/80 px-4 py-2">
-                                <span className="text-sm font-medium">
-                                    Page {currentPage} of {totalPages}
-                                </span>
-                            </div>
-                        )}
-                    </div>
-
-                    {/* Controls Bar */}
-                    <div className="border-t border-player-border bg-player-surface p-4">
-                        {/* Progress Bar */}
-                        <div className="mb-4">
-                            <Slider
-                                value={[playback.currentTime]}
-                                min={0}
-                                max={playback.duration || 1}
-                                step={0.1}
-                                onValueChange={handleSeek}
-                                className="w-full"
-                                disabled={!currentMedia}
-                            />
-                            <div className="mt-1 flex justify-between text-xs text-player-text-muted">
-                                <span>{formatTime(playback.currentTime)}</span>
-                                <span>{formatTime(playback.duration)}</span>
-                            </div>
+                            <Button variant="ghost" size="icon" onClick={() => setShowSettings(true)}>
+                                <Settings className="h-4 w-4" />
+                            </Button>
                         </div>
-
-                        {/* Control Buttons */}
-                        <div className="flex items-center justify-between">
-                            <div className="flex items-center gap-1">
-                                {/* Page controls for audiobook mode */}
-                                {showPageControls ? (
-                                    <>
-                                        <Tooltip content="Previous Page (←)">
-                                            <Button
-                                                variant="ghost"
-                                                size="icon"
-                                                onClick={prevPage}
-                                                disabled={currentPage <= 1}
-                                            >
-                                                <ChevronLeft className="h-5 w-5" />
-                                            </Button>
-                                        </Tooltip>
-
-                                        <Tooltip
-                                            content={playback.isPlaying ? "Pause (Space)" : "Play (Space)"}
+                    </header>
+                    <div className="min-h-0 flex-1">
+                        <GuidedModeCanvas
+                            mode={playerMode as "storyteller" | "presentation" | "learning"}
+                            currentMediaName={currentMedia?.name}
+                            currentDocument={currentReaderDocument}
+                            onOpenFiles={handleFileSelect}
+                            onOpenReader={() => {
+                                if (currentReaderDocument) {
+                                    setPlayerMode("reader");
+                                    return;
+                                }
+                                handleFileSelect();
+                            }}
+                            onOpenSettings={() => setShowSettings(true)}
+                        >
+                            <div className="flex h-full flex-col">
+                                <div className="relative min-h-0 flex-1">
+                                    <VideoPlayer className="h-full w-full" />
+                                    {!playback.isPlaying && currentMedia && (
+                                        <button
+                                            className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-player-accent/80 p-6 transition-all hover:scale-110 hover:bg-player-accent"
+                                            onClick={togglePlay}
                                         >
-                                            <Button
-                                                variant="ghost"
-                                                size="icon"
-                                                onClick={togglePlay}
-                                                disabled={!currentMedia}
-                                                className="mx-1"
-                                            >
-                                                {playback.isPlaying ? (
-                                                    <Pause className="h-6 w-6" />
-                                                ) : (
-                                                    <Play className="h-6 w-6" />
-                                                )}
-                                            </Button>
-                                        </Tooltip>
-
-                                        <Tooltip content="Next Page (→)">
-                                            <Button
-                                                variant="ghost"
-                                                size="icon"
-                                                onClick={nextPage}
-                                                disabled={currentPage >= totalPages}
-                                            >
-                                                <ChevronRight className="h-5 w-5" />
-                                            </Button>
-                                        </Tooltip>
-                                    </>
-                                ) : (
-                                    <>
-                                        {/* Standard video controls */}
-                                        <Tooltip content="Skip Back 10s">
+                                            <Play className="h-12 w-12 text-white" fill="white" />
+                                        </button>
+                                    )}
+                                </div>
+                                <div className="border-t border-player-border bg-player-surface p-4">
+                                    <div className="mb-4">
+                                        <Slider
+                                            value={[playback.currentTime]}
+                                            min={0}
+                                            max={playback.duration || 1}
+                                            step={0.1}
+                                            onValueChange={handleSeek}
+                                            className="w-full"
+                                            disabled={!currentMedia}
+                                        />
+                                        <div className="mt-1 flex justify-between text-xs text-player-text-muted">
+                                            <span>{formatTime(playback.currentTime)}</span>
+                                            <span>{formatTime(playback.duration)}</span>
+                                        </div>
+                                    </div>
+                                    <div className="flex items-center justify-between gap-4">
+                                        <div className="flex items-center gap-1">
                                             <Button
                                                 variant="ghost"
                                                 size="icon"
@@ -1000,28 +581,11 @@ export function App() {
                                             >
                                                 <SkipBack className="h-4 w-4" />
                                             </Button>
-                                        </Tooltip>
-
-                                        <Tooltip content="Rewind 5s (←)">
-                                            <Button
-                                                variant="ghost"
-                                                size="icon"
-                                                onClick={() => handleSkip(-5)}
-                                                disabled={!currentMedia}
-                                            >
-                                                <ChevronLeft className="h-5 w-5" />
-                                            </Button>
-                                        </Tooltip>
-
-                                        <Tooltip
-                                            content={playback.isPlaying ? "Pause (Space)" : "Play (Space)"}
-                                        >
                                             <Button
                                                 variant="ghost"
                                                 size="icon"
                                                 onClick={togglePlay}
                                                 disabled={!currentMedia}
-                                                className="mx-1"
                                             >
                                                 {playback.isPlaying ? (
                                                     <Pause className="h-6 w-6" />
@@ -1029,20 +593,6 @@ export function App() {
                                                     <Play className="h-6 w-6" />
                                                 )}
                                             </Button>
-                                        </Tooltip>
-
-                                        <Tooltip content="Forward 5s (→)">
-                                            <Button
-                                                variant="ghost"
-                                                size="icon"
-                                                onClick={() => handleSkip(5)}
-                                                disabled={!currentMedia}
-                                            >
-                                                <ChevronRight className="h-5 w-5" />
-                                            </Button>
-                                        </Tooltip>
-
-                                        <Tooltip content="Skip Forward 10s">
                                             <Button
                                                 variant="ghost"
                                                 size="icon"
@@ -1051,305 +601,783 @@ export function App() {
                                             >
                                                 <SkipForward className="h-4 w-4" />
                                             </Button>
-                                        </Tooltip>
-                                    </>
-                                )}
-
-                                <div className="mx-2 h-6 w-px bg-player-border" />
-
-                                {/* Volume */}
-                                <div className="flex items-center gap-2">
-                                    <Tooltip content={playback.isMuted ? "Unmute (M)" : "Mute (M)"}>
-                                        <Button variant="ghost" size="icon" onClick={toggleMute}>
-                                            <VolumeIcon className="h-4 w-4" />
-                                        </Button>
-                                    </Tooltip>
-                                    <Slider
-                                        value={[playback.isMuted ? 0 : playback.volume]}
-                                        min={0}
-                                        max={1}
-                                        step={0.01}
-                                        onValueChange={handleVolumeChange}
-                                        className="w-24"
-                                    />
-                                </div>
-
-                                {/* Restart */}
-                                <Tooltip content="Restart">
-                                    <Button
-                                        variant="ghost"
-                                        size="icon"
-                                        onClick={() => seek(0)}
-                                        disabled={!currentMedia}
-                                    >
-                                        <RotateCcw className="h-4 w-4" />
-                                    </Button>
-                                </Tooltip>
-
-                                {/* A-B Loop (Learning mode) */}
-                                {playerModeConfig.controls.abLoop && (
-                                    <>
-                                        <div className="mx-2 h-6 w-px bg-player-border" />
-                                        <Tooltip
-                                            content={
-                                                abLoop.a !== null
-                                                    ? `A: ${formatTime(abLoop.a)}`
-                                                    : "Set Loop Point A"
-                                            }
-                                        >
-                                            <Button
-                                                variant={abLoop.a !== null ? "default" : "ghost"}
-                                                size="sm"
-                                                onClick={setLoopPointA}
-                                                disabled={!currentMedia}
-                                            >
-                                                A
+                                            {playerModeConfig.controls.showPageControls && (
+                                                <>
+                                                    <div className="mx-2 h-6 w-px bg-player-border" />
+                                                    <Button
+                                                        variant="ghost"
+                                                        size="icon"
+                                                        onClick={prevPage}
+                                                        disabled={currentPage <= 1}
+                                                    >
+                                                        <ChevronLeft className="h-5 w-5" />
+                                                    </Button>
+                                                    <div className="text-sm text-player-text-muted">
+                                                        Page {currentPage}/{totalPages}
+                                                    </div>
+                                                    <Button
+                                                        variant="ghost"
+                                                        size="icon"
+                                                        onClick={nextPage}
+                                                        disabled={currentPage >= totalPages}
+                                                    >
+                                                        <ChevronRight className="h-5 w-5" />
+                                                    </Button>
+                                                </>
+                                            )}
+                                        </div>
+                                        <div className="flex items-center gap-2">
+                                            <Button variant="ghost" size="icon" onClick={toggleMute}>
+                                                <VolumeIcon className="h-4 w-4" />
                                             </Button>
-                                        </Tooltip>
-                                        <Tooltip
-                                            content={
-                                                abLoop.b !== null
-                                                    ? `B: ${formatTime(abLoop.b)}`
-                                                    : "Set Loop Point B"
-                                            }
-                                        >
-                                            <Button
-                                                variant={abLoop.b !== null ? "default" : "ghost"}
-                                                size="sm"
-                                                onClick={setLoopPointB}
-                                                disabled={!currentMedia || abLoop.a === null}
-                                            >
-                                                B
-                                            </Button>
-                                        </Tooltip>
-                                        {(abLoop.a !== null || abLoop.b !== null) && (
-                                            <Tooltip content="Clear A-B Loop">
-                                                <Button variant="ghost" size="icon" onClick={clearAbLoop}>
-                                                    <Repeat1 className="h-4 w-4" />
+                                            <Slider
+                                                value={[playback.isMuted ? 0 : playback.volume]}
+                                                min={0}
+                                                max={1}
+                                                step={0.01}
+                                                onValueChange={handleVolumeChange}
+                                                className="w-24"
+                                            />
+                                            {playerModeConfig.controls.sleepTimer && (
+                                                <Button
+                                                    variant={sleepTimerMinutes ? "default" : "ghost"}
+                                                    size="icon"
+                                                    onClick={() =>
+                                                        setSleepTimer(
+                                                            sleepTimerMinutes
+                                                                ? null
+                                                                : (sleepOptions[0] ?? 15),
+                                                        )
+                                                    }
+                                                >
+                                                    <Moon className="h-4 w-4" />
                                                 </Button>
-                                            </Tooltip>
-                                        )}
-                                    </>
-                                )}
-                            </div>
-
-                            <div className="flex items-center gap-2">
-                                {/* Sleep Timer (Storyteller/Audiobook modes) */}
-                                {playerModeConfig.controls.sleepTimer && sleepOptions.length > 0 && (
-                                    <div className="relative">
-                                        <Tooltip
-                                            content={
-                                                sleepTimerMinutes
-                                                    ? `Sleep in ${sleepTimerMinutes}min`
-                                                    : "Sleep Timer"
-                                            }
-                                        >
-                                            <Button
-                                                variant={sleepTimerMinutes ? "default" : "ghost"}
-                                                size="icon"
-                                                onClick={() => setShowSleepMenu(!showSleepMenu)}
-                                            >
-                                                <Moon className="h-4 w-4" />
-                                            </Button>
-                                        </Tooltip>
-                                        {showSleepMenu && (
-                                            <>
-                                                <div
-                                                    className="fixed inset-0 z-40"
-                                                    onClick={() => setShowSleepMenu(false)}
-                                                />
-                                                <div className="absolute bottom-full right-0 z-50 mb-2 rounded-lg border border-player-border bg-player-surface p-1 shadow-lg">
-                                                    {sleepTimerMinutes && (
-                                                        <button
-                                                            onClick={() => {
-                                                                setSleepTimer(null);
-                                                                setShowSleepMenu(false);
-                                                            }}
-                                                            className="block w-full rounded px-3 py-1 text-left text-sm text-player-accent hover:bg-player-border"
+                                            )}
+                                            {playerModeConfig.controls.abLoop && (
+                                                <>
+                                                    <Button variant="ghost" size="sm" onClick={setLoopPointA}>
+                                                        A
+                                                    </Button>
+                                                    <Button
+                                                        variant="ghost"
+                                                        size="sm"
+                                                        onClick={setLoopPointB}
+                                                        disabled={abLoop.a === null}
+                                                    >
+                                                        B
+                                                    </Button>
+                                                    {(abLoop.a !== null || abLoop.b !== null) && (
+                                                        <Button
+                                                            variant="ghost"
+                                                            size="icon"
+                                                            onClick={clearAbLoop}
                                                         >
-                                                            Cancel Timer
-                                                        </button>
+                                                            <Repeat1 className="h-4 w-4" />
+                                                        </Button>
                                                     )}
-                                                    {sleepOptions.map(mins => (
-                                                        <button
-                                                            key={mins}
-                                                            onClick={() => {
-                                                                setSleepTimer(mins);
-                                                                setShowSleepMenu(false);
-                                                            }}
+                                                </>
+                                            )}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </GuidedModeCanvas>
+                    </div>
+                    {showSettings && (
+                        <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                            <SettingsPanel
+                                onClose={() => setShowSettings(false)}
+                                onUiSettingsChange={next => {
+                                    setUiSettings(next);
+                                    writeUiSettings(next);
+                                }}
+                                uiSettings={uiSettings}
+                            />
+                        </div>
+                    )}
+                </div>
+            </ErrorBoundary>
+        );
+    }
+
+    if (isReaderMode) {
+        return (
+            <ErrorBoundary label="Reader">
+                <>
+                    <DesktopDiagnosticsOverlay />
+                    <ReaderView onSettingsOpen={() => setShowSettings(true)} />
+                    {showSettings && (
+                        <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                            <SettingsPanel
+                                onClose={() => setShowSettings(false)}
+                                onUiSettingsChange={next => {
+                                    setUiSettings(next);
+                                    writeUiSettings(next);
+                                }}
+                                uiSettings={uiSettings}
+                            />
+                        </div>
+                    )}
+                </>
+            </ErrorBoundary>
+        );
+    }
+
+    if (isEditorMode) {
+        return (
+            <ErrorBoundary label="Editor">
+                <>
+                    <DesktopDiagnosticsOverlay />
+                    <EditorView onSettingsOpen={() => setShowSettings(true)} />
+                    {showSettings && (
+                        <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                            <SettingsPanel
+                                onClose={() => setShowSettings(false)}
+                                onUiSettingsChange={next => {
+                                    setUiSettings(next);
+                                    writeUiSettings(next);
+                                }}
+                                uiSettings={uiSettings}
+                            />
+                        </div>
+                    )}
+                </>
+            </ErrorBoundary>
+        );
+    }
+
+    return (
+        <ErrorBoundary label="Player">
+            <div
+                ref={containerRef}
+                className="flex h-full flex-col bg-player-bg"
+                onDragOver={e => e.preventDefault()}
+                onDrop={handleFileDrop}
+                {...swipeHandlers}
+            >
+                <DesktopDiagnosticsOverlay />
+                {/* Header */}
+                <header className="flex h-12 items-center justify-between border-b border-player-border bg-player-surface px-4">
+                    <div className="flex items-center gap-4">
+                        <div className="flex items-center gap-2">
+                            <Film className="h-5 w-5 text-player-accent" />
+                            <span className="font-semibold">Waldiez Player</span>
+                        </div>
+                    </div>
+
+                    <div className="flex items-center gap-2">
+                        {currentMedia && (
+                            <span className="mr-4 max-w-[300px] truncate text-sm text-player-text-muted">
+                                {currentMedia.name}
+                            </span>
+                        )}
+
+                        {/* Player Mode Selector */}
+                        <div className="relative">
+                            <Tooltip content={`Mode: ${playerModeConfig.name}`}>
+                                <Button
+                                    variant="secondary"
+                                    size="icon"
+                                    onClick={() => setShowModeMenu(!showModeMenu)}
+                                >
+                                    <CurrentModeIcon className="h-4 w-4" />
+                                </Button>
+                            </Tooltip>
+
+                            {showModeMenu && (
+                                <>
+                                    <div
+                                        className="fixed inset-0 z-40"
+                                        onClick={() => setShowModeMenu(false)}
+                                    />
+                                    <div className="absolute right-0 top-full z-50 mt-2 w-64 rounded-lg border border-player-border bg-player-surface p-1 shadow-xl">
+                                        <div className="mb-2 border-b border-player-border px-3 py-2">
+                                            <span className="text-xs font-medium uppercase tracking-wider text-player-text-muted">
+                                                Player Mode
+                                            </span>
+                                        </div>
+                                        {modes.map(m => {
+                                            const config = getModeConfig(m);
+                                            const Icon = MODE_ICONS[m];
+                                            const isSelected = m === playerMode;
+
+                                            return (
+                                                <button
+                                                    key={m}
+                                                    onClick={() => {
+                                                        setPlayerMode(m);
+                                                        setShowModeMenu(false);
+                                                    }}
+                                                    className={cn(
+                                                        "flex w-full items-center gap-3 rounded-md px-3 py-2 text-left transition-colors",
+                                                        isSelected
+                                                            ? "bg-player-accent text-white"
+                                                            : "hover:bg-player-border",
+                                                    )}
+                                                >
+                                                    <Icon className="h-4 w-4 flex-shrink-0" />
+                                                    <div className="min-w-0 flex-1">
+                                                        <div className="font-medium">{config.name}</div>
+                                                        <div
                                                             className={cn(
-                                                                "block w-full rounded px-3 py-1 text-left text-sm hover:bg-player-border",
-                                                                sleepTimerMinutes === mins &&
-                                                                    "bg-player-accent text-white",
+                                                                "truncate text-xs",
+                                                                isSelected
+                                                                    ? "text-white/70"
+                                                                    : "text-player-text-muted",
                                                             )}
                                                         >
-                                                            {mins} minutes
-                                                        </button>
-                                                    ))}
-                                                </div>
-                                            </>
-                                        )}
+                                                            {config.description}
+                                                        </div>
+                                                    </div>
+                                                </button>
+                                            );
+                                        })}
                                     </div>
-                                )}
+                                </>
+                            )}
+                        </div>
 
-                                {/* Loop / Repeat */}
-                                {isMoodMode ? (
+                        <Tooltip content="Playlist">
+                            <Button
+                                variant={showPlaylistPanel ? "default" : "ghost"}
+                                size="icon"
+                                onClick={togglePlaylistPanel}
+                            >
+                                <ListMusic className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                        <SearchBar onAdd={addMediaUrl} />
+                        <Tooltip content="Add URL (YouTube, Spotify, stream…)">
+                            <Button variant="ghost" size="icon" onClick={() => setShowAddSource(true)}>
+                                <Globe className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                        <Tooltip content="Open File">
+                            <Button variant="ghost" size="icon" onClick={handleFileSelect}>
+                                <FolderOpen className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                        <Tooltip content="Effects">
+                            <Button
+                                variant={showEffectsPanel ? "default" : "ghost"}
+                                size="icon"
+                                onClick={toggleEffectsPanel}
+                            >
+                                <Wand2 className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                        <Tooltip content="Automations">
+                            <Button
+                                variant={showAutomations ? "default" : "ghost"}
+                                size="icon"
+                                onClick={() => setShowAutomations(!showAutomations)}
+                            >
+                                <Zap className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                        <Tooltip content="Settings">
+                            <Button
+                                variant={showSettings ? "default" : "ghost"}
+                                size="icon"
+                                onClick={() => setShowSettings(!showSettings)}
+                            >
+                                <Settings className="h-4 w-4" />
+                            </Button>
+                        </Tooltip>
+                    </div>
+                </header>
+
+                {/* Main Content */}
+                <div className="flex flex-1 overflow-hidden">
+                    {/* Video Area */}
+                    <div className="flex flex-1 flex-col">
+                        <div className="relative flex-1">
+                            {/* Load/save playlists for mood modes on small screens */}
+                            {isMoodMode && <MoodPersistenceBridge mode={playerMode as MoodMode} />}
+                            {isMoodMode ? (
+                                <MoodPlayer
+                                    ref={moodPlayerRef}
+                                    mode={playerMode as MoodMode}
+                                    className="h-full w-full"
+                                    pausePlaybackWhenHidden={uiSettings.pausePlaybackWhenHidden}
+                                />
+                            ) : isGuidedMode ? (
+                                <GuidedModeCanvas
+                                    mode={playerMode as "storyteller" | "presentation" | "learning"}
+                                    currentMediaName={currentMedia?.name}
+                                    currentDocument={currentReaderDocument}
+                                    onOpenFiles={handleFileSelect}
+                                    onOpenReader={() => {
+                                        if (currentReaderDocument) {
+                                            setPlayerMode("reader");
+                                            return;
+                                        }
+                                        handleFileSelect();
+                                    }}
+                                    onOpenSettings={() => setShowSettings(true)}
+                                >
+                                    <VideoPlayer className="h-full w-full" />
+                                </GuidedModeCanvas>
+                            ) : (
+                                <VideoPlayer className="h-full w-full" />
+                            )}
+
+                            {/* Center Play Button Overlay */}
+                            {!playback.isPlaying && currentMedia && (
+                                <button
+                                    className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-player-accent/80 p-6 transition-all hover:scale-110 hover:bg-player-accent"
+                                    onClick={togglePlay}
+                                >
+                                    <Play className="h-12 w-12 text-white" fill="white" />
+                                </button>
+                            )}
+
+                            {/* Page indicator for audiobook/presentation modes */}
+                            {showPageControls && (
+                                <div className="absolute bottom-4 left-1/2 -translate-x-1/2 rounded-full bg-player-surface/80 px-4 py-2">
+                                    <span className="text-sm font-medium">
+                                        Page {currentPage} of {totalPages}
+                                    </span>
+                                </div>
+                            )}
+                        </div>
+
+                        {/* Controls Bar */}
+                        <div className="border-t border-player-border bg-player-surface p-4">
+                            {/* Progress Bar */}
+                            <div className="mb-4">
+                                <Slider
+                                    value={[playback.currentTime]}
+                                    min={0}
+                                    max={playback.duration || 1}
+                                    step={0.1}
+                                    onValueChange={handleSeek}
+                                    className="w-full"
+                                    disabled={!currentMedia}
+                                />
+                                <div className="mt-1 flex justify-between text-xs text-player-text-muted">
+                                    <span>{formatTime(playback.currentTime)}</span>
+                                    <span>{formatTime(playback.duration)}</span>
+                                </div>
+                            </div>
+
+                            {/* Control Buttons */}
+                            <div className="flex items-center justify-between">
+                                <div className="flex items-center gap-1">
+                                    {/* Page controls for audiobook mode */}
+                                    {showPageControls ? (
+                                        <>
+                                            <Tooltip content="Previous Page (←)">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={prevPage}
+                                                    disabled={currentPage <= 1}
+                                                >
+                                                    <ChevronLeft className="h-5 w-5" />
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip
+                                                content={
+                                                    playback.isPlaying ? "Pause (Space)" : "Play (Space)"
+                                                }
+                                            >
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={togglePlay}
+                                                    disabled={!currentMedia}
+                                                    className="mx-1"
+                                                >
+                                                    {playback.isPlaying ? (
+                                                        <Pause className="h-6 w-6" />
+                                                    ) : (
+                                                        <Play className="h-6 w-6" />
+                                                    )}
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip content="Next Page (→)">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={nextPage}
+                                                    disabled={currentPage >= totalPages}
+                                                >
+                                                    <ChevronRight className="h-5 w-5" />
+                                                </Button>
+                                            </Tooltip>
+                                        </>
+                                    ) : (
+                                        <>
+                                            {/* Standard video controls */}
+                                            <Tooltip content="Skip Back 10s">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={() => handleSkip(-10)}
+                                                    disabled={!currentMedia}
+                                                >
+                                                    <SkipBack className="h-4 w-4" />
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip content="Rewind 5s (←)">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={() => handleSkip(-5)}
+                                                    disabled={!currentMedia}
+                                                >
+                                                    <ChevronLeft className="h-5 w-5" />
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip
+                                                content={
+                                                    playback.isPlaying ? "Pause (Space)" : "Play (Space)"
+                                                }
+                                            >
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={togglePlay}
+                                                    disabled={!currentMedia}
+                                                    className="mx-1"
+                                                >
+                                                    {playback.isPlaying ? (
+                                                        <Pause className="h-6 w-6" />
+                                                    ) : (
+                                                        <Play className="h-6 w-6" />
+                                                    )}
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip content="Forward 5s (→)">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={() => handleSkip(5)}
+                                                    disabled={!currentMedia}
+                                                >
+                                                    <ChevronRight className="h-5 w-5" />
+                                                </Button>
+                                            </Tooltip>
+
+                                            <Tooltip content="Skip Forward 10s">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    onClick={() => handleSkip(10)}
+                                                    disabled={!currentMedia}
+                                                >
+                                                    <SkipForward className="h-4 w-4" />
+                                                </Button>
+                                            </Tooltip>
+                                        </>
+                                    )}
+
+                                    <div className="mx-2 h-6 w-px bg-player-border" />
+
+                                    {/* Volume */}
+                                    <div className="flex items-center gap-2">
+                                        <Tooltip content={playback.isMuted ? "Unmute (M)" : "Mute (M)"}>
+                                            <Button variant="ghost" size="icon" onClick={toggleMute}>
+                                                <VolumeIcon className="h-4 w-4" />
+                                            </Button>
+                                        </Tooltip>
+                                        <Slider
+                                            value={[playback.isMuted ? 0 : playback.volume]}
+                                            min={0}
+                                            max={1}
+                                            step={0.01}
+                                            onValueChange={handleVolumeChange}
+                                            className="w-24"
+                                        />
+                                    </div>
+
+                                    {/* Restart */}
+                                    <Tooltip content="Restart">
+                                        <Button
+                                            variant="ghost"
+                                            size="icon"
+                                            onClick={() => seek(0)}
+                                            disabled={!currentMedia}
+                                        >
+                                            <RotateCcw className="h-4 w-4" />
+                                        </Button>
+                                    </Tooltip>
+
+                                    {/* A-B Loop (Learning mode) */}
+                                    {playerModeConfig.controls.abLoop && (
+                                        <>
+                                            <div className="mx-2 h-6 w-px bg-player-border" />
+                                            <Tooltip
+                                                content={
+                                                    abLoop.a !== null
+                                                        ? `A: ${formatTime(abLoop.a)}`
+                                                        : "Set Loop Point A"
+                                                }
+                                            >
+                                                <Button
+                                                    variant={abLoop.a !== null ? "default" : "ghost"}
+                                                    size="sm"
+                                                    onClick={setLoopPointA}
+                                                    disabled={!currentMedia}
+                                                >
+                                                    A
+                                                </Button>
+                                            </Tooltip>
+                                            <Tooltip
+                                                content={
+                                                    abLoop.b !== null
+                                                        ? `B: ${formatTime(abLoop.b)}`
+                                                        : "Set Loop Point B"
+                                                }
+                                            >
+                                                <Button
+                                                    variant={abLoop.b !== null ? "default" : "ghost"}
+                                                    size="sm"
+                                                    onClick={setLoopPointB}
+                                                    disabled={!currentMedia || abLoop.a === null}
+                                                >
+                                                    B
+                                                </Button>
+                                            </Tooltip>
+                                            {(abLoop.a !== null || abLoop.b !== null) && (
+                                                <Tooltip content="Clear A-B Loop">
+                                                    <Button variant="ghost" size="icon" onClick={clearAbLoop}>
+                                                        <Repeat1 className="h-4 w-4" />
+                                                    </Button>
+                                                </Tooltip>
+                                            )}
+                                        </>
+                                    )}
+                                </div>
+
+                                <div className="flex items-center gap-2">
+                                    {/* Sleep Timer (Storyteller/Audiobook modes) */}
+                                    {playerModeConfig.controls.sleepTimer && sleepOptions.length > 0 && (
+                                        <div className="relative">
+                                            <Tooltip
+                                                content={
+                                                    sleepTimerMinutes
+                                                        ? `Sleep in ${sleepTimerMinutes}min`
+                                                        : "Sleep Timer"
+                                                }
+                                            >
+                                                <Button
+                                                    variant={sleepTimerMinutes ? "default" : "ghost"}
+                                                    size="icon"
+                                                    onClick={() => setShowSleepMenu(!showSleepMenu)}
+                                                >
+                                                    <Moon className="h-4 w-4" />
+                                                </Button>
+                                            </Tooltip>
+                                            {showSleepMenu && (
+                                                <>
+                                                    <div
+                                                        className="fixed inset-0 z-40"
+                                                        onClick={() => setShowSleepMenu(false)}
+                                                    />
+                                                    <div className="absolute bottom-full right-0 z-50 mb-2 rounded-lg border border-player-border bg-player-surface p-1 shadow-lg">
+                                                        {sleepTimerMinutes && (
+                                                            <button
+                                                                onClick={() => {
+                                                                    setSleepTimer(null);
+                                                                    setShowSleepMenu(false);
+                                                                }}
+                                                                className="block w-full rounded px-3 py-1 text-left text-sm text-player-accent hover:bg-player-border"
+                                                            >
+                                                                Cancel Timer
+                                                            </button>
+                                                        )}
+                                                        {sleepOptions.map(mins => (
+                                                            <button
+                                                                key={mins}
+                                                                onClick={() => {
+                                                                    setSleepTimer(mins);
+                                                                    setShowSleepMenu(false);
+                                                                }}
+                                                                className={cn(
+                                                                    "block w-full rounded px-3 py-1 text-left text-sm hover:bg-player-border",
+                                                                    sleepTimerMinutes === mins &&
+                                                                        "bg-player-accent text-white",
+                                                                )}
+                                                            >
+                                                                {mins} minutes
+                                                            </button>
+                                                        ))}
+                                                    </div>
+                                                </>
+                                            )}
+                                        </div>
+                                    )}
+
+                                    {/* Loop / Repeat */}
+                                    {isMoodMode ? (
+                                        <Tooltip
+                                            content={
+                                                repeatMode === "none"
+                                                    ? "Repeat off (L)"
+                                                    : repeatMode === "all"
+                                                      ? "Repeat all (L)"
+                                                      : "Repeat one (L)"
+                                            }
+                                        >
+                                            <Button
+                                                variant={repeatMode !== "none" ? "default" : "ghost"}
+                                                size="icon"
+                                                onClick={cycleRepeatMode}
+                                            >
+                                                {repeatMode === "one" ? (
+                                                    <Repeat1 className="h-4 w-4" />
+                                                ) : (
+                                                    <Repeat className="h-4 w-4" />
+                                                )}
+                                            </Button>
+                                        </Tooltip>
+                                    ) : (
+                                        <Tooltip
+                                            content={
+                                                playback.isLooping ? "Disable Loop (L)" : "Enable Loop (L)"
+                                            }
+                                        >
+                                            <Button
+                                                variant={playback.isLooping ? "default" : "ghost"}
+                                                size="icon"
+                                                onClick={toggleLoop}
+                                            >
+                                                <Repeat className="h-4 w-4" />
+                                            </Button>
+                                        </Tooltip>
+                                    )}
+
+                                    {/* Playback Speed */}
+                                    {playerModeConfig.controls.showPlaybackSpeed && (
+                                        <div className="relative">
+                                            <Tooltip content="Playback Speed">
+                                                <Button
+                                                    variant="ghost"
+                                                    size="sm"
+                                                    onClick={() => setShowSpeedMenu(!showSpeedMenu)}
+                                                    className="min-w-[50px] font-mono"
+                                                >
+                                                    {playback.playbackRate}x
+                                                </Button>
+                                            </Tooltip>
+                                            {showSpeedMenu && (
+                                                <>
+                                                    <div
+                                                        className="fixed inset-0 z-40"
+                                                        onClick={() => setShowSpeedMenu(false)}
+                                                    />
+                                                    <div className="absolute bottom-full right-0 z-50 mb-2 rounded-lg border border-player-border bg-player-surface p-1 shadow-lg">
+                                                        {speedOptions.map(speed => (
+                                                            <button
+                                                                key={speed}
+                                                                onClick={() => {
+                                                                    setPlaybackRate(speed);
+                                                                    setShowSpeedMenu(false);
+                                                                }}
+                                                                className={cn(
+                                                                    "block w-full rounded px-3 py-1 text-left text-sm hover:bg-player-border",
+                                                                    playback.playbackRate === speed &&
+                                                                        "bg-player-accent text-white",
+                                                                )}
+                                                            >
+                                                                {speed}x
+                                                            </button>
+                                                        ))}
+                                                    </div>
+                                                </>
+                                            )}
+                                        </div>
+                                    )}
+
+                                    {/* Fullscreen */}
                                     <Tooltip
                                         content={
-                                            repeatMode === "none"
-                                                ? "Repeat off (L)"
-                                                : repeatMode === "all"
-                                                  ? "Repeat all (L)"
-                                                  : "Repeat one (L)"
+                                            playback.isFullscreen ? "Exit Fullscreen (F)" : "Fullscreen (F)"
                                         }
                                     >
-                                        <Button
-                                            variant={repeatMode !== "none" ? "default" : "ghost"}
-                                            size="icon"
-                                            onClick={cycleRepeatMode}
-                                        >
-                                            {repeatMode === "one" ? (
-                                                <Repeat1 className="h-4 w-4" />
+                                        <Button variant="ghost" size="icon" onClick={toggleFullscreen}>
+                                            {playback.isFullscreen ? (
+                                                <Minimize2 className="h-4 w-4" />
                                             ) : (
-                                                <Repeat className="h-4 w-4" />
+                                                <Maximize2 className="h-4 w-4" />
                                             )}
                                         </Button>
                                     </Tooltip>
-                                ) : (
-                                    <Tooltip
-                                        content={playback.isLooping ? "Disable Loop (L)" : "Enable Loop (L)"}
-                                    >
-                                        <Button
-                                            variant={playback.isLooping ? "default" : "ghost"}
-                                            size="icon"
-                                            onClick={toggleLoop}
-                                        >
-                                            <Repeat className="h-4 w-4" />
-                                        </Button>
-                                    </Tooltip>
-                                )}
-
-                                {/* Playback Speed */}
-                                {playerModeConfig.controls.showPlaybackSpeed && (
-                                    <div className="relative">
-                                        <Tooltip content="Playback Speed">
-                                            <Button
-                                                variant="ghost"
-                                                size="sm"
-                                                onClick={() => setShowSpeedMenu(!showSpeedMenu)}
-                                                className="min-w-[50px] font-mono"
-                                            >
-                                                {playback.playbackRate}x
-                                            </Button>
-                                        </Tooltip>
-                                        {showSpeedMenu && (
-                                            <>
-                                                <div
-                                                    className="fixed inset-0 z-40"
-                                                    onClick={() => setShowSpeedMenu(false)}
-                                                />
-                                                <div className="absolute bottom-full right-0 z-50 mb-2 rounded-lg border border-player-border bg-player-surface p-1 shadow-lg">
-                                                    {speedOptions.map(speed => (
-                                                        <button
-                                                            key={speed}
-                                                            onClick={() => {
-                                                                setPlaybackRate(speed);
-                                                                setShowSpeedMenu(false);
-                                                            }}
-                                                            className={cn(
-                                                                "block w-full rounded px-3 py-1 text-left text-sm hover:bg-player-border",
-                                                                playback.playbackRate === speed &&
-                                                                    "bg-player-accent text-white",
-                                                            )}
-                                                        >
-                                                            {speed}x
-                                                        </button>
-                                                    ))}
-                                                </div>
-                                            </>
-                                        )}
-                                    </div>
-                                )}
-
-                                {/* Fullscreen */}
-                                <Tooltip
-                                    content={playback.isFullscreen ? "Exit Fullscreen (F)" : "Fullscreen (F)"}
-                                >
-                                    <Button variant="ghost" size="icon" onClick={toggleFullscreen}>
-                                        {playback.isFullscreen ? (
-                                            <Minimize2 className="h-4 w-4" />
-                                        ) : (
-                                            <Maximize2 className="h-4 w-4" />
-                                        )}
-                                    </Button>
-                                </Tooltip>
+                                </div>
                             </div>
                         </div>
                     </div>
+
+                    {/* Effects Panel */}
+                    {showEffectsPanel && (
+                        <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
+                            <EffectsPanel />
+                        </div>
+                    )}
+
+                    {/* Settings Panel */}
+                    {showSettings && (
+                        <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
+                            <SettingsPanel
+                                onClose={() => setShowSettings(false)}
+                                onUiSettingsChange={next => {
+                                    setUiSettings(next);
+                                    writeUiSettings(next);
+                                }}
+                                uiSettings={uiSettings}
+                            />
+                        </div>
+                    )}
+
+                    {/* Automations Panel */}
+                    {showAutomations && (
+                        <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
+                            <AutomationsPanel
+                                onClose={() => setShowAutomations(false)}
+                                rules={automationRules}
+                                onAdd={addRule}
+                                onRemove={removeRule}
+                                onToggle={toggleRule}
+                            />
+                        </div>
+                    )}
                 </div>
 
-                {/* Effects Panel */}
-                {showEffectsPanel && (
-                    <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
-                        <EffectsPanel />
-                    </div>
-                )}
+                {/* Playlist drawer (fixed overlay) */}
+                {showPlaylistPanel && <PlaylistPanel />}
 
-                {/* Settings Panel */}
-                {showSettings && (
-                    <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
-                        <SettingsPanel
-                            onClose={() => setShowSettings(false)}
-                            onUiSettingsChange={next => {
-                                setUiSettings(next);
-                                writeUiSettings(next);
-                            }}
-                            uiSettings={uiSettings}
-                        />
-                    </div>
-                )}
+                {/* Add-source dialog */}
+                {showAddSource && <AddSourceDialog onClose={() => setShowAddSource(false)} />}
 
-                {/* Automations Panel */}
-                {showAutomations && (
-                    <div className="w-80 animate-fade-in border-l border-player-border bg-player-surface">
-                        <AutomationsPanel
-                            onClose={() => setShowAutomations(false)}
-                            rules={automationRules}
-                            onAdd={addRule}
-                            onRemove={removeRule}
-                            onToggle={toggleRule}
-                        />
-                    </div>
+                {/* Mobile bottom nav */}
+                <BottomNav
+                    onSearchOpen={() => {
+                        /* SearchBar handles its own open state */
+                    }}
+                    onSettingsOpen={() => setShowSettings(true)}
+                    onMoodsOpen={() => setShowModeMenu(true)}
+                />
+
+                {/* Screensaver overlay */}
+                {isScreensaverActive && (
+                    <ScreensaverOverlay
+                        media={currentMedia}
+                        mode={playerMode}
+                        currentTime={playback.currentTime}
+                        duration={playback.duration}
+                        style={uiSettings.screensaverStyle}
+                        onDismiss={() => setIsScreensaverActive(false)}
+                    />
                 )}
             </div>
-
-            {/* Playlist drawer (fixed overlay) */}
-            {showPlaylistPanel && <PlaylistPanel />}
-
-            {/* Add-source dialog */}
-            {showAddSource && <AddSourceDialog onClose={() => setShowAddSource(false)} />}
-
-            {/* Mobile bottom nav */}
-            <BottomNav
-                onSearchOpen={() => {
-                    /* SearchBar handles its own open state */
-                }}
-                onSettingsOpen={() => setShowSettings(true)}
-                onMoodsOpen={() => setShowModeMenu(true)}
-            />
-
-            {/* Screensaver overlay */}
-            {isScreensaverActive && (
-                <ScreensaverOverlay
-                    media={currentMedia}
-                    mode={playerMode}
-                    currentTime={playback.currentTime}
-                    duration={playback.duration}
-                    style={uiSettings.screensaverStyle}
-                    onDismiss={() => setIsScreensaverActive(false)}
-                />
-            )}
-        </div>
+        </ErrorBoundary>
     );
 }
 

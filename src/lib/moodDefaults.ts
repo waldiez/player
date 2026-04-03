@@ -35,9 +35,13 @@ function shouldProbeRemoteLatestWid(): boolean {
 // ── News mood rolling-queue settings ──────────────────────────────────────
 // Must stay in sync with DEFAULT_MODE in generate-latest-wid.ts and
 // MOOD_ORDER in build-latest-news-feed.ts.
-const NEWS_MOOD: MoodMode = "storm";
+export const NEWS_MOOD: MoodMode = "storm";
 // Cap the queue at the total number of active moods — the "default number".
 const NEWS_TRACK_MAX = MOOD_MODES.length;
+
+// ── Latest-auto.wid TTL tracking ──────────────────────────────────────────
+const LATEST_WID_FETCH_KEY = "wideria-latest-wid-fetched-at";
+const LATEST_WID_TTL_MS = 60 * 60 * 1000; // 1 hour
 
 // ── User-customizable mood appearance ─────────────────────────────────────
 export interface MoodCustomization {
@@ -171,6 +175,88 @@ export function setSyncDefaultsFromLatest(enabled: boolean): boolean {
     });
 }
 
+/**
+ * Merge freshly-fetched news tracks from latest-auto.wid into prefs.
+ *
+ * Updates BOTH modeDefaults[NEWS_MOOD] (rolling queue for new users) AND
+ * modes[NEWS_MOOD].ytTracks (the active session) so users who already have a
+ * saved session also see new content instead of it being shadowed by the
+ * session-takes-priority lookup order in loadModeTracklist.
+ */
+function mergeNewsTracksIntoPrefs(newTracks: WideriaTrack[]): boolean {
+    if (!newTracks.length) return false;
+    const prefs = readPrefs();
+
+    // Update modeDefaults rolling queue
+    const existingModeDefaults = (prefs?.modeDefaults ?? {}) as Record<string, WideriaTrack[]>;
+    const existingDefaultTracks = existingModeDefaults[NEWS_MOOD] ?? [];
+    const mergedDefaults = [...newTracks, ...existingDefaultTracks].slice(0, NEWS_TRACK_MAX);
+
+    // Also prepend new tracks into the active session so existing users see them
+    const existingModes = (prefs?.modes ?? {}) as Record<
+        string,
+        { ytTracks: WideriaTrack[]; savedTrackId?: string | null; savedTime?: number }
+    >;
+    const existingSession = existingModes[NEWS_MOOD];
+    const nextModes = existingSession
+        ? {
+              ...existingModes,
+              [NEWS_MOOD]: {
+                  ...existingSession,
+                  ytTracks: [...newTracks, ...existingSession.ytTracks].slice(0, NEWS_TRACK_MAX),
+              },
+          }
+        : existingModes;
+
+    return safeWritePrefs({
+        ...(prefs ?? {}),
+        modeDefaults: { ...existingModeDefaults, [NEWS_MOOD]: mergedDefaults },
+        modes: nextModes,
+        ...(prefs?.mode ? {} : { mode: NEWS_MOOD }),
+        syncDefaultsFromLatest: getSyncDefaultsFromLatest(),
+        v: 2,
+    });
+}
+
+/**
+ * Re-fetch latest-auto.wid and merge new news tracks — but only when the last
+ * successful fetch is more than LATEST_WID_TTL_MS (1 hour) old.
+ *
+ * Returns true when new tracks were written to prefs; the caller should
+ * reload the tracklist for NEWS_MOOD if the user is currently in that mode.
+ */
+export async function refreshLatestWidIfStale(): Promise<boolean> {
+    if (typeof window === "undefined") return false;
+    if (!getSyncDefaultsFromLatest()) return false;
+
+    const lastFetch = Number(localStorage.getItem(LATEST_WID_FETCH_KEY) ?? "0");
+    if (Date.now() - lastFetch < LATEST_WID_TTL_MS) return false;
+
+    const base = import.meta.env.BASE_URL ?? "/";
+
+    async function tryUrl(url: string): Promise<boolean> {
+        try {
+            const res = await fetch(url, { cache: "no-store" });
+            if (!res.ok) return false;
+            const state = parseMaybeManifest(YAML.parse(await res.text()) as unknown);
+            if (!state) return false;
+            const stateModeDefaults = state.modeDefaults as Record<string, WideriaTrack[]> | undefined;
+            return mergeNewsTracksIntoPrefs(stateModeDefaults?.[NEWS_MOOD] ?? []);
+        } catch {
+            return false;
+        }
+    }
+
+    const refreshed =
+        (await tryUrl(`${base}cdn/repo/latest-auto.wid`)) ||
+        (!isTauri() && shouldProbeRemoteLatestWid() && (await tryUrl(LATEST_WID_CDN_URL)));
+
+    if (refreshed) {
+        localStorage.setItem(LATEST_WID_FETCH_KEY, String(Date.now()));
+    }
+    return refreshed;
+}
+
 export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     if (typeof window === "undefined" || typeof localStorage === "undefined") return false;
     const initialPrefs = readPrefs();
@@ -185,30 +271,9 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
     }
 
     // Rolling-queue merge — used exclusively for latest-auto.wid.
-    // Rules:
-    //   • Only NEWS_MOOD (storm) in modeDefaults is touched; all other moods are preserved.
-    //   • New tracks are prepended to the existing queue.
-    //   • When queue length < NEWS_TRACK_MAX  →  insert (no eviction).
-    //   • When queue length >= NEWS_TRACK_MAX →  oldest tracks fall off the tail (replace).
-    //   • Top-level `mode` is set only on the very first load (no saved mode yet).
     function applyNewsState(state: Record<string, unknown>): boolean {
-        const currentPrefs = readPrefs();
         const stateModeDefaults = state.modeDefaults as Record<string, WideriaTrack[]> | undefined;
-        const newTracks = stateModeDefaults?.[NEWS_MOOD] ?? [];
-        if (!newTracks.length) return false;
-
-        const existingModeDefaults = (currentPrefs?.modeDefaults ?? {}) as Record<string, WideriaTrack[]>;
-        const existingTracks = existingModeDefaults[NEWS_MOOD] ?? [];
-
-        const merged = [...newTracks, ...existingTracks].slice(0, NEWS_TRACK_MAX);
-
-        return safeWritePrefs({
-            ...(currentPrefs ?? {}),
-            modeDefaults: { ...existingModeDefaults, [NEWS_MOOD]: merged },
-            ...(currentPrefs?.mode ? {} : { mode: NEWS_MOOD }),
-            syncDefaultsFromLatest: keepSyncEnabled,
-            v: 2,
-        });
+        return mergeNewsTracksIntoPrefs(stateModeDefaults?.[NEWS_MOOD] ?? []);
     }
 
     // ?w= lets the host (or a link) override the default preset URL.
@@ -276,8 +341,13 @@ export async function bootstrapDefaultPrefsFromAsset(): Promise<boolean> {
         // Prefer the bundled same-origin asset. Only probe the absolute URL
         // when it is same-origin with the current host, otherwise hosted web
         // deployments log avoidable CORS noise.
-        if (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) return true;
-        if (!isTauri() && shouldProbeRemoteLatestWid() && (await tryLatestWid(LATEST_WID_CDN_URL))) {
+        const latestFetched =
+            (await tryLatestWid(`${base}cdn/repo/latest-auto.wid`)) ||
+            (!isTauri() && shouldProbeRemoteLatestWid() && (await tryLatestWid(LATEST_WID_CDN_URL)));
+        if (latestFetched) {
+            // Stamp the fetch time so refreshLatestWidIfStale() skips the
+            // network for the next TTL window (1 hour).
+            localStorage.setItem(LATEST_WID_FETCH_KEY, String(Date.now()));
             return true;
         }
 

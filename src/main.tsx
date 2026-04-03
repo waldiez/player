@@ -2,6 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
 import { App } from "./App";
+import { ErrorBoundary } from "./components/ErrorBoundary";
 import "./index.css";
 import { startBeaconJoin } from "./lib/beaconJoin";
 import { refreshDesktopStatus } from "./lib/desktopStatus";
@@ -359,7 +360,9 @@ async function start() {
 
     createRoot(root).render(
         <StrictMode>
-            <App />
+            <ErrorBoundary>
+                <App />
+            </ErrorBoundary>
         </StrictMode>,
     );
 }
