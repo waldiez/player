@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T20:21:01.113Z",
+    "generatedAt": "2026-04-04T21:24:02.186Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uS2lNVyg40g",
-            "name": "News Ki Pathshala Live | Iran Attack America | ईरान के हमलों से अमेरिका सन्न हुआ !|World News |Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "j1fGyIcF0gs",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "SR2owShb1Cg",
-            "name": "Israel Iran War LIVE: Iran Strikes Israel’s Tel Aviv, Haifa after Trump’s New Threat As War Rages",
+            "videoId": "VtGDBOql_zI",
+            "name": "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x---uYHLCDA",
+            "name": "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "lPu7VrnvQmc",
-            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News",
-            "artist": "Times Now"
+            "videoId": "qzxuReoVgUY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Express "
         },
         {
             "mood": "storm",
-            "videoId": "P8Wdubwl-YE",
-            "name": "Good Morning America Full Broadcast - Saturday, April 4, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QyMGHAQUzcA",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UZA9y9XNwl4",
-            "name": "🔴LIVE : US Israel Iran War Latest News | போரில் Big ஷாக்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N0u_RBspBj8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HFbr0kXrsLk",
-            "name": "Breaking News LIVE: Trump’s Last 48-Hour Warning to Iran | 'Huge Missile Strike Incoming?' | Trump",
-            "artist": "Times Now"
+            "videoId": "_i4dbalWw5o",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: पायलट की तलाश में अमेरिका, युद्ध हुआ भीषण",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
