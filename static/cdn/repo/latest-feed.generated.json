@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T17:23:12.425Z",
+    "generatedAt": "2026-04-04T18:31:20.796Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "x---uYHLCDA",
-            "name": "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue",
-            "artist": "Firstpost"
+            "videoId": "mZv_t01Ee7E",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "OZhsqutMuV0",
-            "name": "US-Iran War Update LIVE: Karoline Leavitt Reveals New Strategy Of US To Takeover Iran? |US News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "luGu7b4JJYU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7H-OJYzf5Vo",
-            "name": "TRUMP LIVE: Last Minute Move Sends Shockwaves Across United States Nationwide | US NEWS | IRAN WAR",
+            "videoId": "lPu7VrnvQmc",
+            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "jGfo_z6ZzEM",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "QyMGHAQUzcA",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UZA9y9XNwl4",
+            "name": "🔴LIVE : US Israel Iran War Latest News | போரில் Big ஷாக்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N0u_RBspBj8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qzxuReoVgUY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Express "
+        },
+        {
+            "mood": "storm",
+            "videoId": "SaMmgt2zxio",
+            "name": "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jgmYHxQsBDk",
+            "name": "യുദ്ധം മടുത്തോ ട്രംപിന്? | News Decode",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {

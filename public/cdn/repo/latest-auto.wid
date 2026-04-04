@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T172312.455Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T183120.824Z-l4t35t"
   type: "state"
-  created: "2026-04-04T17:23:12.455Z"
+  created: "2026-04-04T18:31:20.824Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T172312.455Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T183120.824Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "x---uYHLCDA"
-        name: "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue"
-        artist: "Firstpost"
+        videoId: "mZv_t01Ee7E"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OZhsqutMuV0"
-        name: "US-Iran War Update LIVE: Karoline Leavitt Reveals New Strategy Of US To Takeover Iran? |US News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "luGu7b4JJYU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7H-OJYzf5Vo"
-        name: "TRUMP LIVE: Last Minute Move Sends Shockwaves Across United States Nationwide | US NEWS | IRAN WAR"
+        videoId: "lPu7VrnvQmc"
+        name: "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jGfo_z6ZzEM"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News"
-        artist: "Times Now Navbharat"
+        videoId: "QyMGHAQUzcA"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UZA9y9XNwl4"
+        name: "🔴LIVE : US Israel Iran War Latest News | போரில் Big ஷாக்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N0u_RBspBj8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qzxuReoVgUY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "World Express "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SaMmgt2zxio"
+        name: "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jgmYHxQsBDk"
+        name: "യുദ്ധം മടുത്തോ ട്രംപിന്? | News Decode"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T17:23:12.455Z"
+  exported_at: "2026-04-04T18:31:20.824Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T17:23:12.425Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T18:31:20.796Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
