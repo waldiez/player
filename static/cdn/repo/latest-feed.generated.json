@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T10:25:23.712Z",
+    "generatedAt": "2026-04-04T11:23:08.368Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yv6kTkdlOlg",
-            "name": "Earthquake In Delhi LIVE: दिल्ली-NCR में भूकंप के तेज झटके! कई राज्यों में हिली धरती,लोगों में दहशत",
-            "artist": "India News"
+            "videoId": "s4w6l25RiXQ",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "7QrAzDTWbZc",
-            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "videoId": "z1ekODEQbyo",
+            "name": "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jLUuRhmSAKA",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0bFt4cxmGKI",
+            "name": "Live: Moscow & Tehran Join Forces – World War 3 Fears As Russia Backs Iran Against US & Israel",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ucC5oPpDFf4",
+            "name": "US Iran War LIVE: US Intel Reveals Half of Iran's Missile Launchers Intact  | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JrqBNxL-XqI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04  April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5hYaa9p7hIM",
+            "name": "World News | Asim Munir |News Ki Pathshala | Sushant Sinha:Petrol Price को लेकर Pakistan में हंगामा!",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "pAoPaJMyois",
-            "name": "Today Headlines | 04 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "QZ8H8gAbf1I",
+            "name": "🔴LIVE: Today Headlines |  மாலை 4  மணி தலைப்புச் செய்திகள் (04.04.2026) | 4  PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "N7YK-sblTu4",
-            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y_aD73dG3h8",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ এপ্রিল ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
-            "artist": "SOMOY TV Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jq3JNKcx-BU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
+            "videoId": "fvmLC3a7f94",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
