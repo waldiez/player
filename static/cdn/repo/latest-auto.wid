@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T083213.058Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T092957.827Z-l4t35t"
   type: "state"
-  created: "2026-04-04T08:32:13.058Z"
+  created: "2026-04-04T09:29:57.827Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T083213.058Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T092957.827Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "phrKdb162gQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "l5xbqdesqCI"
+        name: "LIVE | ईरान-अमेरिका जंग 04 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N7YK-sblTu4"
-        name: "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News"
+        videoId: "ZpisXXds2pA"
+        name: "LIVE: Trump & Netanyahu Hold Emergency War Briefing | US–Israel Very Very Big Warning To Tehran!"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ngLeYct52SE"
-        name: "NEWS WATCH INDIA LIVE | Breaking News Today | India & World News | Latest Hindi News 2026"
-        artist: "News Watch India "
+        videoId: "22vtZTCFzL4"
+        name: "Iran Israel Us War Update Live : युद्ध का 36वां दिन | Iran America War | Trump | World News | Iran"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y_aD73dG3h8"
-        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ এপ্রিল ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "rytIEau5aew"
+        name: "Iran Us War Live Updates : America से आई चौंकाने वाली खबर ! | Iran Israel War | War Breaking | Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9L-OgplGNg4"
+        name: "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8CW0jpalrAE"
+        name: "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T08:32:13.058Z"
+  exported_at: "2026-04-04T09:29:57.827Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T08:32:13.021Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T09:29:57.794Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
