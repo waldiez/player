@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T22:20:58.639Z",
+    "generatedAt": "2026-04-04T23:23:25.472Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "pr7buYsvB5A",
-            "name": "US Iran War LIVE: Iran Massive Strike At Israel, Cluster Missiles Rock Tel Aviv | West Asia War",
-            "artist": "Firstpost"
+            "videoId": "do1j4lSI-VA",
+            "name": "US President Trump's new threat to Iran | Geo News 12 AM Headlines | 5 April 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "uS2lNVyg40g",
-            "name": "News Ki Pathshala Live | Iran Attack America | ईरान के हमलों से अमेरिका सन्न हुआ !|World News |Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "j1fGyIcF0gs",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "SR2owShb1Cg",
-            "name": "Israel Iran War LIVE: Iran Strikes Israel’s Tel Aviv, Haifa after Trump’s New Threat As War Rages",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QZ8H8gAbf1I",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (04.04.2026) | 11 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BliAMi8T5Oo",
-            "name": "LIVE: Hydra Illegal Construction Demolished In Old City | Hyderabad | ఓల్డ్ సిటీలోబుల్‌డోజర్లు | ZEE",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mZv_t01Ee7E",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lPu7VrnvQmc",
-            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P8Wdubwl-YE",
-            "name": "Good Morning America Full Broadcast - Saturday, April 4, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QyMGHAQUzcA",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "VtGDBOql_zI",
+            "name": "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         }
     ],
     "sourceFilters": {
