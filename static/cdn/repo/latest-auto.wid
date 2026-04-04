@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T112308.402Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T123714.901Z-l4t35t"
   type: "state"
-  created: "2026-04-04T11:23:08.402Z"
+  created: "2026-04-04T12:37:14.901Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T112308.402Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T123714.901Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "s4w6l25RiXQ"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
-        artist: "News18 Urdu"
+        videoId: "KMX2MMt8TkU"
+        name: "🔴LIVE: Trump | War | ஈரான் பதிலடி  - திணறும் அமெரிக்கா?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z1ekODEQbyo"
-        name: "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jLUuRhmSAKA"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.04.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0bFt4cxmGKI"
-        name: "Live: Moscow & Tehran Join Forces – World War 3 Fears As Russia Backs Iran Against US & Israel"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ucC5oPpDFf4"
-        name: "US Iran War LIVE: US Intel Reveals Half of Iran's Missile Launchers Intact  | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JrqBNxL-XqI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04  April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5hYaa9p7hIM"
-        name: "World News | Asim Munir |News Ki Pathshala | Sushant Sinha:Petrol Price को लेकर Pakistan में हंगामा!"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QZ8H8gAbf1I"
-        name: "🔴LIVE: Today Headlines |  மாலை 4  மணி தலைப்புச் செய்திகள் (04.04.2026) | 4  PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fvmLC3a7f94"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "LFrSG2JBMTQ"
+        name: "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T11:23:08.402Z"
+  exported_at: "2026-04-04T12:37:14.901Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T11:23:08.368Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T12:37:14.868Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
