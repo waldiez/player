@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T01:24:30.817Z",
+    "generatedAt": "2026-04-04T04:10:20.281Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kpOMX5zD-H4",
-            "name": "US Iran War LIVE: US-Israel Strikes Iran's Tallest Bridge; UAE, Bahrain Steel Sites Targeted by Iran",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N-zpEVK4-gg",
-            "name": "US Iran War LIVE: Iran Claims US F-35 Jet Shot Down, Offers Bounty for Pilot | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aDAwFAISMVE",
-            "name": "Ira Vs US LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
+            "videoId": "rj1odB67u_o",
+            "name": "Breaking LIVE: US F-35 Jet Shot Down By Iran | Trump WARNS of Massive Strike on Power Plants | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "GKoXaxngwfI",
-            "name": "🔴LIVE: Annamalai |NDA |BJP |MODI |election |  லிஸ்டில் அண்ணாமலை பெயர் ஏன் இல்லை?",
-            "artist": "Thanthi TV"
+            "videoId": "UxZaOelqpEo",
+            "name": "US Israel Iran War BREAKING LIVE: US F-35 Fighter Jet Shot Down, Pilot Captured, Claims Iran",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "6OiWE-Tcsss",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "A3wEysBtr-o",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 3, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "4ERmC5wi3KA",
-            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent White House Address as Tensions Rise | World News",
+            "videoId": "YCT--oA2XJk",
+            "name": "TRUMP LIVE: Trump’s Last-Minute Move Shocks The Entire Nation | US News LIVE | IRAN NEWS",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "MrxWUYJotys",
-            "name": "Iran War LIVE: Kuwait Refinery Hit; UAE, Bahrain on Alert Amid Gulf Attacks | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "ih4CvpQsnxc",
+            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 04-04-2026",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fFajx_-rpg4",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z1ekODEQbyo",
+            "name": "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CXss-IWns-o",
+            "name": "Today's Headlines | 04 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GKl4iAAwVBE",
+            "name": "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
