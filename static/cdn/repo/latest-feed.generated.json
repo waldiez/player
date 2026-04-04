@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T14:28:01.312Z",
+    "generatedAt": "2026-04-04T15:24:16.449Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8MPth9Qsy4s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World"
+            "videoId": "7H-OJYzf5Vo",
+            "name": "TRUMP LIVE: Last Minute Move Sends Shockwaves Across United States Nationwide | US NEWS | IRAN WAR",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Jvdngqib-HM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
+            "videoId": "M9_JSCnd7P8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "VIWgmxKGJeI",
-            "name": "Out Of Focus Live | 04 April  2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "ipEK5SmV5Tk",
+            "name": "US Iran War LIVE: Trump's U-Turn on Uranium Stock Sparks Concerns Over War Aims | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "qEtqM6mzjGw",
-            "name": "আজকের আন্তর্জাতিক খবর | 4 April 2026 | World News Today | International News | Channel 24",
-            "artist": "Channel 24 Bulletin"
+            "videoId": "k9n4CI91TUE",
+            "name": "LIVE🔴গণভোটের রায় অবিলম্বে বাস্তবায়নের দাবীতে জামায়াত জোটের সমাবেশ ও বিক্ষোভ মিছিল | Jamaa Jote",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KMX2MMt8TkU",
+            "name": "🔴LIVE: Trump | War | ஈரான் பதிலடி  - திணறும் அமெரிக்கா?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N0u_RBspBj8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kOV70OElUG4",
+            "name": "Breaking News India Live : PM Modi की हाई लेवल मीटिंग ! | petrol crisis india |LPG Crisis |Iran News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4tXqlSA04OA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "RMT ANTORJATIK NEWS"
         }
     ],
     "sourceFilters": {
