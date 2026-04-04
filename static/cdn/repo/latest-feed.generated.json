@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-03T23:26:58.439Z",
+    "generatedAt": "2026-04-04T01:24:30.817Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9L-OgplGNg4",
-            "name": "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GKl4iAAwVBE",
-            "name": "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N7YK-sblTu4",
-            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yPo4vJjq-3M",
-            "name": "LIVE: Dubai Responds to Iran's Claim on Oracle Cloud Facility Attack | Firstpost Live | N18G",
+            "videoId": "kpOMX5zD-H4",
+            "name": "US Iran War LIVE: US-Israel Strikes Iran's Tallest Bridge; UAE, Bahrain Steel Sites Targeted by Iran",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "RE4zDdQapWI",
-            "name": "Aaj Ki Taaza Khabar LIVE: 03 April News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
-            "artist": "NDTV India"
+            "videoId": "N-zpEVK4-gg",
+            "name": "US Iran War LIVE: Iran Claims US F-35 Jet Shot Down, Offers Bounty for Pilot | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "czVTzDtn8IA",
-            "name": "🔴Live | ଉଡ଼ିଗଲା ଇରାନର ଲାଇଫଲାଇନ୍  | Trump Warns Iran After Deadly Airstrike  | OTV",
-            "artist": "OTV"
+            "videoId": "aDAwFAISMVE",
+            "name": "Ira Vs US LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GKoXaxngwfI",
+            "name": "🔴LIVE: Annamalai |NDA |BJP |MODI |election |  லிஸ்டில் அண்ணாமலை பெயர் ஏன் இல்லை?",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6OiWE-Tcsss",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4ERmC5wi3KA",
+            "name": "US IRAN WAR LIVE: Donald Trump Delivers Urgent White House Address as Tensions Rise | World News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MrxWUYJotys",
+            "name": "Iran War LIVE: Kuwait Refinery Hit; UAE, Bahrain on Alert Amid Gulf Attacks | Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
