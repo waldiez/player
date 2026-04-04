@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T05:51:46.983Z",
+    "generatedAt": "2026-04-04T06:51:04.111Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9L-OgplGNg4",
-            "name": "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
+            "videoId": "N7YK-sblTu4",
+            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UMgiKsW2FiY",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ngLeYct52SE",
+            "name": "NEWS WATCH INDIA LIVE | Breaking News Today | India & World News | Latest Hindi News 2026",
+            "artist": "News Watch India "
+        },
+        {
+            "mood": "storm",
+            "videoId": "rj1odB67u_o",
+            "name": "Breaking LIVE: US F-35 Jet Shot Down By Iran | Trump WARNS of Massive Strike on Power Plants | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "CR87Lf89HEM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_hVe2Pxy0-o",
-            "name": "🔴LIVE: PM Shehbaz's Address to Nation | New Petrol Prices | Big News for Public | Iran US War Update",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "co6hH9bApxc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZMHRQiFBOi4",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 04.04.2026 | Morning News | Todays News | Latest News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D_5nLfpJpew",
-            "name": "US NEWS Live: Trump Just Lost Congress – Senate Votes On Impeachment For Iran War He Started",
-            "artist": "ET Now"
+            "videoId": "UxZaOelqpEo",
+            "name": "US Israel Iran War BREAKING LIVE: US F-35 Fighter Jet Shot Down, Pilot Captured, Claims Iran",
+            "artist": "India Today"
         }
     ],
     "sourceFilters": {
