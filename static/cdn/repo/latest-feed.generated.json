@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T16:26:43.014Z",
+    "generatedAt": "2026-04-04T17:23:12.425Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SaMmgt2zxio",
-            "name": "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "x---uYHLCDA",
+            "name": "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QiiqYL_Nxj0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "OZhsqutMuV0",
+            "name": "US-Iran War Update LIVE: Karoline Leavitt Reveals New Strategy Of US To Takeover Iran? |US News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "1vxoFTfuTs4",
-            "name": "Dubai Attacked LIVE | Iran Strikes Dubai LIVE | Debris From Intercepted Iranian Missile Hits Dubai",
-            "artist": "NDTV"
+            "videoId": "luGu7b4JJYU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "Rr3tvUMAhTU",
-            "name": "News Ki Pathshala Live | Sushant Sinha | Trump की ऐसी भयंकर बेइज्जती की दुनिया हंस रही | Ind Vs PAK",
+            "videoId": "7H-OJYzf5Vo",
+            "name": "TRUMP LIVE: Last Minute Move Sends Shockwaves Across United States Nationwide | US NEWS | IRAN WAR",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jGfo_z6ZzEM",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Atr99DFNkcw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qzxuReoVgUY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
         }
     ],
     "sourceFilters": {
