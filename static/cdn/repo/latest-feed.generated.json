@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T12:37:14.868Z",
+    "generatedAt": "2026-04-04T13:47:08.983Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KMX2MMt8TkU",
-            "name": "🔴LIVE: Trump | War | ஈரான் பதிலடி  - திணறும் அமெரிக்கா?",
-            "artist": "Sathiyam News"
+            "videoId": "ipEK5SmV5Tk",
+            "name": "US Iran War LIVE: Trump's U-Turn on Uranium Stock Sparks Concerns Over War Aims | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "LFrSG2JBMTQ",
-            "name": "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "kOV70OElUG4",
+            "name": "Breaking News India Live : PM Modi की हाई लेवल मीटिंग ! | petrol crisis india |LPG Crisis |Iran News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z1ekODEQbyo",
+            "name": "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jLUuRhmSAKA",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0bFt4cxmGKI",
+            "name": "Live: Moscow & Tehran Join Forces – World War 3 Fears As Russia Backs Iran Against US & Israel",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ucC5oPpDFf4",
+            "name": "US Iran War LIVE: US Intel Reveals Half of Iran's Missile Launchers Intact  | Vantage on Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T123714.901Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T134709.016Z-l4t35t"
   type: "state"
-  created: "2026-04-04T12:37:14.901Z"
+  created: "2026-04-04T13:47:09.016Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T123714.901Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T134709.016Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "KMX2MMt8TkU"
-        name: "🔴LIVE: Trump | War | ஈரான் பதிலடி  - திணறும் அமெரிக்கா?"
-        artist: "Sathiyam News"
+        videoId: "ipEK5SmV5Tk"
+        name: "US Iran War LIVE: Trump's U-Turn on Uranium Stock Sparks Concerns Over War Aims | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LFrSG2JBMTQ"
-        name: "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "kOV70OElUG4"
+        name: "Breaking News India Live : PM Modi की हाई लेवल मीटिंग ! | petrol crisis india |LPG Crisis |Iran News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "z1ekODEQbyo"
+        name: "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jLUuRhmSAKA"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0bFt4cxmGKI"
+        name: "Live: Moscow & Tehran Join Forces – World War 3 Fears As Russia Backs Iran Against US & Israel"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ucC5oPpDFf4"
+        name: "US Iran War LIVE: US Intel Reveals Half of Iran's Missile Launchers Intact  | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T12:37:14.901Z"
+  exported_at: "2026-04-04T13:47:09.016Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T12:37:14.868Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T13:47:08.983Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
