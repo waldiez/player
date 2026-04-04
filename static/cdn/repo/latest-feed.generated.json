@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T21:24:02.186Z",
+    "generatedAt": "2026-04-04T22:20:58.639Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "j1fGyIcF0gs",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VtGDBOql_zI",
-            "name": "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x---uYHLCDA",
-            "name": "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue",
+            "videoId": "pr7buYsvB5A",
+            "name": "US Iran War LIVE: Iran Massive Strike At Israel, Cluster Missiles Rock Tel Aviv | West Asia War",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "qzxuReoVgUY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
+            "videoId": "uS2lNVyg40g",
+            "name": "News Ki Pathshala Live | Iran Attack America | ईरान के हमलों से अमेरिका सन्न हुआ !|World News |Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "_i4dbalWw5o",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: पायलट की तलाश में अमेरिका, युद्ध हुआ भीषण",
-            "artist": "NDTV India"
+            "videoId": "SR2owShb1Cg",
+            "name": "Israel Iran War LIVE: Iran Strikes Israel’s Tel Aviv, Haifa after Trump’s New Threat As War Rages",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QZ8H8gAbf1I",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (04.04.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BliAMi8T5Oo",
+            "name": "LIVE: Hydra Illegal Construction Demolished In Old City | Hyderabad | ఓల్డ్ సిటీలోబుల్‌డోజర్లు | ZEE",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mZv_t01Ee7E",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lPu7VrnvQmc",
+            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P8Wdubwl-YE",
+            "name": "Good Morning America Full Broadcast - Saturday, April 4, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QyMGHAQUzcA",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
