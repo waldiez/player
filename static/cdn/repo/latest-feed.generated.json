@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T07:43:25.891Z",
+    "generatedAt": "2026-04-04T08:32:13.021Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "l5xbqdesqCI",
-            "name": "LIVE | ईरान-अमेरिका जंग 04 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "phrKdb162gQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "22vtZTCFzL4",
-            "name": "Iran Israel Us War Update Live : युद्ध का 36वां दिन | Iran America War | Trump | World News | Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "N7YK-sblTu4",
+            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "sDylsF7C5SA",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "ngLeYct52SE",
+            "name": "NEWS WATCH INDIA LIVE | Breaking News Today | India & World News | Latest Hindi News 2026",
+            "artist": "News Watch India "
         },
         {
             "mood": "storm",
-            "videoId": "9L-OgplGNg4",
-            "name": "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CR87Lf89HEM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZMHRQiFBOi4",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 04.04.2026 | Morning News | Todays News | Latest News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "Y_aD73dG3h8",
+            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ এপ্রিল ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
+            "artist": "SOMOY TV Bulletin"
         }
     ],
     "sourceFilters": {
