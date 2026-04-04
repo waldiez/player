@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T09:29:57.794Z",
+    "generatedAt": "2026-04-04T10:25:23.712Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "l5xbqdesqCI",
-            "name": "LIVE | ईरान-अमेरिका जंग 04 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "yv6kTkdlOlg",
+            "name": "Earthquake In Delhi LIVE: दिल्ली-NCR में भूकंप के तेज झटके! कई राज्यों में हिली धरती,लोगों में दहशत",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "ZpisXXds2pA",
-            "name": "LIVE: Trump & Netanyahu Hold Emergency War Briefing | US–Israel Very Very Big Warning To Tehran!",
+            "videoId": "7QrAzDTWbZc",
+            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pAoPaJMyois",
+            "name": "Today Headlines | 04 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N7YK-sblTu4",
+            "name": "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "22vtZTCFzL4",
-            "name": "Iran Israel Us War Update Live : युद्ध का 36वां दिन | Iran America War | Trump | World News | Iran",
-            "artist": "Times Now Navbharat"
+            "videoId": "Y_aD73dG3h8",
+            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ এপ্রিল ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
+            "artist": "SOMOY TV Bulletin"
         },
         {
             "mood": "storm",
-            "videoId": "rytIEau5aew",
-            "name": "Iran Us War Live Updates : America से आई चौंकाने वाली खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9L-OgplGNg4",
-            "name": "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8CW0jpalrAE",
-            "name": "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "Jq3JNKcx-BU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
         }
     ],
     "sourceFilters": {
