@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T065104.143Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T074325.927Z-l4t35t"
   type: "state"
-  created: "2026-04-04T06:51:04.143Z"
+  created: "2026-04-04T07:43:25.927Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T065104.143Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T074325.927Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "N7YK-sblTu4"
-        name: "US IRAN WAR LIVE: TRUMP'S MASSIVE WAR ANNOUNCEMENT – WORLD ON BRINK  |  World News"
-        artist: "Times Now"
+        videoId: "l5xbqdesqCI"
+        name: "LIVE | ईरान-अमेरिका जंग 04 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UMgiKsW2FiY"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "22vtZTCFzL4"
+        name: "Iran Israel Us War Update Live : युद्ध का 36वां दिन | Iran America War | Trump | World News | Iran"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ngLeYct52SE"
-        name: "NEWS WATCH INDIA LIVE | Breaking News Today | India & World News | Latest Hindi News 2026"
-        artist: "News Watch India "
+        videoId: "sDylsF7C5SA"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rj1odB67u_o"
-        name: "Breaking LIVE: US F-35 Jet Shot Down By Iran | Trump WARNS of Massive Strike on Power Plants | N18G"
+        videoId: "9L-OgplGNg4"
+        name: "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UxZaOelqpEo"
-        name: "US Israel Iran War BREAKING LIVE: US F-35 Fighter Jet Shot Down, Pilot Captured, Claims Iran"
-        artist: "India Today"
+        videoId: "CR87Lf89HEM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZMHRQiFBOi4"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 04.04.2026 | Morning News | Todays News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T06:51:04.143Z"
+  exported_at: "2026-04-04T07:43:25.927Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T06:51:04.111Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T07:43:25.891Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
