@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T192526.835Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260404T202101.148Z-l4t35t"
   type: "state"
-  created: "2026-04-04T19:25:26.835Z"
+  created: "2026-04-04T20:21:01.148Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T192526.835Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T202101.148Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "j1fGyIcF0gs"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "ET Now"
+        videoId: "uS2lNVyg40g"
+        name: "News Ki Pathshala Live | Iran Attack America | ईरान के हमलों से अमेरिका सन्न हुआ !|World News |Trump"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VtGDBOql_zI"
-        name: "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QZ8H8gAbf1I"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (04.04.2026) | 11 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mxyKwGUv_Bo"
-        name: "LIVE: Iran Reports US-Israeli Strike Near Bushehr Nuclear Plant; No Radiation Spike Detected | N18G"
+        videoId: "SR2owShb1Cg"
+        name: "Israel Iran War LIVE: Iran Strikes Israel’s Tel Aviv, Haifa after Trump’s New Threat As War Rages"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x---uYHLCDA"
-        name: "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue"
-        artist: "Firstpost"
+        videoId: "lPu7VrnvQmc"
+        name: "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P8Wdubwl-YE"
+        name: "Good Morning America Full Broadcast - Saturday, April 4, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QyMGHAQUzcA"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UZA9y9XNwl4"
+        name: "🔴LIVE : US Israel Iran War Latest News | போரில் Big ஷாக்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N0u_RBspBj8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HFbr0kXrsLk"
+        name: "Breaking News LIVE: Trump’s Last 48-Hour Warning to Iran | 'Huge Missile Strike Incoming?' | Trump"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T19:25:26.835Z"
+  exported_at: "2026-04-04T20:21:01.148Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T19:25:26.664Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-04T20:21:01.113Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
