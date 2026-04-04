@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T04:10:20.281Z",
+    "generatedAt": "2026-04-04T05:51:46.983Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rj1odB67u_o",
-            "name": "Breaking LIVE: US F-35 Jet Shot Down By Iran | Trump WARNS of Massive Strike on Power Plants | N18G",
+            "videoId": "9L-OgplGNg4",
+            "name": "US Iran War LIVE | Iran Issues DEADLY Warning to US Troops – “No Mercy” Threat Goes Viral | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "UxZaOelqpEo",
-            "name": "US Israel Iran War BREAKING LIVE: US F-35 Fighter Jet Shot Down, Pilot Captured, Claims Iran",
-            "artist": "India Today"
+            "videoId": "CR87Lf89HEM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "A3wEysBtr-o",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 3, 2026",
-            "artist": "ABC News"
+            "videoId": "_hVe2Pxy0-o",
+            "name": "🔴LIVE: PM Shehbaz's Address to Nation | New Petrol Prices | Big News for Public | Iran US War Update",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "YCT--oA2XJk",
-            "name": "TRUMP LIVE: Trump’s Last-Minute Move Shocks The Entire Nation | US News LIVE | IRAN NEWS",
-            "artist": "Times Now"
+            "videoId": "co6hH9bApxc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "ih4CvpQsnxc",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 04-04-2026",
-            "artist": "News18 Kerala"
+            "videoId": "ZMHRQiFBOi4",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 04.04.2026 | Morning News | Todays News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "fFajx_-rpg4",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z1ekODEQbyo",
-            "name": "4 April 2026 LIVE: ईरान-अमेरिका जंग | Iran US Israel War News | Trump Vs Mojtaba Khamenei | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CXss-IWns-o",
-            "name": "Today's Headlines | 04 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GKl4iAAwVBE",
-            "name": "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "D_5nLfpJpew",
+            "name": "US NEWS Live: Trump Just Lost Congress – Senate Votes On Impeachment For Iran War He Started",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
