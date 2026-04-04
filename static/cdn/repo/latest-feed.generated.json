@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-04T18:31:20.796Z",
+    "generatedAt": "2026-04-04T19:25:26.664Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mZv_t01Ee7E",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "j1fGyIcF0gs",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "lPu7VrnvQmc",
-            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – World On Brink  |  World News",
-            "artist": "Times Now"
+            "videoId": "VtGDBOql_zI",
+            "name": "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "QyMGHAQUzcA",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
-            "artist": "News18 Urdu"
+            "videoId": "QZ8H8gAbf1I",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (04.04.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "UZA9y9XNwl4",
-            "name": "🔴LIVE : US Israel Iran War Latest News | போரில் Big ஷாக்",
-            "artist": "Sathiyam News"
+            "videoId": "mxyKwGUv_Bo",
+            "name": "LIVE: Iran Reports US-Israeli Strike Near Bushehr Nuclear Plant; No Radiation Spike Detected | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "N0u_RBspBj8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qzxuReoVgUY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
-        },
-        {
-            "mood": "storm",
-            "videoId": "SaMmgt2zxio",
-            "name": "ईरान-अमेरिका युद्ध 4 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jgmYHxQsBDk",
-            "name": "യുദ്ധം മടുത്തോ ട്രംപിന്? | News Decode",
-            "artist": "MediaoneTV Live"
+            "videoId": "x---uYHLCDA",
+            "name": "US Iran War LIVE: UAE's Defensive Approach to Reopen Strait of Hormuz as Iranian Strikes Continue",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
