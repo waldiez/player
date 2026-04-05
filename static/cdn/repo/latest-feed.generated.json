@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T13:49:13.344Z",
+    "generatedAt": "2026-04-05T14:28:59.327Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NCptUrV3zUQ",
-            "name": "IRAN WAR LATEST NEWS LIVE: Second Pilot Found After Gunfire, Safe Evacuation Still Uncertain | N18G",
-            "artist": "CNN-News18"
+            "videoId": "aBuGKJxnHm0",
+            "name": "LIVE: ईरान-अमेरिका जंग | 5 अप्रैल 2026 LIVE | Iran-US Israel War | Trump Vs Mojtaba Khamenei | NDTV",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Ya2JgGnklb8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Vata Update Date "
+            "videoId": "p5kibgpdgRM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "TTygHpJZh7w",
-            "name": "Big Breaking on World War 3 LIVE: 6 अप्रैल से वर्ल्ड वॉर शुरू! | Iran Israel America War News |Trump",
-            "artist": "Republic Bharat"
+            "videoId": "fjAZCcnELpM",
+            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "oGR6HI4o22k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Express World"
+            "videoId": "2iilNxI7en4",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 06 April'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "eksHyQxh_70",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 05.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "o4QuDGaJmNY",
+            "name": "US NEWS LIVE: Trump Issues Alarming New Iran War Ultimatum; 'JUST FEW HOURS LEFT FOR...' | TRUMP",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ENhtEy177n0",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 05.04.2026 | Top News | Latest News | Ham Tika | New Office Time",
-            "artist": "ATN Bangla News"
+            "videoId": "8BEQlOvPtzA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "Lfhj1kOPGgw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
+            "videoId": "wgtfDtSsK7Y",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mJMDOdrNHVc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "1EAtC6MIlpo",
+            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
