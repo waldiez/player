@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T10:25:24.578Z",
+    "generatedAt": "2026-04-05T11:23:03.299Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Xueo3acBpm8",
-            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
-            "artist": "ET Now"
+            "videoId": "eksHyQxh_70",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 05.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "h-HOzMNolvs",
-            "name": "US IRAN WAR Live: Trump Just Dropped A Peace Bombshell – 'Iran Will Surrender, Ceasefire Soon'",
+            "videoId": "OxcLD1R3z7A",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D0DVm4ZBzv0",
+            "name": "White House LIVE| US President Trump hospitalised? Emergency Declared | Iran | Israel | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "7qU8zzYFQh8",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "HuZ8D6MLJrA",
+            "name": "LIVE | ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "006UgtwF3xc",
-            "name": "US Vs IRAN WAR NEWS LIVE | Oil Infra Under Attack: Kuwait Refinery Blaze Sparks Global Alarm | N18G",
-            "artist": "CNN-News18"
+            "videoId": "QtezHbjKF_A",
+            "name": "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lKkYNa4Ay7U",
+            "name": "LIVE: Iran Hits UAE’s Largest Gas Site, Triggering Global Implications | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KIvrcGCUy88",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {
