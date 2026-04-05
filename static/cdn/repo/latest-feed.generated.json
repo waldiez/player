@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T08:34:47.162Z",
+    "generatedAt": "2026-04-05T09:32:14.982Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,38 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "h-HOzMNolvs",
-            "name": "US IRAN WAR Live: Trump Just Dropped A Peace Bombshell – 'Iran Will Surrender, Ceasefire Soon'",
-            "artist": "Times Now"
+            "videoId": "QtezHbjKF_A",
+            "name": "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "IkUY3OJBrAU",
-            "name": "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "lKkYNa4Ay7U",
+            "name": "LIVE: Iran Hits UAE’s Largest Gas Site, Triggering Global Implications | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "7qU8zzYFQh8",
-            "name": "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones",
-            "artist": "News18 Urdu"
+            "videoId": "KIvrcGCUy88",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "v-tsdKxn8_A",
-            "name": "Iran America War Updates: TV9 पर Trump का operation pilot  LIVE  | American Pilot | Netanyahu",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "WBy7MmdX1xo",
+            "name": "🔴LIVE: ఏపీలో అర్ధరాత్రి భూకంపం.. || Earthquakes in Alluri District at Andhra Pradesh || ABN",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "iTJjuMDjMGI",
-            "name": "Iran US Israel War LIVE: ट्रंप का नामोनिशान मिटा देगा ईरान!, अमेरिका पर करेगा कब्जा? | World War 3",
-            "artist": "ABP NEWS"
+            "videoId": "jGfo_z6ZzEM",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "006UgtwF3xc",
-            "name": "US Vs IRAN WAR NEWS LIVE | Oil Infra Under Attack: Kuwait Refinery Blaze Sparks Global Alarm | N18G",
+            "videoId": "KybuaNYfLc0",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 05.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NCptUrV3zUQ",
+            "name": "IRAN WAR LATEST NEWS LIVE: Second Pilot Found After Gunfire, Safe Evacuation Still Uncertain | N18G",
             "artist": "CNN-News18"
         }
     ],
