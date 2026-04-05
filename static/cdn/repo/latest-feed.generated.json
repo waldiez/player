@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T12:39:25.014Z",
+    "generatedAt": "2026-04-05T13:49:13.344Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "o4QuDGaJmNY",
-            "name": "US NEWS LIVE: Trump Issues Alarming New Iran War Ultimatum; 'JUST FEW HOURS LEFT FOR...' | TRUMP",
-            "artist": "Times Now"
+            "videoId": "NCptUrV3zUQ",
+            "name": "IRAN WAR LATEST NEWS LIVE: Second Pilot Found After Gunfire, Safe Evacuation Still Uncertain | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "8BEQlOvPtzA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "Ya2JgGnklb8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Vata Update Date "
         },
         {
             "mood": "storm",
-            "videoId": "Dvp1rDoKEEA",
-            "name": "World News | ख़बरें विदेश की | 05 April 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
+            "videoId": "TTygHpJZh7w",
+            "name": "Big Breaking on World War 3 LIVE: 6 अप्रैल से वर्ल्ड वॉर शुरू! | Iran Israel America War News |Trump",
+            "artist": "Republic Bharat"
         },
         {
             "mood": "storm",
-            "videoId": "Xueo3acBpm8",
-            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
-            "artist": "ET Now"
+            "videoId": "oGR6HI4o22k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World"
         },
         {
             "mood": "storm",
-            "videoId": "yvzC6ELj09M",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "eksHyQxh_70",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 05.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "IkUY3OJBrAU",
-            "name": "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "ENhtEy177n0",
+            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 05.04.2026 | Top News | Latest News | Ham Tika | New Office Time",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Lfhj1kOPGgw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Express "
         }
     ],
     "sourceFilters": {
