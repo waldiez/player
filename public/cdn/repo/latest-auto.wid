@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260405T202405.412Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T212404.776Z-l4t35t"
   type: "state"
-  created: "2026-04-05T20:24:05.412Z"
+  created: "2026-04-05T21:24:04.776Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T202405.412Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T212404.776Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,26 +53,56 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ze_srZhezG0"
-        name: "Iran War News LIVE | Iran's Big Warning To US LIVE | Warns Of 'Big Surprise' For US And Israel"
-        artist: "NDTV"
+        videoId: "STUrdU7fx0w"
+        name: "🔴 Live | World War 3? Iran US War | Tensions Escalates! 48 Hours Ultimatum Begins | Latest Updates"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IlUBVjfP8ys"
-        name: "Iran America War LIVE Updates 6 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran | NDTV"
-        artist: "NDTV India"
+        videoId: "A-738qzDSFI"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.04.2026) | 11 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RpTlXvbbNfs"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
+        videoId: "Lqsrug2OdX0"
+        name: "🔴LIVE: Today Headlines - 05 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uKxlAAMMIGU"
+        name: "Today's Morning News LIVE: Iran-US-Israel War Updates | Donald Trump | PM Modi | Rahul Gandhi"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2Gkl8e1EA7I"
+        name: "BREAKING NEWS LIVE: Pentagon Launches Huge Iran Strike, Could Fall Within 24 Hours | US NEWS"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sbrCoGyydm4"
-        name: "🔴LIVE :US Iran War Latest| Trump  | ட்ரம்பின் Last எச்சரிக்கை"
+        videoId: "qPVEM3dLDA0"
+        name: "ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aSfMdskwkyU"
+        name: "🔴LIVE : US Israel Iran War Latest News |  போரில் டபுள் ஷாக்!  நடுங்கியது USA"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "r03g_U89RiU"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 05 April 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BkD1prvG6_I"
+        name: "🔴LIVE: adhav arjuna Press Meet | மீண்டும் பகீர் கிளப்பும் ஆதவ்"
         artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-05T20:24:05.412Z"
+  exported_at: "2026-04-05T21:24:04.776Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-05T20:24:05.382Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T21:24:04.739Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
