@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260405T142859.360Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T152504.317Z-l4t35t"
   type: "state"
-  created: "2026-04-05T14:28:59.360Z"
+  created: "2026-04-05T15:25:04.317Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T142859.360Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T152504.317Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aBuGKJxnHm0"
-        name: "LIVE: ईरान-अमेरिका जंग | 5 अप्रैल 2026 LIVE | Iran-US Israel War | Trump Vs Mojtaba Khamenei | NDTV"
-        artist: "NDTV India"
+        videoId: "TNxSlHwZ5Yw"
+        name: "US-Iran War LIVE: Missing Airman From Downed Jet Recovered After Firefight, Trump Hails US Military"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p5kibgpdgRM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fjAZCcnELpM"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2iilNxI7en4"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 06 April'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "o4QuDGaJmNY"
-        name: "US NEWS LIVE: Trump Issues Alarming New Iran War Ultimatum; 'JUST FEW HOURS LEFT FOR...' | TRUMP"
+        videoId: "r4lk1AMg6Vw"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8BEQlOvPtzA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "0I4LiNUen4E"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wgtfDtSsK7Y"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mJMDOdrNHVc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1EAtC6MIlpo"
-        name: "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir"
-        artist: "Times Now Navbharat"
+        videoId: "NCptUrV3zUQ"
+        name: "IRAN WAR LATEST NEWS LIVE: Second Pilot Found After Gunfire, Safe Evacuation Still Uncertain | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-05T14:28:59.360Z"
+  exported_at: "2026-04-05T15:25:04.317Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-05T14:28:59.327Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T15:25:04.283Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
