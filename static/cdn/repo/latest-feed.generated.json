@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T18:31:58.623Z",
+    "generatedAt": "2026-04-05T19:28:41.286Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "j6q7SgdHsAg",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qPVEM3dLDA0",
-            "name": "ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rSwlQ158aaA",
-            "name": "🔴LIVE:trump | iranwar | hormuzstrait | ஈரான் போரில் தலைகீழ் திருப்பம் - தோற்கடித்த ரஷ்யா, சீனா",
+            "videoId": "A-738qzDSFI",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.04.2026) | 11 PM Headlines | Thanthi TV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "RpTlXvbbNfs",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "videoId": "Lqsrug2OdX0",
+            "name": "🔴LIVE: Today Headlines - 05 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uKxlAAMMIGU",
+            "name": "Today's Morning News LIVE: Iran-US-Israel War Updates | Donald Trump | PM Modi | Rahul Gandhi",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2Gkl8e1EA7I",
+            "name": "BREAKING NEWS LIVE: Pentagon Launches Huge Iran Strike, Could Fall Within 24 Hours | US NEWS",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "iJW2SNb5Q0U",
-            "name": "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week",
-            "artist": "Firstpost"
+            "videoId": "aSfMdskwkyU",
+            "name": "🔴LIVE : US Israel Iran War Latest News |  போரில் டபுள் ஷாக்!  நடுங்கியது USA",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "wgtfDtSsK7Y",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "r03g_U89RiU",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 05 April 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YCurPh-g7SE",
-            "name": "🔴LIVE : Today Fast 100 | 05 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News",
-            "artist": "NewsTamil 24X7"
+            "videoId": "lf0kza_hHSc",
+            "name": "TRUMP DEAD? LIVE: Reports Claim U.S President Hospitalised Amid Iran War Failures? | Know Truth",
+            "artist": "Oneindia News"
         },
         {
             "mood": "storm",
-            "videoId": "-Y4xvdFQXQI",
-            "name": "LIVE | Iranian Missiles Rain Hell On Israel In 89th Wave As US Forces Bear Brunt In The Gulf | War",
-            "artist": "Hindustan Times"
+            "videoId": "xhsae8MFxLI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I5kORDqJz14",
+            "name": "🔴LIVE: மருத்துவமனையில் டிரம்ப்?... அமெரிக்காவில் தீயாய் பரவிய வீடியோ",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
