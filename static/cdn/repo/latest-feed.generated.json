@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T11:23:03.299Z",
+    "generatedAt": "2026-04-05T12:39:25.014Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eksHyQxh_70",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 05.04.2026 | Sangsad | Parliament | July Sanad |  ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OxcLD1R3z7A",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D0DVm4ZBzv0",
-            "name": "White House LIVE| US President Trump hospitalised? Emergency Declared | Iran | Israel | US News LIVE",
+            "videoId": "o4QuDGaJmNY",
+            "name": "US NEWS LIVE: Trump Issues Alarming New Iran War Ultimatum; 'JUST FEW HOURS LEFT FOR...' | TRUMP",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "HuZ8D6MLJrA",
-            "name": "LIVE | ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba",
-            "artist": "NDTV India"
+            "videoId": "8BEQlOvPtzA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "QtezHbjKF_A",
-            "name": "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week",
-            "artist": "Firstpost"
+            "videoId": "Dvp1rDoKEEA",
+            "name": "World News | ख़बरें विदेश की | 05 April 2026 | Donald Trump | venezuela news | America #dblive",
+            "artist": "DB Live"
         },
         {
             "mood": "storm",
-            "videoId": "lKkYNa4Ay7U",
-            "name": "LIVE: Iran Hits UAE’s Largest Gas Site, Triggering Global Implications | N18G",
-            "artist": "Firstpost"
+            "videoId": "Xueo3acBpm8",
+            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "KIvrcGCUy88",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "yvzC6ELj09M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IkUY3OJBrAU",
+            "name": "Latest Gujarati News LIVE | આજના મહત્વના સમાચાર | Fatafat News | Weather Updates | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
