@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T06:10:33.572Z",
+    "generatedAt": "2026-04-05T07:51:11.479Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "006UgtwF3xc",
-            "name": "US Vs IRAN WAR NEWS LIVE | Oil Infra Under Attack: Kuwait Refinery Blaze Sparks Global Alarm | N18G",
-            "artist": "CNN-News18"
+            "videoId": "uNdDPWOKoDk",
+            "name": "US News LIVE: Barack Obama Arrest Sparks Outrage, White House and Trump Respond | TRUMP",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "Xggw35qdc_w",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 05-04-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
+            "videoId": "xHJrs7PwyO4",
+            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "cjuGoC18lC8",
-            "name": "Iran War - Search for Missing Crew Member, Trump Deadline - LIVE Breaking News Coverage",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vQbQ0WFkbb0",
-            "name": "Iran Israel Us War Update Live : युद्ध का 37वां दिन | Iran America War | Trump | World News | Iran",
+            "videoId": "jGfo_z6ZzEM",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "4w-41OgVjd8",
-            "name": "এটিএন বাংলার টপ নিউজ । সকাল ৯ টা । 05.04.2026 | Top News | Latest News | Ham Tika | New Office Time",
+            "videoId": "KybuaNYfLc0",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 05.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
             "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sbrCoGyydm4",
+            "name": "🔴LIVE :US Iran War Latest| Trump  | ட்ரம்பின் Last எச்சரிக்கை",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ybDRUfIZ3aM",
+            "name": "IRAN WAR NEWS | LIVE: Second US Pilot Recovered After Firefight In Iran, Extraction Still Underway",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
