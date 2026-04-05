@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260404T232325.507Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T014721.000Z-l4t35t"
   type: "state"
-  created: "2026-04-04T23:23:25.507Z"
+  created: "2026-04-05T01:47:21.000Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260404T232325.507Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T014721.000Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "do1j4lSI-VA"
-        name: "US President Trump's new threat to Iran | Geo News 12 AM Headlines | 5 April 2026"
-        artist: "Geo News"
+        videoId: "u19M0qpLmO0"
+        name: "US Iran War LIVE: Trump Insists Israel Will Halt Strikes at His Direction | West Asia War"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j1fGyIcF0gs"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "ET Now"
+        videoId: "SPzDEm95xuk"
+        name: "Today's Headlines | 05 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VtGDBOql_zI"
-        name: "Today Headlines - 04 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "VEgZ-mhHfM8"
+        name: "Iran US Israel War LIVE: ट्रंप का नामोनिशान मिटा देगा ईरान!, अमेरिका पर करेगा कब्जा? | World War 3"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3XiMJUpliI4"
+        name: "Latest update: 'All hell will rain down': Trump threatens Iran over Hormuz crisis"
+        artist: "Al Jazeera English"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pr7buYsvB5A"
+        name: "US Iran War LIVE: Iran Massive Strike At Israel, Cluster Missiles Rock Tel Aviv | West Asia War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uS2lNVyg40g"
+        name: "News Ki Pathshala Live | Iran Attack America | ईरान के हमलों से अमेरिका सन्न हुआ !|World News |Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d-pvTOz0s6I"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | World News 04 April 2026 | World News | International News Today"
+        artist: "আন্তর্জাতিক বাংলা খবর"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SR2owShb1Cg"
+        name: "Israel Iran War LIVE: Iran Strikes Israel’s Tel Aviv, Haifa after Trump’s New Threat As War Rages"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-04T23:23:25.507Z"
+  exported_at: "2026-04-05T01:47:21.000Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-04T23:23:25.472Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T01:47:20.965Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
