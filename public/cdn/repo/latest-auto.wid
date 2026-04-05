@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260405T152504.317Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T162742.135Z-l4t35t"
   type: "state"
-  created: "2026-04-05T15:25:04.317Z"
+  created: "2026-04-05T16:27:42.135Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T152504.317Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T162742.135Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "TNxSlHwZ5Yw"
-        name: "US-Iran War LIVE: Missing Airman From Downed Jet Recovered After Firefight, Trump Hails US Military"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r4lk1AMg6Vw"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        videoId: "wgtfDtSsK7Y"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0I4LiNUen4E"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "YCurPh-g7SE"
+        name: "🔴LIVE : Today Fast 100 | 05 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NCptUrV3zUQ"
-        name: "IRAN WAR LATEST NEWS LIVE: Second Pilot Found After Gunfire, Safe Evacuation Still Uncertain | N18G"
-        artist: "CNN-News18"
+        videoId: "6ZHo8VH_8gg"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-Y4xvdFQXQI"
+        name: "LIVE | Iranian Missiles Rain Hell On Israel In 89th Wave As US Forces Bear Brunt In The Gulf | War"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OlGGxe9rJPU"
+        name: "Iran US Israel War Latest News LIVE: अमेरिका फौज में इस्तीफे शुरू? | Trump | Hormuz | Middle East"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CiboIh0bjKM"
+        name: "News Ki Pathshala Live | Sushant Sinha: खाने को नहीं दाने..Pakistan चला भारत को धमकाने! | Ind Vs Pak"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aBuGKJxnHm0"
+        name: "LIVE: ईरान-अमेरिका जंग | 5 अप्रैल 2026 LIVE | Iran-US Israel War | Trump Vs Mojtaba Khamenei | NDTV"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p5kibgpdgRM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-05T15:25:04.317Z"
+  exported_at: "2026-04-05T16:27:42.135Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-05T15:25:04.283Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T16:27:42.102Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
