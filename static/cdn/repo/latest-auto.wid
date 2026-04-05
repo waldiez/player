@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260405T222244.056Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T232636.745Z-l4t35t"
   type: "state"
-  created: "2026-04-05T22:22:44.056Z"
+  created: "2026-04-05T23:26:36.745Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T222244.056Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T232636.745Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "gYSy_NqGBSQ"
-        name: "LIVE | US Rescues Second Fighter Pilot Stranded In Iran | WATCH Downed US F‑15 Pilot Rescue | N18G"
-        artist: "CNN-News18"
+        videoId: "Yfl8rxG0-mY"
+        name: "US Iran War LIVE | Trump's Big Hormuz Warning to Iran: Make a Deal or Face Hell | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IlUBVjfP8ys"
-        name: "Iran America War LIVE Updates 6 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran | NDTV"
+        videoId: "STUrdU7fx0w"
+        name: "🔴 Live | World War 3? Iran US War | Tensions Escalates! 48 Hours Ultimatum Begins | Latest Updates"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A-738qzDSFI"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.04.2026) | 11 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Lqsrug2OdX0"
+        name: "🔴LIVE: Today Headlines - 05 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uKxlAAMMIGU"
+        name: "Today's Morning News LIVE: Iran-US-Israel War Updates | Donald Trump | PM Modi | Rahul Gandhi"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qPVEM3dLDA0"
+        name: "ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RpTlXvbbNfs"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sbrCoGyydm4"
-        name: "🔴LIVE :US Iran War Latest| Trump  | ட்ரம்பின் Last எச்சரிக்கை"
+        videoId: "aSfMdskwkyU"
+        name: "🔴LIVE : US Israel Iran War Latest News |  போரில் டபுள் ஷாக்!  நடுங்கியது USA"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lf0kza_hHSc"
-        name: "TRUMP DEAD? LIVE: Reports Claim U.S President Hospitalised Amid Iran War Failures? | Know Truth"
-        artist: "Oneindia News"
+        videoId: "r03g_U89RiU"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 05 April 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-05T22:22:44.056Z"
+  exported_at: "2026-04-05T23:26:36.745Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-05T22:22:44.018Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T23:26:36.711Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-05T22:22:44.018Z",
+    "generatedAt": "2026-04-05T23:26:36.711Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gYSy_NqGBSQ",
-            "name": "LIVE | US Rescues Second Fighter Pilot Stranded In Iran | WATCH Downed US F‑15 Pilot Rescue | N18G",
-            "artist": "CNN-News18"
+            "videoId": "Yfl8rxG0-mY",
+            "name": "US Iran War LIVE | Trump's Big Hormuz Warning to Iran: Make a Deal or Face Hell | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "IlUBVjfP8ys",
-            "name": "Iran America War LIVE Updates 6 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran | NDTV",
+            "videoId": "STUrdU7fx0w",
+            "name": "🔴 Live | World War 3? Iran US War | Tensions Escalates! 48 Hours Ultimatum Begins | Latest Updates",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "A-738qzDSFI",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.04.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Lqsrug2OdX0",
+            "name": "🔴LIVE: Today Headlines - 05 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uKxlAAMMIGU",
+            "name": "Today's Morning News LIVE: Iran-US-Israel War Updates | Donald Trump | PM Modi | Rahul Gandhi",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qPVEM3dLDA0",
+            "name": "ईरान-अमेरिका युद्ध 5 अप्रैल 2026 | Iran attacks Kuwait | Iran America War| Israel | Mojtaba Khamenei",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "RpTlXvbbNfs",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sbrCoGyydm4",
-            "name": "🔴LIVE :US Iran War Latest| Trump  | ட்ரம்பின் Last எச்சரிக்கை",
+            "videoId": "aSfMdskwkyU",
+            "name": "🔴LIVE : US Israel Iran War Latest News |  போரில் டபுள் ஷாக்!  நடுங்கியது USA",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "lf0kza_hHSc",
-            "name": "TRUMP DEAD? LIVE: Reports Claim U.S President Hospitalised Amid Iran War Failures? | Know Truth",
-            "artist": "Oneindia News"
+            "videoId": "r03g_U89RiU",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 05 April 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
