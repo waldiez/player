@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260405T162742.135Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260405T172336.518Z-l4t35t"
   type: "state"
-  created: "2026-04-05T16:27:42.135Z"
+  created: "2026-04-05T17:23:36.518Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T162742.135Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260405T172336.518Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wgtfDtSsK7Y"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "sbrCoGyydm4"
+        name: "🔴LIVE :US Iran War Latest| Trump  | ட்ரம்பின் Last எச்சரிக்கை"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YCurPh-g7SE"
-        name: "🔴LIVE : Today Fast 100 | 05 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News"
-        artist: "NewsTamil 24X7"
+        videoId: "aSfMdskwkyU"
+        name: "🔴LIVE : US Israel Iran War Latest News |  போரில் டபுள் ஷாக்!  நடுங்கியது USA"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6ZHo8VH_8gg"
-        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
-        artist: "News18 Urdu"
+        videoId: "Gz6vwdGhcp4"
+        name: "🟠Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-Y4xvdFQXQI"
-        name: "LIVE | Iranian Missiles Rain Hell On Israel In 89th Wave As US Forces Bear Brunt In The Gulf | War"
-        artist: "Hindustan Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OlGGxe9rJPU"
-        name: "Iran US Israel War Latest News LIVE: अमेरिका फौज में इस्तीफे शुरू? | Trump | Hormuz | Middle East"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CiboIh0bjKM"
-        name: "News Ki Pathshala Live | Sushant Sinha: खाने को नहीं दाने..Pakistan चला भारत को धमकाने! | Ind Vs Pak"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aBuGKJxnHm0"
-        name: "LIVE: ईरान-अमेरिका जंग | 5 अप्रैल 2026 LIVE | Iran-US Israel War | Trump Vs Mojtaba Khamenei | NDTV"
+        videoId: "QrQJa0fqztA"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ईरान से पायलट उड़ा ले गए ट्रंप! | Iran America War"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p5kibgpdgRM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "yxcv4XkxvTo"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 05.04.2026 | Top News | Latest News | Ham Tika | New Office Time"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-05T16:27:42.135Z"
+  exported_at: "2026-04-05T17:23:36.518Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-05T16:27:42.102Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-05T17:23:36.479Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
