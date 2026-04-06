@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T22:28:26.327Z",
+    "generatedAt": "2026-04-06T23:28:42.735Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hIKa2i44KaM",
-            "name": "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News",
-            "artist": "ET Now World"
+            "videoId": "cgmjk0wlGHo",
+            "name": "World News Live: ईरान के हमले से मची भयंकर तबाही,दिल दहला देने वाली तस्वीरें आई सामने ! Iran | USA |",
+            "artist": "Times Now Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "Fpjd8W0hVbQ",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "62QDWZEjolo",
+            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "LlqcBM_75RY",
-            "name": "LIVE: President Trump holds news conference amid \"unhinged\" Iran social post",
-            "artist": "MS NOW"
+            "videoId": "GGUsEEF2OZQ",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "hXland5qkj0",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "IOcwHSOV5ZQ",
+            "name": "LIVE | Iran’s ‘Lost the Keys’ Jibe at Donald Trump Escalates Hormuz Tensions | Iran Fights Fearless",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Lzwowm384Do",
-            "name": "🔴 Live | World War 3 | Iran's Massive Response on Trump's Warning | Missile Attack on Israel | Samaa",
-            "artist": "SAMAA TV"
+            "videoId": "Khb4Yljaaik",
+            "name": "Firstpost LIVE: Trump's Deadline on Iran Energy Site Strikes Shift Again Amid Hormuz Blockade | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "RPiXruC1iHE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g5t8EbqDzYs",
-            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Hw15Ias6ck0",
-            "name": "Donald Trump News: युद्ध पर ट्रंप का फाइनल फैसला LIVE | Final Ultimatum To Iran | World War 3",
-            "artist": "ABP NEWS"
+            "videoId": "Q8FBaCB-Fjo",
+            "name": "President Trump leads White House press briefing",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
