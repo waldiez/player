@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T01:48:55.246Z",
+    "generatedAt": "2026-04-06T04:38:56.619Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2rqd0nKE3bU",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "1qHjdI8QB88",
+            "name": "HD LIVE | Trump Is Reportedly Dead? | Trump Health |White House | US News | Iran Isreal War |N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "R-cdhF7-7XU",
-            "name": "BREAKING LIVE: Trump Signals Iran Strike Within 24 Hours As Tensions Explode | US IRAN NEWS LIVE",
-            "artist": "ET Now"
+            "videoId": "PaQyfkDUfbU",
+            "name": "Top 100 News Today LIVE | 100 बड़ी खबरें | PM Modi live | Iran Israel War | Trump | World News Live",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "_YSLniggqVE",
-            "name": "LIVE: NASA officials hold news conference on Artemis II mission",
+            "videoId": "prAiLIakdIk",
+            "name": "Iran US Israel War Latest News LIVE: अमेरिका फौज में इस्तीफे शुरू? | Trump | Hormuz | Middle East",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "669XmzNYUmw",
+            "name": "US Iran War LIVE: Kuwait Refinery Hit; UAE Gas Complex in Flames | Firstpost Live | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Dx1PCphxmko",
+            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IviA8h1tMww",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 5, 2026",
             "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SV6H6M4uvcQ",
-            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (06.04.2026) |  7 AM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gYSy_NqGBSQ",
-            "name": "LIVE | US Rescues Second Fighter Pilot Stranded In Iran | WATCH Downed US F‑15 Pilot Rescue | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "htrcGjNXP_M",
-            "name": "Trump issues a new warning hours after a second US airman is rescued from inside Iran | BBC News",
-            "artist": "BBC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "quTRbeLvzBA",
-            "name": "US Iran War LIVE | US Slaps Iran’s War Ego, Rescues Captured Pilot From Iranian Soil | Trump | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ze_srZhezG0",
-            "name": "Iran War News LIVE | Iran's Big Warning To US LIVE | Warns Of 'Big Surprise' For US And Israel",
-            "artist": "NDTV"
         }
     ],
     "sourceFilters": {
