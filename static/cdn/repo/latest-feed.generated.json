@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T19:46:45.073Z",
+    "generatedAt": "2026-04-06T20:30:38.293Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IOcwHSOV5ZQ",
-            "name": "LIVE | Iran’s ‘Lost the Keys’ Jibe at Donald Trump Escalates Hormuz Tensions | Iran Fights Fearless",
-            "artist": "CNN-News18"
+            "videoId": "Lzwowm384Do",
+            "name": "🔴 Live | World War 3 | Iran's Massive Response on Trump's Warning | Missile Attack on Israel | Samaa",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "Khb4Yljaaik",
-            "name": "Firstpost LIVE: Trump's Deadline on Iran Energy Site Strikes Shift Again Amid Hormuz Blockade | N18G",
-            "artist": "Firstpost"
+            "videoId": "V_-cXG3Ugfc",
+            "name": "LIVE | Iran Fires New \"Haj Qassem\" Missile | US Strikes Deep Into Tehran | Israel War Update | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "Nt2EapChK0s",
-            "name": "🔴LIVE: “War Escalates Day 39 – Hormuz Blockade & All‑Night Negotiations” | Geo News",
-            "artist": "Geo News"
+            "videoId": "RPiXruC1iHE",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "sMCFxjb23sE",
-            "name": "Debate With Arnab LIVE: Trump’s Profanity On Truth Social Linked To His Operation Gone Wrong In Iran",
-            "artist": "Republic World"
+            "videoId": "g5t8EbqDzYs",
+            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "dGZoKQ1E3NM",
-            "name": "US Iran War LIVE: Iran Rejects Ceasefire Proposal Despite Trump's Threats | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "7O961MLZkc0",
+            "name": "ट्रंप ईरान पर कर रहे बड़ा ऐलान..हिंदी में सुनिए LIVE | Trump Press Conference | Iran America War",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "flhK3ZAfw48",
+            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | Pakistan",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zGkJUN8NJuA",
+            "name": "🔴LIVE: Trump | America | ஹாஸ்பிடலில் ட்ரம்ப்.. போருக்கு நடுவே நடந்தது என்ன..?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "49LCHLEi0sI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Krishno Biswas"
         }
     ],
     "sourceFilters": {
