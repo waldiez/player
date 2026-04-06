@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T11:41:56.072Z",
+    "generatedAt": "2026-04-06T12:53:10.202Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1ZfjEXI9Y_8",
-            "name": "🔴LIVE: Trump Threatens Iran: Then Signals Talks | War or Deal? | Geo News",
-            "artist": "Geo News"
+            "videoId": "C0lyjbItwew",
+            "name": "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Mojtaba Khamenei Vs Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "hZqHMqdfX1E",
-            "name": "LIVE: Iran, Hezbollah & Houthis Attack Tel Aviv | Cluster Missiles Hit Central Israel | Gulf | N18G",
+            "videoId": "JtH0i4lbu9A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kTJg_1yXi4M",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HrvqP-2HE7s",
+            "name": "🔴LIVE : Today Fast 100 | 06 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F-PnnyQm94A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "IrEgYSh5wkE",
+            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "fZygdMaQlS8",
-            "name": "US Pilot In Iran Rescue | Donald Trump Confirms High-Risk Rescue Operation | US Iran War News | Live",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l06OvEmZHu8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wofywYawKzc",
-            "name": "US-Iran War LIVE: Trump Shifts Energy Site Strike Deadline Again Amid Hormuz Closure",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SV6H6M4uvcQ",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.04.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hXland5qkj0",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "videoId": "ASXahL35Sks",
+            "name": "America Attack Iran Live Updates | News Ki Pathshala | Iran पर होगा परमाणु हमला ? | Trump | Iran War",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t9MFb2EHw1g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         }
     ],
     "sourceFilters": {
