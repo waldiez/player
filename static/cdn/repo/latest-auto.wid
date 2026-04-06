@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260406T163752.259Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260406T173837.861Z-l4t35t"
   type: "state"
-  created: "2026-04-06T16:37:52.259Z"
+  created: "2026-04-06T17:38:37.861Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T163752.259Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T173837.861Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "eC_QTRu10SM"
-        name: "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week"
+        videoId: "sMCFxjb23sE"
+        name: "Debate With Arnab LIVE: Trump’s Profanity On Truth Social Linked To His Operation Gone Wrong In Iran"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WH7iXWz4VCc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Insight World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dGZoKQ1E3NM"
+        name: "US Iran War LIVE: Iran Rejects Ceasefire Proposal Despite Trump's Threats | Vantage on Firstpost"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6zVCi7LGDTI"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News"
-        artist: "Times Now Navbharat"
+        videoId: "aPwJoVXWY7M"
+        name: "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N7HPZCO1RLE"
-        name: "Big Breaking on World War 3 LIVE: 7 अप्रैल से वर्ल्ड वॉर शुरू! | Iran Israel America War News |Trump"
-        artist: "Republic Bharat"
+        videoId: "siQ-xlhX654"
+        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dvfGvrO_rCw"
-        name: "News Ki Pathshala Live | Sushant Sinha : Israel ने Iran पर कहां हमला कर दिया कि भयंकर तबाही मच गई?"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RItw5saNTDA"
-        name: "LIVE : Missile Alerts In UAE, Kuwait As Oil Prices Surge | Israel's Haifa Hit | Iran War"
-        artist: "Firstpost"
+        videoId: "eArO4HikEcs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-06T16:37:52.259Z"
+  exported_at: "2026-04-06T17:38:37.861Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-06T16:37:52.221Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-06T17:38:37.827Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
