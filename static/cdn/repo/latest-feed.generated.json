@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T06:26:24.421Z",
+    "generatedAt": "2026-04-06T08:19:08.745Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tnlLJ35_n_A",
-            "name": "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week",
-            "artist": "Firstpost"
+            "videoId": "quTRbeLvzBA",
+            "name": "US Iran War LIVE | US Slaps Iran’s War Ego, Rescues Captured Pilot From Iranian Soil | Trump | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "5ttOMCzwUE0",
-            "name": "Today's Morning News LIVE: Iran-US-Israel War Updates | Donald Trump | PM Modi | Rahul Gandhi",
-            "artist": "News18 India"
+            "videoId": "xxG_ZRdh0Nk",
+            "name": "Iran America War News LIVE: ईरान से डर गया US, बम से उडाए अपने ही विमान | Trump | Mojtaba | War News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "I5kORDqJz14",
-            "name": "🔴LIVE: மருத்துவமனையில் டிரம்ப்?... அமெரிக்காவில் தீயாய் பரவிய வீடியோ",
-            "artist": "Sathiyam News"
+            "videoId": "2wjq2WMu7lA",
+            "name": "Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "neTSjTq5jek",
-            "name": "Today's Breaking News Live : देश -दुनिया की बड़ी खबरें देखें Sushant Sinha के साथ |Iran Us War|Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "P7TehpDQbBk",
+            "name": "LIVE: Karoline Briefs Nation on Trump’s Health | Is Trump in Critical Condition? | Trump Update LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "NJFWNcN1XQ0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "ABC অন্তর্জাতিক সংবাদ BD"
+            "videoId": "LtNh-QMrS-Q",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "frfXzNWrrWI",
+            "name": "Iran War LIVE | Iran Rejects Trump’s 48 Hour Deadline, Escalates Attacks on US Infrastructure | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y_RXhxx7Bzk",
+            "name": "World Oil Prices Surge Again | Geo News 9AM Headlines 6 April 2026",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
