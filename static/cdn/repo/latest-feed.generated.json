@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T17:38:37.827Z",
+    "generatedAt": "2026-04-06T18:45:35.240Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sMCFxjb23sE",
-            "name": "Debate With Arnab LIVE: Trump’s Profanity On Truth Social Linked To His Operation Gone Wrong In Iran",
-            "artist": "Republic World"
+            "videoId": "Lzwowm384Do",
+            "name": "🔴 Live | World War 3 | Iran's Massive Response on Trump's Warning | Missile Attack on Israel | Samaa",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "WH7iXWz4VCc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Insight World"
+            "videoId": "V_-cXG3Ugfc",
+            "name": "LIVE | Iran Fires New \"Haj Qassem\" Missile | US Strikes Deep Into Tehran | Israel War Update | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "dGZoKQ1E3NM",
-            "name": "US Iran War LIVE: Iran Rejects Ceasefire Proposal Despite Trump's Threats | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "RPiXruC1iHE",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "aPwJoVXWY7M",
-            "name": "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?",
-            "artist": "CNN-News18"
+            "videoId": "g5t8EbqDzYs",
+            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "siQ-xlhX654",
-            "name": "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News",
-            "artist": "Times Now"
+            "videoId": "7O961MLZkc0",
+            "name": "ट्रंप ईरान पर कर रहे बड़ा ऐलान..हिंदी में सुनिए LIVE | Trump Press Conference | Iran America War",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "eArO4HikEcs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "flhK3ZAfw48",
+            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | Pakistan",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zGkJUN8NJuA",
+            "name": "🔴LIVE: Trump | America | ஹாஸ்பிடலில் ட்ரம்ப்.. போருக்கு நடுவே நடந்தது என்ன..?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zEx-oszQY8k",
+            "name": "LIVE | Iran-US Ceasefire Today? Plan To ‌Reopen Strait of Hormuz As IRGC Vows 'New Gulf order'",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "49LCHLEi0sI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Krishno Biswas"
         }
     ],
     "sourceFilters": {
