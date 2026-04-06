@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260406T125310.231Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260406T140709.069Z-l4t35t"
   type: "state"
-  created: "2026-04-06T12:53:10.231Z"
+  created: "2026-04-06T14:07:09.069Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T125310.231Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T140709.069Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "C0lyjbItwew"
-        name: "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Mojtaba Khamenei Vs Trump"
+        videoId: "FJikWfXPC5A"
+        name: "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन BJP के उड़ाए होश!, चला ममता का जादू!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JtH0i4lbu9A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "RItw5saNTDA"
+        name: "LIVE : Missile Alerts In UAE, Kuwait As Oil Prices Surge | Israel's Haifa Hit | Iran War"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kTJg_1yXi4M"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "6fWvVbrj3Pc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Express World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HrvqP-2HE7s"
-        name: "🔴LIVE : Today Fast 100 | 06 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News"
-        artist: "NewsTamil 24X7"
+        videoId: "1rC0P68Dock"
+        name: "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News"
+        artist: "Republic Bharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F-PnnyQm94A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "uRboO7UKVLM"
+        name: "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन पोल ने चौंकाया!, बीजेपी को लगा झटका!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IrEgYSh5wkE"
-        name: "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G"
-        artist: "News18 Urdu"
+        videoId: "m-NKJg918WM"
+        name: "Mahadangal LIVE: बंगाल में कौन मारेगा बाजी? | Bengal Election 2026 | BJP | TMC | Congress | ABP News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ASXahL35Sks"
-        name: "America Attack Iran Live Updates | News Ki Pathshala | Iran पर होगा परमाणु हमला ? | Trump | Iran War"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "t9MFb2EHw1g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "Pf0UOBcmjyc"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-06T12:53:10.231Z"
+  exported_at: "2026-04-06T14:07:09.069Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-06T12:53:10.202Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-06T14:07:09.038Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

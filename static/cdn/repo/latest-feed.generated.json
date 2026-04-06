@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T12:53:10.202Z",
+    "generatedAt": "2026-04-06T14:07:09.038Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C0lyjbItwew",
-            "name": "Iran America Ceasefire LIVE: ईरान की शर्तों के आगे झुक गए ट्रंप! | Mojtaba Khamenei Vs Trump",
+            "videoId": "FJikWfXPC5A",
+            "name": "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन BJP के उड़ाए होश!, चला ममता का जादू!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "JtH0i4lbu9A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "RItw5saNTDA",
+            "name": "LIVE : Missile Alerts In UAE, Kuwait As Oil Prices Surge | Israel's Haifa Hit | Iran War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "kTJg_1yXi4M",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "6fWvVbrj3Pc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Express World"
         },
         {
             "mood": "storm",
-            "videoId": "HrvqP-2HE7s",
-            "name": "🔴LIVE : Today Fast 100 | 06 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News",
-            "artist": "NewsTamil 24X7"
+            "videoId": "1rC0P68Dock",
+            "name": "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News",
+            "artist": "Republic Bharat"
         },
         {
             "mood": "storm",
-            "videoId": "F-PnnyQm94A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "uRboO7UKVLM",
+            "name": "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन पोल ने चौंकाया!, बीजेपी को लगा झटका!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IrEgYSh5wkE",
-            "name": "Iran Attack LIVE: Israel Under Fire: Blasts Over Tel Aviv After Fresh Iranian Missile Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "m-NKJg918WM",
+            "name": "Mahadangal LIVE: बंगाल में कौन मारेगा बाजी? | Bengal Election 2026 | BJP | TMC | Congress | ABP News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ASXahL35Sks",
-            "name": "America Attack Iran Live Updates | News Ki Pathshala | Iran पर होगा परमाणु हमला ? | Trump | Iran War",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t9MFb2EHw1g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
+            "videoId": "Pf0UOBcmjyc",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         }
     ],
     "sourceFilters": {
