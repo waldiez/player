@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260406T153913.058Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260406T163752.259Z-l4t35t"
   type: "state"
-  created: "2026-04-06T15:39:13.058Z"
+  created: "2026-04-06T16:37:52.259Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T153913.058Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T163752.259Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "siQ-xlhX654"
-        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
-        artist: "Times Now"
+        videoId: "eC_QTRu10SM"
+        name: "LIVE: Iran Claims US F-35 Jet Shot Down | US Drops Bunker Buster Bombs on Iran | Vantage this Week"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eArO4HikEcs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "6zVCi7LGDTI"
+        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | LPG Crisis | World News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "k1zoQzIMQjY"
-        name: "உலகமே அதிரும் டிரம்ப்பின் அடுத்த மூவ்! ஈரான் மீது விழுந்த பெரிய அடி!"
-        artist: "Sathiyam News"
+        videoId: "N7HPZCO1RLE"
+        name: "Big Breaking on World War 3 LIVE: 7 अप्रैल से वर्ल्ड वॉर शुरू! | Iran Israel America War News |Trump"
+        artist: "Republic Bharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2RTBItbAenU"
-        name: "🔴LIVE: sathankulam case | சாத்தான்குளம் வழக்கு.. 9 பேருக்கும் தூக்கு தண்டனை"
-        artist: "Sathiyam News"
+        videoId: "dvfGvrO_rCw"
+        name: "News Ki Pathshala Live | Sushant Sinha : Israel ने Iran पर कहां हमला कर दिया कि भयंकर तबाही मच गई?"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RItw5saNTDA"
+        name: "LIVE : Missile Alerts In UAE, Kuwait As Oil Prices Surge | Israel's Haifa Hit | Iran War"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-06T15:39:13.058Z"
+  exported_at: "2026-04-06T16:37:52.259Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-06T15:39:12.959Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-06T16:37:52.221Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
