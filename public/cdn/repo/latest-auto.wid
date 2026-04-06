@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260406T081908.886Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260406T100148.605Z-l4t35t"
   type: "state"
-  created: "2026-04-06T08:19:08.886Z"
+  created: "2026-04-06T10:01:48.605Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T081908.886Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T100148.605Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "quTRbeLvzBA"
-        name: "US Iran War LIVE | US Slaps Iran’s War Ego, Rescues Captured Pilot From Iranian Soil | Trump | N18G"
-        artist: "CNN-News18"
+        videoId: "ASXahL35Sks"
+        name: "America Attack Iran Live Updates | News Ki Pathshala | Iran पर होगा परमाणु हमला ? | Trump | Iran War"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xxG_ZRdh0Nk"
-        name: "Iran America War News LIVE: ईरान से डर गया US, बम से उडाए अपने ही विमान | Trump | Mojtaba | War News"
+        videoId: "_5Xu8FDp1y4"
+        name: "Israel Iran War LIVE: Iran Retaliates To US, Israel Strikes As Tehran Launches Missiles, Drones|N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2rqd0nKE3bU"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j6vgZVZzmTA"
+        name: "US-Iran War LIVE: Iran Claims It Hit USS Abraham Lincoln Again, US Denies It Again | WION LIVE"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6j6SeXYXUCs"
+        name: "🔴LIVE: Tvk Vijay | விஜய் எடுத்த அதிரடி முடிவு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "g5t8EbqDzYs"
+        name: "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2wjq2WMu7lA"
-        name: "Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "m01JuxcOkiw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P7TehpDQbBk"
-        name: "LIVE: Karoline Briefs Nation on Trump’s Health | Is Trump in Critical Condition? | Trump Update LIVE"
-        artist: "ET Now World"
+        videoId: "s_M_3FGMZ6Q"
+        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LtNh-QMrS-Q"
-        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "frfXzNWrrWI"
-        name: "Iran War LIVE | Iran Rejects Trump’s 48 Hour Deadline, Escalates Attacks on US Infrastructure | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Y_RXhxx7Bzk"
-        name: "World Oil Prices Surge Again | Geo News 9AM Headlines 6 April 2026"
-        artist: "Geo News"
+        videoId: "kLzWlCnO7YU"
+        name: "LIVE: Trump & Netanyahu Hold Emergency War Briefing | US–Israel Very Very Big Warning To Tehran!"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-06T08:19:08.886Z"
+  exported_at: "2026-04-06T10:01:48.605Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-06T08:19:08.745Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-06T10:01:48.565Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
