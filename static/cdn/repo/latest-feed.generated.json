@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T21:31:08.148Z",
+    "generatedAt": "2026-04-06T22:28:26.327Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iiJQ0nVnFBs",
-            "name": "LIVE | Iran War: SEAL Team 6 Rescues US Airman After F-15 Downed In Strikes | Spotlight",
-            "artist": "Firstpost"
+            "videoId": "hIKa2i44KaM",
+            "name": "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "IOcwHSOV5ZQ",
-            "name": "LIVE | Iran’s ‘Lost the Keys’ Jibe at Donald Trump Escalates Hormuz Tensions | Iran Fights Fearless",
-            "artist": "CNN-News18"
+            "videoId": "Fpjd8W0hVbQ",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "Khb4Yljaaik",
-            "name": "Firstpost LIVE: Trump's Deadline on Iran Energy Site Strikes Shift Again Amid Hormuz Blockade | N18G",
-            "artist": "Firstpost"
+            "videoId": "LlqcBM_75RY",
+            "name": "LIVE: President Trump holds news conference amid \"unhinged\" Iran social post",
+            "artist": "MS NOW"
         },
         {
             "mood": "storm",
-            "videoId": "Q8FBaCB-Fjo",
-            "name": "President Trump leads White House press briefing",
-            "artist": "ABC News"
+            "videoId": "hXland5qkj0",
+            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sMCFxjb23sE",
-            "name": "Debate With Arnab LIVE: Trump’s Profanity On Truth Social Linked To His Operation Gone Wrong In Iran",
-            "artist": "Republic World"
+            "videoId": "Lzwowm384Do",
+            "name": "🔴 Live | World War 3 | Iran's Massive Response on Trump's Warning | Missile Attack on Israel | Samaa",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "dGZoKQ1E3NM",
-            "name": "US Iran War LIVE: Iran Rejects Ceasefire Proposal Despite Trump's Threats | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "RPiXruC1iHE",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g5t8EbqDzYs",
+            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Hw15Ias6ck0",
+            "name": "Donald Trump News: युद्ध पर ट्रंप का फाइनल फैसला LIVE | Final Ultimatum To Iran | World War 3",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
