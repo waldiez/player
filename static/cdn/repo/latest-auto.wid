@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260406T140709.069Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260406T153913.058Z-l4t35t"
   type: "state"
-  created: "2026-04-06T14:07:09.069Z"
+  created: "2026-04-06T15:39:13.058Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T140709.069Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260406T153913.058Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FJikWfXPC5A"
-        name: "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन BJP के उड़ाए होश!, चला ममता का जादू!"
-        artist: "ABP NEWS"
+        videoId: "siQ-xlhX654"
+        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RItw5saNTDA"
-        name: "LIVE : Missile Alerts In UAE, Kuwait As Oil Prices Surge | Israel's Haifa Hit | Iran War"
-        artist: "Firstpost"
+        videoId: "eArO4HikEcs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6fWvVbrj3Pc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Express World"
+        videoId: "k1zoQzIMQjY"
+        name: "உலகமே அதிரும் டிரம்ப்பின் அடுத்த மூவ்! ஈரான் மீது விழுந்த பெரிய அடி!"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1rC0P68Dock"
-        name: "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News"
-        artist: "Republic Bharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uRboO7UKVLM"
-        name: "Bengal Election 2026 Opinion Poll News LIVE: बंगाल के ओपिनियन पोल ने चौंकाया!, बीजेपी को लगा झटका!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m-NKJg918WM"
-        name: "Mahadangal LIVE: बंगाल में कौन मारेगा बाजी? | Bengal Election 2026 | BJP | TMC | Congress | ABP News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Pf0UOBcmjyc"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "2RTBItbAenU"
+        name: "🔴LIVE: sathankulam case | சாத்தான்குளம் வழக்கு.. 9 பேருக்கும் தூக்கு தண்டனை"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-06T14:07:09.069Z"
+  exported_at: "2026-04-06T15:39:13.058Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-06T14:07:09.038Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-06T15:39:12.959Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
