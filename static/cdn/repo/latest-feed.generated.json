@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T19:52:20.312Z",
+    "generatedAt": "2026-04-07T20:38:34.887Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VUs_k-UtMfs",
-            "name": "USA-Iran War LIVE: Donald Trump's Deadline To Iran To End Soon; Iran's Infrastructure At Utmost Risk",
-            "artist": "CNN-News18"
+            "videoId": "3e9vnV6Bhyc",
+            "name": "US Iran War LIVE: 'A Whole Civilization Will Die Tonight,' Trump's Shocking Threat To Iran | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "aVtU1CY20GA",
-            "name": "Live: Iran US War Update | Donald Trump's Announces Biggest Attack on Iran  | Latest Update | Samaa",
-            "artist": "SAMAA TV"
+            "videoId": "hMibAF9oDc0",
+            "name": "LIVE: \"Iran's Every Power Plant Will Be Out of Business,\" Trump's Warning to Tehran | US Iran War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "581hnu3SwYs",
-            "name": "America Iran War LIVE: जिसका डर था ट्रंप ने वहीं कर दिया, !दुनिया के छूटे पसीने! | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "kHj9m-FJyp4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "VeEHTXQ_sp4",
-            "name": "Debate With Arnab LIVE: Is Iran Ready For The Final Battle As Trump Warns Complete Demolition?",
-            "artist": "Republic World"
+            "videoId": "u2SRrXlChHs",
+            "name": "Aaj Ki Taaza Khabar LIVE: 7 April News | Iran America War Updates | Trump vs Iran | Pakistan | NDTV",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "toe0p5ZB5N0",
-            "name": "🔴LIVE: America | War | Iran | திக் திக் - இறுதி கட்டத்தில் போர்..?",
-            "artist": "Sathiyam News"
+            "videoId": "Z12X1gFSe8c",
+            "name": "LIVE: 'Open the Strait NOW!' Trump’s Explosive Iran Message Leaves World In Panic! | Trump | IRAN-US",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Wg1tzQ2eC-4",
-            "name": "Debate With Arnab LIVE: Can Trump Wipeout Iran’s Civilization With Brute Military Force?",
-            "artist": "Republic World"
+            "videoId": "TPefsXonvyQ",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "M9s7tIo-00E",
-            "name": "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027",
-            "artist": "ABP NEWS"
+            "videoId": "39SxHyRJjU0",
+            "name": "WAR BIG BREAKING LIVE | Trump Warns Iran of Final Tuesday Deadline To Agree Peace | Iran War | N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pb_7GfV_Kxc",
+            "name": "US Iran War LIVE: Iran Synagogue 'Completely Destroyed' in War | Israel on Alert | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q995aNs1cVI",
+            "name": "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
