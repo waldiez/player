@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-06T23:28:42.735Z",
+    "generatedAt": "2026-04-07T01:45:49.324Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cgmjk0wlGHo",
-            "name": "World News Live: ईरान के हमले से मची भयंकर तबाही,दिल दहला देने वाली तस्वीरें आई सामने ! Iran | USA |",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "tMqvHGe3tIg",
+            "name": "Iran-US Israel War LIVE: सोमवार के दिन ट्रंप का दुनिया को सरप्राइज! | Big Breaking | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "62QDWZEjolo",
-            "name": "US IRAN WAR LIVE | Iran War Over? Trump Shocks World With Huge Announcement | Trump Iran Update",
-            "artist": "ET Now"
+            "videoId": "YyUJcX2FcAs",
+            "name": "LIVE | BIG DECISION TONIGHT ? Israel Iran War Ending News | Deal Soon? | Iran War News | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GGUsEEF2OZQ",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IOcwHSOV5ZQ",
-            "name": "LIVE | Iran’s ‘Lost the Keys’ Jibe at Donald Trump Escalates Hormuz Tensions | Iran Fights Fearless",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Khb4Yljaaik",
-            "name": "Firstpost LIVE: Trump's Deadline on Iran Energy Site Strikes Shift Again Amid Hormuz Blockade | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q8FBaCB-Fjo",
-            "name": "President Trump leads White House press briefing",
+            "videoId": "LtCpd4gvEbA",
+            "name": "LIVE: Artemis II makes historic flight around the moon",
             "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y8ix9lzQQ8o",
+            "name": "New Trump threat: “Iran can be taken out in one night - it may be tomorrow night\" | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZsCxE1vSc5Q",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
