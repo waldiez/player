@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T17:51:57.706Z",
+    "generatedAt": "2026-04-07T18:52:54.670Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QQcIUnMuwwQ",
-            "name": "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | Pakistan",
+            "videoId": "u2SRrXlChHs",
+            "name": "Aaj Ki Taaza Khabar LIVE: 7 April News | Iran America War Updates | Trump vs Iran | Pakistan | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "VeEHTXQ_sp4",
-            "name": "Debate With Arnab LIVE: Is Iran Ready For The Final Battle As Trump Warns Complete Demolition?",
-            "artist": "Republic World"
+            "videoId": "Z12X1gFSe8c",
+            "name": "LIVE: 'Open the Strait NOW!' Trump’s Explosive Iran Message Leaves World In Panic! | Trump | IRAN-US",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "toe0p5ZB5N0",
-            "name": "🔴LIVE: America | War | Iran | திக் திக் - இறுதி கட்டத்தில் போர்..?",
-            "artist": "Sathiyam News"
+            "videoId": "TPefsXonvyQ",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "Wg1tzQ2eC-4",
-            "name": "Debate With Arnab LIVE: Can Trump Wipeout Iran’s Civilization With Brute Military Force?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M9s7tIo-00E",
-            "name": "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uvv--5rsplM",
-            "name": "LIVE: Trump Threatens to Wipe Out Iran's Civilisation, Tehran's Kharg Island Under Attack | N18G",
+            "videoId": "pb_7GfV_Kxc",
+            "name": "US Iran War LIVE: Iran Synagogue 'Completely Destroyed' in War | Israel on Alert | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "OWAFj4HhCW8",
-            "name": "Lockdown in Pakistan News LIVE: पीएम का बड़ा ऐलान!, लगेगा लॉकडाउन?, लोगों में हड़कंप!|Shehbaz Sharif",
-            "artist": "ABP NEWS"
+            "videoId": "QKzT5Va1yJw",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "eOElyOjXVwI",
-            "name": "🔴LIVE: Trump | Isreal Iran War |உள்ளே புகுந்த அமெரிக்கா - கதிகலங்கிய ஈரான்",
+            "videoId": "Q995aNs1cVI",
+            "name": "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5yuUflx9fOM",
+            "name": "🔴LIVE:  Iran | முடியும் இறுதி கெடு.. ட்ரம்ப் கையில் எடுத்த பிரம்மாஸ்திரம்! - அழிவை நோக்கி ஈரான்",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9QwgAXQ2efQ",
-            "name": "'चाहता नहीं था पर आज ईरान खत्म होगा' ट्रंप का ऐलान LIVE | Trump Deadline | Iran America War | NDTV",
-            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
