@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260407T223109.986Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260407T233057.934Z-l4t35t"
   type: "state"
-  created: "2026-04-07T22:31:09.986Z"
+  created: "2026-04-07T23:30:57.934Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T223109.986Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T233057.934Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3e9vnV6Bhyc"
-        name: "US Iran War LIVE: 'A Whole Civilization Will Die Tonight,' Trump's Shocking Threat To Iran | N18G"
+        videoId: "icPpoHZ2Ktg"
+        name: "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hMibAF9oDc0"
-        name: "LIVE: \"Iran's Every Power Plant Will Be Out of Business,\" Trump's Warning to Tehran | US Iran War"
-        artist: "Firstpost"
+        videoId: "49nFXGU2Rx0"
+        name: "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ASmOaUe0Efw"
-        name: "Live : PM appeals to the US President to extend the deadline by two weeks | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kHj9m-FJyp4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.04.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Y4C6gnOgiUU"
-        name: "Iran War LIVE: Trump To Show His Nuclear Might To Finish Iran's 'Whole Civilisation'? | WH Explains"
+        videoId: "-QmWoRMiCmE"
+        name: "Iran LIVE | American B-52 Bombers Leave UK Airbase, Trump Deadline Looms | What Will Happen At 8PM?"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "u2SRrXlChHs"
-        name: "Aaj Ki Taaza Khabar LIVE: 7 April News | Iran America War Updates | Trump vs Iran | Pakistan | NDTV"
-        artist: "NDTV India"
+        videoId: "2EeghR0EAh8"
+        name: "Iran US War Live | US Ready With 70,000 Troops | Latest Updates From Washington | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Z12X1gFSe8c"
-        name: "LIVE: 'Open the Strait NOW!' Trump’s Explosive Iran Message Leaves World In Panic! | Trump | IRAN-US"
-        artist: "Times Now"
+        videoId: "VUs_k-UtMfs"
+        name: "USA-Iran War LIVE: Donald Trump's Deadline To Iran To End Soon; Iran's Infrastructure At Utmost Risk"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TPefsXonvyQ"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "3FiO9gjBYLQ"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-07T22:31:09.986Z"
+  exported_at: "2026-04-07T23:30:57.934Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-07T22:31:09.952Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-07T23:30:57.901Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
