@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T15:01:09.062Z",
+    "generatedAt": "2026-04-07T16:47:19.446Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_D2uLFf2xko",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "1fvz_JlrxSo",
+            "name": "Iran-US War LIVE | \"Get Ready for Destruction\": Trump’s Final Ultimatum to Iran as Deadline Hits",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "5VryASnzLmk",
-            "name": "America Iran War LIVE: अमेरिका ने ईरान पर मार दिया क्लस्टर बम का 'बाप'! | Trump | Mojtaba | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BtsDjdUJ3BM",
-            "name": "Donald Trump Ultimatum to Iran LIVE : ईरान पर विनाशक हमला! Iran America War | Trump | Netanyahu",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LbtDgnywA9I",
-            "name": "US Israel Iran War LIVE: Trump's Big Iran War Speech | Will US-Iran Accept Pak Ceasefire Deal?",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZUT4FbEOpFs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC Express"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M9s7tIo-00E",
-            "name": "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vKc8hPGOTqc",
+            "videoId": "ywP_YO1rnRQ",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "jqvighbDi8k",
-            "name": "Breaking LIVE | US Iran War | US President Trump Threatens Ahead Of 8 PM Deadline | Iran War News",
-            "artist": "CNBC-TV18"
+            "videoId": "zZzs0pJF_m4",
+            "name": "🔴LIVE : US Israel Iran War Latest News |''விடியும் போது ஈரான் இருக்காது''",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "HbDj7vLMkl4",
-            "name": "Out Of Focus Live | 07 April 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "mKvzXdhh3Oo",
+            "name": "LIVE: Iran Launches Fresh Strikes on Saudi Arabia, Threatens to Target UAE Tech Infrastructure",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AIgmGHTKY8Y",
+            "name": "🔴 Live | Iran Missile Attack on Israel & US Bases | Middle East War Update | 7 April 2026",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TRjzU7mH6lI",
+            "name": "🔴LIVE: TVK | VIJAY | தவெகவுக்கு பேரிடி செய்தி.. பரபரப்பு, பதற்றத்தில் EPS தொகுதி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BLrQpb4n8cQ",
+            "name": "LIVE: Iran Strikes Saudi's Petrochemical Complex, Threatens to Target UAE Tech Site | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XMLtskechkA",
+            "name": "Iran-US War Live Updates: Trump's Last Warning For Iran | War News | Israel Strikes Iran | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5RaZNhimqXc",
+            "name": "America Iran War LIVE: जिसका डर था ट्रंप ने वहीं कर दिया, !दुनिया के छूटे पसीने! | Trump | Mojtaba",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
