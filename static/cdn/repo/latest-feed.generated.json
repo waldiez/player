@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T13:02:53.005Z",
+    "generatedAt": "2026-04-07T15:01:09.062Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "y5iFf_OtdLc",
-            "name": "US Iran War LIVE | Trump's BIG Warning: Iran Can Be “Taken Out In One Night” | Firstpost | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nt2EapChK0s",
-            "name": "🔴 LIVE: War Escalates Day 39 – Strait of Hormuz Blockade & Emergency Talks Continue Overnight",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z7Ea1d8D-6s",
+            "videoId": "_D2uLFf2xko",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "NPxhZt_Rh5c",
-            "name": "Ind Vs Pak Live | News Ki Pathshala | Pakistan पर एक्शन की तैयारी में भारत ! | PM Modi | Asim Munir",
-            "artist": "Times Now Navbharat"
+            "videoId": "5VryASnzLmk",
+            "name": "America Iran War LIVE: अमेरिका ने ईरान पर मार दिया क्लस्टर बम का 'बाप'! | Trump | Mojtaba | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bMyDxkCvV-Q",
-            "name": "BREAKING: Iran Rejects Donald Trump Ultimatum | Retaliation Threat | Iran-US War LIVE",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "deUmN9v3TG4",
-            "name": "Iran America War LIVE Updates 6 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran | NDTV",
+            "videoId": "BtsDjdUJ3BM",
+            "name": "Donald Trump Ultimatum to Iran LIVE : ईरान पर विनाशक हमला! Iran America War | Trump | Netanyahu",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "sCmV54GNvh4",
-            "name": "Iran US Israel War Latest News LIVE: 1 मिनट में 100 धमाके...  | Trump | Hormuz | World News",
-            "artist": "Republic Bharat"
+            "videoId": "LbtDgnywA9I",
+            "name": "US Israel Iran War LIVE: Trump's Big Iran War Speech | Will US-Iran Accept Pak Ceasefire Deal?",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "nsJFm6o351s",
-            "name": "US-Iran War LIVE: President Trump addresses the nation after US strikes nuclear sites in Iran | LIVE",
-            "artist": "ET Now"
+            "videoId": "ZUT4FbEOpFs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BAC Express"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M9s7tIo-00E",
+            "name": "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vKc8hPGOTqc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jqvighbDi8k",
+            "name": "Breaking LIVE | US Iran War | US President Trump Threatens Ahead Of 8 PM Deadline | Iran War News",
+            "artist": "CNBC-TV18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HbDj7vLMkl4",
+            "name": "Out Of Focus Live | 07 April 2026",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
