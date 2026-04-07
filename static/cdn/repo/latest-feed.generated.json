@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T01:45:49.324Z",
+    "generatedAt": "2026-04-07T04:27:41.404Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,56 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tMqvHGe3tIg",
-            "name": "Iran-US Israel War LIVE: सोमवार के दिन ट्रंप का दुनिया को सरप्राइज! | Big Breaking | Trump",
+            "videoId": "aPwJoVXWY7M",
+            "name": "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1rC0P68Dock",
+            "name": "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News",
+            "artist": "Republic Bharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M_cP5cFQjYU",
+            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YyUJcX2FcAs",
-            "name": "LIVE | BIG DECISION TONIGHT ? Israel Iran War Ending News | Deal Soon? | Iran War News | US News",
-            "artist": "Times Now"
+            "videoId": "BypiPchwAe4",
+            "name": "Iran-US War LIVE | Trump Mobilises Special US Units As Iran Defies Ultimatum | Boots On Ground Soon?",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "LtCpd4gvEbA",
-            "name": "LIVE: Artemis II makes historic flight around the moon",
+            "videoId": "XuaIrTdktFQ",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 6, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "Y8ix9lzQQ8o",
-            "name": "New Trump threat: “Iran can be taken out in one night - it may be tomorrow night\" | BBC News",
-            "artist": "BBC News"
+            "videoId": "ZXGpvSwHWos",
+            "name": "Iran rejects temporary ceasefire | Geo News 7 AM Headlines 7 April 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "ZsCxE1vSc5Q",
-            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "videoId": "CJRdG_3wXjg",
+            "name": "Iran America War Updates in Hindi LIVE | ईरान-अमेरिका जंग की बड़ी खबरें | Trump | Mojtaba | Hormuz",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0CocPqy-7qY",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l7RZcAixzyA",
+            "name": "LIVE: Trump hosts White House briefing amid Iran negotiations | Trump LIVE | World News LIVE",
             "artist": "Times Now World"
         }
     ],

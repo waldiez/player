@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260407T014549.358Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260407T042741.436Z-l4t35t"
   type: "state"
-  created: "2026-04-07T01:45:49.358Z"
+  created: "2026-04-07T04:27:41.436Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T014549.358Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T042741.436Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,32 +53,56 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "tMqvHGe3tIg"
-        name: "Iran-US Israel War LIVE: सोमवार के दिन ट्रंप का दुनिया को सरप्राइज! | Big Breaking | Trump"
+        videoId: "aPwJoVXWY7M"
+        name: "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1rC0P68Dock"
+        name: "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News"
+        artist: "Republic Bharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M_cP5cFQjYU"
+        name: "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YyUJcX2FcAs"
-        name: "LIVE | BIG DECISION TONIGHT ? Israel Iran War Ending News | Deal Soon? | Iran War News | US News"
-        artist: "Times Now"
+        videoId: "BypiPchwAe4"
+        name: "Iran-US War LIVE | Trump Mobilises Special US Units As Iran Defies Ultimatum | Boots On Ground Soon?"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LtCpd4gvEbA"
-        name: "LIVE: Artemis II makes historic flight around the moon"
+        videoId: "XuaIrTdktFQ"
+        name: "ABC World News Tonight with David Muir Full Broadcast - April 6, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y8ix9lzQQ8o"
-        name: "New Trump threat: “Iran can be taken out in one night - it may be tomorrow night\" | BBC News"
-        artist: "BBC News"
+        videoId: "ZXGpvSwHWos"
+        name: "Iran rejects temporary ceasefire | Geo News 7 AM Headlines 7 April 2026"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZsCxE1vSc5Q"
-        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
+        videoId: "CJRdG_3wXjg"
+        name: "Iran America War Updates in Hindi LIVE | ईरान-अमेरिका जंग की बड़ी खबरें | Trump | Mojtaba | Hormuz"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0CocPqy-7qY"
+        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l7RZcAixzyA"
+        name: "LIVE: Trump hosts White House briefing amid Iran negotiations | Trump LIVE | World News LIVE"
         artist: "Times Now World"
         chapter: null
   moodCustomizations:
@@ -90,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-07T01:45:49.358Z"
+  exported_at: "2026-04-07T04:27:41.436Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-07T01:45:49.324Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-07T04:27:41.404Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
