@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260407T164719.481Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260407T175157.826Z-l4t35t"
   type: "state"
-  created: "2026-04-07T16:47:19.481Z"
+  created: "2026-04-07T17:51:57.826Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T164719.481Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T175157.826Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1fvz_JlrxSo"
-        name: "Iran-US War LIVE | \"Get Ready for Destruction\": Trump’s Final Ultimatum to Iran as Deadline Hits"
-        artist: "CNN-News18"
+        videoId: "QQcIUnMuwwQ"
+        name: "Today's Breaking News LIVE: Iran America War LIVE | Hormuz Strait | Trump | Mojtaba | Pakistan"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ywP_YO1rnRQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "VeEHTXQ_sp4"
+        name: "Debate With Arnab LIVE: Is Iran Ready For The Final Battle As Trump Warns Complete Demolition?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zZzs0pJF_m4"
-        name: "🔴LIVE : US Israel Iran War Latest News |''விடியும் போது ஈரான் இருக்காது''"
+        videoId: "toe0p5ZB5N0"
+        name: "🔴LIVE: America | War | Iran | திக் திக் - இறுதி கட்டத்தில் போர்..?"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mKvzXdhh3Oo"
-        name: "LIVE: Iran Launches Fresh Strikes on Saudi Arabia, Threatens to Target UAE Tech Infrastructure"
-        artist: "Firstpost"
+        videoId: "Wg1tzQ2eC-4"
+        name: "Debate With Arnab LIVE: Can Trump Wipeout Iran’s Civilization With Brute Military Force?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AIgmGHTKY8Y"
-        name: "🔴 Live | Iran Missile Attack on Israel & US Bases | Middle East War Update | 7 April 2026"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TRjzU7mH6lI"
-        name: "🔴LIVE: TVK | VIJAY | தவெகவுக்கு பேரிடி செய்தி.. பரபரப்பு, பதற்றத்தில் EPS தொகுதி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BLrQpb4n8cQ"
-        name: "LIVE: Iran Strikes Saudi's Petrochemical Complex, Threatens to Target UAE Tech Site | US Iran War"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XMLtskechkA"
-        name: "Iran-US War Live Updates: Trump's Last Warning For Iran | War News | Israel Strikes Iran | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5RaZNhimqXc"
-        name: "America Iran War LIVE: जिसका डर था ट्रंप ने वहीं कर दिया, !दुनिया के छूटे पसीने! | Trump | Mojtaba"
+        videoId: "M9s7tIo-00E"
+        name: "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uvv--5rsplM"
+        name: "LIVE: Trump Threatens to Wipe Out Iran's Civilisation, Tehran's Kharg Island Under Attack | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OWAFj4HhCW8"
+        name: "Lockdown in Pakistan News LIVE: पीएम का बड़ा ऐलान!, लगेगा लॉकडाउन?, लोगों में हड़कंप!|Shehbaz Sharif"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eOElyOjXVwI"
+        name: "🔴LIVE: Trump | Isreal Iran War |உள்ளே புகுந்த அமெரிக்கா - கதிகலங்கிய ஈரான்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9QwgAXQ2efQ"
+        name: "'चाहता नहीं था पर आज ईरान खत्म होगा' ट्रंप का ऐलान LIVE | Trump Deadline | Iran America War | NDTV"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-07T16:47:19.481Z"
+  exported_at: "2026-04-07T17:51:57.826Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-07T16:47:19.446Z"
+  source_generated_at: "2026-04-07T17:51:57.706Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
