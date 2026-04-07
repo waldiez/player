@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260407T042741.436Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260407T061459.475Z-l4t35t"
   type: "state"
-  created: "2026-04-07T04:27:41.436Z"
+  created: "2026-04-07T06:14:59.475Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T042741.436Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T061459.475Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aPwJoVXWY7M"
-        name: "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?"
-        artist: "CNN-News18"
+        videoId: "kGBOOfPc2d0"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1rC0P68Dock"
-        name: "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News"
-        artist: "Republic Bharat"
+        videoId: "tIUX4Eew_Do"
+        name: "Live: Iran US War Update | Donald Trump's Press Conference | Major Decisions | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M_cP5cFQjYU"
-        name: "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire"
+        videoId: "gJ4o3mrdKrg"
+        name: "Donald Trump Last Warning to Iran News: 'एक रात में पूरा ईरान तबाह कर देंगे' | Iran US War | Mojtaba"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BypiPchwAe4"
-        name: "Iran-US War LIVE | Trump Mobilises Special US Units As Iran Defies Ultimatum | Boots On Ground Soon?"
-        artist: "CNN-News18"
+        videoId: "9FHRRgNo6ms"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 07.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XuaIrTdktFQ"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 6, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZXGpvSwHWos"
-        name: "Iran rejects temporary ceasefire | Geo News 7 AM Headlines 7 April 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CJRdG_3wXjg"
-        name: "Iran America War Updates in Hindi LIVE | ईरान-अमेरिका जंग की बड़ी खबरें | Trump | Mojtaba | Hormuz"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0CocPqy-7qY"
-        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "l7RZcAixzyA"
-        name: "LIVE: Trump hosts White House briefing amid Iran negotiations | Trump LIVE | World News LIVE"
-        artist: "Times Now World"
+        videoId: "N-Ma7DdCvSA"
+        name: "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-07T04:27:41.436Z"
+  exported_at: "2026-04-07T06:14:59.475Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-07T04:27:41.404Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-07T06:14:59.442Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

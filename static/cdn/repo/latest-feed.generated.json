@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T04:27:41.404Z",
+    "generatedAt": "2026-04-07T06:14:59.442Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aPwJoVXWY7M",
-            "name": "LIVE | Trump Makes Major Announcement Ahead of Iran Deadline | Iran Rejects Ceasefire | What Next?",
-            "artist": "CNN-News18"
+            "videoId": "kGBOOfPc2d0",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "1rC0P68Dock",
-            "name": "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News",
-            "artist": "Republic Bharat"
+            "videoId": "tIUX4Eew_Do",
+            "name": "Live: Iran US War Update | Donald Trump's Press Conference | Major Decisions | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "M_cP5cFQjYU",
-            "name": "Iran US Israel War LIVE: मिडिल ईस्ट से आ गई बड़ी खुशखबरी! | Trump | Mojtaba | Netanyahu | Ceasefire",
+            "videoId": "gJ4o3mrdKrg",
+            "name": "Donald Trump Last Warning to Iran News: 'एक रात में पूरा ईरान तबाह कर देंगे' | Iran US War | Mojtaba",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "BypiPchwAe4",
-            "name": "Iran-US War LIVE | Trump Mobilises Special US Units As Iran Defies Ultimatum | Boots On Ground Soon?",
-            "artist": "CNN-News18"
+            "videoId": "9FHRRgNo6ms",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 07.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "XuaIrTdktFQ",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 6, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZXGpvSwHWos",
-            "name": "Iran rejects temporary ceasefire | Geo News 7 AM Headlines 7 April 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CJRdG_3wXjg",
-            "name": "Iran America War Updates in Hindi LIVE | ईरान-अमेरिका जंग की बड़ी खबरें | Trump | Mojtaba | Hormuz",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0CocPqy-7qY",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l7RZcAixzyA",
-            "name": "LIVE: Trump hosts White House briefing amid Iran negotiations | Trump LIVE | World News LIVE",
-            "artist": "Times Now World"
+            "videoId": "N-Ma7DdCvSA",
+            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
