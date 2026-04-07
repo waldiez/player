@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T08:06:57.977Z",
+    "generatedAt": "2026-04-07T10:01:15.269Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "OnvOsDOwT8g",
-            "name": "Iran America War News LIVE: आज है कयामत की रात? ईरान के आसमान में डूम्सडे प्लेन! | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "bMyDxkCvV-Q",
+            "name": "BREAKING: Iran Rejects Donald Trump Ultimatum | Retaliation Threat | Iran-US War LIVE",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "xwRkE0Y6me4",
-            "name": "Iran US Israel War Latest News LIVE: ईरान ने ट्रंप को बुरा फंसाया! | Trump | Hormuz | World News",
+            "videoId": "sCmV54GNvh4",
+            "name": "Iran US Israel War Latest News LIVE: 1 मिनट में 100 धमाके...  | Trump | Hormuz | World News",
             "artist": "Republic Bharat"
         },
         {
             "mood": "storm",
-            "videoId": "ZOO75mX0AYU",
-            "name": "America Israel Big Attack on Iran LIVE: एक झटके में ईरान के 13000 ठिकाने तबाह! | Trump | World War",
+            "videoId": "A0NlKfZ5XZQ",
+            "name": "Iran Missile Attack on US Airbase in Iraq: US का सैन्य ठिकाना धुंआ-धुंआ | Trump | Big Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "VdCK_Pd6R0Q",
-            "name": "🔴LIVE: Trump | Isreal Iran War | உச்சகட்ட போர் பதற்றம்",
+            "videoId": "A6sd-4oc9AM",
+            "name": "Mojtaba Khamenei News LIVE |  Mojtaba Khamenei Unconscious In Qom? | Iran Supreme Leader",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "twqKSEYdqao",
+            "name": "🔴LIVE:  ஆதவ் வேட்புமனு நிறுத்திவைப்பு",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "8zY97Fte-OI",
-            "name": "Iran Israel US War : आज है कयामत की रात? ईरान के आसमान में डूम्सडे प्लेन! | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "gY8AwzYZ2lM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "6gsj5n-C3jY",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "EmIXj--49f0",
+            "name": "Iran's Latest Attack on Israel, US Bases | 12:30 PM News Updates | 7 April 2026 | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "proaKCNyktE",
-            "name": "IRAN LIVE | US-Israel Drop Bunker Buster Bombs On Sharif University | Tehran | IRGC | Trump | Crux",
-            "artist": "CRUX"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jMEV86tHESI",
-            "name": "American B1 Bomber Targets Iran Nuclear Plant LIVE: ईरान के परमाणु प्लांट पर भयंकर बमबारी! | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GyfaQUjgvWA",
-            "name": "Iran US Israel War Latest News LIVE: अमेरिका ने घेर लिया पूरा ईरान! | Trump | Hormuz | World News",
-            "artist": "Republic Bharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1vIRq-E1URQ",
-            "name": "Big News on Iran US Israel War: ईरान के हाथों में रूस के परमाणु? खतरे में अमेरिका- इजरायल! | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jxk_j6hejgM",
-            "name": "LIVE | Iran Launches Wave 94 Missile Barrage | Tel Aviv & Dimona Hit | Israel War Escalation | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "A9FP754OyIo",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 07.04.2026 | Sangsad | Parliament |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
