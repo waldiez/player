@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260407T185254.707Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260407T195220.340Z-l4t35t"
   type: "state"
-  created: "2026-04-07T18:52:54.707Z"
+  created: "2026-04-07T19:52:20.340Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T185254.707Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260407T195220.340Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "u2SRrXlChHs"
-        name: "Aaj Ki Taaza Khabar LIVE: 7 April News | Iran America War Updates | Trump vs Iran | Pakistan | NDTV"
-        artist: "NDTV India"
+        videoId: "VUs_k-UtMfs"
+        name: "USA-Iran War LIVE: Donald Trump's Deadline To Iran To End Soon; Iran's Infrastructure At Utmost Risk"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Z12X1gFSe8c"
-        name: "LIVE: 'Open the Strait NOW!' Trump’s Explosive Iran Message Leaves World In Panic! | Trump | IRAN-US"
-        artist: "Times Now"
+        videoId: "aVtU1CY20GA"
+        name: "Live: Iran US War Update | Donald Trump's Announces Biggest Attack on Iran  | Latest Update | Samaa"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TPefsXonvyQ"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "581hnu3SwYs"
+        name: "America Iran War LIVE: जिसका डर था ट्रंप ने वहीं कर दिया, !दुनिया के छूटे पसीने! | Trump | Mojtaba"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pb_7GfV_Kxc"
-        name: "US Iran War LIVE: Iran Synagogue 'Completely Destroyed' in War | Israel on Alert | N18G"
-        artist: "Firstpost"
+        videoId: "VeEHTXQ_sp4"
+        name: "Debate With Arnab LIVE: Is Iran Ready For The Final Battle As Trump Warns Complete Demolition?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QKzT5Va1yJw"
-        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Q995aNs1cVI"
-        name: "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5yuUflx9fOM"
-        name: "🔴LIVE:  Iran | முடியும் இறுதி கெடு.. ட்ரம்ப் கையில் எடுத்த பிரம்மாஸ்திரம்! - அழிவை நோக்கி ஈரான்"
+        videoId: "toe0p5ZB5N0"
+        name: "🔴LIVE: America | War | Iran | திக் திக் - இறுதி கட்டத்தில் போர்..?"
         artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wg1tzQ2eC-4"
+        name: "Debate With Arnab LIVE: Can Trump Wipeout Iran’s Civilization With Brute Military Force?"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M9s7tIo-00E"
+        name: "Seedha Sawal LIVE: 90 लाख कटे नाम.. बंगाल में किसे नफा, किसका नुकसान? | Bengal Election  2027"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-07T18:52:54.707Z"
+  exported_at: "2026-04-07T19:52:20.340Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-07T18:52:54.670Z"
+  source_generated_at: "2026-04-07T19:52:20.312Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
