@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-08T11:46:49.193Z",
+    "generatedAt": "2026-04-08T13:04:15.444Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yrCpDtPwcCc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "jZQMBwxKkHw",
+            "name": "Iran US Israel War LIVE: टूट गया सीजफायर? इजरायल का हमला, आगबबूला ईरान | Trump | Mojtaba | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xR7tmM-5XJ0",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.04.2026) | 2 PM Headlines | ThanthiTV",
+            "videoId": "KvcJ4H8TORc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jgSBAcl0iu4",
+            "name": "Iran America Israel Ceasefire Update LIVE: ट्रंप ने मान ली ईरान की शर्तें...! | Trump | War News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "y_fzBSDUDKw",
+            "name": "Iran US Israel Ceasfire News LIVE: शाम होते ही पलट गए ट्रंप? | America | Trump | Mojtaba | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sQc0lyVL5t0",
+            "name": "🔴LIVE :  Donald Trump | Iran | America | Iran War | Israel Iran War | ஈரான் எடுத்த  திடீர் முடிவு",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "IyGoCE0zeig",
-            "name": "🔴 LIVE || Breaking News Coverage: IRAN WAR - Trump Deadline Countdown || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P1Bec1Tzweg",
-            "name": "Mojtaba Khamenei News LIVE: सामने आया खामेनेई का बयान | Trump | Iran US War | Hezbollah",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2l8Cc7qXWqw",
-            "name": "Trump Announces Ceasefire LIVE | Trump On Iran War | America Iran War Latest News",
-            "artist": "NDTV Profit"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wKRptlqsqas",
-            "name": "ईरान-अमेरिका जंग, 8 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FWQfR5AhD84",
-            "name": "America New President News LIVE: ट्रंप की गई कुर्सी...? | Iran Israel US War | Hormuz | USA Clash",
-            "artist": "ABP NEWS"
+            "videoId": "ekyMFH0UJt8",
+            "name": "US Iran Ceasefire News LIVE | Iranians Celebrate Ceasefire | US, Israeli Flags Burned In Tehran",
+            "artist": "NDTV"
         }
     ],
     "sourceFilters": {
