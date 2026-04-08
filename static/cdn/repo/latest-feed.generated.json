@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-08T04:30:50.011Z",
+    "generatedAt": "2026-04-08T06:16:45.063Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "OMSPmWRfOfE",
-            "name": "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage",
-            "artist": "Firstpost"
+            "videoId": "N6GiLZV5dU0",
+            "name": "America Iran War LIVE: रात 8 बजे ईरान पर  LIVE बड़ा हमला! | Trump | Mojtaba | Breaking | LIVE TV",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yAqipua2X08",
-            "name": "LIVE: Iran's Kharg Island Reportedly Struck Hours Before Trump's Deadline Ends | USA-Iran War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "21x4lzF3cko",
+            "name": "Putin Full Speech LIVE | Putin’s Scary Warning To Trump Over Continuously strike on Iran | Iran-US",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "NJUWM_paYFk",
-            "name": "Live | Trump Deadly Warning To Iran: A WHOLE CIVILIZATION WILL DIE TONIGHT | Kharg Island Attacked",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "54mG4tPjtow",
-            "name": "USA-Iran War LIVE: Donald Trump's Deadline To Iran To End Soon; Iran's Infrastructure At Utmost Risk",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y4C6gnOgiUU",
-            "name": "Iran War LIVE: Trump To Show His Nuclear Might To Finish Iran's 'Whole Civilisation'? | WH Explains",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hRcRv0cBeHw",
-            "name": "WAR BIG BREAKING LIVE | Half A Billion Dollars, Cost Of F-15 Crash And Daring Rescue Operation |N18G",
+            "videoId": "iakdtxFlDkU",
+            "name": "World On Edge! Iran Israel US War LIVE | Gulf War Updates | US Warning | Iran Hits Back | UAE |N18G",
             "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "I9MA76B40kM",
-            "name": "LIVE | Iran Fires New \"Haj Qassem\" Missile | US Strikes Deep Into Tehran | Israel War Update | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "LZvo2g6nkQU",
+            "name": "Iran War - Trump Deadline Countdown - LIVE Breaking News Coverage",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "EDvnfXJDFh0",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 7, 2026",
-            "artist": "ABC News"
+            "videoId": "r08-Yrl3Hwc",
+            "name": "LIVE | World in Fear | Trump’s Big Move Today? | World on Edge | Iran Israel US War| Khamenei I N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "Sd0787I6ehE",
-            "name": "US Iran War LIVE: 'A Whole Civilization Will Die Tonight,' Trump's Shocking Threat To Iran | N18G",
+            "videoId": "ip0qij-vRXc",
+            "name": "Israel Reaction on Casefire LIVE: इजरायल को नहीं मंजूर ट्रंप का सीजफायर? | Iran US Israel War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AU6Irf73dAI",
+            "name": "US Iran Ceasefire News LIVE: पाकिस्तान ने करवाई  दुनिया में फिर बेइज्जती! | China Iran | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-04XR_hBkS8",
+            "name": "🔴LIVE :  Donald Trump | Iran | America | Iran War | போரில் எதிர்பாரா திருப்பம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XF0WzPiN-0U",
+            "name": "US-Iran War LIVE: 'Trump Has No Off-Ramps, Must Withdraw' says Former Pentagon Adviser Col MacGregor",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kZlYj4y6ri4",
+            "name": "🔴LIVE : US Israel Iran War Latest News | Cease Fire | போர் நிறுத்தம் - அதிரடி அறிவிப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LBiQ_UhwQ8o",
+            "name": "BREAKING LIVE | US-Israel Missiles Hit Iran's Kharg Island, Trump Seizes Tehran's Oil Empire? | IRGC",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yVniAYMfgqc",
+            "name": "🔴LIVE: Donald Trump | Iran | America | Iran War | Israel Iran War Updates | ட்ரம்ப் அதிரடி முடிவு",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
