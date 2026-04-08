@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-08T15:02:43.369Z",
+    "generatedAt": "2026-04-08T16:52:56.077Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QsBOaHsf_fA",
-            "name": "US-Iran War LIVE: Trump Announces 2‑Week Ceasefire, Strait Of Hormuz To Open Now? | West Asia War",
-            "artist": "WION"
+            "videoId": "4eHF6xT7uME",
+            "name": "News Ki Pathshala Live | Sushant Sinha : स्ट्रेट ऑफ होर्मुज से क्या खबर भारत आ रहे जहाज? US Iran War",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sXYUkZZ7ez4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-QmWoRMiCmE",
-            "name": "Iran LIVE | American B-52 Bombers Leave UK Airbase, Trump Deadline Looms | What Will Happen At 8PM?",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GLi60lq6yP4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y5xR5gIuLqk",
-            "name": "Sandeep Chaudhary LIVE: झुका अमेरिका, जीता ईरान...शांतिदूत बना पाकिस्तान | US-Israel-Iran Ceasefire",
+            "videoId": "2Ew9GEm_F9E",
+            "name": "Breaking News LIVE: टूट गया सीजफायर? आगबबूला ईरान! | Iran US Israel Ceasefire | Trump | Mojtaba",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ip0qij-vRXc",
+            "name": "Israel Reaction on Ceasefire: इजरायल को नहीं मंजूर ट्रंप का सीजफायर? | Iran US Israel War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "52WshhWCqjU",
+            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | Netanyahu | Hormuz Strait",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vSIo6Y7BmWQ",
+            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KPjYNwWAD_0",
+            "name": "Pakistan: The World’s New Champion of Peace! | Dawn News Headlines: 06 PM",
+            "artist": "DawnNews"
         }
     ],
     "sourceFilters": {
