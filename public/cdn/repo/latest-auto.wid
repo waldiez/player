@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260408T130415.476Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260408T150243.410Z-l4t35t"
   type: "state"
-  created: "2026-04-08T13:04:15.476Z"
+  created: "2026-04-08T15:02:43.410Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T130415.476Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T150243.410Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jZQMBwxKkHw"
-        name: "Iran US Israel War LIVE: टूट गया सीजफायर? इजरायल का हमला, आगबबूला ईरान | Trump | Mojtaba | Netanyahu"
+        videoId: "QsBOaHsf_fA"
+        name: "US-Iran War LIVE: Trump Announces 2‑Week Ceasefire, Strait Of Hormuz To Open Now? | West Asia War"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sXYUkZZ7ez4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-QmWoRMiCmE"
+        name: "Iran LIVE | American B-52 Bombers Leave UK Airbase, Trump Deadline Looms | What Will Happen At 8PM?"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GLi60lq6yP4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y5xR5gIuLqk"
+        name: "Sandeep Chaudhary LIVE: झुका अमेरिका, जीता ईरान...शांतिदूत बना पाकिस्तान | US-Israel-Iran Ceasefire"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KvcJ4H8TORc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jgSBAcl0iu4"
-        name: "Iran America Israel Ceasefire Update LIVE: ट्रंप ने मान ली ईरान की शर्तें...! | Trump | War News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "y_fzBSDUDKw"
-        name: "Iran US Israel Ceasfire News LIVE: शाम होते ही पलट गए ट्रंप? | America | Trump | Mojtaba | Netanyahu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sQc0lyVL5t0"
-        name: "🔴LIVE :  Donald Trump | Iran | America | Iran War | Israel Iran War | ஈரான் எடுத்த  திடீர் முடிவு"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ekyMFH0UJt8"
-        name: "US Iran Ceasefire News LIVE | Iranians Celebrate Ceasefire | US, Israeli Flags Burned In Tehran"
-        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-08T13:04:15.476Z"
+  exported_at: "2026-04-08T15:02:43.410Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-08T13:04:15.444Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-08T15:02:43.369Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
