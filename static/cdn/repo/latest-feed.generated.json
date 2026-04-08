@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-07T23:30:57.901Z",
+    "generatedAt": "2026-04-08T01:46:06.724Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "icPpoHZ2Ktg",
-            "name": "US-Iran War LIVE: Iran Proposes New Peace Plan to End War as Trump's Deadline Nears | Vantage",
+            "videoId": "i7oQAo94pXY",
+            "name": "Iran Israel America War LIVE: अमेरिका ने शुरू किया असली खूनी खेलदाग दिया भयंकर बम! | Trump | Mojtaba",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PvDyqFCtKnU",
+            "name": "Kharg Island Attack News LIVE | Iran's 'Crown Jewel' Targeted | US Iran War LIVE Updates",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zZzs0pJF_m4",
+            "name": "🔴LIVE : US Israel Iran War Latest News |''விடியும் போது ஈரான் இருக்காது''",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sky9FOmGhgM",
+            "name": "'आज रात सब खत्म हो जाएगा' ट्रंप ने कर दिया ऐलान LIVE | Trump Deadline | Iran America War | NDTV",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-2RdA5g8_Gs",
+            "name": "LIVE: Trump Threatens to Wipe Out Iran's Civilisation; Kharg Island Under Attack | Vantage",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "49nFXGU2Rx0",
-            "name": "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "pXj3nxRl-F0",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 8 April",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "-QmWoRMiCmE",
-            "name": "Iran LIVE | American B-52 Bombers Leave UK Airbase, Trump Deadline Looms | What Will Happen At 8PM?",
-            "artist": "CNN-News18"
+            "videoId": "F97mP0wIul0",
+            "name": "US-Iran War LIVE: Trump Issues New War Warning, Says 'Iran Could Be Destroyed In One Night' | WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "2EeghR0EAh8",
-            "name": "Iran US War Live | US Ready With 70,000 Troops | Latest Updates From Washington | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "xR7tmM-5XJ0",
+            "name": "🔴LIVE: Today Headlines | காலை  7 மணி தலைப்புச் செய்திகள் (08.04.2026) | 7 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "VUs_k-UtMfs",
-            "name": "USA-Iran War LIVE: Donald Trump's Deadline To Iran To End Soon; Iran's Infrastructure At Utmost Risk",
-            "artist": "CNN-News18"
+            "videoId": "UDsidemH_-4",
+            "name": "US Iran War LIVE: Iran Threatens to Target US-Linked AI Hub in the UAE, Strikes Saudi Arabia",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "3FiO9gjBYLQ",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "0kE7YeZ3_9g",
+            "name": "LIVE: Missile Rain Over Israel | Iran Pounds Tel Aviv With Cluster Strike | Mayhem In Haifa | N18G",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
