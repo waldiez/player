@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260408T080811.578Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260408T100056.888Z-l4t35t"
   type: "state"
-  created: "2026-04-08T08:08:11.578Z"
+  created: "2026-04-08T10:00:56.888Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T080811.578Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T100056.888Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FwCbVu6YZjU"
-        name: "Israel Attack on Iran LIVE: ईरान पर हो गया सबसे बड़ा हमला? | Iran America Ceasefire | Trump"
-        artist: "ABP NEWS"
+        videoId: "nIK5cLUnNtc"
+        name: "US Iran War LIVE: Iran Proposes New Peace Plan | Iran US Ceasefire | Trump vs Iran | N18G"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6VvbBVeKSko"
-        name: "News Ki Pathshala Live | Iran US Ceasefire | ईरान की तैयारी से ट्रंप के उड़े होश ? | Trump | Iran"
-        artist: "Times Now Navbharat"
+        videoId: "nQNGTYLk1ZY"
+        name: "Iran Israel War LIVE: America accepted Iran's conditions, did America lose to Iran? |Trump |Khamenei"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9GDs_wYUsik"
-        name: "🔴LIVE :  Donald Trump | Iran | America | Iran War | போரில் எதிர்பாரா திருப்பம்"
-        artist: "Thanthi TV"
+        videoId: "jEORL4_NqAA"
+        name: "🟢Iran America War Live: Big news on the US-Iran war! | Iran-US Ceasefire LIVE Updates | Trump | Top"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BvWfB0gD448"
-        name: "Iran Israel America Ceasefire News LIVE: युद्धविराम पर भिड़े ट्रंप और नेतन्याहू | Trump | Netanyahu"
-        artist: "ABP NEWS"
+        videoId: "UN6nO__BLdc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XVmOHvrMcgE"
-        name: "Iran US Ceasefire News LIVE: ईरान ने शर्त में ट्रंप से मांग लिया मुआवजा! | Trump | USA Iran Deal"
-        artist: "ABP NEWS"
+        videoId: "WRSO_fXikv8"
+        name: "World News: पूरी दुनिया के लिए खुशखबरी | Breaking | Iran America Ceasefire | Trump Big Announcement"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nB_5mRpyz6g"
-        name: "Iran Israel War News LIVE: सीजफायर पर ईरान ने उड़ाया ट्रंप का मजाक! | Trump | Hormuz | America"
-        artist: "ABP NEWS"
+        videoId: "2ZMKurH5RT0"
+        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 08.04.2026 | Sangsad | Parliament |  ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uo8lqsx8qRU"
-        name: "🔴LIVE : US Israel Iran War Latest News | ஓவர் நைட்டில் நடந்தது என்ன..q - போரில் திடீர் திருப்பம்"
-        artist: "Sathiyam News"
+        videoId: "7qhXQetg9CE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-08T08:08:11.578Z"
+  exported_at: "2026-04-08T10:00:56.888Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-08T08:08:11.542Z"
+  source_generated_at: "2026-04-08T10:00:56.851Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
