@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-08T18:00:35.996Z",
+    "generatedAt": "2026-04-08T19:54:11.153Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Y0lcahrtGUQ",
-            "name": "Iran Ceasefire LIVE: Gulf States Report Attacks, Tehran Blocks Hormuz Traffic | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "5DJRkbIqpjc",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "1mh9FU58WAk",
-            "name": "🔴LIVE :இயல்புநிலைக்கு திரும்பும்  உலகம் - ஏறிய விலைவாசி குறையப்போகுது...!!!",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GE3Y0w2laCo",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "APsaNCuvUAQ",
-            "name": "Debate With Arnab LIVE: ‘Mission Taco’ Outsourced To Pak? | Ceasefire Debacle Dumped On Pak",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CR6nsh-G4Pk",
-            "name": "LIVE NEWS | Tehran Claims Trump Was ‘Forced’ to Accept Its Demands | Donald Trump News | Iran War",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QsBOaHsf_fA",
-            "name": "US-Iran War LIVE: Trump Announces 2‑Week Ceasefire, Strait Of Hormuz To Open Now? | West Asia War",
-            "artist": "WION"
+            "videoId": "HtA4Xj27HqQ",
+            "name": "Gujarat Fatafat News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર |Weather | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
