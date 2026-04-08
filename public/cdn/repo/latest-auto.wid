@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260408T061645.093Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260408T080811.578Z-l4t35t"
   type: "state"
-  created: "2026-04-08T06:16:45.093Z"
+  created: "2026-04-08T08:08:11.578Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T061645.093Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260408T080811.578Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "N6GiLZV5dU0"
-        name: "America Iran War LIVE: रात 8 बजे ईरान पर  LIVE बड़ा हमला! | Trump | Mojtaba | Breaking | LIVE TV"
+        videoId: "FwCbVu6YZjU"
+        name: "Israel Attack on Iran LIVE: ईरान पर हो गया सबसे बड़ा हमला? | Iran America Ceasefire | Trump"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "21x4lzF3cko"
-        name: "Putin Full Speech LIVE | Putin’s Scary Warning To Trump Over Continuously strike on Iran | Iran-US"
-        artist: "Times Now World"
+        videoId: "6VvbBVeKSko"
+        name: "News Ki Pathshala Live | Iran US Ceasefire | ईरान की तैयारी से ट्रंप के उड़े होश ? | Trump | Iran"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iakdtxFlDkU"
-        name: "World On Edge! Iran Israel US War LIVE | Gulf War Updates | US Warning | Iran Hits Back | UAE |N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LZvo2g6nkQU"
-        name: "Iran War - Trump Deadline Countdown - LIVE Breaking News Coverage"
-        artist: "Agenda-Free TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r08-Yrl3Hwc"
-        name: "LIVE | World in Fear | Trump’s Big Move Today? | World on Edge | Iran Israel US War| Khamenei I N18G"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ip0qij-vRXc"
-        name: "Israel Reaction on Casefire LIVE: इजरायल को नहीं मंजूर ट्रंप का सीजफायर? | Iran US Israel War"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AU6Irf73dAI"
-        name: "US Iran Ceasefire News LIVE: पाकिस्तान ने करवाई  दुनिया में फिर बेइज्जती! | China Iran | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-04XR_hBkS8"
+        videoId: "9GDs_wYUsik"
         name: "🔴LIVE :  Donald Trump | Iran | America | Iran War | போரில் எதிர்பாரா திருப்பம்"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XF0WzPiN-0U"
-        name: "US-Iran War LIVE: 'Trump Has No Off-Ramps, Must Withdraw' says Former Pentagon Adviser Col MacGregor"
-        artist: "Firstpost"
+        videoId: "BvWfB0gD448"
+        name: "Iran Israel America Ceasefire News LIVE: युद्धविराम पर भिड़े ट्रंप और नेतन्याहू | Trump | Netanyahu"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kZlYj4y6ri4"
-        name: "🔴LIVE : US Israel Iran War Latest News | Cease Fire | போர் நிறுத்தம் - அதிரடி அறிவிப்பு"
+        videoId: "XVmOHvrMcgE"
+        name: "Iran US Ceasefire News LIVE: ईरान ने शर्त में ट्रंप से मांग लिया मुआवजा! | Trump | USA Iran Deal"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nB_5mRpyz6g"
+        name: "Iran Israel War News LIVE: सीजफायर पर ईरान ने उड़ाया ट्रंप का मजाक! | Trump | Hormuz | America"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uo8lqsx8qRU"
+        name: "🔴LIVE : US Israel Iran War Latest News | ஓவர் நைட்டில் நடந்தது என்ன..q - போரில் திடீர் திருப்பம்"
         artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LBiQ_UhwQ8o"
-        name: "BREAKING LIVE | US-Israel Missiles Hit Iran's Kharg Island, Trump Seizes Tehran's Oil Empire? | IRGC"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yVniAYMfgqc"
-        name: "🔴LIVE: Donald Trump | Iran | America | Iran War | Israel Iran War Updates | ட்ரம்ப் அதிரடி முடிவு"
-        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-08T06:16:45.093Z"
+  exported_at: "2026-04-08T08:08:11.578Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-08T06:16:45.063Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-08T08:08:11.542Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
