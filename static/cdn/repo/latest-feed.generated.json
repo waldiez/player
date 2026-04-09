@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-09T13:04:52.240Z",
+    "generatedAt": "2026-04-09T15:14:58.321Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nETRAAQicY8",
-            "name": "US Iran War LIVE: Ceasefire Threatened as Israel Expands Lebanon Strikes, Iran Closes Strait Again",
-            "artist": "Firstpost"
+            "videoId": "6tpYb9QIo4E",
+            "name": "Iran US Creasefire Breakdown Update LIVE: ट्रंप ने तोड़ दिया सीजफायर? | World War Begins | Israel",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IvqLwQu2vIU",
-            "name": "War Live: Israel Attacks Iran? Netanyahu Responds After Lebanon Bombing | Iran-Israel | N18G | US",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fbD4veLNIpI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "qJZ3ak33aQE",
-            "name": "IRAN WAR NEWS LIVE | Final Warning: Iran Says No Compromise On Key Terms | Ceasefire Collapse?",
+            "videoId": "utycuQNChfk",
+            "name": "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "ZdQtkt1CgFk",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 09.04.2026 | Sangsad | Parliament |  ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "uOP3t2p0JuI",
+            "name": "Iran US Ceasefire Update LIVE: ईरान बन गया हीरो!, ट्रंप को किया जीरो! | Big Breaking | ABP News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_BTo8z7XjLs",
-            "name": "LIVE: Israel's MASSIVE Strike on Lebanon Hours After US-Iran Ceasefire | Trump's BIG Statement",
+            "videoId": "U9MoetTMFMs",
+            "name": "Trump LIVE: Trump's Urgent Announcement, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HGFYinUXqG0",
+            "name": "HUGE BLOW TO TRUMP: Iran Stops Hormuz Traffic After Israeli Strikes on Lebanon",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "WjV-cdVD0UM",
-            "name": "Iran War News Live | Iran Shuts Hormuz Strait Again After Israel's 100 Hits In 10 Min | Trump",
-            "artist": "Hindustan Times"
+            "videoId": "2_hu6I28ETM",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MOAXBONeC54",
+            "name": "Major Missiles Attack | Latest Update ...!! | 6PM Headlines Geo News (9April)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mtcjboqe1yw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QlaV5IxKB9o",
+            "name": "🔴LIVE: DonaldTrump | Iran | America | Israel | IranWar  மூடியது ஈரான்.. மீண்டும் உச்சகட்ட பதற்றம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B1n1E7bnLDA",
+            "name": "Sandeep Chaudhary LIVE: 'निकलो' यहां से...चुनाव पारदर्शी होंगे कहां से? | Derek O'Brien | TMC Vs ECI",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jq8ggvxX8nM",
+            "name": "Sandeep Chaudhary LIVE: ममता Vs ज्ञानेश...बंगाल में गजब क्लेश! | TMC vs EC Meeting | Bengal Election",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
