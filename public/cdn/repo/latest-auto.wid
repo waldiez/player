@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260409T081447.168Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260409T100543.336Z-l4t35t"
   type: "state"
-  created: "2026-04-09T08:14:47.168Z"
+  created: "2026-04-09T10:05:43.336Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T081447.168Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T100543.336Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,62 +53,44 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "tYgx15ZjImg"
-        name: "US-Israel-Iran War Live Updates |  Iran US Ceasefire  News | बजे सायरन, खाली करो ईरान |"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "soPwnxpM1CM"
-        name: "🔴LIVE : US Iran War | Israel || மீண்டும் பதற்றம்.. ஹோர்முஸ் நீரிணையை மீண்டும் மூடிய ஈரான்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X5r3EsQDKxw"
-        name: "US-Iran War Ceasefire LIVE: Did The US Fail Its Own War Goals? | Vantage on Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wlIwCd05Mdk"
-        name: "Live : PM Shahbaz Sharif Address at Cabinet Meeting | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jXcKnlq7CTE"
-        name: "Iran Israel US War LIVE: सीजफायर के बाद ईरान की रिफाइनरी उड़ाई! | Trump | Netanayhu | Big Breaking"
+        videoId: "ZwW9nURiCjI"
+        name: "Iran US Ceasefire Update LIVE: ट्रंप की कुर्सी छिनने का विवाद हुआ तेज! | USA New President | War"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "V_8gBkdL8AI"
-        name: "LIVE:Israel's continued strikes in Lebanon putting strain on fragile US-Iran ceasefire | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "My9oYGFUWY4"
-        name: "Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WLIXCVaXNWM"
-        name: "LIVE:Ceasefire Cancelled? Donald Trump Strong warning | Iran-Israel War | Zee Telugu News"
-        artist: "Zee Telugu News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sB7zULBBxR4"
-        name: "US Iran Ceasefire Update LIVE: धड़ाधड़ हमले ईरान पर हो गए शुरू? | Iran Conditions | Trump"
+        videoId: "ptIU2cGY4Rw"
+        name: "Bihar New CM Name Revealed LIVE: सम्राट चौधरी बनेंगे बिहार के अगले सीएम! | Nitish Kumar | Nishant"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lgOYeWh7YrQ"
-        name: "Iran US Israel Ceasfire News LIVE: सुबह होते ही पलट गए ट्रंप? |America | Trump | Mojtaba | Netanyahu"
+        videoId: "ipGIlFNlLUU"
+        name: "Iran US Israel Ceasefire LIVE: टूट गया सीजफायर? आगबबूला ईरान! | Trump | Netanyahu | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5xDA-xTKu-M"
+        name: "Israel Attack On Iran | Latest Update | 1 PM News Headlines | Pakistan News"
+        artist: "Express News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v0fMiCqjvvU"
+        name: "Iran America Israel Ceasefire Update LIVE: ट्रंप ने नहीं मानी ईरान की शर्तें...! | Trump | War News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ggEpqvUHoPg"
+        name: "PM Modi LIVE: पीएम मोदी का बंगाल पहुंचकर ममता बनर्जी पर हमला | Bengal Elections 2026 | BJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7Nm8gp7eIQE"
+        name: "Iran-US Ceasefire News LIVE: ट्रंप का विश्वासघात? | Israel | Trump | IRGC | War Headlines Today"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -120,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-09T08:14:47.168Z"
+  exported_at: "2026-04-09T10:05:43.336Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-09T08:14:47.136Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-09T10:05:43.304Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
