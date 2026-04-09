@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-09T04:27:28.260Z",
+    "generatedAt": "2026-04-09T06:16:24.163Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ViOvaKKZwfw",
-            "name": "Big Advisory for Indian Citizens LIVE: भारतीयों के लिए एडवाइजरी जारी | Iran Israel War | Trump",
+            "videoId": "7Nm8gp7eIQE",
+            "name": "Iran-US Ceasefire News LIVE: ट्रंप का विश्वासघात? | Israel | Trump | IRGC | War Headlines Today",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "U8znchknvL8",
-            "name": "Iran America War Live: Big news on the US-Iran war! | Iran-US Ceasefire LIVE Updates | Trump | Top",
-            "artist": "News18 Urdu"
+            "videoId": "Lc8kA5ac8u4",
+            "name": "Israel Missile Attack on Lebanon LIVE: बेकाबू हुआ इजरायल मचा दी तबाही | Trump | Mojtaba | Air Strike",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MyuvrFROsyE",
-            "name": "LIVE: Top Geostrategist On US-Iran Ceasefire If The War Pause Will Hold? | World News | N18G",
+            "videoId": "uTZ3Adlah64",
+            "name": "🔴LIVE: Trump | Iran | America | Israel | Iran War | போரில் பெரிய திருப்பம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vSIo6Y7BmWQ",
+            "name": "Pakistan Breaking News Live : पाकिस्तान में मचा हाहाकार ! | Pakistan petrol price hike 2026 | Munir",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JfWH0YAl7RQ",
+            "name": "US Israel Iran War LIVE: Iran Considering Fresh Strikes On Israel Amid Ceasefire With US | Iran War",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "utycuQNChfk",
+            "name": "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "p8Dhe4SRvOs",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 8, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D2jop1Qxotk",
-            "name": "🔴 LIVE: Strait of Hormuz Closed | Rising Tensions & New Attacks | Iran & US Ceasefire | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y5xR5gIuLqk",
-            "name": "Sandeep Chaudhary LIVE: झुका अमेरिका, जीता ईरान...शांतिदूत बना पाकिस्तान | US-Israel-Iran Ceasefire",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iuOaksYp6Ss",
-            "name": "Iran US Israel Ceasefire LIVE: ईरान में जोरदार जश्न शुरू | Iran War Victory Celebration | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lgOYeWh7YrQ",
-            "name": "Iran US Israel Ceasfire News LIVE: सुबह होते ही पलट गए ट्रंप? |America | Trump | Mojtaba | Netanyahu",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "myk8xr_daIE",
-            "name": "ईरान-अमेरिका जंग, 9 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "YFfu2ys9oGQ",
+            "name": "Breaking NEWS LIVE: Trump Issues Deadly Iran Warning, War Escalates Dramatically  | WORLD NEWS LIVE",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
