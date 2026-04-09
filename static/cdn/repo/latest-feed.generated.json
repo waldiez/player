@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-09T01:25:22.540Z",
+    "generatedAt": "2026-04-09T04:27:28.260Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "y_fzBSDUDKw",
-            "name": "Iran US Israel Ceasfire News LIVE: शाम होते ही पलट गए ट्रंप? | America | Trump | Mojtaba | Netanyahu",
+            "videoId": "ViOvaKKZwfw",
+            "name": "Big Advisory for Indian Citizens LIVE: भारतीयों के लिए एडवाइजरी जारी | Iran Israel War | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "CuvJPbphuR4",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "U8znchknvL8",
+            "name": "Iran America War Live: Big news on the US-Iran war! | Iran-US Ceasefire LIVE Updates | Trump | Top",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "xPo6-srfpkU",
-            "name": "LIVE: US Ready To Resume Fighting If Iran Deal Fails, Top General Issues Warning | World News | N18G",
+            "videoId": "MyuvrFROsyE",
+            "name": "LIVE: Top Geostrategist On US-Iran Ceasefire If The War Pause Will Hold? | World News | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Y0lcahrtGUQ",
-            "name": "Iran Ceasefire LIVE: Gulf States Report Attacks, Tehran Blocks Hormuz Traffic | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "p8Dhe4SRvOs",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 8, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "GE3Y0w2laCo",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
+            "videoId": "D2jop1Qxotk",
+            "name": "🔴 LIVE: Strait of Hormuz Closed | Rising Tensions & New Attacks | Iran & US Ceasefire | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y5xR5gIuLqk",
+            "name": "Sandeep Chaudhary LIVE: झुका अमेरिका, जीता ईरान...शांतिदूत बना पाकिस्तान | US-Israel-Iran Ceasefire",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iuOaksYp6Ss",
+            "name": "Iran US Israel Ceasefire LIVE: ईरान में जोरदार जश्न शुरू | Iran War Victory Celebration | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lgOYeWh7YrQ",
+            "name": "Iran US Israel Ceasfire News LIVE: सुबह होते ही पलट गए ट्रंप? |America | Trump | Mojtaba | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "myk8xr_daIE",
+            "name": "ईरान-अमेरिका जंग, 9 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
