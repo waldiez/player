@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-08T23:31:40.542Z",
+    "generatedAt": "2026-04-09T01:25:22.540Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BKIya3Bzqnc",
-            "name": "🔴LIVE: National Assembly Session - Iran US Negotiations - Khawaja Asif  | Geo News",
-            "artist": "Geo News"
+            "videoId": "y_fzBSDUDKw",
+            "name": "Iran US Israel Ceasfire News LIVE: शाम होते ही पलट गए ट्रंप? | America | Trump | Mojtaba | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "5DJRkbIqpjc",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "CuvJPbphuR4",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "HtA4Xj27HqQ",
-            "name": "Gujarat Fatafat News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર |Weather | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "xPo6-srfpkU",
+            "name": "LIVE: US Ready To Resume Fighting If Iran Deal Fails, Top General Issues Warning | World News | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "t-_TT1ms6Qo",
-            "name": "Good Morning America Full Broadcast - Wednesday, April 8, 2026",
-            "artist": "ABC News"
+            "videoId": "Y0lcahrtGUQ",
+            "name": "Iran Ceasefire LIVE: Gulf States Report Attacks, Tehran Blocks Hormuz Traffic | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "1mh9FU58WAk",
-            "name": "🔴LIVE :இயல்புநிலைக்கு திரும்பும்  உலகம் - ஏறிய விலைவாசி குறையப்போகுது...!!!",
-            "artist": "Sathiyam News"
+            "videoId": "GE3Y0w2laCo",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
