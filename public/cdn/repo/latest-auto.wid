@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260409T100543.336Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260409T114837.127Z-l4t35t"
   type: "state"
-  created: "2026-04-09T10:05:43.336Z"
+  created: "2026-04-09T11:48:37.127Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T100543.336Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T114837.127Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,44 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZwW9nURiCjI"
-        name: "Iran US Ceasefire Update LIVE: ट्रंप की कुर्सी छिनने का विवाद हुआ तेज! | USA New President | War"
+        videoId: "MPhQiOw4a-0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jXcKnlq7CTE"
+        name: "Iran Israel US War LIVE: सीजफायर के बाद ईरान की रिफाइनरी उड़ाई! | Trump | Netanayhu | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ptIU2cGY4Rw"
-        name: "Bihar New CM Name Revealed LIVE: सम्राट चौधरी बनेंगे बिहार के अगले सीएम! | Nitish Kumar | Nishant"
+        videoId: "jTiwE7GJxXY"
+        name: "Iran US Ceasefire Update LIVE: अमेरिका-ईरान के सीजफायर पर भारत का चौंकाने वाला बयान! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ipGIlFNlLUU"
-        name: "Iran US Israel Ceasefire LIVE: टूट गया सीजफायर? आगबबूला ईरान! | Trump | Netanyahu | Big Breaking"
+        videoId: "-d_LdbZiUOc"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (09.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "46cGsljaF0U"
+        name: "Iran Israel US War Latest Update LIVE: सीजफायर हुआ, कुछ घंटों में टूट भी गया! | Trump | Mojtaba"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5xDA-xTKu-M"
-        name: "Israel Attack On Iran | Latest Update | 1 PM News Headlines | Pakistan News"
-        artist: "Express News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "v0fMiCqjvvU"
-        name: "Iran America Israel Ceasefire Update LIVE: ट्रंप ने नहीं मानी ईरान की शर्तें...! | Trump | War News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ggEpqvUHoPg"
-        name: "PM Modi LIVE: पीएम मोदी का बंगाल पहुंचकर ममता बनर्जी पर हमला | Bengal Elections 2026 | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7Nm8gp7eIQE"
-        name: "Iran-US Ceasefire News LIVE: ट्रंप का विश्वासघात? | Israel | Trump | IRGC | War Headlines Today"
+        videoId: "sB7zULBBxR4"
+        name: "US Iran Ceasefire Update LIVE: धड़ाधड़ हमले ईरान पर हो गए शुरू? | Iran Conditions | Trump"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-09T10:05:43.336Z"
+  exported_at: "2026-04-09T11:48:37.127Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-09T10:05:43.304Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-09T11:48:37.078Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
