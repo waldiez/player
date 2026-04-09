@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260409T165847.453Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260409T175954.230Z-l4t35t"
   type: "state"
-  created: "2026-04-09T16:58:47.453Z"
+  created: "2026-04-09T17:59:54.230Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T165847.453Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260409T175954.230Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "NJbLOWHqkiU"
-        name: "Janhit LIVE: सीजफायर गया 'तेल' लेने! | Iran US Creasefire Breakdown | World War Begins | Israel"
+        videoId: "B1n1E7bnLDA"
+        name: "Sandeep Chaudhary LIVE: 'निकलो' यहां से...चुनाव पारदर्शी होंगे कहां से? | Derek O'Brien | TMC Vs ECI"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_wSa5OCSerI"
-        name: "US-Iran War LIVE: Iran Claims USS Abraham Lincoln, USS Tripoli Targeted | West Asia War Explodes"
-        artist: "WION"
+        videoId: "k1X3uRbJwJY"
+        name: "West Asia War LIVE: Israel Strikes Lebanon as US-Iran Ceasefire Faces Strain | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1b8w18bZYPA"
-        name: "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | Netanyahu | Hormuz Strait"
-        artist: "Times Now Navbharat"
+        videoId: "03GQIqAO9is"
+        name: "🔴LIVE: Iran war | Trump | மீண்டும் தொடங்கும் போர்.. - ட்ரம்ப் வெளியிட்ட அறிவிப்பு"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iv-_CBoqtRg"
-        name: "🔴LIVE | Iran-US Talks: VIP Arrival Leads to Islamabad Shutdown | High Alert Security"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PKBkoihKBzQ"
-        name: "Crude Oil New Prices | 8PM Headlines Geo News (9April)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "j08N7VNlujY"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 09.04.2026 | Today News | Ajker News | Latest News | ATN Bangla"
+        videoId: "A_LeA5B3Amg"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 09.04.2026 |  Top News |  Latest News । ATN BANGLA NEWS"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_XfBzdwX2jQ"
-        name: "Aaj Ki Taaja Khabar Live: 09 April 2026 | Iran Us War | Trump | Iran Israel War |PM Modi |World News"
-        artist: "Times Now Navbharat"
+        videoId: "6tpYb9QIo4E"
+        name: "Iran US Creasefire Breakdown Update LIVE: ट्रंप ने तोड़ दिया सीजफायर? | World War Begins | Israel"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ef7SUpYsgIk"
-        name: "Iran US Ceasefire News LIVE: लेबनान में इजरायल कीतबाही, 250 से ज्यादा लोगों की मौत, भड़का ईरान!"
-        artist: "ABP NEWS"
+        videoId: "utycuQNChfk"
+        name: "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-09T16:58:47.453Z"
+  exported_at: "2026-04-09T17:59:54.230Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-09T16:58:47.417Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-09T17:59:54.198Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

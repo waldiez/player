@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-09T16:58:47.417Z",
+    "generatedAt": "2026-04-09T17:59:54.198Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NJbLOWHqkiU",
-            "name": "Janhit LIVE: सीजफायर गया 'तेल' लेने! | Iran US Creasefire Breakdown | World War Begins | Israel",
+            "videoId": "B1n1E7bnLDA",
+            "name": "Sandeep Chaudhary LIVE: 'निकलो' यहां से...चुनाव पारदर्शी होंगे कहां से? | Derek O'Brien | TMC Vs ECI",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_wSa5OCSerI",
-            "name": "US-Iran War LIVE: Iran Claims USS Abraham Lincoln, USS Tripoli Targeted | West Asia War Explodes",
-            "artist": "WION"
+            "videoId": "k1X3uRbJwJY",
+            "name": "West Asia War LIVE: Israel Strikes Lebanon as US-Iran Ceasefire Faces Strain | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "1b8w18bZYPA",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | Netanyahu | Hormuz Strait",
-            "artist": "Times Now Navbharat"
+            "videoId": "03GQIqAO9is",
+            "name": "🔴LIVE: Iran war | Trump | மீண்டும் தொடங்கும் போர்.. - ட்ரம்ப் வெளியிட்ட அறிவிப்பு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "iv-_CBoqtRg",
-            "name": "🔴LIVE | Iran-US Talks: VIP Arrival Leads to Islamabad Shutdown | High Alert Security",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PKBkoihKBzQ",
-            "name": "Crude Oil New Prices | 8PM Headlines Geo News (9April)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "j08N7VNlujY",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 09.04.2026 | Today News | Ajker News | Latest News | ATN Bangla",
+            "videoId": "A_LeA5B3Amg",
+            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 09.04.2026 |  Top News |  Latest News । ATN BANGLA NEWS",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "_XfBzdwX2jQ",
-            "name": "Aaj Ki Taaja Khabar Live: 09 April 2026 | Iran Us War | Trump | Iran Israel War |PM Modi |World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "6tpYb9QIo4E",
+            "name": "Iran US Creasefire Breakdown Update LIVE: ट्रंप ने तोड़ दिया सीजफायर? | World War Begins | Israel",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ef7SUpYsgIk",
-            "name": "Iran US Ceasefire News LIVE: लेबनान में इजरायल कीतबाही, 250 से ज्यादा लोगों की मौत, भड़का ईरान!",
-            "artist": "ABP NEWS"
+            "videoId": "utycuQNChfk",
+            "name": "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
