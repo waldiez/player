@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-09T11:48:37.078Z",
+    "generatedAt": "2026-04-09T13:04:52.240Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MPhQiOw4a-0",
+            "videoId": "nETRAAQicY8",
+            "name": "US Iran War LIVE: Ceasefire Threatened as Israel Expands Lebanon Strikes, Iran Closes Strait Again",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IvqLwQu2vIU",
+            "name": "War Live: Israel Attacks Iran? Netanyahu Responds After Lebanon Bombing | Iran-Israel | N18G | US",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fbD4veLNIpI",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "jXcKnlq7CTE",
-            "name": "Iran Israel US War LIVE: सीजफायर के बाद ईरान की रिफाइनरी उड़ाई! | Trump | Netanayhu | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "qJZ3ak33aQE",
+            "name": "IRAN WAR NEWS LIVE | Final Warning: Iran Says No Compromise On Key Terms | Ceasefire Collapse?",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "jTiwE7GJxXY",
-            "name": "Iran US Ceasefire Update LIVE: अमेरिका-ईरान के सीजफायर पर भारत का चौंकाने वाला बयान! | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "ZdQtkt1CgFk",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 09.04.2026 | Sangsad | Parliament |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "-d_LdbZiUOc",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (09.04.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "_BTo8z7XjLs",
+            "name": "LIVE: Israel's MASSIVE Strike on Lebanon Hours After US-Iran Ceasefire | Trump's BIG Statement",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "46cGsljaF0U",
-            "name": "Iran Israel US War Latest Update LIVE: सीजफायर हुआ, कुछ घंटों में टूट भी गया! | Trump | Mojtaba",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sB7zULBBxR4",
-            "name": "US Iran Ceasefire Update LIVE: धड़ाधड़ हमले ईरान पर हो गए शुरू? | Iran Conditions | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "WjV-cdVD0UM",
+            "name": "Iran War News Live | Iran Shuts Hormuz Strait Again After Israel's 100 Hits In 10 Min | Trump",
+            "artist": "Hindustan Times"
         }
     ],
     "sourceFilters": {
