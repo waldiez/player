@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T141315.197Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T154251.253Z-l4t35t"
   type: "state"
-  created: "2026-04-10T14:13:15.197Z"
+  created: "2026-04-10T15:42:51.253Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T141315.197Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T154251.253Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,50 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zE6Mmi0TO5k"
-        name: "Iran US Ceasefire LIVE: मीटिंग से पहले पाक को ईरान का झटका! | Trump | Mojtaba | Pakistan | Munir"
+        videoId: "7x_AUCoKMuU"
+        name: "Iran-US War LIVE: Araghchi’s ‘War Not Over’ Sparks Fresh Global Concern | WORLD NEWS LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j8M0hjkQSsk"
+        name: "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T8SmMH5lDXA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SsLpP1FsXD8"
-        name: "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u2ixpv-ziE8"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        videoId: "0YD8uRzjPVE"
+        name: "US-Iran War LIVE: Trump Issues New War Warning, Says 'Iran Could Be Destroyed In One Night'"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N2zz9v7WlAE"
-        name: "🔴LIVE: Iran war | Trump | ''ஈரானுக்கு அழிவு'' போரில் திக்..திக்..டிரம்ப் புதிய சபதம்"
-        artist: "Sathiyam News"
+        videoId: "RmmGbLhyfkc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pGPeTKdQMwA"
-        name: "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "RpAJEh4PT4I"
+        name: "Sandeep Chaudhary LIVE: UP में बढ़े, बंगाल में घटे..किसके वोट कटे? | Bengal Election | Mamata | EC"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZUqpmXbRl2k"
-        name: "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_mMgOxLR4K8"
-        name: "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू? | America | Trump | Netanyahu"
+        videoId: "fpQ1_VlLLKk"
+        name: "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T14:13:15.197Z"
+  exported_at: "2026-04-10T15:42:51.253Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T14:13:15.161Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T15:42:51.213Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

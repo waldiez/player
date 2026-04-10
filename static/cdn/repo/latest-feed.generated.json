@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T14:13:15.161Z",
+    "generatedAt": "2026-04-10T15:42:51.213Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,50 +28,38 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "zE6Mmi0TO5k",
-            "name": "Iran US Ceasefire LIVE: मीटिंग से पहले पाक को ईरान का झटका! | Trump | Mojtaba | Pakistan | Munir",
+            "videoId": "7x_AUCoKMuU",
+            "name": "Iran-US War LIVE: Araghchi’s ‘War Not Over’ Sparks Fresh Global Concern | WORLD NEWS LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j8M0hjkQSsk",
+            "name": "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "T8SmMH5lDXA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SsLpP1FsXD8",
-            "name": "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u2ixpv-ziE8",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "videoId": "0YD8uRzjPVE",
+            "name": "US-Iran War LIVE: Trump Issues New War Warning, Says 'Iran Could Be Destroyed In One Night'",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "N2zz9v7WlAE",
-            "name": "🔴LIVE: Iran war | Trump | ''ஈரானுக்கு அழிவு'' போரில் திக்..திக்..டிரம்ப் புதிய சபதம்",
-            "artist": "Sathiyam News"
+            "videoId": "RmmGbLhyfkc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "pGPeTKdQMwA",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "RpAJEh4PT4I",
+            "name": "Sandeep Chaudhary LIVE: UP में बढ़े, बंगाल में घटे..किसके वोट कटे? | Bengal Election | Mamata | EC",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZUqpmXbRl2k",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_mMgOxLR4K8",
-            "name": "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू? | America | Trump | Netanyahu",
+            "videoId": "fpQ1_VlLLKk",
+            "name": "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI",
             "artist": "ABP NEWS"
         }
     ],
