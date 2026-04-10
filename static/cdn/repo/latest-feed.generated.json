@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T22:28:44.979Z",
+    "generatedAt": "2026-04-10T23:28:12.988Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tkBHCev7kR0",
-            "name": "Iran War News Live | 'World Stupidest President': Jeffrey Sachs Hammers Donald Trump Over Iran War",
-            "artist": "Hindustan Times"
+            "videoId": "ULWGlDQE2B0",
+            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "OKiH90CXAwc",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.04.2026) | 11 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "nfrzBaYr_es",
+            "name": "LIVE | US Bombs Iran’s Energy Infrastructure After Trump ‘Cancelled’ Attack | Strait Of Hormuz",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "UPV23wWneQs",
-            "name": "World News Live :12 घंटे में टूटा सीजफायर.. ट्रंप-ईरान के बीच के महायुद्ध में नया तूफान आने वाला है?",
-            "artist": "Times Now Bihar Jharkhand"
+            "videoId": "7mUnQUbhQjo",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "u4rvP_rLiqs",
-            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
-            "artist": "Times Now World"
+            "videoId": "6zVZaRjmzgU",
+            "name": "Good Morning America Full Broadcast - Friday, April 10, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "Q49r5PsprvY",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "X99_8eZr6sU",
-            "name": "LIVE: Trump Warns Iran Over Strait of Hormuz Tanker Toll Move | Firstpost Live | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WS9E71YO8bQ",
-            "name": "🔴 LIVE | Pakistan Ready | World Watching Islamabad | Sparks Shock in India | Security on High Alert",
-            "artist": "SUNO NEWS HD"
+            "videoId": "sP8LKIbRkK8",
+            "name": "Latest Updates on US–Iran Talks from Islamabad",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
