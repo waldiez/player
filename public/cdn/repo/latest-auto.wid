@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T184100.953Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T193806.467Z-l4t35t"
   type: "state"
-  created: "2026-04-10T18:41:00.953Z"
+  created: "2026-04-10T19:38:06.467Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T184100.953Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T193806.467Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q49r5PsprvY"
-        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
-        artist: "ET Now"
+        videoId: "UPV23wWneQs"
+        name: "World News Live :12 घंटे में टूटा सीजफायर.. ट्रंप-ईरान के बीच के महायुद्ध में नया तूफान आने वाला है?"
+        artist: "Times Now Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7mUnQUbhQjo"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "u4rvP_rLiqs"
+        name: "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X99_8eZr6sU"
-        name: "LIVE: Trump Warns Iran Over Strait of Hormuz Tanker Toll Move | Firstpost Live | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WS9E71YO8bQ"
-        name: "🔴 LIVE | Pakistan Ready | World Watching Islamabad | Sparks Shock in India | Security on High Alert"
-        artist: "SUNO NEWS HD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k-73leKsY80"
-        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
+        videoId: "ULWGlDQE2B0"
+        name: "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eocAPV83VU8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Stream Bangla"
+        videoId: "KzLQQ4BbfeM"
+        name: "🔴LIVE | Islamabad Talks | US-IRAN Negotiations Update | Iranian Supreme Leader's Major Statement"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l6pkS-7gAp4"
+        videoId: "nug2LHxv80A"
         name: "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b4plViE7vAc"
-        name: "US Iran War News LIVE | Pakistan Imposes Lockdown Ahead Of Islamabad Meeting | JD Vance | Ceasefire"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kqCcoX7jWMA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NewsScope BD"
+        videoId: "7gPM3rumynM"
+        name: "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T18:41:00.953Z"
+  exported_at: "2026-04-10T19:38:06.467Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T18:41:00.921Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T19:38:06.434Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
