@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T01:49:54.192Z",
+    "generatedAt": "2026-04-10T04:41:01.964Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rX9IrPp3lAQ",
-            "name": "Iran War News LIVE | Russia’s ‘Nuclear’ Hint Amid Blasts in Iran, Lebanon | Putin | Trump",
-            "artist": "Hindustan Times"
+            "videoId": "qpW0amBmjws",
+            "name": "🔴LIVE : 48 గంటల్లో యుద్ధం..? PM Modi BIG Warning | World War 3 Starts | US Iran War | Trump | RTV",
+            "artist": "RTV Srikakulam"
         },
         {
             "mood": "storm",
-            "videoId": "cu3i6eGEnBs",
-            "name": "Today's Headlines | 10 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "36xcXoLL-Dw",
-            "name": "Iran War News Live | 'World Stupidest President': Jeffrey Sachs Hammers Donald Trump Over Iran War",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R-JenC2em0I",
-            "name": "Iran US Ceasefire Breakdown LIVE: मारा गया सबसे बड़ा आतंकी!, उड़ा दिए परखच्चे! | Big Breaking",
+            "videoId": "-Cf3foIvb7E",
+            "name": "Iran US Ceasefire Update LIVE: ईरान ने मचा दी बड़ी तबाही | Big Breaking | Trump | World War 3 Begins",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GVDGmlT3YLw",
-            "name": "🔴LIVE : Iran | America | Israel | IranWar  ஈரான் அதிர்ச்சி அறிவிப்பு - உலகிற்கே பேரிடி",
-            "artist": "Thanthi TV"
+            "videoId": "HxXcV9WnYoo",
+            "name": "US News LIVE | Trump Signs Executive Order From Whitehouse; Drops NUCLEAR Bombshell On Iran",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "1n6bUxBkDWY",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "NlqjrepFT1E",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 9, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "ilAkAMGzsbo",
-            "name": "Iran US Ceasefire | Talks via Pakistan | Latest Petrol Price | 11 PM News Headlines |  SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "Zq74B3n9NVU",
+            "name": "Debate With Arnab LIVE: Pakistan In A Ceasefire Mess As US Throws It Under The Bus",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "u78JEmYB0sk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B1n1E7bnLDA",
-            "name": "Sandeep Chaudhary LIVE: 'निकलो' यहां से...चुनाव पारदर्शी होंगे कहां से? | Derek O'Brien | TMC Vs ECI",
-            "artist": "ABP NEWS"
+            "videoId": "Yxhrjhvu6Dk",
+            "name": "Iran War Ceasefire LIVE: World Leaders React After Israel Strikes Lebanon | Netanyahu | Trump",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {

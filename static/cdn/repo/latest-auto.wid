@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T014954.227Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T044101.996Z-l4t35t"
   type: "state"
-  created: "2026-04-10T01:49:54.227Z"
+  created: "2026-04-10T04:41:01.996Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T014954.227Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T044101.996Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rX9IrPp3lAQ"
-        name: "Iran War News LIVE | Russia’s ‘Nuclear’ Hint Amid Blasts in Iran, Lebanon | Putin | Trump"
-        artist: "Hindustan Times"
+        videoId: "qpW0amBmjws"
+        name: "🔴LIVE : 48 గంటల్లో యుద్ధం..? PM Modi BIG Warning | World War 3 Starts | US Iran War | Trump | RTV"
+        artist: "RTV Srikakulam"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cu3i6eGEnBs"
-        name: "Today's Headlines | 10 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "36xcXoLL-Dw"
-        name: "Iran War News Live | 'World Stupidest President': Jeffrey Sachs Hammers Donald Trump Over Iran War"
-        artist: "Hindustan Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "R-JenC2em0I"
-        name: "Iran US Ceasefire Breakdown LIVE: मारा गया सबसे बड़ा आतंकी!, उड़ा दिए परखच्चे! | Big Breaking"
+        videoId: "-Cf3foIvb7E"
+        name: "Iran US Ceasefire Update LIVE: ईरान ने मचा दी बड़ी तबाही | Big Breaking | Trump | World War 3 Begins"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GVDGmlT3YLw"
-        name: "🔴LIVE : Iran | America | Israel | IranWar  ஈரான் அதிர்ச்சி அறிவிப்பு - உலகிற்கே பேரிடி"
-        artist: "Thanthi TV"
+        videoId: "HxXcV9WnYoo"
+        name: "US News LIVE | Trump Signs Executive Order From Whitehouse; Drops NUCLEAR Bombshell On Iran"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1n6bUxBkDWY"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "NlqjrepFT1E"
+        name: "ABC World News Tonight with David Muir Full Broadcast - April 9, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ilAkAMGzsbo"
-        name: "Iran US Ceasefire | Talks via Pakistan | Latest Petrol Price | 11 PM News Headlines |  SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "Zq74B3n9NVU"
+        name: "Debate With Arnab LIVE: Pakistan In A Ceasefire Mess As US Throws It Under The Bus"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "u78JEmYB0sk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Stream Bangla"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "B1n1E7bnLDA"
-        name: "Sandeep Chaudhary LIVE: 'निकलो' यहां से...चुनाव पारदर्शी होंगे कहां से? | Derek O'Brien | TMC Vs ECI"
-        artist: "ABP NEWS"
+        videoId: "Yxhrjhvu6Dk"
+        name: "Iran War Ceasefire LIVE: World Leaders React After Israel Strikes Lebanon | Netanyahu | Trump"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T01:49:54.227Z"
+  exported_at: "2026-04-10T04:41:01.996Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T01:49:54.192Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T04:41:01.964Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
