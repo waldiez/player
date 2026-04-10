@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T202713.106Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T213019.650Z-l4t35t"
   type: "state"
-  created: "2026-04-10T20:27:13.106Z"
+  created: "2026-04-10T21:30:19.650Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T202713.106Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T213019.650Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OKiH90CXAwc"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.04.2026) | 11 PM Headlines | Thanthi TV"
+        videoId: "G0W9wgrZkfc"
+        name: "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q49r5PsprvY"
-        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
-        artist: "ET Now"
+        videoId: "ALp_U7neDSM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Ajker Top News Bd"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7mUnQUbhQjo"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "lGIPvPartgI"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X99_8eZr6sU"
-        name: "LIVE: Trump Warns Iran Over Strait of Hormuz Tanker Toll Move | Firstpost Live | N18G"
+        videoId: "ULWGlDQE2B0"
+        name: "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k-73leKsY80"
+        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sP8LKIbRkK8"
+        name: "Latest Updates on US–Iran Talks from Islamabad"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nug2LHxv80A"
+        name: "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0TlxEGzV-eY"
+        name: "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WS9E71YO8bQ"
-        name: "🔴 LIVE | Pakistan Ready | World Watching Islamabad | Sparks Shock in India | Security on High Alert"
-        artist: "SUNO NEWS HD"
+        videoId: "7gPM3rumynM"
+        name: "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SgOJZ9nAz3E"
+        name: "🔴LIVE: Iran war | Trump | மீண்டும் போர் - தயாரான ஈரான்"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T20:27:13.106Z"
+  exported_at: "2026-04-10T21:30:19.650Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T20:27:13.072Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T21:30:19.618Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
