@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T21:30:19.618Z",
+    "generatedAt": "2026-04-10T22:28:44.979Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "G0W9wgrZkfc",
-            "name": "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது",
+            "videoId": "tkBHCev7kR0",
+            "name": "Iran War News Live | 'World Stupidest President': Jeffrey Sachs Hammers Donald Trump Over Iran War",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OKiH90CXAwc",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.04.2026) | 11 PM Headlines | Thanthi TV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "ALp_U7neDSM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Ajker Top News Bd"
+            "videoId": "UPV23wWneQs",
+            "name": "World News Live :12 घंटे में टूटा सीजफायर.. ट्रंप-ईरान के बीच के महायुद्ध में नया तूफान आने वाला है?",
+            "artist": "Times Now Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "lGIPvPartgI",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "u4rvP_rLiqs",
+            "name": "Breaking News LIVE: Putin’s Final Warning Puts World On Edge | Russia Message Shocks US | WWIII LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "ULWGlDQE2B0",
-            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
-            "artist": "MIRROR NOW"
+            "videoId": "Q49r5PsprvY",
+            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "k-73leKsY80",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sP8LKIbRkK8",
-            "name": "Latest Updates on US–Iran Talks from Islamabad",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nug2LHxv80A",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0TlxEGzV-eY",
-            "name": "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost",
+            "videoId": "X99_8eZr6sU",
+            "name": "LIVE: Trump Warns Iran Over Strait of Hormuz Tanker Toll Move | Firstpost Live | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "7gPM3rumynM",
-            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SgOJZ9nAz3E",
-            "name": "🔴LIVE: Iran war | Trump | மீண்டும் போர் - தயாரான ஈரான்",
-            "artist": "Sathiyam News"
+            "videoId": "WS9E71YO8bQ",
+            "name": "🔴 LIVE | Pakistan Ready | World Watching Islamabad | Sparks Shock in India | Security on High Alert",
+            "artist": "SUNO NEWS HD"
         }
     ],
     "sourceFilters": {
