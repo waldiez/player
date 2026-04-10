@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T10:02:23.167Z",
+    "generatedAt": "2026-04-10T11:41:26.853Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gPk7x4BneRU",
-            "name": "Iran US War: ईरान का बड़ा दुश्मन हुआ ढेर? | Pakistan | Israel | Lebanon | Trump vs Khamenei",
+            "videoId": "9KeoCcZJkVY",
+            "name": "IRAN WAR NEWS | LIVE: Israel Escalation Sparks Fresh Doubts Over Peace Negotiations | Trump | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RcDHWSeLxes",
+            "name": "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire News | Netanyahu",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ogQHBLmkc5w",
-            "name": "🔴 LIVE || Pakistan in Spotlight || Iran-US Ceasefire Talks in Islamabad || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "WrCpmALNA04",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.04.2026)| 2 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "2gQFCSvUNvs",
-            "name": "🟠Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "nNQisVB_qjo",
+            "name": "Iran US War: ट्रंप की उलटी गिनती ईरान ने कर दी शुरू! | Trump | America | Israel War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "AXISiyE4R-Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "ntjvm_WjLIM",
+            "name": "Iran Ceasefire LIVE | Islamabad Talks Appear to Flop as Iran Gears Up Attack on US and Israel | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "9ipSXcy9aOo",
-            "name": "Bihar New CM News LIVE: नीतीश बने राज्यसभा सांसद? अब बिहार के सीएम पद से देंगे इस्तीफा? | Nitish",
+            "videoId": "oDSlupxpztU",
+            "name": "Bihar New CM LIVE: बिहार के नए सीएम पर आई बड़ी खबर LIVE | Nitish Kumar Oath | Bihar News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Vsax4f-r9TQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "X3quO_a0tKs",
+            "name": "US Iran LIVE | ‘BURN IN HELL’: Pakistan Minister Calls Israel ‘CANCEROUS’, Netanyahu Fires Back",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j8M0hjkQSsk",
+            "name": "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3dRpsoCgQus",
+            "name": "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {

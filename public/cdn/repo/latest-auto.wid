@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T100223.202Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T114126.885Z-l4t35t"
   type: "state"
-  created: "2026-04-10T10:02:23.202Z"
+  created: "2026-04-10T11:41:26.885Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T100223.202Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T114126.885Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "gPk7x4BneRU"
-        name: "Iran US War: ईरान का बड़ा दुश्मन हुआ ढेर? | Pakistan | Israel | Lebanon | Trump vs Khamenei"
+        videoId: "9KeoCcZJkVY"
+        name: "IRAN WAR NEWS | LIVE: Israel Escalation Sparks Fresh Doubts Over Peace Negotiations | Trump | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RcDHWSeLxes"
+        name: "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire News | Netanyahu"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ogQHBLmkc5w"
-        name: "🔴 LIVE || Pakistan in Spotlight || Iran-US Ceasefire Talks in Islamabad || ARY News Live"
-        artist: "ARY News"
+        videoId: "WrCpmALNA04"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.04.2026)| 2 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2gQFCSvUNvs"
-        name: "🟠Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "nNQisVB_qjo"
+        name: "Iran US War: ट्रंप की उलटी गिनती ईरान ने कर दी शुरू! | Trump | America | Israel War"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AXISiyE4R-Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "ntjvm_WjLIM"
+        name: "Iran Ceasefire LIVE | Islamabad Talks Appear to Flop as Iran Gears Up Attack on US and Israel | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9ipSXcy9aOo"
-        name: "Bihar New CM News LIVE: नीतीश बने राज्यसभा सांसद? अब बिहार के सीएम पद से देंगे इस्तीफा? | Nitish"
+        videoId: "oDSlupxpztU"
+        name: "Bihar New CM LIVE: बिहार के नए सीएम पर आई बड़ी खबर LIVE | Nitish Kumar Oath | Bihar News"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Vsax4f-r9TQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
+        videoId: "X3quO_a0tKs"
+        name: "US Iran LIVE | ‘BURN IN HELL’: Pakistan Minister Calls Israel ‘CANCEROUS’, Netanyahu Fires Back"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j8M0hjkQSsk"
+        name: "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3dRpsoCgQus"
+        name: "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News"
+        artist: "ARY News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T10:02:23.202Z"
+  exported_at: "2026-04-10T11:41:26.885Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T10:02:23.167Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T11:41:26.853Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
