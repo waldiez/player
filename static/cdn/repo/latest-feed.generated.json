@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T08:17:59.930Z",
+    "generatedAt": "2026-04-10T10:02:23.167Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7ccjY38oP-w",
-            "name": "Israel Pakistan Clash Update LIVE: युद्ध के बीच पाकिस्तान ने कर दी बड़ी गलती! | Netanyahu Statement",
+            "videoId": "gPk7x4BneRU",
+            "name": "Iran US War: ईरान का बड़ा दुश्मन हुआ ढेर? | Pakistan | Israel | Lebanon | Trump vs Khamenei",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "l2dpCHDoQuU",
-            "name": "US-Israel-Iran War Live Updates |  Iran US Ceasefire  News |  Iran Israel War 2026 | World News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3dRpsoCgQus",
-            "name": "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News",
+            "videoId": "ogQHBLmkc5w",
+            "name": "🔴 LIVE || Pakistan in Spotlight || Iran-US Ceasefire Talks in Islamabad || ARY News Live",
             "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "l07cQxKZhgs",
-            "name": "Iran US Ceasefire News LIVE: आधी रात होते ही इजराय लका कत्लेआम शुरू!, सोते लोगों को मार डाला!",
-            "artist": "ABP NEWS"
+            "videoId": "2gQFCSvUNvs",
+            "name": "🟠Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "z3gfzbJxm-k",
-            "name": "China Has Gained Dominance Over The World, A New World Order Has Begun? City 41",
-            "artist": "City 41"
+            "videoId": "AXISiyE4R-Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "50lpcXoWUBQ",
-            "name": "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू?  | America War Again",
-            "artist": "ABP NEWS"
+            "videoId": "9ipSXcy9aOo",
+            "name": "Bihar New CM News LIVE: नीतीश बने राज्यसभा सांसद? अब बिहार के सीएम पद से देंगे इस्तीफा? | Nitish",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "c17Sx4_lrdc",
-            "name": "Today Headlines | 10 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "Vsax4f-r9TQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T081759.958Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T100223.202Z-l4t35t"
   type: "state"
-  created: "2026-04-10T08:17:59.958Z"
+  created: "2026-04-10T10:02:23.202Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T081759.958Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T100223.202Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7ccjY38oP-w"
-        name: "Israel Pakistan Clash Update LIVE: युद्ध के बीच पाकिस्तान ने कर दी बड़ी गलती! | Netanyahu Statement"
+        videoId: "gPk7x4BneRU"
+        name: "Iran US War: ईरान का बड़ा दुश्मन हुआ ढेर? | Pakistan | Israel | Lebanon | Trump vs Khamenei"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l2dpCHDoQuU"
-        name: "US-Israel-Iran War Live Updates |  Iran US Ceasefire  News |  Iran Israel War 2026 | World News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3dRpsoCgQus"
-        name: "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News"
+        videoId: "ogQHBLmkc5w"
+        name: "🔴 LIVE || Pakistan in Spotlight || Iran-US Ceasefire Talks in Islamabad || ARY News Live"
         artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l07cQxKZhgs"
-        name: "Iran US Ceasefire News LIVE: आधी रात होते ही इजराय लका कत्लेआम शुरू!, सोते लोगों को मार डाला!"
-        artist: "ABP NEWS"
+        videoId: "2gQFCSvUNvs"
+        name: "🟠Latest Gujarati News LIVE | આજના સાંજના મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z3gfzbJxm-k"
-        name: "China Has Gained Dominance Over The World, A New World Order Has Begun? City 41"
-        artist: "City 41"
+        videoId: "AXISiyE4R-Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "50lpcXoWUBQ"
-        name: "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू?  | America War Again"
-        artist: "ABP NEWS"
+        videoId: "9ipSXcy9aOo"
+        name: "Bihar New CM News LIVE: नीतीश बने राज्यसभा सांसद? अब बिहार के सीएम पद से देंगे इस्तीफा? | Nitish"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "c17Sx4_lrdc"
-        name: "Today Headlines | 10 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "Vsax4f-r9TQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T08:17:59.958Z"
+  exported_at: "2026-04-10T10:02:23.202Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T08:17:59.930Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T10:02:23.167Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
