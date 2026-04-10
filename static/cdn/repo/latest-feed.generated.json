@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T12:53:00.631Z",
+    "generatedAt": "2026-04-10T14:13:15.161Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Q49r5PsprvY",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XO6tNoBSb5Y",
-            "name": "🔴LIVE: | TVK vijay | Roadshow | நேரம் முடிந்தது - அதிர்ச்சியில் விஜய்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E_wlalcuNIA",
-            "name": "Israel Vs Pakistan News: इजरायल की धमकी, किले में बदला इस्लामाबाद! | Iran War | Netanyahu",
+            "videoId": "zE6Mmi0TO5k",
+            "name": "Iran US Ceasefire LIVE: मीटिंग से पहले पाक को ईरान का झटका! | Trump | Mojtaba | Pakistan | Munir",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "HnGjnpEv35g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "T8SmMH5lDXA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "9NCyDZESOXI",
-            "name": "World News | ख़बरें विदेश की | 10 April 2026 | Donald Trump | venezuela news | America #dblive",
-            "artist": "DB Live"
+            "videoId": "SsLpP1FsXD8",
+            "name": "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "7gPM3rumynM",
-            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
-            "artist": "Times Now"
+            "videoId": "u2ixpv-ziE8",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N2zz9v7WlAE",
+            "name": "🔴LIVE: Iran war | Trump | ''ஈரானுக்கு அழிவு'' போரில் திக்..திக்..டிரம்ப் புதிய சபதம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pGPeTKdQMwA",
+            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZUqpmXbRl2k",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_mMgOxLR4K8",
+            "name": "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू? | America | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
