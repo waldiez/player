@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T15:42:51.213Z",
+    "generatedAt": "2026-04-10T16:41:53.552Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7x_AUCoKMuU",
-            "name": "Iran-US War LIVE: Araghchi’s ‘War Not Over’ Sparks Fresh Global Concern | WORLD NEWS LIVE",
-            "artist": "Times Now World"
+            "videoId": "qb-ZXOFtWSM",
+            "name": "🔴LIVE | US Vice President J.D. Vance Arrival in Islamabad ? | High Alert Security | News One",
+            "artist": "News One"
         },
         {
             "mood": "storm",
-            "videoId": "j8M0hjkQSsk",
-            "name": "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News",
+            "videoId": "yUw2Y4fJ-DM",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lYkuPzXI3VM",
+            "name": "Bharat Ki Baat LIVE: पाकिस्तान खेल रहा मीटिंग-मीटिंग! | Iran US Ceasefire | Netanyahu | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0YD8uRzjPVE",
-            "name": "US-Iran War LIVE: Trump Issues New War Warning, Says 'Iran Could Be Destroyed In One Night'",
-            "artist": "ET Now"
+            "videoId": "9gcRr20Pr7c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "RmmGbLhyfkc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "T8SmMH5lDXA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "RpAJEh4PT4I",
-            "name": "Sandeep Chaudhary LIVE: UP में बढ़े, बंगाल में घटे..किसके वोट कटे? | Bengal Election | Mamata | EC",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fpQ1_VlLLKk",
-            "name": "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI",
-            "artist": "ABP NEWS"
+            "videoId": "N2zz9v7WlAE",
+            "name": "🔴LIVE: Iran war | Trump | ''ஈரானுக்கு அழிவு'' போரில் திக்..திக்..டிரம்ப் புதிய சபதம்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
