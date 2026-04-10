@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T04:41:01.964Z",
+    "generatedAt": "2026-04-10T06:28:17.914Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qpW0amBmjws",
-            "name": "🔴LIVE : 48 గంటల్లో యుద్ధం..? PM Modi BIG Warning | World War 3 Starts | US Iran War | Trump | RTV",
-            "artist": "RTV Srikakulam"
+            "videoId": "RmX2LeDscrI",
+            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "-Cf3foIvb7E",
-            "name": "Iran US Ceasefire Update LIVE: ईरान ने मचा दी बड़ी तबाही | Big Breaking | Trump | World War 3 Begins",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HxXcV9WnYoo",
-            "name": "US News LIVE | Trump Signs Executive Order From Whitehouse; Drops NUCLEAR Bombshell On Iran",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NlqjrepFT1E",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 9, 2026",
+            "videoId": "vcZEOcBnaGQ",
+            "name": "ABC News Live Prime: April 9, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "Zq74B3n9NVU",
-            "name": "Debate With Arnab LIVE: Pakistan In A Ceasefire Mess As US Throws It Under The Bus",
-            "artist": "Republic World"
+            "videoId": "3L9rUiwaOxI",
+            "name": "US Iran War LIVE | Trump Changes Deal, Iran Ceasefire on Brinks | Trump Emergency Meeting",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Yxhrjhvu6Dk",
-            "name": "Iran War Ceasefire LIVE: World Leaders React After Israel Strikes Lebanon | Netanyahu | Trump",
-            "artist": "Firstpost"
+            "videoId": "TUPLjGflTGs",
+            "name": "এটিএন বাংলার টপ নিউজ । সকাল ৯ টা । 10.04.2026 | Top News | Latest News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ynQ0Y_vZusY",
+            "name": "LIVE: Putin's BOMBSHELL Iran War Speech Creates Shockwaves In Mideast & West | WORLD NEWS LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "59YyUmBZrfo",
+            "name": "Live | Morning News Bulletin | India News | World News",
+            "artist": "The Savera Times"
         }
     ],
     "sourceFilters": {
