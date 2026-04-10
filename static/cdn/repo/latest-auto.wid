@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T114126.885Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260410T125300.668Z-l4t35t"
   type: "state"
-  created: "2026-04-10T11:41:26.885Z"
+  created: "2026-04-10T12:53:00.668Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T114126.885Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T125300.668Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "9KeoCcZJkVY"
-        name: "IRAN WAR NEWS | LIVE: Israel Escalation Sparks Fresh Doubts Over Peace Negotiations | Trump | N18G"
-        artist: "CNN-News18"
+        videoId: "Q49r5PsprvY"
+        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RcDHWSeLxes"
-        name: "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire News | Netanyahu"
+        videoId: "XO6tNoBSb5Y"
+        name: "🔴LIVE: | TVK vijay | Roadshow | நேரம் முடிந்தது - அதிர்ச்சியில் விஜய்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E_wlalcuNIA"
+        name: "Israel Vs Pakistan News: इजरायल की धमकी, किले में बदला इस्लामाबाद! | Iran War | Netanyahu"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WrCpmALNA04"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.04.2026)| 2 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
+        videoId: "HnGjnpEv35g"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nNQisVB_qjo"
-        name: "Iran US War: ट्रंप की उलटी गिनती ईरान ने कर दी शुरू! | Trump | America | Israel War"
-        artist: "ABP NEWS"
+        videoId: "9NCyDZESOXI"
+        name: "World News | ख़बरें विदेश की | 10 April 2026 | Donald Trump | venezuela news | America #dblive"
+        artist: "DB Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ntjvm_WjLIM"
-        name: "Iran Ceasefire LIVE | Islamabad Talks Appear to Flop as Iran Gears Up Attack on US and Israel | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oDSlupxpztU"
-        name: "Bihar New CM LIVE: बिहार के नए सीएम पर आई बड़ी खबर LIVE | Nitish Kumar Oath | Bihar News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X3quO_a0tKs"
-        name: "US Iran LIVE | ‘BURN IN HELL’: Pakistan Minister Calls Israel ‘CANCEROUS’, Netanyahu Fires Back"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "j8M0hjkQSsk"
-        name: "Iran US Ceasefire News LIVE: नक्शे से मिटेगा इजरायल? | America | Israel War | Lebanon | War News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3dRpsoCgQus"
-        name: "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News"
-        artist: "ARY News"
+        videoId: "7gPM3rumynM"
+        name: "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T11:41:26.885Z"
+  exported_at: "2026-04-10T12:53:00.668Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T11:41:26.853Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-10T12:53:00.631Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
