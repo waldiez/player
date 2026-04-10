@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T17:41:21.115Z",
+    "generatedAt": "2026-04-10T18:41:00.921Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nug2LHxv80A",
+            "videoId": "Q49r5PsprvY",
+            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7mUnQUbhQjo",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X99_8eZr6sU",
+            "name": "LIVE: Trump Warns Iran Over Strait of Hormuz Tanker Toll Move | Firstpost Live | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WS9E71YO8bQ",
+            "name": "🔴 LIVE | Pakistan Ready | World Watching Islamabad | Sparks Shock in India | Security on High Alert",
+            "artist": "SUNO NEWS HD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "k-73leKsY80",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eocAPV83VU8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l6pkS-7gAp4",
             "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "0TlxEGzV-eY",
-            "name": "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "b4plViE7vAc",
+            "name": "US Iran War News LIVE | Pakistan Imposes Lockdown Ahead Of Islamabad Meeting | JD Vance | Ceasefire",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "7gPM3rumynM",
-            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SgOJZ9nAz3E",
-            "name": "🔴LIVE: Iran war | Trump | மீண்டும் போர் - தயாரான ஈரான்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fvJsQJu7TVM",
-            "name": "🔴LIVE: Iran war | Trump | ஈரான் டிவியில் வெளியான பரபரப்பு அறிவிப்பு\"பழிக்குப் பழி - மொஜ்தபா சபதம்\"",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mrsgJ1aWgUs",
-            "name": "Ind Vs Pak Live | News Ki Pathshala | Pakistan पर एक्शन की तैयारी में भारत ! | PM Modi | Asim Munir",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9A_f_0PW9VM",
-            "name": "पाकिस्तान में 2 दिनों का लॉकडाउन LIVE |  US Iran War Ceasefire News | Netanyahu | Trump",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xCdQbBas_dI",
-            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 10.04.2026 | Top News | Latest News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "kqCcoX7jWMA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NewsScope BD"
         }
     ],
     "sourceFilters": {
