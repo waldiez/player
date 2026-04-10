@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T06:28:17.914Z",
+    "generatedAt": "2026-04-10T08:17:59.930Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RmX2LeDscrI",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "7ccjY38oP-w",
+            "name": "Israel Pakistan Clash Update LIVE: युद्ध के बीच पाकिस्तान ने कर दी बड़ी गलती! | Netanyahu Statement",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vcZEOcBnaGQ",
-            "name": "ABC News Live Prime: April 9, 2026",
-            "artist": "ABC News"
+            "videoId": "l2dpCHDoQuU",
+            "name": "US-Israel-Iran War Live Updates |  Iran US Ceasefire  News |  Iran Israel War 2026 | World News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "3L9rUiwaOxI",
-            "name": "US Iran War LIVE | Trump Changes Deal, Iran Ceasefire on Brinks | Trump Emergency Meeting",
-            "artist": "CNN-News18"
+            "videoId": "3dRpsoCgQus",
+            "name": "🔴 LIVE || Iran war live: Israel to hold ceasefire talks with Lebanon | Iran-US Ceasefire || ARY News",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "TUPLjGflTGs",
-            "name": "এটিএন বাংলার টপ নিউজ । সকাল ৯ টা । 10.04.2026 | Top News | Latest News",
-            "artist": "ATN Bangla News"
+            "videoId": "l07cQxKZhgs",
+            "name": "Iran US Ceasefire News LIVE: आधी रात होते ही इजराय लका कत्लेआम शुरू!, सोते लोगों को मार डाला!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ynQ0Y_vZusY",
-            "name": "LIVE: Putin's BOMBSHELL Iran War Speech Creates Shockwaves In Mideast & West | WORLD NEWS LIVE",
-            "artist": "Times Now World"
+            "videoId": "z3gfzbJxm-k",
+            "name": "China Has Gained Dominance Over The World, A New World Order Has Begun? City 41",
+            "artist": "City 41"
         },
         {
             "mood": "storm",
-            "videoId": "59YyUmBZrfo",
-            "name": "Live | Morning News Bulletin | India News | World News",
-            "artist": "The Savera Times"
+            "videoId": "50lpcXoWUBQ",
+            "name": "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू?  | America War Again",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c17Sx4_lrdc",
+            "name": "Today Headlines | 10 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
