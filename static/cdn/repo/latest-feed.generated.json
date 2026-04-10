@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T16:41:53.552Z",
+    "generatedAt": "2026-04-10T17:41:21.115Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qb-ZXOFtWSM",
-            "name": "🔴LIVE | US Vice President J.D. Vance Arrival in Islamabad ? | High Alert Security | News One",
-            "artist": "News One"
+            "videoId": "nug2LHxv80A",
+            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "yUw2Y4fJ-DM",
-            "name": "LIVE🔴জাতীয় সংসদ অধিবেশন | 10.04.2026 | Sangsad | Parliament |  ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "0TlxEGzV-eY",
+            "name": "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "lYkuPzXI3VM",
-            "name": "Bharat Ki Baat LIVE: पाकिस्तान खेल रहा मीटिंग-मीटिंग! | Iran US Ceasefire | Netanyahu | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "7gPM3rumynM",
+            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "9gcRr20Pr7c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T8SmMH5lDXA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N2zz9v7WlAE",
-            "name": "🔴LIVE: Iran war | Trump | ''ஈரானுக்கு அழிவு'' போரில் திக்..திக்..டிரம்ப் புதிய சபதம்",
+            "videoId": "SgOJZ9nAz3E",
+            "name": "🔴LIVE: Iran war | Trump | மீண்டும் போர் - தயாரான ஈரான்",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fvJsQJu7TVM",
+            "name": "🔴LIVE: Iran war | Trump | ஈரான் டிவியில் வெளியான பரபரப்பு அறிவிப்பு\"பழிக்குப் பழி - மொஜ்தபா சபதம்\"",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mrsgJ1aWgUs",
+            "name": "Ind Vs Pak Live | News Ki Pathshala | Pakistan पर एक्शन की तैयारी में भारत ! | PM Modi | Asim Munir",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9A_f_0PW9VM",
+            "name": "पाकिस्तान में 2 दिनों का लॉकडाउन LIVE |  US Iran War Ceasefire News | Netanyahu | Trump",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xCdQbBas_dI",
+            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 10.04.2026 | Top News | Latest News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
