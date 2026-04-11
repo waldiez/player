@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T05:55:06.495Z",
+    "generatedAt": "2026-04-11T06:52:37.181Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RkeFqMRVrR4",
-            "name": "Israel Vs Pakistan Clash LIVE:अगला टारगेट पाकिस्तान? | Iran US Israel Ceasefire | Netanyahu | Trump",
+            "videoId": "pWlgEpRKgb4",
+            "name": "US-Israel-Iran War Live Updates |11 April |  Iran US Ceasefire  News |  Iran Israel War 2026",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nIgKn3a2Cig",
+            "name": "Islambad Peace Talk LIVE: लगा लॉकडाउन...आतंकी निशाने पर मीटिंग? | Iran US Ceasefire | Balochistan",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4taZdxs9ivk",
-            "name": "🟢US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "M0DNT4wsNKw",
+            "name": "Iran US Israel Ceasefire LIVE: फिर से ईरान-अमेरिका में जंग हो गई शुरू? | America | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2KA8549FswE",
-            "name": "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks",
+            "videoId": "uWienBH0kWE",
+            "name": "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
             "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "dS_MgO3KoBo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
+            "videoId": "9A_f_0PW9VM",
+            "name": "पाकिस्तान में 2 दिनों का लॉकडाउन LIVE |  US Iran War Ceasefire News | Netanyahu | Trump",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Ew_74SI41Ys",
-            "name": "Iran US Ceasefire Update LIVE: ईरान की शर्तों ने उड़ाए ट्रंप के होश! | Trump | Pakistan Peace Talk",
+            "videoId": "o8OEBVpw1QU",
+            "name": "ABC News Live Prime: April 10, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SxdOB6bBBeY",
+            "name": "Iran Vs America Peace Talk LIVE: Islamabad में मीटिंग से पहले आई बड़ी खबर | Trump | Khamenei",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "n0RTrfSCn10",
-            "name": "Gujarati News LIVE | આજ સૌથી મોટા ગુજરાતી સમાચાર | Latest News | Breaking News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "p00AN_oOMbE",
+            "name": "Iran vs US Ceasefire News LIVE: ईरान की बड़ी शर्त पर फंस गए ट्रंप! | America | Israel War | Lebanon",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
