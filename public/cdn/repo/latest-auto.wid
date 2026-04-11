@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T093305.417Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T102621.140Z-l4t35t"
   type: "state"
-  created: "2026-04-11T09:33:05.417Z"
+  created: "2026-04-11T10:26:21.140Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T093305.417Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T102621.140Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "yOs-yqQ2sbk"
-        name: "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G"
-        artist: "News18 Urdu"
+        videoId: "i3e7KPQYFJw"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.04.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7KuxjK3deEI"
-        name: "🔴LIVE: Iran war | Trump | பழிக்குப் பழி நிச்சயம் - ஈரான் பகிரங்க எச்சரிக்கை"
-        artist: "Sathiyam News"
+        videoId: "ZZVtlg6jSMs"
+        name: "US Iran Peace Talk LIVE: शांति वार्ता में चीन की एंट्री? | Trump | XI Jinping | Islamabad | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "174O6e3yKpE"
-        name: "US IRAN WAR Live: Trump Issues Fiery Hormuz Ultimatum – 'Open It Or All Hell Will Reign Down'"
-        artist: "ET Now"
+        videoId: "7Mh8Gj7RHCM"
+        name: "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fPOL_3gjPro"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eTKU_GAsPWA"
-        name: "🟠Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zEOxcnJXtnQ"
-        name: "🔴LIVE: Islamabad Talks | US-Iran Peace Negotiations in Pakistan | Latest Update"
-        artist: "SAMAA TV"
+        videoId: "Lg8XliKhIp0"
+        name: "US Iran War | US Iran Peace Talks LIVE | Pak's F-16s Escort JD Vance Into Islamabad For Talks"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T09:33:05.417Z"
+  exported_at: "2026-04-11T10:26:21.140Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T09:33:05.385Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T10:26:21.106Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

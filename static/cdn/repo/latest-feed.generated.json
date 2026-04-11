@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T09:33:05.385Z",
+    "generatedAt": "2026-04-11T10:26:21.106Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yOs-yqQ2sbk",
-            "name": "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "i3e7KPQYFJw",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.04.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "7KuxjK3deEI",
-            "name": "🔴LIVE: Iran war | Trump | பழிக்குப் பழி நிச்சயம் - ஈரான் பகிரங்க எச்சரிக்கை",
-            "artist": "Sathiyam News"
+            "videoId": "ZZVtlg6jSMs",
+            "name": "US Iran Peace Talk LIVE: शांति वार्ता में चीन की एंट्री? | Trump | XI Jinping | Islamabad | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "174O6e3yKpE",
-            "name": "US IRAN WAR Live: Trump Issues Fiery Hormuz Ultimatum – 'Open It Or All Hell Will Reign Down'",
-            "artist": "ET Now"
+            "videoId": "7Mh8Gj7RHCM",
+            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "fPOL_3gjPro",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eTKU_GAsPWA",
-            "name": "🟠Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zEOxcnJXtnQ",
-            "name": "🔴LIVE: Islamabad Talks | US-Iran Peace Negotiations in Pakistan | Latest Update",
-            "artist": "SAMAA TV"
+            "videoId": "Lg8XliKhIp0",
+            "name": "US Iran War | US Iran Peace Talks LIVE | Pak's F-16s Escort JD Vance Into Islamabad For Talks",
+            "artist": "NDTV"
         }
     ],
     "sourceFilters": {
