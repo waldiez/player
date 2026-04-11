@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T04:14:08.712Z",
+    "generatedAt": "2026-04-11T05:55:06.495Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-yKU4Psaelc",
-            "name": "Israel Vs Pakistan News LIVE: इजरायल की धमकी, किले में बदला इस्लामाबाद! | Iran War | Netanyahu",
+            "videoId": "RkeFqMRVrR4",
+            "name": "Israel Vs Pakistan Clash LIVE:अगला टारगेट पाकिस्तान? | Iran US Israel Ceasefire | Netanyahu | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "p00AN_oOMbE",
-            "name": "Iran vs US Ceasefire News LIVE: ईरान की बड़ी शर्त पर फंस गए ट्रंप! | America | Israel War | Lebanon",
+            "videoId": "4taZdxs9ivk",
+            "name": "🟢US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2KA8549FswE",
+            "name": "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dS_MgO3KoBo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ew_74SI41Ys",
+            "name": "Iran US Ceasefire Update LIVE: ईरान की शर्तों ने उड़ाए ट्रंप के होश! | Trump | Pakistan Peace Talk",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "cqyZLGi9Bxw",
-            "name": "LIVE: Artemis II Mission to the Moon: Coming Home",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fdUuO4YUcFc",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 10, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P7S7A2drQM8",
-            "name": "LIVE: NASA coverage of Artemis II's return home",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fpQ1_VlLLKk",
-            "name": "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x-eHNjCdBEE",
-            "name": "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire | Netanyahu | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RlCcjaUAmgs",
-            "name": "Iran-US talks, world's eyes on Pakistan | ARY News 6 AM Headlines | 11th  April  2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fn_YI1bE1tE",
-            "name": "ईरान-अमेरिका जंग 10 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "n0RTrfSCn10",
+            "name": "Gujarati News LIVE | આજ સૌથી મોટા ગુજરાતી સમાચાર | Latest News | Breaking News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {

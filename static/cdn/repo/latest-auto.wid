@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T041408.756Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T055506.545Z-l4t35t"
   type: "state"
-  created: "2026-04-11T04:14:08.756Z"
+  created: "2026-04-11T05:55:06.545Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T041408.756Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T055506.545Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-yKU4Psaelc"
-        name: "Israel Vs Pakistan News LIVE: इजरायल की धमकी, किले में बदला इस्लामाबाद! | Iran War | Netanyahu"
+        videoId: "RkeFqMRVrR4"
+        name: "Israel Vs Pakistan Clash LIVE:अगला टारगेट पाकिस्तान? | Iran US Israel Ceasefire | Netanyahu | Trump"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p00AN_oOMbE"
-        name: "Iran vs US Ceasefire News LIVE: ईरान की बड़ी शर्त पर फंस गए ट्रंप! | America | Israel War | Lebanon"
+        videoId: "4taZdxs9ivk"
+        name: "🟢US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2KA8549FswE"
+        name: "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dS_MgO3KoBo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ew_74SI41Ys"
+        name: "Iran US Ceasefire Update LIVE: ईरान की शर्तों ने उड़ाए ट्रंप के होश! | Trump | Pakistan Peace Talk"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cqyZLGi9Bxw"
-        name: "LIVE: Artemis II Mission to the Moon: Coming Home"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fdUuO4YUcFc"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 10, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "P7S7A2drQM8"
-        name: "LIVE: NASA coverage of Artemis II's return home"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fpQ1_VlLLKk"
-        name: "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "x-eHNjCdBEE"
-        name: "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire | Netanyahu | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RlCcjaUAmgs"
-        name: "Iran-US talks, world's eyes on Pakistan | ARY News 6 AM Headlines | 11th  April  2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fn_YI1bE1tE"
-        name: "ईरान-अमेरिका जंग 10 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "n0RTrfSCn10"
+        name: "Gujarati News LIVE | આજ સૌથી મોટા ગુજરાતી સમાચાર | Latest News | Breaking News | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T04:14:08.756Z"
+  exported_at: "2026-04-11T05:55:06.545Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T04:14:08.712Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T05:55:06.495Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
