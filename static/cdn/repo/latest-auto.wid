@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T183257.874Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T192944.374Z-l4t35t"
   type: "state"
-  created: "2026-04-11T18:32:57.874Z"
+  created: "2026-04-11T19:29:44.374Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T183257.874Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T192944.374Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "H9eF44UPoyw"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "7A2cpsNgttQ"
+        name: "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates"
+        artist: "Global Pulse Network"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BnjZWFJaCW4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Stream Bangla"
+        videoId: "ayA8FLLbdm8"
+        name: "US Iran War | US Iran Peace Talks LIVE | JD Vance In Islamabad | Iranian Delegation In Pakistan"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WZt2RVnKnR8"
-        name: "🔴 LIVE NEWS Coverage: US-IRAN Ceasefire Talks in Islamabad || ARY News Live"
-        artist: "ARY News"
+        videoId: "sn1enGbOeRE"
+        name: "Live | Islamabad Talks -Iran US Deal?  | Islamabad Hosts Historic US–Iran Peace Talks"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R2GLNvhVZ3U"
-        name: "US Iran Peace Talks In Pakistan LIVE: पलटी ईरान-अमेरिका की पूरी बैठक!, हो गया बड़ा खेल! | Breaking"
+        videoId: "GHnCfVFvxyY"
+        name: "US IRAN WAR Live: Trump Huddles With Cabinet On Iran Ceasefire – Is The War Finally Ending?"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KmKmB1fQnKY"
+        name: "🔴LIVE | US Vice President Arrives in Pakistan Amid Grand Reception | Islamabad Talks Exclusive"
+        artist: "Express News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zdJbAt7cdNc"
+        name: "Breaking News Today | Latest News Headlines | Pakistan & World News Live"
+        artist: "Today News Web Channel"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "C_nwTsLsoNA"
+        name: "US Iran Peace Talks In Pakistan LIVE: हो गया बड़ा फैसला?, अमेरिका मान गया बात!, ईरान खुश! | Breaking"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eW3koz3FC8Y"
-        name: "🔴LIVE:  போரில் தலைகீழ் திருப்பம்.. அமெரிக்காவின் ட்ரோன் திடீர் மாயம்.! உச்சக்கட்ட பதற்றம்"
-        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T18:32:57.874Z"
+  exported_at: "2026-04-11T19:29:44.374Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T18:32:57.792Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T19:29:44.336Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

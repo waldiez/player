@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T18:32:57.792Z",
+    "generatedAt": "2026-04-11T19:29:44.336Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "H9eF44UPoyw",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "7A2cpsNgttQ",
+            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
+            "artist": "Global Pulse Network"
         },
         {
             "mood": "storm",
-            "videoId": "BnjZWFJaCW4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
+            "videoId": "ayA8FLLbdm8",
+            "name": "US Iran War | US Iran Peace Talks LIVE | JD Vance In Islamabad | Iranian Delegation In Pakistan",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "WZt2RVnKnR8",
-            "name": "🔴 LIVE NEWS Coverage: US-IRAN Ceasefire Talks in Islamabad || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "sn1enGbOeRE",
+            "name": "Live | Islamabad Talks -Iran US Deal?  | Islamabad Hosts Historic US–Iran Peace Talks",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "R2GLNvhVZ3U",
-            "name": "US Iran Peace Talks In Pakistan LIVE: पलटी ईरान-अमेरिका की पूरी बैठक!, हो गया बड़ा खेल! | Breaking",
+            "videoId": "GHnCfVFvxyY",
+            "name": "US IRAN WAR Live: Trump Huddles With Cabinet On Iran Ceasefire – Is The War Finally Ending?",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KmKmB1fQnKY",
+            "name": "🔴LIVE | US Vice President Arrives in Pakistan Amid Grand Reception | Islamabad Talks Exclusive",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zdJbAt7cdNc",
+            "name": "Breaking News Today | Latest News Headlines | Pakistan & World News Live",
+            "artist": "Today News Web Channel"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C_nwTsLsoNA",
+            "name": "US Iran Peace Talks In Pakistan LIVE: हो गया बड़ा फैसला?, अमेरिका मान गया बात!, ईरान खुश! | Breaking",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eW3koz3FC8Y",
-            "name": "🔴LIVE:  போரில் தலைகீழ் திருப்பம்.. அமெரிக்காவின் ட்ரோன் திடீர் மாயம்.! உச்சக்கட்ட பதற்றம்",
-            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
