@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T123859.523Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T134955.928Z-l4t35t"
   type: "state"
-  created: "2026-04-11T12:38:59.523Z"
+  created: "2026-04-11T13:49:55.928Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T123859.523Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T134955.928Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vSaLCEgayjM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "0U65S4SX4jk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VwGt9FFb5ko"
-        name: "US-Iran War LIVE: Iran Threatens Large-Scale Strikes If US Fails to Comply in Islamabad Talks | N18G"
+        videoId: "J711aRk1PCM"
+        name: "BREAKING NEWS LIVE | Iran's Araghchi Holds Press Conference on President Trump & JCPOA | TRUMP NEWS"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8l1UGfxUr0Q"
+        name: "US Iran Peace Talk LIVE: ईरान की 4 बड़ी मांग ने दुनिया को चौंकाया! | Trump | Islamabad |Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d8a9hWDOxj0"
+        name: "IRAN WAR LIVE NEWS | Dialogue Venue in Islamabad Comes Under Global Spotlight | JD Vance In Pakistan"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZUVPGD887LI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "3ify9QrfGgc"
+        name: "US–Iran Ceasefire Talks in Islamabad LIVE: Strait Of Hormuz Crisis Takes Center Stage | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NegwMja6Mgo"
-        name: "Iran Vs America Peace Talk LIVE: लो पाकिस्तान में घुस गया ईरान! | Trump | Khamenei | Breaking"
-        artist: "ABP NEWS"
+        videoId: "9KzanQnijig"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Politics News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zotPnSZfd7E"
-        name: "🔴LIVE: Islamabad Talks | Iran US Ceasefire Update | Latest News from Islamabad | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "p4Ydp4bKVYk"
+        name: "Islamabad Peace Talks LIVE | Iran Threatens US | US Iran War | US Iran Peace Talks | JD Vance In Pak"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5y_-OvO0ypA"
-        name: "US Iran Peace Talk LIVE: जहां ईरान-अमेरिका की बैठक, वहां से सीधे LIVE Trump | Islamabad |Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i3e7KPQYFJw"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.04.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "ktZt4LKxUYA"
+        name: "Peace Talks in Islamabad , Latest Update | 5 PM Headlines Geo News (11th April 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T12:38:59.523Z"
+  exported_at: "2026-04-11T13:49:55.928Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T12:38:59.487Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T13:49:55.895Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
