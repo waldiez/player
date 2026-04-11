@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T08:33:37.256Z",
+    "generatedAt": "2026-04-11T09:33:05.385Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZZVtlg6jSMs",
-            "name": "US Iran Peace Talk LIVE: शांति वार्ता में चीन की एंट्री? | Trump | XI Jinping | Islamabad | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "yOs-yqQ2sbk",
+            "name": "US-Iran Ceasefire News LIVE | War Still ON: Massive Explosions After Ceasefire Announcement | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "sad3y8OfSX0",
-            "name": "🔴LIVE : Today Fast 100 | 11 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News",
-            "artist": "NewsTamil 24X7"
+            "videoId": "7KuxjK3deEI",
+            "name": "🔴LIVE: Iran war | Trump | பழிக்குப் பழி நிச்சயம் - ஈரான் பகிரங்க எச்சரிக்கை",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "p_yIuupsD6o",
-            "name": "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
-            "artist": "NDTV India"
+            "videoId": "174O6e3yKpE",
+            "name": "US IRAN WAR Live: Trump Issues Fiery Hormuz Ultimatum – 'Open It Or All Hell Will Reign Down'",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "l6pkS-7gAp4",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
+            "videoId": "fPOL_3gjPro",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "K4wVkkaxsF4",
-            "name": "Iran US Ceasefire LIVE: ईरान-US मीटिंग में कूदा चीन! | Breaking | Trump | Peace Talk | Islamabad",
-            "artist": "ABP NEWS"
+            "videoId": "eTKU_GAsPWA",
+            "name": "🟠Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "HcDStcS-TBw",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pWlgEpRKgb4",
-            "name": "US-Israel-Iran War Live Updates |11 April |  Iran US Ceasefire  News |  Iran Israel War 2026",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sPT8HRpRAj4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nIgKn3a2Cig",
-            "name": "Islambad Peace Talk LIVE: लगा लॉकडाउन...आतंकी निशाने पर मीटिंग? | Iran US Ceasefire | Balochistan",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ayA8FLLbdm8",
-            "name": "US Iran War | US Iran Peace Talks LIVE | JD Vance In Islamabad | Iranian Delegation In Pakistan",
-            "artist": "NDTV"
+            "videoId": "zEOxcnJXtnQ",
+            "name": "🔴LIVE: Islamabad Talks | US-Iran Peace Negotiations in Pakistan | Latest Update",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
