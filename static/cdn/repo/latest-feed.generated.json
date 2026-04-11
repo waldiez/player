@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T01:27:48.911Z",
+    "generatedAt": "2026-04-11T04:14:08.712Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "i7DHcs6_woA",
-            "name": "🔴 LIVE || Breaking News Coverage: Islamabad Talks | Iran-US Ceasefire || ARY News Live",
+            "videoId": "-yKU4Psaelc",
+            "name": "Israel Vs Pakistan News LIVE: इजरायल की धमकी, किले में बदला इस्लामाबाद! | Iran War | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "p00AN_oOMbE",
+            "name": "Iran vs US Ceasefire News LIVE: ईरान की बड़ी शर्त पर फंस गए ट्रंप! | America | Israel War | Lebanon",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cqyZLGi9Bxw",
+            "name": "LIVE: Artemis II Mission to the Moon: Coming Home",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fdUuO4YUcFc",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 10, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P7S7A2drQM8",
+            "name": "LIVE: NASA coverage of Artemis II's return home",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fpQ1_VlLLKk",
+            "name": "Sandeep Chaudhary LIVE: 27 लाख वोट का झमेला...बंगाल में होगा 'खेला'? | Bengal Election | TMC Vs ECI",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x-eHNjCdBEE",
+            "name": "Israel Vs Pakistan: इजरायल पर पाकिस्तान पर हमला! | Iran US Israel Ceasefire | Netanyahu | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RlCcjaUAmgs",
+            "name": "Iran-US talks, world's eyes on Pakistan | ARY News 6 AM Headlines | 11th  April  2026",
             "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "eocAPV83VU8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G0W9wgrZkfc",
-            "name": "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LToNswlE4IE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | আজকের বিশ্ব খবর | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "সকালের সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ALp_U7neDSM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Ajker Top News Bd"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q49r5PsprvY",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AW13-GC1TNc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Stream Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0TlxEGzV-eY",
-            "name": "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7gPM3rumynM",
-            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
-            "artist": "Times Now"
+            "videoId": "fn_YI1bE1tE",
+            "name": "ईरान-अमेरिका जंग 10 अप्रैल 2026 | Iran America War | Israel attacks Iran | Mojtaba Khamenei",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
