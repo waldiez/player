@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T112412.220Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T123859.523Z-l4t35t"
   type: "state"
-  created: "2026-04-11T11:24:12.220Z"
+  created: "2026-04-11T12:38:59.523Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T112412.220Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T123859.523Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "K4wVkkaxsF4"
-        name: "Iran US Ceasefire LIVE: ईरान-US मीटिंग में कूदा चीन! | Breaking | Trump | Peace Talk | Islamabad"
+        videoId: "vSaLCEgayjM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VwGt9FFb5ko"
+        name: "US-Iran War LIVE: Iran Threatens Large-Scale Strikes If US Fails to Comply in Islamabad Talks | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZUVPGD887LI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NegwMja6Mgo"
+        name: "Iran Vs America Peace Talk LIVE: लो पाकिस्तान में घुस गया ईरान! | Trump | Khamenei | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "10kWCcRGfUs"
-        name: "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran"
-        artist: "News18 India"
+        videoId: "zotPnSZfd7E"
+        name: "🔴LIVE: Islamabad Talks | Iran US Ceasefire Update | Latest News from Islamabad | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HEkRxLZRoeg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NewsScope BD"
+        videoId: "5y_-OvO0ypA"
+        name: "US Iran Peace Talk LIVE: जहां ईरान-अमेरिका की बैठक, वहां से सीधे LIVE Trump | Islamabad |Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oIF29FLhDrw"
-        name: "US Iran Israel War Live update: Pakistan की ज़मीन से Iran पर अमेरिकी हमला? | Iran US Ceasefire"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7KuxjK3deEI"
-        name: "🔴LIVE: Iran war | Trump | பழிக்குப் பழி நிச்சயம் - ஈரான் பகிரங்க எச்சரிக்கை"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "l6pkS-7gAp4"
-        name: "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U9OeJk-h414"
-        name: "Historic Day for Pakistan: Major Global Breakthrough | 11 AM Headlines Geo News (11 April 2026)"
-        artist: "Geo News"
+        videoId: "i3e7KPQYFJw"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.04.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T11:24:12.220Z"
+  exported_at: "2026-04-11T12:38:59.523Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T11:24:12.186Z"
+  source_generated_at: "2026-04-11T12:38:59.487Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
