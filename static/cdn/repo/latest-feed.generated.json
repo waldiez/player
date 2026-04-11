@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T16:27:41.488Z",
+    "generatedAt": "2026-04-11T17:24:57.789Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kSIW3MExhGk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FbHSKFWXf8o",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kIclv9lesx0",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 11.04.2026 | Latest News | Breaking News |  BD News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PWfYOaYqUu0",
-            "name": "US Iran Peace Talk LIVE: ईरान की 4 बड़ी मांग ने दुनिया को चौंकाया! | Trump | Islamabad |Breaking",
+            "videoId": "C_nwTsLsoNA",
+            "name": "US Iran Peace Talks In Pakistan LIVE: हो गया बड़ा फैसला?, अमेरिका मान गया बात!, ईरान खुश! | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "KZJDoipnX7k",
-            "name": "War or Peace - Talks Begin, World Eyes on #islamabadtalks - Special Transmission | Geo News",
-            "artist": "Geo News"
+            "videoId": "l9T3rU_125g",
+            "name": "Sandeep Chaudhary LIVE: होर्मुज का खेल...दुनिया का निकलेगा 'तेल'! | US Iran Peace Talks In Pakistan",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2KA8549FswE",
+            "name": "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ng6IiXobb6c",
+            "name": "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TW8O6y27C_Q",
+            "name": "Live 🔴 Pakistan's Big Success: Islamabad Hosts Historic US-Iran Peace Talks | Updates | Dunya News",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MWdQf3VovO8",
+            "name": "🔴 Live: Latest 𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #pakistannews",
+            "artist": "MZS TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t77jpoukjVE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bBXpDYLm9UM",
+            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yrTOvxVxU3M",
+            "name": "Iran US Peace Talk LIVE: ईरान के साथ मीटिंग में अमेरिका की बुरी बेइज्जती? | Israel Attack | Lebanon",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
