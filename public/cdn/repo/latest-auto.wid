@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T074442.233Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T083337.288Z-l4t35t"
   type: "state"
-  created: "2026-04-11T07:44:42.233Z"
+  created: "2026-04-11T08:33:37.288Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T074442.233Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T083337.288Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zEOxcnJXtnQ"
-        name: "🔴LIVE: Islamabad Talks | US-Iran Peace Negotiations in Pakistan | Latest Update"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dHuwXsdTMaw"
-        name: "Iran US Peace Talk LIVE: चल रही मीटिगं के बीच इजरायल का भीषण हमला! | Trump | Netanyahu | Lebanon"
+        videoId: "ZZVtlg6jSMs"
+        name: "US Iran Peace Talk LIVE: शांति वार्ता में चीन की एंट्री? | Trump | XI Jinping | Islamabad | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "G1DYNvh99Tw"
-        name: "Iran Vs America Peace Talk LIVE: मीटिंग से पहले आई बड़ी खबर | Trump | Khamenei | Chitra Tripathi"
+        videoId: "sad3y8OfSX0"
+        name: "🔴LIVE : Today Fast 100 | 11 APRIL 2026 | இன்றைய 100 முக்கியச் செய்திகள் | 100 Fast News"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p_yIuupsD6o"
+        name: "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l6pkS-7gAp4"
+        name: "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K4wVkkaxsF4"
+        name: "Iran US Ceasefire LIVE: ईरान-US मीटिंग में कूदा चीन! | Breaking | Trump | Peace Talk | Islamabad"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2KA8549FswE"
-        name: "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks"
-        artist: "News18 India"
+        videoId: "HcDStcS-TBw"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pWlgEpRKgb4"
+        name: "US-Israel-Iran War Live Updates |11 April |  Iran US Ceasefire  News |  Iran Israel War 2026"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sPT8HRpRAj4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nIgKn3a2Cig"
+        name: "Islambad Peace Talk LIVE: लगा लॉकडाउन...आतंकी निशाने पर मीटिंग? | Iran US Ceasefire | Balochistan"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ayA8FLLbdm8"
+        name: "US Iran War | US Iran Peace Talks LIVE | JD Vance In Islamabad | Iranian Delegation In Pakistan"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T07:44:42.233Z"
+  exported_at: "2026-04-11T08:33:37.288Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T07:44:42.202Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T08:33:37.256Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
