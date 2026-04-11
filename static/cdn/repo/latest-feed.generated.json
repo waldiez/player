@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T15:26:08.330Z",
+    "generatedAt": "2026-04-11T16:27:41.488Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Yvzy2RLtttA",
-            "name": "US Iran Peace Talks In Pakistan LIVE: ईरान-अमेरिका बैठक की अंदर का वीडियो वायरल! | Big Breaking",
+            "videoId": "kSIW3MExhGk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FbHSKFWXf8o",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kIclv9lesx0",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 11.04.2026 | Latest News | Breaking News |  BD News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PWfYOaYqUu0",
+            "name": "US Iran Peace Talk LIVE: ईरान की 4 बड़ी मांग ने दुनिया को चौंकाया! | Trump | Islamabad |Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bBXpDYLm9UM",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yrTOvxVxU3M",
-            "name": "Iran US Peace Talk LIVE: ईरान के साथ मीटिंग में अमेरिका की बुरी बेइज्जती? | Israel Attack | Lebanon",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3VuhaOz-S7U",
-            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VoI4xAHXgto",
-            "name": "Iran - US Negotiations in Islamabad Peace Talk - Latest Update | Breaking News | Geo News",
+            "videoId": "KZJDoipnX7k",
+            "name": "War or Peace - Talks Begin, World Eyes on #islamabadtalks - Special Transmission | Geo News",
             "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0U65S4SX4jk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
         }
     ],
     "sourceFilters": {

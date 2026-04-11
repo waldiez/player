@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260411T152608.362Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T162741.525Z-l4t35t"
   type: "state"
-  created: "2026-04-11T15:26:08.362Z"
+  created: "2026-04-11T16:27:41.525Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T152608.362Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T162741.525Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Yvzy2RLtttA"
-        name: "US Iran Peace Talks In Pakistan LIVE: ईरान-अमेरिका बैठक की अंदर का वीडियो वायरल! | Big Breaking"
+        videoId: "kSIW3MExhGk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FbHSKFWXf8o"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kIclv9lesx0"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 11.04.2026 | Latest News | Breaking News |  BD News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PWfYOaYqUu0"
+        name: "US Iran Peace Talk LIVE: ईरान की 4 बड़ी मांग ने दुनिया को चौंकाया! | Trump | Islamabad |Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bBXpDYLm9UM"
-        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yrTOvxVxU3M"
-        name: "Iran US Peace Talk LIVE: ईरान के साथ मीटिंग में अमेरिका की बुरी बेइज्जती? | Israel Attack | Lebanon"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3VuhaOz-S7U"
-        name: "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VoI4xAHXgto"
-        name: "Iran - US Negotiations in Islamabad Peace Talk - Latest Update | Breaking News | Geo News"
+        videoId: "KZJDoipnX7k"
+        name: "War or Peace - Talks Begin, World Eyes on #islamabadtalks - Special Transmission | Geo News"
         artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0U65S4SX4jk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-11T15:26:08.362Z"
+  exported_at: "2026-04-11T16:27:41.525Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-11T15:26:08.330Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T16:27:41.488Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
