@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260410T232813.021Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260411T012748.945Z-l4t35t"
   type: "state"
-  created: "2026-04-10T23:28:13.021Z"
+  created: "2026-04-11T01:27:48.945Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260410T232813.021Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260411T012748.945Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ULWGlDQE2B0"
-        name: "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nfrzBaYr_es"
-        name: "LIVE | US Bombs Iran’s Energy Infrastructure After Trump ‘Cancelled’ Attack | Strait Of Hormuz"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7mUnQUbhQjo"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6zVZaRjmzgU"
-        name: "Good Morning America Full Broadcast - Friday, April 10, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sP8LKIbRkK8"
-        name: "Latest Updates on US–Iran Talks from Islamabad"
+        videoId: "i7DHcs6_woA"
+        name: "🔴 LIVE || Breaking News Coverage: Islamabad Talks | Iran-US Ceasefire || ARY News Live"
         artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eocAPV83VU8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G0W9wgrZkfc"
+        name: "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LToNswlE4IE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | আজকের বিশ্ব খবর | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "সকালের সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ALp_U7neDSM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Ajker Top News Bd"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Q49r5PsprvY"
+        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AW13-GC1TNc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Stream Bangla"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0TlxEGzV-eY"
+        name: "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7gPM3rumynM"
+        name: "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-10T23:28:13.021Z"
+  exported_at: "2026-04-11T01:27:48.945Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-10T23:28:12.988Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-11T01:27:48.911Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

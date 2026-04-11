@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-10T23:28:12.988Z",
+    "generatedAt": "2026-04-11T01:27:48.911Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ULWGlDQE2B0",
-            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nfrzBaYr_es",
-            "name": "LIVE | US Bombs Iran’s Energy Infrastructure After Trump ‘Cancelled’ Attack | Strait Of Hormuz",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7mUnQUbhQjo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6zVZaRjmzgU",
-            "name": "Good Morning America Full Broadcast - Friday, April 10, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sP8LKIbRkK8",
-            "name": "Latest Updates on US–Iran Talks from Islamabad",
+            "videoId": "i7DHcs6_woA",
+            "name": "🔴 LIVE || Breaking News Coverage: Islamabad Talks | Iran-US Ceasefire || ARY News Live",
             "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eocAPV83VU8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G0W9wgrZkfc",
+            "name": "🔴LIVE : Iran | Israel | USA | Trump | ஈரான் வெளியிட்ட வீடியோ.. இஸ்ரேலுக்கு எதிராக உலகே திரும்பியது",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LToNswlE4IE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | আজকের বিশ্ব খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "সকালের সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ALp_U7neDSM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Ajker Top News Bd"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q49r5PsprvY",
+            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AW13-GC1TNc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0TlxEGzV-eY",
+            "name": "LIVE | Ceasefire Under Strain as US, Iran Clash on Key Issues | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7gPM3rumynM",
+            "name": "World News LIVE: Iran Drops 10 Conditions to Open Hormuz | FM Araghchi Stuns World | Trump",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
