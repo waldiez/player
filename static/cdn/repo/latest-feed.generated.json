@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T10:26:21.106Z",
+    "generatedAt": "2026-04-11T11:24:12.186Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "i3e7KPQYFJw",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.04.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZZVtlg6jSMs",
-            "name": "US Iran Peace Talk LIVE: शांति वार्ता में चीन की एंट्री? | Trump | XI Jinping | Islamabad | Breaking",
+            "videoId": "K4wVkkaxsF4",
+            "name": "Iran US Ceasefire LIVE: ईरान-US मीटिंग में कूदा चीन! | Breaking | Trump | Peace Talk | Islamabad",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "7Mh8Gj7RHCM",
-            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "10kWCcRGfUs",
+            "name": "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "Lg8XliKhIp0",
-            "name": "US Iran War | US Iran Peace Talks LIVE | Pak's F-16s Escort JD Vance Into Islamabad For Talks",
-            "artist": "NDTV"
+            "videoId": "HEkRxLZRoeg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NewsScope BD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oIF29FLhDrw",
+            "name": "US Iran Israel War Live update: Pakistan की ज़मीन से Iran पर अमेरिकी हमला? | Iran US Ceasefire",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7KuxjK3deEI",
+            "name": "🔴LIVE: Iran war | Trump | பழிக்குப் பழி நிச்சயம் - ஈரான் பகிரங்க எச்சரிக்கை",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l6pkS-7gAp4",
+            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U9OeJk-h414",
+            "name": "Historic Day for Pakistan: Major Global Breakthrough | 11 AM Headlines Geo News (11 April 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
