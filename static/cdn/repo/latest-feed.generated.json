@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T13:49:55.895Z",
+    "generatedAt": "2026-04-11T14:30:25.876Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0U65S4SX4jk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
+            "videoId": "kIclv9lesx0",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 11.04.2026 | Latest News | Breaking News |  BD News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "J711aRk1PCM",
-            "name": "BREAKING NEWS LIVE | Iran's Araghchi Holds Press Conference on President Trump & JCPOA | TRUMP NEWS",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8l1UGfxUr0Q",
+            "videoId": "PWfYOaYqUu0",
             "name": "US Iran Peace Talk LIVE: ईरान की 4 बड़ी मांग ने दुनिया को चौंकाया! | Trump | Islamabad |Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "d8a9hWDOxj0",
-            "name": "IRAN WAR LIVE NEWS | Dialogue Venue in Islamabad Comes Under Global Spotlight | JD Vance In Pakistan",
-            "artist": "CNN-News18"
+            "videoId": "v2r7SybBcsw",
+            "name": "LIVE | US Vice President JD Vance Grand Arrival in Islamabad | Warm Welcome in Pakistan | 92NewsHD",
+            "artist": "92 News HD"
         },
         {
             "mood": "storm",
-            "videoId": "3ify9QrfGgc",
-            "name": "US–Iran Ceasefire Talks in Islamabad LIVE: Strait Of Hormuz Crisis Takes Center Stage | N18G",
-            "artist": "CNN-News18"
+            "videoId": "7Mh8Gj7RHCM",
+            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "9KzanQnijig",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Politics News"
+            "videoId": "ULRBp8almkM",
+            "name": "LIVE: Saudi Oil Pipeline Hit In Drone Attack, Kuwait Reports Iran Strikes | US Iran War",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "p4Ydp4bKVYk",
-            "name": "Islamabad Peace Talks LIVE | Iran Threatens US | US Iran War | US Iran Peace Talks | JD Vance In Pak",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ktZt4LKxUYA",
-            "name": "Peace Talks in Islamabad , Latest Update | 5 PM Headlines Geo News (11th April 2026)",
-            "artist": "Geo News"
+            "videoId": "2MMqHRFAMMs",
+            "name": "🔴 LIVE | Islamabad Peace Talks | Special Transmission | Latest News",
+            "artist": "MZS TV"
         }
     ],
     "sourceFilters": {
