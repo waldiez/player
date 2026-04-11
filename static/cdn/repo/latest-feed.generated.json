@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-11T17:24:57.789Z",
+    "generatedAt": "2026-04-11T18:32:57.792Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C_nwTsLsoNA",
-            "name": "US Iran Peace Talks In Pakistan LIVE: हो गया बड़ा फैसला?, अमेरिका मान गया बात!, ईरान खुश! | Breaking",
+            "videoId": "H9eF44UPoyw",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BnjZWFJaCW4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Stream Bangla"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WZt2RVnKnR8",
+            "name": "🔴 LIVE NEWS Coverage: US-IRAN Ceasefire Talks in Islamabad || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "R2GLNvhVZ3U",
+            "name": "US Iran Peace Talks In Pakistan LIVE: पलटी ईरान-अमेरिका की पूरी बैठक!, हो गया बड़ा खेल! | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "l9T3rU_125g",
-            "name": "Sandeep Chaudhary LIVE: होर्मुज का खेल...दुनिया का निकलेगा 'तेल'! | US Iran Peace Talks In Pakistan",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2KA8549FswE",
-            "name": "US-Iran Meeting In Islamabad LIVE: इस्लामाबाद में ईरान - अमेरिका की बैठक | #USIranTalks",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ng6IiXobb6c",
-            "name": "Iran America War LIVE Updates 11 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TW8O6y27C_Q",
-            "name": "Live 🔴 Pakistan's Big Success: Islamabad Hosts Historic US-Iran Peace Talks | Updates | Dunya News",
-            "artist": "Dunya News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MWdQf3VovO8",
-            "name": "🔴 Live: Latest 𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #pakistannews",
-            "artist": "MZS TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t77jpoukjVE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bBXpDYLm9UM",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yrTOvxVxU3M",
-            "name": "Iran US Peace Talk LIVE: ईरान के साथ मीटिंग में अमेरिका की बुरी बेइज्जती? | Israel Attack | Lebanon",
-            "artist": "ABP NEWS"
+            "videoId": "eW3koz3FC8Y",
+            "name": "🔴LIVE:  போரில் தலைகீழ் திருப்பம்.. அமெரிக்காவின் ட்ரோன் திடீர் மாயம்.! உச்சக்கட்ட பதற்றம்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
