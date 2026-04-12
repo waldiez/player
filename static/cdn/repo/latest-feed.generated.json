@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T11:28:21.187Z",
+    "generatedAt": "2026-04-12T12:42:37.618Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3aKGF9_tmj8",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "videoId": "3yRHySMBnu4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q_EujyBQOsg",
+            "name": "LIVE: Trump Delivers Emergency White House Address – 'We're Going To Finish The Job,' US On Edge",
             "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YQM6XMISEak",
-            "name": "Asha Bhosle Demise Update LIVE: मशहूर गायिक आशा भोसले का निधन | Breach Candy Hospital",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xIY2xgPRs4o",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.04.2026) | 2 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OTu_ZkjTW9U",
-            "name": "Netanyahu Arrest Warrant LIVE: नेतन्याहू के खिलाफ गिरफ्तारी वारंट! | Iran Israel US War Begins",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
