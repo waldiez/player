@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T04:41:56.175Z",
+    "generatedAt": "2026-04-12T06:20:11.787Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3VuhaOz-S7U",
-            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "sn1enGbOeRE",
+            "name": "Live | Islamabad Talks -Iran US Deal?  | Islamabad Hosts Historic US–Iran Peace Talks",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "myqqamShkh4",
-            "name": "🔴LIVE: Islamabad Talks | US Iran Peace Negotiations in Pakistan | Latest Update #islamabadtalks",
-            "artist": "SAMAA TV"
+            "videoId": "IuEAX5b9tT8",
+            "name": "Iran War - LIVE Breaking News Coverage & Peace Talks Updates",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "o2UkcbYD4zk",
-            "name": "Live 🔴 Pakistan's Big Success: Islamabad Hosts Historic US-Iran Peace Talks | Latest Updates",
-            "artist": "Dunya News"
+            "videoId": "dBKE8OgUkAM",
+            "name": "US NEWS Live: Trump Orders Immediate National Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "QFvJ4w4v0DI",
-            "name": "US Iran War LIVE | War of Words Erupts During Islamabad Peace Talks Over Hormuz Toll | Trump | N18G",
-            "artist": "CNN-News18"
+            "videoId": "lR8Zc-K4wZQ",
+            "name": "Iran US Peace Talk LIVE: ईरान के साथ मीटिंग में अमेरिका की बुरी बेइज्जती? | Israel Attack | Lebanon",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xyeTiVxYuu4",
-            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "TgKKFJxvX2k",
+            "name": "US Iran Peace Talk Update LIVE: अमेरिका और ईरान के बीच फिर से युद्ध शुरू? | America | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0FMxxhGbwFQ",
-            "name": "LIVE: Pakistan Shuts Down Ahead of Mediation | US Iran War | Vantage on Firstpost  | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BY-WQxCwI08",
-            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1QgaDyRssC0",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kDekuZA8U-I",
-            "name": "US IRAN WAR LIVE: Iran FM Just Dropped The Bombshell – 'No Surrender, Every Attack Will Be Avenged'",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7sdNG3TosUI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 11, 2026",
-            "artist": "ABC News"
+            "videoId": "XZ9R9vU5uWw",
+            "name": "Pakistan News LIVE | JD Vance Latest News | US-Israel-Iran War LIVE Updates | Pakistan | Asim Munir",
+            "artist": "NDTV"
         }
     ],
     "sourceFilters": {
