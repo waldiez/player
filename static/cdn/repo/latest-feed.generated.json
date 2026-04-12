@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T19:34:03.311Z",
+    "generatedAt": "2026-04-12T20:27:15.681Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,26 +28,20 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dBtMneiFdUs",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.04.2026) | 11 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "qeofqinWJL0",
+            "name": "US Iran War LIVE | Trump Announces US Navy Blockade of Hormuz After Iran Talks Collapse | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "Ll8y61a-JfM",
-            "name": "🔴LIVE : Today Headlines - 12 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
+            "videoId": "Nmchk3nDGnY",
+            "name": "🔴 LIVE || No Deal Reached With Iran || US Vice President JD Vance Left Islamabad || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "L32pQltyse8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3GXb4hrQ2LU",
-            "name": "LIVE: Peace Talks Between US And Iran Collapse In Pakistan | Iran Cites US As 'Too Demanding' | N18G",
+            "videoId": "u6J35cz5csY",
+            "name": "LIVE: US-Iran Talks In Pak Ends In Pak | US Says Iran Doesn't Agree, Iran Calls US Too Demanding",
             "artist": "CNN-News18"
         }
     ],
