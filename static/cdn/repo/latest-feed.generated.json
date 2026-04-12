@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T22:25:50.146Z",
+    "generatedAt": "2026-04-12T23:27:06.094Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qeofqinWJL0",
-            "name": "US Iran War LIVE | Trump Announces US Navy Blockade of Hormuz After Iran Talks Collapse | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IWbfoUkK4Wo",
-            "name": "LIVE Hormuz Operation: US Navy Moves, Iran Showdown Begins | TRUMP IN WAR ROOM | Iran-US War | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nmchk3nDGnY",
-            "name": "🔴 LIVE || No Deal Reached With Iran || US Vice President JD Vance Left Islamabad || ARY News Live",
+            "videoId": "N427Kf4sdoc",
+            "name": "🔴 LIVE || Iran-US Talks End Without Deal | JD Vance Returns to US || ARY News Live",
             "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "J9Rchbc8YK8",
-            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
-            "artist": "MIRROR NOW"
+            "videoId": "dBtMneiFdUs",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.04.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "L32pQltyse8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
+            "videoId": "Ll8y61a-JfM",
+            "name": "🔴LIVE : Today Headlines - 12 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "u6J35cz5csY",
+            "name": "LIVE: US-Iran Talks In Pak Ends In Pak | US Says Iran Doesn't Agree, Iran Calls US Too Demanding",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
