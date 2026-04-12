@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T17:27:54.999Z",
+    "generatedAt": "2026-04-12T18:36:34.976Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vTRstsMXpV8",
-            "name": "🔴LIVE: Trump | Iran | உடைந்த ரகசியம்.. ட்ரம்பின் முகத்திரை கிழிந்தது",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "opOJ01mRzHY",
-            "name": "US-Iran Talks LIVE: मक्का-मदीना पर हमला करेगा ईरान?, पाकिस्तान का दावे ने उड़ाए होश! | JD Vance",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fESf5KkD6N4",
-            "name": "LIVE: ‘Bad News’ Says JD Vance as He Departs From Pakistan After Talks Fail | US Iran War | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q2R5JRKRHm0",
-            "name": "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AdFDTT6gKnk",
-            "name": "BREAKING LIVE: U.S. Warships Move Into Hormuz | Iran Standoff Intensifies | Iran-US | Trump News |US",
+            "videoId": "u6J35cz5csY",
+            "name": "LIVE: US-Iran Talks In Pak Ends In Pak | US Says Iran Doesn't Agree, Iran Calls US Too Demanding",
             "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5F_NNLDYa6k",
+            "name": "US-Iran Talks LIVE: रात होते ही ट्रंप का बड़ा ऐलान! | JD Vance | Trump | Islamabad | ABP News",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
