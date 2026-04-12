@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260412T103135.440Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260412T112821.222Z-l4t35t"
   type: "state"
-  created: "2026-04-12T10:31:35.440Z"
+  created: "2026-04-12T11:28:21.222Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260412T103135.440Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260412T112821.222Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "EXM5ZPmzWkU"
-        name: "LIVE | JD Vance Departs Pakistan With No Agreement, US-Iran Ceasefire To End? | Vantage this Week"
-        artist: "Firstpost"
+        videoId: "3aKGF9_tmj8"
+        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9i5ekRMwINg"
-        name: "US Iran Peace Talk LIVE: शाम होते ही अमेरिका को बड़ा झटका! | Trump | Islamabad | Breaking | Pakistan"
+        videoId: "YQM6XMISEak"
+        name: "Asha Bhosle Demise Update LIVE: मशहूर गायिक आशा भोसले का निधन | Breach Candy Hospital"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vSaLCEgayjM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "xIY2xgPRs4o"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.04.2026) | 2 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "igqLVcIORzg"
-        name: "Iran Israel Us War Update Live : 12 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
-        artist: "Times Now Navbharat"
+        videoId: "OTu_ZkjTW9U"
+        name: "Netanyahu Arrest Warrant LIVE: नेतन्याहू के खिलाफ गिरफ्तारी वारंट! | Iran Israel US War Begins"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-12T10:31:35.440Z"
+  exported_at: "2026-04-12T11:28:21.222Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-12T10:31:35.406Z"
+  source_generated_at: "2026-04-12T11:28:21.187Z"
   validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"

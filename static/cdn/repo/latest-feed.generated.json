@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T10:31:35.406Z",
+    "generatedAt": "2026-04-12T11:28:21.187Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EXM5ZPmzWkU",
-            "name": "LIVE | JD Vance Departs Pakistan With No Agreement, US-Iran Ceasefire To End? | Vantage this Week",
-            "artist": "Firstpost"
+            "videoId": "3aKGF9_tmj8",
+            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "9i5ekRMwINg",
-            "name": "US Iran Peace Talk LIVE: शाम होते ही अमेरिका को बड़ा झटका! | Trump | Islamabad | Breaking | Pakistan",
+            "videoId": "YQM6XMISEak",
+            "name": "Asha Bhosle Demise Update LIVE: मशहूर गायिक आशा भोसले का निधन | Breach Candy Hospital",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vSaLCEgayjM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "xIY2xgPRs4o",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.04.2026) | 2 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "igqLVcIORzg",
-            "name": "Iran Israel Us War Update Live : 12 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "OTu_ZkjTW9U",
+            "name": "Netanyahu Arrest Warrant LIVE: नेतन्याहू के खिलाफ गिरफ्तारी वारंट! | Iran Israel US War Begins",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
