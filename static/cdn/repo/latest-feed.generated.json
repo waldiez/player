@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T15:29:35.879Z",
+    "generatedAt": "2026-04-12T16:29:02.701Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9i5ekRMwINg",
-            "name": "US Iran Peace Talk LIVE: शाम होते ही अमेरिका को बड़ा झटका! | Trump | Islamabad | Breaking | Pakistan",
+            "videoId": "cEdjjR2EmYA",
+            "name": "LIVE | Trump Hints Biggest Ever Strike On Iran After Islamabad Talks Failure | Hormuz War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WNhyNwNa7_4",
+            "name": "US NEWS Live: Trump Orders Immediate National Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RMRwRrNx-VA",
+            "name": "Sandeep Chaudhary LIVE: बातचीत फेल...फिर शुरू तेल का खेल? |US Iran Peace Talks | Pakistan | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "NfbzgveWwPI",
-            "name": "America-Iran Peace Talk LIVE: अमेरिका-चीन की जंग हो गई शुरू! | China US Clash | World War",
-            "artist": "ABP NEWS"
+            "videoId": "NUsSlRoAWSo",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 12.04.2026 | Latest News | Iran-usa update | Breaking News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "rC1PP4eo-uM",
-            "name": "Asha Bhosle Death News Live: आशा भोसले ने ली अंतिम सांस...शोक की लहर | Breaking | India News",
-            "artist": "India News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Gb-EANEJ2fE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q76EQEGY-Os",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3wUHKsICNog",
-            "name": "Asha Bhosle Death News LIVE: आशा भोसले के निधन पर डॉक्टर का होश उड़ाने वाले खुलासे, हिला देश!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F13XXH4FdKI",
-            "name": "US-Iran Talks LIVE: ईरान-अमेरिका बैठक में हो गई हाथापाई!, तुरंत छोड़ भागे पाकिस्तान!| JD Vance |",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ullCEvH1PdA",
-            "name": "🔴LIVE :iran | mojtabakhamenei | trump | america | அமெரிக்கா, ஈரான் எடுத்த திடீர் முடிவு",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M-PxgDoNRTA",
-            "name": "Sandeep Chaudhary LIVE: पहुंच रहे अमेरिकी हथियार...ईरान पर 'अंतिम' प्रहार? | US Iran Peace Talks",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eCUbJ5aCR1Y",
-            "name": "Asha Bhosle Death Live: नहीं रही मशहूर गायिका आशा भोसले | Breaking News | LIVE News",
-            "artist": "NDTV India"
+            "videoId": "DA2fmX9HnGg",
+            "name": "LIVE: Trump Downplays Islamabad Negotiations, Says US Wins With or Without Iran Deal | JD Vance",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
