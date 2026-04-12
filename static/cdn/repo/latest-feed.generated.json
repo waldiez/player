@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T09:38:52.100Z",
+    "generatedAt": "2026-04-12T10:31:35.406Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Hbt66WAyYF8",
+            "videoId": "EXM5ZPmzWkU",
+            "name": "LIVE | JD Vance Departs Pakistan With No Agreement, US-Iran Ceasefire To End? | Vantage this Week",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9i5ekRMwINg",
             "name": "US Iran Peace Talk LIVE: शाम होते ही अमेरिका को बड़ा झटका! | Trump | Islamabad | Breaking | Pakistan",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "eCUbJ5aCR1Y",
-            "name": "Asha Bhosle Death Live: नहीं रही मशहूर गायिका आशा भोसले | Breaking News | LIVE News",
-            "artist": "NDTV India"
+            "videoId": "vSaLCEgayjM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "7J99Zxe9iWY",
-            "name": "Iran America War LIVE Updates 12 April 2026 | ईरान अमेरिका युद्ध के ताजा हालात | Trump vs Iran",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i7U3bhousIs",
-            "name": "Asha Bhosle Health Update LIVE: 92 साल की उम्र में ली अंतिम सांस | Asha Bhosle Passes Away |Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7AlukK5reao",
-            "name": "Breaking News LIVE: US Hits Iran In Biggest Strike As Tensions Explode Fast | US Strike On Iran",
-            "artist": "MIRROR NOW"
+            "videoId": "igqLVcIORzg",
+            "name": "Iran Israel Us War Update Live : 12 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
