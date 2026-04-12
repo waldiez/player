@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T21:26:39.149Z",
+    "generatedAt": "2026-04-12T22:25:50.146Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "N427Kf4sdoc",
-            "name": "🔴 LIVE || Iran-US Talks End Without Deal | JD Vance Returns to US || ARY News Live",
+            "videoId": "qeofqinWJL0",
+            "name": "US Iran War LIVE | Trump Announces US Navy Blockade of Hormuz After Iran Talks Collapse | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IWbfoUkK4Wo",
+            "name": "LIVE Hormuz Operation: US Navy Moves, Iran Showdown Begins | TRUMP IN WAR ROOM | Iran-US War | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Nmchk3nDGnY",
+            "name": "🔴 LIVE || No Deal Reached With Iran || US Vice President JD Vance Left Islamabad || ARY News Live",
             "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "dBtMneiFdUs",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.04.2026) | 11 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "J9Rchbc8YK8",
+            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "Ll8y61a-JfM",
-            "name": "🔴LIVE : Today Headlines - 12 Apr 2026 | 11 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jeDo_KqHeIk",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "L32pQltyse8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Voice News"
         }
     ],
     "sourceFilters": {
