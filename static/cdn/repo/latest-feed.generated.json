@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T01:51:39.529Z",
+    "generatedAt": "2026-04-12T04:41:56.175Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "d5GP-KHM5rQ",
-            "name": "Sandeep Chaudhary LIVE: इस्लामाबाद में समाधान या फिर छिड़ेगा घमासान?|US Iran Peace Talks In Pakistan",
-            "artist": "ABP NEWS"
+            "videoId": "3VuhaOz-S7U",
+            "name": "🔴 LIVE || Islamabad Talks: Pakistan in Spotlight || Iran-US Ceasefire Updates || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "m3fBi_MqjLk",
-            "name": "JD VANCE IN PAKISTAN LIVE | Peace Talks Near Collapse, SHOCKING DETAILS OUT! | US-IRAN WAR | N18G",
-            "artist": "CNN-News18"
+            "videoId": "myqqamShkh4",
+            "name": "🔴LIVE: Islamabad Talks | US Iran Peace Negotiations in Pakistan | Latest Update #islamabadtalks",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "diBlGiD4kIY",
-            "name": "IRAN WAR NEWS LIVE | Final Warning: Iran Says No Compromise On Key Terms | Ceasefire Collapse?",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "juSWbxnumFI",
-            "name": "ईरान-अमेरिका जंग, 12 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4NsU8telqYI",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 12 April",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z3h3XZMDqnU",
-            "name": "🔴LIVE: Islamabad Talks | Iran US Ceasefire Update | New Latest News from Islamabad | Pakistan News",
-            "artist": "Express News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SLZ90UkbImY",
-            "name": "🔴LIVE: Islamabad Talks | Iran US Ceasefire Update | Latest & LIVE Coverage From ISB | Dunya News",
+            "videoId": "o2UkcbYD4zk",
+            "name": "Live 🔴 Pakistan's Big Success: Islamabad Hosts Historic US-Iran Peace Talks | Latest Updates",
             "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "KTuyFMItxno",
-            "name": "US IRAN CEASEFIRE TALKS In Pakistan LIVE | Direct Meeting or One-Day Indirect Dialogue? | JD VANCE",
+            "videoId": "QFvJ4w4v0DI",
+            "name": "US Iran War LIVE | War of Words Erupts During Islamabad Peace Talks Over Hormuz Toll | Trump | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "7A2cpsNgttQ",
-            "name": "Epstein Files: Shocking New Secrets Finally Revealed! | Breaking News Live | World News Updates",
-            "artist": "Global Pulse Network"
+            "videoId": "xyeTiVxYuu4",
+            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0FMxxhGbwFQ",
+            "name": "LIVE: Pakistan Shuts Down Ahead of Mediation | US Iran War | Vantage on Firstpost  | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BY-WQxCwI08",
+            "name": "US vs Iran War Live Updates : ईरान से आई बहुत बड़ी खबर ! | Iran Israel War | War Breaking | Trump",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1QgaDyRssC0",
+            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kDekuZA8U-I",
+            "name": "US IRAN WAR LIVE: Iran FM Just Dropped The Bombshell – 'No Surrender, Every Attack Will Be Avenged'",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7sdNG3TosUI",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 11, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
