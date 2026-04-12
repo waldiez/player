@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T13:55:34.511Z",
+    "generatedAt": "2026-04-12T14:36:02.967Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3wUHKsICNog",
-            "name": "Asha Bhosle Death News LIVE: आशा भोसले के निधन पर डॉक्टर का होश उड़ाने वाले खुलासे, हिला देश!",
+            "videoId": "cHXM1O4NU58",
+            "name": "ABP Report LIVE: काल बनकर दौड़ी कार! | Mandla | MP News | Viral Video | ABP News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ullCEvH1PdA",
-            "name": "🔴LIVE :iran | mojtabakhamenei | trump | america | அமெரிக்கா, ஈரான் எடுத்த திடீர் முடிவு",
-            "artist": "Thanthi TV"
+            "videoId": "kR0PA_GCE2c",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 12.04.2026 | Latest News | Iran-usa update | Breaking News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "eCUbJ5aCR1Y",
-            "name": "Asha Bhosle Death Live: नहीं रही मशहूर गायिका आशा भोसले | Breaking News | LIVE News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LaiiYNDWKQ8",
-            "name": "Asha Bhosle Death News LIVE: निधन से पहले का आशा भोसले का वीडियो वायरल! | Big Breaking | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "p3-WZTam3OM",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "a-tSCd0RP9Q",
-            "name": "US Iran Peace Talk LIVE: वार्ता फेल होते ही ईरान ने उड़ा दिया पहला जहाज! | Islamabad | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "56hVSjpi3DQ",
-            "name": "US Iran Peace Talk LIVE: बिगड़ गई बात, फिर अटैक शुरू!, आखिरकार कूदा चीन! | Islamabad | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "pr0KlHENIVQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NewsScope BD"
         }
     ],
     "sourceFilters": {
