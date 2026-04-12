@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T07:58:55.891Z",
+    "generatedAt": "2026-04-12T08:53:34.269Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "fDwC-Xi33OY",
-            "name": "Iran-US Ceasefire Update LIVE: शांति वार्ता फेल होने पर चीन की हो गई एंट्री... | Israel Lebanon War",
+            "videoId": "Rw4JKl5oBlE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Scale News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "igqLVcIORzg",
+            "name": "Iran Israel Us War Update Live : 12 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t31eBDYpAaE",
+            "name": "US Iran War | JD Vance LIVE | US Iran Talks Fail | Islamabad Peace Talks | US Iran War",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YQM6XMISEak",
+            "name": "Asha Bhosle Demise Update LIVE: मशहूर गायिक आशा भोसले का निधन | Breach Candy Hospital",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_LXq5RjCgL4",
-            "name": "LIVE: US-Iran Cease Fire Talks Fail Over Matters Concerning Strait Of Hormuz And Uranium | N18G",
-            "artist": "CNN-News18"
+            "videoId": "LVrLnhFv0Iw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         },
         {
             "mood": "storm",
-            "videoId": "redhf6xy-F4",
-            "name": "Karoline Leavitt LIVE: Is This The End? Karoline Addresses Ceasefire | Trump | US-Iran War | LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u1cBB6UMXlo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
+            "videoId": "aUjVht8w4Y4",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 12.04.2026 | Latest News | Iran Update | Iran-usa meeting",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

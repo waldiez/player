@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260412T075855.925Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260412T085334.308Z-l4t35t"
   type: "state"
-  created: "2026-04-12T07:58:55.925Z"
+  created: "2026-04-12T08:53:34.308Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260412T075855.925Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260412T085334.308Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fDwC-Xi33OY"
-        name: "Iran-US Ceasefire Update LIVE: शांति वार्ता फेल होने पर चीन की हो गई एंट्री... | Israel Lebanon War"
+        videoId: "Rw4JKl5oBlE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Scale News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "igqLVcIORzg"
+        name: "Iran Israel Us War Update Live : 12 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t31eBDYpAaE"
+        name: "US Iran War | JD Vance LIVE | US Iran Talks Fail | Islamabad Peace Talks | US Iran War"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YQM6XMISEak"
+        name: "Asha Bhosle Demise Update LIVE: मशहूर गायिक आशा भोसले का निधन | Breach Candy Hospital"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_LXq5RjCgL4"
-        name: "LIVE: US-Iran Cease Fire Talks Fail Over Matters Concerning Strait Of Hormuz And Uranium | N18G"
-        artist: "CNN-News18"
+        videoId: "LVrLnhFv0Iw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "redhf6xy-F4"
-        name: "Karoline Leavitt LIVE: Is This The End? Karoline Addresses Ceasefire | Trump | US-Iran War | LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u1cBB6UMXlo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "aUjVht8w4Y4"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 12.04.2026 | Latest News | Iran Update | Iran-usa meeting"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-12T07:58:55.925Z"
+  exported_at: "2026-04-12T08:53:34.308Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-12T07:58:55.891Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-12T08:53:34.269Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
