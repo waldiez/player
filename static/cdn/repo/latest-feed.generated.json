@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-12T14:36:02.967Z",
+    "generatedAt": "2026-04-12T15:29:35.879Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cHXM1O4NU58",
-            "name": "ABP Report LIVE: काल बनकर दौड़ी कार! | Mandla | MP News | Viral Video | ABP News",
+            "videoId": "9i5ekRMwINg",
+            "name": "US Iran Peace Talk LIVE: शाम होते ही अमेरिका को बड़ा झटका! | Trump | Islamabad | Breaking | Pakistan",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "kR0PA_GCE2c",
-            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 12.04.2026 | Latest News | Iran-usa update | Breaking News",
-            "artist": "ATN Bangla News"
+            "videoId": "NfbzgveWwPI",
+            "name": "America-Iran Peace Talk LIVE: अमेरिका-चीन की जंग हो गई शुरू! | China US Clash | World War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "pr0KlHENIVQ",
+            "videoId": "rC1PP4eo-uM",
+            "name": "Asha Bhosle Death News Live: आशा भोसले ने ली अंतिम सांस...शोक की लहर | Breaking | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Gb-EANEJ2fE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q76EQEGY-Os",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NewsScope BD"
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3wUHKsICNog",
+            "name": "Asha Bhosle Death News LIVE: आशा भोसले के निधन पर डॉक्टर का होश उड़ाने वाले खुलासे, हिला देश!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F13XXH4FdKI",
+            "name": "US-Iran Talks LIVE: ईरान-अमेरिका बैठक में हो गई हाथापाई!, तुरंत छोड़ भागे पाकिस्तान!| JD Vance |",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ullCEvH1PdA",
+            "name": "🔴LIVE :iran | mojtabakhamenei | trump | america | அமெரிக்கா, ஈரான் எடுத்த திடீர் முடிவு",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M-PxgDoNRTA",
+            "name": "Sandeep Chaudhary LIVE: पहुंच रहे अमेरिकी हथियार...ईरान पर 'अंतिम' प्रहार? | US Iran Peace Talks",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eCUbJ5aCR1Y",
+            "name": "Asha Bhosle Death Live: नहीं रही मशहूर गायिका आशा भोसले | Breaking News | LIVE News",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
