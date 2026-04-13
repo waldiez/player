@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T09:29:20.848Z",
+    "generatedAt": "2026-04-13T11:11:12.567Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9tHLHSXZuB0",
-            "name": "LIVE | US Bombs Iran’s Energy Infrastructure After Trump ‘Cancelled’ Attack | Strait Of Hormuz",
-            "artist": "ET Now World"
+            "videoId": "sd68rvMiCbU",
+            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | World News",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "zDMPf0Z5tcE",
-            "name": "🔴 LIVE: Turkey vs Israel | President Recep Tayyip Erdoğan Issues Strong Warning | ARY News",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lfr8la1xGYQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XBlsuYR79Pw",
-            "name": "Noida Workers Protest LIVE: पुलिस वैन..आगजनी, नोएडा में सैलरी पर बवाल | Stone Pelting | Salary Hike",
+            "videoId": "0rPsIW-j4Cs",
+            "name": "Asha Bhosle Last Rites from Mumbai LIVE: अनंत यात्रा पर आशा ताई | Bollywood |  ABP News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "9X0r-ApVON4",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 13.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "hvKtsPxqIi4",
+            "name": "America-China War News LIVE: चीन-अमेरिका की जंग शुरू! | World War 3 | Iran US Ceasefire | Peace Talk",
+            "artist": "Republic Bharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q97hVek1wyc",
+            "name": "Iran US Peace Talks Fail News LIVE: ईरान का बड़ा एक्शन, अमेरिका का जहाज जब्त?, हिले ट्रंप!| Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i_7YtVSuhbg",
+            "name": "Iran US Israel War Latest Update LIVE: होर्मुज में फिर शुरू ईरान-US में जंग? | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "twappUWYdHU",
+            "name": "Iran War News LIVE: Trump Orders Naval Blockade on Iranian Ports, Gulf Areas as Peace Talks Collapse",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WADki_y6ojU",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (13.04.2026) | 2 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8AHP-6wzObA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XagSn9aOGjg",
+            "name": "Asha Bhosle का अंतिम संस्कार LIVE : Asha Bhosle Last Rites | Mumbai | Bollywood | Hindi News | NDTV",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
