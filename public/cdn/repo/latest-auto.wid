@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260413T130620.615Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260413T150941.349Z-l4t35t"
   type: "state"
-  created: "2026-04-13T13:06:20.615Z"
+  created: "2026-04-13T15:09:41.349Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T130620.615Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T150941.349Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fj2gBu0nKIo"
-        name: "Trump Big Statement on Hormuz LIVE: कब्जा करने के लिए बढ़े ट्रंप के जहाज! होर्मुज से सीधे LIVE|"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gB2aKxS_FjA"
-        name: "US Iran Peace Talk Fail News LIVE: ईरान-अमेरिका में नहीं हुआ समझौता, कुछबड़ा होने वाला है!| Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tj6migwerjc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "U486NliBI10"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_bkvhhXxEx8"
-        name: "🔴 LIVE || Islamabad Talks: Iran-US Ceasefire | IRGC Big Action On Trump's Statement || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Le3acUCWECU"
-        name: "Asha Bhosle Last Rites from Mumbai LIVE: जहां आशा भोसले का अंतिम संस्कार वहां से सीधे LIVE"
+        videoId: "XBlsuYR79Pw"
+        name: "Noida Workers Protest LIVE: पुलिस वैन..आगजनी, नोएडा में सैलरी पर बवाल | Stone Pelting | Salary Hike"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i9etn8ON9gU"
-        name: "🔴LIVE: America Vs Iran | பேச்சுவார்த்தை தோல்வி.. Trump Warning! - வச்சு செய்யப்போகும் Iran! | N18G"
-        artist: "News18 Tamil Nadu"
+        videoId: "CdeYMTmswbo"
+        name: "Israel Strikes Lebanon LIVE: Netanyahu Destroys Lebanon, Massive Explosions Kill Over 200 People"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DfqnzIGRUMw"
-        name: "ईरान-अमेरिका जंगफिर से शुरू! ताजा हालात LIVE | Iran America War LIVE | Iran America Peace Talks Fail"
-        artist: "NDTV India"
+        videoId: "q97hVek1wyc"
+        name: "Iran US Peace Talks Fail News LIVE: ईरान का बड़ा एक्शन, अमेरिका का जहाज जब्त?, हिले ट्रंप!| Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Bsnowhph_PQ"
+        name: "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा शुरू!, ट्रंप के सैनिकों ने घेरा!, सीधे LIVE"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6lLxsCYd_BE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7g-6m9BMIeo"
+        name: "Sandeep Chaudhary LIVE:तेरा नाका, मेरा नाका...तेल पर डाका? | Trump on Hormuz | Iran | ABP News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TV8uuro-TOA"
+        name: "ABP Report LIVE: सैलरी के लिए संग्राम, हंगामा-त्राहिमाम!| Noida Workers Protest | Breaking | CM Yogi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Rdrwfq-37SU"
+        name: "LIVE: Iran Warns ‘We Will Hit Gulf Ports’ as Tensions Surge After Failed US Talks | World News |N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Kz_8vEnKJaQ"
+        name: "Sandeep Chaudhary LIVE: गैस, तनख्वाह, महंगाई...मजदूरों को सड़क पर लाई? | Trump on Hormuz | Iran"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NJvux8Pah1A"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Voice News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2si6PhdUHpY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-13T13:06:20.615Z"
+  exported_at: "2026-04-13T15:09:41.349Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-13T13:06:20.585Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-13T15:09:41.313Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
