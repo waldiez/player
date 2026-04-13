@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T07:11:10.033Z",
+    "generatedAt": "2026-04-13T09:29:20.848Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,20 +28,32 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Cv3lSXnvKb8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD Ajker Time"
+            "videoId": "9tHLHSXZuB0",
+            "name": "LIVE | US Bombs Iran’s Energy Infrastructure After Trump ‘Cancelled’ Attack | Strait Of Hormuz",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "1y3EEHsYODs",
-            "name": "LIVE | US-Iran Talks Fail: Trump Orders Hormuz Naval Blockade, Warns Tehran Against Retaliation",
-            "artist": "Firstpost"
+            "videoId": "zDMPf0Z5tcE",
+            "name": "🔴 LIVE: Turkey vs Israel | President Recep Tayyip Erdoğan Issues Strong Warning | ARY News",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "F2_FgZGbjNk",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 13.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
+            "videoId": "lfr8la1xGYQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XBlsuYR79Pw",
+            "name": "Noida Workers Protest LIVE: पुलिस वैन..आगजनी, नोएडा में सैलरी पर बवाल | Stone Pelting | Salary Hike",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9X0r-ApVON4",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 13.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
         }
     ],
