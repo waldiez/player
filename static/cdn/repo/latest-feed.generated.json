@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T15:09:41.313Z",
+    "generatedAt": "2026-04-13T16:56:01.144Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "U486NliBI10",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "XBlsuYR79Pw",
-            "name": "Noida Workers Protest LIVE: पुलिस वैन..आगजनी, नोएडा में सैलरी पर बवाल | Stone Pelting | Salary Hike",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CdeYMTmswbo",
-            "name": "Israel Strikes Lebanon LIVE: Netanyahu Destroys Lebanon, Massive Explosions Kill Over 200 People",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "q97hVek1wyc",
-            "name": "Iran US Peace Talks Fail News LIVE: ईरान का बड़ा एक्शन, अमेरिका का जहाज जब्त?, हिले ट्रंप!| Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Bsnowhph_PQ",
-            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा शुरू!, ट्रंप के सैनिकों ने घेरा!, सीधे LIVE",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6lLxsCYd_BE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7g-6m9BMIeo",
-            "name": "Sandeep Chaudhary LIVE:तेरा नाका, मेरा नाका...तेल पर डाका? | Trump on Hormuz | Iran | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TV8uuro-TOA",
-            "name": "ABP Report LIVE: सैलरी के लिए संग्राम, हंगामा-त्राहिमाम!| Noida Workers Protest | Breaking | CM Yogi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Rdrwfq-37SU",
-            "name": "LIVE: Iran Warns ‘We Will Hit Gulf Ports’ as Tensions Surge After Failed US Talks | World News |N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kz_8vEnKJaQ",
-            "name": "Sandeep Chaudhary LIVE: गैस, तनख्वाह, महंगाई...मजदूरों को सड़क पर लाई? | Trump on Hormuz | Iran",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NJvux8Pah1A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2si6PhdUHpY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "y5ccIi-KnNQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MFpsU-ipyKc",
+            "name": "Debate With Arnab LIVE: Can Trump Take On The World By Blockading Hormuz? | Iran War",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BGaxNWvTJ-0",
+            "name": "Iran War News LIVE: US Blockades Iran's Hormuz After Trump Deadline Runs Out | What Next For Iran?",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KDlPi3VnQIU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14  April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ra9fhjL9rQY",
+            "name": "Iran Israel US War LIVE Updates: ईरान पर फिर बमबारी? | Iran US Peace Talks Fail | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TSQm6FdGcNo",
+            "name": "Iran US Peace Talks Fail News LIVE: लो हो गया होर्मुज पर कब्जा?, दुनिया में हड़कंप!| Breaking | LIVE",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3fkjtn0MVkE",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 13.04.2026 | BD News | Ajker News | Bangla News | Latest News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ltlJWRoq3sM",
+            "name": "Strait Of Hormuz War Live | US Navy Begin Blockade Of All Iran Ports In Hormuz, Iran Warns Trump",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
