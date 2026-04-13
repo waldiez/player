@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T01:56:29.794Z",
+    "generatedAt": "2026-04-13T04:55:27.367Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lsWHp1gem34",
-            "name": "US IRAN WAR Live: Leavitt Just Dropped The Bombshell – Iran Walked Away, Now The Next Phase Begins",
-            "artist": "MIRROR NOW"
+            "videoId": "s2OBgQbjMFw",
+            "name": "Iran US Israel War News: अमेरिका को बड़ा झटका! | US Iran Peace Talk Fail | Trump | Big Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "KChDfk7Bgsg",
-            "name": "US Iran War LIVE: Trump Claims Iran War Victory | Vance Leaves Pak After 'No Agreement' With Iran",
-            "artist": "Firstpost"
+            "videoId": "5F_NNLDYa6k",
+            "name": "US-Iran Talks: रात होते ही ट्रंप का बड़ा ऐलान! | JD Vance | Trump | Islamabad | ABP News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qeofqinWJL0",
-            "name": "US Iran War LIVE | Trump Announces US Navy Blockade of Hormuz After Iran Talks Collapse | N18G",
-            "artist": "CNN-News18"
+            "videoId": "QlctHCXfv3A",
+            "name": "Iran Vs America War: पलट गए ट्रंप, Strait of Hormuz में फिर उतारी सेना! | Israel | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IWbfoUkK4Wo",
-            "name": "LIVE Hormuz Operation: US Navy Moves, Iran Showdown Begins | TRUMP IN WAR ROOM | Iran-US War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "M-PxgDoNRTA",
+            "name": "Sandeep Chaudhary: पहुंच रहे अमेरिकी हथियार...ईरान पर 'अंतिम' प्रहार? | US Iran Peace Talks",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Nmchk3nDGnY",
-            "name": "🔴 LIVE || No Deal Reached With Iran || US Vice President JD Vance Left Islamabad || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x8IQq5jdFMA",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "9BU_-7WMAQ8",
+            "name": "US-Iran Talks: ट्रंप की चीन को धमकी!, छोड़ी पहली मिसाइल! | JD Vance | China | XI Jinping",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
