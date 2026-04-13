@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260413T204428.134Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260413T214040.045Z-l4t35t"
   type: "state"
-  created: "2026-04-13T20:44:28.134Z"
+  created: "2026-04-13T21:40:40.045Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T204428.134Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T214040.045Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hybojiRMmWQ"
-        name: "🔴LIVE : TVK | கிடைத்தது கிரீன் சிக்னல்.. விஜய் நாளை இறங்கும் மாவட்டம்"
-        artist: "Thanthi TV"
+        videoId: "6Ythc9YAXYg"
+        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EHnwflqVbPE"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.04.2026) | 11 PM Headlines |Thanthi TV"
-        artist: "Thanthi TV"
+        videoId: "X6TEFHxSQKY"
+        name: "Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jFqNmJx6jNU"
-        name: "🔴 LIVE: Ceasefire at Risk! Iran Warns U.S. After Trump’s Hormuz Blockade Decision | War Fears Rise"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wlWzyOyeKJI"
-        name: "LIVE | US Vs Iran Showdown In Hormuz: US Warships Enter as High-Stakes Operation Begins - REOPEN"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BFW6X5MdCAk"
-        name: "Iran War LIVE:Iran expels US warship from Hormuz after Trump's threat, prompting Trump to back down"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Jn3knoWZabQ"
-        name: "LIVE | Drones & Missiles Rain On Israel | Iran’s Coordinated Attack? | Israel-Iran | War | Trump"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5JRnjO3_fXQ"
-        name: "'Iran Ships Will Be Eliminated': Trump Threatens as Hormuz Blockade Escalates | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2Cu8ScCbmXs"
-        name: "🔴LIVE: Trump | Iran | 'மீண்டும் போர்..?' - உலகிற்கே வந்த எச்சரிக்கை"
+        videoId: "6K2u-uL3PEU"
+        name: "🔴LIVE: “இது கடைசி எச்சரிக்கை!” – விஜய்க்கு சங்கீதா சாட்டையடி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Bsnowhph_PQ"
-        name: "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा शुरू!, ट्रंप के सैनिकों ने घेरा!, सीधे LIVE"
-        artist: "ABP NEWS"
+        videoId: "K4d-hKNo8to"
+        name: "News Ki Pathshala Live | Iran America War | Trump की ईरान को बड़ी धमकी ! |Iran US Peace Talks Failed"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-13T20:44:28.134Z"
+  exported_at: "2026-04-13T21:40:40.045Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-13T20:44:28.100Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-13T21:40:40.013Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
