@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T21:40:40.013Z",
+    "generatedAt": "2026-04-13T22:37:00.739Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6Ythc9YAXYg",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
+            "videoId": "JkvQH_Mm8Z0",
+            "name": "LIVE | Iran Ships Monitored By US Radar | Strait of Hormuz Blockade in Effect | Regime Change Next?",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "X6TEFHxSQKY",
-            "name": "Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "hybojiRMmWQ",
+            "name": "🔴LIVE : TVK | கிடைத்தது கிரீன் சிக்னல்.. விஜய் நாளை இறங்கும் மாவட்டம்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "6K2u-uL3PEU",
-            "name": "🔴LIVE: “இது கடைசி எச்சரிக்கை!” – விஜய்க்கு சங்கீதா சாட்டையடி",
+            "videoId": "EHnwflqVbPE",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.04.2026) | 11 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I6Tv4qdxY9c",
+            "name": "Strait of Hormuz On Edge Live: Inside Trump's High-Stakes Naval Blockade | Iran War Live | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wlWzyOyeKJI",
+            "name": "LIVE | US Vs Iran Showdown In Hormuz: US Warships Enter as High-Stakes Operation Begins - REOPEN",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BFW6X5MdCAk",
+            "name": "Iran War LIVE:Iran expels US warship from Hormuz after Trump's threat, prompting Trump to back down",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Jn3knoWZabQ",
+            "name": "LIVE | Drones & Missiles Rain On Israel | Iran’s Coordinated Attack? | Israel-Iran | War | Trump",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5JRnjO3_fXQ",
+            "name": "'Iran Ships Will Be Eliminated': Trump Threatens as Hormuz Blockade Escalates | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2Cu8ScCbmXs",
+            "name": "🔴LIVE: Trump | Iran | 'மீண்டும் போர்..?' - உலகிற்கே வந்த எச்சரிக்கை",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "K4d-hKNo8to",
-            "name": "News Ki Pathshala Live | Iran America War | Trump की ईरान को बड़ी धमकी ! |Iran US Peace Talks Failed",
-            "artist": "Times Now Navbharat"
+            "videoId": "Bsnowhph_PQ",
+            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा शुरू!, ट्रंप के सैनिकों ने घेरा!, सीधे LIVE",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
