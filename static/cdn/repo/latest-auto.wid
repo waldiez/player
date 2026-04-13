@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260413T045527.401Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260413T071110.067Z-l4t35t"
   type: "state"
-  created: "2026-04-13T04:55:27.401Z"
+  created: "2026-04-13T07:11:10.067Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T045527.401Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T071110.067Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "s2OBgQbjMFw"
-        name: "Iran US Israel War News: अमेरिका को बड़ा झटका! | US Iran Peace Talk Fail | Trump | Big Breaking"
-        artist: "ABP NEWS"
+        videoId: "Cv3lSXnvKb8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD Ajker Time"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5F_NNLDYa6k"
-        name: "US-Iran Talks: रात होते ही ट्रंप का बड़ा ऐलान! | JD Vance | Trump | Islamabad | ABP News"
-        artist: "ABP NEWS"
+        videoId: "1y3EEHsYODs"
+        name: "LIVE | US-Iran Talks Fail: Trump Orders Hormuz Naval Blockade, Warns Tehran Against Retaliation"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QlctHCXfv3A"
-        name: "Iran Vs America War: पलट गए ट्रंप, Strait of Hormuz में फिर उतारी सेना! | Israel | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M-PxgDoNRTA"
-        name: "Sandeep Chaudhary: पहुंच रहे अमेरिकी हथियार...ईरान पर 'अंतिम' प्रहार? | US Iran Peace Talks"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9BU_-7WMAQ8"
-        name: "US-Iran Talks: ट्रंप की चीन को धमकी!, छोड़ी पहली मिसाइल! | JD Vance | China | XI Jinping"
-        artist: "ABP NEWS"
+        videoId: "F2_FgZGbjNk"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 13.04.2026 | Latest News | Today News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-13T04:55:27.401Z"
+  exported_at: "2026-04-13T07:11:10.067Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-13T04:55:27.367Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-13T07:11:10.033Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"

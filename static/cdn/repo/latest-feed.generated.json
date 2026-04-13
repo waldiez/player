@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T04:55:27.367Z",
+    "generatedAt": "2026-04-13T07:11:10.033Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "s2OBgQbjMFw",
-            "name": "Iran US Israel War News: अमेरिका को बड़ा झटका! | US Iran Peace Talk Fail | Trump | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "Cv3lSXnvKb8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD Ajker Time"
         },
         {
             "mood": "storm",
-            "videoId": "5F_NNLDYa6k",
-            "name": "US-Iran Talks: रात होते ही ट्रंप का बड़ा ऐलान! | JD Vance | Trump | Islamabad | ABP News",
-            "artist": "ABP NEWS"
+            "videoId": "1y3EEHsYODs",
+            "name": "LIVE | US-Iran Talks Fail: Trump Orders Hormuz Naval Blockade, Warns Tehran Against Retaliation",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "QlctHCXfv3A",
-            "name": "Iran Vs America War: पलट गए ट्रंप, Strait of Hormuz में फिर उतारी सेना! | Israel | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M-PxgDoNRTA",
-            "name": "Sandeep Chaudhary: पहुंच रहे अमेरिकी हथियार...ईरान पर 'अंतिम' प्रहार? | US Iran Peace Talks",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9BU_-7WMAQ8",
-            "name": "US-Iran Talks: ट्रंप की चीन को धमकी!, छोड़ी पहली मिसाइल! | JD Vance | China | XI Jinping",
-            "artist": "ABP NEWS"
+            "videoId": "F2_FgZGbjNk",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 13.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
