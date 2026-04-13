@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260413T165601.177Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260413T175604.864Z-l4t35t"
   type: "state"
-  created: "2026-04-13T16:56:01.177Z"
+  created: "2026-04-13T17:56:04.864Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T165601.177Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T175604.864Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "y5ccIi-KnNQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "5JRnjO3_fXQ"
+        name: "'Iran Ships Will Be Eliminated': Trump Threatens as Hormuz Blockade Escalates | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MFpsU-ipyKc"
-        name: "Debate With Arnab LIVE: Can Trump Take On The World By Blockading Hormuz? | Iran War"
-        artist: "Republic World"
+        videoId: "2Cu8ScCbmXs"
+        name: "🔴LIVE: Trump | Iran | 'மீண்டும் போர்..?' - உலகிற்கே வந்த எச்சரிக்கை"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BGaxNWvTJ-0"
-        name: "Iran War News LIVE: US Blockades Iran's Hormuz After Trump Deadline Runs Out | What Next For Iran?"
-        artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KDlPi3VnQIU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14  April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ra9fhjL9rQY"
-        name: "Iran Israel US War LIVE Updates: ईरान पर फिर बमबारी? | Iran US Peace Talks Fail | Trump | Netanyahu"
+        videoId: "Bsnowhph_PQ"
+        name: "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा शुरू!, ट्रंप के सैनिकों ने घेरा!, सीधे LIVE"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TSQm6FdGcNo"
+        videoId: "6K2u-uL3PEU"
+        name: "🔴LIVE: “இது கடைசி எச்சரிக்கை!” – விஜய்க்கு சங்கீதா சாட்டையடி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0b6o3VGumaE"
+        name: "🔴LIVE: Trump | Iran | தீவிரமாகும் போர்! நேரம் ஆக ஆக..பதற்றமான உலகம்.."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bXP1xQoqIbE"
         name: "Iran US Peace Talks Fail News LIVE: लो हो गया होर्मुज पर कब्जा?, दुनिया में हड़कंप!| Breaking | LIVE"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3fkjtn0MVkE"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 13.04.2026 | BD News | Ajker News | Bangla News | Latest News"
-        artist: "ATN Bangla News"
+        videoId: "6wj1Haszw9Y"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 13 April 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ltlJWRoq3sM"
-        name: "Strait Of Hormuz War Live | US Navy Begin Blockade Of All Iran Ports In Hormuz, Iran Warns Trump"
-        artist: "CNN-News18"
+        videoId: "HwV56_AFX-4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global Politics News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-13T16:56:01.177Z"
+  exported_at: "2026-04-13T17:56:04.864Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-13T16:56:01.144Z"
+  source_generated_at: "2026-04-13T17:56:04.826Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
