@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T04:40:12.343Z",
+    "generatedAt": "2026-04-14T06:27:03.634Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3nUMsOyMVXo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zrRYaXLzId8",
-            "name": "ईरान-अमेरिका जंग फिर से शुरू! ताजा हालात LIVE | Iran America War | Iran America Peace Talks Fail",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fc-oXsAEbx0",
-            "name": "LIVE | US-Iran War Enters New Phase: US Moves to Control Hormuz as Iran Warns of Retaliation | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fj2gBu0nKIo",
-            "name": "Trump Big Statement on Hormuz LIVE: कब्जा करने के लिए बढ़े ट्रंप के जहाज! होर्मुज से सीधे LIVE|",
+            "videoId": "gZONpsRoq5E",
+            "name": "Bihar Next CM Final?, News LIVE: चिराग बनेंगे बिहार के सीएमय़, लिस्ट में आया नाम, चौंके लोग!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "kBW55DSiSj4",
-            "name": "LIVE: LAVROV'S FINAL WARNING, 'Ceasefire IMMEDIATE or Face WORLD WAR 3' – Humanity on BRINK?",
-            "artist": "Times Now World"
+            "videoId": "bwahMubws5o",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Voice News"
         },
         {
             "mood": "storm",
-            "videoId": "0QYebbBCRIE",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 13, 2026",
-            "artist": "ABC News"
+            "videoId": "9x_on7oRNiA",
+            "name": "Debate With Arnab LIVE: Pope Leo Hits Back As Trump Wants To Play Jesus | Iran War",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "WPaOcgC0JoU",
-            "name": "Halla Bol LIVE: ट्रंप का नया रण World War को आमंत्रण! | America | AajTak Hindi | Donald Trump",
-            "artist": "Aaj Tak"
+            "videoId": "bXP1xQoqIbE",
+            "name": "Iran US Peace Talks Fail News LIVE: लो हो गया होर्मुज पर कब्जा?, दुनिया में हड़कंप!| Breaking | LIVE",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "I689my8NWPg",
-            "name": "Iran War LIVE: Iran Considers FRESH STRIKES on Israel! Ceasefire Collapses as Hormuz Shuts Again",
-            "artist": "News18 Urdu"
+            "videoId": "hWfmaMTaGr4",
+            "name": "Iran Israel US War LIVE: 14 अप्रैल वाले दिन ईरान की बड़ी मांग ने हिला दी दुनिया! | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EORYncMoFA8",
+            "name": "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
