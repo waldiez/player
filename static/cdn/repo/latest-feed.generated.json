@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T10:08:46.994Z",
+    "generatedAt": "2026-04-14T11:53:08.609Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "htFymBG0dzo",
-            "name": "Bihar New CM News LIVE: नीतीश के बेटे निशांत नाराज?, CM पर BJP ने किया 'खेला'! | Bihar News",
+            "videoId": "0g8PIoc5_2I",
+            "name": "🔴LIVE: Today Headlines | மதியம் 3 மணி தலைப்புச் செய்திகள் (14.04.2026)| 3 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "R3ncM6f_WIw",
+            "name": "Nitish Kumar Resign: नीतीश कुमार का CM पद से इस्तीफा | Bihar New CM | Samrat Chaudhary",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "y5RhzcgBNfM",
-            "name": "Bihar Next CM Final?, News LIVE: सम्राट चौधरी बनेंगे नए सीएम, बिहार से सीधे LIVE | Breaking",
+            "videoId": "6MLjorHensk",
+            "name": "Breaking News LIVE: सम्राट चौधरी बने बिहार के नए CM | Samrat Chaudhary Bihar New CM | Bihar News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TFv8NrObuJs",
-            "name": "Bihar Next CM Final?, News LIVE:  नए सीएम के ऐलान से पहले बिहार में बड़ी हत्या! | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "SozZB4_Pt5E",
+            "name": "LIVE | Drones & Missiles Rain On Israel | Iran’s Coordinated Attack? | Israel-Iran | War | Trump",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "ltlJWRoq3sM",
-            "name": "Strait Of Hormuz War Live | US Navy Begin Blockade Of All Iran Ports In Hormuz, Iran Warns Trump",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0PSc0FBDrSM",
-            "name": "Bihar Next CM Final?, News LIVE: किसी ने सोचा नहीं था ये छोटा नेता बनेगा CM? | Big Breaking | Nitish",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hp7W4Vz4P_0",
-            "name": "Iran Israel US War LIVE: ट्रंप का 5000 करोड़ वाला जहाज, ईरान ने उड़ाए परखच्चे! | Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9CF_coNRM78",
-            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर चीन की अमेरिका को धमकी!, कांप उठे ट्रंप!|  Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WPXoAUYrHCE",
-            "name": "Iran Israel US War LIVE: मिल गए रूस-ईरान-चीन!, खौफ में ट्रंप!, होर्मुज से भागा US? | Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vIFoXk7UA0s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
+            "videoId": "djKKC_EkNF0",
+            "name": "🔴LIVE : TVK Vijay | தமிழகத்திற்கே சர்ப்ரைஸ் - விஜயின் எதிர்பாரா அறிவிப்புகள்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
