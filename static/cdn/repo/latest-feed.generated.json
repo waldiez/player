@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T08:22:38.608Z",
+    "generatedAt": "2026-04-14T10:08:46.994Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jSGXMgVP-RQ",
-            "name": "Iran Israel Us War Update Live : 14 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BTywDbzaVY8",
-            "name": "Bihar Next CM Final?, News LIVE: बिहार को बीजेपी का नए सीएम सरप्राइज!, लोगों के उड़े होश! | Breaking",
+            "videoId": "htFymBG0dzo",
+            "name": "Bihar New CM News LIVE: नीतीश के बेटे निशांत नाराज?, CM पर BJP ने किया 'खेला'! | Bihar News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "1fCo7_7yX6s",
-            "name": "Bihar Next CM Final?, News LIVE: सीएम के ऐलान से पहले सबसे बड़े नेता का इस्तीफा! | BIg Breaking",
+            "videoId": "y5RhzcgBNfM",
+            "name": "Bihar Next CM Final?, News LIVE: सम्राट चौधरी बनेंगे नए सीएम, बिहार से सीधे LIVE | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "QcnYgIkhhLw",
-            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "afGN-eva0hA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T223RA9io6s",
-            "name": "Bihar Next CM Final?, News LIVE: बिहार के सीएम बनने पर बोले चिराग पासवान! | Big Breaking | Nitish",
+            "videoId": "TFv8NrObuJs",
+            "name": "Bihar Next CM Final?, News LIVE:  नए सीएम के ऐलान से पहले बिहार में बड़ी हत्या! | Big Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "AITfi-yPPn0",
-            "name": "US IRAN WAR LIVE: Trump Just Made A Huge Iran Announcement, Are We Hours Away From A Ceasefire Deal?",
-            "artist": "ET Now World"
+            "videoId": "ltlJWRoq3sM",
+            "name": "Strait Of Hormuz War Live | US Navy Begin Blockade Of All Iran Ports In Hormuz, Iran Warns Trump",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "rzUBeZWnn34",
-            "name": "Iran US Peace Talks Fail News LIVE: ईरान ने टोल फ्री कर दिए भारत के जहाज!, रोया पाकिस्तान!| Breaking",
+            "videoId": "0PSc0FBDrSM",
+            "name": "Bihar Next CM Final?, News LIVE: किसी ने सोचा नहीं था ये छोटा नेता बनेगा CM? | Big Breaking | Nitish",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2e2x4tH5Mng",
-            "name": "Noida Maid Protest: Noida Cleo County में मेड्स का बवाल! | UP News | Motherson | Workers Protest",
+            "videoId": "hp7W4Vz4P_0",
+            "name": "Iran Israel US War LIVE: ट्रंप का 5000 करोड़ वाला जहाज, ईरान ने उड़ाए परखच्चे! | Big Breaking",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9CF_coNRM78",
+            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर चीन की अमेरिका को धमकी!, कांप उठे ट्रंप!|  Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WPXoAUYrHCE",
+            "name": "Iran Israel US War LIVE: मिल गए रूस-ईरान-चीन!, खौफ में ट्रंप!, होर्मुज से भागा US? | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vIFoXk7UA0s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
