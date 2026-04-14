@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260413T233611.648Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260414T015134.958Z-l4t35t"
   type: "state"
-  created: "2026-04-13T23:36:11.648Z"
+  created: "2026-04-14T01:51:34.958Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260413T233611.648Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260414T015134.958Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6Ythc9YAXYg"
-        name: "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9JSwuzof-qk"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YIBq6-n-1-s"
+        videoId: "bwahMubws5o"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "Global Voice News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X6TEFHxSQKY"
-        name: "Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "qrcBG6-pb54"
+        name: "Today's Headlines | 14 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "prLH0dEHit4"
+        name: "ईरान-अमेरिका जंग, 14 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LPnAxidJ5LE"
+        name: "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा?, भारत की बढ़ी मुश्किलें!, ईरान ने डुबोए जहाज?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QcnYgIkhhLw"
+        name: "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MJqFLSpnKoU"
+        name: "US begins blockade on Iranian ports after peace talks fail | BBC News"
+        artist: "BBC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JkvQH_Mm8Z0"
+        name: "LIVE | Iran Ships Monitored By US Radar | Strait of Hormuz Blockade in Effect | Regime Change Next?"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EHnwflqVbPE"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.04.2026) | 11 PM Headlines |Thanthi TV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q6h2iU-5byk"
+        name: "Good Morning America Full Broadcast - Monday, April 13, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-13T23:36:11.648Z"
+  exported_at: "2026-04-14T01:51:34.958Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-13T23:36:11.612Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-14T01:51:34.919Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

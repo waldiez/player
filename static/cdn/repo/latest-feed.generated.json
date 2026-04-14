@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-13T23:36:11.612Z",
+    "generatedAt": "2026-04-14T01:51:34.919Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "6Ythc9YAXYg",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9JSwuzof-qk",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YIBq6-n-1-s",
+            "videoId": "bwahMubws5o",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Global Voice News"
         },
         {
             "mood": "storm",
-            "videoId": "X6TEFHxSQKY",
-            "name": "Latest Gujarati News LIVE | આજના  મહત્વના સમાચાર | Fatafat News | Weather  | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "qrcBG6-pb54",
+            "name": "Today's Headlines | 14 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "prLH0dEHit4",
+            "name": "ईरान-अमेरिका जंग, 14 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LPnAxidJ5LE",
+            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा?, भारत की बढ़ी मुश्किलें!, ईरान ने डुबोए जहाज?",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QcnYgIkhhLw",
+            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MJqFLSpnKoU",
+            "name": "US begins blockade on Iranian ports after peace talks fail | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JkvQH_Mm8Z0",
+            "name": "LIVE | Iran Ships Monitored By US Radar | Strait of Hormuz Blockade in Effect | Regime Change Next?",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EHnwflqVbPE",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.04.2026) | 11 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q6h2iU-5byk",
+            "name": "Good Morning America Full Broadcast - Monday, April 13, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
