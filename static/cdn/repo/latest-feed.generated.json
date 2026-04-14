@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T06:27:03.634Z",
+    "generatedAt": "2026-04-14T08:22:38.608Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gZONpsRoq5E",
-            "name": "Bihar Next CM Final?, News LIVE: चिराग बनेंगे बिहार के सीएमय़, लिस्ट में आया नाम, चौंके लोग!",
+            "videoId": "jSGXMgVP-RQ",
+            "name": "Iran Israel Us War Update Live : 14 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BTywDbzaVY8",
+            "name": "Bihar Next CM Final?, News LIVE: बिहार को बीजेपी का नए सीएम सरप्राइज!, लोगों के उड़े होश! | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bwahMubws5o",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9x_on7oRNiA",
-            "name": "Debate With Arnab LIVE: Pope Leo Hits Back As Trump Wants To Play Jesus | Iran War",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bXP1xQoqIbE",
-            "name": "Iran US Peace Talks Fail News LIVE: लो हो गया होर्मुज पर कब्जा?, दुनिया में हड़कंप!| Breaking | LIVE",
+            "videoId": "1fCo7_7yX6s",
+            "name": "Bihar Next CM Final?, News LIVE: सीएम के ऐलान से पहले सबसे बड़े नेता का इस्तीफा! | BIg Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "hWfmaMTaGr4",
-            "name": "Iran Israel US War LIVE: 14 अप्रैल वाले दिन ईरान की बड़ी मांग ने हिला दी दुनिया! | Big Breaking",
+            "videoId": "QcnYgIkhhLw",
+            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "afGN-eva0hA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "T223RA9io6s",
+            "name": "Bihar Next CM Final?, News LIVE: बिहार के सीएम बनने पर बोले चिराग पासवान! | Big Breaking | Nitish",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "EORYncMoFA8",
-            "name": "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!",
-            "artist": "Sathiyam News"
+            "videoId": "AITfi-yPPn0",
+            "name": "US IRAN WAR LIVE: Trump Just Made A Huge Iran Announcement, Are We Hours Away From A Ceasefire Deal?",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rzUBeZWnn34",
+            "name": "Iran US Peace Talks Fail News LIVE: ईरान ने टोल फ्री कर दिए भारत के जहाज!, रोया पाकिस्तान!| Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2e2x4tH5Mng",
+            "name": "Noida Maid Protest: Noida Cleo County में मेड्स का बवाल! | UP News | Motherson | Workers Protest",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
