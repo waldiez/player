@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260414T115308.642Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260414T130759.441Z-l4t35t"
   type: "state"
-  created: "2026-04-14T11:53:08.642Z"
+  created: "2026-04-14T13:07:59.441Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260414T115308.642Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260414T130759.441Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0g8PIoc5_2I"
-        name: "🔴LIVE: Today Headlines | மதியம் 3 மணி தலைப்புச் செய்திகள் (14.04.2026)| 3 PM Headlines |Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "R3ncM6f_WIw"
-        name: "Nitish Kumar Resign: नीतीश कुमार का CM पद से इस्तीफा | Bihar New CM | Samrat Chaudhary"
+        videoId: "cXEsu9uxbA0"
+        name: "China on Iran- America War LIVE: पुतिन-जिनपिंग ने होर्मुज में ट्रंप को दी बुरी मात! | Trump | Tehran"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6MLjorHensk"
-        name: "Breaking News LIVE: सम्राट चौधरी बने बिहार के नए CM | Samrat Chaudhary Bihar New CM | Bihar News"
+        videoId: "CFfqf2B2B80"
+        name: "Noida Protest Day-2 LIVE: नोएडा में आज फिर बवाल, पुलिस ने प्रदर्शनकारियों को खदेड़ा | Noida Workers"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Jmuw11NtK4U"
+        name: "Samrat Choudhary New CM  LIVE : सम्राट चौधरीबनेंगे बिहार के सीएम?| Bihar News | BJP | JDU | NDTV"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hv-9cPRauVc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WPXoAUYrHCE"
+        name: "Iran Israel US War LIVE: मिल गए रूस-ईरान-चीन!, खौफ में ट्रंप!, होर्मुज से भागा US? | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SozZB4_Pt5E"
-        name: "LIVE | Drones & Missiles Rain On Israel | Iran’s Coordinated Attack? | Israel-Iran | War | Trump"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "djKKC_EkNF0"
-        name: "🔴LIVE : TVK Vijay | தமிழகத்திற்கே சர்ப்ரைஸ் - விஜயின் எதிர்பாரா அறிவிப்புகள்"
-        artist: "Thanthi TV"
+        videoId: "9oRTBSRyOd4"
+        name: "🔴LIVE : హోర్ముజ్ బంద్.. అమెరికాకు చైనా స్ట్రాంగ్ వార్నింగ్! | US vs China at Strait of Hormuz | ABN"
+        artist: "ABN Telugu "
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-14T11:53:08.642Z"
+  exported_at: "2026-04-14T13:07:59.441Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-14T11:53:08.609Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-14T13:07:59.340Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
