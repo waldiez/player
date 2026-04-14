@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260414T223821.981Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260414T233632.543Z-l4t35t"
   type: "state"
-  created: "2026-04-14T22:38:21.981Z"
+  created: "2026-04-14T23:36:32.543Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260414T223821.981Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260414T233632.543Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Jak4Gdod4gI"
-        name: "LIVE NEWS: Hegseth Drops HUGE WARNING; BIG Announcement On Iran | 'World WAR III...'"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "abjSskb-5jU"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.04.2026) | 11 PM Headlines |Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EORYncMoFA8"
-        name: "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LnWlYyQY95c"
-        name: "🔴LIVE: Iran War | நெருங்கினால் பேரழிவு.! உலகமே பதற்றத்தில்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DUC4cq_GsAU"
-        name: "US Iran War LIVE: Trump Deploys F35B Stealth Fighters with Supersonic Speed at Iran Border"
+        videoId: "gFHI_uDehnA"
+        name: "LIVE: 'You Will be Eliminated' Trump's Direct Warning to Iran Shakes Up West Asia | Trump Iran War"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TfL7dpkEuhM"
-        name: "US IRAN WAR LIVE: Houthi Missiles Target US Warships In Red Sea – US Forces Under Fire"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Cf5DyLOOqoE"
-        name: "🔴LIVE: Trump Vs Pope Leo | போப்பை கடுமையாக விமர்சித்த ட்ரம்ப்.. ஒரே பதிவு.. | Iran | America War"
-        artist: "News18 Tamil Nadu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wZSsBRWYgO8"
-        name: "Is Trump’s Hormuz Blockade Failing As US Sanctioned Tankers Pass Through? | Vantage on Firstpost"
-        artist: "Firstpost"
+        videoId: "luaVuOufGzE"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-14T22:38:21.981Z"
+  exported_at: "2026-04-14T23:36:32.543Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-14T22:38:21.947Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-14T23:36:32.512Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
