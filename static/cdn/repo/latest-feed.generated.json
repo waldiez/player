@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T15:07:36.707Z",
+    "generatedAt": "2026-04-14T16:57:30.711Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "pbnGT1bI5gU",
-            "name": "🔴LIVE : ஹார்முஸை சுற்றிவளைத்த US போர்க்கப்பல்கள்.. 2,000 உயிர்கள் கொடூர கொ*ல -  இந்தியாவுக்கு தலைவலி",
-            "artist": "Thanthi TV"
+            "videoId": "1EqHNIY8eBU",
+            "name": "Debate With Arnab LIVE: World Defies Trump’s Strait Of Hormuz Blockade | Iran War",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "CTVWiGA-3TI",
-            "name": "Strait Of Hormuz Blockade: अमेरिका ने समंदर में रोक दिया चीन का जहाज | Iran America War | US Army",
-            "artist": "ABP NEWS"
+            "videoId": "Adi5gESILjQ",
+            "name": "War Breaking LIVE: Iran Shuts Hormuz Again! Israel Hits Beirut as Trump’s Peace Deal Collapses |N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "6MLjorHensk",
-            "name": "Breaking News: सम्राट चौधरी बने बिहार के नए CM | Samrat Chaudhary Bihar New CM | Bihar News",
-            "artist": "ABP NEWS"
+            "videoId": "QQCLfavKjpk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Voice News"
         },
         {
             "mood": "storm",
-            "videoId": "YdoBlvi34os",
-            "name": "Iran US Peace Talks Fail News LIVE: सुबह-सुबह ईरान ने होर्मुज में उड़ा दिया, 5000 करोड़ का  जहाज!",
-            "artist": "ABP NEWS"
+            "videoId": "rQY5JVRLavA",
+            "name": "Iran Israel Us War Update Live : 14 April, 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "IH6grGexnAg",
-            "name": "Trump Vs China....नाकेबंदी के बाद भी जहाज निकल गया | War Update | Strait Of Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "JEm4IyVK8fY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         },
         {
             "mood": "storm",
-            "videoId": "djKKC_EkNF0",
-            "name": "🔴LIVE : TVK Vijay | தமிழகத்திற்கே சர்ப்ரைஸ் - விஜயின் எதிர்பாரா அறிவிப்புகள்",
-            "artist": "Thanthi TV"
+            "videoId": "aFuvvPmf16Q",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 14.04.2026 | BD News | Ajker News | Bangla News | Latest News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "pEmnUooJXxA",
-            "name": "Big News from Iran - China's Warning | Geo News 5PM Headlines",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3Dm9365cVyM",
-            "name": "Out Of Focus Live | 14 April 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "HrjTdRpDMTQ",
+            "name": "Samrat Choudhary New CM : चौधरी ही क्‍यों बने 'सम्राट' | Bihar News | BJP | JDU | Nitish Kumar",
+            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
