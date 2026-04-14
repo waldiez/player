@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T18:03:45.512Z",
+    "generatedAt": "2026-04-14T20:00:02.978Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JjlFelf1reA",
-            "name": "ईरान-अमेरिका जंग 14 अप्रैल 2026| Iran America War | Iran America Ceasefire | US Iran Peace Talk Fail",
-            "artist": "NDTV India"
+            "videoId": "abjSskb-5jU",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.04.2026) | 11 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "IondODO6GEM",
-            "name": "US IRAN WAR LIVE: Donald Trump Issues Stark Nuclear Warning to Iran, World on Edge | World News",
-            "artist": "ET Now"
+            "videoId": "EORYncMoFA8",
+            "name": "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "iQFqQNvf0Ug",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
+            "videoId": "LnWlYyQY95c",
+            "name": "🔴LIVE: Iran War | நெருங்கினால் பேரழிவு.! உலகமே பதற்றத்தில்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "21opyEzX0pk",
-            "name": "Bharat Ki Baat LIVE: ट्रंप का 'घमंड' आज होर्मुज में डूब गया! | Iran America War | Trump | Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "Cf5DyLOOqoE",
+            "name": "🔴LIVE: Trump Vs Pope Leo | போப்பை கடுமையாக விமர்சித்த ட்ரம்ப்.. ஒரே பதிவு.. | Iran | America War",
+            "artist": "News18 Tamil Nadu"
         },
         {
             "mood": "storm",
-            "videoId": "YnDeKSsBN0I",
-            "name": "US-IRAN WAR LIVE: Donald Trump Addresses Nation Amid Iran War, America on Edge",
-            "artist": "Times Now World"
+            "videoId": "wZSsBRWYgO8",
+            "name": "Is Trump’s Hormuz Blockade Failing As US Sanctioned Tankers Pass Through? | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E58dcOjJvGU",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 April 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
