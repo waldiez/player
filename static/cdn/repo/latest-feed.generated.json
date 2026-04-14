@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T01:51:34.919Z",
+    "generatedAt": "2026-04-14T04:40:12.343Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bwahMubws5o",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
+            "videoId": "3nUMsOyMVXo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "qrcBG6-pb54",
-            "name": "Today's Headlines | 14 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "zrRYaXLzId8",
+            "name": "ईरान-अमेरिका जंग फिर से शुरू! ताजा हालात LIVE | Iran America War | Iran America Peace Talks Fail",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "prLH0dEHit4",
-            "name": "ईरान-अमेरिका जंग, 14 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LPnAxidJ5LE",
-            "name": "Iran US Peace Talks Fail News LIVE: होर्मुज पर कब्जा?, भारत की बढ़ी मुश्किलें!, ईरान ने डुबोए जहाज?",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QcnYgIkhhLw",
-            "name": "US NEWS LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MJqFLSpnKoU",
-            "name": "US begins blockade on Iranian ports after peace talks fail | BBC News",
-            "artist": "BBC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JkvQH_Mm8Z0",
-            "name": "LIVE | Iran Ships Monitored By US Radar | Strait of Hormuz Blockade in Effect | Regime Change Next?",
+            "videoId": "Fc-oXsAEbx0",
+            "name": "LIVE | US-Iran War Enters New Phase: US Moves to Control Hormuz as Iran Warns of Retaliation | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "EHnwflqVbPE",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (13.04.2026) | 11 PM Headlines |Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "fj2gBu0nKIo",
+            "name": "Trump Big Statement on Hormuz LIVE: कब्जा करने के लिए बढ़े ट्रंप के जहाज! होर्मुज से सीधे LIVE|",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "q6h2iU-5byk",
-            "name": "Good Morning America Full Broadcast - Monday, April 13, 2026",
+            "videoId": "kBW55DSiSj4",
+            "name": "LIVE: LAVROV'S FINAL WARNING, 'Ceasefire IMMEDIATE or Face WORLD WAR 3' – Humanity on BRINK?",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0QYebbBCRIE",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 13, 2026",
             "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WPaOcgC0JoU",
+            "name": "Halla Bol LIVE: ट्रंप का नया रण World War को आमंत्रण! | America | AajTak Hindi | Donald Trump",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I689my8NWPg",
+            "name": "Iran War LIVE: Iran Considers FRESH STRIKES on Israel! Ceasefire Collapses as Hormuz Shuts Again",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
