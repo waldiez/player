@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T20:50:55.653Z",
+    "generatedAt": "2026-04-15T21:44:11.206Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9mfv9IcRE2g",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
+            "videoId": "uSutx5IhaW8",
+            "name": "US-Iran War LIVE | IT’S OVER! Trump Declares END OF WAR — \"They Have Surrendered!\" | What Next? | US",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "cqfwhhBPyIM",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "knynosTZ0o4",
+            "name": "🔴LIVE: Today Headlines |  இரவு 11 மணி தலைப்புச் செய்திகள் (15.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "I2TpgDrb9Q0",
-            "name": "Turkey Big Action - Israel Shocked | ARY News 9 PM Headlines - 15th Apr 2026",
-            "artist": "ARY News"
+            "videoId": "p87DuM9OWMU",
+            "name": "'A CRISIS FOR IRAN': Regime facing MAJOR new fallout",
+            "artist": "Fox News"
         },
         {
             "mood": "storm",
-            "videoId": "jb37EHNiTN4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "RZhkKEIHydo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Voice News"
         },
         {
             "mood": "storm",
-            "videoId": "_LUeZDev4Jw",
-            "name": "Iran War Live | Trump’s Strait Of Hormuz Move: Is the US Controlling Global Oil Route Now?",
+            "videoId": "S-5RyVTNuw4",
+            "name": "US-Iran War LIVE: 'NEXT 48 HRS CRUCIAL FOR WORLD' | TRUMP DECLARES EMERGENCY | US News Live | War",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "rpmIC1sQ_Co",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप-जिनपिंग में सीक्रेट डील! | NDTV India",
-            "artist": "NDTV India"
+            "videoId": "9sW9qsjyDD0",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wuGIUw9FXCQ",
+            "name": "Gujarat Latest Breaking News Live | Weather Forecast | CM in Mehsana | Nari Shakti Vandana Ahmedabad",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "54Ho7Z1fvDI",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DihYWHQGpvE",
+            "name": "World News Live: खतरे में दुनिया का 20% तेल! ट्रंप का एक्शन और पाकिस्तान का 'नया कर्ज' प्लान एक्सपोज",
+            "artist": "ABPLIVE"
         }
     ],
     "sourceFilters": {
