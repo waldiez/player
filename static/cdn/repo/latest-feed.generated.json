@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T16:54:22.743Z",
+    "generatedAt": "2026-04-15T18:00:39.953Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QDBHeiDQf-8",
-            "name": "Iran US War LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "videoId": "9mfv9IcRE2g",
+            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "wsg9fQ68z2M",
-            "name": "Iran Israel Us War Update Live : 15 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "cqfwhhBPyIM",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "-H8uCzQU47w",
-            "name": "Aaj Ki Taaja Khabar Live: 15 April 2026 | Iran Us War | Trump | Iran Israel War |PM Modi |World News",
-            "artist": "Times Now Navbharat"
+            "videoId": "wuGIUw9FXCQ",
+            "name": "Gujarat Latest Breaking News Live | Weather Forecast | CM in Mehsana | Nari Shakti Vandana Ahmedabad",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "PN9TbYVP4PE",
-            "name": "Sushant Sinha Live | आज की बड़ी खबरें | Israel Iran War | PM Modi | Trump | Netanyahu | Noida Protest",
-            "artist": "Times Now Navbharat"
+            "videoId": "jb37EHNiTN4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "BHBeaEe2-dg",
-            "name": "US IRAN WAR LIVE: Trump Explodes At 'Rogue' Netanyahu, 'I Told Him Don't Do That' As Alliance Cracks",
-            "artist": "ET Now"
+            "videoId": "rpmIC1sQ_Co",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप-जिनपिंग में सीक्रेट डील! | NDTV India",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "03aJcn2xAPw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WALD NEWS BD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VaFB9V49kzI",
-            "name": "🔴 LIVE | Pakistani delegation including CDF Munir arrives in Tehran ahead of likely US-Iran talks",
-            "artist": "ARY News"
+            "videoId": "WZ0Ei97SsHo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
