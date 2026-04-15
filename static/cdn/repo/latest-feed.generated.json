@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T08:23:40.769Z",
+    "generatedAt": "2026-04-15T10:10:24.994Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_9sDacwYmMw",
-            "name": "Iran US Peace Talk Latest News: समझौते का फाइनल काउंटडाउन शुरु? | Iran War Update | US | Trump",
+            "videoId": "jNmugBRpetM",
+            "name": "NATO vs America Tension News LIVE: आखिरी मौके पर पलट गया ‘NATO’! ट्रंप की उड़ा दी नींद? | Hormuz",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_9US9cWgY4Q",
-            "name": "Iran US Peace Talk Latest News: होर्मुज नाकेबंदी से अमेरिका में उथल-पुथल! | Iran War Update | US",
+            "videoId": "3OXzfxDreCU",
+            "name": "China-America Tension on Hormuz: चीन-अमेरिका की जंग शुरू! | World War 3 | Iran US Ceasefire",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YNP5HL1mNqc",
-            "name": "Iran US War LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
-            "artist": "Times Now"
+            "videoId": "wuCzyOLhW-4",
+            "name": "Iran US Peace Talk: 2 दिन बाद युद्ध खत्म? आई खुशखबरी! | Israel | Hormuz | World War | China",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "shbzRS9y2ug",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 15.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "99n-zE0WDXI",
-            "name": "US News LIVE: Barack Obama Arrest Sparks Firestorm, White House Reacts, Donald Trump Responds",
-            "artist": "ET Now"
+            "videoId": "EPaEeoBJyg4",
+            "name": "Samrat Choudhary New CM  LIVE : शपथ के बाद एक्शन में Samrat Chaudhary | Nitish Kumar | Bihar News",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
