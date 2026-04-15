@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-14T23:36:32.512Z",
+    "generatedAt": "2026-04-15T01:48:32.607Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gFHI_uDehnA",
-            "name": "LIVE: 'You Will be Eliminated' Trump's Direct Warning to Iran Shakes Up West Asia | Trump Iran War",
-            "artist": "Firstpost"
+            "videoId": "5M30gygov_A",
+            "name": "Iran Israel US War LIVE: ईरान पर फिर बमबारी? | Iran US Peace Talks Fail | Trump | Netanyahu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "luaVuOufGzE",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "rdfywl0JwJk",
+            "name": "Sandeep Chaudhary LIVE: बिहार में 'सम्राट' सरकार..JDU का बचेगा जनाधार? | Samrat Chaudhary | Bihar",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vMTrlpnqtFo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Voice News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "InkyP_q6Qo8",
+            "name": "ईरान-अमेरिका जंग, 15 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lMO2BadHBOI",
+            "name": "Today's Headlines | 15 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Jak4Gdod4gI",
+            "name": "LIVE NEWS: Hegseth Drops HUGE WARNING; BIG Announcement On Iran | 'World WAR III...'",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EORYncMoFA8",
+            "name": "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LnWlYyQY95c",
+            "name": "🔴LIVE: Iran War | நெருங்கினால் பேரழிவு.! உலகமே பதற்றத்தில்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
