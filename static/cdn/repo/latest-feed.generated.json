@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T22:35:18.640Z",
+    "generatedAt": "2026-04-15T23:35:51.977Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9mfv9IcRE2g",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
+            "videoId": "uSutx5IhaW8",
+            "name": "US-Iran War LIVE | IT’S OVER! Trump Declares END OF WAR — \"They Have Surrendered!\" | What Next? | US",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "cqfwhhBPyIM",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "knynosTZ0o4",
+            "name": "🔴LIVE: Today Headlines |  இரவு 11 மணி தலைப்புச் செய்திகள் (15.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "jb37EHNiTN4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "p87DuM9OWMU",
+            "name": "'A CRISIS FOR IRAN': Regime facing MAJOR new fallout",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S-5RyVTNuw4",
+            "name": "US-Iran War LIVE: 'NEXT 48 HRS CRUCIAL FOR WORLD' | TRUMP DECLARES EMERGENCY | US News Live | War",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ge4Y24mMqUg",
+            "name": "LIVE: White House press briefing",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "54Ho7Z1fvDI",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DihYWHQGpvE",
+            "name": "World News Live: खतरे में दुनिया का 20% तेल! ट्रंप का एक्शन और पाकिस्तान का 'नया कर्ज' प्लान एक्सपोज",
+            "artist": "ABPLIVE"
         }
     ],
     "sourceFilters": {
