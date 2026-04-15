@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T13:05:53.515Z",
+    "generatedAt": "2026-04-15T15:00:13.851Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DvYO5EgfpeE",
-            "name": "Iran-US War LIVE | Nuclear War At Strait Of Hormuz? Iran's Ally North Korea Test Anti-Ship Missiles",
-            "artist": "CNN-News18"
+            "videoId": "CF_1H4wft4o",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 April  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Today's Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "wLIc8Bs5cIk",
-            "name": "LIVE: Iranian Foreign Ministry Holds Press Conference After US Naval Blockade | N18G",
+            "videoId": "K6sCNAVerRU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BAC World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "66lu2CiBsm0",
+            "name": "Samrat Choudhary New CM  LIVE : शपथ के बाद एक्शन में Samrat Chaudhary | Nitish Kumar | Bihar News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jOTGOy-X4E0",
+            "name": "TCS Nashik Scandal LIVE: TCS Under Scrutiny After Harassment, Coercion Claims Emerge | Vantage",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "jbGnhBjmWZM",
-            "name": "Samrat Choudhary New CM: एक्शन में बिहार के नए सम्राट | Samrat Chaudhary | Nitish Kumar | Bihar News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "IMIN_aKA6Xo",
+            "name": "Strait of Hormuz Blockade Update LIVE: फंसे भारत के 15 जहाज!? | Trump | Iran | China | Hormuz",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7htIYx4UakA",
+            "name": "US Iran War Live: ट्रंप के कब्जे में आ गया हॉर्मुज़! | World War 3 | Iran US War | Major Gaurav Arya",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nnN6L88_dNk",
+            "name": "Iran US 2nd Peace Talks News LIVE: शाम होते ही ईरान ने होर्मुज में उड़ा दिया, 5000 करोड़ का जहाज!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
