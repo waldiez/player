@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260415T195816.980Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260415T205055.685Z-l4t35t"
   type: "state"
-  created: "2026-04-15T19:58:16.980Z"
+  created: "2026-04-15T20:50:55.685Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260415T195816.980Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260415T205055.685Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RZhkKEIHydo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Voice News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NAc3bCTwC-s"
-        name: "Debate With Arnab LIVE:  How TCS Grooming Horror Unfolded Under Religious Garb?"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9sW9qsjyDD0"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "54Ho7Z1fvDI"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DihYWHQGpvE"
-        name: "World News Live: खतरे में दुनिया का 20% तेल! ट्रंप का एक्शन और पाकिस्तान का 'नया कर्ज' प्लान एक्सपोज"
-        artist: "ABPLIVE"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QDBHeiDQf-8"
-        name: "Iran US War LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
+        videoId: "9mfv9IcRE2g"
+        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
         artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cqfwhhBPyIM"
+        name: "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I2TpgDrb9Q0"
+        name: "Turkey Big Action - Israel Shocked | ARY News 9 PM Headlines - 15th Apr 2026"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jb37EHNiTN4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_LUeZDev4Jw"
+        name: "Iran War Live | Trump’s Strait Of Hormuz Move: Is the US Controlling Global Oil Route Now?"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rpmIC1sQ_Co"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ट्रंप-जिनपिंग में सीक्रेट डील! | NDTV India"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-15T19:58:16.980Z"
+  exported_at: "2026-04-15T20:50:55.685Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-15T19:58:16.947Z"
+  source_generated_at: "2026-04-15T20:50:55.653Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
