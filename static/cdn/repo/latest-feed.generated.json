@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-15T11:50:51.180Z",
+    "generatedAt": "2026-04-15T13:05:53.515Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Bs6m4zAb0Z4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "DvYO5EgfpeE",
+            "name": "Iran-US War LIVE | Nuclear War At Strait Of Hormuz? Iran's Ally North Korea Test Anti-Ship Missiles",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "14j0svP_zo8",
-            "name": "🔴LIVE: Iran | AMerica | ஈரானின் மாஸ் அறிவிப்பு - ஆடிப்போன 'அமெரிக்கா'!",
-            "artist": "Sathiyam News"
+            "videoId": "wLIc8Bs5cIk",
+            "name": "LIVE: Iranian Foreign Ministry Holds Press Conference After US Naval Blockade | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "UAN2hkkEFYg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.04.2026) | 2 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IXgR2WdOivk",
-            "name": "America Vs China News: अमेरिका-चीन की जंग शुरू! | Iran US War | Hormuz | US Navy | Trump | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CczummZ-VQ0",
-            "name": "IRAN WAR LIVE: 'World Will Die If...': Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS",
-            "artist": "Times Now World"
+            "videoId": "jbGnhBjmWZM",
+            "name": "Samrat Choudhary New CM: एक्शन में बिहार के नए सम्राट | Samrat Chaudhary | Nitish Kumar | Bihar News",
+            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
