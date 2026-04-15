@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260415T014832.639Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260415T044016.842Z-l4t35t"
   type: "state"
-  created: "2026-04-15T01:48:32.639Z"
+  created: "2026-04-15T04:40:16.842Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260415T014832.639Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260415T044016.842Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5M30gygov_A"
-        name: "Iran Israel US War LIVE: ईरान पर फिर बमबारी? | Iran US Peace Talks Fail | Trump | Netanyahu"
+        videoId: "dvbTshuTekk"
+        name: "Strait of Hormuz Blockade LIVE: सभी देश मिलकर कर देंगे बड़ा हमला? | Iran Israel War | China | Russia"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rdfywl0JwJk"
-        name: "Sandeep Chaudhary LIVE: बिहार में 'सम्राट' सरकार..JDU का बचेगा जनाधार? | Samrat Chaudhary | Bihar"
+        videoId: "reyxVYa7Awc"
+        name: "China on Iran- America War LIVE: पुतिन-जिनपिंग ने होर्मुज में ट्रंप को दी बुरी मात! | Trump | Tehran"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vMTrlpnqtFo"
+        videoId: "ysFumpt67no"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "Global Voice News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "InkyP_q6Qo8"
-        name: "ईरान-अमेरिका जंग, 15 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
+        videoId: "-XRee1fscOE"
+        name: "America-China Hormuz Clash LIVE: ट्रंप ने होर्मुज पर उतारे 10,000 यूएस सैनिक | China Warning"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lMO2BadHBOI"
-        name: "Today's Headlines | 15 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
+        videoId: "uWWCK42cXhs"
+        name: "Iran US Peace Talks Fail News LIVE: शाम होते ही ईरान ने होर्मुज में उड़ा दिया, 5000 करोड़ का जहाज!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Jak4Gdod4gI"
-        name: "LIVE NEWS: Hegseth Drops HUGE WARNING; BIG Announcement On Iran | 'World WAR III...'"
-        artist: "ET Now World"
+        videoId: "LvkuUFfYOFE"
+        name: "LIVE | Trump Issues Huge Warning of 'World War III' | Israel Iran War | Netanyahu | Khamenei | US"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EORYncMoFA8"
-        name: "🔴LIVE: Iran War | America | சுற்றிவளைத்த US போர்க்கப்பல்கள்..  உச்சக்கட்ட பரபரப்பில் ஈரான்..!"
-        artist: "Sathiyam News"
+        videoId: "wuCzyOLhW-4"
+        name: "Iran US Peace Talk LIVE: 2 दिन बाद युद्ध खत्म? आई खुशखबरी! | Israel | Hormuz | World War | China"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LnWlYyQY95c"
-        name: "🔴LIVE: Iran War | நெருங்கினால் பேரழிவு.! உலகமே பதற்றத்தில்"
-        artist: "Sathiyam News"
+        videoId: "yeGpB42eg2U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Scale News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-15T01:48:32.639Z"
+  exported_at: "2026-04-15T04:40:16.842Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-15T01:48:32.607Z"
+  source_generated_at: "2026-04-15T04:40:16.807Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
