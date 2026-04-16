@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T13:13:48.474Z",
+    "generatedAt": "2026-04-16T15:20:18.001Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "p0kspze1CWw",
-            "name": "ईरान-अमेरिका जंग, 16 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "videoId": "gdwYP_iIVhk",
+            "name": "US-Iran Talks LIVE: Pakistan's Asim Munir Holds Crucial Talks With Iran's Abbas Araghchi in Tehran",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5xXOm6q8IYE",
+            "name": "Priyanka Gandhi LIVE: महिला आरक्षण पर बोल रहीं प्रियंका गांधी | Women Reservation Bill | Parliament",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bvDsPF5U8eY",
-            "name": "Samrat Choudhary New CM  LIVE : शपथ के बाद एक्शन में Samrat Chaudhary | Nitish Kumar | Bihar News",
+            "videoId": "iwSIVPBBICg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "7So60N5KkOs",
+            "name": "Sandeep Chaudhary LIVE: उत्तर-दक्षिण में झगड़ा..अटक गया पिछड़ा! | Women’s Reservation Bill",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q-Ak2DXrVOU",
+            "name": "Pakistan UAE News LIVE: Pakistan ने UAE को दिया धोखा? Munir–Shehbaz बड़ा विवाद?  | Munir | Shehbaz |",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ydh5DgSxbhc",
+            "name": "Sandeep Chaudhary LIVE: Women Reservation..परिसीमन निशाना? | Priyanka Gandhi | PM Modi |NDA Vs INDIA",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FaaV9-fffm0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_IIzmNDw2mM",
+            "name": "Iran Big Attack LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nsDGUugeDwY",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના આજના મહત્વના સમાચાર | Weather Update | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dgEzl2WNPzU",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
