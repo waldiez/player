@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T01:56:16.544Z",
+    "generatedAt": "2026-04-16T04:48:30.418Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "j3mPvu2BKxo",
-            "name": "🔴LIVE : Trump | Iran | அடுத்த பதற்றம்.. ஈரானின் புது பிளான் - ட்ரம்ப் ஷாக்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MhHp008Ol9w",
-            "name": "Iran US Peace Talk Latest News: सुबह होते ही Ceasefire पर आई बड़ी खबर | Iran War Update | US | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OZ5BqoXTcBA",
-            "name": "Iran Israel Us War Update Live : 15 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "videoId": "KKN1TNgKteQ",
+            "name": "Breaking News Live : देश -दुनिया की बड़ी खबरें देखें | Iran US War | Noida Protest |Samrat Chaudhary",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "QYcwoRr0OuI",
-            "name": "Today's Headlines | 16 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "cL9h9faDCLg",
+            "name": "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "H0I-YCc5F8s",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "UNbdhTFldl4",
+            "name": "America China Hormuz Clash LIVE: ट्रंप की 'नाकेबंदी' चीन ने मिनटों में तोड़ी, दुनिया चौंकी! |Iran-US",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "RZhkKEIHydo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Voice News"
+            "videoId": "CnJ5268BrgM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The Daily BBC"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y6qwVlXHP38",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 16.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rhOOJBeWWpE",
+            "name": "ABC News Live Prime: April 15, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qCrT3Kvyhb0",
+            "name": "World Power Shift 2026 :कौन बनेगा नया Superpower? | USA vs China | Global News | Trump | War Updates",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FHpBwJt8FsM",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 15, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

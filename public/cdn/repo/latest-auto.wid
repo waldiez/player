@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260416T015616.572Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260416T044830.451Z-l4t35t"
   type: "state"
-  created: "2026-04-16T01:56:16.572Z"
+  created: "2026-04-16T04:48:30.451Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T015616.572Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T044830.451Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "j3mPvu2BKxo"
-        name: "🔴LIVE : Trump | Iran | அடுத்த பதற்றம்.. ஈரானின் புது பிளான் - ட்ரம்ப் ஷாக்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MhHp008Ol9w"
-        name: "Iran US Peace Talk Latest News: सुबह होते ही Ceasefire पर आई बड़ी खबर | Iran War Update | US | Trump"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OZ5BqoXTcBA"
-        name: "Iran Israel Us War Update Live : 15 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
+        videoId: "KKN1TNgKteQ"
+        name: "Breaking News Live : देश -दुनिया की बड़ी खबरें देखें | Iran US War | Noida Protest |Samrat Chaudhary"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QYcwoRr0OuI"
-        name: "Today's Headlines | 16 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
+        videoId: "cL9h9faDCLg"
+        name: "Sairbeennews24 latest news and world news in Urdu Headlines Today with urdu radio live Sairbeen"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H0I-YCc5F8s"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "UNbdhTFldl4"
+        name: "America China Hormuz Clash LIVE: ट्रंप की 'नाकेबंदी' चीन ने मिनटों में तोड़ी, दुनिया चौंकी! |Iran-US"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RZhkKEIHydo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Voice News"
+        videoId: "CnJ5268BrgM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The Daily BBC"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y6qwVlXHP38"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 16.04.2026 | Latest News | Breaking News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rhOOJBeWWpE"
+        name: "ABC News Live Prime: April 15, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qCrT3Kvyhb0"
+        name: "World Power Shift 2026 :कौन बनेगा नया Superpower? | USA vs China | Global News | Trump | War Updates"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FHpBwJt8FsM"
+        name: "ABC World News Tonight with David Muir Full Broadcast - April 15, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-16T01:56:16.572Z"
+  exported_at: "2026-04-16T04:48:30.451Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-16T01:56:16.544Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-16T04:48:30.418Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
