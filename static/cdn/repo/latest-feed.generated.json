@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T17:05:40.948Z",
+    "generatedAt": "2026-04-16T19:01:37.068Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "I2VKjomkx1o",
-            "name": "Strait of Hormuz LIVE: US Threatens Force Against Ships Defying Hormuz Blockade | Iran War | Israel",
-            "artist": "Firstpost"
+            "videoId": "_Mjk3mRuLoI",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "Hwvq_QelFiw",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "videoId": "xbKaFOau0cg",
+            "name": "Iran Nuclear War LIVE: Trump To Drops 400 Kilos of Uranium On Iran | US Iran War Live | Nuclear War",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GFfpc5vvDsQ",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
+            "videoId": "5ZepUqECoDo",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "FhUVJoDplDw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Amar Somoy "
+            "videoId": "MTx5DUC9Mo4",
+            "name": "Trump News LIVE | Trump's BIG 'War Switch' For Pentagon Stuns World I Trump Executive Order",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "_U_cWnsadoM",
-            "name": "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill",
-            "artist": "Times Now Navbharat"
+            "videoId": "26s9RWQ2D7s",
+            "name": "LIVE: Trump Says US-Iran Peace Deal Possible as  Ceasefire Deadline Approaches |Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "p01RMy-oFdc",
-            "name": "America-China War News LIVE: चीन-अमेरिका की जंग शुरू! | World War 3 | Iran US Ceasefire | Peace Talk",
-            "artist": "Republic Bharat"
+            "videoId": "sadzPUDohYg",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "4g1BAkCb01Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "FGcrXTVzCxc",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप की नाकेबंदी, लौटे 10 जहाज ! Iran War | Modi",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "odSD0NZ_F2o",
+            "name": "LIVE | Bigger Lok Sabha, Women's Quota: What's in India's New Bills? | Vantage on Firstpost | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VxVQCvwR1s0",
+            "name": "LIVE: After Xi’s ‘Law of the Jungle’ Jibe, Trump Presses China on Iran Weapons |Vantage on Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
