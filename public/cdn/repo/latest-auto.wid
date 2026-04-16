@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260416T190137.103Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260416T204026.655Z-l4t35t"
   type: "state"
-  created: "2026-04-16T19:01:37.103Z"
+  created: "2026-04-16T20:40:26.655Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T190137.103Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T204026.655Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_Mjk3mRuLoI"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "Z_qWv1eZRjo"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xbKaFOau0cg"
-        name: "Iran Nuclear War LIVE: Trump To Drops 400 Kilos of Uranium On Iran | US Iran War Live | Nuclear War"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5ZepUqECoDo"
-        name: "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MTx5DUC9Mo4"
-        name: "Trump News LIVE | Trump's BIG 'War Switch' For Pentagon Stuns World I Trump Executive Order"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "26s9RWQ2D7s"
-        name: "LIVE: Trump Says US-Iran Peace Deal Possible as  Ceasefire Deadline Approaches |Vantage on Firstpost"
+        videoId: "I2VKjomkx1o"
+        name: "Strait of Hormuz LIVE: US Threatens Force Against Ships Defying Hormuz Blockade | Iran War | Israel"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sadzPUDohYg"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FGcrXTVzCxc"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप की नाकेबंदी, लौटे 10 जहाज ! Iran War | Modi"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "odSD0NZ_F2o"
-        name: "LIVE | Bigger Lok Sabha, Women's Quota: What's in India's New Bills? | Vantage on Firstpost | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VxVQCvwR1s0"
-        name: "LIVE: After Xi’s ‘Law of the Jungle’ Jibe, Trump Presses China on Iran Weapons |Vantage on Firstpost"
-        artist: "Firstpost"
+        videoId: "bRCENfLL7co"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 16 April 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-16T19:01:37.103Z"
+  exported_at: "2026-04-16T20:40:26.655Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-16T19:01:37.068Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-16T20:40:26.622Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
