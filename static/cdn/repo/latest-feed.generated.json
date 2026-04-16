@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T20:40:26.622Z",
+    "generatedAt": "2026-04-16T21:36:09.417Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Z_qWv1eZRjo",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "4dyJBGl99Ok",
+            "name": "Trump Announces Visit to Pakistan | 12 AM Headlines | Hum News | Pakistan",
+            "artist": "HUM News"
         },
         {
             "mood": "storm",
-            "videoId": "I2VKjomkx1o",
-            "name": "Strait of Hormuz LIVE: US Threatens Force Against Ships Defying Hormuz Blockade | Iran War | Israel",
+            "videoId": "_Mjk3mRuLoI",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "co8B0BF1akc",
+            "name": "Iran Israel Us War Update Live : 16 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5ZepUqECoDo",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MTx5DUC9Mo4",
+            "name": "Trump News LIVE | Trump's BIG 'War Switch' For Pentagon Stuns World I Trump Executive Order",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Utr3yadEUaQ",
+            "name": "🔴LIVE: Iran | war | ஈரானின் ''சைலண்ட்'' - போரில் உலகமே எதிர்பாரா மாற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "26s9RWQ2D7s",
+            "name": "LIVE: Trump Says US-Iran Peace Deal Possible as  Ceasefire Deadline Approaches |Vantage on Firstpost",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "bRCENfLL7co",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 16 April 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "sadzPUDohYg",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XRB_HxZEI_M",
+            "name": "Islamabad Talks | Good News from Iran? | 09 PM Headlines | Hum News | Pakistan",
+            "artist": "HUM News"
         }
     ],
     "sourceFilters": {
