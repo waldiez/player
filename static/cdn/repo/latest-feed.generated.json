@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T11:54:08.417Z",
+    "generatedAt": "2026-04-16T13:13:48.474Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ckqrwcacIuA",
-            "name": "Breaking News LIVE: मलक्का स्ट्रेट पर US का कब्जा? चीन में हड़कंप! | Trump | China | Malacca Strait",
+            "videoId": "p0kspze1CWw",
+            "name": "ईरान-अमेरिका जंग, 16 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "iSMHMB9nVuc",
+            "videoId": "bvDsPF5U8eY",
             "name": "Samrat Choudhary New CM  LIVE : शपथ के बाद एक्शन में Samrat Chaudhary | Nitish Kumar | Bihar News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "HSL4QTnrOts",
-            "name": "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (16.04.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "nsDGUugeDwY",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના આજના મહત્વના સમાચાર | Weather Update | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "KAs76Y1okAw",
-            "name": "Iran US War LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "videoId": "dgEzl2WNPzU",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
             "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YBCcRDjABkw",
-            "name": "Today's Breaking News: Iran America War LIVE | Trump | Netanyahu | Strait of Hormuz | PM Modi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C8G4X6a3Ybg",
-            "name": "Strait of Hormuz Blockade Update: फंसे भारत के 15 जहाज!? | Trump | Iran | China | Hormuz",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
