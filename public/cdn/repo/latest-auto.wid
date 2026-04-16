@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260416T100946.793Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260416T115408.449Z-l4t35t"
   type: "state"
-  created: "2026-04-16T10:09:46.793Z"
+  created: "2026-04-16T11:54:08.449Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T100946.793Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T115408.449Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5MM_fta9ZJg"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Q9GeVywi_lA"
-        name: "Iran US 2nd Peace Talk Update LIVE: दूसरी वार्ता से पहले टूटा सीजफायर?  | Israel | Hormuz | War"
+        videoId: "ckqrwcacIuA"
+        name: "Breaking News LIVE: मलक्का स्ट्रेट पर US का कब्जा? चीन में हड़कंप! | Trump | China | Malacca Strait"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8CVQUXoo5qE"
-        name: "Iran US 2nd Peace Talk Update LIVE: दूसरी शांति वार्ता फेल होगी? | Israel | Hormuz | World War"
-        artist: "ABP NEWS"
+        videoId: "iSMHMB9nVuc"
+        name: "Samrat Choudhary New CM  LIVE : शपथ के बाद एक्शन में Samrat Chaudhary | Nitish Kumar | Bihar News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IBh9S4oFWgI"
-        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 10 April 2026 || World News Bangla ||"
-        artist: "ABC BENGLA NEWS 72"
+        videoId: "HSL4QTnrOts"
+        name: "🔴LIVE: Today Headlines |  மதியம் 2 மணி தலைப்புச் செய்திகள் (16.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "po2Fp_5-1_M"
-        name: "🔴LIVE: Field Marshal Asim Munir lands in Iran amid High-Stakes Push for US–Iran Peace Talks"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HtcMd7ia-jE"
-        name: "Ajker Bangla Khobor 16 April 2026 | Bangladesh Latest News | BNP | dr. yunus | Bangla News Today"
-        artist: "Khadiza Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dgEzl2WNPzU"
-        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
+        videoId: "KAs76Y1okAw"
+        name: "Iran US War LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
         artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YBCcRDjABkw"
+        name: "Today's Breaking News: Iran America War LIVE | Trump | Netanyahu | Strait of Hormuz | PM Modi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "C8G4X6a3Ybg"
+        name: "Strait of Hormuz Blockade Update: फंसे भारत के 15 जहाज!? | Trump | Iran | China | Hormuz"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-16T10:09:46.793Z"
+  exported_at: "2026-04-16T11:54:08.449Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-16T10:09:46.701Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-16T11:54:08.417Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
