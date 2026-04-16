@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T22:32:41.694Z",
+    "generatedAt": "2026-04-16T23:33:56.857Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MHrGq0z0TI4",
-            "name": "🔴LIVE: হরমুজে মার্কিন ড্রোন ধ্বং/সসহ আলোচিত খবর | Iran-USA | Hormuz | Saudi Arab | North Korea | UK",
-            "artist": "Daily Ittefaq"
+            "videoId": "W-YjoVOeWRU",
+            "name": "Iran War Today: BBC reports from inside Iran | BBC News",
+            "artist": "BBC News"
         },
         {
             "mood": "storm",
-            "videoId": "Z_qWv1eZRjo",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "xbKaFOau0cg",
+            "name": "Iran Nuclear War LIVE: Trump To Drops 400 Kilos of Uranium On Iran | US Iran War Live | Nuclear War",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "I2VKjomkx1o",
-            "name": "Strait of Hormuz LIVE: US Threatens Force Against Ships Defying Hormuz Blockade | Iran War | Israel",
+            "videoId": "5ZepUqECoDo",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MTx5DUC9Mo4",
+            "name": "Trump News LIVE | Trump's BIG 'War Switch' For Pentagon Stuns World I Trump Executive Order",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Utr3yadEUaQ",
+            "name": "🔴LIVE: Iran | war | ஈரானின் ''சைலண்ட்'' - போரில் உலகமே எதிர்பாரா மாற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "26s9RWQ2D7s",
+            "name": "LIVE: Trump Says US-Iran Peace Deal Possible as  Ceasefire Deadline Approaches |Vantage on Firstpost",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "bRCENfLL7co",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 16 April 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "sadzPUDohYg",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "odSD0NZ_F2o",
-            "name": "LIVE | Bigger Lok Sabha, Women's Quota: What's in India's New Bills? | Vantage on Firstpost | N18G",
-            "artist": "Firstpost"
+            "videoId": "FGcrXTVzCxc",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप की नाकेबंदी, लौटे 10 जहाज ! Iran War | Modi",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
