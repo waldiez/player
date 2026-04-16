@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T08:23:57.333Z",
+    "generatedAt": "2026-04-16T10:09:46.701Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "YO23XzM1V6U",
-            "name": "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । 16.04.2026 | Top News | Latest News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Vu710HEBx8o",
-            "name": "LIVE | Trump Issues Huge Warning of 'World War III' | Israel Iran War | Netanyahu | Khamenei | US",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3KnS_r8wiRo",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 16.04.2026 | Latest News | Today News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i1pmr2bjf1o",
+            "videoId": "5MM_fta9ZJg",
             "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
             "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "M8NUqNBe2cI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "Q9GeVywi_lA",
+            "name": "Iran US 2nd Peace Talk Update LIVE: दूसरी वार्ता से पहले टूटा सीजफायर?  | Israel | Hormuz | War",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "zZKDukGr9oQ",
-            "name": "ईरान-अमेरिका जंग, 16 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs China | World War 3",
+            "videoId": "8CVQUXoo5qE",
+            "name": "Iran US 2nd Peace Talk Update LIVE: दूसरी शांति वार्ता फेल होगी? | Israel | Hormuz | World War",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IBh9S4oFWgI",
+            "name": "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 10 April 2026 || World News Bangla ||",
+            "artist": "ABC BENGLA NEWS 72"
+        },
+        {
+            "mood": "storm",
+            "videoId": "po2Fp_5-1_M",
+            "name": "🔴LIVE: Field Marshal Asim Munir lands in Iran amid High-Stakes Push for US–Iran Peace Talks",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HtcMd7ia-jE",
+            "name": "Ajker Bangla Khobor 16 April 2026 | Bangladesh Latest News | BNP | dr. yunus | Bangla News Today",
+            "artist": "Khadiza Tv"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dgEzl2WNPzU",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
