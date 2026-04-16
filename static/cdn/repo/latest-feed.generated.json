@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-16T15:20:18.001Z",
+    "generatedAt": "2026-04-16T17:05:40.948Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gdwYP_iIVhk",
-            "name": "US-Iran Talks LIVE: Pakistan's Asim Munir Holds Crucial Talks With Iran's Abbas Araghchi in Tehran",
+            "videoId": "I2VKjomkx1o",
+            "name": "Strait of Hormuz LIVE: US Threatens Force Against Ships Defying Hormuz Blockade | Iran War | Israel",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "5xXOm6q8IYE",
-            "name": "Priyanka Gandhi LIVE: महिला आरक्षण पर बोल रहीं प्रियंका गांधी | Women Reservation Bill | Parliament",
-            "artist": "ABP NEWS"
+            "videoId": "Hwvq_QelFiw",
+            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "iwSIVPBBICg",
+            "videoId": "GFfpc5vvDsQ",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FhUVJoDplDw",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "artist": "Amar Somoy "
         },
         {
             "mood": "storm",
-            "videoId": "7So60N5KkOs",
-            "name": "Sandeep Chaudhary LIVE: उत्तर-दक्षिण में झगड़ा..अटक गया पिछड़ा! | Women’s Reservation Bill",
-            "artist": "ABP NEWS"
+            "videoId": "_U_cWnsadoM",
+            "name": "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Q-Ak2DXrVOU",
-            "name": "Pakistan UAE News LIVE: Pakistan ने UAE को दिया धोखा? Munir–Shehbaz बड़ा विवाद?  | Munir | Shehbaz |",
-            "artist": "India News"
+            "videoId": "p01RMy-oFdc",
+            "name": "America-China War News LIVE: चीन-अमेरिका की जंग शुरू! | World War 3 | Iran US Ceasefire | Peace Talk",
+            "artist": "Republic Bharat"
         },
         {
             "mood": "storm",
-            "videoId": "ydh5DgSxbhc",
-            "name": "Sandeep Chaudhary LIVE: Women Reservation..परिसीमन निशाना? | Priyanka Gandhi | PM Modi |NDA Vs INDIA",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FaaV9-fffm0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_IIzmNDw2mM",
-            "name": "Iran Big Attack LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
-            "artist": "NDTV India"
+            "videoId": "4g1BAkCb01Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {
