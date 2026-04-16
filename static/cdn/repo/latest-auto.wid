@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260416T065306.436Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260416T082357.367Z-l4t35t"
   type: "state"
-  created: "2026-04-16T06:53:06.436Z"
+  created: "2026-04-16T08:23:57.367Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T065306.436Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260416T082357.367Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,20 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7Acj6tWdY2s"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 16.04.2026 | Latest News | Breaking News | ATN Bangla News"
+        videoId: "YO23XzM1V6U"
+        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । 16.04.2026 | Top News | Latest News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "toeOgxIOpa4"
-        name: "China vs America LIVE: अमेरिका की तबाही होने लगी शुरू? | Trump | Xi Jinping | Russia Entry | China"
-        artist: "ABP NEWS"
+        videoId: "Vu710HEBx8o"
+        name: "LIVE | Trump Issues Huge Warning of 'World War III' | Israel Iran War | Netanyahu | Khamenei | US"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QShmCnzIN74"
-        name: "Iran US 2nd Peace Talks: 21 सेकेंड में ईरान ने उड़ाया पहला जहाज, खून से लाल समंदर! | Hormuz Blockade"
+        videoId: "3KnS_r8wiRo"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 16.04.2026 | Latest News | Today News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i1pmr2bjf1o"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M8NUqNBe2cI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zZKDukGr9oQ"
+        name: "ईरान-अमेरिका जंग, 16 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs China | World War 3"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -78,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-16T06:53:06.436Z"
+  exported_at: "2026-04-16T08:23:57.367Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-16T06:53:06.404Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-16T08:23:57.333Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
