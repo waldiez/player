@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T16:45:54.615Z",
+    "generatedAt": "2026-04-17T17:42:06.269Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DIF_xabXihQ",
-            "name": "🔴LIVE | Trump In Pakistan | US–Iran Talks Final Round | Deal Final? Iran's Action| Pakistan Big Move",
-            "artist": "Dunya News"
+            "videoId": "0iIC4umENko",
+            "name": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (17.04.2026) | 10 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "cl6ghB2AtTE",
-            "name": "US News LIVE: Barack Obama Arrest Sparks Firestorm, White House Reacts, Donald Trump Responds",
-            "artist": "ET Now"
+            "videoId": "1m0V_wAb2iA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "IxyBTNafSo4",
-            "name": "Hormuz Blockade Tension: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Russia | China | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "IWxabL_R6y0",
+            "name": "🔴LIVE: Iran | war | ஈரானின் ''சைலண்ட்'' - போரில் உலகமே எதிர்பாரா மாற்றம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "RP-mYnVfYSA",
-            "name": "Sandeep Chaudhary LIVE: नारी शक्ति बहाना..परिसीमन पर निशाना! | Women Reservation | Rahul Gandhi",
-            "artist": "ABP NEWS"
+            "videoId": "VuYhjVttTrU",
+            "name": "🔴 LIVE || Live: Iran US Deal - Islamabad Talks 2.0 | Trump will visit Pakistan || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "kfQJN14j9jA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "-SCbONDP9bk",
+            "name": "LIVE : Trump | IRAN | WAR | போரில் திடீர் திருப்பம்! அடுத்த அணுகுண்டை வீசிய டிரம்ப்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DE3oisLldk0",
+            "name": "🔴LIVE: Iran-US Talk | Big Big Breaking |  | Islamabad Talks Update | Geo News",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
