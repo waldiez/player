@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T11:43:42.418Z",
+    "generatedAt": "2026-04-17T13:00:52.795Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lM0CNSdtCCE",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.04.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "o2zk80dOud4",
+            "name": "Leavitt News LIVE: Karoline Leavitt's Stark Warning Stuns Iran | Israel Iran War | Hormuz",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "1CvNzoc7r4k",
-            "name": "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "videoId": "gO3aj6RGakM",
+            "name": "Out Of Focus Live | 17 April 2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ykyibcj6hGE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Politics News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Aix5Ly2CSZI",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "-SCbONDP9bk",
-            "name": "LIVE : Trump | IRAN | WAR | போரில் திடீர் திருப்பம்! அடுத்த அணுகுண்டை வீசிய டிரம்ப்",
-            "artist": "Sathiyam News"
+            "videoId": "12XL4FH2VkM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছ",
+            "artist": "WALD NEWS BD"
         },
         {
             "mood": "storm",
-            "videoId": "TlKpA--xalU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "World Express "
+            "videoId": "NuE9yOF_idI",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qPYbu23T0V4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
