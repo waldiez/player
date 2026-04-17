@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T04:43:52.845Z",
+    "generatedAt": "2026-04-17T06:53:33.272Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-sYeNfPat6E",
-            "name": "Namaste Bharat LIVE: डील और धमकी ट्रंप की सांस अटकी | US-Iran Peace Talk Update",
+            "videoId": "EsceZYHSg3o",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MGqsbc9wVvQ",
+            "name": "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_S_dLEChzJQ",
-            "name": "Iran Israel Us War Update Live : 17 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BXa-gJCeS34",
-            "name": "Live | Morning News Bulletin | India News | World News",
-            "artist": "The Savera Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DyAhJsi2XRM",
-            "name": "अमेरिका -ईरान जंग पर बड़ी खबर LIVE: 16 April News | Iran America War LIVE | Trump | Netanyahu | Modi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ydh5DgSxbhc",
-            "name": "Sandeep Chaudhary LIVE: Women Reservation..परिसीमन निशाना? | Priyanka Gandhi | PM Modi |NDA Vs INDIA",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NS_OMxj5D3A",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9TM0hyOlBmw",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 16, 2026",
-            "artist": "ABC News"
+            "videoId": "Ppjpsz26qbE",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
         }
     ],
     "sourceFilters": {

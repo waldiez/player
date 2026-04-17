@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260417T044352.874Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260417T065333.304Z-l4t35t"
   type: "state"
-  created: "2026-04-17T04:43:52.874Z"
+  created: "2026-04-17T06:53:33.304Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T044352.874Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T065333.304Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-sYeNfPat6E"
-        name: "Namaste Bharat LIVE: डील और धमकी ट्रंप की सांस अटकी | US-Iran Peace Talk Update"
+        videoId: "EsceZYHSg3o"
+        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MGqsbc9wVvQ"
+        name: "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_S_dLEChzJQ"
-        name: "Iran Israel Us War Update Live : 17 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BXa-gJCeS34"
-        name: "Live | Morning News Bulletin | India News | World News"
-        artist: "The Savera Times"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DyAhJsi2XRM"
-        name: "अमेरिका -ईरान जंग पर बड़ी खबर LIVE: 16 April News | Iran America War LIVE | Trump | Netanyahu | Modi"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ydh5DgSxbhc"
-        name: "Sandeep Chaudhary LIVE: Women Reservation..परिसीमन निशाना? | Priyanka Gandhi | PM Modi |NDA Vs INDIA"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NS_OMxj5D3A"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9TM0hyOlBmw"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 16, 2026"
-        artist: "ABC News"
+        videoId: "Ppjpsz26qbE"
+        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
+        artist: "Niropekkho Online"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-17T04:43:52.874Z"
+  exported_at: "2026-04-17T06:53:33.304Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-17T04:43:52.845Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-17T06:53:33.272Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
