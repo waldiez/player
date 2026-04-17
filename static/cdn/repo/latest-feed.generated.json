@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T01:51:48.487Z",
+    "generatedAt": "2026-04-17T04:43:52.845Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iDtucyuiPhk",
-            "name": "LIVE | Iran Ready To Hand Over Uranium, Trump Makes Big Claim | Trump Iran War | US Iran War | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aI1-LkS-ZXM",
-            "name": "China on Iran- America War: अमेरिका को घेरा! उड़ा दिए कई जहाज? | Russia | Putin | Trump | Breaking",
+            "videoId": "-sYeNfPat6E",
+            "name": "Namaste Bharat LIVE: डील और धमकी ट्रंप की सांस अटकी | US-Iran Peace Talk Update",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "7So60N5KkOs",
-            "name": "Sandeep Chaudhary LIVE: उत्तर-दक्षिण में झगड़ा..अटक गया पिछड़ा! | Women’s Reservation Bill",
+            "videoId": "_S_dLEChzJQ",
+            "name": "Iran Israel Us War Update Live : 17 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BXa-gJCeS34",
+            "name": "Live | Morning News Bulletin | India News | World News",
+            "artist": "The Savera Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DyAhJsi2XRM",
+            "name": "अमेरिका -ईरान जंग पर बड़ी खबर LIVE: 16 April News | Iran America War LIVE | Trump | Netanyahu | Modi",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ydh5DgSxbhc",
+            "name": "Sandeep Chaudhary LIVE: Women Reservation..परिसीमन निशाना? | Priyanka Gandhi | PM Modi |NDA Vs INDIA",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "5bmPb0jhsqc",
-            "name": "Janhit with Chitra Tripathi LIVE: नारी शक्ति की लड़ाई, हिंदू-मुसलमान पर आई? | Women Reservation Bill",
-            "artist": "ABP NEWS"
+            "videoId": "NS_OMxj5D3A",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "RA-V5iuhcpw",
-            "name": "Strait Of Hormuz News LIVE: Trump Accepts Defeat?, After Hormuz Blockade 'Fails' | Iran US War News",
-            "artist": "Hindustan Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "q2tsPPzyBZQ",
-            "name": "ईरान-अमेरिका जंग, 17 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wvy07EcD72Y",
-            "name": "Today's Headlines | 17 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "US2GxCCmz10",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 17 April",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vOIszP1ipNs",
-            "name": "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 17 April 2026 || World News Bangla ||",
-            "artist": "ABC BENGLA NEWS 72"
+            "videoId": "9TM0hyOlBmw",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 16, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
