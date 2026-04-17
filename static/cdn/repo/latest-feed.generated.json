@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T18:47:06.050Z",
+    "generatedAt": "2026-04-17T19:53:11.584Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,32 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "c5vb2wog9Qc",
-            "name": "🔴LIVE: Field Marshal Asim Munir Visits Iran | Iran Announces Opening of Strait of Hormuz | Geo News",
-            "artist": "Geo News"
+            "videoId": "i5bJklMU-0Y",
+            "name": "🔴LIVE : Iran | America | hormuz strait | மிக முக்கிய நல்ல செய்தி சொன்ன ஈரான்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "oqL7uBzTFQI",
-            "name": "Thank You, Iran!! #Iran #USA #IranUSTalks  #StraitOfHormuz #WorldNews",
-            "artist": "Dunya Reels"
+            "videoId": "0iIC4umENko",
+            "name": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (17.04.2026) | 10 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "kXKpaDtiUao",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "kZixkXurJdI",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 17.04.2026 | BD News | Ajker News | Bangla News | Latest News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "dhSCnoVkYZ4",
-            "name": "US Iran War LIVE | Iran Opens Strait Of Hormuz Amid Ceasefire, Trump Withdraws Naval Blockade | N18G",
-            "artist": "CNN-News18"
+            "videoId": "1m0V_wAb2iA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "3JYP1rVpyFQ",
-            "name": "LIVE: IRAN | WAR | உலகிற்கே ஈரான் அறிவித்த மகிழ்ச்சி செய்தி",
+            "videoId": "IWxabL_R6y0",
+            "name": "🔴LIVE: Iran | war | ஈரானின் ''சைலண்ட்'' - போரில் உலகமே எதிர்பாரா மாற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BQF5OgfiEP4",
+            "name": "LIVE: Iran Reopens Strait of Hormuz | Trump Confirms to Continue Blockade | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-SCbONDP9bk",
+            "name": "LIVE : Trump | IRAN | WAR | போரில் திடீர் திருப்பம்! அடுத்த அணுகுண்டை வீசிய டிரம்ப்",
             "artist": "Sathiyam News"
         }
     ],
