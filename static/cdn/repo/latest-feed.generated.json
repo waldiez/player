@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T13:00:52.795Z",
+    "generatedAt": "2026-04-17T14:48:53.714Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "o2zk80dOud4",
-            "name": "Leavitt News LIVE: Karoline Leavitt's Stark Warning Stuns Iran | Israel Iran War | Hormuz",
-            "artist": "Hindustan Times"
+            "videoId": "IxyBTNafSo4",
+            "name": "Hormuz Blockade Tension LIVE: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Russia | China | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "gO3aj6RGakM",
-            "name": "Out Of Focus Live | 17 April 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ykyibcj6hGE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global Politics News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Aix5Ly2CSZI",
-            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "videoId": "CzFTmFnrlcc",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "12XL4FH2VkM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছ",
-            "artist": "WALD NEWS BD"
+            "videoId": "KkUitn8WxVQ",
+            "name": "Breaking News LIVE: संसद में गिर गया महिला आरक्षण बिल | Women's Reservation Bill | Rahul Gandhi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "NuE9yOF_idI",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "ET Now"
+            "videoId": "RP-mYnVfYSA",
+            "name": "Sandeep Chaudhary LIVE: नारी शक्ति बहाना..परिसीमन पर निशाना! | Women Reservation | Rahul Gandhi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qPYbu23T0V4",
+            "videoId": "Xtkg1HGITvE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 17 April  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "SKY NEWS 24 BANGLA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kfQJN14j9jA",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UPimOVY0G5Y",
+            "name": "🔴LIVE : Trump | Iran |  போரில் திடீர் திருப்பம் - குறியை மாற்றிய டிரம்ப் - ஈரானை மிரட்டிய அமெரிக்கா",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y-aKa3paxiM",
+            "name": "Iran Israel US War Update LIVE: होर्मुज बंद...अरब देशों में भयंकर भूचाल! | Saudi Arabia | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0AHIneF6MKk",
+            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4-6z65G1JEA",
+            "name": "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ioqVB6MKUOw",
+            "name": "FIR Against on Rahul Gandhi: राहुल के खिलाफ FIR दर्ज करने के आदेश | Allahabad High Court | Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
