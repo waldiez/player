@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T15:52:37.505Z",
+    "generatedAt": "2026-04-17T16:45:54.615Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NK7Rcz3yAww",
-            "name": "Live: Iran US Ceasefire Talks | Trump Signals Islamabad Visit | Latest Statement | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "DIF_xabXihQ",
+            "name": "🔴LIVE | Trump In Pakistan | US–Iran Talks Final Round | Deal Final? Iran's Action| Pakistan Big Move",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "LFK2h5Tza8U",
-            "name": "US News Live: Donald Trump's Stunning Address In Nevada After Nuclear Bombshell Claim With Iran",
-            "artist": "Times Of India"
+            "videoId": "cl6ghB2AtTE",
+            "name": "US News LIVE: Barack Obama Arrest Sparks Firestorm, White House Reacts, Donald Trump Responds",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "DVRkDFPKyP8",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "IxyBTNafSo4",
+            "name": "Hormuz Blockade Tension: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Russia | China | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "fkoLgvoYmFM",
-            "name": "HORMUZ OPENS LIVE | Iran’s Araghchi Announces End To Maritime Restrictions | US-Iran War |WORLD NEWS",
-            "artist": "Times Now World"
+            "videoId": "RP-mYnVfYSA",
+            "name": "Sandeep Chaudhary LIVE: नारी शक्ति बहाना..परिसीमन पर निशाना! | Women Reservation | Rahul Gandhi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kfQJN14j9jA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
