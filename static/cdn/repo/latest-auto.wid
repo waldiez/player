@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260417T065333.304Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260417T082251.274Z-l4t35t"
   type: "state"
-  created: "2026-04-17T06:53:33.304Z"
+  created: "2026-04-17T08:22:51.274Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T065333.304Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T082251.274Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "EsceZYHSg3o"
-        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
-        artist: "Times Now"
+        videoId: "Ulb2NvT87RE"
+        name: "🔴 LIVE || Iran War Expected to End Soon, US President || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MGqsbc9wVvQ"
-        name: "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump"
+        videoId: "vOIszP1ipNs"
+        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 17 April 2026 || World News Bangla ||"
+        artist: "ABC BENGLA NEWS 72"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SbBIxnZM_S8"
+        name: "Iran-US War Update: संयुक्त राष्ट्र में भारत का अल्टीमेटम! | Hormuz Blockade | Trump | UN"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ppjpsz26qbE"
-        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
-        artist: "Niropekkho Online"
+        videoId: "G2E3U8tldfU"
+        name: "Ali Khamenei Alive? LIVE: मोजतबा खामेनेई के नए दावों ने उड़ाए होश | Trump | Iran-US War | Israel"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nxfDjFdqf8o"
+        name: "World News LIVE: Middle East War का असर India पर! तेल संकट और महंगाई का डबल झटका? |ABPLIVE"
+        artist: "ABPLIVE"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-17T06:53:33.304Z"
+  exported_at: "2026-04-17T08:22:51.274Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-17T06:53:33.272Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-17T08:22:51.226Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
