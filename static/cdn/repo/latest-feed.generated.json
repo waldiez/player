@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T08:22:51.226Z",
+    "generatedAt": "2026-04-17T10:07:21.455Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ulb2NvT87RE",
-            "name": "🔴 LIVE || Iran War Expected to End Soon, US President || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "qPYbu23T0V4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "vOIszP1ipNs",
-            "name": "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 17 April 2026 || World News Bangla ||",
-            "artist": "ABC BENGLA NEWS 72"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SbBIxnZM_S8",
-            "name": "Iran-US War Update: संयुक्त राष्ट्र में भारत का अल्टीमेटम! | Hormuz Blockade | Trump | UN",
+            "videoId": "jf5YiUzkRpQ",
+            "name": "Israel Big Attack on Iran LIVE: ईरान ने कर डाली बड़ी गलती! | America-Iran | Ceasefire Break",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "G2E3U8tldfU",
-            "name": "Ali Khamenei Alive? LIVE: मोजतबा खामेनेई के नए दावों ने उड़ाए होश | Trump | Iran-US War | Israel",
+            "videoId": "6XR7ODtFdw4",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5OELqmagU08",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FxuSTYEIdEE",
+            "name": "Iran Big Attack LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4FoXr6x7rrY",
+            "name": "Ajker Bangla Khobor 15 April 2026 | Bangladesh Latest News | BNP | dr. yunus | Bangla News Today",
+            "artist": "Khadiza Tv"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HfzDmCPEUC0",
+            "name": "NATO Vs USA Clash: नाटो ने USA को लिस्ट से निकाला बाहर? | Trump | Iran | Peace Talk | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "nxfDjFdqf8o",
-            "name": "World News LIVE: Middle East War का असर India पर! तेल संकट और महंगाई का डबल झटका? |ABPLIVE",
-            "artist": "ABPLIVE"
+            "videoId": "EsceZYHSg3o",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Kfwas-6tIe0",
+            "name": "Today Headlines | 17 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MGqsbc9wVvQ",
+            "name": "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
