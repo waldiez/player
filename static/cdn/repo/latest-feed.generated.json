@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T20:37:07.662Z",
+    "generatedAt": "2026-04-17T21:34:59.760Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oFPDplyYr_M",
-            "name": "🔴LIVE: உலக நாடுகள் கவனத்திற்கு.. ஈரான் திடீர் அறிவிப்பு.. | IRAN | Trump  | Hormuz Island",
-            "artist": "Polimer News"
+            "videoId": "Ppjpsz26qbE",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
         },
         {
             "mood": "storm",
-            "videoId": "Ehp3yv1SX78",
-            "name": "LIVE | Trump Announces Unfreezing Of $20B Iranian Assets After Hormuz Reopneing | US Iran War | N18G",
-            "artist": "CNN-News18"
+            "videoId": "i5bJklMU-0Y",
+            "name": "🔴LIVE : Iran | America | hormuz strait | மிக முக்கிய நல்ல செய்தி சொன்ன ஈரான்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "c5vb2wog9Qc",
-            "name": "🔴LIVE: Field Marshal Asim Munir Visits Iran | Iran Announces Opening of Strait of Hormuz | Geo News",
-            "artist": "Geo News"
+            "videoId": "0iIC4umENko",
+            "name": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (17.04.2026) | 10 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "oqL7uBzTFQI",
-            "name": "Thank You, Iran!! #Iran #USA #IranUSTalks  #StraitOfHormuz #WorldNews",
-            "artist": "Dunya Reels"
+            "videoId": "kZixkXurJdI",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 17.04.2026 | BD News | Ajker News | Bangla News | Latest News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "vfI0Dtu9M60",
-            "name": "LIVE: Trump Says Iran War Ending Soon; Claims Tehran Agrees to Hand Over 'Nuclear Dust' |US Iran War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kXKpaDtiUao",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dhSCnoVkYZ4",
-            "name": "US Iran War LIVE | Iran Opens Strait Of Hormuz Amid Ceasefire, Trump Withdraws Naval Blockade | N18G",
-            "artist": "CNN-News18"
+            "videoId": "1m0V_wAb2iA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
