@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T10:07:21.455Z",
+    "generatedAt": "2026-04-17T11:43:42.418Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qPYbu23T0V4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "lM0CNSdtCCE",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "jf5YiUzkRpQ",
-            "name": "Israel Big Attack on Iran LIVE: ईरान ने कर डाली बड़ी गलती! | America-Iran | Ceasefire Break",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6XR7ODtFdw4",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "videoId": "1CvNzoc7r4k",
+            "name": "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "5OELqmagU08",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FxuSTYEIdEE",
-            "name": "Iran Big Attack LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4FoXr6x7rrY",
-            "name": "Ajker Bangla Khobor 15 April 2026 | Bangladesh Latest News | BNP | dr. yunus | Bangla News Today",
-            "artist": "Khadiza Tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HfzDmCPEUC0",
-            "name": "NATO Vs USA Clash: नाटो ने USA को लिस्ट से निकाला बाहर? | Trump | Iran | Peace Talk | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EsceZYHSg3o",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kfwas-6tIe0",
-            "name": "Today Headlines | 17 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "videoId": "-SCbONDP9bk",
+            "name": "LIVE : Trump | IRAN | WAR | போரில் திடீர் திருப்பம்! அடுத்த அணுகுண்டை வீசிய டிரம்ப்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "MGqsbc9wVvQ",
-            "name": "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "TlKpA--xalU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World Express "
         }
     ],
     "sourceFilters": {

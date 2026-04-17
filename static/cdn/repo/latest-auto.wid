@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260417T100721.489Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260417T114342.450Z-l4t35t"
   type: "state"
-  created: "2026-04-17T10:07:21.489Z"
+  created: "2026-04-17T11:43:42.450Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T100721.489Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T114342.450Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qPYbu23T0V4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "lM0CNSdtCCE"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jf5YiUzkRpQ"
-        name: "Israel Big Attack on Iran LIVE: ईरान ने कर डाली बड़ी गलती! | America-Iran | Ceasefire Break"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6XR7ODtFdw4"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News"
+        videoId: "1CvNzoc7r4k"
+        name: "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 17.04.2026 | Latest News | Breaking News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5OELqmagU08"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FxuSTYEIdEE"
-        name: "Iran Big Attack LIVE : जंग में बेकाबू हुआ ईरान, निकाला सबसे घातक हथियार!  Netanyahu | Trump America"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4FoXr6x7rrY"
-        name: "Ajker Bangla Khobor 15 April 2026 | Bangladesh Latest News | BNP | dr. yunus | Bangla News Today"
-        artist: "Khadiza Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HfzDmCPEUC0"
-        name: "NATO Vs USA Clash: नाटो ने USA को लिस्ट से निकाला बाहर? | Trump | Iran | Peace Talk | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EsceZYHSg3o"
-        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Kfwas-6tIe0"
-        name: "Today Headlines | 17 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "-SCbONDP9bk"
+        name: "LIVE : Trump | IRAN | WAR | போரில் திடீர் திருப்பம்! அடுத்த அணுகுண்டை வீசிய டிரம்ப்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MGqsbc9wVvQ"
-        name: "Israel US War Update LIVE: अचानक सामने आए खामेनेई...नाकेबंदी पर गिरेगी मिसाइल? | Hormuz | Trump"
-        artist: "ABP NEWS"
+        videoId: "TlKpA--xalU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "World Express "
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-17T10:07:21.489Z"
+  exported_at: "2026-04-17T11:43:42.450Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-17T10:07:21.455Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-17T11:43:42.418Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
