@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T04:26:00.528Z",
+    "generatedAt": "2026-04-18T06:08:33.374Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "60h8JErXDyE",
-            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "35BcfVFEGL8",
+            "name": "खुल गया होर्मुज LIVE : ईरान का बड़ा ऐलान | Trump | Mojtaba Khamenei  | World News LIVE",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "q4aCaZSsYJ0",
-            "name": "A New World Order? | China & Russia & Iran Form a Powerful Alliance | Najam Sethi Analysis",
-            "artist": "Dunya News"
+            "videoId": "GRhXnuEotcs",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 18.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "WcL1RI5WXKg",
-            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zhJXlfV_FOM",
-            "name": "Iran Israel Us War Update Live : 18 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "ntXBNMY7HPU",
+            "name": "Live | Morning News Bulletin | India News | World News",
+            "artist": "The Savera Times"
         }
     ],
     "sourceFilters": {
