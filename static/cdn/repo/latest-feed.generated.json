@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T15:30:59.272Z",
+    "generatedAt": "2026-04-18T16:29:37.155Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "57uFtdHUAaQ",
-            "name": "Hormuz Strait Closed: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Iran US War | Russia | China | Trump",
+            "videoId": "agVhQmbKuw4",
+            "name": "🔴LIVE | Strait of Hormuz Closed Again | Iran's Major Announcement | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2Dloimp4pIs",
+            "name": "LIVE: Iran Becoming The Fourth Centre of World Power? | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uPPkcjnGJXI",
+            "name": "America Vs China on Malacca Strait News LIVE: भारत पहुंची युद्ध की आग, मलक्का स्ट्रेट पर जंग | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "diCYfrS1iLY",
-            "name": "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 18 April",
+            "videoId": "yCbzdsxkRAI",
+            "name": "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | Women reservation bill | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "l868oMJFh3k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "j3zzYsuCrPI",
-            "name": "US-Iran War LIVE: US Navy Blocks Ships Despite Iran Opening Strait Of Hormuz | Trump | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zsxrhQ1Eros",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "h9Zxqyw2ZzU",
-            "name": "Sandeep Chaudhary LIVE: Women reservation पर घमासान..किसका नफा, किसे नुकसान? | Rahul | BJP Protest",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FfSZOVSdor8",
-            "name": "Iran America War Update: दूसरी शांति वार्ता से पहले ट्रंप ने कर दिया सरेंडर? | Trump | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Re4DRdv2eoM",
-            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
+            "videoId": "IAo2rzOXGbQ",
+            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
             "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C_m8PAOiF_g",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

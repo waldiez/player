@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T153059.300Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T162937.187Z-l4t35t"
   type: "state"
-  created: "2026-04-18T15:30:59.300Z"
+  created: "2026-04-18T16:29:37.187Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T153059.300Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T162937.187Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "57uFtdHUAaQ"
-        name: "Hormuz Strait Closed: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Iran US War | Russia | China | Trump"
+        videoId: "agVhQmbKuw4"
+        name: "🔴LIVE | Strait of Hormuz Closed Again | Iran's Major Announcement | SAMAA TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2Dloimp4pIs"
+        name: "LIVE: Iran Becoming The Fourth Centre of World Power? | US Iran War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uPPkcjnGJXI"
+        name: "America Vs China on Malacca Strait News LIVE: भारत पहुंची युद्ध की आग, मलक्का स्ट्रेट पर जंग | Trump"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "diCYfrS1iLY"
-        name: "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 18 April"
+        videoId: "yCbzdsxkRAI"
+        name: "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | Women reservation bill | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l868oMJFh3k"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Doyel Tv 2.0"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "j3zzYsuCrPI"
-        name: "US-Iran War LIVE: US Navy Blocks Ships Despite Iran Opening Strait Of Hormuz | Trump | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zsxrhQ1Eros"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "h9Zxqyw2ZzU"
-        name: "Sandeep Chaudhary LIVE: Women reservation पर घमासान..किसका नफा, किसे नुकसान? | Rahul | BJP Protest"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FfSZOVSdor8"
-        name: "Iran America War Update: दूसरी शांति वार्ता से पहले ट्रंप ने कर दिया सरेंडर? | Trump | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Re4DRdv2eoM"
-        name: "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE"
+        videoId: "IAo2rzOXGbQ"
+        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
         artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "C_m8PAOiF_g"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T15:30:59.300Z"
+  exported_at: "2026-04-18T16:29:37.187Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T15:30:59.272Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T16:29:37.155Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
