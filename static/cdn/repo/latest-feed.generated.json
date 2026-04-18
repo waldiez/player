@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-17T23:32:20.850Z",
+    "generatedAt": "2026-04-18T01:44:10.927Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ppjpsz26qbE",
+            "videoId": "ny1oPOXfvhc",
+            "name": "Iran Vs America War LIVE : ईरान ने खोला होर्मुज… रातों-रात पलट गई बाजी! Trump | Mojtaba Khamenei",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EcuWVHSXFDs",
+            "name": "Rahul Gandhi Big Statement on Women Reservation LIVE: महिला बिल गिरने के बाद राहुल का बड़ा बयान",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KkUitn8WxVQ",
+            "name": "Breaking News LIVE: संसद में गिर गया महिला आरक्षण बिल | Women's Reservation Bill | Rahul Gandhi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lY6jTR1P-Ng",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 18 April",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ka5nMS5KDs",
             "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
-            "artist": "Niropekkho Online"
+            "artist": "Niropekkho Digital"
         },
         {
             "mood": "storm",
-            "videoId": "i5bJklMU-0Y",
-            "name": "🔴LIVE : Iran | America | hormuz strait | மிக முக்கிய நல்ல செய்தி சொன்ன ஈரான்",
-            "artist": "Thanthi TV"
+            "videoId": "yAbWqAZhgXA",
+            "name": "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy |20నుంచి రైతు భరోసా వారికి మాత్రమే? | ZEE News",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "wawYl-afdVQ",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "c5vb2wog9Qc",
+            "name": "🔴LIVE: Field Marshal Asim Munir Visits Iran | Iran Announces Opening of Strait of Hormuz | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "kZixkXurJdI",
-            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 17.04.2026 | BD News | Ajker News | Bangla News | Latest News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1m0V_wAb2iA",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "oqL7uBzTFQI",
+            "name": "Thank You, Iran!! #Iran #USA #IranUSTalks  #StraitOfHormuz #WorldNews",
+            "artist": "Dunya Reels"
         }
     ],
     "sourceFilters": {

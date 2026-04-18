@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260417T233220.885Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T014410.961Z-l4t35t"
   type: "state"
-  created: "2026-04-17T23:32:20.885Z"
+  created: "2026-04-18T01:44:10.961Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260417T233220.885Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T014410.961Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ppjpsz26qbE"
+        videoId: "ny1oPOXfvhc"
+        name: "Iran Vs America War LIVE : ईरान ने खोला होर्मुज… रातों-रात पलट गई बाजी! Trump | Mojtaba Khamenei"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EcuWVHSXFDs"
+        name: "Rahul Gandhi Big Statement on Women Reservation LIVE: महिला बिल गिरने के बाद राहुल का बड़ा बयान"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KkUitn8WxVQ"
+        name: "Breaking News LIVE: संसद में गिर गया महिला आरक्षण बिल | Women's Reservation Bill | Rahul Gandhi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lY6jTR1P-Ng"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 18 April"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2ka5nMS5KDs"
         name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
-        artist: "Niropekkho Online"
+        artist: "Niropekkho Digital"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i5bJklMU-0Y"
-        name: "🔴LIVE : Iran | America | hormuz strait | மிக முக்கிய நல்ல செய்தி சொன்ன ஈரான்"
-        artist: "Thanthi TV"
+        videoId: "yAbWqAZhgXA"
+        name: "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy |20నుంచి రైతు భరోసా వారికి మాత్రమే? | ZEE News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wawYl-afdVQ"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "c5vb2wog9Qc"
+        name: "🔴LIVE: Field Marshal Asim Munir Visits Iran | Iran Announces Opening of Strait of Hormuz | Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kZixkXurJdI"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ | 17.04.2026 | BD News | Ajker News | Bangla News | Latest News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1m0V_wAb2iA"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "oqL7uBzTFQI"
+        name: "Thank You, Iran!! #Iran #USA #IranUSTalks  #StraitOfHormuz #WorldNews"
+        artist: "Dunya Reels"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-17T23:32:20.885Z"
+  exported_at: "2026-04-18T01:44:10.961Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-17T23:32:20.850Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T01:44:10.927Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
