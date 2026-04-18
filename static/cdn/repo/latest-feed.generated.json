@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T01:44:10.927Z",
+    "generatedAt": "2026-04-18T04:26:00.528Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ny1oPOXfvhc",
-            "name": "Iran Vs America War LIVE : ईरान ने खोला होर्मुज… रातों-रात पलट गई बाजी! Trump | Mojtaba Khamenei",
-            "artist": "NDTV India"
+            "videoId": "60h8JErXDyE",
+            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "EcuWVHSXFDs",
-            "name": "Rahul Gandhi Big Statement on Women Reservation LIVE: महिला बिल गिरने के बाद राहुल का बड़ा बयान",
-            "artist": "ABP NEWS"
+            "videoId": "q4aCaZSsYJ0",
+            "name": "A New World Order? | China & Russia & Iran Form a Powerful Alliance | Najam Sethi Analysis",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "KkUitn8WxVQ",
-            "name": "Breaking News LIVE: संसद में गिर गया महिला आरक्षण बिल | Women's Reservation Bill | Rahul Gandhi",
-            "artist": "ABP NEWS"
+            "videoId": "WcL1RI5WXKg",
+            "name": "Donald Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "lY6jTR1P-Ng",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 18 April",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2ka5nMS5KDs",
-            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
-            "artist": "Niropekkho Digital"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yAbWqAZhgXA",
-            "name": "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy |20నుంచి రైతు భరోసా వారికి మాత్రమే? | ZEE News",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "c5vb2wog9Qc",
-            "name": "🔴LIVE: Field Marshal Asim Munir Visits Iran | Iran Announces Opening of Strait of Hormuz | Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oqL7uBzTFQI",
-            "name": "Thank You, Iran!! #Iran #USA #IranUSTalks  #StraitOfHormuz #WorldNews",
-            "artist": "Dunya Reels"
+            "videoId": "zhJXlfV_FOM",
+            "name": "Iran Israel Us War Update Live : 18 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
