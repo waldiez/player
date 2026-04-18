@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T143722.299Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T153059.300Z-l4t35t"
   type: "state"
-  created: "2026-04-18T14:37:22.299Z"
+  created: "2026-04-18T15:30:59.300Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T143722.299Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T153059.300Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "IAo2rzOXGbQ"
-        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
-        artist: "Times Now"
+        videoId: "57uFtdHUAaQ"
+        name: "Hormuz Strait Closed: अमेरिका ने खोल दी 1 मिनट में नाकाबंदी! | Iran US War | Russia | China | Trump"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VRPnkzSNHj0"
-        name: "WORLD NEWS LIVE: Iran Hormuz Update And Trump’s Explosive Claim at Turning Point Event | N18G"
-        artist: "Firstpost"
+        videoId: "diCYfrS1iLY"
+        name: "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 18 April"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l868oMJFh3k"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j3zzYsuCrPI"
+        name: "US-Iran War LIVE: US Navy Blocks Ships Despite Iran Opening Strait Of Hormuz | Trump | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zsxrhQ1Eros"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "h9Zxqyw2ZzU"
+        name: "Sandeep Chaudhary LIVE: Women reservation पर घमासान..किसका नफा, किसे नुकसान? | Rahul | BJP Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FfSZOVSdor8"
+        name: "Iran America War Update: दूसरी शांति वार्ता से पहले ट्रंप ने कर दिया सरेंडर? | Trump | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Re4DRdv2eoM"
+        name: "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T14:37:22.299Z"
+  exported_at: "2026-04-18T15:30:59.300Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T14:37:22.264Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T15:30:59.272Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
