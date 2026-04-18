@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T112853.457Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T124234.238Z-l4t35t"
   type: "state"
-  created: "2026-04-18T11:28:53.457Z"
+  created: "2026-04-18T12:42:34.238Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T112853.457Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T124234.238Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "A-cvG2hTp88"
-        name: "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 18.04.2026 | Latest News | Breaking News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PsYpPCBw-wU"
-        name: "LIVE | Israel–Lebanon Ceasefire Cracking? Hezbollah Says ‘Finger on Trigger’, | Hezbollah | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pWQGcaEBiZM"
-        name: "Top 100 News Today Live | 100 बड़ी खबरें | Iran US War | PM Modi | Noida Workers Protest | Superfast"
+        videoId: "zhJXlfV_FOM"
+        name: "Iran Israel Us War Update Live : 18 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dyjKN5Ch9M0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1YyvaWVk9k8"
+        name: "LIVE: Trump Declares 10-Day Israel-Lebanon Ceasefire, Claims To Halt '10th War' | US Iran War"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4-6z65G1JEA"
+        name: "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Mgi8pww8VHM"
+        name: "🔴 LIVE || Breaking News: Iran Announces Opening of Strait of Hormuz || ARY News Live"
+        artist: "ARY News"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T11:28:53.457Z"
+  exported_at: "2026-04-18T12:42:34.238Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T11:28:53.420Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T12:42:34.206Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

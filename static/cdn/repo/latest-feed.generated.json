@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T11:28:53.420Z",
+    "generatedAt": "2026-04-18T12:42:34.206Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "A-cvG2hTp88",
-            "name": "এটিএন বাংলার বিকাল ৪ টার সংবাদ | 18.04.2026 | Latest News | Breaking News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PsYpPCBw-wU",
-            "name": "LIVE | Israel–Lebanon Ceasefire Cracking? Hezbollah Says ‘Finger on Trigger’, | Hezbollah | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pWQGcaEBiZM",
-            "name": "Top 100 News Today Live | 100 बड़ी खबरें | Iran US War | PM Modi | Noida Workers Protest | Superfast",
+            "videoId": "zhJXlfV_FOM",
+            "name": "Iran Israel Us War Update Live : 18 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dyjKN5Ch9M0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1YyvaWVk9k8",
+            "name": "LIVE: Trump Declares 10-Day Israel-Lebanon Ceasefire, Claims To Halt '10th War' | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4-6z65G1JEA",
+            "name": "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mgi8pww8VHM",
+            "name": "🔴 LIVE || Breaking News: Iran Announces Opening of Strait of Hormuz || ARY News Live",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
