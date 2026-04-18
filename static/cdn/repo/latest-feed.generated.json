@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T12:42:34.206Z",
+    "generatedAt": "2026-04-18T13:56:46.686Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "zhJXlfV_FOM",
-            "name": "Iran Israel Us War Update Live : 18 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "j3zzYsuCrPI",
+            "name": "US-Iran War LIVE: US Navy Blocks Ships Despite Iran Opening Strait Of Hormuz | Trump | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "dyjKN5Ch9M0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "zsxrhQ1Eros",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "1YyvaWVk9k8",
-            "name": "LIVE: Trump Declares 10-Day Israel-Lebanon Ceasefire, Claims To Halt '10th War' | US Iran War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4-6z65G1JEA",
-            "name": "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu",
+            "videoId": "h9Zxqyw2ZzU",
+            "name": "Sandeep Chaudhary LIVE: महिला आरक्षण पर घमासान..किसका नफा, किसे नुकसान? | Rahul Gandhi | BJP Protest",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Mgi8pww8VHM",
-            "name": "🔴 LIVE || Breaking News: Iran Announces Opening of Strait of Hormuz || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "0LqmkHGCTeA",
+            "name": "ABP Report LIVE: 18 घंटे के अंदर फिर होर्मुज बंद! | Iran Israel US War | China | Hormuz | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FfSZOVSdor8",
+            "name": "Iran America War Update: दूसरी शांति वार्ता से पहले ट्रंप ने कर दिया सरेंडर? | Trump | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Re4DRdv2eoM",
+            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lpDcxIOhLVU",
+            "name": "Khamenei Alive? News LIVE: मोजतबा खामेनेई के नए दावों ने उड़ाए होश | Trump | Iran Israel US War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MV3-eV58n5A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Politics News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vlotpqYnd5Y",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x5KLrF_3Kg0",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 18.04.2026 | Latest News | Breaking News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uPPkcjnGJXI",
+            "name": "America Vs China on Malacca Strait News LIVE: भारत पहुंची युद्ध की आग, मलक्का स्ट्रेट पर जंग | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oAC9aPtxiuY",
+            "name": "Hormuz LIVE Tracker | Iran Attacks Ships After Strait Restriction Move | Trump | US-Iran War | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
