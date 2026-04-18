@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T060833.406Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T075526.248Z-l4t35t"
   type: "state"
-  created: "2026-04-18T06:08:33.406Z"
+  created: "2026-04-18T07:55:26.248Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T060833.406Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T075526.248Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "35BcfVFEGL8"
-        name: "खुल गया होर्मुज LIVE : ईरान का बड़ा ऐलान | Trump | Mojtaba Khamenei  | World News LIVE"
+        videoId: "4-6z65G1JEA"
+        name: "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jpAvBFhi9FM"
+        name: "US-Iran War Latest Update: Wait & Watch के मूड में ईरान? | Donald Trump | Mojtaba Khamenei | USA"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jlhYqE-A1b0"
+        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
+        artist: "Niropekkho Online"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "84zhKw5eISM"
+        name: "Today Headlines | 18 APR 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pgLTweWK63c"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Govt Notice BD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uzw8l9i-IYc"
+        name: "🔴LIVE: War | China | Iran | திடீரென களமிறங்கிய சீனா.. - அடுத்த போர்..? - உச்சக்கட்ட ஆபத்து"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zGPArtJKXcI"
+        name: "Aaj Ki 100 Khabar LIVE: Hindi News |Headlines Today | Bulletin | Top LIVE | PM Modi | 18 April"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GRhXnuEotcs"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 18.04.2026 | Latest News | Breaking News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ntXBNMY7HPU"
-        name: "Live | Morning News Bulletin | India News | World News"
-        artist: "The Savera Times"
+        videoId: "60h8JErXDyE"
+        name: "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T06:08:33.406Z"
+  exported_at: "2026-04-18T07:55:26.248Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T06:08:33.374Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T07:55:26.221Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
