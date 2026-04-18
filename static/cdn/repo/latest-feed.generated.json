@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T16:29:37.155Z",
+    "generatedAt": "2026-04-18T23:27:14.808Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "agVhQmbKuw4",
-            "name": "🔴LIVE | Strait of Hormuz Closed Again | Iran's Major Announcement | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "jlhYqE-A1b0",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
         },
         {
             "mood": "storm",
-            "videoId": "2Dloimp4pIs",
-            "name": "LIVE: Iran Becoming The Fourth Centre of World Power? | US Iran War",
-            "artist": "Firstpost"
+            "videoId": "c-eah2rOoCk",
+            "name": "🔴 LIVE || Iran Closes Strait of Hormuz Again🚨 || US Iran War Exclusive Update || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "uPPkcjnGJXI",
-            "name": "America Vs China on Malacca Strait News LIVE: भारत पहुंची युद्ध की आग, मलक्का स्ट्रेट पर जंग | Trump",
-            "artist": "ABP NEWS"
+            "videoId": "ph3hev4hfpw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "yCbzdsxkRAI",
-            "name": "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | Women reservation bill | BJP",
-            "artist": "ABP NEWS"
+            "videoId": "Nz5rxL87ojI",
+            "name": "LIVE | Trump’s Sudden Media Talk! Dangerous Announcement Shakes the World | Iran–US War Talks Update",
+            "artist": "Express News"
         },
         {
             "mood": "storm",
-            "videoId": "IAo2rzOXGbQ",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
+            "videoId": "nyDQdvPiDd0",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "C_m8PAOiF_g",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "PMcowvhBt0U",
+            "name": "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy | సోమవారం రైతు భరోసా! | ZEE News",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z9wVYA9iU4s",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q8XJCWoJGgo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Govt Notice BD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Noo_KxTqLnI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Gamer420M"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NX2LzVSV5zw",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YzpCGhr5m1A",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AdOemv6Smv4",
+            "name": "LIVE with Dr. Shahid Masood |The World on the Brink of a New War…  | 18 April 2026 | GNN",
+            "artist": "GNN"
         }
     ],
     "sourceFilters": {

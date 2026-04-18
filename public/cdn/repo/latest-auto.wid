@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T162937.187Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260418T232714.841Z-l4t35t"
   type: "state"
-  created: "2026-04-18T16:29:37.187Z"
+  created: "2026-04-18T23:27:14.841Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T162937.187Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T232714.841Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "agVhQmbKuw4"
-        name: "🔴LIVE | Strait of Hormuz Closed Again | Iran's Major Announcement | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "jlhYqE-A1b0"
+        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
+        artist: "Niropekkho Online"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2Dloimp4pIs"
-        name: "LIVE: Iran Becoming The Fourth Centre of World Power? | US Iran War"
-        artist: "Firstpost"
+        videoId: "c-eah2rOoCk"
+        name: "🔴 LIVE || Iran Closes Strait of Hormuz Again🚨 || US Iran War Exclusive Update || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uPPkcjnGJXI"
-        name: "America Vs China on Malacca Strait News LIVE: भारत पहुंची युद्ध की आग, मलक्का स्ट्रेट पर जंग | Trump"
-        artist: "ABP NEWS"
+        videoId: "ph3hev4hfpw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yCbzdsxkRAI"
-        name: "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | Women reservation bill | BJP"
-        artist: "ABP NEWS"
+        videoId: "Nz5rxL87ojI"
+        name: "LIVE | Trump’s Sudden Media Talk! Dangerous Announcement Shakes the World | Iran–US War Talks Update"
+        artist: "Express News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IAo2rzOXGbQ"
-        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
-        artist: "Times Now"
+        videoId: "nyDQdvPiDd0"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C_m8PAOiF_g"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 18.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "PMcowvhBt0U"
+        name: "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy | సోమవారం రైతు భరోసా! | ZEE News"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "z9wVYA9iU4s"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q8XJCWoJGgo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Govt Notice BD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Noo_KxTqLnI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Gamer420M"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NX2LzVSV5zw"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YzpCGhr5m1A"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AdOemv6Smv4"
+        name: "LIVE with Dr. Shahid Masood |The World on the Brink of a New War…  | 18 April 2026 | GNN"
+        artist: "GNN"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T16:29:37.187Z"
+  exported_at: "2026-04-18T23:27:14.841Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T16:29:37.155Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-18T23:27:14.808Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
