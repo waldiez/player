@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-18T08:40:29.813Z",
+    "generatedAt": "2026-04-18T09:40:18.923Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1YyvaWVk9k8",
-            "name": "LIVE: Trump Declares 10-Day Israel-Lebanon Ceasefire, Claims To Halt '10th War' | US Iran War",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IlQNx6Z9XqA",
-            "name": "Massive Protest Announcement LIVE: राहुल गांधी के आवास पर महिलाओं का घेराव! | Congress | BJP",
+            "videoId": "RbwGweaKNYA",
+            "name": "Rahul Gandhi House Protest Update LIVE: राहुल के घर को महिलाओं ने घेरा? प्रदर्शन शुरू... | Congress",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "FfSZOVSdor8",
-            "name": "Iran America War Update LIVE: दूसरी शांति वार्ता से पहले ट्रंप ने कर दिया सरेंडर? | Trump | Breaking",
+            "videoId": "e5qx_jaNvK8",
+            "name": "Samrat Choudhary New CM  LIVE : शपथ के बाद Samrat Chaudhary का बड़ा बयान!| Nitish Kumar | Bihar",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4-6z65G1JEA",
+            "name": "Breaking News LIVE: ईरान ने खोला होर्मुज, युद्ध खत्म | Iran Israel US War | Trump | Netanyahu",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mgi8pww8VHM",
+            "name": "🔴 LIVE || Breaking News: Iran Announces Opening of Strait of Hormuz || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jpAvBFhi9FM",
+            "name": "US-Iran War Latest Update: Wait & Watch के मूड में ईरान? | Donald Trump | Mojtaba Khamenei | USA",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jlhYqE-A1b0",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pgLTweWK63c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Govt Notice BD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uzw8l9i-IYc",
+            "name": "🔴LIVE: War | China | Iran | திடீரென களமிறங்கிய சீனா.. - அடுத்த போர்..? - உச்சக்கட்ட ஆபத்து",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
