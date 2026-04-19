@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T16:30:33.621Z",
+    "generatedAt": "2026-04-19T17:28:59.970Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kZfO_7UcbQ8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "93gdw0BNl_Q",
+            "name": "TRUMP LIVE | Trump Hints At Iran Strike Plan As World Leaders Urge Restraint | Warning To Iran",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "qv7N6Y1NKoQ",
-            "name": "Aaj Ki Taaza Khabar LIVE: 19 April News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
-            "artist": "NDTV India"
+            "videoId": "136-IvJBzzE",
+            "name": "IRAN WAR NEWS LIVE | Jeffrey Sachs Warns War Could Spiral Into World War III If Escalation Continues",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "SbcqREh3Nhw",
-            "name": "World War 3 News: अबकी बार होकर रहेगा विश्व युद्ध 3? | Iran Israel US War | Trump | Mojtaba",
-            "artist": "ABP NEWS"
+            "videoId": "MynsLP1JR9I",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7sw1nVTTctw",
+            "name": "🔴 LIVE ||  US Iran War || Emergency Meeting at Situation Room || ARY News Live",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
