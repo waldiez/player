@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T12:41:49.351Z",
+    "generatedAt": "2026-04-19T13:55:07.095Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RcbXP1ev82M",
-            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – Global Tensions Explode As World On Edge",
-            "artist": "ET Now World"
+            "videoId": "5hdcqlxOtlE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World News"
         },
         {
             "mood": "storm",
-            "videoId": "263G6iouVzY",
-            "name": "Live: Iran Cannot Blackmail the US: Important Media Statement by President Donald Trump - Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SezZ0tPDJzo",
-            "name": "Iran Israel US War Update: ईरान-अमेरिका के बीच जंग शुरू? | Ceasefire Talks | 19 April",
+            "videoId": "piF88qbiayg",
+            "name": "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 19 April",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BEp_YPFiwqI",
+            "name": "🔴 LIVE || US-IRAN Talks - Islamabad Talks 2.0 - Security High Alert || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U-0SA_mF49Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "sSLo-mzSVD8",
+            "name": "Gujarat Breaking News LIVE | આજના તમામ ફટાફટ સમાચાર | Fatafat News | Latest News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
