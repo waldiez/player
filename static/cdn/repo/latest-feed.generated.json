@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T11:29:22.980Z",
+    "generatedAt": "2026-04-19T12:41:49.351Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,8 +28,20 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ur7j3TR591M",
-            "name": "IRGC Firing on Indian Ships: भारतीय जहाज पर हमले पर माफी? | Iran Attack | Trump | India Navy",
+            "videoId": "RcbXP1ev82M",
+            "name": "US IRAN WAR LIVE: Trump's Massive War Announcement – Global Tensions Explode As World On Edge",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "263G6iouVzY",
+            "name": "Live: Iran Cannot Blackmail the US: Important Media Statement by President Donald Trump - Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SezZ0tPDJzo",
+            "name": "Iran Israel US War Update: ईरान-अमेरिका के बीच जंग शुरू? | Ceasefire Talks | 19 April",
             "artist": "ABP NEWS"
         }
     ],
