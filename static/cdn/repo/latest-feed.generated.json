@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T13:55:07.095Z",
+    "generatedAt": "2026-04-19T14:36:06.803Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5hdcqlxOtlE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "piF88qbiayg",
-            "name": "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 19 April",
+            "videoId": "EUeb5KSmxng",
+            "name": "Sandeep Chaudhary LIVE: 2 दिन में समाधान या खाड़ी में भीषण घमासान? | Iran US War |IRGC Attack India",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "BEp_YPFiwqI",
-            "name": "🔴 LIVE || US-IRAN Talks - Islamabad Talks 2.0 - Security High Alert || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "SBiyFXcYGZw",
+            "name": "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 19 April 2026 | Rtv News",
+            "artist": "Rtv News"
         },
         {
             "mood": "storm",
-            "videoId": "U-0SA_mF49Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "263G6iouVzY",
+            "name": "Live: Iran Cannot Blackmail the US: Important Media Statement by President Donald Trump - Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "sSLo-mzSVD8",
-            "name": "Gujarat Breaking News LIVE | આજના તમામ ફટાફટ સમાચાર | Fatafat News | Latest News | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "dHsVQMni9UI",
+            "name": "আজকের আন্তর্জাতিক খবর | World News Today | 19 April 2026 | Bangla Latest News | Channel 24",
+            "artist": "Channel 24 Bulletin"
         }
     ],
     "sourceFilters": {

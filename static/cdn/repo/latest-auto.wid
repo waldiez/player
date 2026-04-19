@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260419T135507.131Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260419T143606.835Z-l4t35t"
   type: "state"
-  created: "2026-04-19T13:55:07.131Z"
+  created: "2026-04-19T14:36:06.835Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260419T135507.131Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260419T143606.835Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5hdcqlxOtlE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "piF88qbiayg"
-        name: "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 19 April"
+        videoId: "EUeb5KSmxng"
+        name: "Sandeep Chaudhary LIVE: 2 दिन में समाधान या खाड़ी में भीषण घमासान? | Iran US War |IRGC Attack India"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BEp_YPFiwqI"
-        name: "🔴 LIVE || US-IRAN Talks - Islamabad Talks 2.0 - Security High Alert || ARY News Live"
-        artist: "ARY News"
+        videoId: "SBiyFXcYGZw"
+        name: "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 19 April 2026 | Rtv News"
+        artist: "Rtv News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U-0SA_mF49Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "263G6iouVzY"
+        name: "Live: Iran Cannot Blackmail the US: Important Media Statement by President Donald Trump - Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sSLo-mzSVD8"
-        name: "Gujarat Breaking News LIVE | આજના તમામ ફટાફટ સમાચાર | Fatafat News | Latest News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "dHsVQMni9UI"
+        name: "আজকের আন্তর্জাতিক খবর | World News Today | 19 April 2026 | Bangla Latest News | Channel 24"
+        artist: "Channel 24 Bulletin"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-19T13:55:07.131Z"
+  exported_at: "2026-04-19T14:36:06.835Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-19T13:55:07.095Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-19T14:36:06.803Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
