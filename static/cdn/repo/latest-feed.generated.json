@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T17:28:59.970Z",
+    "generatedAt": "2026-04-19T18:37:09.829Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "93gdw0BNl_Q",
-            "name": "TRUMP LIVE | Trump Hints At Iran Strike Plan As World Leaders Urge Restraint | Warning To Iran",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "136-IvJBzzE",
-            "name": "IRAN WAR NEWS LIVE | Jeffrey Sachs Warns War Could Spiral Into World War III If Escalation Continues",
+            "videoId": "MkNdNcUrM1Q",
+            "name": "SHOCKING TRUMP NEWS LIVE | Trump Declares “No More MR.Nice Guy,” Warns Iran Of Escalation If...",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "MynsLP1JR9I",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "ET Now"
+            "videoId": "ZB3TuT-9MpU",
+            "name": "🔴LIVE: Iran | 'ஒரே ஒரு பட்டன்..ஈரான் காலி!' இறுதி வார்னிங்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "7sw1nVTTctw",
-            "name": "🔴 LIVE ||  US Iran War || Emergency Meeting at Situation Room || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "ZGOavo20wOo",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
