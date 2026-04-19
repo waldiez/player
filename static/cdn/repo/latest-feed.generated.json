@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T08:02:23.805Z",
+    "generatedAt": "2026-04-19T10:32:11.832Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "K4mazQ3O93c",
-            "name": "Iran Attack on Indian Ship LIVE: भारत के दोस्त ने लेना शुरू किया बदला! | Trump | Hormuz Clash",
+            "videoId": "SezZ0tPDJzo",
+            "name": "Iran Israel US War Update: ईरान-अमेरिका के बीच जंग शुरू? | Ceasefire Talks | 19 April",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ORB24THoiD0",
-            "name": "Iran Attack on Indian Ship on Hormuz LIVE: ईरान ने दिया भारत को धोखा? | Indian Navy | Firing",
+            "videoId": "dZK63X1d1qQ",
+            "name": "America Pakistan India Clash Update: ट्रंप ने भारत को फिर दिया धोखा! | Iran Peace Talk",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "toO4gfScbHo",
-            "name": "Iran Israel Us War Update Live : 19 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "9AU3eTDU0MM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MyLhGFU3MRY",
+            "name": "Islamabad Talks 2.0 - World War III? Iran US War | ARY News 1 PM Headlines | 19 April 2026",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
