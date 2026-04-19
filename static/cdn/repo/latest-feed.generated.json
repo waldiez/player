@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T19:36:23.328Z",
+    "generatedAt": "2026-04-19T20:28:46.344Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7g6CWFrV9zM",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (19.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ychuY8vn7eI",
-            "name": "Latest Gujarati News LIVE | આજના તમામ મહત્વના સમાચાર | Fatafat News | Weather Updates | News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "93gdw0BNl_Q",
-            "name": "TRUMP LIVE | Trump Hints At Iran Strike Plan As World Leaders Urge Restraint | Warning To Iran",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "136-IvJBzzE",
-            "name": "IRAN WAR NEWS LIVE | Jeffrey Sachs Warns War Could Spiral Into World War III If Escalation Continues",
+            "videoId": "MkNdNcUrM1Q",
+            "name": "SHOCKING TRUMP NEWS LIVE | Trump Declares “No More MR.Nice Guy,” Warns Iran Of Escalation If...",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "SluP3KUoWC4",
-            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 19.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "ZB3TuT-9MpU",
+            "name": "🔴LIVE: Iran | 'ஒரே ஒரு பட்டன்..ஈரான் காலி!' இறுதி வார்னிங்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZGOavo20wOo",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
