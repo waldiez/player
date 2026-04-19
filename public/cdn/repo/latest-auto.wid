@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260419T222718.510Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260419T232855.579Z-l4t35t"
   type: "state"
-  created: "2026-04-19T22:27:18.510Z"
+  created: "2026-04-19T23:28:55.579Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260419T222718.510Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260419T232855.579Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "MkNdNcUrM1Q"
-        name: "SHOCKING TRUMP NEWS LIVE | Trump Declares “No More MR.Nice Guy,” Warns Iran Of Escalation If..."
-        artist: "CNN-News18"
+        videoId: "4JkoxbtomSI"
+        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
+        artist: "Niropekkho Online"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZB3TuT-9MpU"
-        name: "🔴LIVE: Iran | 'ஒரே ஒரு பட்டன்..ஈரான் காலி!' இறுதி வார்னிங்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZGOavo20wOo"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Q2Dn3DVd6zI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Govt Notice BD"
+        videoId: "InmlsdRb3j4"
+        name: "Trump threatens Iran's infrastructure as US team heads to Pakistan for talks | BBC News"
+        artist: "BBC News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-19T22:27:18.510Z"
+  exported_at: "2026-04-19T23:28:55.579Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-19T22:27:18.478Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-19T23:28:55.544Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"

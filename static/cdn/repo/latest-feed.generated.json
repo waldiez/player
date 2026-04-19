@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T22:27:18.478Z",
+    "generatedAt": "2026-04-19T23:28:55.544Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MkNdNcUrM1Q",
-            "name": "SHOCKING TRUMP NEWS LIVE | Trump Declares “No More MR.Nice Guy,” Warns Iran Of Escalation If...",
-            "artist": "CNN-News18"
+            "videoId": "4JkoxbtomSI",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
         },
         {
             "mood": "storm",
-            "videoId": "ZB3TuT-9MpU",
-            "name": "🔴LIVE: Iran | 'ஒரே ஒரு பட்டன்..ஈரான் காலி!' இறுதி வார்னிங்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZGOavo20wOo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q2Dn3DVd6zI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Govt Notice BD"
+            "videoId": "InmlsdRb3j4",
+            "name": "Trump threatens Iran's infrastructure as US team heads to Pakistan for talks | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
