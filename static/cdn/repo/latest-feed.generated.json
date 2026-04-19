@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T06:25:34.510Z",
+    "generatedAt": "2026-04-19T08:02:23.805Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BiI6Fu-is9w",
-            "name": "Iran Attack on Indian Ship LIVE: भारतीय जहाज पर हमला गुस्से से लाल हुए ट्रंप! | Trump | Hormuz Clash",
+            "videoId": "K4mazQ3O93c",
+            "name": "Iran Attack on Indian Ship LIVE: भारत के दोस्त ने लेना शुरू किया बदला! | Trump | Hormuz Clash",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "k6Ifd9f7jwg",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 19-04-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "zVJNRNW69R8",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 19.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5CETCLcMGf8",
-            "name": "US IRAN WAR LIVE: Abbas DROPS BOMBSHELL — Hormuz Open! Trump's Move Will Decide What's NEXT",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yQprURiXMH8",
-            "name": "🔴 LIVE || Trump Signs an Executive Order | Iran US Ceasefire | Strait of Hormuz || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jQgyXHQEETU",
-            "name": "US-Iran War Latest Update: America को Blackmail कर रहा ईरान? | Iran US Peace Talk | Khamenei | Trump",
+            "videoId": "ORB24THoiD0",
+            "name": "Iran Attack on Indian Ship on Hormuz LIVE: ईरान ने दिया भारत को धोखा? | Indian Navy | Firing",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "toO4gfScbHo",
+            "name": "Iran Israel Us War Update Live : 19 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
