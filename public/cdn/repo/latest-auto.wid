@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260418T232714.841Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260419T015609.261Z-l4t35t"
   type: "state"
-  created: "2026-04-18T23:27:14.841Z"
+  created: "2026-04-19T01:56:09.261Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260418T232714.841Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260419T015609.261Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jlhYqE-A1b0"
-        name: "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho"
-        artist: "Niropekkho Online"
+        videoId: "sdU0naUlCAo"
+        name: "BREAKING NEWS LIVE: Iran FM Issues Big Warning On Hormuz LIVE | Iran Leaves World In Panic!"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "c-eah2rOoCk"
-        name: "🔴 LIVE || Iran Closes Strait of Hormuz Again🚨 || US Iran War Exclusive Update || ARY News Live"
-        artist: "ARY News"
+        videoId: "h9Zxqyw2ZzU"
+        name: "Sandeep Chaudhary LIVE: Women reservation पर घमासान..किसका नफा, किसे नुकसान? | Rahul | BJP Protest"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ph3hev4hfpw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "kD42-p_dBDg"
+        name: "US-Iran War Latest Update: सुबह होते ही America से आई बड़ी खबर! | Iran US Peace Talk | Khamenei | US"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Nz5rxL87ojI"
-        name: "LIVE | Trump’s Sudden Media Talk! Dangerous Announcement Shakes the World | Iran–US War Talks Update"
-        artist: "Express News"
+        videoId: "lpDcxIOhLVU"
+        name: "Khamenei Alive? News LIVE: मोजतबा खामेनेई के नए दावों ने उड़ाए होश | Trump | Iran Israel US War"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nyDQdvPiDd0"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "yCbzdsxkRAI"
+        name: "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | Women reservation bill | BJP"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PMcowvhBt0U"
-        name: "LIVE: Rythu Bharosa Latest Updates | CM Revanth Reddy | సోమవారం రైతు భరోసా! | ZEE News"
-        artist: "Zee Telugu News"
+        videoId: "RbiKT-DcOvw"
+        name: "ईरान-अमेरिका जंग, 19 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z9wVYA9iU4s"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "im5aIWJAY9Q"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 19 April"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q8XJCWoJGgo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Govt Notice BD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Noo_KxTqLnI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Gamer420M"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NX2LzVSV5zw"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YzpCGhr5m1A"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AdOemv6Smv4"
-        name: "LIVE with Dr. Shahid Masood |The World on the Brink of a New War…  | 18 April 2026 | GNN"
-        artist: "GNN"
+        videoId: "LC3GTCyj-dc"
+        name: "US-Iran War LIVE | Trump's Final Warning To Iran After US Navy Face-Off | Hormuz Blockade | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-18T23:27:14.841Z"
+  exported_at: "2026-04-19T01:56:09.261Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-18T23:27:14.808Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-19T01:56:09.223Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
