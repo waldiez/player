@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T04:47:52.153Z",
+    "generatedAt": "2026-04-19T06:25:34.510Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eDiZIsliKrI",
-            "name": "Iran-US War Begins? LIVE: ट्रंप ने छेड़ दिया युद्ध ईरान पर ताबड़तोड़ हमले | World War on Hormuz",
+            "videoId": "BiI6Fu-is9w",
+            "name": "Iran Attack on Indian Ship LIVE: भारतीय जहाज पर हमला गुस्से से लाल हुए ट्रंप! | Trump | Hormuz Clash",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bCbeisiv0IE",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
+            "videoId": "k6Ifd9f7jwg",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 19-04-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "j-K5UmwSOVI",
-            "name": "Sandeep Chaudhary LIVE: आधी आबादी की लड़ाई...कौन सच बोल रहा भाई! | Women Reservation | BJP Protest",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1OVT36tSzbw",
-            "name": "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EgQwJnjYBBM",
-            "name": "LIVE: 'World War 3 In...': Trump Issues STUNNING Nuclear Warning | US Big Attack On Iran | US News",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lnRHUSxZZkk",
-            "name": "Iran Fire in Indian Ship LIVE: Hormuz पर ईरान ने भारतीय जहाज पर किया हमला | Trump | Indian Navy",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Re4DRdv2eoM",
-            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ch1bEPG_gY4",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 19.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
+            "videoId": "zVJNRNW69R8",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 19.04.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
             "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5CETCLcMGf8",
+            "name": "US IRAN WAR LIVE: Abbas DROPS BOMBSHELL — Hormuz Open! Trump's Move Will Decide What's NEXT",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yQprURiXMH8",
+            "name": "🔴 LIVE || Trump Signs an Executive Order | Iran US Ceasefire | Strait of Hormuz || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jQgyXHQEETU",
+            "name": "US-Iran War Latest Update: America को Blackmail कर रहा ईरान? | Iran US Peace Talk | Khamenei | Trump",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
