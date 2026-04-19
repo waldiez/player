@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T20:28:46.344Z",
+    "generatedAt": "2026-04-19T21:27:54.437Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MkNdNcUrM1Q",
-            "name": "SHOCKING TRUMP NEWS LIVE | Trump Declares “No More MR.Nice Guy,” Warns Iran Of Escalation If...",
+            "videoId": "4JkoxbtomSI",
+            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
+            "artist": "Niropekkho Online"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6EqmuRts7q4",
+            "name": "US Iran War LIVE | US Navy Intercepts And Seizes Iranian Cargo Ship Amid Hormuz Blockade | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "ZB3TuT-9MpU",
-            "name": "🔴LIVE: Iran | 'ஒரே ஒரு பட்டன்..ஈரான் காலி!' இறுதி வார்னிங்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZGOavo20wOo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "7g6CWFrV9zM",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (19.04.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
