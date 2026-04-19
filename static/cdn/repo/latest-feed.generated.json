@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T15:31:12.902Z",
+    "generatedAt": "2026-04-19T16:30:33.621Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Y65I3TdkWdE",
-            "name": "LIVE | Trump Confirms US Delegation's Arrival in Islamabad For Ceasefire Talks With Iran | N18G",
-            "artist": "CNN-News18"
+            "videoId": "kZfO_7UcbQ8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "TYYOBXPH3VI",
-            "name": "Iran Israel War LIVE: Ceasefire Break | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "Times Now Navbharat"
+            "videoId": "qv7N6Y1NKoQ",
+            "name": "Aaj Ki Taaza Khabar LIVE: 19 April News | Iran America War LIVE | Trump | Netanyahu | PM Modi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "gDaKk_V3w0s",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Hf0As8T0CQU",
-            "name": "BREAKING LIVE | Last Chance For Iran: Trump Escalates Rhetoric, Warns Of Major Action If Deal Fails",
-            "artist": "CNN-News18"
+            "videoId": "SbcqREh3Nhw",
+            "name": "World War 3 News: अबकी बार होकर रहेगा विश्व युद्ध 3? | Iran Israel US War | Trump | Mojtaba",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
