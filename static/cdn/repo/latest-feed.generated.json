@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T14:36:06.803Z",
+    "generatedAt": "2026-04-19T15:31:12.902Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EUeb5KSmxng",
-            "name": "Sandeep Chaudhary LIVE: 2 दिन में समाधान या खाड़ी में भीषण घमासान? | Iran US War |IRGC Attack India",
-            "artist": "ABP NEWS"
+            "videoId": "Y65I3TdkWdE",
+            "name": "LIVE | Trump Confirms US Delegation's Arrival in Islamabad For Ceasefire Talks With Iran | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "SBiyFXcYGZw",
-            "name": "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 19 April 2026 | Rtv News",
-            "artist": "Rtv News"
+            "videoId": "TYYOBXPH3VI",
+            "name": "Iran Israel War LIVE: Ceasefire Break | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "263G6iouVzY",
-            "name": "Live: Iran Cannot Blackmail the US: Important Media Statement by President Donald Trump - Geo News",
-            "artist": "Geo News"
+            "videoId": "gDaKk_V3w0s",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "dHsVQMni9UI",
-            "name": "আজকের আন্তর্জাতিক খবর | World News Today | 19 April 2026 | Bangla Latest News | Channel 24",
-            "artist": "Channel 24 Bulletin"
+            "videoId": "Hf0As8T0CQU",
+            "name": "BREAKING LIVE | Last Chance For Iran: Trump Escalates Rhetoric, Warns Of Major Action If Deal Fails",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
