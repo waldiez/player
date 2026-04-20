@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-20T18:55:51.492Z",
+    "generatedAt": "2026-04-20T19:57:37.727Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7zNXdlHRBMY",
-            "name": "Japan Earthquake Live: भूकंप के बाद सुनामी का अलर्ट | Breaking News | Latest News | India News",
-            "artist": "India News"
+            "videoId": "9TxdsAXGxyc",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "2j9m05wDSBA",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप का ईरानी जहाज पर कब्जा | Iran War | Trump",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tV1CpWNDNCE",
-            "name": "Iran War LIVE: US Claims Peace Talks 2.0 In Pakistan | Tehran Rejects Negotiations | Trump News LIVE",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2dJcAXTBthk",
-            "name": "US Navy SEIZES Iranian Ship in Strait of Hormuz | Cargo Vessel | Iran vs US Breaking News LIVE",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1IOpnZnvO7I",
-            "name": "Bharat Ki Baat LIVE: होर्मुज स्ट्रेट में डूबा 'शांति' का शिप! | Iran US Israel War | Hormuz | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_e-jkOH_aMo",
-            "name": "🔴LIVE | Big Day In Islamabad | Iran US Talks 2.0 | Trump Final Decision | High Security Alert",
+            "videoId": "paVMQGJpOFs",
+            "name": "🔴LIVE | Islamabad Talks Round 2 | US Delegation Arrives in Pakistan? | Trump Big Announcement",
             "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "9DWDO9PM6Vw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "MqXodaOeO-g",
+            "name": "🔴LIVE | Islamabad Talks Round 2 Latest Updates | US and Iranian Delegation Arrives in Pakistan?",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bSETsnlwlaQ",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 20.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vw8vrVCxBRk",
+            "name": "🔴LIVE: Trump | Iran | அடுத்த  சம்பவம் செய்த ட்ரம்ப்.. பற்றி எரியும் ஈரான் கப்பல் - திக் திக்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
