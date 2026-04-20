@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260420T071411.464Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260420T095108.613Z-l4t35t"
   type: "state"
-  created: "2026-04-20T07:14:11.464Z"
+  created: "2026-04-20T09:51:08.613Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T071411.464Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T095108.613Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wfEXG7TP94k"
-        name: "Mojtaba Khamenei Dead? LIVE: IRGC ने संभाली ईरान की कमान | Iran Vs America | War Breaking | Warship"
-        artist: "ABP NEWS"
+        videoId: "u75RtoDsc78"
+        name: "World News Live : ईरान में फेल ट्रंप अब चीन से उलझे, दुनिया में मचा हड़कंप ! | Trump | China | USA |"
+        artist: "Times Now Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uybAfEny-VQ"
-        name: "Iran Vs India on Hormuz LIVE: ईरान का फिर भारतीय जहाज पर भयंकर हमला | Indian Navy | India Action"
-        artist: "ABP NEWS"
+        videoId: "b93A_cg96nU"
+        name: "LIVE | Powerful 7.4 Magnitude Earthquake Strikes Japan As Tsunami Warnings Trigger Mass Evacuations"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ah_e3YRPiPs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 March 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "x_-kMIq2xOI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-20T07:14:11.464Z"
+  exported_at: "2026-04-20T09:51:08.613Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-20T07:14:11.429Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-20T09:51:08.579Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
