@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260420T151149.223Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260420T165700.661Z-l4t35t"
   type: "state"
-  created: "2026-04-20T15:11:49.223Z"
+  created: "2026-04-20T16:57:00.661Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T151149.223Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T165700.661Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Xtjy9EODHV8"
-        name: "ईरान-अमेरिका जंग, 20अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba | War LIVE"
+        videoId: "3bfOA8GWLQc"
+        name: "World News Live: Trump का बड़ा धमाका! अचानक 'नाकाबंदी' का फैसला लेकर सबको चौंकाया |ABPLIVE"
+        artist: "ABPLIVE"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2j9m05wDSBA"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप का ईरानी जहाज पर कब्जा | Iran War | Trump"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XdTq6kengqQ"
-        name: "Plane Accident News LIVE | Chhatisgarh News | छत्तीसगडमध्ये विमान दुर्घटना | N18L"
-        artist: "News18 Marathi"
+        videoId: "tV1CpWNDNCE"
+        name: "Iran War LIVE: US Claims Peace Talks 2.0 In Pakistan | Tehran Rejects Negotiations | Trump News LIVE"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R7CSdKCUw10"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World News"
+        videoId: "2dJcAXTBthk"
+        name: "US Navy SEIZES Iranian Ship in Strait of Hormuz | Cargo Vessel | Iran vs US Breaking News LIVE"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ndb8w59ucdo"
-        name: "Sandeep Chaudhary LIVE: ट्रंप का फितूर..शांति कोसो दूर? | Iran US Israel War | Trump | Hormuz"
+        videoId: "1IOpnZnvO7I"
+        name: "Bharat Ki Baat LIVE: होर्मुज स्ट्रेट में डूबा 'शांति' का शिप! | Iran US Israel War | Hormuz | Trump"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_e-jkOH_aMo"
+        name: "🔴LIVE | Big Day In Islamabad | Iran US Talks 2.0 | Trump Final Decision | High Security Alert"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9DWDO9PM6Vw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-20T15:11:49.223Z"
+  exported_at: "2026-04-20T16:57:00.661Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-20T15:11:49.191Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-20T16:57:00.627Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
