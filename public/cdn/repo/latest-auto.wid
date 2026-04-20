@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260420T111420.068Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260420T131103.754Z-l4t35t"
   type: "state"
-  created: "2026-04-20T11:14:20.068Z"
+  created: "2026-04-20T13:11:03.754Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T111420.068Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260420T131103.754Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "quyFPWnJwFw"
-        name: "US Firing on Irani Ship in Hormuz LIVE: ईरान का भयंकर बदला शुरू! | Trump | Drone Attack"
+        videoId: "7o3Wu5MMSjQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yGMvaRbA0hc"
+        name: "Iran Israel US War News LIVE: ईरान ने फोड़ दिया परमाणु से घातक बम? | Trump | World War | 20 April"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Uk2kTezBNH4"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (20.04.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "6EqmuRts7q4"
+        name: "US Iran War LIVE | US Navy Intercepts And Seizes Iranian Cargo Ship Amid Hormuz Blockade | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dNN7hzpJ57s"
-        name: "LIVE | Japan Issues Tsunami Warning After 7.4 Magnitude Earthquake, 3-Metre High Waves Likely"
-        artist: "CRUX"
+        videoId: "Mz4rdv5TR1w"
+        name: "আজকের আন্তর্জাতিক খবর | World News Today | 20 April 2026 | Bangla Latest News | Channel 24"
+        artist: "Channel 24 Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8YE3V-Zt0Gk"
+        name: "🔴 LIVE || Trump or Vance? Who Is Coming to Islamabad?  || US Iran Talks 🚨⚠️|| ARY News Live"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AiiHcd3zIMw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jTG83aO2hzE"
+        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 20 April 2026 || World News Bangla"
+        artist: "BBC BANGLA NEWS SR."
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-20T11:14:20.068Z"
+  exported_at: "2026-04-20T13:11:03.754Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-20T11:14:20.036Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-20T13:11:03.720Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
