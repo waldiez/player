@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-19T23:28:55.544Z",
+    "generatedAt": "2026-04-20T01:57:30.000Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4JkoxbtomSI",
-            "name": "LIVE : আজকের আন্তর্জাতিক বিশ্বে কী ঘটছে? | World News Live Update | Niropekkho",
-            "artist": "Niropekkho Online"
+            "videoId": "Hf0As8T0CQU",
+            "name": "BREAKING LIVE | Last Chance For Iran: Trump Escalates Rhetoric, Warns Of Major Action If Deal Fails",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "InmlsdRb3j4",
-            "name": "Trump threatens Iran's infrastructure as US team heads to Pakistan for talks | BBC News",
-            "artist": "BBC News"
+            "videoId": "mhmF2VwGd8U",
+            "name": "Today's Headlines | 20 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UlTRUsh1IlY",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 20 April",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "piF88qbiayg",
+            "name": "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 19 April",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zSg-BgtZ8Ac",
+            "name": "Sandeep Chaudhary LIVE: भारतीय जहाज पर हमला..ईरान का रुख क्यों बदला? | Iran Attack |Strait of Hormuz",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
