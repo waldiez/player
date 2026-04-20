@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-20T01:57:30.000Z",
+    "generatedAt": "2026-04-20T04:57:08.076Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Hf0As8T0CQU",
-            "name": "BREAKING LIVE | Last Chance For Iran: Trump Escalates Rhetoric, Warns Of Major Action If Deal Fails",
-            "artist": "CNN-News18"
+            "videoId": "ZB9xgwk_DUw",
+            "name": "Iran War - US Attacks & Seizes Iranian Cargo Ship - LIVE Breaking News Coverage",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "mhmF2VwGd8U",
-            "name": "Today's Headlines | 20 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "BEp_YPFiwqI",
+            "name": "🔴 LIVE || US-IRAN Talks - Islamabad Talks 2.0 - Security High Alert || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "UlTRUsh1IlY",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 20 April",
-            "artist": "ABP NEWS"
+            "videoId": "bf1rKpzhKvE",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "piF88qbiayg",
-            "name": "Iran Israel US War Update LIVE: ईरान ने मचादी अमेरिका में तबाही! | Ceasefire Talks Fail | 19 April",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zSg-BgtZ8Ac",
-            "name": "Sandeep Chaudhary LIVE: भारतीय जहाज पर हमला..ईरान का रुख क्यों बदला? | Iran Attack |Strait of Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "ARcuEpohu8o",
+            "name": "Today's Breaking News: Iran America War LIVE | Trump | Netanyahu | Strait of Hormuz | PM Modi",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
