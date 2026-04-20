@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-20T20:44:19.781Z",
+    "generatedAt": "2026-04-20T21:39:21.022Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3bfOA8GWLQc",
-            "name": "World News Live: Trump का बड़ा धमाका! अचानक 'नाकाबंदी' का फैसला लेकर सबको चौंकाया |ABPLIVE",
-            "artist": "ABPLIVE"
+            "videoId": "9TxdsAXGxyc",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "2j9m05wDSBA",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप का ईरानी जहाज पर कब्जा | Iran War | Trump",
-            "artist": "NDTV India"
+            "videoId": "paVMQGJpOFs",
+            "name": "🔴LIVE | Islamabad Talks Round 2 | US Delegation Arrives in Pakistan? | Trump Big Announcement",
+            "artist": "Dunya News"
         },
         {
             "mood": "storm",
-            "videoId": "2dJcAXTBthk",
-            "name": "US Navy SEIZES Iranian Ship in Strait of Hormuz | Cargo Vessel | Iran vs US Breaking News LIVE",
-            "artist": "CNN-News18"
+            "videoId": "YrB910fyRVg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Gamer420M"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3Z1QxENl9xM",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bSETsnlwlaQ",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 20.04.2026 |  Breaking News | Latest News | BD News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vw8vrVCxBRk",
+            "name": "🔴LIVE: Trump | Iran | அடுத்த  சம்பவம் செய்த ட்ரம்ப்.. பற்றி எரியும் ஈரான் கப்பல் - திக் திக்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
