@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T13:07:48.448Z",
+    "generatedAt": "2026-04-21T15:06:01.237Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GXXNBGnG13s",
-            "name": "Iran America War News LIVE: 21 अप्रैल का दिन ईरान ने मिट्टी में मिलाया ट्रंप का घमंड! | Big Breaking",
+            "videoId": "qioHIciZMfE",
+            "name": "Sandeep Chaudhary LIVE: 14 लाख वोट अटका, लोकतंत्र को करारा झटका! | SIR | West Bengal Election 2026",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "mOMRqsNbKAo",
-            "name": "WAR BREAKING LIVE | Trump Says US 'Winning' | World War 3? | Mojtaba Khamenei Vs Trump | Gulf | N18G",
-            "artist": "News18 Kerala"
+            "videoId": "EKdPOlk9ick",
+            "name": "🔴LIVE : Today Headlines - 21 Apr 2026 | 5 மணி தலைப்புச் செய்திகள் | Headlines | PM Modi | TAMILNADU",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "cyIm6RsOm4M",
-            "name": "US Iran News Live | Donald Trump's 'BIG WAR' Claim Sends Shockwave | White House | Hormuz | Tehran",
-            "artist": "Hindustan Times"
+            "videoId": "2RjkcgexFLk",
+            "name": "Sandeep Chaudhary LIVE: प. बंगाल का घमासान.. SIR का निकला समाधान? | West Bengal Election 2026",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "OMhwgzAAbP0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "7NW6vGK0F0o",
+            "name": "🔴 LIVE | US-Iran Ceasefire -  Trump takes tough line, says no to ceasefire extension | ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "Knk_KbeBpwM",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "aKr69qLQ1qs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JfVHGHzps3Y",
+            "name": "Iran Israel War LIVE: Iran US War Update | Iran US Israel War News | Trump | World News | Netanyahu",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lD7lKl6Fmt0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cFS1Ak91R5g",
+            "name": "🔴LIVE: Islamabad Talks 2.0 | When Will Delegations Visit Pakistan? | Latest Update | SAMAA TV",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
