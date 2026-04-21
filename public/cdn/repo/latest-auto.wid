@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T065403.433Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T082832.848Z-l4t35t"
   type: "state"
-  created: "2026-04-21T06:54:03.433Z"
+  created: "2026-04-21T08:28:32.848Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T065403.433Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T082832.848Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "q1W1ILBGfS0"
-        name: "IRGC Attack on America LIVE: IRGC ने किया युद्ध का ऐलान? | Trump | Iran Drone Attack | Peace Talk"
+        videoId: "V3Dt1pyZvuM"
+        name: "Iran US Peace Talk 2.0 Latest News: शांति वार्ता पर सस्पेंस खत्म! | Khamenei | Iran | Trump | US"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NhmcK1MElgU"
-        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
-        artist: "Times Now"
+        videoId: "coUTpdrre2M"
+        name: "LIVE: Iran Rejects US Peace Talks 2.0 | No End To Iran War? | Trump News | Gaurav Sawant LIVE"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3bfOA8GWLQc"
-        name: "World News Live: Trump का बड़ा धमाका! अचानक 'नाकाबंदी' का फैसला लेकर सबको चौंकाया |ABPLIVE"
-        artist: "ABPLIVE"
+        videoId: "zgUOIMflJb8"
+        name: "Iran America Peac Talk 2.0 LIVE: ट्रंप ने मान ली सारी शर्त? | Pakistan | Trump | JD Vance | Hormuz"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ruNTIAmCPkU"
-        name: "Iran FM LIVE: Araghchi Issues Big Warning to US and Israel | Middle East War | WORLD NEWS"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VvJwP0_CHg0"
-        name: "LIVE NEWS: Latest World 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #Worldnews"
-        artist: "America Report Live"
+        videoId: "yKYPqToHDhc"
+        name: "Iran US Peace Talk LIVE:13 अमेरिकी जहाजों ने घेरा पाकिस्तान! | Pakistan | Trump | JD Vance |Khamenei"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T06:54:03.433Z"
+  exported_at: "2026-04-21T08:28:32.848Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T06:54:03.404Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T08:28:32.814Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
