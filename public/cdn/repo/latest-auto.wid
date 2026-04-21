@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T082832.848Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T101329.441Z-l4t35t"
   type: "state"
-  created: "2026-04-21T08:28:32.848Z"
+  created: "2026-04-21T10:13:29.441Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T082832.848Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T101329.441Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "V3Dt1pyZvuM"
-        name: "Iran US Peace Talk 2.0 Latest News: शांति वार्ता पर सस्पेंस खत्म! | Khamenei | Iran | Trump | US"
+        videoId: "Knk_KbeBpwM"
+        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Pf-jbabL3hM"
+        name: "US-Iran Peace Talk LIVE: अमेरिकी डेलिगेशन US हुआ रवाना? | Iran America | IRGC | Trump | JD Vance"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "coUTpdrre2M"
-        name: "LIVE: Iran Rejects US Peace Talks 2.0 | No End To Iran War? | Trump News | Gaurav Sawant LIVE"
-        artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zgUOIMflJb8"
-        name: "Iran America Peac Talk 2.0 LIVE: ट्रंप ने मान ली सारी शर्त? | Pakistan | Trump | JD Vance | Hormuz"
+        videoId: "UrD-JP3vw2Y"
+        name: "Iran US Peace Talk Update LIVE: पाकिस्तान में अमेरिका की घनघोर बेइज्जती...! | Trump |Iran Deligation"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yKYPqToHDhc"
-        name: "Iran US Peace Talk LIVE:13 अमेरिकी जहाजों ने घेरा पाकिस्तान! | Pakistan | Trump | JD Vance |Khamenei"
-        artist: "ABP NEWS"
+        videoId: "8OV4-d4bQi8"
+        name: "🔴 LIVE  : Lunch Time Sinhala News | (21.04.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IDR-7dvMaKc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "ACD Tune"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "S1wmazB0Guo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T08:28:32.848Z"
+  exported_at: "2026-04-21T10:13:29.441Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T08:28:32.814Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T10:13:29.409Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T08:28:32.814Z",
+    "generatedAt": "2026-04-21T10:13:29.409Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "V3Dt1pyZvuM",
-            "name": "Iran US Peace Talk 2.0 Latest News: शांति वार्ता पर सस्पेंस खत्म! | Khamenei | Iran | Trump | US",
+            "videoId": "Knk_KbeBpwM",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pf-jbabL3hM",
+            "name": "US-Iran Peace Talk LIVE: अमेरिकी डेलिगेशन US हुआ रवाना? | Iran America | IRGC | Trump | JD Vance",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "coUTpdrre2M",
-            "name": "LIVE: Iran Rejects US Peace Talks 2.0 | No End To Iran War? | Trump News | Gaurav Sawant LIVE",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zgUOIMflJb8",
-            "name": "Iran America Peac Talk 2.0 LIVE: ट्रंप ने मान ली सारी शर्त? | Pakistan | Trump | JD Vance | Hormuz",
+            "videoId": "UrD-JP3vw2Y",
+            "name": "Iran US Peace Talk Update LIVE: पाकिस्तान में अमेरिका की घनघोर बेइज्जती...! | Trump |Iran Deligation",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yKYPqToHDhc",
-            "name": "Iran US Peace Talk LIVE:13 अमेरिकी जहाजों ने घेरा पाकिस्तान! | Pakistan | Trump | JD Vance |Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "8OV4-d4bQi8",
+            "name": "🔴 LIVE  : Lunch Time Sinhala News | (21.04.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IDR-7dvMaKc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "ACD Tune"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S1wmazB0Guo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {
