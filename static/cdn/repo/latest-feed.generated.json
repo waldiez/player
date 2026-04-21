@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T10:13:29.409Z",
+    "generatedAt": "2026-04-21T11:55:33.305Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Knk_KbeBpwM",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "cFS1Ak91R5g",
+            "name": "🔴LIVE: Islamabad Talks 2.0 | When Will Delegations Visit Pakistan? | Latest Update | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "Pf-jbabL3hM",
-            "name": "US-Iran Peace Talk LIVE: अमेरिकी डेलिगेशन US हुआ रवाना? | Iran America | IRGC | Trump | JD Vance",
+            "videoId": "tumQoX8R-lg",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.04.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dmFW5TlsZ-I",
+            "name": "Iran-US Peace Talk LIVE: ट्रंप लेंगे पाकिस्तान पर बड़ा एक्शन? | Shehbaz Sharif | Trump | JD Vance",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UrD-JP3vw2Y",
-            "name": "Iran US Peace Talk Update LIVE: पाकिस्तान में अमेरिका की घनघोर बेइज्जती...! | Trump |Iran Deligation",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8OV4-d4bQi8",
-            "name": "🔴 LIVE  : Lunch Time Sinhala News | (21.04.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IDR-7dvMaKc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "ACD Tune"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S1wmazB0Guo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Sera Tv News"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T101329.441Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T115533.340Z-l4t35t"
   type: "state"
-  created: "2026-04-21T10:13:29.441Z"
+  created: "2026-04-21T11:55:33.340Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T101329.441Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T115533.340Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Knk_KbeBpwM"
-        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
-        artist: "Times Now"
+        videoId: "cFS1Ak91R5g"
+        name: "🔴LIVE: Islamabad Talks 2.0 | When Will Delegations Visit Pakistan? | Latest Update | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Pf-jbabL3hM"
-        name: "US-Iran Peace Talk LIVE: अमेरिकी डेलिगेशन US हुआ रवाना? | Iran America | IRGC | Trump | JD Vance"
+        videoId: "tumQoX8R-lg"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dmFW5TlsZ-I"
+        name: "Iran-US Peace Talk LIVE: ट्रंप लेंगे पाकिस्तान पर बड़ा एक्शन? | Shehbaz Sharif | Trump | JD Vance"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UrD-JP3vw2Y"
-        name: "Iran US Peace Talk Update LIVE: पाकिस्तान में अमेरिका की घनघोर बेइज्जती...! | Trump |Iran Deligation"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8OV4-d4bQi8"
-        name: "🔴 LIVE  : Lunch Time Sinhala News | (21.04.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IDR-7dvMaKc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "ACD Tune"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S1wmazB0Guo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T10:13:29.441Z"
+  exported_at: "2026-04-21T11:55:33.340Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T10:13:29.409Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T11:55:33.305Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
