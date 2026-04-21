@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T01:52:45.382Z",
+    "generatedAt": "2026-04-21T04:43:45.664Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,21 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Y-R627B8knI",
-            "name": "Sandeep Chaudhary LIVE: डॉलर- युआन का खेल...दुनिया का निकलेगा तेल! | Iran US Talks | Trump | Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "EdonalcwxKY",
+            "name": "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL, IMMEDIATE Lockdown Declared Across America | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "RhvS8pjh1vw",
-            "name": "ईरान-अमेरिका जंग, 21 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "ECZQguDpiCs",
+            "name": "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "WogrrD0EnFY",
-            "name": "Iran Israel Us War Update Live : 20 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "videoId": "tatsIlI356o",
+            "name": "Breaking News | Iran Israel Us War Update Live : अभी-अभी US-ईरान युद्ध को लेकर आई बड़ी खबर | Trump",
             "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gZc9DQWzJt0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Knk_KbeBpwM",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LyId5Af-HKc",
-            "name": "US IRAN WAR LIVE | Hormuz Blockade: Peace Talk Fail, Trump To Strike Iran Tonight? | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u75RtoDsc78",
-            "name": "World News Live : ईरान में फेल ट्रंप अब चीन से उलझे, दुनिया में मचा हड़कंप ! | Trump | China | USA |",
-            "artist": "Times Now Bihar Jharkhand"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T015245.416Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T044345.696Z-l4t35t"
   type: "state"
-  created: "2026-04-21T01:52:45.416Z"
+  created: "2026-04-21T04:43:45.696Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T015245.416Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T044345.696Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Y-R627B8knI"
-        name: "Sandeep Chaudhary LIVE: डॉलर- युआन का खेल...दुनिया का निकलेगा तेल! | Iran US Talks | Trump | Hormuz"
-        artist: "ABP NEWS"
+        videoId: "EdonalcwxKY"
+        name: "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL, IMMEDIATE Lockdown Declared Across America | World News"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RhvS8pjh1vw"
-        name: "ईरान-अमेरिका जंग, 21 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
-        artist: "ABP NEWS"
+        videoId: "ECZQguDpiCs"
+        name: "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WogrrD0EnFY"
-        name: "Iran Israel Us War Update Live : 20 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
+        videoId: "tatsIlI356o"
+        name: "Breaking News | Iran Israel Us War Update Live : अभी-अभी US-ईरान युद्ध को लेकर आई बड़ी खबर | Trump"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gZc9DQWzJt0"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.04.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Knk_KbeBpwM"
-        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LyId5Af-HKc"
-        name: "US IRAN WAR LIVE | Hormuz Blockade: Peace Talk Fail, Trump To Strike Iran Tonight? | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u75RtoDsc78"
-        name: "World News Live : ईरान में फेल ट्रंप अब चीन से उलझे, दुनिया में मचा हड़कंप ! | Trump | China | USA |"
-        artist: "Times Now Bihar Jharkhand"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T01:52:45.416Z"
+  exported_at: "2026-04-21T04:43:45.696Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T01:52:45.382Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T04:43:45.664Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
