@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T19:00:39.355Z",
+    "generatedAt": "2026-04-21T20:41:09.463Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "j6WKBmdZkAA",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "TJmf6MmZMpk",
+            "name": "RUSSIA-UKRAINE WAR LIVE | Putin's Fiery Response To Zelenskyy As Russian Tanks Advance On Frontline",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "U0jqO0WcBco",
-            "name": "Iran America War News LIVE: युद्ध में कूदा चीन!, जिनपिंग का आदेश!, समंदर में छोड़ी मिसाइल!!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EhOQS00yvTU",
-            "name": "LIVE: Trump Threatens Iran With Major Attack if Tehran Fails to Reach Peace Deal | US Iran War",
+            "videoId": "5cSptyVhDa4",
+            "name": "LIVE: Trump Issues Ultimatum To Tehran As Iran Rejects US Pressure | Firstpost Live",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "wUJAdvN33zg",
-            "name": "🔴LIVE: Iran | America | நடுக்கடலில் திக் திக் - பற்றி எரியும் மத்திய கிழக்கு!",
-            "artist": "Sathiyam News"
+            "videoId": "gQoZitwD_GY",
+            "name": "West Asia War LIVE: ‘UAE No Longer Needs America,’ Commentator Suggests To Not Host American Bases",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yhmP_KY9RI0",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VvJwP0_CHg0",
+            "name": "LIVE NEWS: Latest World 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #Worldnews",
+            "artist": "America Report Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b_KSoEsdzcs",
+            "name": "🔴SAMAA TV News Live | Latest News Live 24/7, Breaking & Headlines | News Today | #pakistannews",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
