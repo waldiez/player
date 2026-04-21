@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T204109.496Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T213837.152Z-l4t35t"
   type: "state"
-  created: "2026-04-21T20:41:09.496Z"
+  created: "2026-04-21T21:38:37.152Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T204109.496Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T213837.152Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "TJmf6MmZMpk"
-        name: "RUSSIA-UKRAINE WAR LIVE | Putin's Fiery Response To Zelenskyy As Russian Tanks Advance On Frontline"
-        artist: "Times Now World"
+        videoId: "AnhCHUwxSKQ"
+        name: "🔴 LIVE || Iran–US Ceasefire Last Day || Trump's Shocking Statement || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5cSptyVhDa4"
-        name: "LIVE: Trump Issues Ultimatum To Tehran As Iran Rejects US Pressure | Firstpost Live"
+        videoId: "WnBa5HlOphA"
+        name: "🔴LIVE | Big Day In Islamabad | Iran US Talks 2.0 | Trump Final Decision | Iranian Ship Seized"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j6WKBmdZkAA"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U0jqO0WcBco"
+        name: "Iran America War News LIVE: युद्ध में कूदा चीन!, जिनपिंग का आदेश!, समंदर में छोड़ी मिसाइल!!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EhOQS00yvTU"
+        name: "LIVE: Trump Threatens Iran With Major Attack if Tehran Fails to Reach Peace Deal | US Iran War"
         artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gQoZitwD_GY"
-        name: "West Asia War LIVE: ‘UAE No Longer Needs America,’ Commentator Suggests To Not Host American Bases"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yhmP_KY9RI0"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VvJwP0_CHg0"
-        name: "LIVE NEWS: Latest World 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #Worldnews"
-        artist: "America Report Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b_KSoEsdzcs"
-        name: "🔴SAMAA TV News Live | Latest News Live 24/7, Breaking & Headlines | News Today | #pakistannews"
-        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T20:41:09.496Z"
+  exported_at: "2026-04-21T21:38:37.152Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T20:41:09.463Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T21:38:37.118Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
