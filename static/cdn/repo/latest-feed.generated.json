@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T22:32:03.551Z",
+    "generatedAt": "2026-04-21T23:29:27.307Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "TJmf6MmZMpk",
-            "name": "RUSSIA-UKRAINE WAR LIVE | Putin's Fiery Response To Zelenskyy As Russian Tanks Advance On Frontline",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5cSptyVhDa4",
-            "name": "LIVE: Trump Issues Ultimatum To Tehran As Iran Rejects US Pressure | Firstpost Live",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yhmP_KY9RI0",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VvJwP0_CHg0",
-            "name": "LIVE NEWS: Latest World 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #Worldnews",
-            "artist": "America Report Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b_KSoEsdzcs",
-            "name": "🔴SAMAA TV News Live | Latest News Live 24/7, Breaking & Headlines | News Today | #pakistannews",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zsUOzcQLWAc",
-            "name": "🔴 LIVE || Islamabad Talks 2.0 || JD Vance Pakistan Visit Postponed || ARY News Live",
+            "videoId": "AnhCHUwxSKQ",
+            "name": "🔴 LIVE || Iran–US Ceasefire Last Day || Trump's Shocking Statement || ARY News Live",
             "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WnBa5HlOphA",
+            "name": "🔴LIVE | Big Day In Islamabad | Iran US Talks 2.0 | Trump Final Decision | Iranian Ship Seized",
+            "artist": "Dunya News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CHD0P_zKsIQ",
+            "name": "Big News From Iran Regarding Ceasefire | Geo News 12 AM Headlines | 22 April 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j6WKBmdZkAA",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         }
     ],
     "sourceFilters": {
