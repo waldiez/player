@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T044345.696Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260421T065403.433Z-l4t35t"
   type: "state"
-  created: "2026-04-21T04:43:45.696Z"
+  created: "2026-04-21T06:54:03.433Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T044345.696Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T065403.433Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,21 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "EdonalcwxKY"
-        name: "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL, IMMEDIATE Lockdown Declared Across America | World News"
-        artist: "ET Now World"
+        videoId: "q1W1ILBGfS0"
+        name: "IRGC Attack on America LIVE: IRGC ने किया युद्ध का ऐलान? | Trump | Iran Drone Attack | Peace Talk"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ECZQguDpiCs"
-        name: "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News"
-        artist: "Times Now World"
+        videoId: "NhmcK1MElgU"
+        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tatsIlI356o"
-        name: "Breaking News | Iran Israel Us War Update Live : अभी-अभी US-ईरान युद्ध को लेकर आई बड़ी खबर | Trump"
-        artist: "Times Now Navbharat"
+        videoId: "3bfOA8GWLQc"
+        name: "World News Live: Trump का बड़ा धमाका! अचानक 'नाकाबंदी' का फैसला लेकर सबको चौंकाया |ABPLIVE"
+        artist: "ABPLIVE"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ruNTIAmCPkU"
+        name: "Iran FM LIVE: Araghchi Issues Big Warning to US and Israel | Middle East War | WORLD NEWS"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VvJwP0_CHg0"
+        name: "LIVE NEWS: Latest World 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #Worldnews"
+        artist: "America Report Live"
         chapter: null
   moodCustomizations:
     {}
@@ -78,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T04:43:45.696Z"
+  exported_at: "2026-04-21T06:54:03.433Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T04:43:45.664Z"
-  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-21T06:54:03.404Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
