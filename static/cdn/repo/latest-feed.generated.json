@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T11:55:33.305Z",
+    "generatedAt": "2026-04-21T13:07:48.448Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cFS1Ak91R5g",
-            "name": "🔴LIVE: Islamabad Talks 2.0 | When Will Delegations Visit Pakistan? | Latest Update | SAMAA TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tumQoX8R-lg",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.04.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dmFW5TlsZ-I",
-            "name": "Iran-US Peace Talk LIVE: ट्रंप लेंगे पाकिस्तान पर बड़ा एक्शन? | Shehbaz Sharif | Trump | JD Vance",
+            "videoId": "GXXNBGnG13s",
+            "name": "Iran America War News LIVE: 21 अप्रैल का दिन ईरान ने मिट्टी में मिलाया ट्रंप का घमंड! | Big Breaking",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mOMRqsNbKAo",
+            "name": "WAR BREAKING LIVE | Trump Says US 'Winning' | World War 3? | Mojtaba Khamenei Vs Trump | Gulf | N18G",
+            "artist": "News18 Kerala"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cyIm6RsOm4M",
+            "name": "US Iran News Live | Donald Trump's 'BIG WAR' Claim Sends Shockwave | White House | Hormuz | Tehran",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OMhwgzAAbP0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
+        },
+        {
+            "mood": "storm",
+            "videoId": "Knk_KbeBpwM",
+            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
