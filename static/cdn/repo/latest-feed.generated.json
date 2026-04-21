@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-21T17:54:36.790Z",
+    "generatedAt": "2026-04-21T19:00:39.355Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NvX5iovg6Yk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.04.2026) | Sathiyam Headlines",
+            "videoId": "j6WKBmdZkAA",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U0jqO0WcBco",
+            "name": "Iran America War News LIVE: युद्ध में कूदा चीन!, जिनपिंग का आदेश!, समंदर में छोड़ी मिसाइल!!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EhOQS00yvTU",
+            "name": "LIVE: Trump Threatens Iran With Major Attack if Tehran Fails to Reach Peace Deal | US Iran War",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wUJAdvN33zg",
+            "name": "🔴LIVE: Iran | America | நடுக்கடலில் திக் திக் - பற்றி எரியும் மத்திய கிழக்கு!",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Dyrp0PH4vF0",
-            "name": "Watch LIVE: President Trump Delivers Urgent Iran War Update, Slams NATO in Cabinet Meeting | US News",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yfiUPR68u6M",
-            "name": "Iran America War News LIVE: 31 सेकेंड में उड़ा दिया अमेरिका का पहला जहाज? | Big Breaking | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qioHIciZMfE",
-            "name": "Sandeep Chaudhary LIVE: 14 लाख वोट अटका, लोकतंत्र को करारा झटका! | SIR | West Bengal Election 2026",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
