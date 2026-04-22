@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T015136.291Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T044110.536Z-l4t35t"
   type: "state"
-  created: "2026-04-22T01:51:36.291Z"
+  created: "2026-04-22T04:41:10.536Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T015136.291Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T044110.536Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6PevHdjZbP4"
-        name: "🔴LIVE: TRUMP tweets of Ceasefire Extension on PM Shehbaz Sharif & Field Marshall's request!"
-        artist: "Geo News"
+        videoId: "qc6-kohEklE"
+        name: "🔴LIVE: Iran US war | உலகை மீண்டும் அதிரவைக்கும் செய்தி"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EkFCeg0VdXw"
-        name: "Iran Israel US War Update: ईरान ने उड़ा दिया अमेरिका का करोड़ो का जहाज| Hormuz | Trump"
+        videoId: "kk2AR3HsCbQ"
+        name: "Iran US War News LIVE: ट्रंप का सपना हो गया पूरा! | America Ceasefire | JD Vance | Trump | IRGC"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jG414Cr4GQ0"
-        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 22 April 2026 || World News Bangla"
-        artist: "BBC BANGLA NEWS SR."
+        videoId: "qNhYQ_5V39k"
+        name: "Breaking News Live : देश -दुनिया की बड़ी खबरें देखें | Iran US War | Bengal Election 2026 | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "G13-HTWjO5Y"
-        name: "Iran US  Ceasefire Latest News: सीजफायर पर आ गई बड़ी खबर | Trump | Pakistan | Peace Talk | Ceasefire"
-        artist: "ABP NEWS"
+        videoId: "7NW6vGK0F0o"
+        name: "🔴 LIVE | US-Iran Ceasefire -  Trump takes tough line, says no to ceasefire extension | ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MlZ68i8EB3c"
-        name: "LIVE | Trump Orders Massive Bombardment on Iran as Ceasefire Ends | Hormuz | Iran Talks | N18G"
-        artist: "CNN-News18"
+        videoId: "PwFGYGAXbLU"
+        name: "Iran Israel Us War Update Live : 22 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2RjkcgexFLk"
-        name: "Sandeep Chaudhary LIVE: प. बंगाल का घमासान.. SIR का निकला समाधान? | West Bengal Election 2026"
-        artist: "ABP NEWS"
+        videoId: "nkPyBrKF454"
+        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mJO2OJq3bao"
-        name: "Ceasefire Extended on Pakistan Leadership Orders, Trump | Geo News 3 AM Headlines | 22 April 2026"
-        artist: "Geo News"
+        videoId: "ovgVc0mUcrE"
+        name: "BREAKING NEWS LIVE | Iran's Araghchi Holds Press Conference on President Trump & JCPOA | TRUMP NEWS"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T01:51:36.291Z"
+  exported_at: "2026-04-22T04:41:10.536Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T01:51:36.256Z"
+  source_generated_at: "2026-04-22T04:41:10.500Z"
   validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
