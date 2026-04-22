@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T06:53:56.824Z",
+    "generatedAt": "2026-04-22T08:25:58.412Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KdALkkkji2g",
-            "name": "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE",
-            "artist": "Times Now"
+            "videoId": "Lt3HUyCcq-I",
+            "name": "World War 3 Update LIVE: होर्मुज खुलवाने ईरान के सपोर्ट में उतरे 30 देश! | Iran US | America | Trump",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "5v9ByvSSVw8",
-            "name": "LIVE: Telangana RTC Strike From Midnight? TGSRTC JAC Vs Revanth Govt |#dnawithbharath | Zee  News",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Om1Y6SIO5do",
-            "name": "World News LIVE: Trump का Countdown शुरू! रूस ने पलटा गेम, क्या 2026 में बदल जाएगा दुनिया का नक्शा?",
-            "artist": "ABPLIVE"
+            "videoId": "sbf6RIql2E4",
+            "name": "US-Iran War Latest News Live: Trump Extends Iran Ceasefire | Hormuz Blockde Stays | Trump News",
+            "artist": "India Today"
         }
     ],
     "sourceFilters": {
