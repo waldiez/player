@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T13:08:03.874Z",
+    "generatedAt": "2026-04-22T15:06:02.008Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "S4R4eOMFvJg",
-            "name": "US Iran War Latest News LIVE | Iran Ceasefire | Iran Rejects Trump's Ceasefire, Says \"Means Nothing\"",
-            "artist": "NDTV"
+            "videoId": "01l92FQPlIQ",
+            "name": "🔴LIVE: Iran | America | போரில் திடீர் திருப்பம்..அதிர்ச்சியில் உலகம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "fzDtl2FWoH0",
-            "name": "LIVE: Iran Calls US Naval Blockade 'Act of War' as Trump Extends Ceasefire | Firstpost Live | N18G",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "A0HJI-HrcIQ",
+            "videoId": "GIH94xJJKUE",
             "name": "Iran US Ceasefire LIVE: भारत आ रहे जहाज को ईरान ने उड़ाया!, मचा हड़कंप! | Trump | Hormuz Attack",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "J5TmyDJx4ys",
-            "name": "🔴LIVE: Strait of Hormuz in Focus: Iranian President’s Message and Trump’s Escalation | Geo News",
-            "artist": "Geo News"
+            "videoId": "6lfKZA7F97E",
+            "name": "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "tZfM3twAMO4",
-            "name": "🔴 LIVE || Ceasefire Extended | US President Donald Trump's Big Announcement || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "ksOpocP5644",
+            "name": "Sandeep Chaudhary LIVE: बंगाल का घमासान, 14 लाख नहीं करेंगे मतदान! | SIR | West Bengal Election 2026",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9lU6IBe2Oo8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XsUOjUDtbv8",
+            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
