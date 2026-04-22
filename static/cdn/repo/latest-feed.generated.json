@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T17:54:15.719Z",
+    "generatedAt": "2026-04-22T19:02:23.573Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CxiKPO8cJdU",
-            "name": "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "_dxd0LKU8G0",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "io2pZlFYsjk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HOxTxcu0zfU",
-            "name": "US Iran War LIVE: Iran Seizes Ships in Hormuz as Trump Extends Ceasefire | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "om5_CUn4xKU",
-            "name": "🔴LIVE: Iran | Ship | இந்திய கப்பல்கள் சிறைபிடிப்பு - ஈரான் அதிர்ச்சி செயல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0059-VeBYLs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Insight World"
+            "videoId": "o3YgidkYVBI",
+            "name": "Iran US Ceasefire LIVE: ईरान ने भारत को दिया धोखा!, जहाज पर किया हमला! | Trump | Hormuz | ABP News",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
