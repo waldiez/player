@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T11:54:29.932Z",
+    "generatedAt": "2026-04-22T13:08:03.874Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1X1tvW2BFUc",
-            "name": "Iran US Ceasefire LIVE: सीजफायर बढ़ाने पर भड़का ईरान! | Trump | War Preparation | Peace Talk",
+            "videoId": "S4R4eOMFvJg",
+            "name": "US Iran War Latest News LIVE | Iran Ceasefire | Iran Rejects Trump's Ceasefire, Says \"Means Nothing\"",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fzDtl2FWoH0",
+            "name": "LIVE: Iran Calls US Naval Blockade 'Act of War' as Trump Extends Ceasefire | Firstpost Live | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "A0HJI-HrcIQ",
+            "name": "Iran US Ceasefire LIVE: भारत आ रहे जहाज को ईरान ने उड़ाया!, मचा हड़कंप! | Trump | Hormuz Attack",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "pSoo7OoPiiA",
-            "name": "Iran America War News LIVE: जंग के खिलाफअमेरिका में बगावत पर उतरे सैनिक!, टेंशन में ट्रंप! |Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "J5TmyDJx4ys",
+            "name": "🔴LIVE: Strait of Hormuz in Focus: Iranian President’s Message and Trump’s Escalation | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "Ym-X5Vvl8Hc",
-            "name": "Iran Israel War Live: Iran US War Update | Iran US Israel War News | Trump | World News | Netanyahu",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mh5ODXlKFmE",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.04.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aJfZHBQ_IPs",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
+            "videoId": "tZfM3twAMO4",
+            "name": "🔴 LIVE || Ceasefire Extended | US President Donald Trump's Big Announcement || ARY News Live",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
