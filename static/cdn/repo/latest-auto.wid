@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T224000.723Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T233947.897Z-l4t35t"
   type: "state"
-  created: "2026-04-22T22:40:00.723Z"
+  created: "2026-04-22T23:39:47.897Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T224000.723Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T233947.897Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_ZVILOH7gCk"
-        name: "World News LIVE: Jeffrey Sachs EXPOSES Israel–US–Iran War Plot, Shocking Claims Uncovered | US News"
+        videoId: "lkXZKqaN_sQ"
+        name: "TRUMP IMPEACHMENT LIVE: Lawmakers Announce Their Votes | US News LIVE | World News LIVE | Trump LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "trR0AcM9ZeI"
+        name: "LIVE | Putin's Fiery Warning To Trump, ‘If US-Israel Attacks Don’t…’, Russia Stands Up For Iran"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9xMPLXrGNRI"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.04.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "wqzuSel4bxU"
+        name: "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MB_NykGpt0U"
-        name: "IRAN WAR LIVE: 'World Will Die If...': Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS"
-        artist: "Times Now World"
+        videoId: "_dxd0LKU8G0"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kvjGblMR5ho"
-        name: "🔴LIVE | Trump’s Big Statement After Iran Ceasefire Extension | World on Alert | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "io2pZlFYsjk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CxiKPO8cJdU"
-        name: "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live"
-        artist: "ARY News"
+        videoId: "55dGs0EJwvU"
+        name: "🔴LIVE: Iran US war | உலகை மீண்டும் அதிரவைக்கும் செய்தி"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T22:40:00.723Z"
+  exported_at: "2026-04-22T23:39:47.897Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T22:40:00.694Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T23:39:47.866Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

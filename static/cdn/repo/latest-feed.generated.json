@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T22:40:00.694Z",
+    "generatedAt": "2026-04-22T23:39:47.866Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_ZVILOH7gCk",
-            "name": "World News LIVE: Jeffrey Sachs EXPOSES Israel–US–Iran War Plot, Shocking Claims Uncovered | US News",
+            "videoId": "lkXZKqaN_sQ",
+            "name": "TRUMP IMPEACHMENT LIVE: Lawmakers Announce Their Votes | US News LIVE | World News LIVE | Trump LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "trR0AcM9ZeI",
+            "name": "LIVE | Putin's Fiery Warning To Trump, ‘If US-Israel Attacks Don’t…’, Russia Stands Up For Iran",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "9xMPLXrGNRI",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "wqzuSel4bxU",
+            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "MB_NykGpt0U",
-            "name": "IRAN WAR LIVE: 'World Will Die If...': Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS",
-            "artist": "Times Now World"
+            "videoId": "_dxd0LKU8G0",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "kvjGblMR5ho",
-            "name": "🔴LIVE | Trump’s Big Statement After Iran Ceasefire Extension | World on Alert | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "io2pZlFYsjk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "CxiKPO8cJdU",
-            "name": "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "55dGs0EJwvU",
+            "name": "🔴LIVE: Iran US war | உலகை மீண்டும் அதிரவைக்கும் செய்தி",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
