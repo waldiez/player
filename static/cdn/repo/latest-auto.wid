@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T214341.661Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T224000.723Z-l4t35t"
   type: "state"
-  created: "2026-04-22T21:43:41.661Z"
+  created: "2026-04-22T22:40:00.723Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T214341.661Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T224000.723Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "trR0AcM9ZeI"
-        name: "LIVE | Putin's Fiery Warning To Trump, ‘If US-Israel Attacks Don’t…’, Russia Stands Up For Iran"
+        videoId: "_ZVILOH7gCk"
+        name: "World News LIVE: Jeffrey Sachs EXPOSES Israel–US–Iran War Plot, Shocking Claims Uncovered | US News"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tz3tCV9QlP8"
-        name: "US Breaking News LIVE: Trump Drops Big Iran War Update During Turning Point Speech | World News LIVE"
+        videoId: "9xMPLXrGNRI"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.04.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MB_NykGpt0U"
+        name: "IRAN WAR LIVE: 'World Will Die If...': Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wqzuSel4bxU"
-        name: "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War"
-        artist: "MIRROR NOW"
+        videoId: "kvjGblMR5ho"
+        name: "🔴LIVE | Trump’s Big Statement After Iran Ceasefire Extension | World on Alert | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_dxd0LKU8G0"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "o3YgidkYVBI"
-        name: "Iran US Ceasefire LIVE: ईरान ने भारत को दिया धोखा!, जहाज पर किया हमला! | Trump | Hormuz | ABP News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "om5_CUn4xKU"
-        name: "🔴LIVE: Iran | Ship | இந்திய கப்பல்கள் சிறைபிடிப்பு - ஈரான் அதிர்ச்சி செயல்"
-        artist: "Sathiyam News"
+        videoId: "CxiKPO8cJdU"
+        name: "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live"
+        artist: "ARY News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T21:43:41.661Z"
+  exported_at: "2026-04-22T22:40:00.723Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T21:43:41.633Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T22:40:00.694Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
