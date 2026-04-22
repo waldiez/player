@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T044110.536Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T065356.856Z-l4t35t"
   type: "state"
-  created: "2026-04-22T04:41:10.536Z"
+  created: "2026-04-22T06:53:56.856Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T044110.536Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T065356.856Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,21 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qc6-kohEklE"
-        name: "🔴LIVE: Iran US war | உலகை மீண்டும் அதிரவைக்கும் செய்தி"
-        artist: "Sathiyam News"
+        videoId: "KdALkkkji2g"
+        name: "Trump LIVE | Trump’s Deadly Ultimatum Shocks World | Latest News Update | WORLD NEWS LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kk2AR3HsCbQ"
-        name: "Iran US War News LIVE: ट्रंप का सपना हो गया पूरा! | America Ceasefire | JD Vance | Trump | IRGC"
-        artist: "ABP NEWS"
+        videoId: "5v9ByvSSVw8"
+        name: "LIVE: Telangana RTC Strike From Midnight? TGSRTC JAC Vs Revanth Govt |#dnawithbharath | Zee  News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qNhYQ_5V39k"
-        name: "Breaking News Live : देश -दुनिया की बड़ी खबरें देखें | Iran US War | Bengal Election 2026 | PM Modi"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7NW6vGK0F0o"
-        name: "🔴 LIVE | US-Iran Ceasefire -  Trump takes tough line, says no to ceasefire extension | ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PwFGYGAXbLU"
-        name: "Iran Israel Us War Update Live : 22 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nkPyBrKF454"
-        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ovgVc0mUcrE"
-        name: "BREAKING NEWS LIVE | Iran's Araghchi Holds Press Conference on President Trump & JCPOA | TRUMP NEWS"
-        artist: "ET Now"
+        videoId: "Om1Y6SIO5do"
+        name: "World News LIVE: Trump का Countdown शुरू! रूस ने पलटा गेम, क्या 2026 में बदल जाएगा दुनिया का नक्शा?"
+        artist: "ABPLIVE"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +78,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T04:41:10.536Z"
+  exported_at: "2026-04-22T06:53:56.856Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T04:41:10.500Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T06:53:56.824Z"
+  validation: "validation enabled: accepted 3/3 tracks; maxAgeHours=72 minKeywordHits=1"
