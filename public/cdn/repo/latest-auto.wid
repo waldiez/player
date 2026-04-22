@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260421T232927.343Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T015136.291Z-l4t35t"
   type: "state"
-  created: "2026-04-21T23:29:27.343Z"
+  created: "2026-04-22T01:51:36.291Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260421T232927.343Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T015136.291Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AnhCHUwxSKQ"
-        name: "🔴 LIVE || Iran–US Ceasefire Last Day || Trump's Shocking Statement || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WnBa5HlOphA"
-        name: "🔴LIVE | Big Day In Islamabad | Iran US Talks 2.0 | Trump Final Decision | Iranian Ship Seized"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CHD0P_zKsIQ"
-        name: "Big News From Iran Regarding Ceasefire | Geo News 12 AM Headlines | 22 April 2026"
+        videoId: "6PevHdjZbP4"
+        name: "🔴LIVE: TRUMP tweets of Ceasefire Extension on PM Shehbaz Sharif & Field Marshall's request!"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j6WKBmdZkAA"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "EkFCeg0VdXw"
+        name: "Iran Israel US War Update: ईरान ने उड़ा दिया अमेरिका का करोड़ो का जहाज| Hormuz | Trump"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jG414Cr4GQ0"
+        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 22 April 2026 || World News Bangla"
+        artist: "BBC BANGLA NEWS SR."
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G13-HTWjO5Y"
+        name: "Iran US  Ceasefire Latest News: सीजफायर पर आ गई बड़ी खबर | Trump | Pakistan | Peace Talk | Ceasefire"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MlZ68i8EB3c"
+        name: "LIVE | Trump Orders Massive Bombardment on Iran as Ceasefire Ends | Hormuz | Iran Talks | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2RjkcgexFLk"
+        name: "Sandeep Chaudhary LIVE: प. बंगाल का घमासान.. SIR का निकला समाधान? | West Bengal Election 2026"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mJO2OJq3bao"
+        name: "Ceasefire Extended on Pakistan Leadership Orders, Trump | Geo News 3 AM Headlines | 22 April 2026"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-21T23:29:27.343Z"
+  exported_at: "2026-04-22T01:51:36.291Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-21T23:29:27.307Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T01:51:36.256Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
