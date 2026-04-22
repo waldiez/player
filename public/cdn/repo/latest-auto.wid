@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T165116.394Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T175415.760Z-l4t35t"
   type: "state"
-  created: "2026-04-22T16:51:16.394Z"
+  created: "2026-04-22T17:54:15.760Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T165116.394Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T175415.760Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ecCXlNxvu6o"
-        name: "Bharat Ki Baat LIVE: 'झालमुड़ी' के बाद चर्चा में 'माछ-भात' | PM Modi | Anurag Thakur | Election 2026"
-        artist: "ABP NEWS"
+        videoId: "CxiKPO8cJdU"
+        name: "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m_JLwua6IBw"
+        videoId: "io2pZlFYsjk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HOxTxcu0zfU"
+        name: "US Iran War LIVE: Iran Seizes Ships in Hormuz as Trump Extends Ceasefire | Vantage on Firstpost"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "om5_CUn4xKU"
+        name: "🔴LIVE: Iran | Ship | இந்திய கப்பல்கள் சிறைபிடிப்பு - ஈரான் அதிர்ச்சி செயல்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0059-VeBYLs"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rOrnmy1wpA0"
-        name: "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "apB6lH1UZBY"
-        name: "Trump LIVE: Trump Threatens Massive Strikes On Iran In Fiery Speech LIVE | World News LIVE"
-        artist: "Times Now"
+        artist: "Insight World"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T16:51:16.394Z"
+  exported_at: "2026-04-22T17:54:15.760Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T16:51:16.361Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T17:54:15.719Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"

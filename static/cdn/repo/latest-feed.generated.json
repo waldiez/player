@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T16:51:16.361Z",
+    "generatedAt": "2026-04-22T17:54:15.719Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ecCXlNxvu6o",
-            "name": "Bharat Ki Baat LIVE: 'झालमुड़ी' के बाद चर्चा में 'माछ-भात' | PM Modi | Anurag Thakur | Election 2026",
-            "artist": "ABP NEWS"
+            "videoId": "CxiKPO8cJdU",
+            "name": "🔴 LIVE || Trump Extends Ceasefire || Islamabad Talks 2.0 || ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "m_JLwua6IBw",
+            "videoId": "io2pZlFYsjk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HOxTxcu0zfU",
+            "name": "US Iran War LIVE: Iran Seizes Ships in Hormuz as Trump Extends Ceasefire | Vantage on Firstpost",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "om5_CUn4xKU",
+            "name": "🔴LIVE: Iran | Ship | இந்திய கப்பல்கள் சிறைபிடிப்பு - ஈரான் அதிர்ச்சி செயல்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0059-VeBYLs",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rOrnmy1wpA0",
-            "name": "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "apB6lH1UZBY",
-            "name": "Trump LIVE: Trump Threatens Massive Strikes On Iran In Fiery Speech LIVE | World News LIVE",
-            "artist": "Times Now"
+            "artist": "Insight World"
         }
     ],
     "sourceFilters": {
