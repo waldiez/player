@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T08:25:58.412Z",
+    "generatedAt": "2026-04-22T10:13:41.267Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,9 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Lt3HUyCcq-I",
-            "name": "World War 3 Update LIVE: होर्मुज खुलवाने ईरान के सपोर्ट में उतरे 30 देश! | Iran US | America | Trump",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sbf6RIql2E4",
-            "name": "US-Iran War Latest News Live: Trump Extends Iran Ceasefire | Hormuz Blockde Stays | Trump News",
-            "artist": "India Today"
+            "videoId": "7WDhLYOpCCY",
+            "name": "🔴SAMAA TV News Live | Latest News Live 24/7, Breaking & Headlines | News Today | #pakistannews",
+            "artist": "SAMAA News Global"
         }
     ],
     "sourceFilters": {
