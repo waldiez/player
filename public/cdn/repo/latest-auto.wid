@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260422T150602.045Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260422T165116.394Z-l4t35t"
   type: "state"
-  created: "2026-04-22T15:06:02.045Z"
+  created: "2026-04-22T16:51:16.394Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T150602.045Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260422T165116.394Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,27 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "01l92FQPlIQ"
-        name: "🔴LIVE: Iran | America | போரில் திடீர் திருப்பம்..அதிர்ச்சியில் உலகம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GIH94xJJKUE"
-        name: "Iran US Ceasefire LIVE: भारत आ रहे जहाज को ईरान ने उड़ाया!, मचा हड़कंप! | Trump | Hormuz Attack"
+        videoId: "ecCXlNxvu6o"
+        name: "Bharat Ki Baat LIVE: 'झालमुड़ी' के बाद चर्चा में 'माछ-भात' | PM Modi | Anurag Thakur | Election 2026"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6lfKZA7F97E"
-        name: "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack"
-        artist: "ABP NEWS"
+        videoId: "m_JLwua6IBw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ksOpocP5644"
-        name: "Sandeep Chaudhary LIVE: बंगाल का घमासान, 14 लाख नहीं करेंगे मतदान! | SIR | West Bengal Election 2026"
-        artist: "ABP NEWS"
+        videoId: "rOrnmy1wpA0"
+        name: "News Ki Pathshala Live | आज की बड़ी खबरें |Israel Iran War | PM Modi | Trump | Women Reservation Bill"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9lU6IBe2Oo8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XsUOjUDtbv8"
-        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
-        artist: "NDTV India"
+        videoId: "apB6lH1UZBY"
+        name: "Trump LIVE: Trump Threatens Massive Strikes On Iran In Fiery Speech LIVE | World News LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +84,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-22T15:06:02.045Z"
+  exported_at: "2026-04-22T16:51:16.394Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-22T15:06:02.008Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-22T16:51:16.361Z"
+  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
