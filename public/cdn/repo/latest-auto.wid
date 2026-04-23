@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T200559.744Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T213828.927Z-l4t35t"
   type: "state"
-  created: "2026-04-23T20:05:59.744Z"
+  created: "2026-04-23T21:38:28.927Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T200559.744Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T213828.927Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "U5EPzL0Hk2k"
-        name: "🔴LIVE: Trump's Order to Attack on Iran Cargo Ship | Breaking News | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "f2lNLoSfTu4"
+        name: "🔴LIVE | Iran Launches Attack | Situation Out of Control | US Military In Action | Trump's Decision"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ACoK_DoxKKU"
-        name: "Iran US War LIVE: Trump Issues Massive ‘Tonight’ Warning to Iran | Iran Govt In Shock! | Watch"
-        artist: "Times Now"
+        videoId: "Zo9h_gaokPo"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HksK_jFvZJY"
-        name: "New Strategy? US “New Cover” for War as 90% Oil Exports Face Blockade | Kamran Khan Report"
-        artist: "ARY News"
+        videoId: "jFqH3kimQLo"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yeFYEr7Cq5M"
-        name: "US Iran War LIVE: Trump Teases 'Good News' on End of Iran War | Firstpost Live | N18G"
+        videoId: "Wg63MqKpMtg"
+        name: "LIVE: US Boards Iran-Linked Tanker, IRGC Speedboats Seize Ships in Hormuz | Vantage on Firstpost"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vD2RENUPUVo"
-        name: "World News Update LIVE: 'Naughty' लिस्ट में India? NATO से अमेरिका तक मची खलबली! |ABPLIVE"
-        artist: "ABPLIVE"
+        videoId: "sG_yrTOiyvI"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 23 April 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T20:05:59.744Z"
+  exported_at: "2026-04-23T21:38:28.927Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T20:05:59.310Z"
+  source_generated_at: "2026-04-23T21:38:28.885Z"
   validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
