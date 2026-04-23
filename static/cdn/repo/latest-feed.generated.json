@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T18:58:04.397Z",
+    "generatedAt": "2026-04-23T20:05:59.310Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Zo9h_gaokPo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "U5EPzL0Hk2k",
+            "name": "🔴LIVE: Trump's Order to Attack on Iran Cargo Ship | Breaking News | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "jFqH3kimQLo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "ACoK_DoxKKU",
+            "name": "Iran US War LIVE: Trump Issues Massive ‘Tonight’ Warning to Iran | Iran Govt In Shock! | Watch",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Wg63MqKpMtg",
-            "name": "LIVE: US Boards Iran-Linked Tanker, IRGC Speedboats Seize Ships in Hormuz | Vantage on Firstpost",
+            "videoId": "HksK_jFvZJY",
+            "name": "New Strategy? US “New Cover” for War as 90% Oil Exports Face Blockade | Kamran Khan Report",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yeFYEr7Cq5M",
+            "name": "US Iran War LIVE: Trump Teases 'Good News' on End of Iran War | Firstpost Live | N18G",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "My0dxuy-aZ8",
-            "name": "ईरान-अमेरिका जंग, 23 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7O_rGD-UOwU",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
+            "videoId": "vD2RENUPUVo",
+            "name": "World News Update LIVE: 'Naughty' लिस्ट में India? NATO से अमेरिका तक मची खलबली! |ABPLIVE",
+            "artist": "ABPLIVE"
         }
     ],
     "sourceFilters": {
