@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-22T23:39:47.866Z",
+    "generatedAt": "2026-04-23T01:55:55.037Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lkXZKqaN_sQ",
-            "name": "TRUMP IMPEACHMENT LIVE: Lawmakers Announce Their Votes | US News LIVE | World News LIVE | Trump LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "diYQQNYzEvA",
+            "name": "Iran US Ceasefire LIVE: बिना ऐलान,जीत गया ईरान!, झूम उठा पूरा देश! | Trump | Hormuz | Big Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "trR0AcM9ZeI",
-            "name": "LIVE | Putin's Fiery Warning To Trump, ‘If US-Israel Attacks Don’t…’, Russia Stands Up For Iran",
-            "artist": "Times Now World"
+            "videoId": "ybZUjkbZ0b4",
+            "name": "Strait of Hormuz War LIVE: ये लो IRGC ने कर डाली युद्ध की शुरूआत...? | Firing on Ship | America",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "wqzuSel4bxU",
-            "name": "US NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement| Iran War",
-            "artist": "MIRROR NOW"
+            "videoId": "ksOpocP5644",
+            "name": "Sandeep Chaudhary LIVE: बंगाल का घमासान, 14 लाख नहीं करेंगे मतदान! | SIR | West Bengal Election 2026",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_dxd0LKU8G0",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "Lu4PkD-4ykU",
+            "name": "Iran Israel War Live: Iran US War Update | Iran US Israel War News | Trump | World News | Netanyahu",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "io2pZlFYsjk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.04.2026) | Sathiyam Headlines",
+            "videoId": "My0dxuy-aZ8",
+            "name": "ईरान-अमेरिका जंग, 23 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TT0Jeo1JGFo",
+            "name": "🔴 LIVE: Trump’s Big Move Shocks World | Ceasefire Extension | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MYRN0rwfqVk",
+            "name": "Today's Headlines | 23 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "55dGs0EJwvU",
-            "name": "🔴LIVE: Iran US war | உலகை மீண்டும் அதிரவைக்கும் செய்தி",
-            "artist": "Sathiyam News"
+            "videoId": "yAk_EGWTc3o",
+            "name": "🔴LIVE: Strait Of Hormuz - Iranian Navy Seizes Two Ships in Strategic Waters | Geo News",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
