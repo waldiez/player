@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T223615.023Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T233747.767Z-l4t35t"
   type: "state"
-  created: "2026-04-23T22:36:15.023Z"
+  created: "2026-04-23T23:37:47.767Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T223615.023Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T233747.767Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "D9ZW_nBUjZU"
-        name: "US LIVE: New Bill Aims 3 Year Freeze  on H-1B Visa and Reduce Stay Duration"
-        artist: "Firstpost"
+        videoId: "fqg4VAcq0Po"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "News Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gY3ce79JW-g"
-        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "f2lNLoSfTu4"
+        name: "🔴LIVE | Iran Launches Attack | Situation Out of Control | US Military In Action | Trump's Decision"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nTQAW0qZ9R4"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (23.04.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Zo9h_gaokPo"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jFqH3kimQLo"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wg63MqKpMtg"
+        name: "LIVE: US Boards Iran-Linked Tanker, IRGC Speedboats Seize Ships in Hormuz | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T22:36:15.023Z"
+  exported_at: "2026-04-23T23:37:47.767Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T22:36:14.989Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-23T23:37:47.735Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
