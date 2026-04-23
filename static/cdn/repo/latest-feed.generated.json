@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T17:11:33.247Z",
+    "generatedAt": "2026-04-23T18:58:04.397Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yeFYEr7Cq5M",
-            "name": "US Iran War LIVE: Trump Teases 'Good News' on End of Iran War | Firstpost Live | N18G",
+            "videoId": "Zo9h_gaokPo",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jFqH3kimQLo",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.04.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wg63MqKpMtg",
+            "name": "LIVE: US Boards Iran-Linked Tanker, IRGC Speedboats Seize Ships in Hormuz | Vantage on Firstpost",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "ozlqjgY_CvQ",
-            "name": "IRAN WAR LIVE: Iran Seizes Ships in Hormuz as Trump Extends Ceasefire | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_MPhfK9TQL8",
-            "name": "West Bengal Elections 2026 Phase 1 Voting LIVE: पश्चिम बंगाल में आंकड़ा 90% के पार सूत्र | TMC | BJP",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vJ7c1k7DzG0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LlMCVx3C1Mw",
-            "name": "Iran US Ceasefire News LIVE: देखो रो पड़े ट्रंप!, ईरान ने उड़ा दिया 5000 करोड़ का जहाज! | Hormuz",
+            "videoId": "My0dxuy-aZ8",
+            "name": "ईरान-अमेरिका जंग, 23 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "1u8Ueq2aViE",
-            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XsFvTMIkoRI",
-            "name": "Iran-US Talks Round 2 | Ceasefire Extend | Trump Announcement | ARY News 6 PM Headlines | 23 Apr 26",
-            "artist": "ARY News"
+            "videoId": "7O_rGD-UOwU",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
