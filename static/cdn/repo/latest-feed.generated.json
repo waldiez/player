@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T04:47:01.037Z",
+    "generatedAt": "2026-04-23T06:57:40.916Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Af6TE3U5yRU",
-            "name": "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | US",
+            "videoId": "DZ_idNMvviA",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "uod0k2vYU_o",
-            "name": "US-IRAN WAR LIVE: Iran’s Hypersonic Missiles Headed Toward US Tonight | Abbas Araghchi | World News",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3_sl9YfwHFo",
-            "name": "US IRAN WAR LIVE: Donald Trump Nuclear Warning Stuns World as Tehran Crisis Deepens",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9aFvzZI3T70",
-            "name": "West Bengal & Tamil Nadu First Phase Voting LIVE: बंगाल-तमिलनाडू में वोटिंग के लिए लगी लंबी लाईन",
+            "videoId": "8YPhHW7kS4U",
+            "name": "West Bengal Chunav Voting: बंगाल में 10 बजे की वोटिंग देख हिल गए सभी! | Murshidabad Blast",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2kBo3CoiaSk",
-            "name": "West Bengal Voting LIVE: बंगाल का सीएम कौन? | Mamata Banerjee | Public Reaction | Breaking",
+            "videoId": "eGvbsg3nc_U",
+            "name": "Murshidabad Clash LIVE: बंगाल में वोटिंग के दौैरान भिड़े लोग | Bengal Election Voting 2026",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "420X2JpX1kM",
-            "name": "🔴 LIVE || BREAKING NEWS - Trump signals possible Friday for second US-Iran talks || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "MFS2RZwwGlw",
+            "name": "West Bengal Elections Update: TMC की होगी छुट्टी? | Mamata Banerjee | Tamil Nadu | BJP",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "kncl-dQzWtI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - April 22, 2026",
-            "artist": "ABC News"
+            "videoId": "m3HhoINmfK0",
+            "name": "Murshidabad Bomb Blast Update LIVE: बंगाल में वोटिंग के वक्त फटा बम | Bengal Election Voting",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oCjIX7ZBrPQ",
+            "name": "Iran Israel Us War Update Live : 23 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
