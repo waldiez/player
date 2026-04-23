@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T08:52:13.596Z",
+    "generatedAt": "2026-04-23T10:20:06.871Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qs-010hFRDU",
-            "name": "Bengal Violence Update LIVE: बंगाल में लोगों और पुलिस के बीच जबरदस्त टकराव | Murshidabad Blast",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bTYUl193gMs",
-            "name": "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH",
+            "videoId": "8x58g8wFfh8",
+            "name": "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "6lfKZA7F97E",
-            "name": "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack",
+            "videoId": "UMWrlIp-kLU",
+            "name": "Tamil Nadu & West Bengal Election 2026 Voting: कौन बनेगा मुख्यमंत्री? | Romana Isar Khan |",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "A_FTGMU0gIo",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4tE-_k2UyfE",
-            "name": "India Iran Tension on Hormuz: ईरान ने कब्जे में लिया भारत का जहाज... | US | Trump | War",
+            "videoId": "T4dIO2IBgvM",
+            "name": "BJP प्रत्याशी शुभेंदु पर हमला | TMC | Murshidabad | BJP | Breaking News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Af6TE3U5yRU",
-            "name": "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | US",
-            "artist": "Times Now World"
+            "videoId": "i-J1Tvap3BQ",
+            "name": "West Bengal Election 2026 Phase 1 Voting LIVE : बंगाल में पहले चरण की वोटिंग शुरू | Mamata | Modi",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6QoKRLLvEo8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Sera Tv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yc8qqNMzjSk",
+            "name": "Bengal Election Voting LIVE: BJP प्रत्याशी शुभेंदु को TMC वालों ने दौड़ा-दौड़ाकर मारा! | Murshidabad",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {

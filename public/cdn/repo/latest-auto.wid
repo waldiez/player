@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T085213.634Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T102006.902Z-l4t35t"
   type: "state"
-  created: "2026-04-23T08:52:13.634Z"
+  created: "2026-04-23T10:20:06.902Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T085213.634Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T102006.902Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qs-010hFRDU"
-        name: "Bengal Violence Update LIVE: बंगाल में लोगों और पुलिस के बीच जबरदस्त टकराव | Murshidabad Blast"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bTYUl193gMs"
-        name: "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH"
+        videoId: "8x58g8wFfh8"
+        name: "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6lfKZA7F97E"
-        name: "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack"
+        videoId: "UMWrlIp-kLU"
+        name: "Tamil Nadu & West Bengal Election 2026 Voting: कौन बनेगा मुख्यमंत्री? | Romana Isar Khan |"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A_FTGMU0gIo"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4tE-_k2UyfE"
-        name: "India Iran Tension on Hormuz: ईरान ने कब्जे में लिया भारत का जहाज... | US | Trump | War"
+        videoId: "T4dIO2IBgvM"
+        name: "BJP प्रत्याशी शुभेंदु पर हमला | TMC | Murshidabad | BJP | Breaking News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Af6TE3U5yRU"
-        name: "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | US"
-        artist: "Times Now World"
+        videoId: "i-J1Tvap3BQ"
+        name: "West Bengal Election 2026 Phase 1 Voting LIVE : बंगाल में पहले चरण की वोटिंग शुरू | Mamata | Modi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6QoKRLLvEo8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Sera Tv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yc8qqNMzjSk"
+        name: "Bengal Election Voting LIVE: BJP प्रत्याशी शुभेंदु को TMC वालों ने दौड़ा-दौड़ाकर मारा! | Murshidabad"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T08:52:13.634Z"
+  exported_at: "2026-04-23T10:20:06.902Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T08:52:13.596Z"
+  source_generated_at: "2026-04-23T10:20:06.871Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
