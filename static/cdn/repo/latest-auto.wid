@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T102006.902Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T115525.144Z-l4t35t"
   type: "state"
-  created: "2026-04-23T10:20:06.902Z"
+  created: "2026-04-23T11:55:25.144Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T102006.902Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T115525.144Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,38 +53,38 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8x58g8wFfh8"
-        name: "World News LIVE: Trump Makes Big Claim On Iran War At Turning Point | Donald Trump | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UMWrlIp-kLU"
-        name: "Tamil Nadu & West Bengal Election 2026 Voting: कौन बनेगा मुख्यमंत्री? | Romana Isar Khan |"
+        videoId: "FrCDH0Y0zbc"
+        name: "Bengal Election Voting LIVE: मोदी बोल रहे थे कोई हाथ नहीं लगा सकता, TMC ने शुभेंदु की कर दी धुनाई!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T4dIO2IBgvM"
-        name: "BJP प्रत्याशी शुभेंदु पर हमला | TMC | Murshidabad | BJP | Breaking News"
+        videoId: "8ji6s9xMYG0"
+        name: "West Bengal 2026 Phase 1 Voting LIVE: पलट गया बंगाल चुनाव? | BJP Vs TMC | Mamata Banerjee | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i-J1Tvap3BQ"
-        name: "West Bengal Election 2026 Phase 1 Voting LIVE : बंगाल में पहले चरण की वोटिंग शुरू | Mamata | Modi"
+        videoId: "4QPYaVjBw44"
+        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6QoKRLLvEo8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr'2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Sera Tv News"
+        videoId: "x7--eTWG97M"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.04.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yc8qqNMzjSk"
-        name: "Bengal Election Voting LIVE: BJP प्रत्याशी शुभेंदु को TMC वालों ने दौड़ा-दौड़ाकर मारा! | Murshidabad"
+        videoId: "JCC6UZ75NKM"
+        name: "West Bengal Voting: वोट करने पहुंचे मुस्लिमों ने कर दिया बड़ा खेल! | Murshidabad | TMC | BJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qs-010hFRDU"
+        name: "Bengal Violence Update: बंगाल में लोगों और पुलिस के बीच जबरदस्त टकराव | Murshidabad Blast"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T10:20:06.902Z"
+  exported_at: "2026-04-23T11:55:25.144Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T10:20:06.871Z"
+  source_generated_at: "2026-04-23T11:55:25.100Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
