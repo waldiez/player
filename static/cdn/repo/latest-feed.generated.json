@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T06:57:40.916Z",
+    "generatedAt": "2026-04-23T08:52:13.596Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DZ_idNMvviA",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "videoId": "qs-010hFRDU",
+            "name": "Bengal Violence Update LIVE: बंगाल में लोगों और पुलिस के बीच जबरदस्त टकराव | Murshidabad Blast",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bTYUl193gMs",
+            "name": "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6lfKZA7F97E",
+            "name": "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "A_FTGMU0gIo",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4tE-_k2UyfE",
+            "name": "India Iran Tension on Hormuz: ईरान ने कब्जे में लिया भारत का जहाज... | US | Trump | War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Af6TE3U5yRU",
+            "name": "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | US",
             "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8YPhHW7kS4U",
-            "name": "West Bengal Chunav Voting: बंगाल में 10 बजे की वोटिंग देख हिल गए सभी! | Murshidabad Blast",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eGvbsg3nc_U",
-            "name": "Murshidabad Clash LIVE: बंगाल में वोटिंग के दौैरान भिड़े लोग | Bengal Election Voting 2026",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MFS2RZwwGlw",
-            "name": "West Bengal Elections Update: TMC की होगी छुट्टी? | Mamata Banerjee | Tamil Nadu | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m3HhoINmfK0",
-            "name": "Murshidabad Bomb Blast Update LIVE: बंगाल में वोटिंग के वक्त फटा बम | Bengal Election Voting",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oCjIX7ZBrPQ",
-            "name": "Iran Israel Us War Update Live : 23 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {

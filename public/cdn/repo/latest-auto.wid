@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T065740.955Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T085213.634Z-l4t35t"
   type: "state"
-  created: "2026-04-23T06:57:40.955Z"
+  created: "2026-04-23T08:52:13.634Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T065740.955Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T085213.634Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DZ_idNMvviA"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
+        videoId: "qs-010hFRDU"
+        name: "Bengal Violence Update LIVE: बंगाल में लोगों और पुलिस के बीच जबरदस्त टकराव | Murshidabad Blast"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bTYUl193gMs"
+        name: "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6lfKZA7F97E"
+        name: "Iran US Ceasefire LIVE: ईरान ने जब्त किया जहाज!, भारत ने दाग दी मिसाइल! | Hormuz Attack"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A_FTGMU0gIo"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4tE-_k2UyfE"
+        name: "India Iran Tension on Hormuz: ईरान ने कब्जे में लिया भारत का जहाज... | US | Trump | War"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Af6TE3U5yRU"
+        name: "LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News Live | Iran | Israel | US"
         artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8YPhHW7kS4U"
-        name: "West Bengal Chunav Voting: बंगाल में 10 बजे की वोटिंग देख हिल गए सभी! | Murshidabad Blast"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eGvbsg3nc_U"
-        name: "Murshidabad Clash LIVE: बंगाल में वोटिंग के दौैरान भिड़े लोग | Bengal Election Voting 2026"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MFS2RZwwGlw"
-        name: "West Bengal Elections Update: TMC की होगी छुट्टी? | Mamata Banerjee | Tamil Nadu | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m3HhoINmfK0"
-        name: "Murshidabad Bomb Blast Update LIVE: बंगाल में वोटिंग के वक्त फटा बम | Bengal Election Voting"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oCjIX7ZBrPQ"
-        name: "Iran Israel Us War Update Live : 23 April 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
-        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T06:57:40.955Z"
+  exported_at: "2026-04-23T08:52:13.634Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T06:57:40.916Z"
+  source_generated_at: "2026-04-23T08:52:13.596Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
