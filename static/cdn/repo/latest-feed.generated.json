@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T15:45:42.429Z",
+    "generatedAt": "2026-04-23T17:11:33.247Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "My0dxuy-aZ8",
-            "name": "ईरान-अमेरिका जंग, 23 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei",
-            "artist": "ABP NEWS"
+            "videoId": "yeFYEr7Cq5M",
+            "name": "US Iran War LIVE: Trump Teases 'Good News' on End of Iran War | Firstpost Live | N18G",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "y2Dt7_k2W6g",
-            "name": "Iran US Ceasefire News LIVE: ट्रंप ने जहाजों को उड़ाने का दिया आदेश!, खून से लाल हुआ समंदर! | Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "ozlqjgY_CvQ",
+            "name": "IRAN WAR LIVE: Iran Seizes Ships in Hormuz as Trump Extends Ceasefire | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "CkOAGWbICW0",
-            "name": "West Bengal Voting Update LIVE: बंगाल में 95%+ वोटिंग ने उड़ा दिए Mamata के होश! | BJP | TMC",
-            "artist": "ABP NEWS"
+            "videoId": "_MPhfK9TQL8",
+            "name": "West Bengal Elections 2026 Phase 1 Voting LIVE: पश्चिम बंगाल में आंकड़ा 90% के पार सूत्र | TMC | BJP",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "xLGL7b1sDk4",
+            "videoId": "vJ7c1k7DzG0",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "s8fmgV-I4DE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "MzF9ZBblPrk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eGvbsg3nc_U",
-            "name": "Murshidabad Clash LIVE: बंगाल में वोटिंग के दौरान भिड़े लोग | Bengal Election Voting 2026",
+            "videoId": "LlMCVx3C1Mw",
+            "name": "Iran US Ceasefire News LIVE: देखो रो पड़े ट्रंप!, ईरान ने उड़ा दिया 5000 करोड़ का जहाज! | Hormuz",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Jz_mszYZHZ0",
-            "name": "🔴LIVE: Rising Crisis in Strait of Hormuz: U.S. Confiscates Iranian Oil Shipment | Geo News",
-            "artist": "Geo News"
+            "videoId": "1u8Ueq2aViE",
+            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "kgpQpogZHco",
-            "name": "West Bengal Elections 2026 Voting LIVE: शुभेंदु पर हमला करने वालों को पुलिस ने उठाया और ठोक डाला !",
-            "artist": "ABP NEWS"
+            "videoId": "XsFvTMIkoRI",
+            "name": "Iran-US Talks Round 2 | Ceasefire Extend | Trump Announcement | ARY News 6 PM Headlines | 23 Apr 26",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
