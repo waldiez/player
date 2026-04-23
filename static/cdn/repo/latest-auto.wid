@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260423T130906.396Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260423T154542.473Z-l4t35t"
   type: "state"
-  created: "2026-04-23T13:09:06.396Z"
+  created: "2026-04-23T15:45:42.473Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T130906.396Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260423T154542.473Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "oL8Japom2E8"
-        name: "Iran America War News LIVE: Soldiers in America revolt against the war, Trump tense! | Breaking|N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Qr6VV7m66Dc"
-        name: "Bengal Violence Ground Report: बंगाल में हिंसा वाली जगह से सीधा कवरेज | Murshidabad Blast"
+        videoId: "My0dxuy-aZ8"
+        name: "ईरान-अमेरिका जंग, 23 अप्रैल 2026 LIVE | Iran US Israel War News | Trump Vs Mojtaba Khamenei"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "erDgtnoW7WE"
-        name: "West Bengal Elections 2026 Phase 1 Voting: बंगाल में बंपर वोटिंग, आंकड़ों ने सबको चौंकाया! TMC"
+        videoId: "y2Dt7_k2W6g"
+        name: "Iran US Ceasefire News LIVE: ट्रंप ने जहाजों को उड़ाने का दिया आदेश!, खून से लाल हुआ समंदर! | Hormuz"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a30mRjfDtIY"
-        name: "Bengal Election Voting: शाम होते ही बंगाल में वोटिंग ने तोड़े सारे रिकॉर्ड!,BJP की बल्ले-बल्ले!"
+        videoId: "CkOAGWbICW0"
+        name: "West Bengal Voting Update LIVE: बंगाल में 95%+ वोटिंग ने उड़ा दिए Mamata के होश! | BJP | TMC"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R1oxM50xOSY"
-        name: "Bengal Election Voting LIVE:  बंगाल में पहले चरण के मतदान के आंकड़ों ने चौंकाया!, तुरंत दौड़ी ममता!"
+        videoId: "xLGL7b1sDk4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "s8fmgV-I4DE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MzF9ZBblPrk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Doyel Tv 2.0"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eGvbsg3nc_U"
+        name: "Murshidabad Clash LIVE: बंगाल में वोटिंग के दौरान भिड़े लोग | Bengal Election Voting 2026"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RwgCyyZbCiQ"
-        name: "🔴LIVE: Tn elections | இதுவரை இல்லாத அளவில் காலையிலேயே வாக்குசெலுத்த குவிந்த மக்கள்"
-        artist: "Sathiyam News"
+        videoId: "Jz_mszYZHZ0"
+        name: "🔴LIVE: Rising Crisis in Strait of Hormuz: U.S. Confiscates Iranian Oil Shipment | Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FnrqmvlozZA"
-        name: "Watch LIVE: President Trump Delivers Urgent Iran War Update, Slams NATO in Cabinet Meeting | US News"
-        artist: "ET Now World"
+        videoId: "kgpQpogZHco"
+        name: "West Bengal Elections 2026 Voting LIVE: शुभेंदु पर हमला करने वालों को पुलिस ने उठाया और ठोक डाला !"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-23T13:09:06.396Z"
+  exported_at: "2026-04-23T15:45:42.473Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-23T13:09:06.354Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-23T15:45:42.429Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
