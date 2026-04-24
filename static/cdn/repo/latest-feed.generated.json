@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-23T23:37:47.735Z",
+    "generatedAt": "2026-04-24T01:56:07.616Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "fqg4VAcq0Po",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "News Bangla"
+            "videoId": "OlzqyVj3Q4g",
+            "name": "Bengal Election Voting LIVE: ममता बनर्जी का पीएम मोदी को बड़ा ऑफर!, चौंके नेता!| Mamata | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "f2lNLoSfTu4",
-            "name": "🔴LIVE | Iran Launches Attack | Situation Out of Control | US Military In Action | Trump's Decision",
-            "artist": "Dunya News"
+            "videoId": "R1oxM50xOSY",
+            "name": "Bengal Election Voting LIVE:  बंगाल में पहले चरण के मतदान के आंकड़ों ने चौंकाया!, तुरंत दौड़ी ममता!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "nTQAW0qZ9R4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (23.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "fa69tdtkMRU",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 24 April",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Zo9h_gaokPo",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jFqH3kimQLo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.04.2026) | Sathiyam Headlines",
+            "videoId": "Dhz-OQzY4XU",
+            "name": "Today's Headlines | 24 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Wg63MqKpMtg",
-            "name": "LIVE: US Boards Iran-Linked Tanker, IRGC Speedboats Seize Ships in Hormuz | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "hYQm5uy9F00",
+            "name": "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5IFYTY--HrA",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 23, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "55J2ybJ7P_Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Jashore Time"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ACoK_DoxKKU",
+            "name": "Iran US War LIVE: Trump Issues Massive ‘Tonight’ Warning to Iran | Iran Govt In Shock! | Watch",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
