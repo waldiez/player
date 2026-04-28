@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260424T015607.649Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260428T192550.591Z-l4t35t"
   type: "state"
-  created: "2026-04-24T01:56:07.649Z"
+  created: "2026-04-28T19:25:50.591Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260424T015607.649Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260428T192550.591Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,50 +53,74 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OlzqyVj3Q4g"
-        name: "Bengal Election Voting LIVE: ममता बनर्जी का पीएम मोदी को बड़ा ऑफर!, चौंके नेता!| Mamata | Breaking"
-        artist: "ABP NEWS"
+        videoId: "5K7xOrv28js"
+        name: "BREAKING NEWS LIVE | UAE Quits OPEC: Saudi-Led Oil Cartel Weakens | US Iran Tensions | Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R1oxM50xOSY"
-        name: "Bengal Election Voting LIVE:  बंगाल में पहले चरण के मतदान के आंकड़ों ने चौंकाया!, तुरंत दौड़ी ममता!"
-        artist: "ABP NEWS"
+        videoId: "EnAeGfQbjec"
+        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fa69tdtkMRU"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 24 April"
-        artist: "ABP NEWS"
+        videoId: "npbd6Jy69Cw"
+        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Dhz-OQzY4XU"
-        name: "Today's Headlines | 24 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        videoId: "raYNOoaATew"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iGXUpWEy1s0"
+        name: "🔴LIVE: Tvk Vijay |''விஜயின் BLAST ஆரம்பம்!'' புது ஸ்டைலில் பதவியேற்பு|ThalapathyVijay | Election2026"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hYQm5uy9F00"
-        name: "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | FULL SPEECH"
-        artist: "Times Now"
+        videoId: "-Ka7IuIDY4Y"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Gamer420M"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5IFYTY--HrA"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 23, 2026"
-        artist: "ABC News"
+        videoId: "a4RMqBWM7qU"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "55J2ybJ7P_Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Jashore Time"
+        videoId: "6lm_zjxg0UI"
+        name: "🔴LIVE: கண்ணில் கண்ணீர்!வருத்தமாக சீமான் பேட்டி| ThenisaiChellappa |Seeman | NTK | ThenisaiChellappa|"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ACoK_DoxKKU"
-        name: "Iran US War LIVE: Trump Issues Massive ‘Tonight’ Warning to Iran | Iran Govt In Shock! | Watch"
+        videoId: "-GrddI3GUkE"
+        name: "🔴LIVE: காங்கிரஸ் தலைவர் யார்..? முடிவை அறிவித்தது டெல்லி | Congress | DelhiDecision | TamilNews |"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1xV7nTE3Vg0"
+        name: "'STATE OF COLLAPSE': Trump reveals NEW message from Iran"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WIReZ8spChk"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suahil LIVE : बंगाल में चुनाव से सिंघम पर संग्राम! Bengal"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "O1oTRaPKmqM"
+        name: "Breaking News LIVE: Trump Issues ‘Tonight’ Warning to Iran | World on Edge | Iran News Live"
         artist: "Times Now"
         chapter: null
   moodCustomizations:
@@ -108,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-24T01:56:07.649Z"
+  exported_at: "2026-04-28T19:25:50.591Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-24T01:56:07.616Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-28T19:25:50.560Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
