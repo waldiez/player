@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260429T080702.490Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260429T134403.686Z-l4t35t"
   type: "state"
-  created: "2026-04-29T08:07:02.490Z"
+  created: "2026-04-29T13:44:03.686Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260429T080702.490Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260429T134403.686Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mnRUThBbmX8"
-        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । 29.04.2026 | Top News |  Latest News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-GHBwWSwI80"
-        name: "Voting News LIVE:दूसरे चरण की बंपर वोटिंग ने चौंकाया!| Bengal Election 2026 | Big Breaking | PM Modi"
+        videoId: "BuDeM9e1Qs0"
+        name: "Exit Poll Assembly Elections 2026 LIVE: BJP vs TMC कौन आगे? | Bengal | Mamata | BJP Vs TMC | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CwfzG5DuGys"
-        name: "LIVE | Trump 'Unhappy' With New Peace Proposal: Will the Iran War Continue? | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3z60dB3Jxa4"
-        name: "🔴LIVE: TVK Vijay | விஜயின் கான்ஃபிடன்ஸ் பின்னணி ரகசியம் என்ன..?"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pI5vu3GeNAE"
-        name: "Voting News LIVE: अचानक वोट डालने पहुंचे लाखों वोटर!, फोर्स ने तानी बदूंक! | Bengal Election 2026"
+        videoId: "ASz67rAQ93A"
+        name: "Exit Poll LIVE: 5 राज्यों का बदल गया CM? | Bengal | Assam | Tamil Nadu | Puducherry | Kerala"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EDZKcHQFPCw"
-        name: "Live updates: UAE leaves OPEC and OPEC+, while US-Iran negotiations stall | Geo News"
-        artist: "Geo News"
+        videoId: "eFK1lOsgPok"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2jf2ROHzHOs"
-        name: "US-Iran War LIVE | 10,000+ US Soldiers Deployed in Middle East | Iran Responds with Shahed Drones..."
-        artist: "CNN-News18"
+        videoId: "TF57GqHMWe8"
+        name: "Exit Poll 2026 LIVE: 5 राज्यों का सबसे तेज और सबसे सटीक एग्जिट पोल | Bengal | Assam | Tamil Nadu"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5wX5tLjGyGI"
-        name: "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE"
-        artist: "ET Now World"
+        videoId: "OoRcBKmDjeQ"
+        name: "5 State Exit Poll LIVE | Second Phase Voting | Assam | Mamata Banerjee | TMC | BJP | Himanta"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JAni9O4xANQ"
-        name: "West Bengal Elections 2026 Phase 2 Voting LIVE | Mamata Banerjee | West Bengal Election 2026"
-        artist: "TV9 Bharatvarsh"
+        videoId: "LYzuDdAYs4g"
+        name: "West Bengal Exit Poll 2026 Live: एग्जिट पोल में ममता की वापसी! | BJP Vs TMC | Mamata Banerjee"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eqRzWBtXUN8"
-        name: "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE"
-        artist: "ET Now World"
+        videoId: "tD97mcN-6ZI"
+        name: "Bengal 2nd Phase Voting LIVE: TMC वालों ने Suvendu Adhikari को घेरा, CAPF ने दौड़ा-दौड़ाकर मारा"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SiyJwlZydHE"
-        name: "IRAN WAR LIVE: 'World Will Die If...', Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS"
-        artist: "Times Now World"
+        videoId: "nZCry5hpTQw"
+        name: "EXIT POLL LIVE: सबसे सटीक और सबसे पहले EXIT Poll | Bengal | Assam | Tamil Nadu | TMC | BJP |Congress"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PBKG1UPPYp0"
+        name: "West Bengal Elections 2026 EXIT Poll LIVE: 5 बजे EXIT POLL...उससे पहले TMC की आंधी में उड़ी BJP!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ipRL9hlDxGY"
+        name: "Bengal Exit Poll LIVE | Second Phase Voting | Mamata Banerjee | TMC | BJP | Suvendu Adhikari"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tcu4U2_ecyg"
+        name: "BENGAL EXIT POLL LIVE: एग्जिट पोल पर सब कुछ हो गया साफ! | BJP vs TMC | Mamata Banerjee | PM Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B675goKOIlY"
+        name: "West Bengal Election 2026 Exit Poll LIVE: बंगाल का एक्जिट पोल शुरू? Mamata Banarjee | PM Modi | NDTV"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-29T08:07:02.490Z"
+  exported_at: "2026-04-29T13:44:03.686Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-29T08:07:02.454Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-29T13:44:03.657Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
