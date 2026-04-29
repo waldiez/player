@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260429T134403.686Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260429T191621.311Z-l4t35t"
   type: "state"
-  created: "2026-04-29T13:44:03.686Z"
+  created: "2026-04-29T19:16:21.311Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260429T134403.686Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260429T191621.311Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BuDeM9e1Qs0"
-        name: "Exit Poll Assembly Elections 2026 LIVE: BJP vs TMC कौन आगे? | Bengal | Mamata | BJP Vs TMC | PM Modi"
+        videoId: "G_t7DSK9IBA"
+        name: "Trump LIVE: WORLD IN SHOCK! Trump Unleashes Bombshell Nuclear Ultimatum to Iran & Israel!"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "STGSrcr138g"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tL6msBv1LBs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "TimeTV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u75pcCgRxAk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3V-o6k1iNiQ"
+        name: "Poll Of Polls LIVE With Arnab: India's Strongest Editorial Team | Battleground States Assembly Polls"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7pW8ai1BwCE"
+        name: "Sandeep Chaudhary LIVE: हर राज्य का सटीक EXIT POLL! | Bengal | Assam | Kerala | 4 May Result Update"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ASz67rAQ93A"
-        name: "Exit Poll LIVE: 5 राज्यों का बदल गया CM? | Bengal | Assam | Tamil Nadu | Puducherry | Kerala"
+        videoId: "Po4FOkbOL-4"
+        name: "West Bengal Exit Polls LIVE On R Bangla: Arnab & Team’s Biggest Election Coverage From Ground Zero"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Hu_-uGyS-zY"
+        name: "Bengal Exit Poll LIVE: EXIT POLL के बाद ममता बनर्जी का बड़ा ऐलान! | Mamata Banerjee | TMC | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eFK1lOsgPok"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TF57GqHMWe8"
-        name: "Exit Poll 2026 LIVE: 5 राज्यों का सबसे तेज और सबसे सटीक एग्जिट पोल | Bengal | Assam | Tamil Nadu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OoRcBKmDjeQ"
-        name: "5 State Exit Poll LIVE | Second Phase Voting | Assam | Mamata Banerjee | TMC | BJP | Himanta"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LYzuDdAYs4g"
-        name: "West Bengal Exit Poll 2026 Live: एग्जिट पोल में ममता की वापसी! | BJP Vs TMC | Mamata Banerjee"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tD97mcN-6ZI"
-        name: "Bengal 2nd Phase Voting LIVE: TMC वालों ने Suvendu Adhikari को घेरा, CAPF ने दौड़ा-दौड़ाकर मारा"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nZCry5hpTQw"
-        name: "EXIT POLL LIVE: सबसे सटीक और सबसे पहले EXIT Poll | Bengal | Assam | Tamil Nadu | TMC | BJP |Congress"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PBKG1UPPYp0"
-        name: "West Bengal Elections 2026 EXIT Poll LIVE: 5 बजे EXIT POLL...उससे पहले TMC की आंधी में उड़ी BJP!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ipRL9hlDxGY"
-        name: "Bengal Exit Poll LIVE | Second Phase Voting | Mamata Banerjee | TMC | BJP | Suvendu Adhikari"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tcu4U2_ecyg"
-        name: "BENGAL EXIT POLL LIVE: एग्जिट पोल पर सब कुछ हो गया साफ! | BJP vs TMC | Mamata Banerjee | PM Modi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "B675goKOIlY"
-        name: "West Bengal Election 2026 Exit Poll LIVE: बंगाल का एक्जिट पोल शुरू? Mamata Banarjee | PM Modi | NDTV"
+        videoId: "RxSj6NVbdcc"
+        name: "Bengal Exit Polls 2026 LIVE : बंगाल का सबसे सटीक EXIT POLL | Tamil Nadu | Assam | Kerala | TMC | BJP"
         artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5wX5tLjGyGI"
+        name: "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9HltAQQiuGk"
+        name: "Assembly Election Result Update LIVE: ममता लेंगी फिर से सीएम पद की शपथ? | Bengal Exit Poll"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7FMD4kvIZQs"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 29.04.2026 | Latest News | Breaking News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-29T13:44:03.686Z"
+  exported_at: "2026-04-29T19:16:21.311Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-29T13:44:03.657Z"
+  source_generated_at: "2026-04-29T19:16:21.276Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
