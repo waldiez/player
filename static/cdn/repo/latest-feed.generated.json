@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-28T19:25:50.560Z",
+    "generatedAt": "2026-04-29T02:26:50.460Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5K7xOrv28js",
-            "name": "BREAKING NEWS LIVE | UAE Quits OPEC: Saudi-Led Oil Cartel Weakens | US Iran Tensions | Firstpost",
-            "artist": "Firstpost"
+            "videoId": "tDClUOFjYyo",
+            "name": "Bengal Election News LIVE: वोटिंग से पहले बवाल बीजेपी एजेंट को पीट डाला, बह गया खून! | Voting LIVE",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "EnAeGfQbjec",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "videoId": "WOPn_PB644c",
+            "name": "Bengal Election News LIVE: रिजल्ट से पहले ममता का उम्मीदवार गायब?, मचा हड़कंप!| Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4ZOzEbS3umM",
+            "name": "Sandeep Chaudhary LIVE: SIR, ध्रुवीकरण पर जोर... असल मुद्दे पड़े कमजोर! | West Bengal Election 2026",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E6toB1ThOzo",
+            "name": "Bengal Election News LIVE: दूसरे चरण से पहले बंगाल से आई बड़ी खबर, हिली BJP!| Breaking | Voting",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rWonPLtiapk",
+            "name": "Bengal Election News LIVE: सुबह-सुबह बंगाल में बड़ी हत्या! | Breaking | PM Modi |  Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iRmnBmn7joI",
+            "name": "West Bengal 2nd Phase Voting LIVE: दूसरे चरण की वोटिंग LIVE | Mamata Banerjee | PM Modi | BJP Vs TMC",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qm-QDd2QKTw",
+            "name": "Today's Headlines | 29 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yoHY3hrP_sQ",
+            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (29.04.2026) | 7 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S9qH2-mabXY",
+            "name": "Russia News LIVE | 'World war 3 has begun', Lavrov Makes Shocking Claim Over Iran War | Putin News",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "npbd6Jy69Cw",
-            "name": "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "raYNOoaATew",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iGXUpWEy1s0",
-            "name": "🔴LIVE: Tvk Vijay |''விஜயின் BLAST ஆரம்பம்!'' புது ஸ்டைலில் பதவியேற்பு|ThalapathyVijay | Election2026",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-Ka7IuIDY4Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Gamer420M"
-        },
-        {
-            "mood": "storm",
-            "videoId": "a4RMqBWM7qU",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.04.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6lm_zjxg0UI",
-            "name": "🔴LIVE: கண்ணில் கண்ணீர்!வருத்தமாக சீமான் பேட்டி| ThenisaiChellappa |Seeman | NTK | ThenisaiChellappa|",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-GrddI3GUkE",
-            "name": "🔴LIVE: காங்கிரஸ் தலைவர் யார்..? முடிவை அறிவித்தது டெல்லி | Congress | DelhiDecision | TamilNews |",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1xV7nTE3Vg0",
-            "name": "'STATE OF COLLAPSE': Trump reveals NEW message from Iran",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WIReZ8spChk",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suahil LIVE : बंगाल में चुनाव से सिंघम पर संग्राम! Bengal",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O1oTRaPKmqM",
-            "name": "Breaking News LIVE: Trump Issues ‘Tonight’ Warning to Iran | World on Edge | Iran News Live",
-            "artist": "Times Now"
+            "videoId": "heExVa3-Hl0",
+            "name": "ABC NEWS SPECIAL REPORT: King Charles III delivers joint address to Congress",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
