@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-29T02:26:50.460Z",
+    "generatedAt": "2026-04-29T08:07:02.454Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tDClUOFjYyo",
-            "name": "Bengal Election News LIVE: वोटिंग से पहले बवाल बीजेपी एजेंट को पीट डाला, बह गया खून! | Voting LIVE",
+            "videoId": "mnRUThBbmX8",
+            "name": "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । 29.04.2026 | Top News |  Latest News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-GHBwWSwI80",
+            "name": "Voting News LIVE:दूसरे चरण की बंपर वोटिंग ने चौंकाया!| Bengal Election 2026 | Big Breaking | PM Modi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "WOPn_PB644c",
-            "name": "Bengal Election News LIVE: रिजल्ट से पहले ममता का उम्मीदवार गायब?, मचा हड़कंप!| Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "CwfzG5DuGys",
+            "name": "LIVE | Trump 'Unhappy' With New Peace Proposal: Will the Iran War Continue? | Vantage on Firstpost",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "4ZOzEbS3umM",
-            "name": "Sandeep Chaudhary LIVE: SIR, ध्रुवीकरण पर जोर... असल मुद्दे पड़े कमजोर! | West Bengal Election 2026",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E6toB1ThOzo",
-            "name": "Bengal Election News LIVE: दूसरे चरण से पहले बंगाल से आई बड़ी खबर, हिली BJP!| Breaking | Voting",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rWonPLtiapk",
-            "name": "Bengal Election News LIVE: सुबह-सुबह बंगाल में बड़ी हत्या! | Breaking | PM Modi |  Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iRmnBmn7joI",
-            "name": "West Bengal 2nd Phase Voting LIVE: दूसरे चरण की वोटिंग LIVE | Mamata Banerjee | PM Modi | BJP Vs TMC",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Qm-QDd2QKTw",
-            "name": "Today's Headlines | 29 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "3z60dB3Jxa4",
+            "name": "🔴LIVE: TVK Vijay | விஜயின் கான்ஃபிடன்ஸ் பின்னணி ரகசியம் என்ன..?",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "yoHY3hrP_sQ",
-            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (29.04.2026) | 7 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "pI5vu3GeNAE",
+            "name": "Voting News LIVE: अचानक वोट डालने पहुंचे लाखों वोटर!, फोर्स ने तानी बदूंक! | Bengal Election 2026",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "S9qH2-mabXY",
-            "name": "Russia News LIVE | 'World war 3 has begun', Lavrov Makes Shocking Claim Over Iran War | Putin News",
+            "videoId": "EDZKcHQFPCw",
+            "name": "Live updates: UAE leaves OPEC and OPEC+, while US-Iran negotiations stall | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2jf2ROHzHOs",
+            "name": "US-Iran War LIVE | 10,000+ US Soldiers Deployed in Middle East | Iran Responds with Shahed Drones...",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5wX5tLjGyGI",
+            "name": "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JAni9O4xANQ",
+            "name": "West Bengal Elections 2026 Phase 2 Voting LIVE | Mamata Banerjee | West Bengal Election 2026",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eqRzWBtXUN8",
+            "name": "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SiyJwlZydHE",
+            "name": "IRAN WAR LIVE: 'World Will Die If...', Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS",
             "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "heExVa3-Hl0",
-            "name": "ABC NEWS SPECIAL REPORT: King Charles III delivers joint address to Congress",
-            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
