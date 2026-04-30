@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-04-30T02:27:41.579Z",
+    "generatedAt": "2026-04-30T08:11:00.375Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "k3lw2u1pB78",
-            "name": "US Iran War Live | Iran's New Offer Shows Trump That Mojtaba Doesn't Fear War? | Tehran | Hormuz",
-            "artist": "Hindustan Times"
+            "videoId": "BopUDBRoGyY",
+            "name": "Voting For 2nd Phase West Bengal Election 2026 Live: बंगाल से लाइव | Mamata Banerjee | Bhowanipore",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "nZCry5hpTQw",
-            "name": "EXIT POLL LIVE: सबसे सटीक और सबसे पहले EXIT Poll | Bengal | Assam | Tamil Nadu | TMC | BJP |Congress",
+            "videoId": "aKjSlq0EwBM",
+            "name": "Bengal Election Result Update LIVE: EXIT POLL देखते ही बौखलाई ममता! | BJP vs TMC | Mamata Banerjee",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XSIY5nuLICg",
-            "name": "West Bengal Exit Poll 2026 Live: बंगाल के Exit Poll में बड़ा उलटफेर! | BJP Vs TMC | Mamata Banerjee",
+            "videoId": "M8LPD0dU7PA",
+            "name": "TRUMP IMPEACHMENT LIVE: Lawmakers Announce Their Votes | US News LIVE | World News LIVE | Trump LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N3g2mADFdfc",
+            "name": "EXIT POLL LIVE: पश्चिम बंगाल में किसकी बनेगी सरकार? |  BJP I TMC | Mamata I Kiski banegi Sarkar",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DidEueUQCxw",
+            "name": "Exit Poll LIVE: सुबह-सुबह पलटा एग्जिट पोल! | West Bengal Elections | Mamata Banerjee | TMC vs BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ot0sPMQovEY",
-            "name": "Bengal Exit Poll With Sandeep Chaudhary LIVE: चौथी बार CM बनेंगी Mamata Banerjee? | BJP | TMC",
+            "videoId": "H0qwhum4Kss",
+            "name": "ईरान-अमेरिका जंग, 30 अप्रैल 2026 LIVE | Iran US Ceasefire News | Trump Vs Mojtaba Khamenei",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4n6J6QPhRIM",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 30 April",
-            "artist": "ABP NEWS"
+            "videoId": "Ajl5u68CViI",
+            "name": "EXIT POLL LIVE : बंगाल में बीजेपी की बंपर जीत! I BJP I TMC | Bengal Election I Kiski banegi Sarkar",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "17QqOtRx1sM",
-            "name": "Today's Headlines | 30 APR 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "KQ9ArC9TywA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Govt Notice BD"
         },
         {
             "mood": "storm",
-            "videoId": "Ju_DU7IcXqU",
-            "name": "Wednesday Night Live World News 29th April 2026 7pm",
-            "artist": "Stoptherot Sackthelot"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hvw5YHEK5Ik",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Apr 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Gamer420M"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8ng5wBtJWSI",
-            "name": "🔴LIVE: Today Headlines |  இரவு 11 மணி தலைப்புச் செய்திகள் (29.04.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "USC21CEXVAg",
-            "name": "Good Morning America Full Broadcast - Wednesday, April 29, 2026",
+            "videoId": "KzqoFc2ZK5Y",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - April 29, 2026",
             "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RkfLTVD38Cs",
+            "name": "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qbyi4jCxxQM",
+            "name": "US-Iran War LIVE: Trump's SHOCKING New Plan For Hormuz, World On High Alert | WION Live",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
