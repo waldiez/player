@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260430T132850.950Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260430T191140.147Z-l4t35t"
   type: "state"
-  created: "2026-04-30T13:28:50.950Z"
+  created: "2026-04-30T19:11:40.147Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260430T132850.950Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260430T191140.147Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "G2SK5a4ta44"
-        name: "உலகத்தை அதிரவைக்கும் செய்தி! ஈரானை தாக்கபோகும் அமெரிக்கா.. | Iran | USA | IranVsUSA |WorldNews |"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r6eRsiALKwE"
-        name: "West Bengal Exit Poll Live : एक्जिट पोल आते ही ममता ने कर दिया चौंकाने वाला ऐलान| TMC VS BJP | PM"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MoX4az7X9rQ"
-        name: "Today's Breaking News LIVE: 30 April News |Aaj Ki Taaza Khabar | Iran America War | Trump |Netanyahu"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XsPneyCPOjY"
-        name: "Bengal Elections Exit Poll LIVE: रिजल्ट से पहले BJP में जश्न हो गया शुरू...? | BJP | TMC | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DrqQNoXJ4dk"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.04.2026)| 2 PM Headlines | ThanthiTV"
+        videoId: "S2ZZyJcs9Nc"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.04.2026) | 11 PM Headlines | Thanthi TV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WxENf7o0CDQ"
-        name: "TMC Exit Poll Clash In Bengal LIVE: एग्जिट पोल देख भड़के टीएमसी कार्यकर्ता | Second Phase Voting"
+        videoId: "aapHbrP9fnk"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-iXW7atVk38"
+        name: "LIVE: SpaceX Launches New Starlink Satellites in Stunning Night Mission | N18G"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WPHR9GGbLXE"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.04.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gaDLfzQYiTU"
+        name: "New Missiles Deployed, Iran US War Update | Pak vs Ind | Live With Jami | EP 281 | 30 April 2026"
+        artist: "SUNO NEWS HD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "S6rI9Ry3-JU"
+        name: "Good News For Pak | Iran US War Update | Petrol Latest Prices | Harmuz Blockade | 9PM Headlines"
+        artist: "Dunya News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vytp6ZBvO-g"
+        name: "Bengal Exit Poll Update LIVE: ममता ने BJP को दी EXIT POLL में पटखनी? | Exit Poll Results | TMC"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v9XS53PkSXY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "qxs4PR7tabQ"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suahil LIVE : एग्जिट पोल में मोदी की जीत | Exit Poll | Bengal"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BCX-OinWZQw"
-        name: "South 24 Parganas Violence Update LIVE: 40 कार्यकर्ताओं ने जला दिया बंगाल...? | TMC |Mamata Banerjee"
+        videoId: "xWzGLjHVCPI"
+        name: "West Bengal Exit Poll 2026 LIVE: बंगाल के Exit Poll में बड़ा उलटफेर! | BJP Vs TMC | Mamata Banerjee"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l9e1Lj5zV9M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "lUbinz-FQrA"
+        name: "Donald Trump LIVE: Trump Delivers Urgent War Message as Iran Strikes Back | US-Iran War Live"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LeMQf3922Ts"
+        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K1iI6QU7f5E"
+        name: "🔴 Dawn News Live | News Headlines | Breaking News | News Stories | Pakistan News | 𝐋𝐢𝐯𝐞 𝐍𝐞𝐰𝐬"
+        artist: "DawnNews"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-30T13:28:50.950Z"
+  exported_at: "2026-04-30T19:11:40.147Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-30T13:28:50.917Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-30T19:11:40.118Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
