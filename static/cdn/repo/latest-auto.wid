@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260430T081100.412Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260430T132850.950Z-l4t35t"
   type: "state"
-  created: "2026-04-30T08:11:00.412Z"
+  created: "2026-04-30T13:28:50.950Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260430T081100.412Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260430T132850.950Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BopUDBRoGyY"
-        name: "Voting For 2nd Phase West Bengal Election 2026 Live: बंगाल से लाइव | Mamata Banerjee | Bhowanipore"
+        videoId: "G2SK5a4ta44"
+        name: "உலகத்தை அதிரவைக்கும் செய்தி! ஈரானை தாக்கபோகும் அமெரிக்கா.. | Iran | USA | IranVsUSA |WorldNews |"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "r6eRsiALKwE"
+        name: "West Bengal Exit Poll Live : एक्जिट पोल आते ही ममता ने कर दिया चौंकाने वाला ऐलान| TMC VS BJP | PM"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aKjSlq0EwBM"
-        name: "Bengal Election Result Update LIVE: EXIT POLL देखते ही बौखलाई ममता! | BJP vs TMC | Mamata Banerjee"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M8LPD0dU7PA"
-        name: "TRUMP IMPEACHMENT LIVE: Lawmakers Announce Their Votes | US News LIVE | World News LIVE | Trump LIVE"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N3g2mADFdfc"
-        name: "EXIT POLL LIVE: पश्चिम बंगाल में किसकी बनेगी सरकार? |  BJP I TMC | Mamata I Kiski banegi Sarkar"
+        videoId: "MoX4az7X9rQ"
+        name: "Today's Breaking News LIVE: 30 April News |Aaj Ki Taaza Khabar | Iran America War | Trump |Netanyahu"
         artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DidEueUQCxw"
-        name: "Exit Poll LIVE: सुबह-सुबह पलटा एग्जिट पोल! | West Bengal Elections | Mamata Banerjee | TMC vs BJP"
+        videoId: "XsPneyCPOjY"
+        name: "Bengal Elections Exit Poll LIVE: रिजल्ट से पहले BJP में जश्न हो गया शुरू...? | BJP | TMC | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H0qwhum4Kss"
-        name: "ईरान-अमेरिका जंग, 30 अप्रैल 2026 LIVE | Iran US Ceasefire News | Trump Vs Mojtaba Khamenei"
+        videoId: "DrqQNoXJ4dk"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.04.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WxENf7o0CDQ"
+        name: "TMC Exit Poll Clash In Bengal LIVE: एग्जिट पोल देख भड़के टीएमसी कार्यकर्ता | Second Phase Voting"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ajl5u68CViI"
-        name: "EXIT POLL LIVE : बंगाल में बीजेपी की बंपर जीत! I BJP I TMC | Bengal Election I Kiski banegi Sarkar"
-        artist: "TV9 Bharatvarsh"
+        videoId: "v9XS53PkSXY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KQ9ArC9TywA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Govt Notice BD"
+        videoId: "BCX-OinWZQw"
+        name: "South 24 Parganas Violence Update LIVE: 40 कार्यकर्ताओं ने जला दिया बंगाल...? | TMC |Mamata Banerjee"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KzqoFc2ZK5Y"
-        name: "ABC World News Tonight with David Muir Full Broadcast - April 29, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RkfLTVD38Cs"
-        name: "BREAKING NEWS LIVE: Trump Signals Lockdown? Emergency Warning Sparks Concern | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qbyi4jCxxQM"
-        name: "US-Iran War LIVE: Trump's SHOCKING New Plan For Hormuz, World On High Alert | WION Live"
-        artist: "WION"
+        videoId: "l9e1Lj5zV9M"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-30T08:11:00.412Z"
+  exported_at: "2026-04-30T13:28:50.950Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-30T08:11:00.375Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-04-30T13:28:50.917Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
