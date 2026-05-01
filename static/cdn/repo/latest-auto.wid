@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260430T191140.147Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260501T023256.378Z-l4t35t"
   type: "state"
-  created: "2026-04-30T19:11:40.147Z"
+  created: "2026-05-01T02:32:56.378Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260430T191140.147Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260501T023256.378Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "S2ZZyJcs9Nc"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (30.04.2026) | 11 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
+        videoId: "tAqjIVp3IpI"
+        name: "Bengal Exit Poll LIVE: सुबह-सुबह पलटा एग्जिट पोल! | West Bengal Elections | Mamata Banerjee | TMC"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aapHbrP9fnk"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "9cqQ_nmcp8I"
+        name: "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News"
+        artist: "Mint"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-iXW7atVk38"
-        name: "LIVE: SpaceX Launches New Starlink Satellites in Stunning Night Mission | N18G"
-        artist: "Firstpost"
+        videoId: "4NlaMJnODZ8"
+        name: "Mamata Banerjee LIVE: स्ट्रॉन्ग रूम के अंदर घुसीं ममता बनर्जी? | Bengal Election | TMC Protest | EVM"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WPHR9GGbLXE"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.04.2026) | Sathiyam Headlines"
+        videoId: "-AEjbfdr-Kk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 April 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Barta Time"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "S1voW4PnMkQ"
+        name: "Sandeep Chaudhary LIVE: आरक्षण पर घमासान...महिलाओं का होगा कल्याण! | Women Reservation | UP Politics"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "93CoAJYLyn0"
+        name: "Janhit with Chitra Tripathi LIVE: 4 मई से पहले ही बंगाल में 'खेला'! | Bengal Elections | BJP Vs TMC"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qxD9YgkSoio"
+        name: "Breaking News LIVE: कोलकाता में हाईवोल्टेज ड्रामा, स्ट्रॉन्ग रूम के बाहर TMC का धरना | EVM | Bengal"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CG2SsBN_Hok"
+        name: "Mamata Banerjee LIVE: स्ट्रॉन्ग रूम के अंदर घुसीं ममता बनर्जी? | Bengal Election | TMC Protest | EVM"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nz96ysH7gdY"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 1 May"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jVxAndhFoBQ"
+        name: "Today's Headlines | 01 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gaDLfzQYiTU"
-        name: "New Missiles Deployed, Iran US War Update | Pak vs Ind | Live With Jami | EP 281 | 30 April 2026"
-        artist: "SUNO NEWS HD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S6rI9Ry3-JU"
-        name: "Good News For Pak | Iran US War Update | Petrol Latest Prices | Harmuz Blockade | 9PM Headlines"
-        artist: "Dunya News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vytp6ZBvO-g"
-        name: "Bengal Exit Poll Update LIVE: ममता ने BJP को दी EXIT POLL में पटखनी? | Exit Poll Results | TMC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qxs4PR7tabQ"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suahil LIVE : एग्जिट पोल में मोदी की जीत | Exit Poll | Bengal"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xWzGLjHVCPI"
-        name: "West Bengal Exit Poll 2026 LIVE: बंगाल के Exit Poll में बड़ा उलटफेर! | BJP Vs TMC | Mamata Banerjee"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lUbinz-FQrA"
-        name: "Donald Trump LIVE: Trump Delivers Urgent War Message as Iran Strikes Back | US-Iran War Live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LeMQf3922Ts"
-        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K1iI6QU7f5E"
-        name: "🔴 Dawn News Live | News Headlines | Breaking News | News Stories | Pakistan News | 𝐋𝐢𝐯𝐞 𝐍𝐞𝐰𝐬"
-        artist: "DawnNews"
+        videoId: "XWvcjqoiWJQ"
+        name: "Trump Latest News LIVE | Trump Signs Executive Orders in Oval Office | Iran War | Hormuz | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-04-30T19:11:40.147Z"
+  exported_at: "2026-05-01T02:32:56.378Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-04-30T19:11:40.118Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-01T02:32:56.350Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
