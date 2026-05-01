@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-01T08:05:46.489Z",
+    "generatedAt": "2026-05-01T13:06:56.190Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8j5bFwg7hVE",
-            "name": "Bengal Election Result Update LIVE: 4 मई को बंगाल से BJP हो जाएगी साफ? | TMC | Mamata Banerjee",
+            "videoId": "jdbALbr5tnI",
+            "name": "Pakistan News LIVE : पाकिस्तान में ठोका गया भारत का एक और दुश्मन ! Asim Munir | Hafiz Saeed | NDTV",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GpMq4CTySs4",
+            "name": "West Bengal Voting Update LIVE: EVM में कुछ हुई गड़बड़ तो बंगाल में फिर होगी वोटिंग? | Mamata | TMC",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "RDkB24QIfYc",
-            "name": "Mamata Banerjee In Strong Room LIVE: बंगाल में वोट चोरी? | Bengal Election | TMC Protest | EVM",
+            "videoId": "UODHXLepyzU",
+            "name": "Chitra Tripathi LIVE: बाबूमोशाय..बंगाल में खेला होबे? | Bengal Elections 2026 | BJP Vs TMC",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "mmnbNXec0MY",
-            "name": "Iran Israel Us War Update Live : 01 May 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "bxD438JFtqQ",
+            "name": "আজকের আন্তর্জাতিক খবর | World News Today | ১ মে ২০২৬ | Latest News Bangla | Channel 24",
+            "artist": "Channel 24 Bulletin"
         },
         {
             "mood": "storm",
-            "videoId": "Qj5lrie6xWM",
-            "name": "Pawan Khera Case LIVE: पवन खेड़ा को मिली जमानत | Guhawati | Himanta Biswa Sarma",
+            "videoId": "4HWj7Vpsgls",
+            "name": "Mamata Banerjee Visit Bhabanipur Strong Room LIVE: ममता ने पकड़ा EVM घोटाला? | EVM | Bengal News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "mJU4FaoLsDw",
-            "name": "TMC Protest In Bengal LIVE: TMC ने बंगाल में किया चक्काजाम? | Mamata Banerjee | Strong Room | EVM",
+            "videoId": "AddOstmEYTs",
+            "name": "Trump’s Big Claim Shocks Political World | Latest Update | Geo News 3PM Headlines 1st May 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rn2UyNFCvLk",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.05.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8jkVhhtFhPQ",
+            "name": "Bengal Election Result Update LIVE: घबराई ममता दौड़ी-दौड़ी EVM चेक करने पहुंची! | ECI | TMC | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "nR6G1Ly65fs",
-            "name": "Today Headlines | 01 MAY 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t9L42h_WEzM",
-            "name": "🔴 LIVE || US President Trump Talk | ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ewPQ8TIhJxk",
-            "name": "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News",
-            "artist": "Mint"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Rs3axHNkY3g",
-            "name": "Iran War LIVE Updates | Netanyahu To Order Massive Strikes Against | Trump | Hormuz Blockade | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RbLtynCkjIo",
-            "name": "100 News Today LIVE: आपके शहर की बड़ी खबरें | Headlines Today | Superfast News | Hindi News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ofhx-Tq-aLg",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ০১ মে ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
-            "artist": "SOMOY TV Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mBtpRwYQRco",
-            "name": "LIVE: Trump Hosts Grand Farewell For King Charles III & Queen Camilla After Historic US Visit",
-            "artist": "Firstpost"
+            "videoId": "Y2XSkm4rgh0",
+            "name": "Marathi Breaking Live | 1 May 2026 | Maharashtra Politics | Marathi News | Vidhan Parishad | Kadu",
+            "artist": "News18 Marathi"
         }
     ],
     "sourceFilters": {
