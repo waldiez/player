@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-01T13:06:56.190Z",
+    "generatedAt": "2026-05-01T19:03:22.054Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jdbALbr5tnI",
-            "name": "Pakistan News LIVE : पाकिस्तान में ठोका गया भारत का एक और दुश्मन ! Asim Munir | Hafiz Saeed | NDTV",
+            "videoId": "TOMwNOI4n5s",
+            "name": "LIVE | Iran Rejects US Hormuz Blockade, Says It Will Fail Soon | US–Iran War | Trump | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M9OcFRmmXBg",
+            "name": "LIVE🔴আন্তর্জাতিক শ্রমিক দিবস ২০২৬ উপলক্ষে নয়াপল্টনে বিএনপি'র শ্রমিক সমাবেশ | BNP Somabesh | PM",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B5MxusRMPbo",
+            "name": "US NEWS LIVE: Trump's WAR BRIEFING Just DROPPED — What He Said Will SHOCK You! | Donald Trump News",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AV9YkrZYB5U",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tY6A0yZmdCk",
+            "name": "🔴 LIVE | Petrol Prices Increased - What Is New Rate? | Breaking News | ARY News",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2T6ew345nRU",
+            "name": "Debate With Arnab LIVE: Did TMC Fake Strongroom Claim Fearing Election Loss In Bengal?",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dHUNSyTVqzM",
+            "name": "IRAN WAR LIVE: 'World Will Die If...': Trump's Deadly Ultimatum On Cam | Trump Latest News | US NEWS",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NZvuJuYLlTk",
+            "name": "Breaking News LIVE: Trump Issues ‘Tonight’ Warning to Iran | World on Edge | Iran News Live",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0Ix_cNR5Cvk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Barta Time"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W7nFD8tZxP4",
+            "name": "West Bengal Election Exit Poll LIVE : अपनी सीट हार जाएंगीं Mamata? BJP | TMC | Election Results",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "GpMq4CTySs4",
-            "name": "West Bengal Voting Update LIVE: EVM में कुछ हुई गड़बड़ तो बंगाल में फिर होगी वोटिंग? | Mamata | TMC",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UODHXLepyzU",
-            "name": "Chitra Tripathi LIVE: बाबूमोशाय..बंगाल में खेला होबे? | Bengal Elections 2026 | BJP Vs TMC",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bxD438JFtqQ",
-            "name": "আজকের আন্তর্জাতিক খবর | World News Today | ১ মে ২০২৬ | Latest News Bangla | Channel 24",
-            "artist": "Channel 24 Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4HWj7Vpsgls",
-            "name": "Mamata Banerjee Visit Bhabanipur Strong Room LIVE: ममता ने पकड़ा EVM घोटाला? | EVM | Bengal News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AddOstmEYTs",
-            "name": "Trump’s Big Claim Shocks Political World | Latest Update | Geo News 3PM Headlines 1st May 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rn2UyNFCvLk",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.05.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8jkVhhtFhPQ",
-            "name": "Bengal Election Result Update LIVE: घबराई ममता दौड़ी-दौड़ी EVM चेक करने पहुंची! | ECI | TMC | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y2XSkm4rgh0",
-            "name": "Marathi Breaking Live | 1 May 2026 | Maharashtra Politics | Marathi News | Vidhan Parishad | Kadu",
-            "artist": "News18 Marathi"
+            "videoId": "7hN_W0vJ2P0",
+            "name": "Debate With Arnab LIVE: Was Bhagwant Mann Drunk In Punjab Assembly Today?",
+            "artist": "Republic World"
         }
     ],
     "sourceFilters": {
