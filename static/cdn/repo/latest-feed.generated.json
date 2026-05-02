@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-02T07:24:23.904Z",
+    "generatedAt": "2026-05-02T12:57:05.298Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "pkcTGtX-s3o",
-            "name": "Iran Israel US War LIVE Updates: Strait of Hormuz पर भीषण जंग! | Trump | Mojtaba Khamenei | 2 May",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0A9pwP6qTm4",
-            "name": "Today Headlines | 02 MAY 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ERWbKaSwJv0",
-            "name": "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oWcGgRBdxkc",
-            "name": "Breaking News LIVE: Trump Issues ‘Tonight’ Warning to Iran | World on Edge | Iran News Live",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uz-CSHRLm3M",
-            "name": "LIVE: China Warns US on Taiwan Ahead of Much Anticipated Trump-Xi Summit | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uzKli0MpIzM",
-            "name": "Today's Breaking News LIVE: 2 MAY News | Aaj Ki Taaza Khabar | Iran America War | Trump | Netanyahu",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7QXArJ-7ha8",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 02.05.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jrwnrrufJVM",
-            "name": "West Bengal Repolling LIVE: बंगाल में फिर से वोटिंग शुरू | South 24 Parganas | TMC | BJP | Mamata",
+            "videoId": "zm6RBuTIZ4c",
+            "name": "West Bengal Repoll 2026 LIVE: वोटिंग होते ही...पलट गई पूरी बाजी! |TMC Vs BJP | Mamata Vs Suvendu",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "OlIeVPGM3zU",
-            "name": "LIVE: ABC News Live - Friday, May 1 | ABC News",
-            "artist": "ABC News"
+            "videoId": "8EBYSVxXewc",
+            "name": "Out Of Focus Live | 02 May 2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RKDTMD_vlkk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_ISwu4ycseM",
+            "name": "US Attack on Iran Update LIVE: ईरान में US मचाने वाला है बड़ी तबाही? | Mojtaba Khamenei | Trump",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FWWDzl9GMto",
+            "name": "Re Polling In Bengal LIVE: बंगाल में 2 बजे की वोटिंग ने उड़ाए होश!| Mamata Banerjee | PM Modi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_A4YGa8SkZ4",
+            "name": "Petrol-Diesel Price Hike News LIVE: सुबह-सुबह पेट्रोल डीजल के नए दामों ने सबकों चौंकाया! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Z_x7gSvei58",
+            "name": "TMC Supreme Court Hearing LIVE Update: सुप्रीम कोर्ट से TMC को बड़ा झटका | Bengal Election | EVM",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FRXB7AcU--U",
+            "name": "LIVE: Iran Vows Strong Retaliation if Trump Restarts War | US Iran War | N18G",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TO47mAbZl0g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
