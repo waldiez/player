@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-02T02:09:15.458Z",
+    "generatedAt": "2026-05-02T07:24:23.904Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Iro4XgVoE9s",
-            "name": "West Bengal Election Exit Poll LIVE : अपनी सीट हार जाएंगीं Mamata? BJP | TMC | Election Results",
+            "videoId": "pkcTGtX-s3o",
+            "name": "Iran Israel US War LIVE Updates: Strait of Hormuz पर भीषण जंग! | Trump | Mojtaba Khamenei | 2 May",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "p1v0IJ2SaZk",
-            "name": "Iran Israel Us War Update Live : 02 May 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BpS0mAj9c2I",
-            "name": "West Bengal Exit Poll 2026 News LIVE: बंगाल में इस्तीफे शुरू? | Mamata Banerjee | TMC Vs BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z1B5qTMZwbo",
-            "name": "Breaking News on Bengal Election LIVE: बंगाल में दोबारा होंगे चुनाव? | EVM | EC | Mamata | TMC | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ugfHanpHlO0",
-            "name": "Sandeep Chaudhary LIVE: फूटा 'महंगाई बम'...आम आदमी का निकलेगा दम? | Petrol-Diese Price Hike",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O8wEGlpcdAQ",
-            "name": "Today's Headlines | 02 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "0A9pwP6qTm4",
+            "name": "Today Headlines | 02 MAY 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "WJNP3EyZqHo",
-            "name": "LIVE | Iran Sends New Proposal via Pakistan Mediators To Open Strait Of Hormuz | Will Trump Agree?",
-            "artist": "CNN-News18"
+            "videoId": "ERWbKaSwJv0",
+            "name": "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "GSn2ysfX6HA",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (01.05.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "oWcGgRBdxkc",
+            "name": "Breaking News LIVE: Trump Issues ‘Tonight’ Warning to Iran | World on Edge | Iran News Live",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "7NHSxKvjj5Q",
-            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_8ZWwHmLamI",
-            "name": "US Says Iran War Terminated; Tehran Mocks Trump’s Blockade | Vantage on Firstpost | 4K",
+            "videoId": "uz-CSHRLm3M",
+            "name": "LIVE: China Warns US on Taiwan Ahead of Much Anticipated Trump-Xi Summit | Vantage on Firstpost",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uzKli0MpIzM",
+            "name": "Today's Breaking News LIVE: 2 MAY News | Aaj Ki Taaza Khabar | Iran America War | Trump | Netanyahu",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7QXArJ-7ha8",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 02.05.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jrwnrrufJVM",
+            "name": "West Bengal Repolling LIVE: बंगाल में फिर से वोटिंग शुरू | South 24 Parganas | TMC | BJP | Mamata",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OlIeVPGM3zU",
+            "name": "LIVE: ABC News Live - Friday, May 1 | ABC News",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
