@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-03T12:56:47.568Z",
+    "generatedAt": "2026-05-03T18:51:07.304Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kkuYHm57Ero",
-            "name": "West Bengal Election Cancel?,News LIVE: रिजल्ट आने से पहले बंगाल में चुनाव कैंसिल?, बीजेपी को झटका",
+            "videoId": "qqw6jizozA4",
+            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
+            "artist": "Kanak News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yAT7Gi4NBvw",
+            "name": "Seedha Sawal With Sandeep Chaudhary LIVE: बंगाल में चुनाव...यूपी में तनाव! | Bengal Elections Result",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "r38xphGtpeM",
-            "name": "US NEWS Live: Trump nuclear alert triggers worldwide concern full live coverage happening now",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TpWX2pWxodE",
-            "name": "Trump Speech Live | Iran offers peace deal, Trump responds with new war warning | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OCwzKt9LZRI",
-            "name": "US-Iran War LIVE: Trump Warns Iran of Possible Action If They “Misbehave” Again | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TaXcFY980ZA",
-            "name": "West Bengal Exit Poll 2026 Live : बंगाल में बड़ा उलटफेर ! Mamata Banarjee | BJP | PM Modi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I7u6t9pJ6No",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.05.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ghe68Lx8uvU",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "videoId": "7Qp9a01rZl0",
+            "name": "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "b5P64Y3CilI",
-            "name": "🔴LIVE: Today Headlines - 03 MAY 2026 | 01 மணி தலைப்புச் செய்திகள் | 01 PM Headlines | NewsTamil24x7",
-            "artist": "NewsTamil 24X7"
+            "videoId": "WLEjsDem-Dw",
+            "name": "Aaj Ki Taaza Khabar LIVE: 03 May News | Bengal Election | Mamata | Modi | Jabalpur | Bageshwar Baba",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "ZlB8Mq9jw5Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03  May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CBC বাংলা খবর "
+            "videoId": "YmVCNZnRQHU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "j9uffjmvSkw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "7jfaurW7ksY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "DvtvtSc9dxA",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 3 May",
-            "artist": "NDTV India"
+            "videoId": "653zjHkz0Fs",
+            "name": "🔴LIVE: Today Headlines | இரவு 8 மணி தலைப்புச் செய்திகள் (03.05.2026) | 8 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LCDdmcs_pk4",
+            "name": "WORLD NEWS LIVE | Lavrov’s shock return triggers nuclear fears, Trump reacts as Pentagon stunned",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X2PAwt54qTg",
+            "name": "Iran War News | Trump Iran News | Middle East Tensions Rise LIVE | Trump Plan & Israel Attack",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gbWX9thwGPQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Doyel Tv 2.0"
         }
     ],
     "sourceFilters": {
