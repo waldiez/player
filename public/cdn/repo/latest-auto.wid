@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260503T022420.933Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260503T075357.416Z-l4t35t"
   type: "state"
-  created: "2026-05-03T02:24:20.933Z"
+  created: "2026-05-03T07:53:57.416Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260503T022420.933Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260503T075357.416Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lSv-p9EXygQ"
-        name: "Iran-America War Begins? LIVE: ट्रंप ने ठुकराई ईरान की शर्त...जंग हो गई शुरू | War Breaking"
+        videoId: "5e1vzvjLj8s"
+        name: "Mamata Banerjee LIVE: वोटिंग खत्म ममता आ गईं! LIVE | Re Polling Election | Bengal | ECI | TMC | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dd3ely3s8ik"
-        name: "Sandeep Chaudhary LIVE: EXIT POLL पर हल्लाबोल...बंगाल में किसका डिब्बागोल? | Bengal Elections 2026"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mSuxWb3YIaA"
-        name: "Today's Breaking News LIVE: 3 MAY News | Aaj Ki Taaza Khabar | Iran America War | Trump | Hormuz"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jjs0pWr4cxU"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lNP9Edhe0R0"
-        name: "ABC World News Tonight with David Muir Full Broadcast - May 2, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mWF75-LpEy0"
-        name: "Today's Headlines | 03 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6D75w1JpxcA"
+        videoId: "lAsPOlVjdk4"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "News 71"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wAB6keKqQ5I"
-        name: "LIVE: ABC News Live - Saturday, May 2 | ABC News"
-        artist: "ABC News"
+        videoId: "iT_jamEThNY"
+        name: "Seedha Sawal With Sandeep Chaudhary LIVE: EXIT POLL में कितना झोल! | Bengal Elections Result 2026"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AvN5ZA8xlzg"
-        name: "🔴 LIVE NOW: BREAKING WORLD NEWS | May 2, 2026 Headlines & Global Updates 🌍"
-        artist: "Learn Country Flags"
+        videoId: "dDkjY0dixmU"
+        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | US Iran war"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QdPSPzw6MmM"
-        name: "🔴LIVE: TVK Vijay | ''ஆட்சியை முடிவு செய்யும் தவெக..?'' - சர்வே முடிவுகள் சொல்லும் ரகசியம்!"
-        artist: "Sathiyam News"
+        videoId: "78yV3VTs3Mw"
+        name: "West Bengal Repolling Big Breaking LIVE: जहांगीर पर बड़ा एक्शन? | CRPF | BJP Vs TMC | Falta | Mamata"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dv1KaNRIJKw"
+        name: "US NEWS Live: Trump DROPS 24-HOUR BOMBSHELL — Urgent Announcement Leaves America SPEECHLESS |"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IECBM6cQ3XE"
+        name: "US NEWS LIVE: Trump DROPS EMERGENCY BOMBSHELL — 'World's Most Powerful Reset' Has America SPEECHLESS"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SX4dlYSkLM0"
+        name: "LIVE: Donald Trump Fast-Tracks $8B Arms Sales Amid Escalating Tensions With Iran | US-Iran War |N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_qykxHaD8NQ"
+        name: "Aage Ka Agenda LIVE: अग्निकांड में खत्म हुई 9 जिंदगियां | Delhi Fire Accident in Vivek Vihar"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_lkL4udP3S0"
+        name: "🔴LIVE: BBC World News Bangla | 03 Apr'2026 | আজকের টপ আন্তর্জাতিক সংবাদ | | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Atj News TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tjhJrR1CETM"
+        name: "Bengal Re Polling Exit Poll Update LIVE: बंगाल के नए वोटिंग EXIT POLL ने ला दिया बड़ा भूचाल! | TMC"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-03T02:24:20.933Z"
+  exported_at: "2026-05-03T07:53:57.416Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-03T02:24:20.899Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-03T07:53:57.384Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
