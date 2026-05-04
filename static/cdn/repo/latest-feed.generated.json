@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-03T18:51:07.304Z",
+    "generatedAt": "2026-05-04T02:14:28.556Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qqw6jizozA4",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
+            "videoId": "ycarVS04BH8",
+            "name": "Pune Bhor Crime News LIVE | आरोपी Bhimrao Kamble थेट न्यायालयात खोटं बोलला! कोर्टात काय घडलं? | N18L",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "yAT7Gi4NBvw",
-            "name": "Seedha Sawal With Sandeep Chaudhary LIVE: बंगाल में चुनाव...यूपी में तनाव! | Bengal Elections Result",
+            "videoId": "3AG4wcPMM5U",
+            "name": "Bengal Vote Counting LIVE: मतगणना केंद्र से सीधे नतीजे...| Mamata Banerjee | PM Modi | BJP | TMC",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "7Qp9a01rZl0",
-            "name": "Breaking News LIVE: Iran Fires Hypersonic Missiles, US Forces On Maximum Alert  | World News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WLEjsDem-Dw",
-            "name": "Aaj Ki Taaza Khabar LIVE: 03 May News | Bengal Election | Mamata | Modi | Jabalpur | Bageshwar Baba",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YmVCNZnRQHU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7jfaurW7ksY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "653zjHkz0Fs",
-            "name": "🔴LIVE: Today Headlines | இரவு 8 மணி தலைப்புச் செய்திகள் (03.05.2026) | 8 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LCDdmcs_pk4",
-            "name": "WORLD NEWS LIVE | Lavrov’s shock return triggers nuclear fears, Trump reacts as Pentagon stunned",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "X2PAwt54qTg",
-            "name": "Iran War News | Trump Iran News | Middle East Tensions Rise LIVE | Trump Plan & Israel Attack",
+            "videoId": "kBXS4wb1-as",
+            "name": "Tamil Nadu Exit Poll News LIVE: Thalapathy Vijay Fans Predict Massive TVK Victory in TN Polls",
             "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "gbWX9thwGPQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Doyel Tv 2.0"
+            "videoId": "JGQnBKU9DV4",
+            "name": "BREAKING News LIVE: Kash Patel Reveals New Details On Trump Attack | 'Big Names' Exposed By Kash",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8qAJ5rm8Nf8",
+            "name": "West Bengal Assembly Election Result 2026 Live: भवानीपुर में गिनती से पहले सेंटर पर हंगामा | Mamata",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ghe68Lx8uvU",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5fzRuETAdm4",
+            "name": "West Bengal Election Result LIVE: ममता 234 सीट, बीजेपी-25 सीट!, नए आंकड़ों ने उड़ाए होश!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EdV1QZK93Go",
+            "name": "US Attack on Iran Update LIVE: ट्रंप की ईरान से LIVE माफी! | Mojtaba Khamenei | Trump | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GUNmYHqRTbc",
+            "name": "Assembly Elections Updates LIVE: सभी राज्यों के नतीजों पर बड़ी खबर | West Bengal Results |TMC Vs BJP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8kZ6B1jItic",
+            "name": "Today's Headlines | 04 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "78yV3VTs3Mw",
+            "name": "West Bengal Repolling Big Breaking LIVE: जहांगीर पर बड़ा एक्शन? | CRPF | BJP Vs TMC | Falta | Mamata",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
