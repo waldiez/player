@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260504T082305.509Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260504T133006.110Z-l4t35t"
   type: "state"
-  created: "2026-05-04T08:23:05.509Z"
+  created: "2026-05-04T13:30:06.110Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260504T082305.509Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260504T133006.110Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1vKGiXeHIG4"
-        name: "Election Results 2026 for West Bengal Assembly LIVE: BJP ने जीता किला | BJP | Mamata Banerjee"
+        videoId: "SYzOE9YoCDs"
+        name: "Kerala Election Results 2026 News LIVE: केरलम में कांग्रेस की जीत, खुशी से झूम उठे राहुल! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "f6trYhiu01w"
-        name: "Assembly Election Results 2026 LIVE Updates: Bengal Election Results | Assam | Tamil Nadu |TMC | BJP"
-        artist: "TV9 Bharatvarsh"
+        videoId: "UGyfyVYzE5o"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1UAEfgUMMRg"
-        name: "BJP-TMC Clash In Bankura LIVE: बांकुरा में भयंकर झड़प | West Bengal Result | Mamata Banerjee | BJP"
+        videoId: "b9NNj4SQqsM"
+        name: "Assembly Election Results Live: 5 States Early Trends Live | Vote Couting | Election Results 2026"
+        artist: "India Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KI8XVVk935E"
+        name: "West Bengal Assembly Election Results 2026 LIVE: मोदी की झालमुड़ी का बंगाल में कमाल | Mamata | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l__4IerIDI8"
-        name: "West Bengal Election Results 2026 LIVE: पहले रुझान में जानिए TMC-BJP में कौन आगे ? | TMC Vs BJP"
+        videoId: "UBpjaylks9w"
+        name: "LIVE | TVK Chief Vijay's Last Speech of TVK Campaign | Vijay Thalapathy For The CM"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SAOxt1JjqOs"
+        name: "PM Modi Speech In Bjp Headquarters LIVE : बीजेपी मुख्यालय से पीएम मोदी लाइव | Mamata | BJP |  TMC"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tHL0ZMWk6mg"
-        name: "West Bengal Election Result Vote Counting LIVE: BJP ने किया कमाल? | BJP | TMC | Mamata"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k7cedZLogxk"
-        name: "Bengal Election Results 2026 LIVE Updates: बंगाल में बीजेपी को बंपर बढ़त, TMC-कांग्रेस का बुरा हाल!"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MSqJ3Huf-8Y"
-        name: "Bengal Election Results 2026 LIVE Updates: बंगाल के रुझानों में बीजेपी 150 पार  | Mamata | TMC | BJP"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1BqLy2KITQY"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 04.05.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lMOD12kuJe0"
-        name: "West Bengal Election Results 2026 LIVE: नतीजों के बीच ममता गायब! | Mamata Banerjee | BJP vs TMC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vTLdv74tl30"
-        name: "🔴LIVE: TN Election Results Live | Tamil Nadu Assembly Election 2026 | Vote Counting Live"
+        videoId: "mVEPPt4imbo"
+        name: "🔴Tamil Nadu Election Results LIVE : TVK Vijay | விஜய் முன்னிலை"
         artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zv6YdGx0eBg"
+        name: "US-Iran War LIVE: Iran's killer brigade ready to attack with 1,000 new weapons? | Donald Trump |N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k8lrLpxR9pA"
+        name: "BJP Victory in West Bengal Election Results LIVE: बंगाल में BJP की जीत? | Mamata Banerjee | TMC"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OkKemCImBRc"
+        name: "LIVE: West Bengal Election Result Latest Updates | Mamata Banerjee | PM Modi |  Zee News"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6PJPMqHdvxI"
+        name: "West Bengal Assembly Election Results 2026 LIVE: बदल गया बंगाल का CM! | Mamata | BJP | Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k9pOc6mr8TQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-04T08:23:05.509Z"
+  exported_at: "2026-05-04T13:30:06.110Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-04T08:23:05.477Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-04T13:30:06.075Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
