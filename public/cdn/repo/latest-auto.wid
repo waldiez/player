@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260505T080058.351Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260505T191031.614Z-l4t35t"
   type: "state"
-  created: "2026-05-05T08:00:58.351Z"
+  created: "2026-05-05T19:10:31.614Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260505T080058.351Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260505T191031.614Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mMS6_ncHpmA"
-        name: "West Bengal New CM LIVE: नए CM का नाम सुनते ही विपक्ष में मच गई खलबली! | Congress | TMC"
+        videoId: "QeGXYklgo-0"
+        name: "Bengal New CM News LIVE: शपथ पहले शाह का लेटर वायरल!, बंगाल का नए CM लॉक! | Mamata Banerjee | TMC"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-gMdo3OxS_A"
-        name: "West Bengal Assembly Election Results 2026 LIVE: टीएमसी से होने लगे धड़ाधड़ इस्तीफे? | Mamata"
+        videoId: "rRWd3A9KhLo"
+        name: "President Rule in Bengal?, News LIVE: बंगाल में बीजेपी आते ही बॉर्डर पर हलचल तेज,सेना ने तानी बदूंक!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W_zTKsuD2vc"
-        name: "New Bengal Government Oath Ceremony on May 9 LIVE: ‘9 मई को बंगाल में नई सरकार का शपथ ग्रहण’"
+        videoId: "pXN3olRdhNc"
+        name: "Manorama  News Live | Malayalam News Live | Kerala CM | Congress | VD Satheesan | Ramesh Chennithala"
+        artist: "Manorama News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VNftIz-90D8"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jFfObflII-o"
+        name: "Sandeep Chaudhary LIVE: BJP का बंगाल...ममता करे बवाल! | Mamata Banerjee | PM Modi | Election 2026"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PniLb-982nA"
-        name: "LIVE: UAE Intercepts Iranian Drones as Tehran Proposes New Peace Plan | West Asia Crisis | Vantage"
-        artist: "Firstpost"
+        videoId: "z6bkqkmo8bo"
+        name: "🔴LIVE: TN Election Results Live | தவெக-வில் சகாயம் IAS - விஜயின் புதிய அஸ்திரம்!"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RZ1SJWvqhyk"
-        name: "Bengal Election Results 2026 Live Updates: बंगाल सीएम का नया नाम फाइनल? | TMC | BJP"
-        artist: "TV9 Bharatvarsh"
+        videoId: "sbgqHFVjws8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pfmQEubLBLE"
-        name: "Live: “Iran Attacks UAE – Signs of a New Middle East War?” - Geo News"
-        artist: "Geo News"
+        videoId: "obxoFkVL8CY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.05.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ROdUvRNASk0"
-        name: "West Bengal Election Result 2026 Live : हार के बाद Mamata Banerjee ने खो दिया आपा! ! | TMC | BJP"
+        videoId: "hqZPE7lYhXw"
+        name: "🔴LIVE: TN Election Results | CM Vijay | அதிமுகவில் தவெக-வின் ஆபரேஷன் start"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "M5C1C_SbRcs"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AjBJO6MmvrQ"
+        name: "Janhit LIVE: ममता ने बताया \"मैं क्यों हारी\" | BJP Wins West Bengal | PM Modi | TMC | Election 2026"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RFeyrSZRgeo"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 05.05.2026 | Today News | Breaking News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tgM_Ugb6huI"
-        name: "Vijay LIVE | TVK Election Result | Vijay News LIVE | Tamil Nadu Election Results TVK Vijay LIVE"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TvarRgD79lU"
-        name: "West Bengal Assembly Election Result 2026 Live: बंगाल में बुलडोजर एक्शन शुरू? | Mamata Banerjee"
+        videoId: "8mbE0f97tdA"
+        name: "Mamata Banerjee Resigns News LIVE: हार के बाद  ममता बनर्जी का इस्तीफा! | Bengal New CM | TMC | BJP"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Qn1A9KxraMo"
-        name: "West Bengal Election Results LIVE: Mamata's First Message After BJP Defeats TMC | TMC vs BJP"
-        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-05T08:00:58.351Z"
+  exported_at: "2026-05-05T19:10:31.614Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-05T08:00:58.323Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-05T19:10:31.578Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
