@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260504T192102.193Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260505T021220.793Z-l4t35t"
   type: "state"
-  created: "2026-05-04T19:21:02.193Z"
+  created: "2026-05-05T02:12:20.793Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260504T192102.193Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260505T021220.793Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qPsjlLeQrRM"
-        name: "🔴LIVE : Tamilnadu Election Results 2026 | Assembly Election Results | Thanthi TV"
+        videoId: "SAOxt1JjqOs"
+        name: "PM Modi Speech In Bjp Headquarters LIVE : बीजेपी मुख्यालय से पीएम मोदी लाइव | Mamata | BJP |  TMC"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EIPmNv8T5Rs"
+        name: "🔴 LIVE || Trump Announces Project Freedom || US to Guide Stranded Ships || ARY News Live"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bDY42udGq-A"
+        name: "🔴LIVE: TN Election Results Live | Tamil Nadu Assembly Election 2026 | Vote Counting Live"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "F1JnZj6Z2e8"
+        name: "West Bengal Assembly Election Results 2026 LIVE: भवानीपुर से ममता बनर्जी हारीं | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gCu8lbCvLzE"
+        name: "Today's Headlines | 05 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ePI7zLm3-g8"
+        name: "🔴 LIVE Breaking News Bulletin  | Latest Headlines Today | Pakistan & World News Update SANA TV"
+        artist: "Sana TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pwxGtx_YmSs"
+        name: "🔴LIVE: Tamilnadu Election Results | Assembly Election Results |"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4MWbMfYHkDk"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
+        videoId: "puNUTyi-iQo"
+        name: "Election Results 2026 Live: West Bengal, Tamil Nadu, Kerala, Assam, Puducherry Live Updates"
+        artist: "The Indian Express"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "J99DzKRH7Gc"
-        name: "US NEWS LIVE: World On Edge As Trump Rejects Iran Deal, War Threats Loom | World News"
-        artist: "ET Now World"
+        videoId: "O2-qL6GH_v0"
+        name: "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IbROFJQaFgg"
-        name: "West Bengal Results LIVE:  ममता को झटका!, धड़ाधड़ इस्तीफे शुरू! LIVE| Mamata | BJP | TMC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "h20Oc-vuBDc"
-        name: "West Bengal Assembly Election Results 2026 LIVE: बीजेपी दफ्तर से सीधे LIVE | Mamata | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7PmevCMVbm8"
-        name: "WORLD NEWS LIVE | Lavrov’s shock return triggers nuclear fears, Trump reacts as Pentagon stunned"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pjua4pPKD6M"
-        name: "West Bengal Assembly Election Results 2026 LIVE: जीत गए शुभेंदु, हार गईं ममता | Big Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cYNxCRwE-Pw"
-        name: "🔴Tamil Nadu Election Results LIVE : தமிழக தேர்தல் முடிவுகள் - தொடர் நேரலை"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9ck0rQ-tv2c"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (04.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5NEdF7WqkKI"
-        name: "West Bengal Assembly Election Results 2026 LIVE: शुभेंदु अधिकारी ने ममता बनर्जी को बुरी तरह हराया!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SzjH8zofCNw"
-        name: "Bengal Election Results 2026 Live Updates: बंगाल चुनाव के सबसे तेज और सटीक नतीजे | TMC | BJP"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1Ykq1bdTsLY"
-        name: "LIVE : West Bengal Exit Poll 2026 News LIVE: | Mamata Banerjee | TMC Vs BJP Who will WIN Bengal?"
-        artist: "NEWS9 Live"
+        videoId: "9SwhlgGmVn4"
+        name: "'BLOWN OFF THE FACE OF THE EARTH': Trump makes new threat to Iran"
+        artist: "Fox News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-04T19:21:02.193Z"
+  exported_at: "2026-05-05T02:12:20.793Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-04T19:21:02.160Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-05T02:12:20.765Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
