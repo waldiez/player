@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-06T02:13:27.237Z",
+    "generatedAt": "2026-05-06T08:14:40.673Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "wNqU_H_PBv0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.05.2026) | Sathiyam Headlines",
+            "videoId": "-Yf06ALiCDs",
+            "name": "Jalandhar Blast Breaking: Punjab में धमाकों को लेकर CM Bhagwant Mann का बड़ा बयान| BSF Headquarters",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xLQ58HGnqwE",
+            "name": "BJP Worker Murder News LIVE: बंगाल में बीजेपी कार्यकर्ता की सरेआम हत्या, एक्शन में CRPF! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "clgfKsiINRI",
+            "name": "Bengal Violence: TMC का बंगाल हिंसा के बीच बदला झंड़ा! | Mamata | TMC Vs BJP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OxXYVUGyBV8",
+            "name": "BJP Worker Murder News LIVE: बंगाल में बीजेपी कार्यकर्ता की सरेआम हत्या, एक्शन में CRPF! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Oid6c2EQKuc",
+            "name": "Bulldozer Action in Bengal News LIVE: बंगाल में बुलडोजरएक्शन!, TMC दफ्तर को गिराया! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NkRAvDUnNL4",
+            "name": "🔴LIVE: Tvk Vijay | Congress | IUML | MDMK |   ''தவெகவுக்கு ஆதரவு இல்லை''",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "4THIuoW56nU",
-            "name": "West Bengal Assembly Election Results 2026 LIVE: TMC में हो गई बगावत?| Mamata Banerjee | Resign",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kz73xddwUNM",
-            "name": "Sandeep Chaudhary LIVE: ममता की विदाई...विपक्ष को एकता याद आई? | Mamata Banerjee| PM Modi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZFSJFN5Iev8",
-            "name": "Manoj Tiwari Resign News LIVE: अचानक मनोज तिवारी ने छोड़ दी पार्टी, मचा हड़कंप! | Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yZwKPK5TYc0",
-            "name": "West Bengal Election Results LIVE: जहांगीर को उठा लाई फोर्स? | Mamata Banerjee | TMC | BJP | PM Modi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XCliEdpr0t0",
-            "name": "Mamata Banerjee Resignation News LIVE : इस्तीफे को लेकर ममता बनर्जी का बड़ा ऐलान! TMC Vs BJP | Modi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_-Bhc5L7vF4",
-            "name": "Today's Headlines | 06 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "1JOP2go7o1g",
+            "name": "Today Headlines | 06 MAY 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "IcNMe-ufTsY",
-            "name": "President Rule in Bengal?, News LIVE: लो बंगाल में राष्ट्रपति शासन? | Big Breaking | TMC |  Mamata",
+            "videoId": "AGTkl8kAHmE",
+            "name": "Turkey Unveils 6000km Ballistic Missile | 11AM Headlines Geo News (6 May 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OguToqKRT6U",
+            "name": "Tamilnadu Election Result: AIADMK के 30 विधायक विजय के साथ? | Thalapathy Vijay | TVK | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "VOxehPdqWuQ",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 6 May",
+            "videoId": "0R2JIZVLhyI",
+            "name": "Tamil Nadu Election Results LIVE: 30 विधायकों का बड़ा इस्तीफा? | TVK | AIADMK | Vijay Thalapathy",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MU8lZuZOetE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Time News 24"
+            "videoId": "lgxppC0Hpx4",
+            "name": "Iran US War Latest Updates || ARY News 10 AM Headlines || 6th May 2026",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "Bw_n8AVec2A",
-            "name": "Secretary of State Rubio holds White House press briefing: LIVE",
-            "artist": "ABC News"
+            "videoId": "dcVUxTza8Lw",
+            "name": "Aage Ka Agenda LIVE: BJP का झंडा, TMC के गुंडे | Mamata Banerjee | Bengal Violence | ECI",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
