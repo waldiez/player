@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-06T13:53:20.437Z",
+    "generatedAt": "2026-05-06T19:29:13.674Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_pKxFYjLSPg",
-            "name": "Mamata Banerjee News LIVE: ममता से TMC नेताओं की बगावत!, फाड़ डाली फाइल, तोड़ी टीवी!| Big Breaking",
+            "videoId": "VOxehPdqWuQ",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 6 May",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "QfOtCB_LzMI",
-            "name": "Iran War News Live |  Mystery Fire In Iran, Secret Strike After US Fails In Hormuz? | Trump",
-            "artist": "Hindustan Times"
+            "videoId": "NK_5E39x6JY",
+            "name": "Iran America War LIVE : Iran's final warning to Trump! | Trump | Attack | Israel | Russia | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "NIsJ__ohO78",
-            "name": "Mamata Banerjee Last Day News LIVE: ममता बनर्जी का आज आखिर दिन, बदल गई सरकार! | TMC | BJP | Bengal",
+            "videoId": "oc-OHYWtTs0",
+            "name": "Suvendu Adhikari's PA Murder News LIVE: शुभेंदु के PA की हत्या पर मोदी का एक्शन! | Breaking | TMC",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "V31edneVX1M",
-            "name": "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (06.05.2026)| 4 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dRuQVXqe2IM",
-            "name": "Mamata Banerjee Resigns News LIVE: पलट गईं ममता! | Big Breaking | West Bengal | BJP | PM Modi",
+            "videoId": "MYKKY09dFSk",
+            "name": "Sandeep Chaudhary LIVE: BJP बम-बम..विपक्ष में थोड़ी खुशी, ज्यादा गम? | West Bengal Clash | Mamata",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "SUulEgfauHw",
-            "name": "Mamata Banerjee News LIVE : ममता पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results | Suvendu",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UfmyxAabcCc",
-            "name": "Mamata Banerjee News LIVE : ममता के इस्तीफे पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cL2Ltq3aYE8",
-            "name": "আজকের আন্তর্জাতিক খবর | World News Today | ০৬ মে ২০২৬ | Latest News Bangla | Channel 24",
-            "artist": "Channel 24 Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iu95aoAxfnE",
-            "name": "Bulldozer Action in Bengal News LIVE: TMC ऑफिस पर चल गया बुलडोजर मचा हड़कंप! | Big Breaking",
+            "videoId": "PspdryFxk-s",
+            "name": "Mamata Banerjee Big Decision News LIVE :इस्तीफे पर ममता के फाइनल फैसले ने उड़ा दी बीजेपी की नींद!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "syCFccV-lcE",
-            "name": "Bengal Clash News LIVE: आग की तरह बंगाल में फैली हिंसा!, दिल्ली से निकली फोर्स!? | Mamata Banerjee",
+            "videoId": "MTA7suSrn_M",
+            "name": "LIVE | Iran Sets New Rules for Ships Transiting in Hormuz After Trump’s Threat | Iran News | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_JxyTOzPZoQ",
+            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XSP5Nv7hR-E",
+            "name": "Mamata Banerjee News LIVE: ममता के 9 विधायक गायब?, TMC की बैठक में नहीं पहुंचे, मचा हड़कंप!",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wNqU_H_PBv0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.05.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M0iGeVtTbbY",
+            "name": "🔴LIVE: | AIADMK | இரண்டாக உடைகிறதா அதிமுக..?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wRb8wjWmzww",
+            "name": "West Bengal Violence LIVE : बंगाल में चुनाव के बाद खूनखराबा I TV9 | Breaking News | BJP Vs TMC",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "J4f96XybCQo",
+            "name": "LIVE with Dr. Shahid Masood | Is the War Over? Iran Israel US War | 06 May 2026 | GNN",
+            "artist": "GNN"
         }
     ],
     "sourceFilters": {
