@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260505T191031.614Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260506T021327.270Z-l4t35t"
   type: "state"
-  created: "2026-05-05T19:10:31.614Z"
+  created: "2026-05-06T02:13:27.270Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260505T191031.614Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260506T021327.270Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QeGXYklgo-0"
-        name: "Bengal New CM News LIVE: शपथ पहले शाह का लेटर वायरल!, बंगाल का नए CM लॉक! | Mamata Banerjee | TMC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rRWd3A9KhLo"
-        name: "President Rule in Bengal?, News LIVE: बंगाल में बीजेपी आते ही बॉर्डर पर हलचल तेज,सेना ने तानी बदूंक!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pXN3olRdhNc"
-        name: "Manorama  News Live | Malayalam News Live | Kerala CM | Congress | VD Satheesan | Ramesh Chennithala"
-        artist: "Manorama News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VNftIz-90D8"
-        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jFfObflII-o"
-        name: "Sandeep Chaudhary LIVE: BJP का बंगाल...ममता करे बवाल! | Mamata Banerjee | PM Modi | Election 2026"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "z6bkqkmo8bo"
-        name: "🔴LIVE: TN Election Results Live | தவெக-வில் சகாயம் IAS - விஜயின் புதிய அஸ்திரம்!"
+        videoId: "wNqU_H_PBv0"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.05.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sbgqHFVjws8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "obxoFkVL8CY"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hqZPE7lYhXw"
-        name: "🔴LIVE: TN Election Results | CM Vijay | அதிமுகவில் தவெக-வின் ஆபரேஷன் start"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M5C1C_SbRcs"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AjBJO6MmvrQ"
-        name: "Janhit LIVE: ममता ने बताया \"मैं क्यों हारी\" | BJP Wins West Bengal | PM Modi | TMC | Election 2026"
+        videoId: "4THIuoW56nU"
+        name: "West Bengal Assembly Election Results 2026 LIVE: TMC में हो गई बगावत?| Mamata Banerjee | Resign"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8mbE0f97tdA"
-        name: "Mamata Banerjee Resigns News LIVE: हार के बाद  ममता बनर्जी का इस्तीफा! | Bengal New CM | TMC | BJP"
+        videoId: "kz73xddwUNM"
+        name: "Sandeep Chaudhary LIVE: ममता की विदाई...विपक्ष को एकता याद आई? | Mamata Banerjee| PM Modi"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZFSJFN5Iev8"
+        name: "Manoj Tiwari Resign News LIVE: अचानक मनोज तिवारी ने छोड़ दी पार्टी, मचा हड़कंप! | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yZwKPK5TYc0"
+        name: "West Bengal Election Results LIVE: जहांगीर को उठा लाई फोर्स? | Mamata Banerjee | TMC | BJP | PM Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XCliEdpr0t0"
+        name: "Mamata Banerjee Resignation News LIVE : इस्तीफे को लेकर ममता बनर्जी का बड़ा ऐलान! TMC Vs BJP | Modi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_-Bhc5L7vF4"
+        name: "Today's Headlines | 06 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IcNMe-ufTsY"
+        name: "President Rule in Bengal?, News LIVE: लो बंगाल में राष्ट्रपति शासन? | Big Breaking | TMC |  Mamata"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VOxehPdqWuQ"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 6 May"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MU8lZuZOetE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Time News 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Bw_n8AVec2A"
+        name: "Secretary of State Rubio holds White House press briefing: LIVE"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-05T19:10:31.614Z"
+  exported_at: "2026-05-06T02:13:27.270Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-05T19:10:31.578Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-06T02:13:27.237Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
