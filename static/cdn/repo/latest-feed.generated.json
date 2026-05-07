@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-07T13:52:05.973Z",
+    "generatedAt": "2026-05-07T19:30:01.392Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GmBHUw5POfY",
-            "name": "Suvendu Adhikari PA Murder News LIVE: मिल गया हत्या का बड़ा सबूत, CCTV में दिखा ये बड़ा नेता!",
+            "videoId": "aC4hOvf1Ipg",
+            "name": "Tamil Nadu Government Formation LIVE: हिली CM स्टालिन की कुर्सी!, AIADMK के 30 विधायक गायब?",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "lLzv31YujNU",
-            "name": "Mamata Banerjee News LIVE : ममता पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results | Suvendu",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PVQprpRdO5I",
-            "name": "Out Of Focus Live | 07 May 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_TFwTJDW3nc",
-            "name": "Mamata Banerjee News LIVE : ममता के इस्तीफे पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8wOCXO3nUUQ",
-            "name": "Suvendu's PA Murder News LIVE: शुभेंदु के PA को मारने वाले का एनकाउंटर? | Big Breaking | Bengal",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KqN1lgBom-8",
-            "name": "Iran America War Update: ईरान से जंग खत्म करेगा अमेरिका? | Strait Of Hormuz | Tehran | IRGC",
-            "artist": "TV9 Madhya Pradesh Chhattisgarh  "
-        },
-        {
-            "mood": "storm",
-            "videoId": "YBcxFMqAWTs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "esrnHXnkOp8",
-            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 07.05.2026 | Top News | Latest News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bQA1jwYjpCk",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (07.05.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EcoxCYNuIGA",
-            "name": "🔴LIVE: Tvk Vijay | thirumavalavan | விஜய்-க்கு ஆதரவு.. திருமா-க்கு நோ சொன்ன ஸ்டாலின்",
+            "videoId": "JU9HXNlyYhY",
+            "name": "🔴LIVE: Vijay |  TVK | CM ஆகும் விஜய்?",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "yWTbXvK27OE",
-            "name": "🟢 দুপুরের খবর | Dupurer Khobor | 07 May 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "WoxfkK3eEOs",
+            "name": "Sandeep Chaudhary LIVE: बम,बवाल, गोली, बंगाल में खून की होली! | Suvendu's PA Murder | West Bengal",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CXtmrRJz2Rc",
+            "name": "🔴LIVE: ''விஜய்-க்கு முழு ஆதரவு'' - ஸ்டாலின் பரபரப்பு பேட்டி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pzZ195hDhTs",
+            "name": "Sandeep Chaudhary LIVE: बंगाल में 'लूट' भारी...यूपी की है तैयारी? | Mamata | AKhilesh | UP Election",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SgC5xQf7ZGE",
+            "name": "Latest News Live| ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ |Today Punjabi News| ED Raid|Suvendu Adhikari’s PA dead |CM",
+            "artist": "News18 Punjab"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b6e6JjguzSs",
+            "name": "🔴LIVE: Vijay | EPS | சற்று நேரத்தில் இறுதி முடிவு?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jLLm9AQI8SQ",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.05.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mXkdid5F0Gc",
+            "name": "China’s Big Decision Stuns the World | ARY News 9 PM Headlines | 7th May 2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dQqLD4CxXEM",
+            "name": "LIVE with Dr. Shahid Masood | Some News! Iran US War! India Vs Pakistan | 07 May 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ezlaErTGNVE",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gsSJ7rlYs5c",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 07 May 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
