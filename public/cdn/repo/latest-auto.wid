@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260507T082529.603Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260507T135206.007Z-l4t35t"
   type: "state"
-  created: "2026-05-07T08:25:29.603Z"
+  created: "2026-05-07T13:52:06.007Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260507T082529.603Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260507T135206.007Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0PDRRrE0INY"
-        name: "Bihar Cabinet Expansion LIVE: बिहार में कैबिनेट विस्तार | PM Modi | Samrat Choudhary | Nishant Kumar"
+        videoId: "GmBHUw5POfY"
+        name: "Suvendu Adhikari PA Murder News LIVE: मिल गया हत्या का बड़ा सबूत, CCTV में दिखा ये बड़ा नेता!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "djSVYt5N9vo"
-        name: "Suvendu Adhikari PA Murder News LIVE: कार की रिकॉडिंग ने सभी के उड़ाए होश! | Chandrakanth Shot Dead"
+        videoId: "lLzv31YujNU"
+        name: "Mamata Banerjee News LIVE : ममता पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results | Suvendu"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PVQprpRdO5I"
+        name: "Out Of Focus Live | 07 May 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_TFwTJDW3nc"
+        name: "Mamata Banerjee News LIVE : ममता के इस्तीफे पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8wOCXO3nUUQ"
+        name: "Suvendu's PA Murder News LIVE: शुभेंदु के PA को मारने वाले का एनकाउंटर? | Big Breaking | Bengal"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "52Y5Xmu_w_c"
-        name: "🔴LIVE: Tvk Vijay | Tamilnadu politics | ஒரே இரவில் நடந்த பெரும் திருப்பங்கள்"
-        artist: "Sathiyam News"
+        videoId: "KqN1lgBom-8"
+        name: "Iran America War Update: ईरान से जंग खत्म करेगा अमेरिका? | Strait Of Hormuz | Tehran | IRGC"
+        artist: "TV9 Madhya Pradesh Chhattisgarh  "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JU9HXNlyYhY"
-        name: "🔴LIVE: Vijay |  TVK | CM ஆகும் விஜய்?"
-        artist: "Sathiyam News"
+        videoId: "YBcxFMqAWTs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "echL1D_pOSc"
-        name: "🔴LIVE: TVK Vijay | TN Election Result | விஜய் CM ஆவது உறுதியா?"
+        videoId: "esrnHXnkOp8"
+        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । 07.05.2026 | Top News | Latest News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bQA1jwYjpCk"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (07.05.2026)| 2 PM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RDNe9ADgy6s"
-        name: "US NEWS LIVE: 'BIG NAMES?' — FBI Chief Patel Unleashes Shocking Trump Plot Revelations"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ONcub3B03QY"
-        name: "LIVE: Why Are Cities In New York, Mexico & India Slowly Sinking? | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MEeZr2qmoyA"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 07 May'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aQhCaso8v5g"
-        name: "LIVE: US KC-135 Tanker Jet Sends 7700 Emergency Code, Disappears Near Hormuz | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WGyD22IaxAo"
-        name: "Suvendu Adhikari PA Death News LIVE: मिली हत्या से पहले की कॉल रिकॉडिंग? फंसे ममता-अभिषेक! | TMC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9bdisjKZeXA"
-        name: "🔴LIVE: | TVK | விஜய்க்கு குட் நியூஸ் சொன்ன ஸ்டாலின்"
+        videoId: "EcoxCYNuIGA"
+        name: "🔴LIVE: Tvk Vijay | thirumavalavan | விஜய்-க்கு ஆதரவு.. திருமா-க்கு நோ சொன்ன ஸ்டாலின்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yyHmOyFT9Gw"
-        name: "Today Fast 100 News | 07 MAY 2026 | இன்றைய 100 முக்கியச் செய்திகள் | TN Political Update"
-        artist: "NewsTamil 24X7"
+        videoId: "yWTbXvK27OE"
+        name: "🟢 দুপুরের খবর | Dupurer Khobor | 07 May 2026 | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-07T08:25:29.603Z"
+  exported_at: "2026-05-07T13:52:06.007Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-07T08:25:29.570Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-07T13:52:05.973Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
