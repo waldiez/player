@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260507T193001.419Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260508T023152.999Z-l4t35t"
   type: "state"
-  created: "2026-05-07T19:30:01.419Z"
+  created: "2026-05-08T02:31:52.999Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260507T193001.419Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260508T023152.999Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aC4hOvf1Ipg"
-        name: "Tamil Nadu Government Formation LIVE: हिली CM स्टालिन की कुर्सी!, AIADMK के 30 विधायक गायब?"
+        videoId: "fYFo6gTJAho"
+        name: "BREAKING LIVE: Blast Reported Near MLA Ratna Debnath’s House, 5 BJP Workers Injured In Bomb Attack"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mBABWCXEWyg"
+        name: "Mamata Banerjee News LIVE : ममता के इस्तीफे पर चौंकाने वाली खबर! TMC Vs BJP | Modi | Bengal Results"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EWKMDxOnufk"
+        name: "Bengal Governor Big Action on Mamata News LIVE: राज्यपाल का ममता बड़ा एक्शन,पूरा मंत्रिमंडल बर्खास्त"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JU9HXNlyYhY"
-        name: "🔴LIVE: Vijay |  TVK | CM ஆகும் விஜய்?"
-        artist: "Sathiyam News"
+        videoId: "zF2kcZQizqA"
+        name: "Trump Iran War LIVE | U.S. Strikes Iran: Deadly Air Raids Rock Middle East | War Escalation Live"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WoxfkK3eEOs"
-        name: "Sandeep Chaudhary LIVE: बम,बवाल, गोली, बंगाल में खून की होली! | Suvendu's PA Murder | West Bengal"
+        videoId: "FCjqrF-XJ9M"
+        name: "Bengal Governor Big Action on Mamata News LIVE: राज्यपाल का ममता बड़ा एक्शन,पूरा मंत्रिमंडल बर्खास्त"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CXtmrRJz2Rc"
-        name: "🔴LIVE: ''விஜய்-க்கு முழு ஆதரவு'' - ஸ்டாலின் பரபரப்பு பேட்டி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pzZ195hDhTs"
-        name: "Sandeep Chaudhary LIVE: बंगाल में 'लूट' भारी...यूपी की है तैयारी? | Mamata | AKhilesh | UP Election"
+        videoId: "Mz9IthSIpH8"
+        name: "Bengal Governor Big Action on Mamata News LIVE: ममता बनर्जी बर्खास्त, गिर गई बंगाल सरकार | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SgC5xQf7ZGE"
-        name: "Latest News Live| ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ |Today Punjabi News| ED Raid|Suvendu Adhikari’s PA dead |CM"
-        artist: "News18 Punjab"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b6e6JjguzSs"
-        name: "🔴LIVE: Vijay | EPS | சற்று நேரத்தில் இறுதி முடிவு?"
+        videoId: "lppFPc1ocNI"
+        name: "Today's Headlines | 08 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jLLm9AQI8SQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "xjG6oj04i20"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 8 May"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mXkdid5F0Gc"
-        name: "China’s Big Decision Stuns the World | ARY News 9 PM Headlines | 7th May 2026"
-        artist: "ARY News"
+        videoId: "u7rnskaB-1k"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (07.05.2026)| 11 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dQqLD4CxXEM"
-        name: "LIVE with Dr. Shahid Masood | Some News! Iran US War! India Vs Pakistan | 07 May 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ezlaErTGNVE"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gsSJ7rlYs5c"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 07 May 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "UPdJnfkwB5k"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-07T19:30:01.419Z"
+  exported_at: "2026-05-08T02:31:52.999Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-07T19:30:01.392Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-08T02:31:52.968Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
