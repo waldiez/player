@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260508T190904.587Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260509T022457.072Z-l4t35t"
   type: "state"
-  created: "2026-05-08T19:09:04.587Z"
+  created: "2026-05-09T02:24:57.072Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260508T190904.587Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260509T022457.072Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FHkpe8WcyIw"
-        name: "🔴LIVE: TVK Vijay | TN Election Result | விஜய்க்கு கிடைத்தது ஆதரவு"
-        artist: "Thanthi TV"
+        videoId: "9qLvNMC5X2M"
+        name: "Bengal First Encounter?, News LIVE: इधर बंगाल के नए सीएम का ऐलान उधर पहला एनकाउंटर?|Suvendu Adhikari"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N-hgWjWYe-k"
-        name: "🔴LIVE:Today Headlines - 08 May 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | TVK VIJAY | TAMILNADU"
+        videoId: "NY0kgrq_NG8"
+        name: "Suvendu Adhikari New CM Bengal News LIVE: शपथ से पहले ममता कुछ बड़ा करने वाली है! | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4XW4J81TY3k"
+        name: "Bengal New CM Announced LIVE : बंगाल के नए सीएम का ऐलान! ममता हैरान | Amit Shah | Kolkata | Suvendu"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2LIXkgw0Cmc"
+        name: "Bengal New CM News LIVE : बंगाल से इस वक्त की आई चौंकाने वाली खबर! Suvendu Adhikari | Mamata | BJP"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hJTdza0AjiE"
+        name: "Seedha Sawal LIVE: बिहार की 'नई' सरकार...छात्रों पर लाठी की मार! | Patna Student Protest | Bihar"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XQ31bd6V57E"
+        name: "Suvendu Adhikari New CM Bengal News LIVE: शपथ से पहले ममता कुछ बड़ा करने वाली है! | Big Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Icx-IBAJwlg"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 9 May"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "19AdTmEE73A"
+        name: "Today's Headlines | 09 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yz3_BpgDiRI"
+        name: "🔴LIVE:Today Headlines - 09 May 2026 | 7 மணி தலைப்புச் செய்திகள் | HEADLINES | TVK VIJAY | TAMILNADU"
         artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YdOkAeoaeSM"
-        name: "🔴LIVE: US Secretary of State 𝗠𝗮𝗿𝗰𝗼 𝗥𝘂𝗯𝗶𝗼 Holds Media Briefing (Iran–US War Update) Geo News"
-        artist: "Geo News"
+        videoId: "EoG_SZo9s28"
+        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OYb2CUeCpAw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4xmxN_RuJJ8"
-        name: "Vijay Thalapathy News  LIVE: विजय को बड़ा झटका!, तीसरी बार राज्यपाल ने किया मना,नहीं बनेंगे CM?| TVK"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uVd4F-dlcNw"
-        name: "🔴LIVE: TVK | CM Vijay | VCK | Thirumavalavan | துணை முதலமைச்சராகிறார் திருமாவளவன்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0mLxK5VDGbI"
-        name: "Suvendu Adhikari New CM Bengal News LIVE: शुभेंदु की शपथ से पहले PA की मौत का बदला!, एनकाउंटर?"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J7KGWIqCPZI"
-        name: "Debate With Arnab LIVE: Can Vijay Get The Magical 118 To Form The Next Govt In Tamil Nadu?"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "___2CT15S4I"
-        name: "Suvendu Adhikari New CM Bengal News LIVE: इधर शुभेंदु के नाम का ऐलान, उधर खबर सुन तड़प उठीं ममता!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dXqf7UcImsY"
-        name: "LIVE with Dr. Shahid Masood | US–Iran Clashes Intensify – Middle East on Edge | 08 May 2026 | GNN"
-        artist: "GNN"
+        videoId: "ZXVk5M2LsLY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "SomoyBD News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-08T19:09:04.587Z"
+  exported_at: "2026-05-09T02:24:57.072Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-08T19:09:04.559Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-09T02:24:57.040Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
