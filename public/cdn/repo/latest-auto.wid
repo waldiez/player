@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260509T022457.072Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260509T074851.671Z-l4t35t"
   type: "state"
-  created: "2026-05-09T02:24:57.072Z"
+  created: "2026-05-09T07:48:51.671Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260509T022457.072Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260509T074851.671Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "9qLvNMC5X2M"
-        name: "Bengal First Encounter?, News LIVE: इधर बंगाल के नए सीएम का ऐलान उधर पहला एनकाउंटर?|Suvendu Adhikari"
+        videoId: "1KixR3x0bbU"
+        name: "Bengal New CM Oath Ceremony LIVE: फोर्स ने Mamata Banerjee का घर घेरा? | Suvendu Adhikari | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NY0kgrq_NG8"
-        name: "Suvendu Adhikari New CM Bengal News LIVE: शपथ से पहले ममता कुछ बड़ा करने वाली है! | Big Breaking"
+        videoId: "ZTwbsxS3hhA"
+        name: "Breaking News LIVE: Iran Launches Hypersonic Missiles Toward US! | FM Araghchi | World News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TIJInzTWz-A"
+        name: "US News LIVE | Trump Speaks On Iran War LIVE | Donald Trump's Big Announcement | Donald Trump LIVE"
+        artist: "Hindustan Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Z8yX4yvktKU"
+        name: "Bengal New CM Oath Ceremony LIVE: जय श्री राम की गूंज ममता के घर पहुंची? | Suvendu Adhikari | Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4XW4J81TY3k"
-        name: "Bengal New CM Announced LIVE : बंगाल के नए सीएम का ऐलान! ममता हैरान | Amit Shah | Kolkata | Suvendu"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2LIXkgw0Cmc"
-        name: "Bengal New CM News LIVE : बंगाल से इस वक्त की आई चौंकाने वाली खबर! Suvendu Adhikari | Mamata | BJP"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hJTdza0AjiE"
-        name: "Seedha Sawal LIVE: बिहार की 'नई' सरकार...छात्रों पर लाठी की मार! | Patna Student Protest | Bihar"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XQ31bd6V57E"
-        name: "Suvendu Adhikari New CM Bengal News LIVE: शपथ से पहले ममता कुछ बड़ा करने वाली है! | Big Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Icx-IBAJwlg"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Bulletin | Top News | Hindi News | PM Modi | 9 May"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "19AdTmEE73A"
-        name: "Today's Headlines | 09 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        videoId: "8j6xaFy3D_o"
+        name: "🔴LIVE: TVK | CM Vijay | VCK | Thirumavalavan | திருமாவின்  இறுதி முடிவு ? - காலையிலேயே பரபரப்பு"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yz3_BpgDiRI"
-        name: "🔴LIVE:Today Headlines - 09 May 2026 | 7 மணி தலைப்புச் செய்திகள் | HEADLINES | TVK VIJAY | TAMILNADU"
-        artist: "Polimer News"
+        videoId: "1y8yr8gF8VQ"
+        name: "Suvendu Adhikarii  on Mamata LIVE : CM बनते ही एक्शन में शुभेंदु अधिकारी! Mamata | Amit Shah | BJP"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EoG_SZo9s28"
-        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
-        artist: "Times Now World"
+        videoId: "8v0Mj_QRyQ0"
+        name: "US-Iran War LIVE: Iran Scares US Soldiers After Unveiling New Missile Which Splits Into 80 Warheads"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZXVk5M2LsLY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "SomoyBD News"
+        videoId: "6Mhi2QQgi18"
+        name: "West Bengal New CM Oath Ceremony Live: आएंगी ममता? | Suvendu Adhikari | PM Modi | Mamata Banerjee"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JONT2-Ccxkk"
+        name: "Suvendu Adhikari New CM Bengal News LIVE: शुभेंदु के सीएम का ऐलान होते ही मार गिराया पहला हत्यारा?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6nUeSaqa_hA"
+        name: "West Bengal New CM Oath Ceremony Live: आएंगी ममता? | Suvendu Adhikari | PM Modi | Mamata Banerjee"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "72jri9r85i0"
+        name: "West Bengal New CM Oath Ceremony LIVE: शपथ वाली जगह से Mamata Banerjee पर बड़ी खबर | BJP | PM Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-p00t5EfXbY"
+        name: "முடிவை மாற்றிய ஈரான் - அமெரிக்கா, இஸ்ரேல்... | | Iran US Israel Tensions |Iran Latest Decision |"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-09T02:24:57.072Z"
+  exported_at: "2026-05-09T07:48:51.671Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-09T02:24:57.040Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-09T07:48:51.640Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
