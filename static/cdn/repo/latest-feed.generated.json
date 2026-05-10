@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-10T02:27:36.527Z",
+    "generatedAt": "2026-05-10T08:01:33.413Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KAPpmbWu4O8",
-            "name": "Putin News LIVE: Vladimir Putin’s Victory Day Speech 2026 | Red Square Address (English Translation)",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aFCV-Gf3g-A",
-            "name": "BJP Office Terrorist Attack Alert News LIVE: अभी की बड़ी खबर, बीजेपी ऑफिस पर आतंकी हमला का अलर्ट!",
+            "videoId": "yMDr6_GnzoM",
+            "name": "Suvendu Adhikari New CM Bengal News LIVE: TMC के गुंडों पर एक्शन शुरू...| Mamata Banerjee",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Nqc6tBFL0UM",
-            "name": "Sandeep Chaudhary LIVE: बंगाल हार ने 'INDIA' जोड़ा, सत्ता ने तमिलनाडु में तोड़ा! | Bengal | Vijay",
+            "videoId": "ylvtk5GB1iU",
+            "name": "🔴LIVE: Today Headlines - 10 MAY 2026 | காலை 08 மணி தலைப்புச் செய்திகள் | Today Headlines | TVK Vijay",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PF8Rc0r-8iM",
+            "name": "Tamil Nadu New CM Oath Ceremony LIVE: मैं विजय शपथ लेता हूं...! | Rahul Gandhi | Thalapathy Vijay",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Fj9H_zgwC0I",
-            "name": "Today's Headlines | 10 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "JeijZqNCAEA",
+            "name": "🔴LIVE: Live: GHQ hosts ceremony marking one year since Marka-e-Haq victory | Marka e Haq  | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "0s_tgo3KuxA",
-            "name": "🔴LIVE: TVK | CM Vijay | 9 அமைச்சர்கள் யார் யார்? பட்டியல் ரெடி",
-            "artist": "Sathiyam News"
+            "videoId": "D3LmZtjVID8",
+            "name": "World Oil Prices Update: Latest Crude Rates & Market Trends | Geo News 8AM Headlines 10 May 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "DRMkfwErKJM",
-            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (10.05.2026) | 7 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "ztwD-OTvSa0",
+            "name": "Tamil Nadu CM Oath Ceremony LIVE: विजय की शपथ...खचाखच भरा मैदान | TVK | DMK | MK Stalin | AIADMK",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "WaRT4oQ2IUI",
-            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 09 May 2026 | Jamuna TV",
-            "artist": "Jamuna TV"
+            "videoId": "iw_TL6bXc-c",
+            "name": "Vijay oath ceremony: शपथग्रहण के लिए घर से निकले विजय  | Tamil Nadu Politics",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "I0lE7Hy9paI",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "o9CWrddU48E",
-            "name": "Aaj Ki Taaja Khabar Live: 10 May 2026 | PM Modi | Bengal New CM | Suvendu | Amit Shah | Hindi News",
-            "artist": "Times Now Navbharat"
+            "videoId": "s69vJ1ISro4",
+            "name": "സ്പീഡ് ന്യൂസ് 08.30 AM, മേയ് 10, 2026 | Speed News",
+            "artist": "Manorama News"
         }
     ],
     "sourceFilters": {
