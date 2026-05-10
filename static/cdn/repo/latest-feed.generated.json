@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-10T08:01:33.413Z",
+    "generatedAt": "2026-05-10T13:05:10.942Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yMDr6_GnzoM",
-            "name": "Suvendu Adhikari New CM Bengal News LIVE: TMC के गुंडों पर एक्शन शुरू...| Mamata Banerjee",
+            "videoId": "1jPsEQmW67M",
+            "name": "Thalapathy Vijay Oath News LIVE: तमिलनाडु में बैंक की तरफ दौड़े लोग!, खाते में आने लगे 3000 रु!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ylvtk5GB1iU",
-            "name": "🔴LIVE: Today Headlines - 10 MAY 2026 | காலை 08 மணி தலைப்புச் செய்திகள் | Today Headlines | TVK Vijay",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PF8Rc0r-8iM",
-            "name": "Tamil Nadu New CM Oath Ceremony LIVE: मैं विजय शपथ लेता हूं...! | Rahul Gandhi | Thalapathy Vijay",
+            "videoId": "S_0jdw_6oV8",
+            "name": "UP Cabinet Expansion News: योगी की नई टीम तैयार, क्या ध्वस्त होगा विपक्ष का किला? | BJP | CM Yogi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "JeijZqNCAEA",
-            "name": "🔴LIVE: Live: GHQ hosts ceremony marking one year since Marka-e-Haq victory | Marka e Haq  | Geo News",
-            "artist": "Geo News"
+            "videoId": "JCJLCOOHZ68",
+            "name": "🔴LIVE: CM விஜய்-க்கு சுட சுட பதிலடி கொடுத்த ஸ்டாலின்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "D3LmZtjVID8",
-            "name": "World Oil Prices Update: Latest Crude Rates & Market Trends | Geo News 8AM Headlines 10 May 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ztwD-OTvSa0",
-            "name": "Tamil Nadu CM Oath Ceremony LIVE: विजय की शपथ...खचाखच भरा मैदान | TVK | DMK | MK Stalin | AIADMK",
+            "videoId": "GXmp80GMlLU",
+            "name": "UP Cabinet Expansion News LIVE: बदल गए यूपी के मंत्री!, चौंके अखिलेश!, बड़े नेताओं का कटा पत्ता!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "iw_TL6bXc-c",
-            "name": "Vijay oath ceremony: शपथग्रहण के लिए घर से निकले विजय  | Tamil Nadu Politics",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "GU9w2XOu28s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 May 2026 | International News Today",
+            "artist": "Dainik Sangram"
         },
         {
             "mood": "storm",
-            "videoId": "s69vJ1ISro4",
-            "name": "സ്പീഡ് ന്യൂസ് 08.30 AM, മേയ് 10, 2026 | Speed News",
-            "artist": "Manorama News"
+            "videoId": "rrHA8l2Ayak",
+            "name": "UP Cabinet Expansion News LIVE: योगी के कैबिनेट का विस्तार, विपक्ष के उड़ गए होश! | CM Yogi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3y8vhTmoPtY",
+            "name": "ABP Majha LIVE | 3 PM | 10 May 2026 | Vijay Thalapathy Oath Ceremony | TCS Nashik | Marathi News",
+            "artist": "ABP MAJHA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FaoG9raqzpc",
+            "name": "Thalapathy Vijay Oath News LIVE: विजय के सीएम बनते की पहला वादा पूरा!,सोना बंटना शुरू! | Tamil Nadu",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C7W_WJiS1xs",
+            "name": "Suvendu's PA Murder News LIVE: PA हत्या मामले में बड़ा खुलासा | Big Breaking | Bengal | BJP",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
