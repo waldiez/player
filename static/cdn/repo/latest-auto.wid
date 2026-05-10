@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260509T185204.384Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260510T022736.634Z-l4t35t"
   type: "state"
-  created: "2026-05-09T18:52:04.384Z"
+  created: "2026-05-10T02:27:36.634Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260509T185204.384Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260510T022736.634Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2VlCF1nJ1FM"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.05.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rPxg3i4m1xs"
-        name: "TVK Vijay Oath Ceremony LIVE: Thalapathy Vijay & Game of Thrones | Vijay's Swearing In On Pause"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i6MMAMSTBrc"
-        name: "LIVE with Dr. Shahid Masood | Iran–America Situation Still Unresolved? | 09 May 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Vs-HI2MMfXg"
+        videoId: "KAPpmbWu4O8"
         name: "Putin News LIVE: Vladimir Putin’s Victory Day Speech 2026 | Red Square Address (English Translation)"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JQIG78-z51E"
-        name: "🔴LIVE: TVK | CM Vijay | VCK | Thirumavalavan | முழு பவர்! ஆளுநரை சந்தித்தார் விஜய்"
+        videoId: "aFCV-Gf3g-A"
+        name: "BJP Office Terrorist Attack Alert News LIVE: अभी की बड़ी खबर, बीजेपी ऑफिस पर आतंकी हमला का अलर्ट!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Nqc6tBFL0UM"
+        name: "Sandeep Chaudhary LIVE: बंगाल हार ने 'INDIA' जोड़ा, सत्ता ने तमिलनाडु में तोड़ा! | Bengal | Vijay"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Fj9H_zgwC0I"
+        name: "Today's Headlines | 10 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ycIs1DNZLv0"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 09 May 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "R-1hmROL-DI"
-        name: "🔴LIVE: Tvk Vijay | பதவியேற்பு! நேரம் குறித்த விஜய்"
+        videoId: "0s_tgo3KuxA"
+        name: "🔴LIVE: TVK | CM Vijay | 9 அமைச்சர்கள் யார் யார்? பட்டியல் ரெடி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CsFhyOLVbPo"
-        name: "Aaj Ki Taaja Khabar Live: 09 May 2026 | PM Modi | Bengal New CM | Suvendu | Amit Shah | Hindi News"
+        videoId: "DRMkfwErKJM"
+        name: "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (10.05.2026) | 7 AM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WaRT4oQ2IUI"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 09 May 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I0lE7Hy9paI"
+        name: "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News"
+        artist: "Kanak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "o9CWrddU48E"
+        name: "Aaj Ki Taaja Khabar Live: 10 May 2026 | PM Modi | Bengal New CM | Suvendu | Amit Shah | Hindi News"
         artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "paTL5HlPlwY"
-        name: "West Bengal New CM Oath Ceremony LIVE : PM Modi Graces Suvendu Adhikari’s Oath Ceremony | Amit Shah"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AwwiRSdMeE4"
-        name: "Aaj Ki Taaza Khabar Live: Suvendu Adhikari Oath Ceremony | Vijay Thalapathy Oath Ceremony | LIVE"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lL68iFyukUI"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 09.05.2026 | Today News | Ajker News | BD News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QgVx4TO7Jtc"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News | 7 PM (09.05.2026) විදුලි බිල වැඩිවන හැටි.."
-        artist: "Newsfirst Sri Lanka"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-05-09T18:52:04.384Z"
+  exported_at: "2026-05-10T02:27:36.634Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-05-09T18:52:04.351Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-05-10T02:27:36.527Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
