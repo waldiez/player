@@ -1,4 +1,5 @@
-import { Button } from "@/components/ui";
+import { Button, DragHandle } from "@/components/ui";
+import { useSplitDrag } from "@/hooks/useSplitDrag";
 import { reportDiagnostic } from "@/lib/diagnostics";
 import { importReaderDocumentFromBytes, importReaderDocumentFromFile } from "@/lib/readerImport";
 import { getRuntimeContext } from "@/lib/runtime";
@@ -35,6 +36,8 @@ const TAB_BUTTONS: Array<{
 
 export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) {
     const runtime = getRuntimeContext();
+    const leftPanel = useSplitDrag({ initial: 288, min: 160, max: 480 });
+    const rightPanel = useSplitDrag({ initial: 320, min: 160, max: 480, reverse: true });
     const document = useReaderStore(s => s.currentDocument);
     const setCurrentDocument = useReaderStore(s => s.setCurrentDocument);
     const clearCurrentDocument = useReaderStore(s => s.clearCurrentDocument);
@@ -293,8 +296,11 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                 </div>
             </div>
 
-            <div className="grid min-h-0 flex-1 grid-cols-[18rem_minmax(0,1fr)_20rem]">
-                <aside className="min-h-0 overflow-auto border-r border-player-border bg-player-surface px-4 py-4">
+            <div className="flex min-h-0 flex-1">
+                <aside
+                    className="min-h-0 overflow-auto border-r border-player-border bg-player-surface px-4 py-4"
+                    style={{ width: leftPanel.px, flexShrink: 0 }}
+                >
                     <div className="mb-3 text-[11px] font-semibold uppercase tracking-wider text-player-text-muted">
                         Sections
                     </div>
@@ -323,7 +329,15 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                     </div>
                 </aside>
 
-                <main className="min-h-0 overflow-auto px-6 py-5">
+                <DragHandle
+                    direction="horizontal"
+                    onPointerDown={leftPanel.onPointerDown}
+                    onPointerMove={leftPanel.onPointerMove}
+                    onPointerUp={leftPanel.onPointerUp}
+                    className="border-x border-player-border"
+                />
+
+                <main className="min-h-0 flex-1 overflow-auto px-6 py-5">
                     <div className="mb-4 flex gap-2">
                         {TAB_BUTTONS.map(tab => {
                             const Icon = tab.icon;
@@ -457,7 +471,18 @@ export function ReaderView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                     )}
                 </main>
 
-                <aside className="min-h-0 overflow-auto border-l border-player-border bg-player-surface px-4 py-4">
+                <DragHandle
+                    direction="horizontal"
+                    onPointerDown={rightPanel.onPointerDown}
+                    onPointerMove={rightPanel.onPointerMove}
+                    onPointerUp={rightPanel.onPointerUp}
+                    className="border-x border-player-border"
+                />
+
+                <aside
+                    className="min-h-0 overflow-auto border-l border-player-border bg-player-surface px-4 py-4"
+                    style={{ width: rightPanel.px, flexShrink: 0 }}
+                >
                     <div className="mb-3 text-[11px] font-semibold uppercase tracking-wider text-player-text-muted">
                         Metadata
                     </div>

@@ -7,11 +7,13 @@
  *   transport (track info + scrubber + controls)
  *   bottom-grid (Studio: EQ/FX/Presets | Tracklist)
  */
+import { DragHandle } from "@/components/ui";
 import { useAudioChain } from "@/hooks/useAudioChain";
 import { useBackgroundPlaybackGuard } from "@/hooks/useBackgroundPlaybackGuard";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useMediaStream } from "@/hooks/useMediaStream";
 import { useMoodPersistence } from "@/hooks/useMoodPersistence";
+import { useSplitDrag } from "@/hooks/useSplitDrag";
 import { useStreamAnalyser } from "@/hooks/useStreamAnalyser";
 import { useSwipeGesture } from "@/hooks/useSwipeGesture";
 import { useTauriMpv } from "@/hooks/useTauriMpv";
@@ -89,6 +91,7 @@ import {
 
 import { AddDeviceDialog } from "./AddDeviceDialog";
 import { AddSourceDialog } from "./AddSourceDialog";
+import { ModeMenuDropdown } from "./ModeMenuDropdown";
 import { MoodCustomizeDialog } from "./MoodCustomizeDialog";
 import { MoodVisualizer } from "./MoodVisualizer";
 import { SearchBar } from "./SearchBar";
@@ -158,6 +161,13 @@ export function WideriaLayout({
     const isSeeking = useRef(false);
     const [showAddSource, setShowAddSource] = useState(false);
     const [showAddDevice, setShowAddDevice] = useState(false);
+    const bottomPanel = useSplitDrag({
+        initial: 180,
+        min: 56,
+        max: 480,
+        direction: "vertical",
+        reverse: true,
+    });
 
     // ── Store ────────────────────────────────────────────────────────────
     const {
@@ -203,6 +213,7 @@ export function WideriaLayout({
     }, [currentMedia?.id]);
 
     // ── Mood customization ────────────────────────────────────────────────
+    const [showModeMenu, setShowModeMenu] = useState(false);
     const [showCustomize, setShowCustomize] = useState(false);
     const [customMeta, setCustomMeta] = useState<Partial<Record<MoodMode, MoodCustomization>>>(() =>
         loadMoodCustomizations(),
@@ -1253,14 +1264,15 @@ export function WideriaLayout({
 
             {/* ════════════════════ HEADER ════════════════════ */}
             <header className="flex flex-shrink-0 items-center justify-between border-b border-[var(--color-player-border)] bg-[var(--color-player-surface)] px-3 py-2 sm:px-6 sm:py-2.5">
-                <button
-                    onClick={() => setPlayerMode("standard")}
-                    className="flex items-center gap-1.5 text-sm font-semibold tracking-wider transition-opacity hover:opacity-70"
-                >
-                    <span className="text-[var(--color-player-accent)]">Waldiez</span>
-                    <span className="hidden text-[var(--color-player-text-muted)] sm:inline">·</span>
-                    <span className="hidden text-[var(--color-player-text-muted)] sm:inline">Player</span>
-                </button>
+                <ModeMenuDropdown
+                    playerMode={mode}
+                    playerModeConfig={playerModeConfig}
+                    showModeMenu={showModeMenu}
+                    onToggle={() => setShowModeMenu(m => !m)}
+                    onClose={() => setShowModeMenu(false)}
+                    onModeSelect={setPlayerMode}
+                    dropdownAlign="left"
+                />
 
                 <nav className="flex items-center gap-1 overflow-x-auto" aria-label="Visualizer mode">
                     {MOOD_BTNS.map(({ mode: m, Icon }) => (
@@ -1630,13 +1642,19 @@ export function WideriaLayout({
             </section>
 
             {/* ════════════════════ BOTTOM GRID ════════════════════ */}
+            <DragHandle
+                direction="vertical"
+                onPointerDown={bottomPanel.onPointerDown}
+                onPointerMove={bottomPanel.onPointerMove}
+                onPointerUp={bottomPanel.onPointerUp}
+                className="border-y border-[var(--color-player-border)]"
+            />
             <div
                 className={cn(
-                    !currentMedia
-                        ? "grid flex-1 overflow-hidden border-t border-[var(--color-player-border)] min-h-[56px] sm:flex-none sm:shrink sm:max-h-56"
-                        : "grid max-h-40 shrink border-t border-[var(--color-player-border)] min-h-[56px] sm:max-h-56",
+                    "grid shrink-0 overflow-hidden",
                     showStudio ? "grid-cols-[268px_1fr]" : "grid-cols-[1fr]",
                 )}
+                style={{ height: bottomPanel.px }}
             >
                 {/* ── Studio Panel ── */}
                 {showStudio && (

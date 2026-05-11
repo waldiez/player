@@ -3,6 +3,7 @@ import { EffectsPanel } from "@/components/effects";
 import { AddSourceDialog } from "@/components/player/AddSourceDialog";
 import { AutomationsPanel } from "@/components/player/AutomationsPanel";
 import { BottomNav } from "@/components/player/BottomNav";
+import { DJView } from "@/components/player/DJView";
 import { DesktopDiagnosticsOverlay } from "@/components/player/DesktopDiagnosticsOverlay";
 import { EditorView } from "@/components/player/EditorView";
 import { GuidedModeCanvas } from "@/components/player/GuidedModeCanvas";
@@ -121,6 +122,7 @@ export function App() {
     const isGuidedMode = (["storyteller", "presentation", "learning"] as PlayerMode[]).includes(playerMode);
     const isReaderMode = playerMode === "reader";
     const isEditorMode = playerMode === "editor";
+    const isMixerMode = playerMode === "mixer";
 
     // Notify SYNAPSE when mood mode changes so it can adapt its scene.
     useEffect(() => {
@@ -205,7 +207,7 @@ export function App() {
             if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) {
                 return;
             }
-            if (isReaderMode || isEditorMode) {
+            if (isReaderMode || isEditorMode || isMixerMode) {
                 return;
             }
 
@@ -286,6 +288,7 @@ export function App() {
         setPlaybackRate,
         isEditorMode,
         isReaderMode,
+        isMixerMode,
         playback.volume,
         playback.playbackRate,
         playerModeConfig,
@@ -636,6 +639,29 @@ export function App() {
                 <>
                     <DesktopDiagnosticsOverlay />
                     <EditorView onSettingsOpen={() => setShowSettings(true)} />
+                    {showSettings && (
+                        <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
+                            <SettingsPanel
+                                onClose={() => setShowSettings(false)}
+                                onUiSettingsChange={next => {
+                                    setUiSettings(next);
+                                    writeUiSettings(next);
+                                }}
+                                uiSettings={uiSettings}
+                            />
+                        </div>
+                    )}
+                </>
+            </ErrorBoundary>
+        );
+    }
+
+    if (isMixerMode) {
+        return (
+            <ErrorBoundary label="Mixer">
+                <>
+                    <DesktopDiagnosticsOverlay />
+                    <DJView onSettingsOpen={() => setShowSettings(true)} />
                     {showSettings && (
                         <div className="fixed right-0 top-0 z-50 h-full w-96 max-w-[92vw] border-l border-player-border bg-player-surface shadow-2xl">
                             <SettingsPanel

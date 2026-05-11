@@ -22,7 +22,9 @@ export type PlayerMode =
     | "fest"
     | "rock"
     | "pop"
-    | "disco";
+    | "disco"
+    // Two-deck DJ mixer with crossfader
+    | "mixer";
 
 export interface PlayerModeConfig {
     id: PlayerMode;

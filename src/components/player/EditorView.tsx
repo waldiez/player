@@ -5,8 +5,9 @@ import {
     SegmentedChoiceField,
     SelectField,
 } from "@/components/player/EditorInspectorFields";
-import { Button } from "@/components/ui";
+import { Button, DragHandle } from "@/components/ui";
 import { useEditorFileOps } from "@/hooks/useEditorFileOps";
+import { useSplitDrag } from "@/hooks/useSplitDrag";
 import { createEmptyEditorProject } from "@/lib/editorPersistence";
 import {
     type RenderProgress,
@@ -74,6 +75,8 @@ function buildProjectSummary(sceneCount: number, totalDuration: number) {
 export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) {
     const runtime = getRuntimeContext();
     const setPlayerMode = usePlayerStore(s => s.setPlayerMode);
+    const leftPanel = useSplitDrag({ initial: 320, min: 160, max: 520 });
+    const rightPanel = useSplitDrag({ initial: 384, min: 160, max: 560, reverse: true });
     const currentProject = useEditorStore(s => s.currentProject);
     const selectedSceneId = useEditorStore(s => s.selectedSceneId);
     const selectedClipId = useEditorStore(s => s.selectedClipId);
@@ -453,8 +456,11 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                 </div>
             </div>
 
-            <div className="grid min-h-0 flex-1 grid-cols-[20rem_minmax(0,1fr)_24rem]">
-                <aside className="min-h-0 overflow-auto border-r border-white/10 bg-black/20 px-4 py-4">
+            <div className="flex min-h-0 flex-1">
+                <aside
+                    className="min-h-0 overflow-auto border-r border-white/10 bg-black/20 px-4 py-4"
+                    style={{ width: leftPanel.px, flexShrink: 0 }}
+                >
                     <div className="rounded-[26px] border border-white/10 bg-white/5 p-4">
                         <div className="mb-3 flex items-center justify-between">
                             <div className="text-[11px] font-semibold uppercase tracking-wider text-slate-400">
@@ -608,7 +614,15 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                     </div>
                 </aside>
 
-                <main className="min-h-0 overflow-auto px-5 py-5">
+                <DragHandle
+                    direction="horizontal"
+                    onPointerDown={leftPanel.onPointerDown}
+                    onPointerMove={leftPanel.onPointerMove}
+                    onPointerUp={leftPanel.onPointerUp}
+                    className="border-x border-white/10"
+                />
+
+                <main className="min-h-0 flex-1 overflow-auto px-5 py-5">
                     <section className="rounded-[28px] border border-white/10 bg-[radial-gradient(circle_at_top_left,rgba(244,114,182,0.18),transparent_35%),linear-gradient(180deg,rgba(255,255,255,0.08),rgba(255,255,255,0.03))] p-5 shadow-2xl">
                         <div className="flex items-start justify-between gap-4">
                             <div>
@@ -804,7 +818,18 @@ export function EditorView({ onSettingsOpen }: { onSettingsOpen?: () => void }) 
                     )}
                 </main>
 
-                <aside className="min-h-0 overflow-auto border-l border-white/10 bg-black/20 px-4 py-4">
+                <DragHandle
+                    direction="horizontal"
+                    onPointerDown={rightPanel.onPointerDown}
+                    onPointerMove={rightPanel.onPointerMove}
+                    onPointerUp={rightPanel.onPointerUp}
+                    className="border-x border-white/10"
+                />
+
+                <aside
+                    className="min-h-0 overflow-auto border-l border-white/10 bg-black/20 px-4 py-4"
+                    style={{ width: rightPanel.px, flexShrink: 0 }}
+                >
                     <div className="mb-4 text-[11px] font-semibold uppercase tracking-wider text-slate-400">
                         Inspector
                     </div>

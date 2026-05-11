@@ -19,6 +19,7 @@ describe("modes config", () => {
         "rock",
         "pop",
         "disco",
+        "mixer",
     ];
 
     it("contains a config entry for every player mode", () => {
