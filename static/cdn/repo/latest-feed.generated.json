@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-10T18:53:18.629Z",
+    "generatedAt": "2026-05-11T02:36:45.056Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "npRp1ULe3IA",
-            "name": "🔴 Live || ରାତି ୧୧ଟାର ବଡ଼ ଖବର || 11PM Breaking News ||  Kanak News",
-            "artist": "Kanak News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G2pSOebUVdw",
-            "name": "US-Iran War LIVE Updates: Iranian attacks on 3 warships, US Central Command shocked? | IRGC |N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PcBAV17BAzg",
-            "name": "Sandeep Chaudhary LIVE: योगी 'सरकार' का विस्तार...PDA पर आर-पार! | UP Cabinet Expansion | CM Yogi",
+            "videoId": "YGGpm9vTRy4",
+            "name": "Bengal First Encounter? News LIVE: बंगाल में पहला एनकाउंटर? | Suvendu Adhikari | BJP | TMC | Mamata",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "cNsXCZ0qfo4",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.05.2026) | Sathiyam Headlines",
+            "videoId": "HQu9K7jFmU8",
+            "name": "Morning News LIVE Update | सकाळच्या महत्त्वाच्या बातम्या | 11 May 2026 | Marathi News Today",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "la9Z-CTubz8",
+            "name": "Today's Headlines | 11 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "6WRV53H5TGk",
-            "name": "🔴LIVE: 'போர்க்கொடி' - அதிமுகவில் நடப்பது என்ன..? #admk | ADMK #edappadipalanisamy EPS",
-            "artist": "Sathiyam News"
+            "videoId": "JYlHFu5BQVY",
+            "name": "🔴LIVE: Today Headlines - 11 MAY 2026 | 07 மணி தலைப்புச் செய்திகள் | 07 AM Headlines | NewsTamil24x7",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "yNOqp-PViIQ",
-            "name": "LIVE with Dr. Shahid Masood | Trump,Iran! New letter, New Response | Iran US War | 10 May 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "pTKaRsaCRcE",
+            "name": "US NEWS LIVE: World On Edge As Trump Rejects Iran Deal, War Threats Loom | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "cu48skbHOro",
-            "name": "US NEWS LIVE: Trump’s Urgent 24-Hour Announcement Leaves World Stunned | Donald Trump Speech",
-            "artist": "Times Now"
+            "videoId": "ccFM6Q0tbjI",
+            "name": "Watch Fox News Live  | Current Events & World Headlines",
+            "artist": "NewsStreamer"
         },
         {
             "mood": "storm",
-            "videoId": "LNYUCyC_zHA",
-            "name": "US Iran War Update: ईरान ने अमेरिका को दी 'टैंकर' चेतावनी | Strait Of Hormuz | Trump | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9sbPISfHqnk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EicFJ6km94A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sPl3rxFCiHg",
-            "name": "Sandeep Chaudhary: UP Cabinet Expension पर घमासान, Live Debate हुई बहस! |  Akhilesh Yadav । Yogi",
-            "artist": "ABP NEWS"
+            "videoId": "qPnJBQXKLjY",
+            "name": "Iran sends its response to President Trump's latest proposal aimed at ending the war | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
