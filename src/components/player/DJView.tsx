@@ -12,6 +12,7 @@
 import { ModeMenuDropdown } from "@/components/player/ModeMenuDropdown";
 import { Button, DragHandle, Slider } from "@/components/ui";
 import { useDeck } from "@/hooks/useDeck";
+import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useSplitDrag } from "@/hooks/useSplitDrag";
 import { cn } from "@/lib/utils";
 import { usePlayerStore } from "@/stores";
@@ -272,6 +273,11 @@ export function DJView({ onSettingsOpen }: DJViewProps) {
 
     const deckARef = useRef<DeckHandle>(null);
     const deckBRef = useRef<DeckHandle>(null);
+
+    const isNarrow = useMediaQuery("(max-width: 640px)");
+    useEffect(() => {
+        if (isNarrow) setPlayerMode("standard");
+    }, [isNarrow, setPlayerMode]);
 
     const [crossfader, setCrossfader] = useState(0.5);
     const [showModeMenu, setShowModeMenu] = useState(false);
