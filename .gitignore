@@ -36,6 +36,10 @@ yarn-error.log*
 *.swp
 *.swo
 
+# Claude Code
+.claude/
+CLAUDE.md
+
 # Local workspace state
 .local/
 *.local
