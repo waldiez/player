@@ -1,23 +1,22 @@
 PODS:
   - FlutterMacOS (1.0.0)
-  - webview_flutter_wkwebview (0.0.1):
-    - Flutter
+  - zikzak_inappwebview_macos (4.0.8):
     - FlutterMacOS
 
 DEPENDENCIES:
   - FlutterMacOS (from `Flutter/ephemeral`)
-  - webview_flutter_wkwebview (from `Flutter/ephemeral/.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+  - zikzak_inappwebview_macos (from `Flutter/ephemeral/.symlinks/plugins/zikzak_inappwebview_macos/macos`)
 
 EXTERNAL SOURCES:
   FlutterMacOS:
     :path: Flutter/ephemeral
-  webview_flutter_wkwebview:
-    :path: Flutter/ephemeral/.symlinks/plugins/webview_flutter_wkwebview/darwin
+  zikzak_inappwebview_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/zikzak_inappwebview_macos/macos
 
 SPEC CHECKSUMS:
   FlutterMacOS: d0db08ddef1a9af05a5ec4b724367152bb0500b1
-  webview_flutter_wkwebview: 29eb20d43355b48fe7d07113835b9128f84e3af4
+  zikzak_inappwebview_macos: e1ad32e411b0c5c2ccf53746bb4a0e8d19af8df9
 
-PODFILE CHECKSUM: 54d867c82ac51cbd61b565781b9fada492027009
+PODFILE CHECKSUM: 1e95c36afbfd1cb6423ceca4de7a8e1b256fb6ac
 
 COCOAPODS: 1.16.2

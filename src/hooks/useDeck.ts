@@ -58,6 +58,7 @@ export interface DeckState {
     analyser: AnalyserNode | null;
     setCrossGain: (gain: number) => void;
     setPlaying: (v: boolean) => void;
+    loadUrl: (url: string, title?: string) => Promise<void>;
 }
 
 export function useDeck(audioElRef: React.RefObject<HTMLAudioElement | null>): DeckState {
@@ -131,9 +132,7 @@ export function useDeck(audioElRef: React.RefObject<HTMLAudioElement | null>): D
         setYtVideoId(null);
     }
 
-    async function loadSource() {
-        const url = sourceInput.trim();
-        if (!url) return;
+    async function loadUrl(url: string, title?: string) {
         setIsLoading(true);
         clearSource();
         try {
@@ -143,21 +142,27 @@ export function useDeck(audioElRef: React.RefObject<HTMLAudioElement | null>): D
                 if (pipedUrl) {
                     setAudioSrc(pipedUrl);
                     setIsCrossOrigin(true);
-                    setTitle(`YouTube · ${ytId}`);
+                    setTitle(title ?? `YouTube · ${ytId}`);
                 } else {
-                    // Piped unavailable — fall back to YouTube iframe embed
                     setYtVideoId(ytId);
-                    setTitle(`YouTube · ${ytId}`);
+                    setTitle(title ?? `YouTube · ${ytId}`);
                 }
             } else {
                 setAudioSrc(url);
                 setIsCrossOrigin(false);
-                setTitle(url.split("/").pop() ?? url);
+                setTitle(title ?? url.split("/").pop() ?? url);
             }
         } finally {
             setIsLoading(false);
         }
         resetPlayState();
+        setSourceInput(url);
+    }
+
+    async function loadSource() {
+        const url = sourceInput.trim();
+        if (!url) return;
+        await loadUrl(url);
     }
 
     function loadFile(file: File) {
@@ -310,5 +315,6 @@ export function useDeck(audioElRef: React.RefObject<HTMLAudioElement | null>): D
         analyser,
         setCrossGain,
         setPlaying: setIsPlaying,
+        loadUrl,
     };
 }

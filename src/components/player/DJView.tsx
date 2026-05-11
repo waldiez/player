@@ -16,12 +16,27 @@ import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { useSplitDrag } from "@/hooks/useSplitDrag";
 import { cn } from "@/lib/utils";
 import { usePlayerStore } from "@/stores";
+import type { MediaFile } from "@/types";
 
 import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from "react";
 import type React from "react";
 
-import { Pause, Play, RotateCcw, Settings } from "lucide-react";
+import {
+    Globe,
+    Headphones,
+    Music,
+    Music2,
+    Pause,
+    Play,
+    Plus,
+    RotateCcw,
+    Settings,
+    Video,
+    X,
+    Youtube,
+} from "lucide-react";
 
+import { AddSourceDialog } from "./AddSourceDialog";
 import { DeckCanvas } from "./DeckCanvas";
 import { YouTubeEmbed } from "./YouTubeEmbed";
 
@@ -34,10 +49,101 @@ function fmtTime(s: number): string {
     return `${m}:${sec.toString().padStart(2, "0")}`;
 }
 
+// ── DJPlaylistPanel ───────────────────────────────────────────────────────
+
+function TrackIcon({ item }: { item: MediaFile }) {
+    const s = item.source ?? "file";
+    if (s === "youtube") return <Youtube className="h-3.5 w-3.5 shrink-0 text-red-400" />;
+    if (s === "spotify") return <Headphones className="h-3.5 w-3.5 shrink-0 text-green-400" />;
+    if (s === "soundcloud") return <Music className="h-3.5 w-3.5 shrink-0 text-orange-400" />;
+    if (s === "url") return <Globe className="h-3.5 w-3.5 shrink-0 text-gray-500" />;
+    return item.type === "audio" ? (
+        <Music2 className="h-3.5 w-3.5 shrink-0 text-gray-500" />
+    ) : (
+        <Video className="h-3.5 w-3.5 shrink-0 text-gray-500" />
+    );
+}
+
+interface DJPlaylistPanelProps {
+    onLoadToDeck: (url: string, title: string, deck: "A" | "B") => void;
+}
+
+function DJPlaylistPanel({ onLoadToDeck }: DJPlaylistPanelProps) {
+    const mediaLibrary = usePlayerStore(s => s.mediaLibrary);
+    const removeFromLibrary = usePlayerStore(s => s.removeFromLibrary);
+    const [showAddSource, setShowAddSource] = useState(false);
+
+    return (
+        <div className="flex h-full flex-col border-r border-gray-800">
+            <div className="flex shrink-0 items-center justify-between border-b border-gray-800 px-3 py-2">
+                <span className="font-mono text-xs font-bold tracking-widest text-gray-500">LIBRARY</span>
+                <button
+                    onClick={() => setShowAddSource(true)}
+                    className="rounded p-1 text-gray-600 transition-colors hover:text-gray-300"
+                    title="Add URL"
+                >
+                    <Plus className="h-3.5 w-3.5" />
+                </button>
+            </div>
+
+            <div className="flex-1 overflow-y-auto overscroll-contain">
+                {mediaLibrary.length === 0 ? (
+                    <div className="flex flex-col items-center justify-center py-10 text-center">
+                        <Music className="mb-2 h-8 w-8 opacity-10 text-gray-500" />
+                        <p className="text-xs text-gray-600">No tracks yet</p>
+                        <p className="mt-0.5 text-[10px] text-gray-700">Drop files or add a URL</p>
+                    </div>
+                ) : (
+                    <ul>
+                        {mediaLibrary.map(item => (
+                            <li
+                                key={item.id}
+                                className="group flex items-center gap-2 px-2 py-2 hover:bg-gray-900"
+                            >
+                                <TrackIcon item={item} />
+                                <span
+                                    className="min-w-0 flex-1 truncate text-xs text-gray-300"
+                                    title={item.name}
+                                >
+                                    {item.name}
+                                </span>
+                                <div className="flex shrink-0 gap-1 opacity-0 transition-opacity group-hover:opacity-100">
+                                    <button
+                                        onClick={() => onLoadToDeck(item.path, item.name, "A")}
+                                        className="rounded border border-cyan-800 px-1.5 py-0.5 font-mono text-[10px] font-bold text-cyan-400 hover:bg-cyan-900/40"
+                                    >
+                                        A
+                                    </button>
+                                    <button
+                                        onClick={() => onLoadToDeck(item.path, item.name, "B")}
+                                        className="rounded border border-purple-800 px-1.5 py-0.5 font-mono text-[10px] font-bold text-purple-400 hover:bg-purple-900/40"
+                                    >
+                                        B
+                                    </button>
+                                    <button
+                                        onClick={() => removeFromLibrary(item.id)}
+                                        className="rounded p-0.5 text-gray-700 transition-colors hover:text-red-400"
+                                        title="Remove"
+                                    >
+                                        <X className="h-3 w-3" />
+                                    </button>
+                                </div>
+                            </li>
+                        ))}
+                    </ul>
+                )}
+            </div>
+
+            {showAddSource && <AddSourceDialog onClose={() => setShowAddSource(false)} />}
+        </div>
+    );
+}
+
 // ── DeckPanel ─────────────────────────────────────────────────────────────
 
 interface DeckHandle {
     setCrossGain: (gain: number) => void;
+    loadUrl: (url: string, title?: string) => Promise<void>;
 }
 
 interface DeckPanelProps {
@@ -49,7 +155,10 @@ const DeckPanel = forwardRef<DeckHandle, DeckPanelProps>(function DeckPanel({ si
     const audioElRef = useRef<HTMLAudioElement>(null);
     const deck = useDeck(audioElRef);
 
-    useImperativeHandle(ref, () => ({ setCrossGain: deck.setCrossGain }), [deck.setCrossGain]);
+    useImperativeHandle(ref, () => ({ setCrossGain: deck.setCrossGain, loadUrl: deck.loadUrl }), [
+        deck.setCrossGain,
+        deck.loadUrl,
+    ]);
 
     function handleDrop(e: React.DragEvent) {
         e.preventDefault();
@@ -281,6 +390,7 @@ export function DJView({ onSettingsOpen }: DJViewProps) {
 
     const [crossfader, setCrossfader] = useState(0.5);
     const [showModeMenu, setShowModeMenu] = useState(false);
+    const playlistSplit = useSplitDrag({ initial: 220, min: 140, max: 380 });
     const split = useSplitDrag({ initial: 500, min: 200, max: 1600 });
 
     // Equal-power crossfade: A = cos(x·π/2), B = sin(x·π/2)
@@ -312,38 +422,62 @@ export function DJView({ onSettingsOpen }: DJViewProps) {
                 </div>
             </header>
 
-            {/* ── Decks ───────────────────────────────────────────────── */}
+            {/* ── Playlist + Decks ────────────────────────────────────── */}
             <div className="flex min-h-0 flex-1">
-                <div className="min-w-0 overflow-hidden" style={{ width: split.px }}>
-                    <DeckPanel ref={deckARef} side="A" accent="#06b6d4" />
+                {/* Playlist panel */}
+                <div className="shrink-0 overflow-hidden" style={{ width: playlistSplit.px }}>
+                    <DJPlaylistPanel
+                        onLoadToDeck={(url, title, deck) => {
+                            if (deck === "A") void deckARef.current?.loadUrl(url, title);
+                            else void deckBRef.current?.loadUrl(url, title);
+                        }}
+                    />
                 </div>
                 <DragHandle
                     direction="horizontal"
-                    onPointerDown={split.onPointerDown}
-                    onPointerMove={split.onPointerMove}
-                    onPointerUp={split.onPointerUp}
+                    onPointerDown={playlistSplit.onPointerDown}
+                    onPointerMove={playlistSplit.onPointerMove}
+                    onPointerUp={playlistSplit.onPointerUp}
                     className="border-x border-gray-800"
                 />
-                <div className="min-w-0 flex-1 overflow-hidden">
-                    <DeckPanel ref={deckBRef} side="B" accent="#a855f7" />
-                </div>
-            </div>
 
-            {/* ── Crossfader ──────────────────────────────────────────── */}
-            <div className="flex shrink-0 items-center gap-3 border-t border-gray-800 bg-gray-900/40 px-6 py-3">
-                <span className="w-10 text-right font-mono text-sm font-black text-cyan-400">A</span>
-                <div className="flex flex-1 flex-col items-center gap-1">
-                    <Slider
-                        value={[Math.round(crossfader * 100)]}
-                        min={0}
-                        max={100}
-                        step={1}
-                        onValueChange={([v]) => setCrossfader(v / 100)}
-                        className="w-full"
-                    />
-                    <span className="font-mono text-xs tracking-widest text-gray-700">CROSSFADER</span>
+                {/* Decks + crossfader */}
+                <div className="flex min-w-0 flex-1 flex-col">
+                    <div className="flex min-h-0 flex-1">
+                        <div className="min-w-0 overflow-hidden" style={{ width: split.px }}>
+                            <DeckPanel ref={deckARef} side="A" accent="#06b6d4" />
+                        </div>
+                        <DragHandle
+                            direction="horizontal"
+                            onPointerDown={split.onPointerDown}
+                            onPointerMove={split.onPointerMove}
+                            onPointerUp={split.onPointerUp}
+                            className="border-x border-gray-800"
+                        />
+                        <div className="min-w-0 flex-1 overflow-hidden">
+                            <DeckPanel ref={deckBRef} side="B" accent="#a855f7" />
+                        </div>
+                    </div>
+
+                    {/* ── Crossfader ──────────────────────────────────── */}
+                    <div className="flex shrink-0 items-center gap-3 border-t border-gray-800 bg-gray-900/40 px-6 py-3">
+                        <span className="w-10 text-right font-mono text-sm font-black text-cyan-400">A</span>
+                        <div className="flex flex-1 flex-col items-center gap-1">
+                            <Slider
+                                value={[Math.round(crossfader * 100)]}
+                                min={0}
+                                max={100}
+                                step={1}
+                                onValueChange={([v]) => setCrossfader(v / 100)}
+                                className="w-full"
+                            />
+                            <span className="font-mono text-xs tracking-widest text-gray-700">
+                                CROSSFADER
+                            </span>
+                        </div>
+                        <span className="w-10 font-mono text-sm font-black text-purple-400">B</span>
+                    </div>
                 </div>
-                <span className="w-10 font-mono text-sm font-black text-purple-400">B</span>
             </div>
         </div>
     );
