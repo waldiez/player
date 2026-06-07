@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260607T080735.179Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260607T084828.614Z-l4t35t"
   type: "state"
-  created: "2026-06-07T08:07:35.179Z"
+  created: "2026-06-07T08:48:28.614Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260607T080735.179Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260607T084828.614Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,15 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WznATYsPj3s"
-        name: "Marathi News LIVE | 7 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule"
-        artist: "News18 Marathi"
+        videoId: "IONulCTA5pA"
+        name: "🔴LIVE: Tamil Nadu CM Vijay | Seeman | ''CM sir'' -விஜய்க்கு சரமாரி கேள்வி - ஆட்டத்தை தொடங்கிய சீமான்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7q5MOAolzb0"
-        name: "Khan Sir Coaching Centre Seal News LIVE: खान सर का कोचिंग सेंटर होगा सील?, आखिरी अल्टीमेटम! | Patna"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NKtRd2lcPqk"
-        name: "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IdPu-L-U7X8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "WALD NEWS BD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gqGcXiCRpLo"
-        name: "Khan Sir Surrender News LIVE: खान सर की कोचिंग में फायरिंग मामले में वीडियो वायरल, देख लोग दंग!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DB3O9HTGqC4"
-        name: "LIVE: Trump’s Emergency Address Leaves the Nation Stunned — America Reacts to Major Announcement"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "z27QscbS4vc"
-        name: "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking"
-        artist: "ABP NEWS"
+        videoId: "3xKWemMiCMc"
+        name: "Khan Sir Coaching Centre Seal News LIVE: खान सर हो गए गायब?, कोचिंग सेंटर होगा सील?"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +72,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-07T08:07:35.179Z"
+  exported_at: "2026-06-07T08:48:28.614Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-07T08:07:35.147Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-07T08:48:28.579Z"
+  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"

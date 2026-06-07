@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-07T08:07:35.147Z",
+    "generatedAt": "2026-06-07T08:48:28.579Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,15 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WznATYsPj3s",
-            "name": "Marathi News LIVE | 7 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule",
-            "artist": "News18 Marathi"
+            "videoId": "IONulCTA5pA",
+            "name": "🔴LIVE: Tamil Nadu CM Vijay | Seeman | ''CM sir'' -விஜய்க்கு சரமாரி கேள்வி - ஆட்டத்தை தொடங்கிய சீமான்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "7q5MOAolzb0",
-            "name": "Khan Sir Coaching Centre Seal News LIVE: खान सर का कोचिंग सेंटर होगा सील?, आखिरी अल्टीमेटम! | Patna",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NKtRd2lcPqk",
-            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IdPu-L-U7X8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WALD NEWS BD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gqGcXiCRpLo",
-            "name": "Khan Sir Surrender News LIVE: खान सर की कोचिंग में फायरिंग मामले में वीडियो वायरल, देख लोग दंग!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DB3O9HTGqC4",
-            "name": "LIVE: Trump’s Emergency Address Leaves the Nation Stunned — America Reacts to Major Announcement",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z27QscbS4vc",
-            "name": "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "3xKWemMiCMc",
+            "name": "Khan Sir Coaching Centre Seal News LIVE: खान सर हो गए गायब?, कोचिंग सेंटर होगा सील?",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
