@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-05-11T02:36:45.056Z",
+    "generatedAt": "2026-06-07T08:07:35.147Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "YGGpm9vTRy4",
-            "name": "Bengal First Encounter? News LIVE: बंगाल में पहला एनकाउंटर? | Suvendu Adhikari | BJP | TMC | Mamata",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HQu9K7jFmU8",
-            "name": "Morning News LIVE Update | सकाळच्या महत्त्वाच्या बातम्या | 11 May 2026 | Marathi News Today",
+            "videoId": "WznATYsPj3s",
+            "name": "Marathi News LIVE | 7 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule",
             "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "la9Z-CTubz8",
-            "name": "Today's Headlines | 11 MAY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "7q5MOAolzb0",
+            "name": "Khan Sir Coaching Centre Seal News LIVE: खान सर का कोचिंग सेंटर होगा सील?, आखिरी अल्टीमेटम! | Patna",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "JYlHFu5BQVY",
-            "name": "🔴LIVE: Today Headlines - 11 MAY 2026 | 07 மணி தலைப்புச் செய்திகள் | 07 AM Headlines | NewsTamil24x7",
-            "artist": "NewsTamil 24X7"
+            "videoId": "NKtRd2lcPqk",
+            "name": "US NEWS Live: Trump Signs Emergency Orders – 'World's Most Powerful Reset' Leaves America In Shock",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "pTKaRsaCRcE",
-            "name": "US NEWS LIVE: World On Edge As Trump Rejects Iran Deal, War Threats Loom | World News",
-            "artist": "ET Now World"
+            "videoId": "IdPu-L-U7X8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "WALD NEWS BD"
         },
         {
             "mood": "storm",
-            "videoId": "ccFM6Q0tbjI",
-            "name": "Watch Fox News Live  | Current Events & World Headlines",
-            "artist": "NewsStreamer"
+            "videoId": "gqGcXiCRpLo",
+            "name": "Khan Sir Surrender News LIVE: खान सर की कोचिंग में फायरिंग मामले में वीडियो वायरल, देख लोग दंग!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qPnJBQXKLjY",
-            "name": "Iran sends its response to President Trump's latest proposal aimed at ending the war | BBC News",
-            "artist": "BBC News"
+            "videoId": "DB3O9HTGqC4",
+            "name": "LIVE: Trump’s Emergency Address Leaves the Nation Stunned — America Reacts to Major Announcement",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z27QscbS4vc",
+            "name": "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
