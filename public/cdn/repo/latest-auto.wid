@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260607T084828.614Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260607T132907.350Z-l4t35t"
   type: "state"
-  created: "2026-06-07T08:48:28.614Z"
+  created: "2026-06-07T13:29:07.350Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260607T084828.614Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260607T132907.350Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,15 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "IONulCTA5pA"
-        name: "🔴LIVE: Tamil Nadu CM Vijay | Seeman | ''CM sir'' -விஜய்க்கு சரமாரி கேள்வி - ஆட்டத்தை தொடங்கிய சீமான்"
-        artist: "Sathiyam News"
+        videoId: "JDvJ1a2kPRo"
+        name: "LIVE: Federal Minister Tariq Fazal Chaudhry with political leaders News Conference | Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3xKWemMiCMc"
-        name: "Khan Sir Coaching Centre Seal News LIVE: खान सर हो गए गायब?, कोचिंग सेंटर होगा सील?"
-        artist: "NDTV India"
+        videoId: "_McDvrGq0mM"
+        name: "Iran-US War News Update LIVE: ईरान को छोड़ आपस में भिड़ गए इजरायल-US, ट्रंप ने दे डाली चेतावनी!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p1-5J8012Tg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Jun May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oISHJDoyvSo"
+        name: "Khan Sir Coaching Centre Seal News LIVE: कोचिंग सेंटर सील कर देंगे खान सर?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7bh2OueY4Kg"
+        name: "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yUJSXrlKiGY"
+        name: "Khan Sir Coaching Centre Seal News LIVE: खान सर पर 7 पुलिस के धमाकेदार खुलासे!, चौंके लोग!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qOkgHHr2sHY"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 07.06.2026 | Today News | Bangla News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -72,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-07T08:48:28.614Z"
+  exported_at: "2026-06-07T13:29:07.350Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-07T08:48:28.579Z"
-  validation: "validation enabled: accepted 2/2 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-07T13:29:07.314Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

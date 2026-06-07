@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-07T08:48:28.579Z",
+    "generatedAt": "2026-06-07T13:29:07.314Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,15 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IONulCTA5pA",
-            "name": "🔴LIVE: Tamil Nadu CM Vijay | Seeman | ''CM sir'' -விஜய்க்கு சரமாரி கேள்வி - ஆட்டத்தை தொடங்கிய சீமான்",
-            "artist": "Sathiyam News"
+            "videoId": "JDvJ1a2kPRo",
+            "name": "LIVE: Federal Minister Tariq Fazal Chaudhry with political leaders News Conference | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "3xKWemMiCMc",
-            "name": "Khan Sir Coaching Centre Seal News LIVE: खान सर हो गए गायब?, कोचिंग सेंटर होगा सील?",
-            "artist": "NDTV India"
+            "videoId": "_McDvrGq0mM",
+            "name": "Iran-US War News Update LIVE: ईरान को छोड़ आपस में भिड़ गए इजरायल-US, ट्रंप ने दे डाली चेतावनी!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "p1-5J8012Tg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Jun May 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oISHJDoyvSo",
+            "name": "Khan Sir Coaching Centre Seal News LIVE: कोचिंग सेंटर सील कर देंगे खान सर?",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7bh2OueY4Kg",
+            "name": "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yUJSXrlKiGY",
+            "name": "Khan Sir Coaching Centre Seal News LIVE: खान सर पर 7 पुलिस के धमाकेदार खुलासे!, चौंके लोग!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qOkgHHr2sHY",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 07.06.2026 | Today News | Bangla News | Ajker News | ATN Bangla",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
