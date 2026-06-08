@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260608T025802.439Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260608T102515.252Z-l4t35t"
   type: "state"
-  created: "2026-06-08T02:58:02.439Z"
+  created: "2026-06-08T10:25:15.252Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260608T025802.439Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260608T102515.252Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "hZLWsjj8jy8"
-        name: "ABC World News Tonight with David Muir Full Broadcast - June 7, 2026"
-        artist: "ABC News"
+        videoId: "k67dd04IVQQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kk4lZgNQPrA"
-        name: "Iran News LIVE | Trump Says The U.S. Will Work With Iran To Destroy Its Uranium | Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WOqZgm9EPzg"
-        name: "US-Israel-Iran War News LIVE | Israel Attack on Labanon | Trump | Netanyahu | IRGC | War Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TfH0mJ-OUb0"
-        name: "Seedha Sawal LIVE: भारत में दुनिया से महंगाई कम...दावे में कितना दम? | Sandeep Chaudhary | Mehangai"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "c5Jna0pEDS4"
-        name: "Today's Headlines | 08 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        videoId: "5RHZvvuMfNI"
+        name: "🔴LIVE :டெல்லியை குறிவைக்கும் CM Vijay | Tvk | Sathiyam News"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-6hGZY7W8sM"
-        name: "Iranian missile attack on Israel ‘EXPOSES’ their military weakness: Ex-Pentagon official"
-        artist: "Fox News"
+        videoId: "mPhzVHebDnk"
+        name: "Breaking News LIVE | Israel Strikes Iran After Trump Asked Netanyahu To Hold Off | Israel-Iran War"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IqYaWDd2hkc"
-        name: "🔴LIVE :  CM Vijay | தமிழக மக்களுக்கு நற்செய்தி...அறிவித்தார்  CM விஜய் | TamilNadu | TN Govt | TVK"
-        artist: "NewsTamil 24X7"
+        videoId: "6pfQiJorRg8"
+        name: "West Bengal News LIVE: बंगाल में शाहजहां शेखके गुर्गों पर बड़ा एक्शन! ममता के उड़े होश?Suvendu | TMC"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CvLjMcIG7JQ"
-        name: "🔴LIVE :  CM Vijay | CM விஜய்யின் மாஸ்டர் பிளான்.. செந்தில் பாலாஜிக்கு இடியை இறக்கிய ஆளுநர்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tDzKuAJtTKs"
-        name: "Iran-US War LIVE: Iran Attacks US Warships | Iran Attacks US Fleet In Gulf Of Oman Amid Tensions"
+        videoId: "lJHcTpj5E-E"
+        name: "Iran Israel War News Today Live | Israel Launches Strikes After Iranian Missile Barrage | War News"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A1ikN4UWV7Y"
-        name: "Who’s Ahead, Who’s Behind? GB Election Results Update | 12 AM GEO News Headlines (8th June 2026)"
-        artist: "Geo News"
+        videoId: "Eq1KjaX56Hw"
+        name: "INDIA Alliance Meeting में पहुंचे Akhilesh Yadav | Breaking | AAP | DMK | Breaking | Latest News"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-08T02:58:02.439Z"
+  exported_at: "2026-06-08T10:25:15.252Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-08T02:58:02.403Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-08T10:25:15.211Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
