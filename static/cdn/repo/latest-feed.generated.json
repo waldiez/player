@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-08T10:25:15.211Z",
+    "generatedAt": "2026-06-08T15:37:27.587Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "k67dd04IVQQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "WIFmiCrBL2k",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "5RHZvvuMfNI",
-            "name": "🔴LIVE :டெல்லியை குறிவைக்கும் CM Vijay | Tvk | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "NPbUOPfSZYM",
+            "name": "If Convicted, Nandu's World Madhukar Prison Sentenced 10 Years Jail in UK | @SakshiTVPolitics",
+            "artist": "Sakshi TV Politics"
         },
         {
             "mood": "storm",
-            "videoId": "mPhzVHebDnk",
-            "name": "Breaking News LIVE | Israel Strikes Iran After Trump Asked Netanyahu To Hold Off | Israel-Iran War",
-            "artist": "Hindustan Times"
+            "videoId": "5ZRWGpssPOs",
+            "name": "Philippines Earthquake LIVE: Massive 8.2 Earthquake Hits Philippines, Tsunami Warnings Triggered",
+            "artist": "Mint"
         },
         {
             "mood": "storm",
-            "videoId": "6pfQiJorRg8",
-            "name": "West Bengal News LIVE: बंगाल में शाहजहां शेखके गुर्गों पर बड़ा एक्शन! ममता के उड़े होश?Suvendu | TMC",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lJHcTpj5E-E",
-            "name": "Iran Israel War News Today Live | Israel Launches Strikes After Iranian Missile Barrage | War News",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Eq1KjaX56Hw",
-            "name": "INDIA Alliance Meeting में पहुंचे Akhilesh Yadav | Breaking | AAP | DMK | Breaking | Latest News",
+            "videoId": "ksjWLCN361Q",
+            "name": "ABP Report LIVE: महाभूकंप आया, दुनिया को डराया! | Philippines Earthquake | Bhutan | World News",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LoFmOEjqs2Y",
+            "name": "Khan Sir Surrender News LIVE: 'मेरी कोचिंग बंद हुई तो दूसरे लाखों की फीस कर देंगे' | Patna Police",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "trvHhQIcNfI",
+            "name": "New strikes between Israel and Iran | Earthquake strikes the Philippines | Fugitive captured",
+            "artist": "SBS News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xmZm0_vdRpE",
+            "name": "Iran - israel Tensions - Trump's Big Statement | ARY News 2 PM Headlines | 8th June 2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pmxyYu_wQC8",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 08 June'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
