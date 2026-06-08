@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260607T132907.350Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260608T025802.439Z-l4t35t"
   type: "state"
-  created: "2026-06-07T13:29:07.350Z"
+  created: "2026-06-08T02:58:02.439Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260607T132907.350Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260608T025802.439Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JDvJ1a2kPRo"
-        name: "LIVE: Federal Minister Tariq Fazal Chaudhry with political leaders News Conference | Geo News"
+        videoId: "hZLWsjj8jy8"
+        name: "ABC World News Tonight with David Muir Full Broadcast - June 7, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kk4lZgNQPrA"
+        name: "Iran News LIVE | Trump Says The U.S. Will Work With Iran To Destroy Its Uranium | Iran War | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WOqZgm9EPzg"
+        name: "US-Israel-Iran War News LIVE | Israel Attack on Labanon | Trump | Netanyahu | IRGC | War Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TfH0mJ-OUb0"
+        name: "Seedha Sawal LIVE: भारत में दुनिया से महंगाई कम...दावे में कितना दम? | Sandeep Chaudhary | Mehangai"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c5Jna0pEDS4"
+        name: "Today's Headlines | 08 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-6hGZY7W8sM"
+        name: "Iranian missile attack on Israel ‘EXPOSES’ their military weakness: Ex-Pentagon official"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IqYaWDd2hkc"
+        name: "🔴LIVE :  CM Vijay | தமிழக மக்களுக்கு நற்செய்தி...அறிவித்தார்  CM விஜய் | TamilNadu | TN Govt | TVK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CvLjMcIG7JQ"
+        name: "🔴LIVE :  CM Vijay | CM விஜய்யின் மாஸ்டர் பிளான்.. செந்தில் பாலாஜிக்கு இடியை இறக்கிய ஆளுநர்"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tDzKuAJtTKs"
+        name: "Iran-US War LIVE: Iran Attacks US Warships | Iran Attacks US Fleet In Gulf Of Oman Amid Tensions"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A1ikN4UWV7Y"
+        name: "Who’s Ahead, Who’s Behind? GB Election Results Update | 12 AM GEO News Headlines (8th June 2026)"
         artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_McDvrGq0mM"
-        name: "Iran-US War News Update LIVE: ईरान को छोड़ आपस में भिड़ गए इजरायल-US, ट्रंप ने दे डाली चेतावनी!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "p1-5J8012Tg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Jun May 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oISHJDoyvSo"
-        name: "Khan Sir Coaching Centre Seal News LIVE: कोचिंग सेंटर सील कर देंगे खान सर?"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7bh2OueY4Kg"
-        name: "Khan Sir Surrender News LIVE: खान सर सरेंडर नहीं करेंगे | Bihar Police | Patna News | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yUJSXrlKiGY"
-        name: "Khan Sir Coaching Centre Seal News LIVE: खान सर पर 7 पुलिस के धमाकेदार खुलासे!, चौंके लोग!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qOkgHHr2sHY"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 07.06.2026 | Today News | Bangla News | Ajker News | ATN Bangla"
-        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-07T13:29:07.350Z"
+  exported_at: "2026-06-08T02:58:02.439Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-07T13:29:07.314Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-08T02:58:02.403Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
