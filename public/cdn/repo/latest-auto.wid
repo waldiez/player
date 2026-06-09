@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260609T093109.186Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260609T143552.409Z-l4t35t"
   type: "state"
-  created: "2026-06-09T09:31:09.186Z"
+  created: "2026-06-09T14:35:52.409Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260609T093109.186Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260609T143552.409Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SyUaOYdpbK8"
-        name: "Patna Civil Court on Khan Sir LIVE: खान सर के वकील का चौंकाने वाला बयान | Lawyer Arvind Kumar"
-        artist: "ABP NEWS"
+        videoId: "7GPEtVNP2-s"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (09.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "imFcEpIQqa0"
-        name: "🔴LIVE : முதலமைச்சருடன் அன்புமணி ராமதாஸ் சந்திப்பு | Anbumani meets CM Vijay | PMK"
-        artist: "NewsTamil 24X7"
+        videoId: "OOrxKBSMtOM"
+        name: "Marathi News LIVE | 9 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "80PIVSbvd-Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "y_o3qUQs0F0"
+        name: "Mamata Banerjee News LIVE | সই জালিয়াতিতে Kalighat এ মমতার বাড়ির সামনে CID | Bangla News"
+        artist: "News18 Bangla"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "exTRlbt-bsI"
-        name: "Patna Civil Court On Khan Sir LIVE: खान सर की रूक गई गिरफ्तारी | Gyan Bindu | Protest Update"
-        artist: "ABP NEWS"
+        videoId: "2ApTjVWA2Fc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "K3A-uiALJWY"
+        videoId: "1KT29OOwJnA"
+        name: "যমুনা নিউজ | Latest News Headline and Bulletin | Jamuna News | 4 PM | 09 June 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w2r4D4y9tkY"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 09 June 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-bBeNNFRJrI"
+        name: "New legislation! | Geo News Bulletin 3PM | 9th June 2026"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yMM4LVZR8iQ"
         name: "Bangla News Live BBC World News June 09, 2026 || World News Bangla || International News Today"
         artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l4rclXUQAsE"
-        name: "Khan Sir News Live: खान सर की गिरफ्तारी पर रोक, Patna जिला कोर्ट से मिली राहत | Breaking News"
-        artist: "News18 India"
+        videoId: "M1Rj5wTQfbM"
+        name: "🔴LIVE: CM vijay | Anbumani ramadoss | CM விஜய் கொடுத்த SURPRISE! அன்புமணி பரபரப்பு பிரஸ் மீட்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r3wmcRQm7gc"
-        name: "ABC News Live Prime: June 8, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YfVMfEiWCU0"
-        name: "Americans Expect Rise in Petroleum Prices | Geo News 8AM Headlines 09 June 2026"
-        artist: "Geo News"
+        videoId: "TQU-PPcy9xw"
+        name: "Iran Israel Us War Update Live : 09 June 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-09T09:31:09.186Z"
+  exported_at: "2026-06-09T14:35:52.409Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-09T09:31:09.157Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-09T14:35:52.374Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-09T09:31:09.157Z",
+    "generatedAt": "2026-06-09T14:35:52.374Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SyUaOYdpbK8",
-            "name": "Patna Civil Court on Khan Sir LIVE: खान सर के वकील का चौंकाने वाला बयान | Lawyer Arvind Kumar",
-            "artist": "ABP NEWS"
+            "videoId": "7GPEtVNP2-s",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (09.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "imFcEpIQqa0",
-            "name": "🔴LIVE : முதலமைச்சருடன் அன்புமணி ராமதாஸ் சந்திப்பு | Anbumani meets CM Vijay | PMK",
-            "artist": "NewsTamil 24X7"
+            "videoId": "OOrxKBSMtOM",
+            "name": "Marathi News LIVE | 9 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "80PIVSbvd-Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "y_o3qUQs0F0",
+            "name": "Mamata Banerjee News LIVE | সই জালিয়াতিতে Kalighat এ মমতার বাড়ির সামনে CID | Bangla News",
+            "artist": "News18 Bangla"
         },
         {
             "mood": "storm",
-            "videoId": "exTRlbt-bsI",
-            "name": "Patna Civil Court On Khan Sir LIVE: खान सर की रूक गई गिरफ्तारी | Gyan Bindu | Protest Update",
-            "artist": "ABP NEWS"
+            "videoId": "2ApTjVWA2Fc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CBC আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "K3A-uiALJWY",
+            "videoId": "1KT29OOwJnA",
+            "name": "যমুনা নিউজ | Latest News Headline and Bulletin | Jamuna News | 4 PM | 09 June 2026 | Jamuna TV",
+            "artist": "Jamuna TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w2r4D4y9tkY",
+            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 09 June 2026 | Jamuna TV",
+            "artist": "Jamuna TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-bBeNNFRJrI",
+            "name": "New legislation! | Geo News Bulletin 3PM | 9th June 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yMM4LVZR8iQ",
             "name": "Bangla News Live BBC World News June 09, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "l4rclXUQAsE",
-            "name": "Khan Sir News Live: खान सर की गिरफ्तारी पर रोक, Patna जिला कोर्ट से मिली राहत | Breaking News",
-            "artist": "News18 India"
+            "videoId": "M1Rj5wTQfbM",
+            "name": "🔴LIVE: CM vijay | Anbumani ramadoss | CM விஜய் கொடுத்த SURPRISE! அன்புமணி பரபரப்பு பிரஸ் மீட்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "r3wmcRQm7gc",
-            "name": "ABC News Live Prime: June 8, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YfVMfEiWCU0",
-            "name": "Americans Expect Rise in Petroleum Prices | Geo News 8AM Headlines 09 June 2026",
-            "artist": "Geo News"
+            "videoId": "TQU-PPcy9xw",
+            "name": "Iran Israel Us War Update Live : 09 June 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
