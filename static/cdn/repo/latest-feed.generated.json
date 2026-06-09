@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-09T02:35:42.045Z",
+    "generatedAt": "2026-06-09T09:31:09.157Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aEQB0waDMmY",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - June 8, 2026",
+            "videoId": "SyUaOYdpbK8",
+            "name": "Patna Civil Court on Khan Sir LIVE: खान सर के वकील का चौंकाने वाला बयान | Lawyer Arvind Kumar",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "imFcEpIQqa0",
+            "name": "🔴LIVE : முதலமைச்சருடன் அன்புமணி ராமதாஸ் சந்திப்பு | Anbumani meets CM Vijay | PMK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "80PIVSbvd-Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "exTRlbt-bsI",
+            "name": "Patna Civil Court On Khan Sir LIVE: खान सर की रूक गई गिरफ्तारी | Gyan Bindu | Protest Update",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "K3A-uiALJWY",
+            "name": "Bangla News Live BBC World News June 09, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l4rclXUQAsE",
+            "name": "Khan Sir News Live: खान सर की गिरफ्तारी पर रोक, Patna जिला कोर्ट से मिली राहत | Breaking News",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "r3wmcRQm7gc",
+            "name": "ABC News Live Prime: June 8, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "Tu2JxWXuSeA",
-            "name": "Today's Headlines | 09 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wyYXaeDh5rs",
-            "name": "Philippines Earthquake Live: 15 Dead As 7.8 Magnitude Quake Hits Mindanao, Tsunami Alert In Japan",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7gWs4l7yvNo",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - June 8_ 2026(1080P_HD)",
-            "artist": "ZooM music"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZHcmtTgiyjY",
-            "name": "LIVE: Massive Tsunami Threatens Philippines Following 7.8 Magnitude Deadly Earthquake",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8v4VmZruIqk",
-            "name": "Latest War Updates LIVE 🔴 Iran Fires Missiles At Israel | World News | Asianet News",
-            "artist": "Asianet News English"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3CMizT_Jvm4",
-            "name": "Today Headlines - 08 June 2026 | 10 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
-            "artist": "Polimer News"
+            "videoId": "YfVMfEiWCU0",
+            "name": "Americans Expect Rise in Petroleum Prices | Geo News 8AM Headlines 09 June 2026",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {

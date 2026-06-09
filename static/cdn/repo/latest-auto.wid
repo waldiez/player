@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260609T023542.078Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260609T093109.186Z-l4t35t"
   type: "state"
-  created: "2026-06-09T02:35:42.078Z"
+  created: "2026-06-09T09:31:09.186Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260609T023542.078Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260609T093109.186Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aEQB0waDMmY"
-        name: "ABC World News Tonight with David Muir Full Broadcast - June 8, 2026"
+        videoId: "SyUaOYdpbK8"
+        name: "Patna Civil Court on Khan Sir LIVE: खान सर के वकील का चौंकाने वाला बयान | Lawyer Arvind Kumar"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "imFcEpIQqa0"
+        name: "🔴LIVE : முதலமைச்சருடன் அன்புமணி ராமதாஸ் சந்திப்பு | Anbumani meets CM Vijay | PMK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "80PIVSbvd-Q"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "exTRlbt-bsI"
+        name: "Patna Civil Court On Khan Sir LIVE: खान सर की रूक गई गिरफ्तारी | Gyan Bindu | Protest Update"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K3A-uiALJWY"
+        name: "Bangla News Live BBC World News June 09, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l4rclXUQAsE"
+        name: "Khan Sir News Live: खान सर की गिरफ्तारी पर रोक, Patna जिला कोर्ट से मिली राहत | Breaking News"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "r3wmcRQm7gc"
+        name: "ABC News Live Prime: June 8, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tu2JxWXuSeA"
-        name: "Today's Headlines | 09 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wyYXaeDh5rs"
-        name: "Philippines Earthquake Live: 15 Dead As 7.8 Magnitude Quake Hits Mindanao, Tsunami Alert In Japan"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7gWs4l7yvNo"
-        name: "ABC World News Tonight with David Muir Full Broadcast - June 8_ 2026(1080P_HD)"
-        artist: "ZooM music"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZHcmtTgiyjY"
-        name: "LIVE: Massive Tsunami Threatens Philippines Following 7.8 Magnitude Deadly Earthquake"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8v4VmZruIqk"
-        name: "Latest War Updates LIVE 🔴 Iran Fires Missiles At Israel | World News | Asianet News"
-        artist: "Asianet News English"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3CMizT_Jvm4"
-        name: "Today Headlines - 08 June 2026 | 10 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
-        artist: "Polimer News"
+        videoId: "YfVMfEiWCU0"
+        name: "Americans Expect Rise in Petroleum Prices | Geo News 8AM Headlines 09 June 2026"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-09T02:35:42.078Z"
+  exported_at: "2026-06-09T09:31:09.186Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-09T02:35:42.045Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-09T09:31:09.157Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
