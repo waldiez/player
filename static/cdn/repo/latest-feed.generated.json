@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-09T14:35:52.374Z",
+    "generatedAt": "2026-06-09T20:00:43.658Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7GPEtVNP2-s",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (09.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "mNozvHP8qnk",
+            "name": "🔴LIVE: আন্তর্জাতিক  খবর  BBC World News 9 June (2026) || World News Bangla || International News",
+            "artist": "SOMOY TV 71"
         },
         {
             "mood": "storm",
-            "videoId": "OOrxKBSMtOM",
-            "name": "Marathi News LIVE | 9 June 2026 | Nashik Vidhan Parishad | Sharad Pawar News | NCP | Supriya Sule",
-            "artist": "News18 Marathi"
+            "videoId": "vNMRR92SO7c",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (09.06.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "y_o3qUQs0F0",
-            "name": "Mamata Banerjee News LIVE | সই জালিয়াতিতে Kalighat এ মমতার বাড়ির সামনে CID | Bangla News",
-            "artist": "News18 Bangla"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2ApTjVWA2Fc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CBC আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1KT29OOwJnA",
-            "name": "যমুনা নিউজ | Latest News Headline and Bulletin | Jamuna News | 4 PM | 09 June 2026 | Jamuna TV",
-            "artist": "Jamuna TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w2r4D4y9tkY",
-            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 09 June 2026 | Jamuna TV",
-            "artist": "Jamuna TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-bBeNNFRJrI",
-            "name": "New legislation! | Geo News Bulletin 3PM | 9th June 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yMM4LVZR8iQ",
-            "name": "Bangla News Live BBC World News June 09, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M1Rj5wTQfbM",
-            "name": "🔴LIVE: CM vijay | Anbumani ramadoss | CM விஜய் கொடுத்த SURPRISE! அன்புமணி பரபரப்பு பிரஸ் மீட்",
+            "videoId": "Y4iYImtN86g",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.06.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "TQU-PPcy9xw",
-            "name": "Iran Israel Us War Update Live : 09 June 2026 | Iran US War | Iran US Ceasefire | Trump | Lebanon",
-            "artist": "Times Now Navbharat"
+            "videoId": "hAshOgGPAm0",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NHYQfW8guCU",
+            "name": "🔴LIVE : சென்னையில் கொதித்தெழுந்த மக்கள்.. உச்சகட்ட பதற்றம் | Chennai Power Cut | Chennai Protest",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7h7gzcYN4jw",
+            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "h2D5ZXlU1QQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fZ6pVePEUrQ",
+            "name": "Donald Trump LIVE | US President Drops BOMBSHELL; Declares Emergency Warning In America | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
