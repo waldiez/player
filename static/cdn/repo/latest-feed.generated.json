@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-08T20:06:45.427Z",
+    "generatedAt": "2026-06-09T02:35:42.045Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "61dbOHz2qv8",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.06.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "aEQB0waDMmY",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 8, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "IowE8nVYJeI",
-            "name": "🔴LIVE :  Today Fast 100 News | 08 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TiCDRGveibI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "81wlbVdxdvU",
-            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k67dd04IVQQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mOmeihSGwMI",
-            "name": "Philippines Earthquake LIVE: 7.8 Magnitude Earthquake Hits Philippines, Three Dead | Tsunami Alert",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FqDhsyKgjYM",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.06.2026) | Sathiyam Headlines",
+            "videoId": "Tu2JxWXuSeA",
+            "name": "Today's Headlines | 09 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "2jxHHfn4AnI",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 08 June 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "wyYXaeDh5rs",
+            "name": "Philippines Earthquake Live: 15 Dead As 7.8 Magnitude Quake Hits Mindanao, Tsunami Alert In Japan",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7gWs4l7yvNo",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 8_ 2026(1080P_HD)",
+            "artist": "ZooM music"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZHcmtTgiyjY",
+            "name": "LIVE: Massive Tsunami Threatens Philippines Following 7.8 Magnitude Deadly Earthquake",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8v4VmZruIqk",
+            "name": "Latest War Updates LIVE 🔴 Iran Fires Missiles At Israel | World News | Asianet News",
+            "artist": "Asianet News English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3CMizT_Jvm4",
+            "name": "Today Headlines - 08 June 2026 | 10 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
+            "artist": "Polimer News"
         }
     ],
     "sourceFilters": {
