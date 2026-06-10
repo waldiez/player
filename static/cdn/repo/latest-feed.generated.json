@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-10T09:44:40.037Z",
+    "generatedAt": "2026-06-10T15:20:01.671Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "o1AJNkxeih8",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UwRoeO-VkdQ",
-            "name": "🔴 LIVE || US Attack on Iran - Trump's Reaction| US Helicopter Shot Down by Iran || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qe8o2_Z7leE",
-            "name": "Ajker Bangla Khobor 10 Jun 2026 | Bangladesh Latest News | Somoy Sangbad News | Bangla News Today",
-            "artist": "Dumuria News "
-        },
-        {
-            "mood": "storm",
-            "videoId": "jnmOyMqr-_c",
-            "name": "US Strikes Iran News LIVE: US Launches Strikes on Iran After Apache Helicopter Downed | Iran War",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MBjhHc-J5U8",
-            "name": "PoK Big Breaking News LIVE : PoK में बिछी लाशें! LIVE | Asim Munir | Pakistan | World News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7h7gzcYN4jw",
-            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kIanQO7F2do",
-            "name": "Today Headlines | 10 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fk3tDhDc-mQ",
-            "name": "Israel Attack on Iran: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Mojtaba | Hormuz",
+            "videoId": "qrH72UpzD0g",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 10 June",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "PXBvrxQwzKs",
-            "name": "Iran War News LIVE: US-Iran Ceasefire in Jeopardy? US, Israel Continues Attacks on Iran & Lebanon",
-            "artist": "India Today"
+            "videoId": "8aDc1Tfkh88",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xFvaJXRT70M",
+            "name": "🔴 LIVE: US Launches Defensive Strikes Against Iran | Middle East Tensions Escalate",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-HsYV7Xh_8w",
+            "name": "Thane OLA Controversy News LIVE | वृद्धाला मारहाण, मनसेचा खळ्ळखट्टाक | MNS News | Marathi News",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "h2vgAYQHR5Y",
+            "name": "Today Evening Headlines | 10 JUN 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nwxvLkcK9TY",
+            "name": "Mahadangal LIVE: नेहरू से आगे मोदी,टूट रहे विरोधी!| PM Modi | Jawaharlal Nehru | Longest Serving PM",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HSWl7BOBUsw",
+            "name": "আজকের আন্তর্জাতিক খবর | World News Today | ১০ জুন ২০২৬ | Latest News Bangla | Channel 24",
+            "artist": "Channel 24 Bulletin"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dVAb-jQHXRg",
+            "name": "Iran US War LIVE | Pentagon Gets Ready For World War 3 | US Attack On Iran Soon? |Trump | World News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {

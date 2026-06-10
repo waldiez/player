@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260610T094440.074Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260610T152001.712Z-l4t35t"
   type: "state"
-  created: "2026-06-10T09:44:40.074Z"
+  created: "2026-06-10T15:20:01.712Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260610T094440.074Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260610T152001.712Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "o1AJNkxeih8"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UwRoeO-VkdQ"
-        name: "🔴 LIVE || US Attack on Iran - Trump's Reaction| US Helicopter Shot Down by Iran || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qe8o2_Z7leE"
-        name: "Ajker Bangla Khobor 10 Jun 2026 | Bangladesh Latest News | Somoy Sangbad News | Bangla News Today"
-        artist: "Dumuria News "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jnmOyMqr-_c"
-        name: "US Strikes Iran News LIVE: US Launches Strikes on Iran After Apache Helicopter Downed | Iran War"
-        artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MBjhHc-J5U8"
-        name: "PoK Big Breaking News LIVE : PoK में बिछी लाशें! LIVE | Asim Munir | Pakistan | World News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7h7gzcYN4jw"
-        name: "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kIanQO7F2do"
-        name: "Today Headlines | 10 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fk3tDhDc-mQ"
-        name: "Israel Attack on Iran: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Mojtaba | Hormuz"
+        videoId: "qrH72UpzD0g"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 10 June"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PXBvrxQwzKs"
-        name: "Iran War News LIVE: US-Iran Ceasefire in Jeopardy? US, Israel Continues Attacks on Iran & Lebanon"
-        artist: "India Today"
+        videoId: "8aDc1Tfkh88"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xFvaJXRT70M"
+        name: "🔴 LIVE: US Launches Defensive Strikes Against Iran | Middle East Tensions Escalate"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-HsYV7Xh_8w"
+        name: "Thane OLA Controversy News LIVE | वृद्धाला मारहाण, मनसेचा खळ्ळखट्टाक | MNS News | Marathi News"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "h2vgAYQHR5Y"
+        name: "Today Evening Headlines | 10 JUN 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nwxvLkcK9TY"
+        name: "Mahadangal LIVE: नेहरू से आगे मोदी,टूट रहे विरोधी!| PM Modi | Jawaharlal Nehru | Longest Serving PM"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HSWl7BOBUsw"
+        name: "আজকের আন্তর্জাতিক খবর | World News Today | ১০ জুন ২০২৬ | Latest News Bangla | Channel 24"
+        artist: "Channel 24 Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dVAb-jQHXRg"
+        name: "Iran US War LIVE | Pentagon Gets Ready For World War 3 | US Attack On Iran Soon? |Trump | World News"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-10T09:44:40.074Z"
+  exported_at: "2026-06-10T15:20:01.712Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-10T09:44:40.037Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-10T15:20:01.671Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
