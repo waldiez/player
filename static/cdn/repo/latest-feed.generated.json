@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-10T15:20:01.671Z",
+    "generatedAt": "2026-06-10T20:21:57.441Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qrH72UpzD0g",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 10 June",
-            "artist": "ABP NEWS"
+            "videoId": "BPh6JGCevRk",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.06.2026) | 11 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "8aDc1Tfkh88",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xFvaJXRT70M",
-            "name": "🔴 LIVE: US Launches Defensive Strikes Against Iran | Middle East Tensions Escalate",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-HsYV7Xh_8w",
-            "name": "Thane OLA Controversy News LIVE | वृद्धाला मारहाण, मनसेचा खळ्ळखट्टाक | MNS News | Marathi News",
+            "videoId": "FirA5-L0mCQ",
+            "name": "Nashik MLC Election Breaking News LIVE | Gokul Gite यांच्यासोबत Girish Mahajan आणि सामंतांची बैठक",
             "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "h2vgAYQHR5Y",
-            "name": "Today Evening Headlines | 10 JUN 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
+            "videoId": "TDvjxgJl4qk",
+            "name": "🔴LIVE:  Bharathiraja Passed Away | | ஒட்டுமொத்த தமிழ் சினிமாவையும் உலுக்கிய மரணச் செய்தி",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "nwxvLkcK9TY",
-            "name": "Mahadangal LIVE: नेहरू से आगे मोदी,टूट रहे विरोधी!| PM Modi | Jawaharlal Nehru | Longest Serving PM",
-            "artist": "ABP NEWS"
+            "videoId": "XZYAD83eg-g",
+            "name": "🔴LIVE: Bharathiraja Passed Away | அந்த ஒரு சம்பவம் - இறக்கும் வலியால் துடித்த பாரதிராஜா",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "HSWl7BOBUsw",
-            "name": "আজকের আন্তর্জাতিক খবর | World News Today | ১০ জুন ২০২৬ | Latest News Bangla | Channel 24",
-            "artist": "Channel 24 Bulletin"
+            "videoId": "5jIjcvTfsXk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "dVAb-jQHXRg",
-            "name": "Iran US War LIVE | Pentagon Gets Ready For World War 3 | US Attack On Iran Soon? |Trump | World News",
-            "artist": "Times Now"
+            "videoId": "ysbQa_7-XVc",
+            "name": "🔴 LIVE: கோபத்தின் உச்சிக்கே சென்ற டிரம்ப் - ஈரானில் பேரழிவு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8_XYYIaGQSY",
+            "name": "LIVE with Dr. Shahid Masood | US–Iran Clashes: Middle East on Fire Again! | 10 June 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CZmLOz3_mw4",
+            "name": "Today Headlines | 10 Jun 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F7ICMtYzW_g",
+            "name": "সন্ধ্যার সংবাদ | সন্ধ্যা ৭টা | News 7PM | ১০  জুন ২০২৬ | News Bulletin | Latest Bangla News | NEWS24",
+            "artist": "NEWS24"
         }
     ],
     "sourceFilters": {
