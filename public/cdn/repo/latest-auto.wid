@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260609T200043.694Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260610T024932.114Z-l4t35t"
   type: "state"
-  created: "2026-06-09T20:00:43.694Z"
+  created: "2026-06-10T02:49:32.114Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260609T200043.694Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260610T024932.114Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mNozvHP8qnk"
-        name: "🔴LIVE: আন্তর্জাতিক  খবর  BBC World News 9 June (2026) || World News Bangla || International News"
-        artist: "SOMOY TV 71"
+        videoId: "ipj8Kjz5V1s"
+        name: "LIVE🔴 America has Launched Attacks on Iran! | US-Iran War Latest Update | Tension Escalation"
+        artist: "Dunya News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vNMRR92SO7c"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (09.06.2026) | 11 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Y4iYImtN86g"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.06.2026) | Sathiyam Headlines"
+        videoId: "1kiDUJMcL9g"
+        name: "Today's Headlines | 10 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hAshOgGPAm0"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
+        videoId: "SABTcVP9qPg"
+        name: "Live | Trump says US ‘must’ respond after Iran downed US Army helicopter near Strait of Hormuz"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NHYQfW8guCU"
-        name: "🔴LIVE : சென்னையில் கொதித்தெழுந்த மக்கள்.. உச்சகட்ட பதற்றம் | Chennai Power Cut | Chennai Protest"
-        artist: "NewsTamil 24X7"
+        videoId: "TsocQwn580I"
+        name: "Israeli airstrikes continue on Lebanon | 2 AM GEO News Headlines (10 June 26)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7h7gzcYN4jw"
-        name: "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD"
-        artist: "Times Now World"
+        videoId: "ytB5ppB-uXQ"
+        name: "Trump Says War Could End Soon | Is Peace Finally In Sight? | Iran Israel War News Today Live | N18L"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h2D5ZXlU1QQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "w_HyzCtzk8Q"
+        name: "LIVE | Trump's HORMUZ Revenge Starts As Iran Shoots Down US Chopper | US Bombards Iran | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fZ6pVePEUrQ"
-        name: "Donald Trump LIVE | US President Drops BOMBSHELL; Declares Emergency Warning In America | US News"
-        artist: "Times Now"
+        videoId: "PycsvseHXjs"
+        name: "US News LIVE: Ivanka Trump, Jared Kushner's Albania Resort Plan Sparks Massive Protests | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-09T20:00:43.694Z"
+  exported_at: "2026-06-10T02:49:32.114Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-09T20:00:43.658Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-10T02:49:32.083Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
