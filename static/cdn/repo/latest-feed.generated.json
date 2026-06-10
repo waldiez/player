@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-10T02:49:32.083Z",
+    "generatedAt": "2026-06-10T09:44:40.037Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ipj8Kjz5V1s",
-            "name": "LIVE🔴 America has Launched Attacks on Iran! | US-Iran War Latest Update | Tension Escalation",
-            "artist": "Dunya News"
+            "videoId": "o1AJNkxeih8",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "1kiDUJMcL9g",
-            "name": "Today's Headlines | 10 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "UwRoeO-VkdQ",
+            "name": "🔴 LIVE || US Attack on Iran - Trump's Reaction| US Helicopter Shot Down by Iran || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qe8o2_Z7leE",
+            "name": "Ajker Bangla Khobor 10 Jun 2026 | Bangladesh Latest News | Somoy Sangbad News | Bangla News Today",
+            "artist": "Dumuria News "
+        },
+        {
+            "mood": "storm",
+            "videoId": "jnmOyMqr-_c",
+            "name": "US Strikes Iran News LIVE: US Launches Strikes on Iran After Apache Helicopter Downed | Iran War",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MBjhHc-J5U8",
+            "name": "PoK Big Breaking News LIVE : PoK में बिछी लाशें! LIVE | Asim Munir | Pakistan | World News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7h7gzcYN4jw",
+            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kIanQO7F2do",
+            "name": "Today Headlines | 10 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "SABTcVP9qPg",
-            "name": "Live | Trump says US ‘must’ respond after Iran downed US Army helicopter near Strait of Hormuz",
-            "artist": "Geo News"
+            "videoId": "Fk3tDhDc-mQ",
+            "name": "Israel Attack on Iran: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Mojtaba | Hormuz",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TsocQwn580I",
-            "name": "Israeli airstrikes continue on Lebanon | 2 AM GEO News Headlines (10 June 26)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ytB5ppB-uXQ",
-            "name": "Trump Says War Could End Soon | Is Peace Finally In Sight? | Iran Israel War News Today Live | N18L",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w_HyzCtzk8Q",
-            "name": "LIVE | Trump's HORMUZ Revenge Starts As Iran Shoots Down US Chopper | US Bombards Iran | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PycsvseHXjs",
-            "name": "US News LIVE: Ivanka Trump, Jared Kushner's Albania Resort Plan Sparks Massive Protests | N18G",
-            "artist": "CNN-News18"
+            "videoId": "PXBvrxQwzKs",
+            "name": "Iran War News LIVE: US-Iran Ceasefire in Jeopardy? US, Israel Continues Attacks on Iran & Lebanon",
+            "artist": "India Today"
         }
     ],
     "sourceFilters": {
