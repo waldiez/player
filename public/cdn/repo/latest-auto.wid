@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260611T154341.640Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260611T201300.200Z-l4t35t"
   type: "state"
-  created: "2026-06-11T15:43:41.640Z"
+  created: "2026-06-11T20:13:00.200Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260611T154341.640Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260611T201300.200Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7YTiCBO_9vA"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        videoId: "bORY_WmEYgQ"
+        name: "Trump's Final Warning To Iran! | LIVE: US To Launch Massive Operation In Tehran Soon? | BREAKING"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iyk-xM2AMk4"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.06.2026) | 11 PM Headlines |Thanthi TV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cgZjhmvHq9U"
+        name: "Iran US War | Latest Updates | Today's Biggest News| ARY News 11 PM Headlines | 11 June 2026"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5HWCilqP0Es"
+        name: "Iran US War - Big News From UAE | 10PM Headlines Geo News (11 Jun 26)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UvP89LFNMlI"
+        name: "US IRAN NEWS LIVE: Emergency War Briefing STUNS The World — Is WW3 Closer Than Ever? | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3URndau6eRQ"
+        videoId: "HXuC6G8pxg4"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QTg9iyvtQYY"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (11.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "x0RbezH6_D4"
+        name: "US Iran War | Trump's Iran Gamble: From Truth Social To Strait of Hormuz | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x04Ft2R9mes"
-        name: "Nandu's World Family Absconding?: Nandu's World Couple Running From Police? | @SakshiTVPolitics"
+        videoId: "F2RH005HZrI"
+        name: "Iran US War - Big News From Saudia | 9PM Headlines Geo News (11 Jun 26)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mUmS0qCi9dg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5tsYV1FAQpE"
+        name: "LIVE : BIG Twist in Nandus World Couple Scam | Nandana | Madhukar | @SakshiTVPolitics"
         artist: "Sakshi TV Politics"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Mn9cVCrlo8Q"
-        name: "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 11 June 2026 | Rtv News"
-        artist: "Rtv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RVLjXD5ugO4"
-        name: "Marathi News Today LIVE | 11 June | Maharashtra Rain | CM Fadnavis | Maharashtra Politics | NCP"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-hiO4jatX8s"
-        name: "IRAN WAR LIVE | Nuclear War Imminent? U.S.-Iran Tensions Reach Dangerous New Level | Trump | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rNpHuxHbqmY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 june  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Global Frontier News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BKC5c6UJptc"
-        name: "TMC Merge in Congress: कांग्रेस में TMC का विलय होने वाला है? | Mamata Banerjee | Rahul Gandhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0A997i0k_RU"
-        name: "🔴LIVE: Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (11.06.2026) | 4 PM Headlines |Thanthi TV"
-        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-11T15:43:41.640Z"
+  exported_at: "2026-06-11T20:13:00.200Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-11T15:43:41.601Z"
+  source_generated_at: "2026-06-11T20:13:00.161Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
