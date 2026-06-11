@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-11T02:59:07.209Z",
+    "generatedAt": "2026-06-11T10:13:32.525Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XLU1tHwLAJo",
-            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West — Is the World Heading Toward WW3?",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ohCf_E0-MuA",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - June 10, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zYGmdXhuYng",
-            "name": "Sandeep Chaudhary LIVE: खाद की पड़ेगी मार, किसान लाचार!  Farmer | Fertilizer Price | Middle East War",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_IMDS82nV1g",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran | US-Iran LIVE | White House",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zGb1E5q1uaM",
-            "name": "Seedha Sawal LIVE: खाड़ी में फिर घमासान...कब निकलेगा समाधान? | US Iran War | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ns2QWiOOO0Y",
-            "name": "Today's Headlines | 11 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "svtVOp0A87g",
+            "videoId": "1NETZTR8YEg",
             "name": "Trump LIVE: Trump SHOCKS World With New Iran War Declaration | 'Will Bomb Today To Avenge...'",
             "artist": "Times Of India"
         },
         {
             "mood": "storm",
-            "videoId": "4UsYlF2cMBQ",
-            "name": "US STRIKES: Blasts reportedly heard near Strait of Hormuz and western Tehran",
-            "artist": "Fox News"
+            "videoId": "TLM1KGOQipo",
+            "name": "US IRAN WAR LIVE: Iran Launches Missile Strike on Jordan Bases | U.S Bases Under Attack? |US Vs Iran",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "GZIwBX1qOQQ",
-            "name": "Belfast LIVE: Ambulances Burn as Police Use Water Cannons Against Protesters | APT",
-            "artist": "APT"
+            "videoId": "gx1A3Wgfmvc",
+            "name": "TMC Leaders Resign News: TMC से होने लगे धड़ाधड़ इस्तीफे, ममता के उड़े होश! | Mamata",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MKK8YPuNv7Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS245"
+            "videoId": "IuFKdVmGivc",
+            "name": "🔴LIVE : US IRAN War - Major Airstrikes Reported - Situation Worsens Rapidly - Exclusive Live Update",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1WDzlYnpvZc",
+            "name": "Marathi News Today LIVE | 11 June | CJP Pune Protest | Navneet Rana | Maharashtra Politics",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "V_tk4Y1DTN8",
+            "name": "Today's Morning News Live : सुबह की ताजा खबरें | Iran Israel War Update | Congress | PM Modi |IMD",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Nw2CihCx_Zc",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 11.06.2026 | Budget News | Fifa World Cup 2026 | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
