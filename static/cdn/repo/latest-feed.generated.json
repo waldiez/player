@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-10T20:21:57.441Z",
+    "generatedAt": "2026-06-11T02:59:07.209Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BPh6JGCevRk",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (10.06.2026) | 11 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "XLU1tHwLAJo",
+            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West — Is the World Heading Toward WW3?",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "FirA5-L0mCQ",
-            "name": "Nashik MLC Election Breaking News LIVE | Gokul Gite यांच्यासोबत Girish Mahajan आणि सामंतांची बैठक",
-            "artist": "News18 Marathi"
+            "videoId": "ohCf_E0-MuA",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 10, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "TDvjxgJl4qk",
-            "name": "🔴LIVE:  Bharathiraja Passed Away | | ஒட்டுமொத்த தமிழ் சினிமாவையும் உலுக்கிய மரணச் செய்தி",
+            "videoId": "zYGmdXhuYng",
+            "name": "Sandeep Chaudhary LIVE: खाद की पड़ेगी मार, किसान लाचार!  Farmer | Fertilizer Price | Middle East War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_IMDS82nV1g",
+            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran | US-Iran LIVE | White House",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zGb1E5q1uaM",
+            "name": "Seedha Sawal LIVE: खाड़ी में फिर घमासान...कब निकलेगा समाधान? | US Iran War | ABP News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ns2QWiOOO0Y",
+            "name": "Today's Headlines | 11 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "XZYAD83eg-g",
-            "name": "🔴LIVE: Bharathiraja Passed Away | அந்த ஒரு சம்பவம் - இறக்கும் வலியால் துடித்த பாரதிராஜா",
-            "artist": "Sathiyam News"
+            "videoId": "svtVOp0A87g",
+            "name": "Trump LIVE: Trump SHOCKS World With New Iran War Declaration | 'Will Bomb Today To Avenge...'",
+            "artist": "Times Of India"
         },
         {
             "mood": "storm",
-            "videoId": "5jIjcvTfsXk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.06.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "4UsYlF2cMBQ",
+            "name": "US STRIKES: Blasts reportedly heard near Strait of Hormuz and western Tehran",
+            "artist": "Fox News"
         },
         {
             "mood": "storm",
-            "videoId": "ysbQa_7-XVc",
-            "name": "🔴 LIVE: கோபத்தின் உச்சிக்கே சென்ற டிரம்ப் - ஈரானில் பேரழிவு",
-            "artist": "Sathiyam News"
+            "videoId": "GZIwBX1qOQQ",
+            "name": "Belfast LIVE: Ambulances Burn as Police Use Water Cannons Against Protesters | APT",
+            "artist": "APT"
         },
         {
             "mood": "storm",
-            "videoId": "8_XYYIaGQSY",
-            "name": "LIVE with Dr. Shahid Masood | US–Iran Clashes: Middle East on Fire Again! | 10 June 2026 | GNN",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CZmLOz3_mw4",
-            "name": "Today Headlines | 10 Jun 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F7ICMtYzW_g",
-            "name": "সন্ধ্যার সংবাদ | সন্ধ্যা ৭টা | News 7PM | ১০  জুন ২০২৬ | News Bulletin | Latest Bangla News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "MKK8YPuNv7Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS245"
         }
     ],
     "sourceFilters": {
