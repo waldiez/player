@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-11T20:13:00.161Z",
+    "generatedAt": "2026-06-12T02:56:16.654Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "bORY_WmEYgQ",
-            "name": "Trump's Final Warning To Iran! | LIVE: US To Launch Massive Operation In Tehran Soon? | BREAKING",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iyk-xM2AMk4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.06.2026) | 11 PM Headlines |Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cgZjhmvHq9U",
-            "name": "Iran US War | Latest Updates | Today's Biggest News| ARY News 11 PM Headlines | 11 June 2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5HWCilqP0Es",
-            "name": "Iran US War - Big News From UAE | 10PM Headlines Geo News (11 Jun 26)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UvP89LFNMlI",
-            "name": "US IRAN NEWS LIVE: Emergency War Briefing STUNS The World — Is WW3 Closer Than Ever? | US News",
+            "videoId": "4bPYiGaRgTE",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "HXuC6G8pxg4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "sQheSmlIj4I",
+            "name": "FIFA World Cup 2026 News LIVE | World Cup Fever Grips Mexico As Fans Gather for Opening Match",
+            "artist": "Mint"
         },
         {
             "mood": "storm",
-            "videoId": "x0RbezH6_D4",
-            "name": "US Iran War | Trump's Iran Gamble: From Truth Social To Strait of Hormuz | Vantage on Firstpost",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F2RH005HZrI",
-            "name": "Iran US War - Big News From Saudia | 9PM Headlines Geo News (11 Jun 26)",
+            "videoId": "S3MKpUtO0XA",
+            "name": "Iran war live: Trump threatens to hit Iran ‘very hard’ tonight | Iran US War Updates",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "mUmS0qCi9dg",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.06.2026) | Sathiyam Headlines",
+            "videoId": "9y5hc2hTXYw",
+            "name": "US-IRAN WAR LIVE: Iran Declares Emergency Lockdown After Trump’s Strike Threat — Tehran on Edge",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tN0YwpuUs3Q",
+            "name": "Sandeep Chaudhary LIVE: राम-राम जपना..मंदिर का दान अपना! | Ram Mandir Donation Scam | Akhilesh Yadav",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "K5bcJfoB2Tw",
+            "name": "US Iran War News Live : Hormuz से ट्रंप का दावा- 200 जहाज और 10 करोड़ बैरल तेल सुरक्षित निकला",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PbsoIXyBgy4",
+            "name": "US-Iran War LIVE: Trump Warns of  Major US Strikes on Iran Tonight | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t83RAqRD3PI",
+            "name": "‘The Five’: Trump's latest news on Iran...",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b7hl7bbGMeg",
+            "name": "Today's Headlines | 12 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "5tsYV1FAQpE",
-            "name": "LIVE : BIG Twist in Nandus World Couple Scam | Nandana | Madhukar | @SakshiTVPolitics",
-            "artist": "Sakshi TV Politics"
+            "videoId": "R02egjcxpUw",
+            "name": "LIVE: Fans watch opening World Cup match in Mexico",
+            "artist": "Reuters"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0ce0q8bGm3w",
+            "name": "Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase | Trump Big Announcement",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UV8k1B6ypRA",
+            "name": "President Trump signs a proclamation in the Oval Office: LIVE",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260611T201300.200Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260612T025616.687Z-l4t35t"
   type: "state"
-  created: "2026-06-11T20:13:00.200Z"
+  created: "2026-06-12T02:56:16.687Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260611T201300.200Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260612T025616.687Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "bORY_WmEYgQ"
-        name: "Trump's Final Warning To Iran! | LIVE: US To Launch Massive Operation In Tehran Soon? | BREAKING"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iyk-xM2AMk4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (11.06.2026) | 11 PM Headlines |Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cgZjhmvHq9U"
-        name: "Iran US War | Latest Updates | Today's Biggest News| ARY News 11 PM Headlines | 11 June 2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5HWCilqP0Es"
-        name: "Iran US War - Big News From UAE | 10PM Headlines Geo News (11 Jun 26)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UvP89LFNMlI"
-        name: "US IRAN NEWS LIVE: Emergency War Briefing STUNS The World — Is WW3 Closer Than Ever? | US News"
+        videoId: "4bPYiGaRgTE"
+        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HXuC6G8pxg4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "sQheSmlIj4I"
+        name: "FIFA World Cup 2026 News LIVE | World Cup Fever Grips Mexico As Fans Gather for Opening Match"
+        artist: "Mint"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x0RbezH6_D4"
-        name: "US Iran War | Trump's Iran Gamble: From Truth Social To Strait of Hormuz | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F2RH005HZrI"
-        name: "Iran US War - Big News From Saudia | 9PM Headlines Geo News (11 Jun 26)"
+        videoId: "S3MKpUtO0XA"
+        name: "Iran war live: Trump threatens to hit Iran ‘very hard’ tonight | Iran US War Updates"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mUmS0qCi9dg"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.06.2026) | Sathiyam Headlines"
+        videoId: "9y5hc2hTXYw"
+        name: "US-IRAN WAR LIVE: Iran Declares Emergency Lockdown After Trump’s Strike Threat — Tehran on Edge"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tN0YwpuUs3Q"
+        name: "Sandeep Chaudhary LIVE: राम-राम जपना..मंदिर का दान अपना! | Ram Mandir Donation Scam | Akhilesh Yadav"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K5bcJfoB2Tw"
+        name: "US Iran War News Live : Hormuz से ट्रंप का दावा- 200 जहाज और 10 करोड़ बैरल तेल सुरक्षित निकला"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PbsoIXyBgy4"
+        name: "US-Iran War LIVE: Trump Warns of  Major US Strikes on Iran Tonight | WION"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t83RAqRD3PI"
+        name: "‘The Five’: Trump's latest news on Iran..."
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b7hl7bbGMeg"
+        name: "Today's Headlines | 12 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5tsYV1FAQpE"
-        name: "LIVE : BIG Twist in Nandus World Couple Scam | Nandana | Madhukar | @SakshiTVPolitics"
-        artist: "Sakshi TV Politics"
+        videoId: "R02egjcxpUw"
+        name: "LIVE: Fans watch opening World Cup match in Mexico"
+        artist: "Reuters"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0ce0q8bGm3w"
+        name: "Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase | Trump Big Announcement"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UV8k1B6ypRA"
+        name: "President Trump signs a proclamation in the Oval Office: LIVE"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-11T20:13:00.200Z"
+  exported_at: "2026-06-12T02:56:16.687Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-11T20:13:00.161Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-12T02:56:16.654Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
