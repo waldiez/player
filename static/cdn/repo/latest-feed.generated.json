@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-12T14:44:59.037Z",
+    "generatedAt": "2026-06-12T20:01:24.203Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eWoL2XcIjHM",
-            "name": "US News LIVE: Trump Claims Iran War Is Over, Says Deal Approved As Planned Strikes Are Cancelled",
-            "artist": "Hindustan Times"
+            "videoId": "JrfQTb6xs-s",
+            "name": "🔴LIVE: Political Announcement | Raghava lawrence | LIVE-ல் அறிவித்தார் ராகவா லாரன்ஸ்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "-fFBv99U8qk",
-            "name": "Aaj Ki Taaza Khabar LIVE: 12 June 2026 | Khan Sir Coaching | TMC | PM Modi | Kalyan Banerjee",
-            "artist": "NDTV India"
+            "videoId": "B-DGsvvlu9c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "Q-02qdv5Cd4",
-            "name": "🔴LIVE: Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (12.06.2026) | 5 PM Headlines |Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "ztxTtw-546c",
+            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "1wamxVqhKGQ",
-            "name": "Donald Trump Speech LIVE | TRUMP SHOCKS WORLD NO MERCY | Trump Latest News LIVE | WORLD",
-            "artist": "Times Now"
+            "videoId": "UE0LWZOfGKA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ppfxbQYKtkw",
-            "name": "🔴LIVE: Today Headlines | மதியம 2 மணி தலைப்புச் செய்திகள் (12.06.2026) | 2 PM Headlines |ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "zoHHpG6CLNc",
+            "name": "US-IRAN WAR LIVE: Iran Declares Emergency Lockdown After Trump’s Strike Threat — Tehran on Edge",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "gZ-6PRLtxpY",
-            "name": "🔴LIVE :  Today Fast 100 News | 12 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK",
-            "artist": "NewsTamil 24X7"
+            "videoId": "GV3IROJBVJk",
+            "name": "DECODE Live: Sudhir Chaudhary | Mamata FIR | TMC Rebel MP | Jaishankar Europe| Trump Iran War Attack",
+            "artist": "DD News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N20FgbCB_QI",
+            "name": "🔴 FIFA WORLD CUP LIVE | Fans Await Canada Vs Bosnia Knockout Match | MEXICO STADIUM | FIFA 2026",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "u-1D5bJYPxI",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 12 June 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ok93WL41GwI",
+            "name": "Apla Maharashtra LIVE | आपला महाराष्ट्र | Tukaram Mundhe | Pranit More Controversy | Marathi News",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZUPQYKzLFTU",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 13 June'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
