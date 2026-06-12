@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260612T100111.399Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260612T144459.075Z-l4t35t"
   type: "state"
-  created: "2026-06-12T10:01:11.399Z"
+  created: "2026-06-12T14:44:59.075Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260612T100111.399Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260612T144459.075Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,27 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8ivPyKcnyLE"
-        name: "Marathi News Today LIVE | 12 June | Rain Alert News | Sunetra Pawar News | Maharashtra Politics"
-        artist: "News18 Marathi"
+        videoId: "eWoL2XcIjHM"
+        name: "US News LIVE: Trump Claims Iran War Is Over, Says Deal Approved As Planned Strikes Are Cancelled"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BfnuxkoCUrQ"
-        name: "🔴 FIFA WORLD CUP LIVE: South Korea vs Czech Republic | FIFA World Cup"
-        artist: "Firstpost"
+        videoId: "-fFBv99U8qk"
+        name: "Aaj Ki Taaza Khabar LIVE: 12 June 2026 | Khan Sir Coaching | TMC | PM Modi | Kalyan Banerjee"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8PH83BzntRk"
-        name: "Bangla News Live BBC World News June 12, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "Q-02qdv5Cd4"
+        name: "🔴LIVE: Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (12.06.2026) | 5 PM Headlines |Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n5IkcGp8B-E"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (12.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "1wamxVqhKGQ"
+        name: "Donald Trump Speech LIVE | TRUMP SHOCKS WORLD NO MERCY | Trump Latest News LIVE | WORLD"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ppfxbQYKtkw"
+        name: "🔴LIVE: Today Headlines | மதியம 2 மணி தலைப்புச் செய்திகள் (12.06.2026) | 2 PM Headlines |ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gZ-6PRLtxpY"
+        name: "🔴LIVE :  Today Fast 100 News | 12 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK"
+        artist: "NewsTamil 24X7"
         chapter: null
   moodCustomizations:
     {}
@@ -84,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-12T10:01:11.399Z"
+  exported_at: "2026-06-12T14:44:59.075Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-12T10:01:11.363Z"
-  validation: "validation enabled: accepted 4/4 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-12T14:44:59.037Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

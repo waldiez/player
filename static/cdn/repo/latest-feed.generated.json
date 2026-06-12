@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-12T10:01:11.363Z",
+    "generatedAt": "2026-06-12T14:44:59.037Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8ivPyKcnyLE",
-            "name": "Marathi News Today LIVE | 12 June | Rain Alert News | Sunetra Pawar News | Maharashtra Politics",
-            "artist": "News18 Marathi"
+            "videoId": "eWoL2XcIjHM",
+            "name": "US News LIVE: Trump Claims Iran War Is Over, Says Deal Approved As Planned Strikes Are Cancelled",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "BfnuxkoCUrQ",
-            "name": "🔴 FIFA WORLD CUP LIVE: South Korea vs Czech Republic | FIFA World Cup",
-            "artist": "Firstpost"
+            "videoId": "-fFBv99U8qk",
+            "name": "Aaj Ki Taaza Khabar LIVE: 12 June 2026 | Khan Sir Coaching | TMC | PM Modi | Kalyan Banerjee",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "8PH83BzntRk",
-            "name": "Bangla News Live BBC World News June 12, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "Q-02qdv5Cd4",
+            "name": "🔴LIVE: Today Headlines | மாலை 5 மணி தலைப்புச் செய்திகள் (12.06.2026) | 5 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "n5IkcGp8B-E",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (12.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "1wamxVqhKGQ",
+            "name": "Donald Trump Speech LIVE | TRUMP SHOCKS WORLD NO MERCY | Trump Latest News LIVE | WORLD",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ppfxbQYKtkw",
+            "name": "🔴LIVE: Today Headlines | மதியம 2 மணி தலைப்புச் செய்திகள் (12.06.2026) | 2 PM Headlines |ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gZ-6PRLtxpY",
+            "name": "🔴LIVE :  Today Fast 100 News | 12 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK",
+            "artist": "NewsTamil 24X7"
         }
     ],
     "sourceFilters": {
