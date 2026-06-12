@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-12T02:56:16.654Z",
+    "generatedAt": "2026-06-12T10:01:11.363Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4bPYiGaRgTE",
-            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "8ivPyKcnyLE",
+            "name": "Marathi News Today LIVE | 12 June | Rain Alert News | Sunetra Pawar News | Maharashtra Politics",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "sQheSmlIj4I",
-            "name": "FIFA World Cup 2026 News LIVE | World Cup Fever Grips Mexico As Fans Gather for Opening Match",
-            "artist": "Mint"
+            "videoId": "BfnuxkoCUrQ",
+            "name": "🔴 FIFA WORLD CUP LIVE: South Korea vs Czech Republic | FIFA World Cup",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "S3MKpUtO0XA",
-            "name": "Iran war live: Trump threatens to hit Iran ‘very hard’ tonight | Iran US War Updates",
-            "artist": "Geo News"
+            "videoId": "8PH83BzntRk",
+            "name": "Bangla News Live BBC World News June 12, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "9y5hc2hTXYw",
-            "name": "US-IRAN WAR LIVE: Iran Declares Emergency Lockdown After Trump’s Strike Threat — Tehran on Edge",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tN0YwpuUs3Q",
-            "name": "Sandeep Chaudhary LIVE: राम-राम जपना..मंदिर का दान अपना! | Ram Mandir Donation Scam | Akhilesh Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "K5bcJfoB2Tw",
-            "name": "US Iran War News Live : Hormuz से ट्रंप का दावा- 200 जहाज और 10 करोड़ बैरल तेल सुरक्षित निकला",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PbsoIXyBgy4",
-            "name": "US-Iran War LIVE: Trump Warns of  Major US Strikes on Iran Tonight | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t83RAqRD3PI",
-            "name": "‘The Five’: Trump's latest news on Iran...",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b7hl7bbGMeg",
-            "name": "Today's Headlines | 12 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R02egjcxpUw",
-            "name": "LIVE: Fans watch opening World Cup match in Mexico",
-            "artist": "Reuters"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0ce0q8bGm3w",
-            "name": "Iran War Live Updates: U.S.-Iran Strikes Risk Dangerous New Phase | Trump Big Announcement",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UV8k1B6ypRA",
-            "name": "President Trump signs a proclamation in the Oval Office: LIVE",
-            "artist": "ABC News"
+            "videoId": "n5IkcGp8B-E",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (12.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {
