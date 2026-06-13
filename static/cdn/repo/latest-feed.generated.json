@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-13T13:46:22.533Z",
+    "generatedAt": "2026-06-13T19:15:40.447Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DXyJQfpa_q0",
-            "name": "LIVE: Jahnavi Missing Latest Updates | Kakinada | చిన్నారి మిస్సయిన చోట నక్కలు? |ZEE Telugu News",
-            "artist": "Zee Telugu News"
+            "videoId": "wR1Mspxk9d4",
+            "name": "🔴LIVE: CM Vijay | TVK | CM விஜயின் அடுத்த அதிரடி சம்பவம் - இன்சைட் நியூஸ்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "y6hfP4wJztE",
-            "name": "Breaking News LIVE | Trump Announces Bold New Iran Strategy as Peace Deal Nears Reality | WORLD NEWS",
-            "artist": "Times Now"
+            "videoId": "HDi1hMPXrFs",
+            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "fdAtR09Jy6g",
-            "name": "Chhagan Bhujbal News LIVE | अर्थखात्यावरून भुजबळ काय म्हणाले? | Marathi News | NCP | Ajit Pawar News",
-            "artist": "News18 Marathi"
+            "videoId": "ScOGgbuRt74",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: ममता के भतीजे के घर आधी रात एक्शन Mamata Banerjee",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "nmsBqTPDSF4",
-            "name": "🔴 LIVE || Iran halts latest military operation against Israel, tensions remain high || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "CcY1HZi7Sxs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "HlHd8lGVPFE",
-            "name": "IAF AN-32 Aircraft Crash News LIVE: अहमदाबाद के बाद असम में प्लेन क्रैश, 5 जवान शहीद, मची खलबली!",
+            "videoId": "ssqWbxz9A64",
+            "name": "US-Iran War LIVE: Iran Tensions EXPLODE as Trump Says “Deal Near” — Iran Fires Back HARD | WION Live",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cNLjq-6kK5I",
+            "name": "US Iran War LIVE: Pakistan PM Says US Iran Peace Deal Text is Finalized | Iran War to End Soon?",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IGG-oEUp7MQ",
+            "name": "Indian Ship Attacked in Hormuz News LIVE: अमेरिका को भारत की दो टूक, कुछ बड़ा होने वाला है! | India",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "cdV-_4aqL04",
-            "name": "Indian Ship Attacked in Hormuz News LIVE: ईरान ने किया भारतीय.जहाज पर अटैक, ट्रंप के दावे से हड़कंप!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vpOKSJ6ZOIs",
-            "name": "🔴LIVE: PM Shehbaz Sharif Says US–Iran Peace Deal Text Agreed | Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lW_CcQp2HME",
-            "name": "Plane Crash News LIVE: असम के जोरहाट में भारतीय वायुसेना का प्लेन क्रैश | Jorhat Airbase",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ughHIwH1xJ4",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (13.06.2026) | 2 PM Headlines |Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "cZqb1X3yAfE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "MonirTimesGlobal"
         }
     ],
     "sourceFilters": {
