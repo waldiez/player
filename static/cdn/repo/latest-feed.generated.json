@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-12T20:01:24.203Z",
+    "generatedAt": "2026-06-13T02:48:46.665Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JrfQTb6xs-s",
-            "name": "🔴LIVE: Political Announcement | Raghava lawrence | LIVE-ல் அறிவித்தார் ராகவா லாரன்ஸ்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B-DGsvvlu9c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ztxTtw-546c",
-            "name": "BREAKING NEWS LIVE: Russia Declares World War 3, West On High Alert LIVE | TIMES NOW WORLD",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UE0LWZOfGKA",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.06.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zoHHpG6CLNc",
-            "name": "US-IRAN WAR LIVE: Iran Declares Emergency Lockdown After Trump’s Strike Threat — Tehran on Edge",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GV3IROJBVJk",
-            "name": "DECODE Live: Sudhir Chaudhary | Mamata FIR | TMC Rebel MP | Jaishankar Europe| Trump Iran War Attack",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N20FgbCB_QI",
-            "name": "🔴 FIFA WORLD CUP LIVE | Fans Await Canada Vs Bosnia Knockout Match | MEXICO STADIUM | FIFA 2026",
+            "videoId": "2topofIVUZs",
+            "name": "🔴FIFA WORLD CUP 2026 LIVE: Canada vs Bosnia and Herzegovina | Countdown Begins",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "u-1D5bJYPxI",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 12 June 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "h4kb7FkayC0",
+            "name": "Heavy Rain and Winds | Latest Weather Update | 5 AM GEO News Headlines (13 June 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "ok93WL41GwI",
-            "name": "Apla Maharashtra LIVE | आपला महाराष्ट्र | Tukaram Mundhe | Pranit More Controversy | Marathi News",
-            "artist": "News18 Marathi"
+            "videoId": "ATB2Q3lsj30",
+            "name": "Today's Headlines | 13 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ZUPQYKzLFTU",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 13 June'2026 || World News Bangla || International News Today",
-            "artist": "Desh tv 71"
+            "videoId": "zGFzs8SVOQY",
+            "name": "Budget 2026-27 Update| Petrol Price in Pakistan | ARY News 02 AM Headlines | 13th June 26",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "v7KpmqkgItw",
+            "name": "🔴 LIVE: Petrol Price Drop in Pakistan | Good News! Petrol Becomes Cheaper | New Price Update",
+            "artist": "Express News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jQvAARJIb-8",
+            "name": "ABC World News Tonight with David Muir – Full Episode June. 12 th_ 2026(1080P_HD)",
+            "artist": "ZooM music"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w8YJNB6K4zY",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.06.2026) | 11 PM Headlines |Thanthi TV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Iy8zlnbBCFo",
+            "name": "US News LIVE | Trump Shocks Entire Nation With Bombshell Announcement | Trump LIVE | White House",
+            "artist": "Mint"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FxJM0YOhyns",
+            "name": "Iran Warns Of \"Severe Response\" To Any New U.S. Attack | Iran U.S. War News LIVE Updates | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9wXnmeMYm2I",
+            "name": "FIFA World Cup takes over the city | CTV News Toronto Noon June 12, 2026",
+            "artist": "CP24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vhRkuzxr-q8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 june  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Global Frontier News"
         }
     ],
     "sourceFilters": {
