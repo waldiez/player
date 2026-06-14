@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-14T09:23:30.997Z",
+    "generatedAt": "2026-06-14T13:49:02.355Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rtcz48xUZUM",
-            "name": "Donald Trump Speech LIVE | TRUMP SHOCKS WORLD NO MERCY | Trump Latest News LIVE | WORLD",
-            "artist": "Times Now"
+            "videoId": "nsPwLGzntog",
+            "name": "Indian Ship Attacked News LIVE: ईरान-अमेरिका की डील से पहले ट्रंप को बड़ा झटका! | Hormuz",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "QAybIescmRI",
-            "name": "BJP Leader Murder News LIVE: देहरादून में हिन्दू युवक की हत्या के बाद बवाल  | Vinod Kashyap",
+            "videoId": "dNn7nC-e08Q",
+            "name": "Mahadangal With Romana Isar Khan LIVE: विपक्ष में लड़ाई 29 में कैसे चढ़ाई ? | Bengal | Maharashtra",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P7jJ1aS5VaA",
+            "name": "Shiv Sena UBT News LIVE | ठाकरेंचे खासदार नॉट रिचेबल | Uddhav Thackeray News | Aaditya Thackeray",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GI8R-mGCAg8",
+            "name": "Bengal News LIVE:स्कूल में मिला करोड़ों का कैश! Mamata | TMC | Congress | TMC | NDTV India",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "qqPF4DKRL6o",
-            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode",
-            "artist": "MIRROR NOW"
+            "videoId": "HmmZ05jIoJI",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.06.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "UhSOvmgz7fo",
-            "name": "Latest News Live: Danapur News | PM Modi Visit France | Mamata TMC Crisis | Uddhav | Iran US War",
-            "artist": "IndiaTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ho6gJybiZyE",
-            "name": "🔴FIFA World Cup 2026 LIVE: Brazil vs Morocco Match LIVE at MetLife Stadium | Vini Jr | Hakimi",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FtpaShT2RkE",
-            "name": "Latest News Live  | ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ |Today Punjabi News | Chandigarh Murder | CM Mann | PM",
-            "artist": "News18 Punjab"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G3ZdGh-beEk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS WALD BD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IJ_LpRVqkeY",
-            "name": "Mamata MP's Join BJP?, News LIVE: ममता को अबतक का सबसे बड़ा झटका!, बागी सांसद का BJP को समर्थन?",
+            "videoId": "jW86E2sBh7s",
+            "name": "Maharashtra Crisis News LIVE:बंगाल के बाद महाराष्ट्र में खेला!, उद्धव के सांसद शिंदे गुट में शामिल?",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "DsWKU41_094",
-            "name": "BJP Leader Murder News LIVE: सुबह-सुबह बीजेपी नेता की हत्या, मचा बवाल! | Dehradun | Vinod | Police",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "COzKOlSpYLI",
-            "name": "Iran Israel War News LIVE: चंद सेकेंड में ईरान ने उड़ा दिया ट्रंप का खतरनाक हेलीकॉप्टर!, मची खलबली!",
-            "artist": "ABP NEWS"
+            "videoId": "0Qbh6EritTs",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 14.06.2026 | Today News | BD News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
