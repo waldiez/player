@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-15T11:52:22.107Z",
+    "generatedAt": "2026-06-15T17:06:11.615Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "caE7bg9dyqo",
-            "name": "3 PM Gujarati News LIVE | 3 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "K_6JlUrVINU",
+            "name": "US, Iran Reach Ceasefire Deal, But Questions Over Peace Remain | US IRAN WAR LIVE",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "YkJzByb6zKY",
-            "name": "LIVE: Kakinada Jahnavi  Missing Case Latest Updates | కుక్క తలపై కర్రతో కొట్టిన దెబ్బలు| ZEE  News",
-            "artist": "Zee Telugu News"
+            "videoId": "CU-e-mJ_mYw",
+            "name": "BREAKING NEWS LIVE | President Trump Delivers Emergency Announcement from the White House | TRUMP",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "HeNYx_wfeaM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS245"
+            "videoId": "6t2SCZq8yGE",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (15.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "aMHQ-LUgLic",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.06.2026)| 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "qFFuTzcWHb8",
+            "name": "🔴 LIVE: Iran Foreign Ministry Spokesman Esmaeil Baghaei Press Conference | Latest Updates",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "F2C1gvDUd0U",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 15.06.2026 | Morning News | World Cup News | Breaking News",
-            "artist": "ATN Bangla News"
+            "videoId": "TJd7fDBBTTw",
+            "name": "Bangla News Live BBC World News 15 June 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "pUwDisQdTJs",
-            "name": "Rebel TMC MPs News: ममता बनर्जी के साथ बड़ा खेला? | Mamata Banerjee | Kokila Ghosh | Breaking",
+            "videoId": "dCCH73KEzpI",
+            "name": "TMC Merge in Congress News: ममता ने कर दिया बागी सांसदों का 'प्लान' फेल! | NCPI | Bengal Politics",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "VNZMmHnuRPQ",
-            "name": "US IRAN WAR NEWS LIVE | Trump Agrees To Peace Deal, Hormuz Blockade To Be Lifted! | IRAN WAR ENDS!",
-            "artist": "CNN-News18"
+            "videoId": "ZZowA9_K2-w",
+            "name": "Kerala KSRTC free bus travel LIVE | Priyadarshini scheme launch live | Free Travel Live Updates",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yHN3qsPFCGo",
+            "name": "সরাসরি সম্প্রচার🔴জাতীয় সংসদ অধিবেশন | 15.06.2026 | Sangsad | Parliament | Budget | ATN Bangla Live",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
