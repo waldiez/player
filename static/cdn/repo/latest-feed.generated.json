@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-15T17:06:11.615Z",
+    "generatedAt": "2026-06-15T20:49:11.036Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "K_6JlUrVINU",
-            "name": "US, Iran Reach Ceasefire Deal, But Questions Over Peace Remain | US IRAN WAR LIVE",
+            "videoId": "8af-v9_flM8",
+            "name": "Iran News LIVE | Oil Prices Drop Massively After Trump And Iran Reach Peace Deal | Hormuz | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SLAhN10_g90",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (15.06.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HvU0uwlorwk",
+            "name": "🔴LIVE: Iran–US Peace Deal Confirmed | PM Shehbaz Sharif Makes Big Announcement | GEO News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fd8W0wq9sWE",
+            "name": "🔴LIVE: আন্তর্জাতিক  খবর  BBC World News 15 June (2026) || World News Bangla || International News",
+            "artist": "SOMOY TV 71"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iLyfBtPp5wY",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "05Zfv_24q-s",
+            "name": "JUST IN: Ships starting to move through Strait of Hormuz, Trump says",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M34S_WL5vMg",
+            "name": "LIVE: Trump Announces End of US-Israeli War on Iran, Tehran Reacts | Firstpost Live",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "CU-e-mJ_mYw",
-            "name": "BREAKING NEWS LIVE | President Trump Delivers Emergency Announcement from the White House | TRUMP",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6t2SCZq8yGE",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (15.06.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qFFuTzcWHb8",
-            "name": "🔴 LIVE: Iran Foreign Ministry Spokesman Esmaeil Baghaei Press Conference | Latest Updates",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TJd7fDBBTTw",
-            "name": "Bangla News Live BBC World News 15 June 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dCCH73KEzpI",
-            "name": "TMC Merge in Congress News: ममता ने कर दिया बागी सांसदों का 'प्लान' फेल! | NCPI | Bengal Politics",
+            "videoId": "07vVcnuIhKE",
+            "name": "Bharat Ki Baat LIVE: युद्ध की पीस डील में होर्मुज की 'कील'! | Iran US War | Trump | Mojtaba",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZZowA9_K2-w",
-            "name": "Kerala KSRTC free bus travel LIVE | Priyadarshini scheme launch live | Free Travel Live Updates",
-            "artist": "Manorama News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yHN3qsPFCGo",
-            "name": "সরাসরি সম্প্রচার🔴জাতীয় সংসদ অধিবেশন | 15.06.2026 | Sangsad | Parliament | Budget | ATN Bangla Live",
-            "artist": "ATN Bangla News"
+            "videoId": "fLXFOHuo0-g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বাংলা খবর Today"
         }
     ],
     "sourceFilters": {
