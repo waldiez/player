@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-14T19:16:45.184Z",
+    "generatedAt": "2026-06-15T03:34:09.699Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "zMVgRra8N04",
-            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tg-UelJ43LM",
-            "name": "🔴LIVE: India Women vs Pakistan Women, T20 WOrld Cup Live Match | INDW vs PAKW Live match Today",
-            "artist": "KM PUNK"
-        },
-        {
-            "mood": "storm",
-            "videoId": "y1VGJ2CZRlM",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.06.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tUXX4GcxoiM",
-            "name": "🔴LIVE : iranwar | ஈரான் போர் திடீர் ட்விஸ்ட் கொடுத்த டிரம்ப் - உலக நாடுகளுக்கு எதிர்பாரா ஷாக்",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Gi7XU32VKZg",
-            "name": "🔴LIVE:Vijay Divorce Case | Sangeetha Vijay | Divorce Case Update | விவாகரத்து வழக்கு - முக்கிய தகவல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SuOvvu8DfIE",
-            "name": "LIVE with Dr. Shahid Masood |Attacks on Lebanon Did Israel stop the agreement? | 14 June 2026 | GNN",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gxO4mI9LQak",
-            "name": "Trump News LIVE: Trump Declares Iran War Nearly Over | 'We Are Going to Finish the Job Very Fast'",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x6SVDkqELQ4",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 June 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d0Kr6m1E6I0",
-            "name": "🔴LIVE :  Today Fast 100 News | 14 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UF-vqA_1lvY",
-            "name": "US Attack on Indian Ships | Seedha Sawal: Oman की खाड़ी में अमेरिकी हमले पर छिड़ा महासंग्राम!| Trump",
+            "videoId": "i-y5dU3qlzA",
+            "name": "Sandeep Chaudhary LIVE: US की खुली गुंडागर्दी...3 भारतीयों की मौत पर नहीं हमदर्दी! | Trump | Hormuz",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3qqZUgjbmm8",
+            "name": "LIVE: New Chief Secretary for Telangana? | తెలంగాణ కొత్త సీఎస్‌? | ZEE Telugu News",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c3SwwzScwjk",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 15.06.2026 | Morning News | World Cup News | Breaking News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1qw9Mwi2ZaY",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 14, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mKOD-oDbQRQ",
+            "name": "Today's Headlines | 15 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2_M_Whpvl54",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 15 June",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sXIltPuOYOQ",
+            "name": "US Iran Talks I Israel Iran War I Trump I Netanyahu | Khamenei I Iran Missile Attack I Breaking News",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ywmA2ow8jLw",
+            "name": "🔴LIVE: Japan-Netherlands World Cup in Dallas",
+            "artist": "FOX 4 Dallas-Fort Worth"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_SoMBECDkuk",
+            "name": "US Iran War LIVE: Trump Says Peace Deal To Be Signed Today | Is War Still on the Horizon?",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {

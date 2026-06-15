@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260614T191645.220Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260615T033409.751Z-l4t35t"
   type: "state"
-  created: "2026-06-14T19:16:45.220Z"
+  created: "2026-06-15T03:34:09.751Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260614T191645.220Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260615T033409.751Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zMVgRra8N04"
-        name: "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "y1VGJ2CZRlM"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tUXX4GcxoiM"
-        name: "🔴LIVE : iranwar | ஈரான் போர் திடீர் ட்விஸ்ட் கொடுத்த டிரம்ப் - உலக நாடுகளுக்கு எதிர்பாரா ஷாக்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Gi7XU32VKZg"
-        name: "🔴LIVE:Vijay Divorce Case | Sangeetha Vijay | Divorce Case Update | விவாகரத்து வழக்கு - முக்கிய தகவல்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SuOvvu8DfIE"
-        name: "LIVE with Dr. Shahid Masood |Attacks on Lebanon Did Israel stop the agreement? | 14 June 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gxO4mI9LQak"
-        name: "Trump News LIVE: Trump Declares Iran War Nearly Over | 'We Are Going to Finish the Job Very Fast'"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "x6SVDkqELQ4"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 14 June 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "d0Kr6m1E6I0"
-        name: "🔴LIVE :  Today Fast 100 News | 14 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UF-vqA_1lvY"
-        name: "US Attack on Indian Ships | Seedha Sawal: Oman की खाड़ी में अमेरिकी हमले पर छिड़ा महासंग्राम!| Trump"
+        videoId: "i-y5dU3qlzA"
+        name: "Sandeep Chaudhary LIVE: US की खुली गुंडागर्दी...3 भारतीयों की मौत पर नहीं हमदर्दी! | Trump | Hormuz"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3qqZUgjbmm8"
+        name: "LIVE: New Chief Secretary for Telangana? | తెలంగాణ కొత్త సీఎస్‌? | ZEE Telugu News"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c3SwwzScwjk"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 15.06.2026 | Morning News | World Cup News | Breaking News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1qw9Mwi2ZaY"
+        name: "ABC World News Tonight with David Muir Full Broadcast - June 14, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mKOD-oDbQRQ"
+        name: "Today's Headlines | 15 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2_M_Whpvl54"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 15 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sXIltPuOYOQ"
+        name: "US Iran Talks I Israel Iran War I Trump I Netanyahu | Khamenei I Iran Missile Attack I Breaking News"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ywmA2ow8jLw"
+        name: "🔴LIVE: Japan-Netherlands World Cup in Dallas"
+        artist: "FOX 4 Dallas-Fort Worth"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_SoMBECDkuk"
+        name: "US Iran War LIVE: Trump Says Peace Deal To Be Signed Today | Is War Still on the Horizon?"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-14T19:16:45.220Z"
+  exported_at: "2026-06-15T03:34:09.751Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-14T19:16:45.184Z"
-  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: tg-UelJ43LM (recent, keywords:2, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-06-15T03:34:09.699Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
