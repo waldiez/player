@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-15T03:34:09.699Z",
+    "generatedAt": "2026-06-15T11:52:22.107Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "i-y5dU3qlzA",
-            "name": "Sandeep Chaudhary LIVE: US की खुली गुंडागर्दी...3 भारतीयों की मौत पर नहीं हमदर्दी! | Trump | Hormuz",
-            "artist": "ABP NEWS"
+            "videoId": "caE7bg9dyqo",
+            "name": "3 PM Gujarati News LIVE | 3 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "3qqZUgjbmm8",
-            "name": "LIVE: New Chief Secretary for Telangana? | తెలంగాణ కొత్త సీఎస్‌? | ZEE Telugu News",
+            "videoId": "YkJzByb6zKY",
+            "name": "LIVE: Kakinada Jahnavi  Missing Case Latest Updates | కుక్క తలపై కర్రతో కొట్టిన దెబ్బలు| ZEE  News",
             "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "c3SwwzScwjk",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 15.06.2026 | Morning News | World Cup News | Breaking News",
+            "videoId": "HeNYx_wfeaM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS245"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aMHQ-LUgLic",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (15.06.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F2C1gvDUd0U",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 15.06.2026 | Morning News | World Cup News | Breaking News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "1qw9Mwi2ZaY",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - June 14, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mKOD-oDbQRQ",
-            "name": "Today's Headlines | 15 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2_M_Whpvl54",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 15 June",
+            "videoId": "pUwDisQdTJs",
+            "name": "Rebel TMC MPs News: ममता बनर्जी के साथ बड़ा खेला? | Mamata Banerjee | Kokila Ghosh | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "sXIltPuOYOQ",
-            "name": "US Iran Talks I Israel Iran War I Trump I Netanyahu | Khamenei I Iran Missile Attack I Breaking News",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ywmA2ow8jLw",
-            "name": "🔴LIVE: Japan-Netherlands World Cup in Dallas",
-            "artist": "FOX 4 Dallas-Fort Worth"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_SoMBECDkuk",
-            "name": "US Iran War LIVE: Trump Says Peace Deal To Be Signed Today | Is War Still on the Horizon?",
-            "artist": "Firstpost"
+            "videoId": "VNZMmHnuRPQ",
+            "name": "US IRAN WAR NEWS LIVE | Trump Agrees To Peace Deal, Hormuz Blockade To Be Lifted! | IRAN WAR ENDS!",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
