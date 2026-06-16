@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260616T033100.410Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260616T110029.069Z-l4t35t"
   type: "state"
-  created: "2026-06-16T03:31:00.410Z"
+  created: "2026-06-16T11:00:29.069Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260616T033100.410Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260616T110029.069Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mFzOUPCTM50"
-        name: "Sandeep Chaudhary LIVE: खाड़ी में शांति का ट्रेलर..पिक्चर अभी बाकी? | Iran US War | Trump | Mojtaba"
+        videoId: "2kDVUdQMXFQ"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.06.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SnilxRxIeg0"
+        name: "Maharashtra Political Storm News LIVE: सांसद-विधायक छोड़ेंगे साथ? | Uddhav Thackerey | Eknath Shinde"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0QcEiOV7TOE"
-        name: "US Iran War News Live : ईरान-America के बीच ऐतिहासिक डील | Trump | Hormuz | Breaking Nwas"
-        artist: "News18 India"
+        videoId: "oTQt2ygi0b8"
+        name: "LIVE: आज की बड़ी खबरें |  Iran America War | Weather Update |Top News | Breaking | MP Rajya Sabha"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "htUSHQ0rpcs"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 16.06.2026 | Fifa World Cup | Latest News | Breaking News"
+        videoId: "nOtf1j1LyBE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Television 24 BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bOPhC3q69K0"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (16.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UfaGtOlNAnw"
+        name: "Iran vs New Zealand LIVE | FIFA World Cup 2026 | Commentary | SoFi Stadium"
+        artist: "moneycontrol"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yKOgcBCGGgw"
+        name: "Kolkata TMC Crisis News LIVE: 20 बागी सांसदों की जाएगी सांसदी...? | Mamata Banerjee | Supreme Court"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "edHKT2Issm0"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 16.06.2026 | Today News | BD News | Ajker News | ATN Bangla News"
         artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "w6EAd-_6D-0"
-        name: "ABC World News Tonight with David Muir Full Broadcast - June 15, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0noFlaFWy-E"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 16 June"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "riKUrKczk0g"
-        name: "Today's Headlines | 16 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vvutznPK9GU"
-        name: "🔴 LIVE || Iran says Lebanon is integral part of peace deal with US || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7N1WV3XBgN8"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mdPbH6ksTi4"
-        name: "🔴 LIVE || Iran confirms US peace deal || Pakistan to host historic US-Iran peace agreement ceremony"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uqO3sjNerQg"
-        name: "ABC World News Tonight with David Muir – Full Episode June 15 th_ 2026(1080P_HD)"
-        artist: "ZooM music"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-16T03:31:00.410Z"
+  exported_at: "2026-06-16T11:00:29.069Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-16T03:31:00.373Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-16T11:00:29.035Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
