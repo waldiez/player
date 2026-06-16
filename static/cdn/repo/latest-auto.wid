@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260616T163944.403Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260616T204317.385Z-l4t35t"
   type: "state"
-  created: "2026-06-16T16:39:44.403Z"
+  created: "2026-06-16T20:43:17.385Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260616T163944.403Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260616T204317.385Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6aARDXSlJ44"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: यूपी टू बंगाल, माफिया का काल ! Modi | Yogi | Trump"
-        artist: "NDTV India"
+        videoId: "u5sD0QDTQgM"
+        name: "LIVE | Breaking News Pakistan | Latest News Headlines | Politics, Economy & World News | B42 News TV"
+        artist: "B42 NEWS TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "682ycsNnXZg"
+        videoId: "ewJ3TCEiRlQ"
+        name: "Maharashtra Latest News LIVE | Uddhav Thackeray | Opration Tiger | Marathi | ABP Majha LIVE"
+        artist: "ABP MAJHA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1a_MQdlyq9M"
+        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (16-06-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qUAmg7vMcpk"
+        name: "☀️ LIVE 6AM NEWS | ఈరోజు Telugu News Papers Headlines | Daily Morning News 16-06-26 | Citizen live"
+        artist: "Citizen 69live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D1FanrS9P1M"
         name: "🔴FIFA World Cup 2026 LIVE | Iran vs New Zealand FIFA LIVE | Watch FIFA World Cup 2026 LIVE"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-e_fXtf3Ii4"
-        name: "Bangla News Live BBC World News June 16, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "PfKdsNfpUvs"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aCz5-8vKdU4"
-        name: "WATCH LIVE: Iran vs New Zealand Tonight | FIFA World Cup 2026 | Matchday Coverage"
-        artist: "The Daily Guardian"
+        videoId: "zxRt8FgU85U"
+        name: "🔴LIVE: CM Vijay | \"உடனே வெளிய போங்க!\" 200 பேரை துரத்திய CM விஜய்!"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "420-szUuwAU"
-        name: "🔴 LIVE || Trump Says Iran Will Not Develop Nuclear Weapons: “That’s the Best Thing” - ARY News Live"
-        artist: "ARY News"
+        videoId: "NvzR7SmxVsc"
+        name: "🔴LIVE :  Today Fast 100 News | 16 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8NdyvjHdOTo"
-        name: "G7 SUMMIT LIVE: Macron Rolls Out Red Carpet For World Leaders | ET Now | Latest News | World News"
-        artist: "ET Now"
+        videoId: "0oHWUQr8WIM"
+        name: "🔴LIVE:  வெள்ளை அறிக்கை - இதுவரை வெளிவரா தகவல்கள்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Uq5uYxIzXVQ"
-        name: "🔴LIVE : White Paper | Minister Marie Wilson | வெள்ளை அறிக்கையை வெளியிட்ட நிதி அமைச்சர் மரிய வில்சன்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wbQEEyYQM00"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 17 June'2026 || World News Bangla || International News Today"
-        artist: "Desh tv 71"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QM1Jhbj69Nw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 June  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NEWS LINK TV "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KufYhArjW3k"
-        name: "France vs Senegal LIVE | FIFA World Cup 2026 Group I Clash | Kylian Mbappe Vs Sadio Mané"
-        artist: "Firstpost"
+        videoId: "OdByW5bYs0c"
+        name: "LIVE with Dr. Shahid Masood | After the agreement. NEW WARS!!! | 16 June 2026 | GNN"
+        artist: "GNN"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-16T16:39:44.403Z"
+  exported_at: "2026-06-16T20:43:17.385Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-16T16:39:44.368Z"
+  source_generated_at: "2026-06-16T20:43:17.350Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
