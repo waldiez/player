@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-16T11:00:29.035Z",
+    "generatedAt": "2026-06-16T16:39:44.368Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2kDVUdQMXFQ",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.06.2026)| 2 PM Headlines | ThanthiTV",
+            "videoId": "6aARDXSlJ44",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: यूपी टू बंगाल, माफिया का काल ! Modi | Yogi | Trump",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "682ycsNnXZg",
+            "name": "🔴FIFA World Cup 2026 LIVE | Iran vs New Zealand FIFA LIVE | Watch FIFA World Cup 2026 LIVE",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-e_fXtf3Ii4",
+            "name": "Bangla News Live BBC World News June 16, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aCz5-8vKdU4",
+            "name": "WATCH LIVE: Iran vs New Zealand Tonight | FIFA World Cup 2026 | Matchday Coverage",
+            "artist": "The Daily Guardian"
+        },
+        {
+            "mood": "storm",
+            "videoId": "420-szUuwAU",
+            "name": "🔴 LIVE || Trump Says Iran Will Not Develop Nuclear Weapons: “That’s the Best Thing” - ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8NdyvjHdOTo",
+            "name": "G7 SUMMIT LIVE: Macron Rolls Out Red Carpet For World Leaders | ET Now | Latest News | World News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Uq5uYxIzXVQ",
+            "name": "🔴LIVE : White Paper | Minister Marie Wilson | வெள்ளை அறிக்கையை வெளியிட்ட நிதி அமைச்சர் மரிய வில்சன்",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "SnilxRxIeg0",
-            "name": "Maharashtra Political Storm News LIVE: सांसद-विधायक छोड़ेंगे साथ? | Uddhav Thackerey | Eknath Shinde",
-            "artist": "ABP NEWS"
+            "videoId": "wbQEEyYQM00",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 June'2026 || World News Bangla || International News Today",
+            "artist": "Desh tv 71"
         },
         {
             "mood": "storm",
-            "videoId": "oTQt2ygi0b8",
-            "name": "LIVE: आज की बड़ी खबरें |  Iran America War | Weather Update |Top News | Breaking | MP Rajya Sabha",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "QM1Jhbj69Nw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 June  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS LINK TV "
         },
         {
             "mood": "storm",
-            "videoId": "nOtf1j1LyBE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Television 24 BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bOPhC3q69K0",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (16.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UfaGtOlNAnw",
-            "name": "Iran vs New Zealand LIVE | FIFA World Cup 2026 | Commentary | SoFi Stadium",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yKOgcBCGGgw",
-            "name": "Kolkata TMC Crisis News LIVE: 20 बागी सांसदों की जाएगी सांसदी...? | Mamata Banerjee | Supreme Court",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "edHKT2Issm0",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 16.06.2026 | Today News | BD News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "KufYhArjW3k",
+            "name": "France vs Senegal LIVE | FIFA World Cup 2026 Group I Clash | Kylian Mbappe Vs Sadio Mané",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
