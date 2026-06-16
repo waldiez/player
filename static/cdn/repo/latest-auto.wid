@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260615T204911.073Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260616T033100.410Z-l4t35t"
   type: "state"
-  created: "2026-06-15T20:49:11.073Z"
+  created: "2026-06-16T03:31:00.410Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260615T204911.073Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260616T033100.410Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8af-v9_flM8"
-        name: "Iran News LIVE | Oil Prices Drop Massively After Trump And Iran Reach Peace Deal | Hormuz | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SLAhN10_g90"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (15.06.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HvU0uwlorwk"
-        name: "🔴LIVE: Iran–US Peace Deal Confirmed | PM Shehbaz Sharif Makes Big Announcement | GEO News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fd8W0wq9sWE"
-        name: "🔴LIVE: আন্তর্জাতিক  খবর  BBC World News 15 June (2026) || World News Bangla || International News"
-        artist: "SOMOY TV 71"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iLyfBtPp5wY"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "05Zfv_24q-s"
-        name: "JUST IN: Ships starting to move through Strait of Hormuz, Trump says"
-        artist: "Fox News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M34S_WL5vMg"
-        name: "LIVE: Trump Announces End of US-Israeli War on Iran, Tehran Reacts | Firstpost Live"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "07vVcnuIhKE"
-        name: "Bharat Ki Baat LIVE: युद्ध की पीस डील में होर्मुज की 'कील'! | Iran US War | Trump | Mojtaba"
+        videoId: "mFzOUPCTM50"
+        name: "Sandeep Chaudhary LIVE: खाड़ी में शांति का ट्रेलर..पिक्चर अभी बाकी? | Iran US War | Trump | Mojtaba"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fLXFOHuo0-g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বাংলা খবর Today"
+        videoId: "0QcEiOV7TOE"
+        name: "US Iran War News Live : ईरान-America के बीच ऐतिहासिक डील | Trump | Hormuz | Breaking Nwas"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "htUSHQ0rpcs"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ | 16.06.2026 | Fifa World Cup | Latest News | Breaking News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w6EAd-_6D-0"
+        name: "ABC World News Tonight with David Muir Full Broadcast - June 15, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0noFlaFWy-E"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 16 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "riKUrKczk0g"
+        name: "Today's Headlines | 16 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vvutznPK9GU"
+        name: "🔴 LIVE || Iran says Lebanon is integral part of peace deal with US || ARY News Live"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7N1WV3XBgN8"
+        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mdPbH6ksTi4"
+        name: "🔴 LIVE || Iran confirms US peace deal || Pakistan to host historic US-Iran peace agreement ceremony"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uqO3sjNerQg"
+        name: "ABC World News Tonight with David Muir – Full Episode June 15 th_ 2026(1080P_HD)"
+        artist: "ZooM music"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-15T20:49:11.073Z"
+  exported_at: "2026-06-16T03:31:00.410Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-15T20:49:11.036Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-16T03:31:00.373Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

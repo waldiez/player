@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-15T20:49:11.036Z",
+    "generatedAt": "2026-06-16T03:31:00.373Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8af-v9_flM8",
-            "name": "Iran News LIVE | Oil Prices Drop Massively After Trump And Iran Reach Peace Deal | Hormuz | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SLAhN10_g90",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (15.06.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HvU0uwlorwk",
-            "name": "🔴LIVE: Iran–US Peace Deal Confirmed | PM Shehbaz Sharif Makes Big Announcement | GEO News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fd8W0wq9sWE",
-            "name": "🔴LIVE: আন্তর্জাতিক  খবর  BBC World News 15 June (2026) || World News Bangla || International News",
-            "artist": "SOMOY TV 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iLyfBtPp5wY",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.06.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "05Zfv_24q-s",
-            "name": "JUST IN: Ships starting to move through Strait of Hormuz, Trump says",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M34S_WL5vMg",
-            "name": "LIVE: Trump Announces End of US-Israeli War on Iran, Tehran Reacts | Firstpost Live",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "07vVcnuIhKE",
-            "name": "Bharat Ki Baat LIVE: युद्ध की पीस डील में होर्मुज की 'कील'! | Iran US War | Trump | Mojtaba",
+            "videoId": "mFzOUPCTM50",
+            "name": "Sandeep Chaudhary LIVE: खाड़ी में शांति का ट्रेलर..पिक्चर अभी बाकी? | Iran US War | Trump | Mojtaba",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "fLXFOHuo0-g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বাংলা খবর Today"
+            "videoId": "0QcEiOV7TOE",
+            "name": "US Iran War News Live : ईरान-America के बीच ऐतिहासिक डील | Trump | Hormuz | Breaking Nwas",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "htUSHQ0rpcs",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ | 16.06.2026 | Fifa World Cup | Latest News | Breaking News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w6EAd-_6D-0",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 15, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0noFlaFWy-E",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 16 June",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "riKUrKczk0g",
+            "name": "Today's Headlines | 16 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vvutznPK9GU",
+            "name": "🔴 LIVE || Iran says Lebanon is integral part of peace deal with US || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7N1WV3XBgN8",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mdPbH6ksTi4",
+            "name": "🔴 LIVE || Iran confirms US peace deal || Pakistan to host historic US-Iran peace agreement ceremony",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uqO3sjNerQg",
+            "name": "ABC World News Tonight with David Muir – Full Episode June 15 th_ 2026(1080P_HD)",
+            "artist": "ZooM music"
         }
     ],
     "sourceFilters": {
