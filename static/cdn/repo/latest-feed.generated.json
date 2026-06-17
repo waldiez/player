@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-16T20:43:17.350Z",
+    "generatedAt": "2026-06-17T03:28:21.772Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "u5sD0QDTQgM",
-            "name": "LIVE | Breaking News Pakistan | Latest News Headlines | Politics, Economy & World News | B42 News TV",
-            "artist": "B42 NEWS TV"
+            "videoId": "zbJHeluVq9I",
+            "name": "🔴Argentina vs Algeria LIVE | FIFA World Cup 2026 | Argentina vs Algeria | Mahrez | Messi | N18G",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "ewJ3TCEiRlQ",
-            "name": "Maharashtra Latest News LIVE | Uddhav Thackeray | Opration Tiger | Marathi | ABP Majha LIVE",
-            "artist": "ABP MAJHA"
+            "videoId": "OGnKNdaM8Pg",
+            "name": "Shivsena UBT Breakdown News LIVE: ‘15-15 करोड़ में खरीदे जा रहे सांसद’ | Uddhav Thackerey | Sanjay",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "1a_MQdlyq9M",
-            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (16-06-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "PxxWkuTzeRI",
+            "name": "Iran America War Live: ईरान-अमेरिका Peace Deal पर खबर!| Hormuz | Trump | Mojtaba Khamenei  | N18G",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "qUAmg7vMcpk",
-            "name": "☀️ LIVE 6AM NEWS | ఈరోజు Telugu News Papers Headlines | Daily Morning News 16-06-26 | Citizen live",
-            "artist": "Citizen 69live"
+            "videoId": "GRkJgpuujog",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 16, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "D1FanrS9P1M",
-            "name": "🔴FIFA World Cup 2026 LIVE | Iran vs New Zealand FIFA LIVE | Watch FIFA World Cup 2026 LIVE",
-            "artist": "Firstpost"
+            "videoId": "c4vToOrx0Qs",
+            "name": "Today'S Morning News Live : सुबह की बड़ी खबरें | G7 Summit | PM Modi | US Iran Deal | TMC | Uddhav",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "PfKdsNfpUvs",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.06.2026) | Sathiyam Headlines",
+            "videoId": "JTjO_JSe2Y0",
+            "name": "NDTV 24x7 Live TV: PM Modi Trump Talks | FIFA World Cup | Argentina Vs Algeria | Shiv Sena News",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gxuSge5ggLg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CBC আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oEKbuUFF0XE",
+            "name": "Today's Headlines | 17 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "zxRt8FgU85U",
-            "name": "🔴LIVE: CM Vijay | \"உடனே வெளிய போங்க!\" 200 பேரை துரத்திய CM விஜய்!",
-            "artist": "Sathiyam News"
+            "videoId": "BvttXTInPF8",
+            "name": "Major operation late night, terrorist killed | 5 AM Headlines Geo News (17 June 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "NvzR7SmxVsc",
-            "name": "🔴LIVE :  Today Fast 100 News | 16 JUNE 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK",
-            "artist": "NewsTamil 24X7"
+            "videoId": "5DbXyXszhMg",
+            "name": "Israeli request for access to details of agreement rejected | 4 AM Headlines Geo News (17 June 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "0oHWUQr8WIM",
-            "name": "🔴LIVE:  வெள்ளை அறிக்கை - இதுவரை வெளிவரா தகவல்கள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OdByW5bYs0c",
-            "name": "LIVE with Dr. Shahid Masood | After the agreement. NEW WARS!!! | 16 June 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "gTTFyHjhwG8",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 17 June",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
