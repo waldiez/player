@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260617T150020.335Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260617T200551.753Z-l4t35t"
   type: "state"
-  created: "2026-06-17T15:00:20.335Z"
+  created: "2026-06-17T20:05:51.753Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260617T150020.335Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260617T200551.753Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "XhrMgbVXIBg"
-        name: "FIFA World Cup 2026 LIVE: Portugal vs DR Congo | Cristiano Ronaldo Leads Portugal | Cédric Bakambu"
-        artist: "Firstpost"
+        videoId: "ePNmUxyUWhE"
+        name: "🔴LIVE: ஆகாஷ் உடலை அரசே அடக்கம் செய்யும் காட்சிகள்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LePfaY5JHEc"
-        name: "Latest News Live | ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ |Today Punjabi News |G7 Summit| SIR |US Iran | Jathed..."
-        artist: "News18 Punjab"
+        videoId: "ZrLINj8pQB8"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S8BasWievr4"
-        name: "🔴Argentina vs Algeria LIVE | FIFA World Cup 2026 | Argentina vs Algeria | Mahrez | Messi | N18G"
-        artist: "moneycontrol"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bnT68tF1ULQ"
-        name: "Operation Tiger Update LIVE: 'टूट गई उद्धव ठाकरे की शिवसेना UBT' | Eknath Shinde | Uddhav"
+        videoId: "s78HxWDgWhs"
+        name: "Shiv Sena Crisis LIVE: शिंदे की शिवसेना में विलय पर 7 बजते ही आई बड़ी खबर-सूत्र | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "govyzaSq50Q"
-        name: "Trump Big Announcement on Iran US Deal LIVE: ईरान-अमेरिका जंग, 17 जून 2026 |  Mojtaba Khamenei"
-        artist: "NDTV India"
+        videoId: "oy31jwPMHHQ"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 17 June 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sCs6bwtrJGU"
-        name: "Iran News LIVE | Trump Warns Of Heavy Bombardment If Iran Deal Fails | Iran War LIVE News | N18G"
+        videoId: "3rxlVJzIJIo"
+        name: "LIVE: US President Donald Trump Slams Israel Prime Minister Netanyahu After Iran-US Peace Deal |N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5xzQch8ugIE"
-        name: "Bangla News Live BBC World News June 17, 2026 || World News Bangla || International News Today ||"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "WoWSYSQP-h4"
+        name: "Today Headlines | 17 Jun 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "37l4WkpDii0"
-        name: "PM Modi At G7 Summit France: ट्रंप-मोदी मंथन... G-7 से संधि या विध्‍वंस? | Trump"
-        artist: "TV9 Bharatvarsh"
+        videoId: "NyPF30eV2Vc"
+        name: "🔴LIVE: Annamalai | திடீரென Live-வில் வந்த அண்ணாமலை"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6yaxdS0XtRY"
-        name: "Samajwadi Party Crisis News : महाराष्ट्र के बाद अब अखिलेश का नंबर? | Maharashtra | Shiv Sena UBT"
+        videoId: "zFX6ihn3bgo"
+        name: "🔴LIVE: EKATTOR TV LIVE |  বাংলা খবর BBC World News 15 June2026 || World News Bangla ||"
+        artist: "DESH TV BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y5yGfO2cGZY"
+        name: "Portugal vs Congo DR LIVE | FIFA World Cup 2026 LIVE | LIVE Score & Watchalong"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ycNPqyeOsm8"
+        name: "Shiv Sena UBT Crisis | BJP | Breakdown | Sandeep Chaudhary:राजनीति की मंडी में कैसे बिक रहे हैं MP?"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "G7xyh8onU7I"
-        name: "US IRAN NEWS LIVE: Emergency War Briefing STUNS The World — Is WW3 Closer Than Ever? | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eq9zOELEHjc"
-        name: "Omraje Nimbalkar Latest News LIVE | ओमराजे फुटले की अडकले? 20 तारीख...आणि मोठा स्फोट! N18L"
-        artist: "News18 Marathi"
+        videoId: "qI8Tuy_esFw"
+        name: "Iran War Ends News LIVE: US Declares Iran Deal Complete, Strait of Hormuz Open | Donald Trump News"
+        artist: "India Today"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-17T15:00:20.335Z"
+  exported_at: "2026-06-17T20:05:51.753Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-17T15:00:20.300Z"
+  source_generated_at: "2026-06-17T20:05:51.714Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
