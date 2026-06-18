@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260618T025642.118Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260618T101235.368Z-l4t35t"
   type: "state"
-  created: "2026-06-18T02:56:42.118Z"
+  created: "2026-06-18T10:12:35.368Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260618T025642.118Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260618T101235.368Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vhh-EzodRJE"
-        name: "Trump News LIVE |  Trump STUNS G7 Leaders With Major Warning | World Reacts LIVE | US News Live"
-        artist: "Times Now"
+        videoId: "QCaDX0DWGSQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sYzCXdLaaLE"
-        name: "Sandeep Chaudhary LIVE: क्षत्रप टूटे बारी-बारी...परिसीमन की तैयारी? | Shiv Sena UBT MPs Rebellion"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MVqnmMMW2Es"
-        name: "ABC World News Tonight with David Muir Full Broadcast - June 17, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2rlzxOlE_uM"
-        name: "🔴LIVE: ''ஷாக் நியூஸ்..'' CM விஜய் புதிய உத்தரவு | | CMVijay | Agriculture News | Farmers Update |"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RCPWzXp0QAU"
-        name: "Today's Headlines | 18 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XGt2ffiWBxc"
-        name: "Live: US President Donald Trump Big Announcement | Iran US Deal | Petrol Prices | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ddAsSDX6wMQ"
-        name: "Sandeep Chaudhary LIVE: 'महिला आरक्षण' के नाम पर....ऑपरेशन तोड़-फोड़ काम पर! | Shiv Sena | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hwBivYrjZGk"
-        name: "OM Prakash Rajbhar on Samajwadi Party News LIVE:शाह को शिवपाल का लेटर, ओमप्रकाश के दावे ने उड़ाए होश"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k0idnb4fNpI"
-        name: "Portugal vs Congo DR LIVE | CR7 LIVE | FIFA World Cup 2026 LIVE | LIVE Score & Watchalong"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Vr0IMAOkPx4"
-        name: "Today Breaking News ! आज 18 जून 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, UP, Bihar, Delhi"
-        artist: "My Smart Guide"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ovz8U7ywfis"
+        videoId: "5jXNu0McOao"
         name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
         artist: "V News27"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XhrMgbVXIBg"
-        name: "🔴 FIFA World Cup 2026 LIVE: Portugal vs DR Congo | Cristiano Ronaldo Leads Portugal | Cédric Bakambu"
-        artist: "Firstpost"
+        videoId: "iAbOAopKJ3I"
+        name: "LIVE🔴বাংলাদেশ সেনাবাহিনীর \"রাষ্ট্রপতি কুচকাওয়াজ, জুন-২০২৬\" | সরাসরি সম্প্রচার | Army Live"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l-Ia7gXiakM"
+        name: "🔴LIVE: Tamil Nadu Assembly | CM VIjay | TVK | பேரவை Live"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "m4eyd6drdnk"
+        name: "🔴 FIFA World Cup 2026 LIVE: England Vs Croatia Group Stage Match | Harry Kane | Luka Modric | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4a86fwmkJw8"
+        name: "Thackeray Group Crisis Breaking News LIVE | ठाकरेंच्या शिवसेनेचा पुढचा भवितव्य आज ठरणार?"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XNgUKZgPjLU"
+        name: "Shiv Sena UBT Crisis LIVE: 6 में से दो सांसद आएंगे वापस? | Maharashtra | Uddhav | Eknath Shinde"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kiaw3aKflEY"
+        name: "🔴 LIVE | Trump says Iran deal may be signed tomorrow as US officials reveal details of agreement"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bQ0-ngW8Qlg"
+        name: "LIVE🔴বাংলাদেশ সেনাবাহিনীর \"রাষ্ট্রপতি কুচকাওয়াজ, জুন-২০২৬\" | সরাসরি সম্প্রচার | Army Live"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dGetoMRF3eE"
+        name: "Portugal vs Congo DR LIVE | FIFA World Cup 2026 LIVE | LIVE Score & Watchalong"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-18T02:56:42.118Z"
+  exported_at: "2026-06-18T10:12:35.368Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-18T02:56:42.085Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-18T10:12:35.333Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
