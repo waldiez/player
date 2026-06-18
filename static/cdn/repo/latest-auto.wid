@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260617T200551.753Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260618T025642.118Z-l4t35t"
   type: "state"
-  created: "2026-06-17T20:05:51.753Z"
+  created: "2026-06-18T02:56:42.118Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260617T200551.753Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260618T025642.118Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ePNmUxyUWhE"
-        name: "🔴LIVE: ஆகாஷ் உடலை அரசே அடக்கம் செய்யும் காட்சிகள்"
-        artist: "Sathiyam News"
+        videoId: "vhh-EzodRJE"
+        name: "Trump News LIVE |  Trump STUNS G7 Leaders With Major Warning | World Reacts LIVE | US News Live"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZrLINj8pQB8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s78HxWDgWhs"
-        name: "Shiv Sena Crisis LIVE: शिंदे की शिवसेना में विलय पर 7 बजते ही आई बड़ी खबर-सूत्र | Big Breaking"
+        videoId: "sYzCXdLaaLE"
+        name: "Sandeep Chaudhary LIVE: क्षत्रप टूटे बारी-बारी...परिसीमन की तैयारी? | Shiv Sena UBT MPs Rebellion"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oy31jwPMHHQ"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 17 June 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "MVqnmMMW2Es"
+        name: "ABC World News Tonight with David Muir Full Broadcast - June 17, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3rxlVJzIJIo"
-        name: "LIVE: US President Donald Trump Slams Israel Prime Minister Netanyahu After Iran-US Peace Deal |N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WoWSYSQP-h4"
-        name: "Today Headlines | 17 Jun 2026 | Night Headlines | #headlines | Sathiyam News"
+        videoId: "2rlzxOlE_uM"
+        name: "🔴LIVE: ''ஷாக் நியூஸ்..'' CM விஜய் புதிய உத்தரவு | | CMVijay | Agriculture News | Farmers Update |"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NyPF30eV2Vc"
-        name: "🔴LIVE: Annamalai | திடீரென Live-வில் வந்த அண்ணாமலை"
+        videoId: "RCPWzXp0QAU"
+        name: "Today's Headlines | 18 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zFX6ihn3bgo"
-        name: "🔴LIVE: EKATTOR TV LIVE |  বাংলা খবর BBC World News 15 June2026 || World News Bangla ||"
-        artist: "DESH TV BANGLA"
+        videoId: "XGt2ffiWBxc"
+        name: "Live: US President Donald Trump Big Announcement | Iran US Deal | Petrol Prices | Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y5yGfO2cGZY"
-        name: "Portugal vs Congo DR LIVE | FIFA World Cup 2026 LIVE | LIVE Score & Watchalong"
+        videoId: "ddAsSDX6wMQ"
+        name: "Sandeep Chaudhary LIVE: 'महिला आरक्षण' के नाम पर....ऑपरेशन तोड़-फोड़ काम पर! | Shiv Sena | BJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hwBivYrjZGk"
+        name: "OM Prakash Rajbhar on Samajwadi Party News LIVE:शाह को शिवपाल का लेटर, ओमप्रकाश के दावे ने उड़ाए होश"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k0idnb4fNpI"
+        name: "Portugal vs Congo DR LIVE | CR7 LIVE | FIFA World Cup 2026 LIVE | LIVE Score & Watchalong"
         artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ycNPqyeOsm8"
-        name: "Shiv Sena UBT Crisis | BJP | Breakdown | Sandeep Chaudhary:राजनीति की मंडी में कैसे बिक रहे हैं MP?"
-        artist: "ABP NEWS"
+        videoId: "Vr0IMAOkPx4"
+        name: "Today Breaking News ! आज 18 जून 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, UP, Bihar, Delhi"
+        artist: "My Smart Guide"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qI8Tuy_esFw"
-        name: "Iran War Ends News LIVE: US Declares Iran Deal Complete, Strait of Hormuz Open | Donald Trump News"
-        artist: "India Today"
+        videoId: "ovz8U7ywfis"
+        name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
+        artist: "V News27"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XhrMgbVXIBg"
+        name: "🔴 FIFA World Cup 2026 LIVE: Portugal vs DR Congo | Cristiano Ronaldo Leads Portugal | Cédric Bakambu"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-17T20:05:51.753Z"
+  exported_at: "2026-06-18T02:56:42.118Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-17T20:05:51.714Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-18T02:56:42.085Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
