@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260619T145059.080Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260619T194052.545Z-l4t35t"
   type: "state"
-  created: "2026-06-19T14:50:59.080Z"
+  created: "2026-06-19T19:40:52.545Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260619T145059.080Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260619T194052.545Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rX3mxztBdgQ"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "1R2qWRKmFF0"
+        name: "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (19.06.2026) | 10 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GtSI3-V2rHE"
-        name: "Sandeep Chaudhary LIVE: सियासी खींचतान..राम का नाम बदनाम! | Ram Mandir Donation Row | Akhilesh Yadav"
-        artist: "ABP NEWS"
+        videoId: "e9mBFUitPLs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mRn-h36q8w0"
-        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी मामले में बड़ा एक्शन, फंस गए 4 बड़े लोग!"
-        artist: "ABP NEWS"
+        videoId: "4MAXWDi-zxQ"
+        name: "LIVE with Dr. Shahid Masood | Cancellation of talks... Israel's first success? | 19 June 2026 | GNN"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LK-mW4PRgVQ"
-        name: "Sandeep Chaudhary LIVE: चढ़ावे पर 'डाका'...डकैतों का कौन आका? | Ram Mandir Donation Row | Akhilesh"
-        artist: "ABP NEWS"
+        videoId: "-BVupdP3fgI"
+        name: "Eknath Shinde Speech LIVE | Operation Tiger नंतरच दमदार भाषण, शिंदे ठाकरेंवर काय बोलले? N18L"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FakRJiBLNLI"
-        name: "Out Of Focus Live | 19 June 2026"
-        artist: "MediaoneTV Live"
+        videoId: "gFwS-6cI5wA"
+        name: "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : राम मंदिर चंदा चोरी में बड़ा खुलासा! Yogi"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5HBCn2l1za8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NEWS245"
+        videoId: "GoO3lxZ3ZxY"
+        name: "New Zealand Women Vs Ireland Women 13th T20 Match | Live Score Analysis & Discussion | NZW vs IREW"
+        artist: "PJ Cric Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rLOtDppYYr4"
-        name: "🔴LIVE: జ్ఞానేశ్వరి కేసులో బిగ్ ట్విస్ట్ ..!! || Kakinada Jahnavi Missing Case Update || ABN"
-        artist: "ABN Telugu "
+        videoId: "oNbQDQ0J_j8"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 19 June 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y-BLh1lSNTY"
-        name: "Iran-US Deal | World War III? Iran Issues Warning to US and Israel | 3 PM News Headlines"
-        artist: "SAMAA TV"
+        videoId: "eEGgL0Be17g"
+        name: "Today Headlines | 19 Jun 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Cc8fP2HL0l4"
-        name: "US-IRAN NEWS LIVE: Trump's Biggest Foreign Policy Win Yet? | World News"
-        artist: "ET Now"
+        videoId: "1hGCjcejXic"
+        name: "LIVE |  Raushan Anand News : रोशन सर के भाई की मौत या हत्या? Khan Sir Case | Breaking News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AIStlEdEWvk"
+        name: "🔴LIVE : சட்டப்பேரவையில் உச்சகட்ட பரபரப்பு Live Cut  | TNAssemblyLive | CM Vijay News | TVK |  DMK |"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5CPFF1Zesa8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-19T14:50:59.080Z"
+  exported_at: "2026-06-19T19:40:52.545Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-19T14:50:59.042Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-19T19:40:52.507Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
