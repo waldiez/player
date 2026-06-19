@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-18T20:16:01.438Z",
+    "generatedAt": "2026-06-19T03:43:10.222Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gB8lk08z930",
-            "name": "Dedication ceremony for Obama Presidential Center in Chicago: LIVE",
+            "videoId": "sV1qPmF9wr8",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - June 18, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "o5z_QIoqWAc",
-            "name": "New York Knicks Victory Parade",
-            "artist": "ABC News"
+            "videoId": "bchAO7rMgEU",
+            "name": "Sandeep Chaudhary LIVE: 'शिक्षा' पर बातचीत,राहुल करें छात्रों को भयभीत?| Rahul Gandhi | RE-NEET Exam",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3ZD68HCZixc",
-            "name": "☀️ LIVE 6AM NEWS | ఈరోజు Telugu News Papers Headlines | Daily Morning News 18-06-26 | Citizen live",
-            "artist": "Citizen 69News Live"
+            "videoId": "kVUMnqQURSg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS245"
         },
         {
             "mood": "storm",
-            "videoId": "22a6hcu4iq0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.06.2026) | Sathiyam Headlines",
+            "videoId": "O1brHooadUI",
+            "name": "Bangla News Live BBC World News June 19, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "a4Vc4uXRiqE",
+            "name": "🔴 FIFA World Cup 2026 LIVE: Czech Republic vs South Africa | Ladislav Krejčí | Ronwen Williams",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aRxr1IXk_iM",
+            "name": "Today's Headlines | 19 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "y6Y_ZbO4QUs",
-            "name": "🔴LIVE: TN Assembly | Cm VIjay | சட்டசபையில் யாரும் எதிர்பார்க்காத காட்சிகள்",
-            "artist": "Sathiyam News"
+            "videoId": "5Nu5y2sRjss",
+            "name": "Moscow burning: Another successful drone strike by Ukraine | World News Tonight",
+            "artist": "TVP WORLD"
         },
         {
             "mood": "storm",
-            "videoId": "-ulF7-PIDng",
-            "name": "LIVE with Dr. Shahid Masood | Iran US Historic Agreement Finalized | 18 June 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "9CNSOEN4910",
+            "name": "Iran–US War Ends | Pakistan’s Mediation | Live Report from Switzerland | Waseem Badami",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "lBCVKo_UAhc",
-            "name": "FIFA World Cup 2026 LIVE | Czechia Vs South Africa LIVE  | FIFA World Cup LIVESCORE |FIFA LIVE Match",
-            "artist": "NDTV"
+            "videoId": "ijBv3-VlylM",
+            "name": "Today Headlines - 18 June 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "1k15Bbw8ees",
-            "name": "CNN News Live Stream Today: Breaking World News Updates You Can't Miss!",
-            "artist": "NewsStreamer"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SRDSGRjP3z4",
-            "name": "🔴LIVE: udhyanithi stalin | Press Meet | உதயநிதி ஸ்டாலின் பரபரப்பு பிரஸ் மீட்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sevh_KBtAQI",
-            "name": "Live: Ishaq Dar Strong Response to India’s Illegal Move on Indus Waters Treaty Suspension - Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jg_DT2KI8ww",
-            "name": "Today Headlines | 18 Jun 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "CLnSXvh7Fdk",
+            "name": "ഏറ്റവും പുതിയ ​ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
