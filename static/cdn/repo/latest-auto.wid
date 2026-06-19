@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260619T101721.173Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260619T145059.080Z-l4t35t"
   type: "state"
-  created: "2026-06-19T10:17:21.173Z"
+  created: "2026-06-19T14:50:59.080Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260619T101721.173Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260619T145059.080Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mvkrmEjuXhw"
-        name: "Jharkhand Mahagathbandhan Crisis News LIVE: बहुमत के बाद हारी कांग्रेस, महागठबंधन में दो फाड़!"
+        videoId: "rX3mxztBdgQ"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GtSI3-V2rHE"
+        name: "Sandeep Chaudhary LIVE: सियासी खींचतान..राम का नाम बदनाम! | Ram Mandir Donation Row | Akhilesh Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SoHfC1hZBKM"
-        name: "Ram Mandir Donation Theft News: राम मंदिर चढ़ावा चोरी मामले में 3 बड़े खुलासे, योगी की चेतावनी!"
+        videoId: "mRn-h36q8w0"
+        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी मामले में बड़ा एक्शन, फंस गए 4 बड़े लोग!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6eo_uQ_ljU0"
-        name: "Jharkhand Mahagathbandhan Crisis News LIVE: झारखंड में महागठबंधन सरकार में झगड़ा बढ़ा| Election"
+        videoId: "LK-mW4PRgVQ"
+        name: "Sandeep Chaudhary LIVE: चढ़ावे पर 'डाका'...डकैतों का कौन आका? | Ram Mandir Donation Row | Akhilesh"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MpsecYuETMM"
-        name: "[LIVE] Fox & Friends  06/19/2026 Live HD | FOX NEWS LIVE June 19, 2026"
-        artist: "Hady Muhammad"
+        videoId: "FakRJiBLNLI"
+        name: "Out Of Focus Live | 19 June 2026"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MsU7A_dDs28"
-        name: "Shiv Sena Crisis LIVE: उद्धव ठाकरे को लगा झटका, शिंदे गुट में चल दिए संजय भी, मची खलबली! | Breaking"
-        artist: "ABP NEWS"
+        videoId: "5HBCn2l1za8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NEWS245"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hr04pAhwXmQ"
-        name: "Jharkhand Mahagathbandhan Crisis News LIVE: राज्यसभा चुनाव हारते ही महागठबंधन में बड़ी टूट!"
-        artist: "ABP NEWS"
+        videoId: "rLOtDppYYr4"
+        name: "🔴LIVE: జ్ఞానేశ్వరి కేసులో బిగ్ ట్విస్ట్ ..!! || Kakinada Jahnavi Missing Case Update || ABN"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yPw7v0Sw-0c"
-        name: "Begusarai Gang Rape News LIVE: बेगूसराय में महिला के साथ हैवानियत!, सुन लोगों के उड़े होश! | Bihar"
-        artist: "ABP NEWS"
+        videoId: "Y-BLh1lSNTY"
+        name: "Iran-US Deal | World War III? Iran Issues Warning to US and Israel | 3 PM News Headlines"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tNAPYh2QDCs"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CJ5fLDv8ZcQ"
-        name: "Live: “Start of Peace” After Iran–US Deal, Says US Vice President JD Vance - Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vNWs_3CAwsw"
-        name: "Begusarai Gang Rape News LIVE: बेगूसराय में महिला का गैंगरेप, बर्बरता की हदें पार | Bihar Police"
-        artist: "ABP NEWS"
+        videoId: "Cc8fP2HL0l4"
+        name: "US-IRAN NEWS LIVE: Trump's Biggest Foreign Policy Win Yet? | World News"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-19T10:17:21.173Z"
+  exported_at: "2026-06-19T14:50:59.080Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-19T10:17:21.136Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-19T14:50:59.042Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
