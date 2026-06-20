@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260620T084558.826Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260620T134808.286Z-l4t35t"
   type: "state"
-  created: "2026-06-20T08:45:58.826Z"
+  created: "2026-06-20T13:48:08.286Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260620T084558.826Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260620T134808.286Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JV7GOnODtEc"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE:भरत तिवारी का पुलिस ने किया एनकाउटंर, हिल गया पूरा बिहार!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9LmhupB2QhM"
-        name: "🔴 LIVE: அடிக்க பாய்ந்தாரா தவெக MLA..? | TVK MLA | TN Assembly | CM vijay |"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FY8cwbDH6FU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 20 June  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NEWS LINK TV "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HMA_3CHe3Og"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WdZVLbN_Sj0"
-        name: "Ram Mandir Donation Theft News LIVE: योगी बोले 15 दिन का इंतजार, उसके बाद...विपक्ष में मची खलबली!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K-byUFM7j-0"
-        name: "Today Headlines | 20 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qXEBhEDNoLY"
-        name: "🔴 LIVE | Big Breaking ଓଡ଼ିଶାରେ ପହଞ୍ଚିଲେ ମୋଦୀ | PM Modi Mayurbhanj Visit | President Droupadi Murmu"
-        artist: "Kanak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IvTX-hPkxgs"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-jL5mjaNweg"
-        name: "Jharkhand Mahagathbandhan Crisis News LIVE: राज्यसभा चुनाव हारते ही महागठबंधन में बड़ी टूट!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_FWPcPXz78A"
-        name: "🔴LIVE: Speed News | 24 Headlines | 20-06-2026 | #morningwithabn  | ABN Telugu"
+        videoId: "WQGZoqBlKlk"
+        name: "🔴LIVE: సాయి కృష్ణ కేసులో బిగ్ ట్విస్ట్ ..!! || Vijayawada Sai Krishna Case Latest Updates || ABN"
         artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3XcHrXbNl_c"
-        name: "Clashes Reported in South Lebanon | Heavy Casualties Claims Emerging | 10 AM Headlines Geo News 20-6"
-        artist: "Geo News"
+        videoId: "7Ew7t2Ik3m0"
+        name: "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 20 June 2026 || World News Bangla ||"
+        artist: "UPDATE BANGLA NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ng0TaAi9xgI"
+        name: "Iran-US Deal | World War 3? | Iran Issues Strong Warning Over Lebanon Strikes | 3 PM News Headlines"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2D3bE0SfujQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 20 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Television 24 BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H6MlCucQ_xg"
+        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर में ऐसे हुई चढ़ावे की चोरी?, लोगों के उड़े होश!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tb5YPCj40yM"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 20.06.2026 | Latest News | Breaking News | Today News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-20T08:45:58.826Z"
+  exported_at: "2026-06-20T13:48:08.286Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-20T08:45:58.789Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-20T13:48:08.252Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
