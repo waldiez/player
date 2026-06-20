@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-20T13:48:08.252Z",
+    "generatedAt": "2026-06-20T19:15:53.819Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WQGZoqBlKlk",
-            "name": "🔴LIVE: సాయి కృష్ణ కేసులో బిగ్ ట్విస్ట్ ..!! || Vijayawada Sai Krishna Case Latest Updates || ABN",
-            "artist": "ABN Telugu "
+            "videoId": "LjtTLRZIgSA",
+            "name": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (20.06.2026) | 10 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "7Ew7t2Ik3m0",
-            "name": "🔴LIVE: EKATTOR TV LIVE || বাংলা খবর BBC World News 20 June 2026 || World News Bangla ||",
-            "artist": "UPDATE BANGLA NEWS"
+            "videoId": "Ij5g-5hSGa0",
+            "name": "🔴 LIVE | ଓଡ଼ିଶାରେ ମୋଦୀ, ପ୍ରବଳ ଭିଡ଼ PM Narendra Modi Mayurbhanj Visit | President Droupadi Murmu",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "ng0TaAi9xgI",
-            "name": "Iran-US Deal | World War 3? | Iran Issues Strong Warning Over Lebanon Strikes | 3 PM News Headlines",
-            "artist": "SAMAA TV"
+            "videoId": "qXEBhEDNoLY",
+            "name": "🔴 LIVE | Big Breaking ଓଡ଼ିଶାରେ ପହଞ୍ଚିଲେ ମୋଦୀ | PM Modi Mayurbhanj Visit | President Droupadi Murmu",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "2D3bE0SfujQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 20 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Television 24 BANGLA"
+            "videoId": "h_fRzq7Uw-Q",
+            "name": "🔴 Brazil VS Haiti LIVE | FIFA World Cup 2026 | Brazil VS Haiti | Vinícius Júnior | Duckens Nazon",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "H6MlCucQ_xg",
-            "name": "Ram Mandir Donation Theft News LIVE: राम मंदिर में ऐसे हुई चढ़ावे की चोरी?, लोगों के उड़े होश!",
-            "artist": "ABP NEWS"
+            "videoId": "DPTpU6HDlqU",
+            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (20-06-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "Tb5YPCj40yM",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 20.06.2026 | Latest News | Breaking News | Today News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "XBSv-paoAio",
+            "name": "Trump News LIVE: Trump Declares Iran War Nearly Over | 'We Are Going to Finish the Job Very Fast'",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZsCCUAAQm44",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l6V1w979KMA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5qHEw9-N4yc",
+            "name": "The World's Most Luxurious Plane? Trump Unveils New $400M Air Force One Gifted by Qatar |FP Explains",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vo2DsMNO9SI",
+            "name": "🔴Brazil vs Haiti LIVE: FIFA World Cup 2026 | Brazil vs Haiti Match LIVE | Vinicius Junior | N18G",
+            "artist": "CNBC-TV18"
         }
     ],
     "sourceFilters": {
