@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-20T02:47:19.379Z",
+    "generatedAt": "2026-06-20T08:45:58.789Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Yxyju4weNew",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Flash News BD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GtSI3-V2rHE",
-            "name": "Sandeep Chaudhary LIVE: सियासी खींचतान..राम का नाम बदनाम! | Ram Mandir Donation Row | Akhilesh Yadav",
+            "videoId": "JV7GOnODtEc",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE:भरत तिवारी का पुलिस ने किया एनकाउटंर, हिल गया पूरा बिहार!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "D81khC7DqM4",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 20 June",
+            "videoId": "9LmhupB2QhM",
+            "name": "🔴 LIVE: அடிக்க பாய்ந்தாரா தவெக MLA..? | TVK MLA | TN Assembly | CM vijay |",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FY8cwbDH6FU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 20 June  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NEWS LINK TV "
+        },
+        {
+            "mood": "storm",
+            "videoId": "HMA_3CHe3Og",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WdZVLbN_Sj0",
+            "name": "Ram Mandir Donation Theft News LIVE: योगी बोले 15 दिन का इंतजार, उसके बाद...विपक्ष में मची खलबली!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Cc8fP2HL0l4",
-            "name": "US-IRAN NEWS LIVE: Trump's Biggest Foreign Policy Win Yet? | World News",
-            "artist": "ET Now"
+            "videoId": "K-byUFM7j-0",
+            "name": "Today Headlines | 20 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "vo2DsMNO9SI",
-            "name": "🔴Brazil vs Haiti LIVE: FIFA World Cup 2026 | Brazil vs Haiti Match LIVE | Vinicius Junior | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "qXEBhEDNoLY",
+            "name": "🔴 LIVE | Big Breaking ଓଡ଼ିଶାରେ ପହଞ୍ଚିଲେ ମୋଦୀ | PM Modi Mayurbhanj Visit | President Droupadi Murmu",
+            "artist": "Kanak News"
         },
         {
             "mood": "storm",
-            "videoId": "nKmV1Rz2ghw",
-            "name": "Israeli attacks on Lebanon before the ceasefire | 1 AM Headlines Geo News (20 June 2026)",
+            "videoId": "IvTX-hPkxgs",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-jL5mjaNweg",
+            "name": "Jharkhand Mahagathbandhan Crisis News LIVE: राज्यसभा चुनाव हारते ही महागठबंधन में बड़ी टूट!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_FWPcPXz78A",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 20-06-2026 | #morningwithabn  | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "3XcHrXbNl_c",
+            "name": "Clashes Reported in South Lebanon | Heavy Casualties Claims Emerging | 10 AM Headlines Geo News 20-6",
             "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Io1VRSH5K4U",
-            "name": "Pres. Trump reveals new Air Force One at Joint Base Andrews: LIVE",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qswmEaLEDIk",
-            "name": "ABC World News Tonight With David Muir 6/19/26 | ABC News Now Today June 19, 2026",
-            "artist": "Pop Skin Spa"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PYQgo3gEWTw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বিশ্বের সব খবর"
         }
     ],
     "sourceFilters": {
