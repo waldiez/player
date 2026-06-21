@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-21T13:55:33.316Z",
+    "generatedAt": "2026-06-21T19:21:48.858Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "58DoorRJzgk",
-            "name": "Seedha Sawal LIVE: नेतन्याहू बेलगाम...ट्रंप की डील नाकाम? | Sandeep Chaudhary | India-US Deal",
-            "artist": "ABP NEWS"
+            "videoId": "sD4x8sSpj9I",
+            "name": "BREAKING NEWS LIVE: Trump Leaves Netanyahu Speechless With Explosive Iran Remarks | World Reacts",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "U5UaGzosJZ4",
-            "name": "ABP Report LIVE: NEET परीक्षा केैसी रही...बताएंगे परीक्षार्थी | NEET UG 2026 Re-Exam | Pooja",
-            "artist": "ABP NEWS"
+            "videoId": "Wo5ZKMdQHAI",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "kQUap6tkJSg",
-            "name": "Ram Mandir Donation Theft News LIVE: चांदी की 200 ईंटें कहां गईं, चंदा चोरी का 'अयोध्या कांड'",
+            "videoId": "Paq7tdkicVc",
+            "name": "LIVE with Dr. Shahid Masood | Negotiations and the Middle East's disintegration | 21 June 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B3yKN1-zMjk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "leWt3o98Ix4",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 21 June 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AZCxQcLdYuI",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत का एनकाउंटर, बिहार में बवंडर ! Samrat Chaudhary",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XFe_lhjfZ3c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
-        },
-        {
-            "mood": "storm",
-            "videoId": "Al82VjdJYFE",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: 'किस्मत में मरना लिखा था, मर गया' | Samrat Chaudhary",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CPZ9XNYDp3Q",
-            "name": "LIVE: IMD Issues Heavy Rain Alert to Telangana | Latest Weather Updates | Flood in Hyderabad | ZEE",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bwfukrK5EZ4",
-            "name": "Today News LIVE | PM Modi Big Statement | Indian Navy New Warship | CM Yogi Statement | India TV",
-            "artist": "India TV Speed News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dqwp_pXxYMc",
-            "name": "Bangla News Live BBC World News June 21, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AZCDUL3hc9U",
-            "name": "Sanjay Raut News LIVE | Omraje Nimbalkar | फुटीर खासदारांवर काय म्हणाले? | Uddhav Thackeray | Shinde",
-            "artist": "News18 Marathi"
         }
     ],
     "sourceFilters": {
