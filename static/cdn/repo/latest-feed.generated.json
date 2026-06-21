@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-21T03:30:03.112Z",
+    "generatedAt": "2026-06-21T09:41:20.724Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "22qXXu164Hg",
-            "name": "International Yoga Day 2026: PM Modi, Amit Shah और CM Yogi...योग करते तस्वीरें वायरल! | Latest News",
+            "videoId": "FotEQp83hbw",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: ‘फर्जी एनकाउंटर’ या ‘सुनियोजित हत्या’..? | Bihar Police",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vopxU3AgkHg",
-            "name": "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरीकेस में सबसे बड़ा खुलासा, फंसे ये चार लोग!",
+            "videoId": "o6f7GjsjXR4",
+            "name": "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qp7Hi-rpqPk",
+            "name": "Bhojpur Bharat Tiwari Encounter  LIVE: ‘भरत का एनकाउंटर निकला फेक?, तेजस्वी के दावे ने उड़ाए होश!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MQtqoCmSVV0",
-            "name": "Iran America War Update: टूटी डील LIVE? Israel ने मचाई खौफनाक तबाही... हाई अलर्ट पर ईरान! | Trump",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "4bbF-6nd8SM",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: बिहार में भरत तिवारी का सरेंडर के बाद एनकाउंटर?| Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ynOug-j_3DE",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২১.০৬.২০২৬ | Breaking News | Latest News | Update News | ATN Bangla",
-            "artist": "ATN Bangla News"
+            "videoId": "500mjO8kmSg",
+            "name": "LIVE: Kolkata में PM Modi का मेगा योग कार्यक्रम | International Yoga Day 2026 | West Bengal",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "5Y3NInCN2Rk",
-            "name": "Trump Issues New Warning - Major Threat if Agreement Fails | 6 AM GEO News Headlines | 21 June 2026",
+            "videoId": "5tptvNnf1V8",
+            "name": "Rainy Weather Updates: 11 AM GEO News Headlines | 21 June 2026",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "nTuf1E1yrBs",
-            "name": "Iran America War Live Update: ईरान-अमेरिका-इजरायल युद्ध की खबरें| Hormuz | Trump | Netanyahu | N18G",
-            "artist": "News18 UP Uttarakhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wHnKZiQtMqo",
-            "name": "🔴LIVE: Today Headlines - 20 JUNE 2026 | இரவு தலைப்புச் செய்திகள் | Night Headlines | CM Vijay",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XX6dL8ohA9E",
-            "name": "Aaj Ki Taaza Khabar LIVE : 21 June 2026 | Ram Mandir | International Yoga Day| Uddhav | Akhilesh",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ilv0YwHTHTI",
-            "name": "Today's Headlines | 21 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
+            "videoId": "jSw0JFg3_kA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 21 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Television 24 BANGLA"
         }
     ],
     "sourceFilters": {
