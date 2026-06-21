@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-20T19:15:53.819Z",
+    "generatedAt": "2026-06-21T03:30:03.112Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LjtTLRZIgSA",
-            "name": "🔴LIVE: Today Headlines | இரவு 10 மணி தலைப்புச் செய்திகள் (20.06.2026) | 10 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "22qXXu164Hg",
+            "name": "International Yoga Day 2026: PM Modi, Amit Shah और CM Yogi...योग करते तस्वीरें वायरल! | Latest News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Ij5g-5hSGa0",
-            "name": "🔴 LIVE | ଓଡ଼ିଶାରେ ମୋଦୀ, ପ୍ରବଳ ଭିଡ଼ PM Narendra Modi Mayurbhanj Visit | President Droupadi Murmu",
-            "artist": "Kanak News"
+            "videoId": "vopxU3AgkHg",
+            "name": "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरीकेस में सबसे बड़ा खुलासा, फंसे ये चार लोग!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qXEBhEDNoLY",
-            "name": "🔴 LIVE | Big Breaking ଓଡ଼ିଶାରେ ପହଞ୍ଚିଲେ ମୋଦୀ | PM Modi Mayurbhanj Visit | President Droupadi Murmu",
-            "artist": "Kanak News"
+            "videoId": "MQtqoCmSVV0",
+            "name": "Iran America War Update: टूटी डील LIVE? Israel ने मचाई खौफनाक तबाही... हाई अलर्ट पर ईरान! | Trump",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "h_fRzq7Uw-Q",
-            "name": "🔴 Brazil VS Haiti LIVE | FIFA World Cup 2026 | Brazil VS Haiti | Vinícius Júnior | Duckens Nazon",
-            "artist": "Firstpost"
+            "videoId": "ynOug-j_3DE",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২১.০৬.২০২৬ | Breaking News | Latest News | Update News | ATN Bangla",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "DPTpU6HDlqU",
-            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (20-06-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "5Y3NInCN2Rk",
+            "name": "Trump Issues New Warning - Major Threat if Agreement Fails | 6 AM GEO News Headlines | 21 June 2026",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "XBSv-paoAio",
-            "name": "Trump News LIVE: Trump Declares Iran War Nearly Over | 'We Are Going to Finish the Job Very Fast'",
-            "artist": "Times Now"
+            "videoId": "nTuf1E1yrBs",
+            "name": "Iran America War Live Update: ईरान-अमेरिका-इजरायल युद्ध की खबरें| Hormuz | Trump | Netanyahu | N18G",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "ZsCCUAAQm44",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.06.2026) | Sathiyam Headlines",
+            "videoId": "wHnKZiQtMqo",
+            "name": "🔴LIVE: Today Headlines - 20 JUNE 2026 | இரவு தலைப்புச் செய்திகள் | Night Headlines | CM Vijay",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XX6dL8ohA9E",
+            "name": "Aaj Ki Taaza Khabar LIVE : 21 June 2026 | Ram Mandir | International Yoga Day| Uddhav | Akhilesh",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ilv0YwHTHTI",
+            "name": "Today's Headlines | 21 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l6V1w979KMA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5qHEw9-N4yc",
-            "name": "The World's Most Luxurious Plane? Trump Unveils New $400M Air Force One Gifted by Qatar |FP Explains",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vo2DsMNO9SI",
-            "name": "🔴Brazil vs Haiti LIVE: FIFA World Cup 2026 | Brazil vs Haiti Match LIVE | Vinicius Junior | N18G",
-            "artist": "CNBC-TV18"
         }
     ],
     "sourceFilters": {
