@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260621T094120.762Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260621T135533.352Z-l4t35t"
   type: "state"
-  created: "2026-06-21T09:41:20.762Z"
+  created: "2026-06-21T13:55:33.352Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260621T094120.762Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260621T135533.352Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FotEQp83hbw"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE: ‘फर्जी एनकाउंटर’ या ‘सुनियोजित हत्या’..? | Bihar Police"
+        videoId: "58DoorRJzgk"
+        name: "Seedha Sawal LIVE: नेतन्याहू बेलगाम...ट्रंप की डील नाकाम? | Sandeep Chaudhary | India-US Deal"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o6f7GjsjXR4"
-        name: "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Qp7Hi-rpqPk"
-        name: "Bhojpur Bharat Tiwari Encounter  LIVE: ‘भरत का एनकाउंटर निकला फेक?, तेजस्वी के दावे ने उड़ाए होश!"
+        videoId: "U5UaGzosJZ4"
+        name: "ABP Report LIVE: NEET परीक्षा केैसी रही...बताएंगे परीक्षार्थी | NEET UG 2026 Re-Exam | Pooja"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4bbF-6nd8SM"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE: बिहार में भरत तिवारी का सरेंडर के बाद एनकाउंटर?| Breaking"
+        videoId: "kQUap6tkJSg"
+        name: "Ram Mandir Donation Theft News LIVE: चांदी की 200 ईंटें कहां गईं, चंदा चोरी का 'अयोध्या कांड'"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XFe_lhjfZ3c"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Al82VjdJYFE"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: 'किस्मत में मरना लिखा था, मर गया' | Samrat Chaudhary"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "500mjO8kmSg"
-        name: "LIVE: Kolkata में PM Modi का मेगा योग कार्यक्रम | International Yoga Day 2026 | West Bengal"
-        artist: "News18 India"
+        videoId: "CPZ9XNYDp3Q"
+        name: "LIVE: IMD Issues Heavy Rain Alert to Telangana | Latest Weather Updates | Flood in Hyderabad | ZEE"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5tptvNnf1V8"
-        name: "Rainy Weather Updates: 11 AM GEO News Headlines | 21 June 2026"
-        artist: "Geo News"
+        videoId: "bwfukrK5EZ4"
+        name: "Today News LIVE | PM Modi Big Statement | Indian Navy New Warship | CM Yogi Statement | India TV"
+        artist: "India TV Speed News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jSw0JFg3_kA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 21 June 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Television 24 BANGLA"
+        videoId: "dqwp_pXxYMc"
+        name: "Bangla News Live BBC World News June 21, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AZCDUL3hc9U"
+        name: "Sanjay Raut News LIVE | Omraje Nimbalkar | फुटीर खासदारांवर काय म्हणाले? | Uddhav Thackeray | Shinde"
+        artist: "News18 Marathi"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-21T09:41:20.762Z"
+  exported_at: "2026-06-21T13:55:33.352Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-21T09:41:20.724Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-21T13:55:33.316Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
