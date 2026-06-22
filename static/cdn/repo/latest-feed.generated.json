@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-22T16:44:07.482Z",
+    "generatedAt": "2026-06-22T20:37:32.587Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vlkDcN8Y9Mk",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : लखनऊ में जिंदा जले 15 लोग! Yogi | Bharat Tiwari",
-            "artist": "NDTV India"
+            "videoId": "xazPDOcmO8g",
+            "name": "🔴LIVE : Today Headlines - 22 June 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "URazqmFDK8E",
+            "videoId": "TANYPNtrVGk",
+            "name": "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ২৩ জুন ২০২৬ | News Bulletin | Latest News | NEWS24",
+            "artist": "NEWS24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1CS_Hhnq4S8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fd5T9m8DwCI",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "oUMUYPrUmu4",
-            "name": "Bharat Tiwari Case In Supreme Court: भरत तिवारी केस पर बड़ी खबर | Bhojpur Police Encounter",
-            "artist": "ABP NEWS"
+            "videoId": "zUBMjT8xzGA",
+            "name": "LIVE with Dr. Shahid Masood | After negotiations... new wars? | 22 June 2026 | GNN",
+            "artist": "GNN"
         },
         {
             "mood": "storm",
-            "videoId": "y3BAf2v-uxc",
-            "name": "Bangla News Live BBC World News June 22, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D15D37fXCnM",
-            "name": "Sandeep Chaudhary LIVE: राजधानी टू राजधानी...लापरवाही की वही कहानी? | Lucknow Fire | Rahul Gandhi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MZTx7mg4ZO0",
-            "name": "US NEWS LIVE: JD Vance Defends Trump’s Iran Deal, Sends Blunt Message to Netanyahu | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ve7F_v5Z2Rk",
-            "name": "World News LIVE: The Hidden Truth About Iran Revealed | Trump | Marco Rubio | Khamenei | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GZrUTHMhEzM",
-            "name": "Lucknow Coaching Fire | Breaking: लखनऊ कोचिंग हादसे का LIVE वीडियो आया सामने | Coaching | UP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "p9LDyac1l8U",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1c5TFvAv20E",
-            "name": "Shiv Sena UBT MLA Meeting: 20 विधायक छोड़ सकते हैं शिवसेना? | Uddhav Thackeray | Eknath Shinde",
-            "artist": "ABP NEWS"
+            "videoId": "t9Vvo-PLXMM",
+            "name": "LIVE: Pakistan Threatens War Against India Over Indus Water Treaty | Firstpost Live | N18G",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
