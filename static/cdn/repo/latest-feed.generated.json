@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-21T19:21:48.858Z",
+    "generatedAt": "2026-06-22T03:35:06.094Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sD4x8sSpj9I",
-            "name": "BREAKING NEWS LIVE: Trump Leaves Netanyahu Speechless With Explosive Iran Remarks | World Reacts",
-            "artist": "Times Now"
+            "videoId": "QJl1sSpdP2Q",
+            "name": "Live: US VP JD Vance Briefs Media After First Round Of Peace Talks With Iran In Switzerland | Watch",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "Wo5ZKMdQHAI",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.06.2026) | Sathiyam Headlines",
+            "videoId": "c7PetcfATbw",
+            "name": "Republic TV LIVE: June 21, 2026 | Republic Summit 2026 |  PM Modi | Political, Global News | US News",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "58DoorRJzgk",
+            "name": "Seedha Sawal LIVE: नेतन्याहू बेलगाम...ट्रंप की डील नाकाम? | Sandeep Chaudhary | India-US Deal",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eMQn11PiaHA",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: 'किस्मत में मरना लिखा था, मर गया' | Samrat Chaudhary",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aedaZaMQ1dw",
+            "name": "Bangla News Live BBC World News June 22, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "trT1dnmEdjU",
+            "name": "Headlines Now | 6 AM | 22-06-2026 | Sun News | Tamil News Today | Latest News",
+            "artist": "Sun News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Gi3gjpnmNeM",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 22 June",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xazPDOcmO8g",
+            "name": "🔴LIVE : Today Headlines - 22 June 2026 | 9 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HdvhJ5-DWY8",
+            "name": "Today's Headlines | 22 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Paq7tdkicVc",
-            "name": "LIVE with Dr. Shahid Masood | Negotiations and the Middle East's disintegration | 21 June 2026 | GNN",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B3yKN1-zMjk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "leWt3o98Ix4",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 21 June 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AZCxQcLdYuI",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत का एनकाउंटर, बिहार में बवंडर ! Samrat Chaudhary",
-            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
