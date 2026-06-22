@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-22T11:42:22.358Z",
+    "generatedAt": "2026-06-22T16:44:07.482Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xPIiuEJe7Ck",
-            "name": "Bangla News Live BBC World News 22 June 2026 || World News Bangla || International News Today ||",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "vlkDcN8Y9Mk",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : लखनऊ में जिंदा जले 15 लोग! Yogi | Bharat Tiwari",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "5Sy0DBhTN94",
+            "videoId": "URazqmFDK8E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oUMUYPrUmu4",
+            "name": "Bharat Tiwari Case In Supreme Court: भरत तिवारी केस पर बड़ी खबर | Bhojpur Police Encounter",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "y3BAf2v-uxc",
             "name": "Bangla News Live BBC World News June 22, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "QVM1DXVm68A",
-            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
-            "artist": "Times Now World"
+            "videoId": "D15D37fXCnM",
+            "name": "Sandeep Chaudhary LIVE: राजधानी टू राजधानी...लापरवाही की वही कहानी? | Lucknow Fire | Rahul Gandhi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jqRtveMj5Ok",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.06.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "MZTx7mg4ZO0",
+            "name": "US NEWS LIVE: JD Vance Defends Trump’s Iran Deal, Sends Blunt Message to Netanyahu | World News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "TeYZtikAVbY",
-            "name": "🔴LIVE: TN Assembly | Cm VIjay | அனல் பறக்கும் சட்டமன்றம்",
-            "artist": "Sathiyam News"
+            "videoId": "Ve7F_v5Z2Rk",
+            "name": "World News LIVE: The Hidden Truth About Iran Revealed | Trump | Marco Rubio | Khamenei | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zYonlY_qxDs",
-            "name": "Latest World News LIVE : Trump's Latest Move Triggers Worldwide Debate | Iran Us Peace Deal",
-            "artist": "Vox Live News"
+            "videoId": "GZrUTHMhEzM",
+            "name": "Lucknow Coaching Fire | Breaking: लखनऊ कोचिंग हादसे का LIVE वीडियो आया सामने | Coaching | UP News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "1Q77U1FVk-I",
-            "name": "Gokul Gite Nashik LIVE | नाशकात मोठा ट्विस्ट! गोकुळ गीते विजयी! नेमकं काय घडलं? Vidhan Parishad",
-            "artist": "News18 Marathi"
+            "videoId": "p9LDyac1l8U",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1c5TFvAv20E",
+            "name": "Shiv Sena UBT MLA Meeting: 20 विधायक छोड़ सकते हैं शिवसेना? | Uddhav Thackeray | Eknath Shinde",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
