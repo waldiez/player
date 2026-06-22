@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-22T03:35:06.094Z",
+    "generatedAt": "2026-06-22T11:42:22.358Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QJl1sSpdP2Q",
-            "name": "Live: US VP JD Vance Briefs Media After First Round Of Peace Talks With Iran In Switzerland | Watch",
-            "artist": "India Today"
+            "videoId": "xPIiuEJe7Ck",
+            "name": "Bangla News Live BBC World News 22 June 2026 || World News Bangla || International News Today ||",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "c7PetcfATbw",
-            "name": "Republic TV LIVE: June 21, 2026 | Republic Summit 2026 |  PM Modi | Political, Global News | US News",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "58DoorRJzgk",
-            "name": "Seedha Sawal LIVE: नेतन्याहू बेलगाम...ट्रंप की डील नाकाम? | Sandeep Chaudhary | India-US Deal",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eMQn11PiaHA",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: 'किस्मत में मरना लिखा था, मर गया' | Samrat Chaudhary",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aedaZaMQ1dw",
+            "videoId": "5Sy0DBhTN94",
             "name": "Bangla News Live BBC World News June 22, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "trT1dnmEdjU",
-            "name": "Headlines Now | 6 AM | 22-06-2026 | Sun News | Tamil News Today | Latest News",
-            "artist": "Sun News"
+            "videoId": "QVM1DXVm68A",
+            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "Gi3gjpnmNeM",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 22 June",
-            "artist": "ABP NEWS"
+            "videoId": "jqRtveMj5Ok",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.06.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "xazPDOcmO8g",
-            "name": "🔴LIVE : Today Headlines - 22 June 2026 | 9 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HdvhJ5-DWY8",
-            "name": "Today's Headlines | 22 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "TeYZtikAVbY",
+            "name": "🔴LIVE: TN Assembly | Cm VIjay | அனல் பறக்கும் சட்டமன்றம்",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zYonlY_qxDs",
+            "name": "Latest World News LIVE : Trump's Latest Move Triggers Worldwide Debate | Iran Us Peace Deal",
+            "artist": "Vox Live News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Q77U1FVk-I",
+            "name": "Gokul Gite Nashik LIVE | नाशकात मोठा ट्विस्ट! गोकुळ गीते विजयी! नेमकं काय घडलं? Vidhan Parishad",
+            "artist": "News18 Marathi"
         }
     ],
     "sourceFilters": {
