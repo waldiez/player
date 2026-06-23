@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-22T20:37:32.587Z",
+    "generatedAt": "2026-06-23T09:28:08.442Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xazPDOcmO8g",
-            "name": "🔴LIVE : Today Headlines - 22 June 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
-            "artist": "Polimer News"
+            "videoId": "YJlddUs82tQ",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: बिहार पुलिस ने क्यों किया भरत तिवारी का एनकाउंटर?",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "TANYPNtrVGk",
-            "name": "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ২৩ জুন ২০২৬ | News Bulletin | Latest News | NEWS24",
-            "artist": "NEWS24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1CS_Hhnq4S8",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.06.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fd5T9m8DwCI",
+            "videoId": "yC1PuJ_pCYY",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "বিশ্বের সব খবর"
         },
         {
             "mood": "storm",
-            "videoId": "zUBMjT8xzGA",
-            "name": "LIVE with Dr. Shahid Masood | After negotiations... new wars? | 22 June 2026 | GNN",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t9Vvo-PLXMM",
-            "name": "LIVE: Pakistan Threatens War Against India Over Indus Water Treaty | Firstpost Live | N18G",
+            "videoId": "zO-ub69_x5k",
+            "name": "Iran Claims Cash Is Coming, US Says Conditions Apply | Firstpost Live | N18G",
             "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Imbqu24Tmw",
+            "name": "Lucknow Coaching Fire News LIVE: अग्निकांड का जिम्मेदार कौन? | Lucknow News | Chitra Tripathi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uTgh0k2u9gw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বাংলা সংবাদ ৭১"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jZ-jq8jj1-0",
+            "name": "Sanjay Raut News LIVE | Omraje Nimbalkar | फुटीर खासदारांवर राऊत संतापले | Uddhav Thackeray | Shinde",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cg6M4VcweIM",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 23.06.2026 | Today News | BD News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

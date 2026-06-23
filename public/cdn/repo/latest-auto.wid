@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260622T203732.624Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260623T092808.474Z-l4t35t"
   type: "state"
-  created: "2026-06-22T20:37:32.624Z"
+  created: "2026-06-23T09:28:08.474Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260622T203732.624Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260623T092808.474Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xazPDOcmO8g"
-        name: "🔴LIVE : Today Headlines - 22 June 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
-        artist: "Polimer News"
+        videoId: "YJlddUs82tQ"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: बिहार पुलिस ने क्यों किया भरत तिवारी का एनकाउंटर?"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TANYPNtrVGk"
-        name: "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ২৩ জুন ২০২৬ | News Bulletin | Latest News | NEWS24"
-        artist: "NEWS24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1CS_Hhnq4S8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fd5T9m8DwCI"
+        videoId: "yC1PuJ_pCYY"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        artist: "বিশ্বের সব খবর"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zUBMjT8xzGA"
-        name: "LIVE with Dr. Shahid Masood | After negotiations... new wars? | 22 June 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "t9Vvo-PLXMM"
-        name: "LIVE: Pakistan Threatens War Against India Over Indus Water Treaty | Firstpost Live | N18G"
+        videoId: "zO-ub69_x5k"
+        name: "Iran Claims Cash Is Coming, US Says Conditions Apply | Firstpost Live | N18G"
         artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1Imbqu24Tmw"
+        name: "Lucknow Coaching Fire News LIVE: अग्निकांड का जिम्मेदार कौन? | Lucknow News | Chitra Tripathi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uTgh0k2u9gw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বাংলা সংবাদ ৭১"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jZ-jq8jj1-0"
+        name: "Sanjay Raut News LIVE | Omraje Nimbalkar | फुटीर खासदारांवर राऊत संतापले | Uddhav Thackeray | Shinde"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cg6M4VcweIM"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 23.06.2026 | Today News | BD News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-22T20:37:32.624Z"
+  exported_at: "2026-06-23T09:28:08.474Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-22T20:37:32.587Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-23T09:28:08.442Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
