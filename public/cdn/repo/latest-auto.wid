@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260623T092808.474Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260623T143551.184Z-l4t35t"
   type: "state"
-  created: "2026-06-23T09:28:08.474Z"
+  created: "2026-06-23T14:35:51.184Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260623T092808.474Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260623T143551.184Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YJlddUs82tQ"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE: बिहार पुलिस ने क्यों किया भरत तिवारी का एनकाउंटर?"
-        artist: "NDTV India"
+        videoId: "40Fc0DjLQds"
+        name: "LIVE: Putin’s Emergency Address, 'World War 3' Fears Skyrocket Amid Middle East Oil Crisis"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yC1PuJ_pCYY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বের সব খবর"
+        videoId: "PQtEMr4J6ro"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zO-ub69_x5k"
-        name: "Iran Claims Cash Is Coming, US Says Conditions Apply | Firstpost Live | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1Imbqu24Tmw"
-        name: "Lucknow Coaching Fire News LIVE: अग्निकांड का जिम्मेदार कौन? | Lucknow News | Chitra Tripathi"
+        videoId: "YH-F_GUKKyo"
+        name: "Sandeep Chaudhary LIVE: राम मंदिर पर घमासान...CM Yogi का इम्तिहान? | Ram Mandir Loot | Champat Rai"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uTgh0k2u9gw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বাংলা সংবাদ ৭১"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jZ-jq8jj1-0"
-        name: "Sanjay Raut News LIVE | Omraje Nimbalkar | फुटीर खासदारांवर राऊत संतापले | Uddhav Thackeray | Shinde"
+        videoId: "Y-dAbqzDeOo"
+        name: "Nashik Rain News LIVE | पहिल्याच पावसात नाशिककरांचे हाल! | Maharashtra Rain News Today | Monsoon"
         artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cg6M4VcweIM"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 23.06.2026 | Today News | BD News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "CWQ8wDEfa4g"
+        name: "LIVE | Iranian President Arrives in Pakistan! Exclusive Arrival Scenes Captured | 92 NewsHD"
+        artist: "92 News HD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KPcSY3BrW1U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5hEBXw6PsBY"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी को किसके कहने पर गोली मारी, खुला राज!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lAxltRWLHIE"
+        name: "Israel Issues New Security Warning Amid Regional Tensions | ARY News 4 PM Headlines | 23 June 2026"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "az4qsomA4K4"
+        name: "🔴 LIVE: Iranian President Masoud Pezeshkian Arrives in Pakistan on Special Aircraft | Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JJuw73Lm0uc"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c1_IpI8ZW1M"
+        name: "🔴 LIVE: Iranian President Masoud Pezeshkian Arrives in Pakistan on Special Aircraft | Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "n8-X-8lBK4w"
+        name: "India Pakistan Crisis LIVE: India-Pakistan Indus Treaty Crisis Escalates Amid Cross-Border Terrorism"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-23T09:28:08.474Z"
+  exported_at: "2026-06-23T14:35:51.184Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-23T09:28:08.442Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-23T14:35:51.144Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
