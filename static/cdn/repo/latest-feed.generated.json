@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-24T08:57:29.919Z",
+    "generatedAt": "2026-06-24T14:14:11.272Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UhWiMMn77Rk",
-            "name": "Bharat Tiwari Encounter Controversy LIVE: न्याय दिलाने के लिए ‘महापंचायत’ हुई शुरू! | UP News | Yogi",
+            "videoId": "mX9oDdiFykE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bd top 3"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TkyMhRkp4BA",
+            "name": "Ram Mandir Theft News LIVE: ‘चंपत राय को क्यों बचा रही सरकार’ | Akhilesh Yadav | CM Yogi | SIT",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xCs5nHkNVxE",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी के गांव से महापंचायत, लोगों में गुस्सा!",
+            "videoId": "eoH_-fLLT0w",
+            "name": "Bharat Tiwari Mother Shocking Reveal LIVE: प्राईवेट पार्ट में गोली मारी' | Bihar | Bhojpur Police",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yJH5s-IWj08",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (24.06.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "bnJoZzXJAqk",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "qL1fT1y-SAA",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी के घर के बाहर जूटी लोगों की भारी भीड़",
+            "videoId": "VGHOowTolTo",
+            "name": "Ram Mandir Theft Breaking: 'चंपत राय के  गिरफ्तारी की मांग'' | Champat Rai | SIT Report | Yogi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bVvfrwA4XyA",
-            "name": "Pune Murder Case News LIVE: बॉयफ्रेंड संग मंगेतर को खाई में धक्का! | Siya Goyal | Lohagad | Ketan",
-            "artist": "ABP NEWS"
+            "videoId": "x3otIckhcho",
+            "name": "WATCH LIVE: England vs Ghana | FIFA World Cup 2026 Group L Clash",
+            "artist": "The Daily Guardian"
         },
         {
             "mood": "storm",
-            "videoId": "fT4yPbxW4zQ",
-            "name": "🔴 LIVE: மொத்த தமிழ்நாட்டையும் அதிரவைத்த அடுத்த கொடூரம்",
-            "artist": "Sathiyam News"
+            "videoId": "U9odfweW3MI",
+            "name": "Bangla News Live BBC World News June 24, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "C-x6r9X4AOM",
-            "name": "Morning News Today LIVE | Sakalchya Batmya | 24 June | Mumbai Rain News | Monsoon Update Today",
-            "artist": "News18 Marathi"
+            "videoId": "PyGqRjLb6yk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "MR TV"
         },
         {
             "mood": "storm",
-            "videoId": "bjCRUhRtVUU",
-            "name": "US Iran War LIVE: Donald Trump Declares To ‘Bomb The Hell Out Of Iran’ If Peace Deal Is Broken",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "42lCQB30AP0",
-            "name": "Aaj Ki Taaja Khabar LIVE : 24 June 2026 | PM Modi | Breaking news | Rahul Gandhi | Trump | Lucknow",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lGXetmM0mXc",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UftCF8ya8NI",
-            "name": "🔴 LIVE: TVK vs DMK | அசிங்கப்படுத்திய விஜய் - ஸ்டாலின் எடுத்த முடிவு",
-            "artist": "Sathiyam News"
+            "videoId": "9oKKpgQRzDA",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.06.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
