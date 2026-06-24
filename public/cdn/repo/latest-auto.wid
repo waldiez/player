@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260623T195321.198Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260624T024136.900Z-l4t35t"
   type: "state"
-  created: "2026-06-23T19:53:21.198Z"
+  created: "2026-06-24T02:41:36.900Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260623T195321.198Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260624T024136.900Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "iG7w18qsahY"
-        name: "🔴 Geo News Live: Latest 𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻 𝗡𝗲𝘄𝘀 Live 𝟐4/𝟕 Breaking News & Headlines (Today News) #pakistannews"
-        artist: "Geo News"
+        videoId: "obgLfNfa1sw"
+        name: "Ram Mandir Chori Kand LIVE: यूपी छोड़ भाग गए चंपत राय? | Mandir Theft | UP Police | CM Yogi Action"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2yBKMDPgZ3c"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (23.06.2026) | 11 PM Headlines | ThanthiTV"
+        videoId: "nuLbVRfefQ8"
+        name: "Big Action in Bharat Tiwari Encounter Case LIVE: भरत तिवारी मामले में एक्शन, पुलिसकर्मियों पर FIR"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mEQwC6tzCJY"
+        name: "Bharat Tiwari Encounter News LIVE: न्याय दिलाने के लिए अनशन शुरू...! | Bhojpur | Bihar | Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7qYc5iKF2Kc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NEWS WALD BD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "booPtCisw-E"
+        name: "WORLD NEWS LIVE: Trump's Iran Strategy Under Scrutiny Amid $12 Billion Controversy | World News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A7VD3gZZy-g"
+        name: "🔴 LIVE: Iran's ballistic missile programme not part of Islamabad MoU, clarifies PM | ARY News"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YH-F_GUKKyo"
+        name: "Sandeep Chaudhary LIVE: राम मंदिर पर घमासान...CM Yogi का इम्तिहान? | Ram Mandir Loot | Champat Rai"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NJ1aX6Kf8rA"
+        name: "Janhit with Chitra Tripathi LIVE: आग लगे ऐसे 'सिस्टम' को! | Lucknow Fire | CM Yogi | Akhilesh Yadav"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cEl142aOFEU"
+        name: "Big Action in Bharat Tiwari Encounter Case LIVE: भरत तिवारी मामले में एक्शन, पुलिसकर्मियों पर FIR"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1i9QzJyVFEI"
+        name: "Today's Headlines | 24 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9oKKpgQRzDA"
+        name: "🔴LIVE: Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (24.06.2026) | 8 AM Headlines | ThanthiTV"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1nGUxoBYflY"
-        name: "⚽🔥 ENGLAND vs GHANA 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇭 | FIFA WORLD CUP 2026 LIVE"
-        artist: "The New Africa Channel"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KgQJc0C7aII"
-        name: "Latest News Live | ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ |Today Punjabi News | CM Mann | Sultan | Weather | News18"
-        artist: "News18 Punjab"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Tiucs-l8KR8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eVZSJir3SJI"
-        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (23-06-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Q1ySwUsz5Z0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ma9rj7UjpC4"
-        name: "🔴 LIVE: தமிழகமே எதிர்பார்த்த CM பேச்சு .. அனல் பறக்கும் சட்டசபை | CM Vijay Assembly Speech"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SWoINaN4n3s"
-        name: "🔴LIVE:Udhayanidhi Stalin Vs CM Vijay | ''கணவனை தேடும் மனைவி கதை தமிழ்நாட்டுக்கே தெரியும்''"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CJUQmHaFbfw"
-        name: "LIVE with Dr. Shahid Masood | A lot is happening | 23 June 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3VFW8zeYftQ"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : चढ़ावा चोरों पर योगी का हंटर! CM Yogi | Lucknow"
-        artist: "NDTV India"
+        videoId: "QVL2rXZ42n4"
+        name: "BREAKING: Republicans BREAK with Trump to rebuke Iran war"
+        artist: "Fox News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-23T19:53:21.198Z"
+  exported_at: "2026-06-24T02:41:36.900Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-23T19:53:21.166Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-24T02:41:36.864Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
