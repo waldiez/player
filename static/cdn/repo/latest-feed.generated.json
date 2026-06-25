@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-24T14:14:11.272Z",
+    "generatedAt": "2026-06-25T02:42:22.485Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mX9oDdiFykE",
+            "videoId": "F4cI7d09Kqg",
+            "name": "🔴LIVE || US President Donald Trump Meets NATO Chief || ARY News Live",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cXpDyazPjxE",
+            "name": "Iran America Deal Update LIVE: Hezbollah & Israel War News | Strait Of Hurmoz Update | West War",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4bwD0H3BGr0",
+            "name": "Powerful Earthquake Strikes Venezuela | 7.5 Magnitude Shocks Reported | 6 AM GEO News Headlines",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GJTaRFyKliU",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.06.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xCs5nHkNVxE",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी के गांव से महापंचायत, लोगों में गुस्सा!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wKAWxxvHKlE",
+            "name": "Sandeep Chaudhary LIVE: SIT 'बिना तीर के कमान'...राम भक्तों का इम्तिहान! | Ram Mandir Donation Row",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "shmLu2M34JQ",
+            "name": "Sandeep Chaudhary LIVE: राम नाम की लूट...किसने दी छूट? | Ram Mandir Donation Theft | Akhilesh Yadav",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d5rrL3eck_s",
+            "name": "Today's Headlines | 25 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FV_Z5YUnows",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bd top 3"
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "TkyMhRkp4BA",
-            "name": "Ram Mandir Theft News LIVE: ‘चंपत राय को क्यों बचा रही सरकार’ | Akhilesh Yadav | CM Yogi | SIT",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eoH_-fLLT0w",
-            "name": "Bharat Tiwari Mother Shocking Reveal LIVE: प्राईवेट पार्ट में गोली मारी' | Bihar | Bhojpur Police",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bnJoZzXJAqk",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VGHOowTolTo",
-            "name": "Ram Mandir Theft Breaking: 'चंपत राय के  गिरफ्तारी की मांग'' | Champat Rai | SIT Report | Yogi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "x3otIckhcho",
-            "name": "WATCH LIVE: England vs Ghana | FIFA World Cup 2026 Group L Clash",
-            "artist": "The Daily Guardian"
-        },
-        {
-            "mood": "storm",
-            "videoId": "U9odfweW3MI",
-            "name": "Bangla News Live BBC World News June 24, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PyGqRjLb6yk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "MR TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9oKKpgQRzDA",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.06.2026)| 2 PM Headlines | ThanthiTV",
+            "videoId": "B_Esx_kxenU",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.06.2026) | 11 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I-SCXbPxYpE",
+            "name": "Latest World News LIVE : Trump's Latest Move Triggers Worldwide Debate | Iran Us Peace Deal",
+            "artist": "Vox Live News"
         }
     ],
     "sourceFilters": {
