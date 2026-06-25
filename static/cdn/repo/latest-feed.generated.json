@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-25T08:51:55.438Z",
+    "generatedAt": "2026-06-25T14:12:15.197Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "s7c8uWBZ9HE",
-            "name": "🔴South Africa vs South Korea LIVE: FIFA World Cup 2026 | Full Match Watchalong | RSA vs KOR LIVE",
-            "artist": "moneycontrol"
+            "videoId": "t4aAyXJWpYQ",
+            "name": "Bharat Tiwari Encounter News LIVE: भरत तिवारी की मां ने किए चौंकाने वाले खुलासे, मचा हड़कंप!",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "nVJecoSJSCA",
-            "name": "Sanjay Singh Expose Champat Rai LIVE: फंस गए चंपत राय, AAP सांसद संजय सिंह का बड़ा खुलासा! | SIT",
+            "videoId": "oybDPbmCbSY",
+            "name": "Venezuela Earthquake News Live: गिरती दीवारें, भागते लोग,अब सुनामी मचाएगी तबाही! | Big Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3V2XOgOH6k4",
-            "name": "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News",
-            "artist": "Times Now World"
+            "videoId": "iwrbL1kfQ7o",
+            "name": "Venezuela Earthquake LIVE 🔴 Massive 7.2 & 7.5 Quakes Rock Caracas | World Breaking News",
+            "artist": "Asianet News English"
         },
         {
             "mood": "storm",
-            "videoId": "7xaOLGdWsvY",
-            "name": "WATCH LIVE: Scotland vs Brazil | FIFA World Cup 2026 Group C Clash",
-            "artist": "The Daily Guardian"
+            "videoId": "CJpFkLAvRJ8",
+            "name": "World News Live Update | Top 20 International News Headlines Today",
+            "artist": "World Galaxy"
         },
         {
             "mood": "storm",
-            "videoId": "XlFONXrDW1o",
-            "name": "LIVE: Back-to-back powerful earthquakes slam Venezuela | WORLD News Live | Venezuela Earthquake",
-            "artist": "ET Now World"
+            "videoId": "QzuvSbtAVJ0",
+            "name": "Passport Controvery: पासपोर्ट नहीं प्रूफ करेगा आपकी नागरिकता? | Breaking News | Latest News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "197R2J05_lI",
-            "name": "Today Headlines | 25 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "ER9aEj2ZT5k",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी का मिल गया मोबाइल?अब खुलेगा बड़ा राज!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IZNSBrSpjZk",
-            "name": "Morning News Today LIVE | Sakalchya Batmya | 25 June | Mumbai Rain News | Monsoon Update Today",
-            "artist": "News18 Marathi"
+            "videoId": "4ndh7AwHA70",
+            "name": "Big Update on Bharat Tiwari Encounter LIVE: भरत तिवारी को किसके कहने पर गोली मारी, खुला राज!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Ob-xOiOeHpQ",
-            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
-            "artist": "Times Now World"
+            "videoId": "QH_jb4H38Z0",
+            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी के एनकाउंटर पर एक और बड़ा खुलासा!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3Nr6LYUS-20",
+            "name": "Iran Issues Strong Warning as NATO Faces New Concerns | GEO News Headlines 4 PM (25 June 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GsJ8TYaPj6M",
+            "name": "Ram Mandir Donation Theft News LIVE: राम मंदिर दान चोरी के सबूत लेकर अचानक पहुंच गए संजय सिंह!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
