@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-25T02:42:22.485Z",
+    "generatedAt": "2026-06-25T08:51:55.438Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "F4cI7d09Kqg",
-            "name": "🔴LIVE || US President Donald Trump Meets NATO Chief || ARY News Live",
-            "artist": "ARY News"
+            "videoId": "s7c8uWBZ9HE",
+            "name": "🔴South Africa vs South Korea LIVE: FIFA World Cup 2026 | Full Match Watchalong | RSA vs KOR LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "cXpDyazPjxE",
-            "name": "Iran America Deal Update LIVE: Hezbollah & Israel War News | Strait Of Hurmoz Update | West War",
-            "artist": "News18 Urdu"
+            "videoId": "nVJecoSJSCA",
+            "name": "Sanjay Singh Expose Champat Rai LIVE: फंस गए चंपत राय, AAP सांसद संजय सिंह का बड़ा खुलासा! | SIT",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4bwD0H3BGr0",
-            "name": "Powerful Earthquake Strikes Venezuela | 7.5 Magnitude Shocks Reported | 6 AM GEO News Headlines",
-            "artist": "Geo News"
+            "videoId": "3V2XOgOH6k4",
+            "name": "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "GJTaRFyKliU",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.06.2026) | Sathiyam Headlines",
+            "videoId": "7xaOLGdWsvY",
+            "name": "WATCH LIVE: Scotland vs Brazil | FIFA World Cup 2026 Group C Clash",
+            "artist": "The Daily Guardian"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XlFONXrDW1o",
+            "name": "LIVE: Back-to-back powerful earthquakes slam Venezuela | WORLD News Live | Venezuela Earthquake",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "197R2J05_lI",
+            "name": "Today Headlines | 25 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "xCs5nHkNVxE",
-            "name": "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी के गांव से महापंचायत, लोगों में गुस्सा!",
-            "artist": "ABP NEWS"
+            "videoId": "IZNSBrSpjZk",
+            "name": "Morning News Today LIVE | Sakalchya Batmya | 25 June | Mumbai Rain News | Monsoon Update Today",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "wKAWxxvHKlE",
-            "name": "Sandeep Chaudhary LIVE: SIT 'बिना तीर के कमान'...राम भक्तों का इम्तिहान! | Ram Mandir Donation Row",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "shmLu2M34JQ",
-            "name": "Sandeep Chaudhary LIVE: राम नाम की लूट...किसने दी छूट? | Ram Mandir Donation Theft | Akhilesh Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d5rrL3eck_s",
-            "name": "Today's Headlines | 25 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FV_Z5YUnows",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B_Esx_kxenU",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (24.06.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I-SCXbPxYpE",
-            "name": "Latest World News LIVE : Trump's Latest Move Triggers Worldwide Debate | Iran Us Peace Deal",
-            "artist": "Vox Live News"
+            "videoId": "Ob-xOiOeHpQ",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
