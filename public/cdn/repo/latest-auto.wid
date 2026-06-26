@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260625T194955.424Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260626T024606.846Z-l4t35t"
   type: "state"
-  created: "2026-06-25T19:49:55.424Z"
+  created: "2026-06-26T02:46:06.846Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260625T194955.424Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T024606.846Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "c8f71oNQu0s"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "H5JTWcLm14c"
-        name: "🔴LIVE : CM Vijay | White Paper | தமிழகமே எதிர்பார்த்த மின்சாரத்துறை வெள்ளை அறிக்கை வெளியீடு"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Oy2XYa_aD5o"
-        name: "LIVE with Dr. Shahid Masood | Big conspiracy  | 25 June 2026 | GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "I2yYr3Bsq_s"
-        name: "🔴LIVE: earth quake | 1 லட்சம் பேர் பலி?  - உலகத்தையே அதிரவைத்த மெகா பேரழிவு"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LEGIkN_io_M"
-        name: "Trump’s New Favourite Erdogan Gets F-35s While Israel Gets Ignored? | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AnixqVLa_vk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hglyawFZyEE"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : Ram Mandir का चढ़ावा चोर गिरफ्तार | Bhukamp"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CPPfSlgnIC0"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 25 June 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Gmjjhu33PBs"
+        videoId: "6lc88nws--E"
         name: "Ram Mandir Donation Theft News LIVE: किसी ने सोचा नहीं था राम मंदिर केस में फंस गए ये चार लोग!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b4bm2ktwyyk"
-        name: "वेनेजुएला में भूकंप के बाद ताजा हालात LIVE | Caracas | Venezuela Earthquake | Japan | Bhukamp | NDTV"
+        videoId: "ER9aEj2ZT5k"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी का मिल गया मोबाइल?अब खुलेगा बड़ा राज!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G3A0nxUgOQk"
+        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में FIR दर्ज,बुरे फंसे ये 6 लोग"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sMpzpP_llik"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cuEY8G3vxCU"
+        name: "Gujarat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Monsoon | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "N2FLL0-0LTI"
+        name: "Sandeep Chaudhary LIVE:PMO ले संज्ञान... ट्रस्ट बने अंजान? | Ram Mandir Donation Theft | Akhilesh"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zihQDqmFt-4"
+        name: "वेनेजुएला में खतरनाक भूकंप, 1 लाख मौत? Venezuela Earthquake LIVE |  7.5 Magnitude | Bhukamp | NDTV"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9045Lq4c3fo"
-        name: "🔴LIVE: பயங்கர நிலநடுக்கம்..அலறியடித்து ஓடிய மக்கள்..பரபரப்பு | Earthquake | WorldNews"
-        artist: "NewsTamil 24X7"
+        videoId: "hnmkeSDHTmQ"
+        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में FIR दर्ज,बुरे फंसे ये 6 लोग"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XlFONXrDW1o"
-        name: "LIVE: Back-to-back powerful earthquakes slam Venezuela | WORLD News Live | Venezuela Earthquake"
-        artist: "ET Now World"
+        videoId: "bR2obmV-qes"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 26 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wly5FVq7B8M"
+        name: "Today's Headlines | 26 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jUgtrpBDSAg"
+        name: "Venezuela shaken by two strong earthquakes | 12 AM Headlines Geo News (26 June 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-25T19:49:55.424Z"
+  exported_at: "2026-06-26T02:46:06.846Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-25T19:49:55.384Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-26T02:46:06.811Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
