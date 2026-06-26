@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260626T024606.846Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260626T085440.088Z-l4t35t"
   type: "state"
-  created: "2026-06-26T02:46:06.846Z"
+  created: "2026-06-26T08:54:40.088Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T024606.846Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T085440.088Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6lc88nws--E"
-        name: "Ram Mandir Donation Theft News LIVE: किसी ने सोचा नहीं था राम मंदिर केस में फंस गए ये चार लोग!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ER9aEj2ZT5k"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी का मिल गया मोबाइल?अब खुलेगा बड़ा राज!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "G3A0nxUgOQk"
-        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में FIR दर्ज,बुरे फंसे ये 6 लोग"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sMpzpP_llik"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cuEY8G3vxCU"
-        name: "Gujarat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Monsoon | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N2FLL0-0LTI"
-        name: "Sandeep Chaudhary LIVE:PMO ले संज्ञान... ट्रस्ट बने अंजान? | Ram Mandir Donation Theft | Akhilesh"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zihQDqmFt-4"
-        name: "वेनेजुएला में खतरनाक भूकंप, 1 लाख मौत? Venezuela Earthquake LIVE |  7.5 Magnitude | Bhukamp | NDTV"
+        videoId: "aKAtm3TToUA"
+        name: "Bharat Tiwari Encounter: भरत के एनकाउंटर पर 'महापंचायत' | Bhojpur News | Bihar Police | Samrat"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hnmkeSDHTmQ"
-        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में FIR दर्ज,बुरे फंसे ये 6 लोग"
+        videoId: "wi61d4JXvOY"
+        name: "Ram Mandir Donation Theft News LIVE: चढ़ावा चोरी मामले में 8 लोग गिरफ्तार-सूत्र,यूपी में मचा हड़कंप!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bR2obmV-qes"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 26 June"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wly5FVq7B8M"
-        name: "Today's Headlines | 26 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        videoId: "pdZByQzTD3o"
+        name: "🔴LIVE: Venezuela earthquake | பூமியை பிளந்த கொடூரம்.. 1 லட்சம் பேர் பலி! பேரழிவு"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jUgtrpBDSAg"
-        name: "Venezuela shaken by two strong earthquakes | 12 AM Headlines Geo News (26 June 2026)"
-        artist: "Geo News"
+        videoId: "25pCV2twBTw"
+        name: "Ketan Agarwal Murder Case News LIVE: सिया का केतन से बदला!, खाई में 350 फुट नीचे फेंका,मौत! | Siya"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uTmZf_6ddwE"
+        name: "🔴LIVE: Vaiko | 1 MLA விலகல் - வைகோ-வுக்கு பெரும் ஷாக்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "402953kgPWI"
+        name: "Trump News LIVE: Donald Trump Says NATO Didn't Back Iran Strikes, Rutte Defends Alliance's Support"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jCNlpfhbzVo"
+        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News Live"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1_vjVnjNwgI"
+        name: "Ram Mandir Donation Theft News LIVE: चढ़ावा चोरी के केस में अबतक का सबसे बड़ा एक्शन, 8 पर FIR दर्ज"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_WklQER8I8Q"
+        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में एक और धमाकेदार खुलासा"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ASpr3xsPWzg"
+        name: "Aage Ka Agenda LIVE: राम नाम की लूट 'बड़ों' को छूट? | Ram Mandir Donation Theft | Ayodhya | SIT"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DplEkLsmihc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-26T02:46:06.846Z"
+  exported_at: "2026-06-26T08:54:40.088Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-26T02:46:06.811Z"
+  source_generated_at: "2026-06-26T08:54:40.049Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
