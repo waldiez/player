@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260626T085440.088Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260626T141114.662Z-l4t35t"
   type: "state"
-  created: "2026-06-26T08:54:40.088Z"
+  created: "2026-06-26T14:11:14.662Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T085440.088Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T141114.662Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aKAtm3TToUA"
-        name: "Bharat Tiwari Encounter: भरत के एनकाउंटर पर 'महापंचायत' | Bhojpur News | Bihar Police | Samrat"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wi61d4JXvOY"
-        name: "Ram Mandir Donation Theft News LIVE: चढ़ावा चोरी मामले में 8 लोग गिरफ्तार-सूत्र,यूपी में मचा हड़कंप!"
+        videoId: "E2yJ0CqAUbo"
+        name: "Ram Mandir Theft News LIVE: Champat Rai के इस्तीफा देते ही मची भगदड़! 8 लोग गिरफ्तार-सूत्र"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pdZByQzTD3o"
-        name: "🔴LIVE: Venezuela earthquake | பூமியை பிளந்த கொடூரம்.. 1 லட்சம் பேர் பலி! பேரழிவு"
+        videoId: "dkSwAvxUKhM"
+        name: "🔴LIVE: தேவாலயங்கள், மசூதிகள் பறிபோகிறதா..? பகீர் தகவல்!"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "25pCV2twBTw"
-        name: "Ketan Agarwal Murder Case News LIVE: सिया का केतन से बदला!, खाई में 350 फुट नीचे फेंका,मौत! | Siya"
+        videoId: "kN774gb57Jc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oG3oSOfLLyw"
+        name: "Muntha CAse  |  Sargodha Incident Latest Update |  Sargodha 7 Year Girl Incident |  Sargodha News"
+        artist: "Pak News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NasWeznSIYE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CAD international news"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tp3N6wtCOvY"
+        name: "Venezuela Earthquake Death Toll Reaches 235 Over 4,500 Injured | Dawn News Headlines: 04 PM"
+        artist: "DawnNews"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dlBHw7oUQn0"
+        name: "Pakistan Observes Ashura with Processions and Majalis Across the Country | 3 PM Headlines Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cusmL_MPK_w"
+        name: "Iran's nuclear program! Netanyahu's important statement | 3 PM Headlines ARY News | 26th June 26"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YQq4Yzs9QvU"
+        name: "Latest World News Live | खबरें विदेश की... | Duniya bhar ki badi khabrein | 26 June 2026 SET 4 News"
+        artist: "SET 4 News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Im4Kv075xqM"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी का मिल गया मोबाइल?अब खुलेगा बड़ा राज!"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uTmZf_6ddwE"
-        name: "🔴LIVE: Vaiko | 1 MLA விலகல் - வைகோ-வுக்கு பெரும் ஷாக்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "402953kgPWI"
-        name: "Trump News LIVE: Donald Trump Says NATO Didn't Back Iran Strikes, Rutte Defends Alliance's Support"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jCNlpfhbzVo"
-        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News Live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1_vjVnjNwgI"
-        name: "Ram Mandir Donation Theft News LIVE: चढ़ावा चोरी के केस में अबतक का सबसे बड़ा एक्शन, 8 पर FIR दर्ज"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_WklQER8I8Q"
-        name: "Ram Mandir Donation Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में एक और धमाकेदार खुलासा"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ASpr3xsPWzg"
-        name: "Aage Ka Agenda LIVE: राम नाम की लूट 'बड़ों' को छूट? | Ram Mandir Donation Theft | Ayodhya | SIT"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DplEkLsmihc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-26T08:54:40.088Z"
+  exported_at: "2026-06-26T14:11:14.662Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-26T08:54:40.049Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-26T14:11:14.618Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
