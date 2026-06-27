@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260626T141114.662Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260627T023720.744Z-l4t35t"
   type: "state"
-  created: "2026-06-26T14:11:14.662Z"
+  created: "2026-06-27T02:37:20.744Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260626T141114.662Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T023720.744Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "E2yJ0CqAUbo"
-        name: "Ram Mandir Theft News LIVE: Champat Rai के इस्तीफा देते ही मची भगदड़! 8 लोग गिरफ्तार-सूत्र"
+        videoId: "M7rZTQDlpVU"
+        name: "Sandeep Chaudhary LIVE: आस्था का गोलमाल..कौन हो रहा मालामाल? | Ram Mandir Donation Row | Champat Rai"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dkSwAvxUKhM"
-        name: "🔴LIVE: தேவாலயங்கள், மசூதிகள் பறிபோகிறதா..? பகீர் தகவல்!"
+        videoId: "lVVSU2Wu2LI"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 27 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CP8hm7aMPFI"
+        name: "Today's Headlines | 27 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kN774gb57Jc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
+        videoId: "DQLpQotKtx8"
+        name: "BREAKING LIVE | Dubai Activates Missile Attack Warning, Iran Strikes Again? Gulf Tensions Escalate"
+        artist: "CRUX"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oG3oSOfLLyw"
-        name: "Muntha CAse  |  Sargodha Incident Latest Update |  Sargodha 7 Year Girl Incident |  Sargodha News"
-        artist: "Pak News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NasWeznSIYE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CAD international news"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Tp3N6wtCOvY"
-        name: "Venezuela Earthquake Death Toll Reaches 235 Over 4,500 Injured | Dawn News Headlines: 04 PM"
-        artist: "DawnNews"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dlBHw7oUQn0"
-        name: "Pakistan Observes Ashura with Processions and Majalis Across the Country | 3 PM Headlines Geo News"
+        videoId: "5CLfJF3j8ks"
+        name: "Protests in Lebanon against agreement with Israel | 4 AM Headlines Geo News (27 June 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cusmL_MPK_w"
-        name: "Iran's nuclear program! Netanyahu's important statement | 3 PM Headlines ARY News | 26th June 26"
-        artist: "ARY News"
+        videoId: "kEIWAPfCYbE"
+        name: "🔴LIVE: Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (27.06.2026) | 8 AM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YQq4Yzs9QvU"
-        name: "Latest World News Live | खबरें विदेश की... | Duniya bhar ki badi khabrein | 26 June 2026 SET 4 News"
-        artist: "SET 4 News"
+        videoId: "GjuK_If1_9k"
+        name: "Petrol Price Update  | 1 AM Headlines Geo News (27 June 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Im4Kv075xqM"
-        name: "Bhojpur Bharat Tiwari Encounter News LIVE: भरत तिवारी का मिल गया मोबाइल?अब खुलेगा बड़ा राज!"
-        artist: "ABP NEWS"
+        videoId: "2rG2kk1uOys"
+        name: "Iran US Deal| Trump Warns |Heavy Rain in Pakistan | New Petrol Price | 12AM News Headlines| Samaa TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QwIjZG2qx5Y"
+        name: "State of Emergency in Crimea after massive Ukrainian strike | World News Tonight"
+        artist: "TVP WORLD"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9z7ImjnfhdU"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.06.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-26T14:11:14.662Z"
+  exported_at: "2026-06-27T02:37:20.744Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-26T14:11:14.618Z"
+  source_generated_at: "2026-06-27T02:37:20.705Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
