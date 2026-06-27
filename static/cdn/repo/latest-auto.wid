@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260627T023720.744Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260627T082922.019Z-l4t35t"
   type: "state"
-  created: "2026-06-27T02:37:20.744Z"
+  created: "2026-06-27T08:29:22.019Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T023720.744Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T082922.019Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "M7rZTQDlpVU"
-        name: "Sandeep Chaudhary LIVE: आस्था का गोलमाल..कौन हो रहा मालामाल? | Ram Mandir Donation Row | Champat Rai"
+        videoId: "M4h2DK13h_E"
+        name: "Champat Rai Resign News LIVE: सुबह-सुबह यूपी में सबसे बड़ा इस्तीफा, आया भूचाल! | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lVVSU2Wu2LI"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 27 June"
+        videoId: "yuYIV4N833A"
+        name: "Sandeep Chaudhary LIVE: 8 'छुटभैयों' ने मारा डाका..चढ़ावा चोरी के ये आका! | Ram Mandir Donation Row"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CP8hm7aMPFI"
-        name: "Today's Headlines | 27 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV"
+        videoId: "dTFZwkRqqFs"
+        name: "Muharram Clash News Live : मुहर्रम पर कई जगहों पर बवाल ! Bihar | Gujrat | Muharram 2026"
+        artist: "IndiaTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v6pWuGhUG7Y"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২৭.০৬.২০২৬ । Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fTt__h-yFY0"
+        name: "🔴LIVE: Bhagyaraj Passed Away | பாக்யராஜ் மறைவு - வீட்டிலிருந்து நேரலை காட்சிகள்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DQLpQotKtx8"
-        name: "BREAKING LIVE | Dubai Activates Missile Attack Warning, Iran Strikes Again? Gulf Tensions Escalate"
-        artist: "CRUX"
+        videoId: "NSOQ_FFctMM"
+        name: "UP Police Encounter News LIVE: सुबह-सुबह यूपी में संजय का एनकाउंटर, खबर सुन उड़े होश! | Lucknow"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5CLfJF3j8ks"
-        name: "Protests in Lebanon against agreement with Israel | 4 AM Headlines Geo News (27 June 2026)"
-        artist: "Geo News"
+        videoId: "OULYefgBHT4"
+        name: "🔴LIVE: Bhagyaraj | Passed Away | நடிகர் பாக்யராஜ் காலமானார்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kEIWAPfCYbE"
-        name: "🔴LIVE: Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (27.06.2026) | 8 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "GVHOVUwirLY"
+        name: "Petrol & Diesel Levy Increased Again | Latest Government Decision | 9AM Headlines GeoNews (06/27/26)"
+        artist: "Geo Headlines"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GjuK_If1_9k"
-        name: "Petrol Price Update  | 1 AM Headlines Geo News (27 June 2026)"
-        artist: "Geo News"
+        videoId: "GLZxLGh_1ZQ"
+        name: "Champat Rai Resign News LIVE: यूपी में सबसे बड़ा इस्तीफा, मची खलबली! | Big Breaking | Ram Mandir"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2rG2kk1uOys"
-        name: "Iran US Deal| Trump Warns |Heavy Rain in Pakistan | New Petrol Price | 12AM News Headlines| Samaa TV"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QwIjZG2qx5Y"
-        name: "State of Emergency in Crimea after massive Ukrainian strike | World News Tonight"
-        artist: "TVP WORLD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9z7ImjnfhdU"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.06.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "PJSLE-zEx9U"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 27 ju"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-27T02:37:20.744Z"
+  exported_at: "2026-06-27T08:29:22.019Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-27T02:37:20.705Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-27T08:29:21.989Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: duNK2IElQZ8 (recent, keywords:4, no blocked terms, trusted-channel ok, llm score 10 < 70)"

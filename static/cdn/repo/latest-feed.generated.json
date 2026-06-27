@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-27T02:37:20.705Z",
+    "generatedAt": "2026-06-27T08:29:21.989Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "M7rZTQDlpVU",
-            "name": "Sandeep Chaudhary LIVE: आस्था का गोलमाल..कौन हो रहा मालामाल? | Ram Mandir Donation Row | Champat Rai",
+            "videoId": "M4h2DK13h_E",
+            "name": "Champat Rai Resign News LIVE: सुबह-सुबह यूपी में सबसे बड़ा इस्तीफा, आया भूचाल! | Big Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "lVVSU2Wu2LI",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 27 June",
+            "videoId": "yuYIV4N833A",
+            "name": "Sandeep Chaudhary LIVE: 8 'छुटभैयों' ने मारा डाका..चढ़ावा चोरी के ये आका! | Ram Mandir Donation Row",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "CP8hm7aMPFI",
-            "name": "Today's Headlines | 27 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
+            "videoId": "duNK2IElQZ8",
+            "name": "🔴 LIVE | New Zealand vs Belgium - FIFA World Cup 2026 | PES 21 Simulation",
+            "artist": "SCSS SOCCER"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dTFZwkRqqFs",
+            "name": "Muharram Clash News Live : मुहर्रम पर कई जगहों पर बवाल ! Bihar | Gujrat | Muharram 2026",
+            "artist": "IndiaTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "v6pWuGhUG7Y",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২৭.০৬.২০২৬ । Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fTt__h-yFY0",
+            "name": "🔴LIVE: Bhagyaraj Passed Away | பாக்யராஜ் மறைவு - வீட்டிலிருந்து நேரலை காட்சிகள்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "DQLpQotKtx8",
-            "name": "BREAKING LIVE | Dubai Activates Missile Attack Warning, Iran Strikes Again? Gulf Tensions Escalate",
-            "artist": "CRUX"
+            "videoId": "NSOQ_FFctMM",
+            "name": "UP Police Encounter News LIVE: सुबह-सुबह यूपी में संजय का एनकाउंटर, खबर सुन उड़े होश! | Lucknow",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "5CLfJF3j8ks",
-            "name": "Protests in Lebanon against agreement with Israel | 4 AM Headlines Geo News (27 June 2026)",
-            "artist": "Geo News"
+            "videoId": "OULYefgBHT4",
+            "name": "🔴LIVE: Bhagyaraj | Passed Away | நடிகர் பாக்யராஜ் காலமானார்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "kEIWAPfCYbE",
-            "name": "🔴LIVE: Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (27.06.2026) | 8 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "GVHOVUwirLY",
+            "name": "Petrol & Diesel Levy Increased Again | Latest Government Decision | 9AM Headlines GeoNews (06/27/26)",
+            "artist": "Geo Headlines"
         },
         {
             "mood": "storm",
-            "videoId": "GjuK_If1_9k",
-            "name": "Petrol Price Update  | 1 AM Headlines Geo News (27 June 2026)",
-            "artist": "Geo News"
+            "videoId": "GLZxLGh_1ZQ",
+            "name": "Champat Rai Resign News LIVE: यूपी में सबसे बड़ा इस्तीफा, मची खलबली! | Big Breaking | Ram Mandir",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2rG2kk1uOys",
-            "name": "Iran US Deal| Trump Warns |Heavy Rain in Pakistan | New Petrol Price | 12AM News Headlines| Samaa TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QwIjZG2qx5Y",
-            "name": "State of Emergency in Crimea after massive Ukrainian strike | World News Tonight",
-            "artist": "TVP WORLD"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9z7ImjnfhdU",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.06.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "PJSLE-zEx9U",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 27 ju",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
