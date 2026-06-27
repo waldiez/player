@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-27T08:29:21.989Z",
+    "generatedAt": "2026-06-27T13:19:55.753Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "M4h2DK13h_E",
-            "name": "Champat Rai Resign News LIVE: सुबह-सुबह यूपी में सबसे बड़ा इस्तीफा, आया भूचाल! | Big Breaking",
+            "videoId": "GJM6P3EF5vY",
+            "name": "World News LIVE: The Hidden Truth About Iran Revealed | Trump | Marco Rubio | Khamenei | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dVDEG7qnPPU",
+            "name": "America Strikes Iran News LIVE: अमेरिका का ईरान पर बड़ा अटैक | Trump | Big Breaking | Drone Attack",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yuYIV4N833A",
-            "name": "Sandeep Chaudhary LIVE: 8 'छुटभैयों' ने मारा डाका..चढ़ावा चोरी के ये आका! | Ram Mandir Donation Row",
+            "videoId": "Tn3PS9rEl5E",
+            "name": "Chaar Ki Chaal LIVE: 'गोली' से मुंबई में खलबली! | Mumbai News | Crime | Chandan Singh",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "duNK2IElQZ8",
-            "name": "🔴 LIVE | New Zealand vs Belgium - FIFA World Cup 2026 | PES 21 Simulation",
-            "artist": "SCSS SOCCER"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dTFZwkRqqFs",
-            "name": "Muharram Clash News Live : मुहर्रम पर कई जगहों पर बवाल ! Bihar | Gujrat | Muharram 2026",
-            "artist": "IndiaTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "v6pWuGhUG7Y",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২৭.০৬.২০২৬ । Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fTt__h-yFY0",
-            "name": "🔴LIVE: Bhagyaraj Passed Away | பாக்யராஜ் மறைவு - வீட்டிலிருந்து நேரலை காட்சிகள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NSOQ_FFctMM",
-            "name": "UP Police Encounter News LIVE: सुबह-सुबह यूपी में संजय का एनकाउंटर, खबर सुन उड़े होश! | Lucknow",
+            "videoId": "ufIsrQ6_qEc",
+            "name": "Gold-Silver New Price : सोने-चांदी के नए रेट,सुनकर चौक जाएंगे आप? | Gold | SIlver | Public Reaction",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "OULYefgBHT4",
-            "name": "🔴LIVE: Bhagyaraj | Passed Away | நடிகர் பாக்யராஜ் காலமானார்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GVHOVUwirLY",
-            "name": "Petrol & Diesel Levy Increased Again | Latest Government Decision | 9AM Headlines GeoNews (06/27/26)",
-            "artist": "Geo Headlines"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GLZxLGh_1ZQ",
-            "name": "Champat Rai Resign News LIVE: यूपी में सबसे बड़ा इस्तीफा, मची खलबली! | Big Breaking | Ram Mandir",
+            "videoId": "h5KUlvirI4M",
+            "name": "Ketan Agarwal Murder Case News LIVE: केतन की हत्या से पहले का वीडियो वायरल जो उसमें दिखा दहले लोग!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "PJSLE-zEx9U",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 27 ju",
-            "artist": "Sairbeen News 24"
+            "videoId": "5tCAbM1O9fI",
+            "name": "World War III? Iran US War Live | Iran Warns US | 02 PM News Headlines | 27 June 2026",
+            "artist": "News Headlines Samaa"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NkvXegPxNtM",
+            "name": "Ram Mandir Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में 8 गिरफ्तार के बाद तुरंत दो बड़े इस्तीफे",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DM1TFvIJyl8",
+            "name": "Ketan Agarwal Murder Case News LIVE: कातिल सिया के 5 वो खुलासे जिसने उड़ा दी नींद!, सुन हिली पुलिस!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
