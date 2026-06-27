@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260627T131955.789Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260627T191034.948Z-l4t35t"
   type: "state"
-  created: "2026-06-27T13:19:55.789Z"
+  created: "2026-06-27T19:10:34.948Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T131955.789Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T191034.948Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,50 +53,74 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GJM6P3EF5vY"
-        name: "World News LIVE: The Hidden Truth About Iran Revealed | Trump | Marco Rubio | Khamenei | US News"
-        artist: "Times Now"
+        videoId: "Irncn8_4Xf4"
+        name: "Sergey Lavrov LIVE: Russia Warns Of New World Order; Sergey Lavrov Speaks In Moscow | Iran News LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dVDEG7qnPPU"
-        name: "America Strikes Iran News LIVE: अमेरिका का ईरान पर बड़ा अटैक | Trump | Big Breaking | Drone Attack"
+        videoId: "DRA1VYe7N_g"
+        name: "LIVE: Massive US Military Strikes Confirmed By CENTCOM– Iran Response Looms | Trump | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OULYefgBHT4"
+        name: "🔴LIVE: Bhagyaraj | Passed Away | இறுதிச்சடங்கில் திடீர் மாற்றம்.."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0aWcbBY1vDY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BoOdmNPp8Qg"
+        name: "US-Iran War LIVE: Iran Blasts US Airstrikes, Says IRGC Hits American Military Sites In Retaliation"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Te1olTfaK1c"
+        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tn3PS9rEl5E"
-        name: "Chaar Ki Chaal LIVE: 'गोली' से मुंबई में खलबली! | Mumbai News | Crime | Chandan Singh"
+        videoId: "a8qBl1zH3WA"
+        name: "Explosion and Heavy Gunfire In Karachi - Big news| 9 PM Headlines ARY News | 27 June 26"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Md3WcNcHlBY"
+        name: "🔴LIVE: Bhagyaraj | Passed Away | பாக்யராஜ் உடலுக்கு நடிகர்கள் மரியாதை"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GLZxLGh_1ZQ"
+        name: "Champat Rai Resign News LIVE: यूपी में सबसे बड़ा इस्तीफा, मची खलबली! | Big Breaking | Ram Mandir"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ufIsrQ6_qEc"
-        name: "Gold-Silver New Price : सोने-चांदी के नए रेट,सुनकर चौक जाएंगे आप? | Gold | SIlver | Public Reaction"
-        artist: "ABP NEWS"
+        videoId: "opFYo4hCGGE"
+        name: "Bharat Ki Baat Batata Hoon LIVE : चंपत राय पर एक्शन लेगा ट्रस्ट! Ram Mandir Dan Chori | Champat Rai"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h5KUlvirI4M"
-        name: "Ketan Agarwal Murder Case News LIVE: केतन की हत्या से पहले का वीडियो वायरल जो उसमें दिखा दहले लोग!"
-        artist: "ABP NEWS"
+        videoId: "nt8uLpujp08"
+        name: "🔴 ARY NEWS LIVE | Latest Pakistan News 𝟐𝟒/𝟕 | Headlines - Bulletins - Breaking News - Latest Updates"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5tCAbM1O9fI"
-        name: "World War III? Iran US War Live | Iran Warns US | 02 PM News Headlines | 27 June 2026"
-        artist: "News Headlines Samaa"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NkvXegPxNtM"
-        name: "Ram Mandir Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में 8 गिरफ्तार के बाद तुरंत दो बड़े इस्तीफे"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DM1TFvIJyl8"
-        name: "Ketan Agarwal Murder Case News LIVE: कातिल सिया के 5 वो खुलासे जिसने उड़ा दी नींद!, सुन हिली पुलिस!"
+        videoId: "JpT-J_dvSlE"
+        name: "Ram Mandir Donation Theft | Sandeep Chaudhary: भगवान के घर में चोरी, ट्रस्ट का हैरान करने वाला जवाब!"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -108,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-27T13:19:55.789Z"
+  exported_at: "2026-06-27T19:10:34.948Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-27T13:19:55.753Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-27T19:10:34.914Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
