@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-28T02:51:45.198Z",
+    "generatedAt": "2026-06-28T08:44:09.337Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vugrpyEVsLk",
-            "name": "Ram Mandir Theft News LIVE: भंग हो सकता है राम जन्मभूमि तीर्थ ट्रस्ट? | Ayodhya | CM Yogi",
+            "videoId": "NW8DIIQ2Ylo",
+            "name": "Ketan Agarwal Murder Case News LIVE: केतन केस में सिया के दिमाग के फ्यूज उड़ा देने वाले 5 खुलासे!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Trp1QwhTy80",
-            "name": "Ketan Agarwal Murder Case LIVE: चेतन के रिश्ते के बारे में जानता था गोयल परिवार' | Pune Police",
+            "videoId": "Md3WcNcHlBY",
+            "name": "🔴LIVE: Bhagyaraj | Passed Away | பாக்யராஜ் உடலுக்கு நடிகர்கள் மரியாதை",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sX38u9aDTCc",
+            "name": "Ketan Agarwal Murder Case News LIVE: केतन का एक और वीडियो ने उड़ा दिए सिया के होश! | Lohagad Fort",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "udU84Pynqg4",
-            "name": "Seedha Sawal With Sandeep Chaudhary LIVE: चढ़ावे पर चपत...'पाक-साफ' चंपत? | Ram Mandir Theft Case",
+            "videoId": "AAUHUEkfW_8",
+            "name": "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-L_26KI63lg",
+            "name": "Iraq's ultimatum to the US military News LIVE: इराक के पीएम की US सेना को अल्टीमेटम, देश छोड़ो..",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "CjNNiiq9A0c",
-            "name": "Ram Mandir Daan Chori News LIVE: चढ़ावा चोरी पर ट्रस्ट का आया बड़ा बयान | Champat Rai | Ayodhya",
+            "videoId": "2TaKPlPEZwU",
+            "name": "Ketan Agarwal Murder Case News LIVE: जहां मारा केतन वहां से सीधे LIVE, सिया ने बताया सच! | Lohagad",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "-oTLXkgG-MU",
-            "name": "Sandeep Chaudhary LIVE: डाके पर तरकार...रामजी करेंगे किसका बेड़ा पार? | Ram Mandir Donation Theft",
-            "artist": "ABP NEWS"
+            "videoId": "PTo6pF2VAgk",
+            "name": "LIVE: Karachi Under Attack | Blasts, Gunfire Rock Rangers HQ | 4 Killed In Suspected Suicide Attack",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "IdZTmgtvZbE",
-            "name": "Venezuela Earthquake News LIVE | वेनजुएला में भूकंप से भारी तबाही ! | Hindi News | World News",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_iuUOG7OCGI",
-            "name": "Trump’s Major Announcement After Attack on Iran | 5 AM GEO News Headlines | 28 June 2026",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "j0tPdxsJHDU",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 28 June",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3Wq8H4YXAms",
-            "name": "US-Iran Tension - Latest News Updates | 4 AM Headlines ARY News | 28 June 26",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "49Xmpw6NoQU",
-            "name": "US-IRAN WAR LIVE: Trump Claims Tehran Broke Ceasefire, US Strikes Follow | World News Live",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sBr02Xfl5Nk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "নিউজ হাবিবা ২৪"
+            "videoId": "GpQCTMzhsjo",
+            "name": "Bhagyaraj Funeral LIVE : இறுதி சடங்கு",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
