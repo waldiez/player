@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260627T191034.948Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260628T025145.227Z-l4t35t"
   type: "state"
-  created: "2026-06-27T19:10:34.948Z"
+  created: "2026-06-28T02:51:45.227Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260627T191034.948Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260628T025145.227Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Irncn8_4Xf4"
-        name: "Sergey Lavrov LIVE: Russia Warns Of New World Order; Sergey Lavrov Speaks In Moscow | Iran News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DRA1VYe7N_g"
-        name: "LIVE: Massive US Military Strikes Confirmed By CENTCOM– Iran Response Looms | Trump | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OULYefgBHT4"
-        name: "🔴LIVE: Bhagyaraj | Passed Away | இறுதிச்சடங்கில் திடீர் மாற்றம்.."
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0aWcbBY1vDY"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.06.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BoOdmNPp8Qg"
-        name: "US-Iran War LIVE: Iran Blasts US Airstrikes, Says IRGC Hits American Military Sites In Retaliation"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Te1olTfaK1c"
-        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
+        videoId: "vugrpyEVsLk"
+        name: "Ram Mandir Theft News LIVE: भंग हो सकता है राम जन्मभूमि तीर्थ ट्रस्ट? | Ayodhya | CM Yogi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a8qBl1zH3WA"
-        name: "Explosion and Heavy Gunfire In Karachi - Big news| 9 PM Headlines ARY News | 27 June 26"
+        videoId: "Trp1QwhTy80"
+        name: "Ketan Agarwal Murder Case LIVE: चेतन के रिश्ते के बारे में जानता था गोयल परिवार' | Pune Police"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "udU84Pynqg4"
+        name: "Seedha Sawal With Sandeep Chaudhary LIVE: चढ़ावे पर चपत...'पाक-साफ' चंपत? | Ram Mandir Theft Case"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CjNNiiq9A0c"
+        name: "Ram Mandir Daan Chori News LIVE: चढ़ावा चोरी पर ट्रस्ट का आया बड़ा बयान | Champat Rai | Ayodhya"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-oTLXkgG-MU"
+        name: "Sandeep Chaudhary LIVE: डाके पर तरकार...रामजी करेंगे किसका बेड़ा पार? | Ram Mandir Donation Theft"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IdZTmgtvZbE"
+        name: "Venezuela Earthquake News LIVE | वेनजुएला में भूकंप से भारी तबाही ! | Hindi News | World News"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_iuUOG7OCGI"
+        name: "Trump’s Major Announcement After Attack on Iran | 5 AM GEO News Headlines | 28 June 2026"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j0tPdxsJHDU"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 28 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3Wq8H4YXAms"
+        name: "US-Iran Tension - Latest News Updates | 4 AM Headlines ARY News | 28 June 26"
         artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Md3WcNcHlBY"
-        name: "🔴LIVE: Bhagyaraj | Passed Away | பாக்யராஜ் உடலுக்கு நடிகர்கள் மரியாதை"
-        artist: "Sathiyam News"
+        videoId: "49Xmpw6NoQU"
+        name: "US-IRAN WAR LIVE: Trump Claims Tehran Broke Ceasefire, US Strikes Follow | World News Live"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GLZxLGh_1ZQ"
-        name: "Champat Rai Resign News LIVE: यूपी में सबसे बड़ा इस्तीफा, मची खलबली! | Big Breaking | Ram Mandir"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "opFYo4hCGGE"
-        name: "Bharat Ki Baat Batata Hoon LIVE : चंपत राय पर एक्शन लेगा ट्रस्ट! Ram Mandir Dan Chori | Champat Rai"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nt8uLpujp08"
-        name: "🔴 ARY NEWS LIVE | Latest Pakistan News 𝟐𝟒/𝟕 | Headlines - Bulletins - Breaking News - Latest Updates"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JpT-J_dvSlE"
-        name: "Ram Mandir Donation Theft | Sandeep Chaudhary: भगवान के घर में चोरी, ट्रस्ट का हैरान करने वाला जवाब!"
-        artist: "ABP NEWS"
+        videoId: "sBr02Xfl5Nk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "নিউজ হাবিবা ২৪"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-27T19:10:34.948Z"
+  exported_at: "2026-06-28T02:51:45.227Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-27T19:10:34.914Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-28T02:51:45.198Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
