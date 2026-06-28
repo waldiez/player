@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-28T13:24:13.084Z",
+    "generatedAt": "2026-06-28T19:09:56.397Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "TVI4qWhEVCU",
-            "name": "Ketan Agarwal Murder News LIVE: चेतन के साथ नया VIDE0 सामने आया | Pune | Lohagad Fort",
-            "artist": "ABP NEWS"
+            "videoId": "n18ByeP1jo8",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (28.06.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "ogXIpaHNn8M",
-            "name": "Ram Mandir Donation Scam | Mahadangal: धर्मगुरु ने LIVE डिबेट में दे दी चेतावनी | Latest News",
-            "artist": "ABP NEWS"
+            "videoId": "FJZZ7m1iT-8",
+            "name": "Sergey Lavrov LIVE: Russia Warns Of New World Order; Sergey Lavrov Speaks In Moscow | Iran News LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "qNXqZ-BtRqQ",
-            "name": "Ram Mandir Theft News LIVE: 28 जून को राम मंदिरचढ़ावा चोरी पर आगई एक बड़ी खबर | Ayodhya | CM Yogi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nxfYL5KgNz4",
-            "name": "भरत एनकाउंटर में होश उड़ाने वाला खुलासा LIVE | Bihar | Samrat Choudhary | Bharat Tiwari | Encounter",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fDLUlJSG8uw",
-            "name": "“Cheap Oil from Iran” Under Consideration – Pervez Malik Statement | Geo News 1PM Headlines | 28-06",
+            "videoId": "5e2QYexzodg",
+            "name": "Iran US WAR ? Latest Update | Geo News 9PM Headlines | 28-06",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "u88dO0wBDu0",
-            "name": "America attack on Iran LIVE: Hormuz में ब्रिटिश टैंकर पर हमला, जल गए लोग! | Middle East | Trump",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "KPO6VzPvaI8",
+            "name": "LIVE with Dr. Shahid Masood | The US-Iran war...the second phase | 28 June 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iwVQ4pJjuQU",
+            "name": "PoK Protest News LIVE: पीओके में हालात होने लगे बेकाबू! | Kashmir | Asim Munir | Shehbaz Sharif",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ho39LjponKA",
+            "name": "BREAKING NEWS LIVE: Trump Declares Iran-US War Over | Historic Peace Deal Signed | Trump LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2NA7E5bRsgo",
+            "name": "LIVE: Portugal vs Colombia | FIFA World Cup 2026 Live Watchalong | Full Match Live Score",
+            "artist": "The Daily Guardian"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l5-zWbyogjo",
+            "name": "Ram Mandir Theft News LIVE: चढ़ावा चोरी का क्या है 'गजनी' कनेक्शन? | Ayodhya | Romana Isar Khan",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3lKd3hzKQvY",
+            "name": "Venezuela Earthquake News LIVE | महाविनाश की आहट? 12 देशों में लगातार भूकंप से दुनिया सहमी |  News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DZ35kFKyzwU",
+            "name": "Saudi Arabia Helicopter Crash !!! | Geo News 8PM Headlines | 28-06",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GpQCTMzhsjo",
+            "name": "Bhagyaraj Funeral LIVE : இறுதி சடங்கு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0YqkMi9yYu4",
+            "name": "Ketan Agarwal Murder Case News LIVE: पुलिस ने कहा-केतन जिंदा है सुन सिया के उड़े होश! | Big Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
