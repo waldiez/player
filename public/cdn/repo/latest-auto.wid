@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260628T084409.376Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260628T132413.120Z-l4t35t"
   type: "state"
-  created: "2026-06-28T08:44:09.376Z"
+  created: "2026-06-28T13:24:13.120Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260628T084409.376Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260628T132413.120Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "NW8DIIQ2Ylo"
-        name: "Ketan Agarwal Murder Case News LIVE: केतन केस में सिया के दिमाग के फ्यूज उड़ा देने वाले 5 खुलासे!"
+        videoId: "TVI4qWhEVCU"
+        name: "Ketan Agarwal Murder News LIVE: चेतन के साथ नया VIDE0 सामने आया | Pune | Lohagad Fort"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Md3WcNcHlBY"
-        name: "🔴LIVE: Bhagyaraj | Passed Away | பாக்யராஜ் உடலுக்கு நடிகர்கள் மரியாதை"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sX38u9aDTCc"
-        name: "Ketan Agarwal Murder Case News LIVE: केतन का एक और वीडियो ने उड़ा दिए सिया के होश! | Lohagad Fort"
+        videoId: "ogXIpaHNn8M"
+        name: "Ram Mandir Donation Scam | Mahadangal: धर्मगुरु ने LIVE डिबेट में दे दी चेतावनी | Latest News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AAUHUEkfW_8"
-        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
+        videoId: "qNXqZ-BtRqQ"
+        name: "Ram Mandir Theft News LIVE: 28 जून को राम मंदिरचढ़ावा चोरी पर आगई एक बड़ी खबर | Ayodhya | CM Yogi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nxfYL5KgNz4"
+        name: "भरत एनकाउंटर में होश उड़ाने वाला खुलासा LIVE | Bihar | Samrat Choudhary | Bharat Tiwari | Encounter"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-L_26KI63lg"
-        name: "Iraq's ultimatum to the US military News LIVE: इराक के पीएम की US सेना को अल्टीमेटम, देश छोड़ो.."
-        artist: "ABP NEWS"
+        videoId: "fDLUlJSG8uw"
+        name: "“Cheap Oil from Iran” Under Consideration – Pervez Malik Statement | Geo News 1PM Headlines | 28-06"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2TaKPlPEZwU"
-        name: "Ketan Agarwal Murder Case News LIVE: जहां मारा केतन वहां से सीधे LIVE, सिया ने बताया सच! | Lohagad"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PTo6pF2VAgk"
-        name: "LIVE: Karachi Under Attack | Blasts, Gunfire Rock Rangers HQ | 4 Killed In Suspected Suicide Attack"
-        artist: "India Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GpQCTMzhsjo"
-        name: "Bhagyaraj Funeral LIVE : இறுதி சடங்கு"
-        artist: "Sathiyam News"
+        videoId: "u88dO0wBDu0"
+        name: "America attack on Iran LIVE: Hormuz में ब्रिटिश टैंकर पर हमला, जल गए लोग! | Middle East | Trump"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-28T08:44:09.376Z"
+  exported_at: "2026-06-28T13:24:13.120Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-28T08:44:09.337Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-28T13:24:13.084Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
