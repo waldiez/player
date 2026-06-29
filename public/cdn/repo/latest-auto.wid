@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260629T104531.081Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260629T153554.815Z-l4t35t"
   type: "state"
-  created: "2026-06-29T10:45:31.081Z"
+  created: "2026-06-29T15:35:54.815Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260629T104531.081Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260629T153554.815Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SQezbWHlyvg"
-        name: "Ketan Agarwal Murder Case News LIVE: सिया ने चेतन पर किए बैक टू बैक खुलासे, सन्न रह गई पुलिस!"
+        videoId: "-i8VkPr0dpI"
+        name: "US NEWS LIVE: Trump Just Signed It, Emergency Orders Shock The Globe! | World News Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-v2_GJjlTc4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Khobor Srot"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dfwFBddppdA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lLHc26PFuKo"
+        name: "Maharashtra Rain News LIVE | राज्यभरातील पावसाचे सर्व अपडेट लाईव्ह | Mumbai Rain | Monsoon 2026"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "V86MchYS-cc"
+        name: "Sandeep Chaudhary LIVE: हे राम...चढ़ावे का 'चंपतकांड'! | Ram Mandir Donation | Seedha Sawal | Debate"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZOXhMVLBTR8"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.06.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-5BA1MyCoNA"
-        name: "Pakistan Air Strike on Afghanistan News LIVE: सोमवार आते ही 25 आतंकी को उड़ा डाला!, मचा हड़कंप!"
+        videoId: "YBTGDvbhS7g"
+        name: "Ram Mandir Daan Chori News LIVE: ‘मास्टरमाइंड’ पर बड़ा एक्शन| UP Police | SIT | CM Yogi |Tinnu Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YxVLeXsy8MY"
-        name: "Ram Mandir Theft News LIVE: राम मंदिर चढ़ावा चोरी मामले में मोबाइल लगा हाथ?, मिला असली आरोपी!"
+        videoId: "LBQJfyRZ3mY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.06.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p8pOeMWnTnQ"
+        name: "Ram Mandir Theft News LIVE: 70-80 लोगों को भेजा गया नोटिस | Champat Rai | SIT | CM Yogi | UP News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "veumpG7hnBo"
-        name: "Iran, US 'agree' to halt attacks and renew talks | Geo News 2PM Headlines 29 June 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XJbkN_SSEa8"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uC5UFjMkxx8"
-        name: "Ram Mandir Theft News LIVE: राम मंदिर चढ़ावा चोरी केस में 29 जून के 5 बड़े खुलासे, चौंके चंपत!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FyX1NvL_Mdc"
-        name: "Ram Mandir Theft News LIVE: जैसे ही टिन्नू के घर में घुसी पुलिस , अंदर का नजारा देख चौंकी पुलिस!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tOhxPelXXaI"
-        name: "Ketan Agarwal Murder Case News LIVE:केतन का आखिरी वीडियो जिससे देख लोगों के उड़े होश,चौंके सिया-चेतन"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7Q4F37weajc"
-        name: "29 June Big News LIVE: 29 जून मौत बनकर आया, लोगों में मचा हड़कंप | Breaking | 35 Death | Pakistan"
-        artist: "ABP NEWS"
+        videoId: "34iDwM3DbMw"
+        name: "US-Iran-Israel War LIVE: Mojtaba Now Targets Trump & Bibi | IAEA Accused of Betrayal | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-29T10:45:31.081Z"
+  exported_at: "2026-06-29T15:35:54.815Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-29T10:45:31.040Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-29T15:35:54.781Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
