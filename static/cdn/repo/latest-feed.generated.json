@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-28T19:09:56.397Z",
+    "generatedAt": "2026-06-29T02:52:00.255Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "n18ByeP1jo8",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (28.06.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "eaGebYeHleA",
+            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
+            "artist": "The Savera Times"
         },
         {
             "mood": "storm",
-            "videoId": "FJZZ7m1iT-8",
-            "name": "Sergey Lavrov LIVE: Russia Warns Of New World Order; Sergey Lavrov Speaks In Moscow | Iran News LIVE",
-            "artist": "Times Now World"
+            "videoId": "X4rXe2J4wo0",
+            "name": "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "5e2QYexzodg",
-            "name": "Iran US WAR ? Latest Update | Geo News 9PM Headlines | 28-06",
-            "artist": "Geo News"
+            "videoId": "1d65gH0KwI8",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "KPO6VzPvaI8",
-            "name": "LIVE with Dr. Shahid Masood | The US-Iran war...the second phase | 28 June 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "L1i7YOARq0E",
+            "name": "Russia-Ukraine War LIVE | Kyiv Under Fire as Russia Launches Fresh Missile Assault | Putin",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "iwVQ4pJjuQU",
-            "name": "PoK Protest News LIVE: पीओके में हालात होने लगे बेकाबू! | Kashmir | Asim Munir | Shehbaz Sharif",
+            "videoId": "EUVJw03zpGU",
+            "name": "Pune Murder Case News LIVE: सिया ने बताए हत्या के 3 बड़े कारण! | Ketan Agrawal | Chetan Chaudhary",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ho39LjponKA",
-            "name": "BREAKING NEWS LIVE: Trump Declares Iran-US War Over | Historic Peace Deal Signed | Trump LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2NA7E5bRsgo",
-            "name": "LIVE: Portugal vs Colombia | FIFA World Cup 2026 Live Watchalong | Full Match Live Score",
-            "artist": "The Daily Guardian"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l5-zWbyogjo",
-            "name": "Ram Mandir Theft News LIVE: चढ़ावा चोरी का क्या है 'गजनी' कनेक्शन? | Ayodhya | Romana Isar Khan",
+            "videoId": "GkV1KZovcE4",
+            "name": "Sandeep Chaudhary LIVE: छुटभैयों पर गाज...संघ कर रहा किसका लिहाज? | Ram Mandir | RSS | Seedha Sawal",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3lKd3hzKQvY",
-            "name": "Venezuela Earthquake News LIVE | महाविनाश की आहट? 12 देशों में लगातार भूकंप से दुनिया सहमी |  News",
-            "artist": "Times Now Navbharat"
+            "videoId": "vZMWzg0Y8YE",
+            "name": "Helicopter crashes in Saudi Arabia, 14 people killed | ARY News 5 AM Headlines | 29th June 2026",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "DZ35kFKyzwU",
-            "name": "Saudi Arabia Helicopter Crash !!! | Geo News 8PM Headlines | 28-06",
-            "artist": "Geo News"
+            "videoId": "qsmUhIfbfOU",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 29 June",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GpQCTMzhsjo",
-            "name": "Bhagyaraj Funeral LIVE : இறுதி சடங்கு",
+            "videoId": "WxbmSqHpCE4",
+            "name": "Today's Headlines | 29 JUN 2026 | Morning Headlines | 6AM Headlines | Latest Headlines | Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "0YqkMi9yYu4",
-            "name": "Ketan Agarwal Murder Case News LIVE: पुलिस ने कहा-केतन जिंदा है सुन सिया के उड़े होश! | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "TRLMJharqgc",
+            "name": "Hormuz News LIVE | Drones Fly Over Strait of Hormuz As US Iran War Escalates | Trump | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zbLgXG2CZFA",
+            "name": "Trump LIVE: World On High Alert? Trump Issues Urgent Warning | Trump Delivers Emergency Announcement",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bkMTm4Z9kyM",
+            "name": "2 PM Gujarati News LIVE | 2 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
