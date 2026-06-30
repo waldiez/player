@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260629T153554.815Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260630T024606.106Z-l4t35t"
   type: "state"
-  created: "2026-06-29T15:35:54.815Z"
+  created: "2026-06-30T02:46:06.106Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260629T153554.815Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260630T024606.106Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-i8VkPr0dpI"
-        name: "US NEWS LIVE: Trump Just Signed It, Emergency Orders Shock The Globe! | World News Live"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-v2_GJjlTc4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Khobor Srot"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dfwFBddppdA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The ডেইলি খবর "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lLHc26PFuKo"
-        name: "Maharashtra Rain News LIVE | राज्यभरातील पावसाचे सर्व अपडेट लाईव्ह | Mumbai Rain | Monsoon 2026"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V86MchYS-cc"
-        name: "Sandeep Chaudhary LIVE: हे राम...चढ़ावे का 'चंपतकांड'! | Ram Mandir Donation | Seedha Sawal | Debate"
+        videoId: "78ypj-6rqAs"
+        name: "Ram Mandir Chanda Chori News LIVE: 'चंपत राय छोड़ें अयोध्या' मिल गईबड़ा चेतावनी | Mandir Theft"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YBTGDvbhS7g"
-        name: "Ram Mandir Daan Chori News LIVE: ‘मास्टरमाइंड’ पर बड़ा एक्शन| UP Police | SIT | CM Yogi |Tinnu Yadav"
+        videoId: "AgdI-wIYhY0"
+        name: "Ketan Agarwal Murder Case LIVE: ‘सिया ने केतन से ₹1 करोड़ लेकर चेतन को दिए’ | Pune | Maharashtra"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LBQJfyRZ3mY"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.06.2026) | Sathiyam Headlines"
+        videoId: "Woci850ciKE"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 30 June"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FDl4uslrUfA"
+        name: "🔴LIVE: | CM Vijay | LEO mode ON.. CM விஜயின் ஒரே உத்தரவு... Clean ஆகப்போகும் தமிழ்நாடு"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p8pOeMWnTnQ"
-        name: "Ram Mandir Theft News LIVE: 70-80 लोगों को भेजा गया नोटिस | Champat Rai | SIT | CM Yogi | UP News"
-        artist: "ABP NEWS"
+        videoId: "vung3oiAUFk"
+        name: "Today Breaking News, आज 30 जून 2026  के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, Daily News, CJP"
+        artist: "News Ganga"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "34iDwM3DbMw"
-        name: "US-Iran-Israel War LIVE: Mojtaba Now Targets Trump & Bibi | IAEA Accused of Betrayal | N18G"
-        artist: "CNN-News18"
+        videoId: "tQJ_d5Si52c"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (29.06.2026) | 10 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fpdjZ8_Mtow"
+        name: "FIFA World Cup 2026 LIVE | Brazil Vs Japan LIVE | Neymar LIVE | Brazil LIVESCORE"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MkiYs_a6WGE"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-29T15:35:54.815Z"
+  exported_at: "2026-06-30T02:46:06.106Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-29T15:35:54.781Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-30T02:46:06.071Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
