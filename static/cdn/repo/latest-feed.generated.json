@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-30T02:46:06.071Z",
+    "generatedAt": "2026-06-30T09:22:33.917Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "78ypj-6rqAs",
-            "name": "Ram Mandir Chanda Chori News LIVE: 'चंपत राय छोड़ें अयोध्या' मिल गईबड़ा चेतावनी | Mandir Theft",
+            "videoId": "YlPA0-U5IR8",
+            "name": "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FgTfe72kRUk",
+            "name": "Ram Mandir Theft News LIVE: चढ़ावा चोरी पर बोले ओवैसी', अगर मुस्लिम होता तो एनकाउंटर हो जाता है'",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "AgdI-wIYhY0",
-            "name": "Ketan Agarwal Murder Case LIVE: ‘सिया ने केतन से ₹1 करोड़ लेकर चेतन को दिए’ | Pune | Maharashtra",
+            "videoId": "yiWPgfn-iZc",
+            "name": "Ketan Agarwal Murder Case News LIVE: सिया ने चेतन पर किए बैक टू बैक खुलासे, सन्न रह गई पुलिस!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Woci850ciKE",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 30 June",
+            "videoId": "s4qQmVp1_uc",
+            "name": "Maharashtra Rain News LIVE | राज्यात पावसाचा अलर्ट! कुठे किती बरसणार? | Mumbai Rain | Monsoon 2026",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iGj0I_LpqHk",
+            "name": "Heatwave havoc in Europe News LIVE: यूरोप में गर्मी से हाहाकार! ,1000 लोगों की मौत, फटी सड़कें!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "FDl4uslrUfA",
-            "name": "🔴LIVE: | CM Vijay | LEO mode ON.. CM விஜயின் ஒரே உத்தரவு... Clean ஆகப்போகும் தமிழ்நாடு",
+            "videoId": "TefoTBGXB6I",
+            "name": "Today Headlines | 30 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "vung3oiAUFk",
-            "name": "Today Breaking News, आज 30 जून 2026  के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, Daily News, CJP",
-            "artist": "News Ganga"
+            "videoId": "ApotaWOcswU",
+            "name": "Heatwave havoc in Europe News LIVE: यूरोप में गर्मी का कहर, पिघले टायर,फटी सड़कें, लोगों में हड़कंप!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "tQJ_d5Si52c",
-            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (29.06.2026) | 10 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "oIH2CcQNZ90",
+            "name": "Sandeep Chaudhary LIVE: सबूत मिटाए, रकम ठिकाने लगाई...फिर FIR कराई? | Ram Mandir | Seedha Sawal",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "fpdjZ8_Mtow",
-            "name": "FIFA World Cup 2026 LIVE | Brazil Vs Japan LIVE | Neymar LIVE | Brazil LIVESCORE",
-            "artist": "NDTV"
+            "videoId": "t3W4h-nrDec",
+            "name": "Ram Mandir Theft News LIVE: जैसे ही टिन्नू के घर में घुसी पुलिस , अंदर का नजारा देख चौंकी पुलिस!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MkiYs_a6WGE",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
-            "artist": "Times Now"
+            "videoId": "v5J4qJFslXo",
+            "name": "🟠10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
