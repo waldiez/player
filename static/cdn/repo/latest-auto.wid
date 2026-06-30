@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260630T092233.954Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260630T140610.565Z-l4t35t"
   type: "state"
-  created: "2026-06-30T09:22:33.954Z"
+  created: "2026-06-30T14:06:10.565Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260630T092233.954Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260630T140610.565Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YlPA0-U5IR8"
-        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
+        videoId: "-DeZxIez50w"
+        name: "Bhojpur Bharat Tiwari Encounter News LIVE: 30 जून भरत तिवारी की तेरहवीं पर सबसे बड़ा खुलासा!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0pxXpSv2rVE"
+        name: "Sandeep Chaudhary LIVE: चढ़ावा जांच में झोल..डकैतों की होगी पोल-खोल? | Ram Mandir Theft | SIT"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A3pf6FBAzTo"
+        name: "🔴 LIVE || Islamabad Hosts International Seminar on the Indus Waters Treaty - ARY News Live"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4MQnBTBY7HU"
+        name: "LIVE: Putin’s Emergency Address, 'World War 3' Fears Skyrocket Amid Middle East Oil Crisis"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aMX1BP-x_b4"
+        name: "Aaj Ki Taaza Khabar LIVE : 30 JUNE | Ketan Agarwal Case | Siya Goel | Ram Mandir Chori Update"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FgTfe72kRUk"
-        name: "Ram Mandir Theft News LIVE: चढ़ावा चोरी पर बोले ओवैसी', अगर मुस्लिम होता तो एनकाउंटर हो जाता है'"
+        videoId: "ntXDH3MXfMs"
+        name: "Ketan Agarwal Murder Case News LIVE: सिया के मोबाईल से मिला केतन की हत्या का राज!  | Siya Goyal"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mvAcR72KFDQ"
+        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ | 30.06.2026 | Today News | BD News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qe7FGmO15PY"
+        name: "Ketan Agarwal Murder Case News LIVE:केतन का आखिरी वीडियो जिससे देख लोगों के उड़े होश,चौंके सिया-चेतन"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yiWPgfn-iZc"
-        name: "Ketan Agarwal Murder Case News LIVE: सिया ने चेतन पर किए बैक टू बैक खुलासे, सन्न रह गई पुलिस!"
-        artist: "ABP NEWS"
+        videoId: "A3FJqJ4RnRA"
+        name: "Ketan Agarwal Murder Case News LIVE: सिया के मोबाईल से मिला केतन की हत्या का राज!  | Siya Goyal"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s4qQmVp1_uc"
-        name: "Maharashtra Rain News LIVE | राज्यात पावसाचा अलर्ट! कुठे किती बरसणार? | Mumbai Rain | Monsoon 2026"
+        videoId: "H-ZYkZmfgHI"
+        name: "Sachin Ahir Join Shiv Sena LIVE | ठाकरेंना पुन्हा मोठा धक्का | Sachin Ahir | Uddhav Thackeray News"
         artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iGj0I_LpqHk"
-        name: "Heatwave havoc in Europe News LIVE: यूरोप में गर्मी से हाहाकार! ,1000 लोगों की मौत, फटी सड़कें!"
+        videoId: "peIvDJFVFUY"
+        name: "Ram Mandir Theft News LIVE: यूपी में कांग्रेस अध्यक्ष को हाउस अरेस्ट किया, आया भूचाल, घर में पुलिस!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TefoTBGXB6I"
-        name: "Today Headlines | 30 JUN 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ApotaWOcswU"
-        name: "Heatwave havoc in Europe News LIVE: यूरोप में गर्मी का कहर, पिघले टायर,फटी सड़कें, लोगों में हड़कंप!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oIH2CcQNZ90"
-        name: "Sandeep Chaudhary LIVE: सबूत मिटाए, रकम ठिकाने लगाई...फिर FIR कराई? | Ram Mandir | Seedha Sawal"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "t3W4h-nrDec"
-        name: "Ram Mandir Theft News LIVE: जैसे ही टिन्नू के घर में घुसी पुलिस , अंदर का नजारा देख चौंकी पुलिस!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "v5J4qJFslXo"
-        name: "🟠10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "QMHS1ZRXFss"
+        name: "Maharashtra Rain News LIVE | राज्यभरातील पावसाचे सर्व अपडेट लाईव्ह | Mumbai Rain | Monsoon 2026"
+        artist: "News18 Marathi"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-06-30T09:22:33.954Z"
+  exported_at: "2026-06-30T14:06:10.565Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-06-30T09:22:33.917Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-06-30T14:06:10.530Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
