@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-06-30T19:46:17.828Z",
+    "generatedAt": "2026-07-01T02:51:54.821Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "huBvQaOiq-0",
-            "name": "Ketan Murder Case: पलटने लगी Siya Goyal I Chetan I Ketan Agarwal I Pune Case",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "nSsmq09J5Ik",
+            "name": "Ram Mandir Donation Theft News LIVE: चंपत राय को अयोध्या छोड़ने का अल्टीमेटम | Akhilesh Yadav",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "DAWXfT9s1ms",
-            "name": "Gujarat Varsad News LIVE | આજના તમામ વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
-            "artist": "News18 Gujarati"
+            "videoId": "tyV491oqgWM",
+            "name": "Sandeep Chaudhary LIVE: संघ परिवार खामोश..योगी इन FULL जोश! | Ram Mandir Theft | Champat Rai | SIT",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XImBwXTgdIQ",
-            "name": "Iran America War LIVE: Hormuz | Iran-Israel War | Trump I Netanyahu I Khamenei I Middle East War",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "ntXDH3MXfMs",
+            "name": "Ketan Agarwal Murder Case News LIVE: सिया के मोबाईल से मिला केतन की हत्या का राज!  | Siya Goyal",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "zc4dHMMWv_o",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Julai 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS245"
+            "videoId": "0pxXpSv2rVE",
+            "name": "Sandeep Chaudhary LIVE: चढ़ावा जांच में झोल..डकैतों की होगी पोल-खोल? | Ram Mandir Donation Theft",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "NY0_bJv4yPA",
-            "name": "LIVE with Dr. Shahid Masood | Iran America Things are bad | 30 June 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "YnOMTEvahuM",
+            "name": "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "6NfVLIk2olo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.06.2026) | Sathiyam Headlines",
+            "videoId": "1YgVj_YPhWw",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 1 July | Weather",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7Hb8HhXmlNU",
+            "name": "Today's Headlines | 01 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "n0USw8ltXws",
-            "name": "LIVE | Trump Issues Huge Warning of 'World War III' | Israel Iran War | Netanyahu | Khamenei | US",
-            "artist": "MIRROR NOW"
+            "videoId": "8DFyZSE34MY",
+            "name": "Donald Trump LIVE | Trump Makes Shock Iran War Declaration, World Watches US Response Closely",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "3VWNZehLoL4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 June 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বাংলা খবর Today"
+            "videoId": "F_Pu5FW784M",
+            "name": "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "8oia4Wg85JA",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N_uYnSXM0XI",
+            "videoId": "alz4gtrg5Og",
             "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
             "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uHWQhcnT5DY",
+            "name": "🔴 LIVE UPDATES | Lahore tuition centre roof collapse: Death toll rises to 14, several still trapped",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
