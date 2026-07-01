@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260701T025154.854Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260701T093515.992Z-l4t35t"
   type: "state"
-  created: "2026-07-01T02:51:54.854Z"
+  created: "2026-07-01T09:35:15.992Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260701T025154.854Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260701T093515.992Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "nSsmq09J5Ik"
-        name: "Ram Mandir Donation Theft News LIVE: चंपत राय को अयोध्या छोड़ने का अल्टीमेटम | Akhilesh Yadav"
+        videoId: "V9rSmDx51uk"
+        name: "Ketan Agarwal Murder Case News LIVE: पलट गया केत नमर्डर केस!, सिया-चेतन के उड़े होश! | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tyV491oqgWM"
-        name: "Sandeep Chaudhary LIVE: संघ परिवार खामोश..योगी इन FULL जोश! | Ram Mandir Theft | Champat Rai | SIT"
+        videoId: "LAmObPQM_hg"
+        name: "New Rules 1st July Today News: 1 जुलाई से बदल गए ये 10 बड़े नियम, लोगों को लगा झटका!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ntXDH3MXfMs"
-        name: "Ketan Agarwal Murder Case News LIVE: सिया के मोबाईल से मिला केतन की हत्या का राज!  | Siya Goyal"
-        artist: "NDTV India"
+        videoId: "WIBSj01026A"
+        name: "Ketan Murder Case: पलटने लगी Siya Goyal I Chetan I Ketan Agarwal I Pune Case | Siya Goyal | Top News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0pxXpSv2rVE"
-        name: "Sandeep Chaudhary LIVE: चढ़ावा जांच में झोल..डकैतों की होगी पोल-खोल? | Ram Mandir Donation Theft"
-        artist: "ABP NEWS"
+        videoId: "4gKd1P7otJM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YnOMTEvahuM"
-        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
-        artist: "NDTV India"
+        videoId: "MA7AQzYPmtY"
+        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ০১.০৭.২০২৬ | Top News | Breaking News | Today News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1YgVj_YPhWw"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 1 July | Weather"
-        artist: "ABP NEWS"
+        videoId: "2QHnF1oygB0"
+        name: "🔴LIVE :  Today Fast 100 News | 01 JULY 2026 | இன்றைய 100 முக்கியச் செய்திகள் | CM Vijay | TVK"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7Hb8HhXmlNU"
-        name: "Today's Headlines | 01 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
+        videoId: "ZOwjdH8NJC0"
+        name: "🔴LIVE: பெரும் படையுடன் தவெகவில் இணையும் விஜயபாஸ்கர் | TVK | VIJAY | CM VIJAY | AIADMK | Vijayabaskar"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8DFyZSE34MY"
-        name: "Donald Trump LIVE | Trump Makes Shock Iran War Declaration, World Watches US Response Closely"
-        artist: "Hindustan Times"
+        videoId: "8yl0pe4G9Sc"
+        name: "Ram Mandir Donation Theft News LIVE: लो बता दिया टिन्नू ने पुलिस को पूरा सच!, अब नपेंगे बड़े नाम!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F_Pu5FW784M"
-        name: "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News"
-        artist: "Times Now World"
+        videoId: "t4UM78VVJuM"
+        name: "Baghdad Under Attack? Blast & Drone Reports Shake Iraq | 11AM Headlines Geo News (1 July 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "alz4gtrg5Og"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
+        videoId: "6hxRvdDiySg"
+        name: "Today Headlines | 01 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uHWQhcnT5DY"
-        name: "🔴 LIVE UPDATES | Lahore tuition centre roof collapse: Death toll rises to 14, several still trapped"
-        artist: "ARY News"
+        videoId: "htlWEPmGHU8"
+        name: "🟠Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-01T02:51:54.854Z"
+  exported_at: "2026-07-01T09:35:15.992Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-01T02:51:54.821Z"
+  source_generated_at: "2026-07-01T09:35:15.952Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
