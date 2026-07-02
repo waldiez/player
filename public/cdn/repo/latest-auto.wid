@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260702T024148.798Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260702T084554.891Z-l4t35t"
   type: "state"
-  created: "2026-07-02T02:41:48.798Z"
+  created: "2026-07-02T08:45:54.891Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260702T024148.798Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260702T084554.891Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Wut0NA-I9pQ"
-        name: "LIVE: US-Iran Peace Deal Under Strain; Trump, Tehran Clash Over Next Steps | Hormuz | Doha | N18G"
-        artist: "News18 Urdu"
+        videoId: "p4Mqd1u3kPY"
+        name: "Ketan Agarwal Case Update LIVE: क्राइम सीनवाले कपड़ों से पलट गया केस? | Siya Goyal | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZbUKX02N5v4"
-        name: "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "ET Now"
+        videoId: "xtwwO48MOIo"
+        name: "Ram Mandir Donation Scam LIVE: मंदिर से उड़ाए लाखों! पुलिस ने मारा छापा | UP Police | SIT | Avinash"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QUUmUIwLVoY"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
+        videoId: "cptwk9Pvjss"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QMg4ecsopIA"
-        name: "Mumbai Rain News LIVE | Maharashtra Rain News | Rain 2026 | मुंबईत कुठे कुठे साचलं पाणी?"
+        videoId: "AuGY7H5sW3w"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02  Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ux_WheyxOq0"
+        name: "Marathi News Today LIVE | Monsoon Update | Nashik Rain | Mumbai Rain | Pune Rain | Politics News"
         artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wnVPrHF1zNk"
-        name: "Ram Mandir Theft News LIVE: राम मंदिर चढ़ावा चोरी मामले में सबसे बड़ा खुलासा | Champat Rai | SIT"
+        videoId: "WUUhJFshvtQ"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oqfZdnTQGig"
+        name: "Ram Mandir Donation Scam News LIVE: लवकुश मिश्रा के घर बुलडोजर एक्शन? | Champat Rai | CM Yogi | SIT"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vXiBfHVNf1c"
-        name: "Sandeep Chaudhary LIVE: करोड़ो की लूट..80 लाख का झूठ? | Ram Mandir Theft | Champat Rai | Akhilesh"
+        videoId: "EoYY6MrlV_0"
+        name: "Ram Mandir Trust News LIVE: ट्रस्ट को भंग करने की मांग! | Ram Mandir Donation Scam | Champat Rai"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gbi7vYZQVkU"
-        name: "Sandeep Chaudhary LIVE: ये ट्रस्ट है..सब जानती है! | Ram Mandir Donation Theft | SIT | Champat Rai"
+        videoId: "C9FN2EnxwPc"
+        name: "Delhi-Mumbai Heavy Rain News LIVE: दिल्ली में भारी बारिश | Monsoon Rain | IMD Alert | Weather"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5AtnbibKo2Q"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 2 July News"
+        videoId: "ZAbWh__-Fyo"
+        name: "Ram Mandir Donation Scam News LIVE: अविनाश-अभिषेक की तलाशी में चौंकान वाला खुलासा | UP Police Action"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QeQmvjr5TMc"
-        name: "New rules from July 1, 2026: आज 1 जुलाई से बदल गए देश के ये 6 बड़े नियम | July New Changes | News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_fDv0-V5tAU"
-        name: "Today's Headlines | 02 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
-        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-02T02:41:48.798Z"
+  exported_at: "2026-07-02T08:45:54.891Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-02T02:41:48.763Z"
+  source_generated_at: "2026-07-02T08:45:54.847Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
