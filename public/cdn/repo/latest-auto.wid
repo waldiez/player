@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260703T085337.976Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260703T135009.379Z-l4t35t"
   type: "state"
-  created: "2026-07-03T08:53:37.976Z"
+  created: "2026-07-03T13:50:09.379Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260703T085337.976Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260703T135009.379Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "UNt-P55g_PM"
-        name: "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News"
-        artist: "News18 Gujarati"
+        videoId: "F2Vln8uLIXQ"
+        name: "Khamenei Last Rites Live : खामेनेई के सुपुर्द-ए-खाक की तैयारी शुरू | Khamenei Janaza | Iran Funeral"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PtyYpgkydpc"
-        name: "Mumbai Rain News LIVE | मुंबईला पावसाचा ऑरेंज अलर्ट! | Maharashtra Rain News | Rain 2026"
-        artist: "News18 Marathi"
+        videoId: "ncnXdu5Iifc"
+        name: "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zzqP4SGdUb0"
-        name: "Ram Mandir Latest News LIVE: आरोपियों के घरों पर बुलडोजर चलाने की तैयारी | Donation | Champat Rai"
+        videoId: "MXs2n79xquU"
+        name: "Chitra Tripathi LIVE: आक्रोश प्रचंड, लुटेरों को अब दंड? | Ram Mandir Theft | Chapat Rai | Akhilesh"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O2IEKovH9ZU"
-        name: "Today Headlines | 03 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "6HxdjKJet84"
+        name: "Aaj Ki Taaza Khabar LIVE : 3July 2026 | Weather News | Ketan Agarwal Murder Case News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QiKNODca040"
-        name: "Ketan Agarwal Murder Case: Siya Goyal के घर पहुंची पुलिस, chetan का Classmate हिरासत में | Breaking"
+        videoId: "CcT83sJ0YRU"
+        name: "Breaking News Today | Latest World News Live | Top Headlines"
+        artist: "Today News Web Channel"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "C0pv_NFuRcU"
+        name: "Ketan Agarwal Murder Case: ‘चेतन चौधरी के दोस्त को पहले से थी जानकारी? | Siya Goyal Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "V7NCv9SVWKs"
-        name: "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News"
-        artist: "News18 Gujarati"
+        videoId: "LsPgkz8U92I"
+        name: "Champat Rai News LIVE: ‘हो सकता है जेल जाएं चंपत राय..' | Ram Mandir Donation Theft | RSS | SIT"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6-0mkOLQs5o"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "Times Now"
+        videoId: "lDO19LiVyH0"
+        name: "Khamenei Funeral Live : खामेनेई को आखिरी विदाई | Janaza | Ayatollah Ali Khamenei farewell ceremony"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4r2zEyPP9pA"
-        name: "🔴LIVE: தவெக-வில் இணையும் மற்றொரு முக்கிய புள்ளி"
-        artist: "Sathiyam News"
+        videoId: "EXMujNhFXko"
+        name: "🔴Portugal vs Croatia LIVE: Ronaldo's Last Knock Match? | FIFA World Cup 2026 Round of 32 | N18G"
+        artist: "CNBC-TV18"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-03T08:53:37.976Z"
+  exported_at: "2026-07-03T13:50:09.379Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-03T08:53:37.937Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-03T13:50:09.339Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

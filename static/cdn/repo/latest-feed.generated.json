@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-03T08:53:37.937Z",
+    "generatedAt": "2026-07-03T13:50:09.339Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UNt-P55g_PM",
-            "name": "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
-            "artist": "News18 Gujarati"
+            "videoId": "F2Vln8uLIXQ",
+            "name": "Khamenei Last Rites Live : खामेनेई के सुपुर्द-ए-खाक की तैयारी शुरू | Khamenei Janaza | Iran Funeral",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "PtyYpgkydpc",
-            "name": "Mumbai Rain News LIVE | मुंबईला पावसाचा ऑरेंज अलर्ट! | Maharashtra Rain News | Rain 2026",
-            "artist": "News18 Marathi"
+            "videoId": "ncnXdu5Iifc",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "zzqP4SGdUb0",
-            "name": "Ram Mandir Latest News LIVE: आरोपियों के घरों पर बुलडोजर चलाने की तैयारी | Donation | Champat Rai",
+            "videoId": "MXs2n79xquU",
+            "name": "Chitra Tripathi LIVE: आक्रोश प्रचंड, लुटेरों को अब दंड? | Ram Mandir Theft | Chapat Rai | Akhilesh",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "O2IEKovH9ZU",
-            "name": "Today Headlines | 03 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "6HxdjKJet84",
+            "name": "Aaj Ki Taaza Khabar LIVE : 3July 2026 | Weather News | Ketan Agarwal Murder Case News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "QiKNODca040",
-            "name": "Ketan Agarwal Murder Case: Siya Goyal के घर पहुंची पुलिस, chetan का Classmate हिरासत में | Breaking",
+            "videoId": "CcT83sJ0YRU",
+            "name": "Breaking News Today | Latest World News Live | Top Headlines",
+            "artist": "Today News Web Channel"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C0pv_NFuRcU",
+            "name": "Ketan Agarwal Murder Case: ‘चेतन चौधरी के दोस्त को पहले से थी जानकारी? | Siya Goyal Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "V7NCv9SVWKs",
-            "name": "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
-            "artist": "News18 Gujarati"
+            "videoId": "LsPgkz8U92I",
+            "name": "Champat Rai News LIVE: ‘हो सकता है जेल जाएं चंपत राय..' | Ram Mandir Donation Theft | RSS | SIT",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "6-0mkOLQs5o",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "Times Now"
+            "videoId": "lDO19LiVyH0",
+            "name": "Khamenei Funeral Live : खामेनेई को आखिरी विदाई | Janaza | Ayatollah Ali Khamenei farewell ceremony",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "4r2zEyPP9pA",
-            "name": "🔴LIVE: தவெக-வில் இணையும் மற்றொரு முக்கிய புள்ளி",
-            "artist": "Sathiyam News"
+            "videoId": "EXMujNhFXko",
+            "name": "🔴Portugal vs Croatia LIVE: Ronaldo's Last Knock Match? | FIFA World Cup 2026 Round of 32 | N18G",
+            "artist": "CNBC-TV18"
         }
     ],
     "sourceFilters": {
