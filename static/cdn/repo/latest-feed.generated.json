@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-02T19:15:15.056Z",
+    "generatedAt": "2026-07-03T08:53:37.937Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XNhg6-IWTEY",
-            "name": "ABP Majha LIVE | Mumbai Rain | Devendra Fadnavis | Maharashtra Politics | Marathi News",
-            "artist": "ABP MAJHA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XgvJSq_ePw8",
-            "name": "Iran Vs America- Israel War Live Update | Strait Of Hurmoz News | Gulf War | West War | Trump | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-BHLyxN_CXw",
-            "name": "Gujarat Fatafat News LIVE | વરસાદ સહિતના તમામ મોટા સમાચાર | Latest News | Weather | News18 Gujarati",
+            "videoId": "UNt-P55g_PM",
+            "name": "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "P6T6KRzLJlk",
-            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (02-07-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "PtyYpgkydpc",
+            "name": "Mumbai Rain News LIVE | मुंबईला पावसाचा ऑरेंज अलर्ट! | Maharashtra Rain News | Rain 2026",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "CjDzxvc9TxA",
-            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
-            "artist": "Times Now World"
+            "videoId": "zzqP4SGdUb0",
+            "name": "Ram Mandir Latest News LIVE: आरोपियों के घरों पर बुलडोजर चलाने की तैयारी | Donation | Champat Rai",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "BR7llAV3ePU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বাংলা খবর Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0Thow0IeLcM",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.07.2026) | Sathiyam Headlines",
+            "videoId": "O2IEKovH9ZU",
+            "name": "Today Headlines | 03 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "NjF2pqYw1IA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "QiKNODca040",
+            "name": "Ketan Agarwal Murder Case: Siya Goyal के घर पहुंची पुलिस, chetan का Classmate हिरासत में | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Z7GzemqRTKU",
+            "videoId": "V7NCv9SVWKs",
+            "name": "Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6-0mkOLQs5o",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4r2zEyPP9pA",
             "name": "🔴LIVE: தவெக-வில் இணையும் மற்றொரு முக்கிய புள்ளி",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NTFExgXGx_4",
-            "name": "WATCH LIVE: Portugal vs Croatia | FIFA World Cup 2026 Round of 32",
-            "artist": "The Daily Guardian"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1dkesRsWHnY",
-            "name": "Bharat Ki Baat LIVE: अखिलेश से रण..योगी-ओवैसी का 'प्रण' | Ram Mandir Theft | UP Election 2027",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
