@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-03T13:50:09.339Z",
+    "generatedAt": "2026-07-03T19:09:51.288Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "F2Vln8uLIXQ",
-            "name": "Khamenei Last Rites Live : खामेनेई के सुपुर्द-ए-खाक की तैयारी शुरू | Khamenei Janaza | Iran Funeral",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "L1vOBC0n_OA",
+            "name": "Trump LIVE: World On High Alert? Trump Issues Urgent Warning | Trump Delivers Emergency Announcement",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "ncnXdu5Iifc",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
+            "videoId": "ktX9HI4XMQY",
+            "name": "Gujarat Fatafat News LIVE | વરસાદ સહિતના તમામ મોટા સમાચાર | Latest News | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "MXs2n79xquU",
-            "name": "Chitra Tripathi LIVE: आक्रोश प्रचंड, लुटेरों को अब दंड? | Ram Mandir Theft | Chapat Rai | Akhilesh",
-            "artist": "ABP NEWS"
+            "videoId": "B6FyRqKkhw4",
+            "name": "🔴 Live: Petrol Price Update: Good News for Pakistanis Expected Tonight | New Petrol Price",
+            "artist": "Capital TV"
         },
         {
             "mood": "storm",
-            "videoId": "6HxdjKJet84",
-            "name": "Aaj Ki Taaza Khabar LIVE : 3July 2026 | Weather News | Ketan Agarwal Murder Case News",
+            "videoId": "M_O9fklm6Gs",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_EKipTwl0wk",
+            "name": "🟠Gujarat Rain News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "h3HO-9Ekjrs",
+            "name": "🟠9 PM Gujarati News LIVE | 9 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q5eNkMLAhzg",
+            "name": "🔴LIVE: Cm vijay | 2 அமைச்சர்களின் பதவியை பறிக்கும் CM விஜய்?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t0csXLXxfvE",
+            "name": "LIVE: World Leaders Gather in Tehran as Iran Bids Farewell to Ayatollah Ali Khamenei | AC1B",
+            "artist": "DRM News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2xLmOKxAO54",
+            "name": "LIVE: Iran Holds Farewell Ceremony for Supreme Leader Ali Khamenei as Foreign Leaders Arrive | APT",
+            "artist": "APT"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AaFcRTd3F_U",
+            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : अब चंपत राय को होगी जेल ? Ram Mandir",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "CcT83sJ0YRU",
-            "name": "Breaking News Today | Latest World News Live | Top Headlines",
-            "artist": "Today News Web Channel"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C0pv_NFuRcU",
-            "name": "Ketan Agarwal Murder Case: ‘चेतन चौधरी के दोस्त को पहले से थी जानकारी? | Siya Goyal Breaking",
+            "videoId": "vB3DPbh2OTk",
+            "name": "Ethanol Fuel Controversy | Sandeep Chaudhary: E20 Petrol आपकी गाड़ी का इंजन बर्बाद कर रहा है?",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LsPgkz8U92I",
-            "name": "Champat Rai News LIVE: ‘हो सकता है जेल जाएं चंपत राय..' | Ram Mandir Donation Theft | RSS | SIT",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lDO19LiVyH0",
-            "name": "Khamenei Funeral Live : खामेनेई को आखिरी विदाई | Janaza | Ayatollah Ali Khamenei farewell ceremony",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EXMujNhFXko",
-            "name": "🔴Portugal vs Croatia LIVE: Ronaldo's Last Knock Match? | FIFA World Cup 2026 Round of 32 | N18G",
-            "artist": "CNBC-TV18"
         }
     ],
     "sourceFilters": {
