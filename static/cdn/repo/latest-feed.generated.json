@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-04T13:10:00.669Z",
+    "generatedAt": "2026-07-04T19:01:05.586Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ejdrj29ecEQ",
-            "name": "Mumbai Rain News LIVE | भांडूपमध्ये पावसामुळे रस्ता खचला | Maharashtra Rain News | Rain Update",
-            "artist": "News18 Marathi"
+            "videoId": "US3A4338eBI",
+            "name": "🔴LIVE: Final Journey for Ayatollah Ali Khamenei | Mourners Pay Tribute | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "bBTmncSHxlY",
-            "name": "Gujarat Varsad News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
-            "artist": "News18 Gujarati"
+            "videoId": "agEx1TsFfq8",
+            "name": "Live: Parade of ships in NYC’s Hudson River for July 4th, America 250",
+            "artist": "FOX 5 New York"
         },
         {
             "mood": "storm",
-            "videoId": "PvmivLrp4Xg",
-            "name": "Khamenei Funeral LIVE | New Petrol Price | Final Decision | 05 PM News Headlines | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "BqyrmQbd5S0",
+            "name": "Sail4th 250 Live: Largest-Ever Tall Ship Flotilla Sails into NYC on 4th of July for America's 250th",
+            "artist": "New York Post"
         },
         {
             "mood": "storm",
-            "videoId": "U4VO5DISg5o",
-            "name": "World News LIVE: Massive Tall Ships Arrive In New York Harbor For Sail4th 250 | Times Now World LIVE",
-            "artist": "Times Now World"
+            "videoId": "tUFZ6CbBAAk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "btwNFeMffF4",
-            "name": "Ram Mandir Daan Chori News LIVE: ‘सेंध लगाकर बोरी भरकर सुरंग से ले गए’ | Akhilesh Yadav | CM Yogi",
+            "videoId": "ygAeAYa_YiA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (04.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EJw3Vg7BG54",
+            "name": "🔴LIVE: தவெகவுக்கு புதிய சிக்கல் - கொளுத்திப்போட்ட அதிமுக... | TVK | ADMK | Governor",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IDPhfmntN1A",
+            "name": "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "oaOQZE0hH40",
-            "name": "Ram Mandir Chadhava Chori News LIVE: SIT के सामने कैशियर का बड़ा खुलासा!| UP Police | SIT",
-            "artist": "ABP NEWS"
+            "videoId": "bDUVbTysZ4s",
+            "name": "World-renowned U.S. Army Brass Quintet performs as military aircraft take to the skies over NYC.",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "zKgEc8NsSnM",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.07.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vYHr58Wyy1I",
-            "name": "2 PM Gujarati News LIVE | 2 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "0wimr3hx_LQ",
+            "name": "Today Headlines | 04 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
