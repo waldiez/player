@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260704T082828.076Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260704T131000.706Z-l4t35t"
   type: "state"
-  created: "2026-07-04T08:28:28.076Z"
+  created: "2026-07-04T13:10:00.706Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260704T082828.076Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260704T131000.706Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "o3k_YvKe9Jw"
-        name: "Ali Khamenei Funeral LIVE: खामेनेई को आखिरी विदाई | Janaza |Ayatollah Ali Khamenei farewell ceremony"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ox2iY6H5Mww"
-        name: "🔴 Argentina vs Cape Verde LIVE | FIFA World Cup 2026 | Match Today | Lionel Messi in Action | N18G"
-        artist: "moneycontrol"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ALDHhenh0xw"
-        name: "Today Headlines | 04 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "w5Z_NUHFnfg"
-        name: "Ali Khamenei Last Rites: ईरान में उमड़ा जनसैलाब, अमेरिका से बदला लेने के लगे नारे! | Iran"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_AAKTeUe6hk"
-        name: "Russia–Ukraine War Update | New Territory Reportedly Captured: 10 AM GEO Headlines (4 July 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DcMToAYn7m4"
-        name: "Mumbai Rain News LIVE | 'या' जिल्ह्यांना पावसाचा रेड अलर्ट! | Maharashtra Rain News | Rain 2026"
+        videoId: "ejdrj29ecEQ"
+        name: "Mumbai Rain News LIVE | भांडूपमध्ये पावसामुळे रस्ता खचला | Maharashtra Rain News | Rain Update"
         artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RKC7qAcR8fw"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 04.07.2026 | Today News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "bBTmncSHxlY"
+        name: "Gujarat Varsad News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zSZQqkovSM4"
-        name: "Ali Khamenei Last Rites: Tehran में श्रद्धांजलि...अलविदा कहने जुटे लोग! | Ayatollah Khamenei | Iran"
+        videoId: "PvmivLrp4Xg"
+        name: "Khamenei Funeral LIVE | New Petrol Price | Final Decision | 05 PM News Headlines | Samaa TV"
+        artist: "SAMAA TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U4VO5DISg5o"
+        name: "World News LIVE: Massive Tall Ships Arrive In New York Harbor For Sail4th 250 | Times Now World LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "btwNFeMffF4"
+        name: "Ram Mandir Daan Chori News LIVE: ‘सेंध लगाकर बोरी भरकर सुरंग से ले गए’ | Akhilesh Yadav | CM Yogi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P2fsr0fLgh8"
-        name: "Bihar Latest News Live : बिहार की राजनीति से जुड़ी सबसे बड़ी खबर | Prashant Kishor"
-        artist: "IndiaTV"
+        videoId: "oaOQZE0hH40"
+        name: "Ram Mandir Chadhava Chori News LIVE: SIT के सामने कैशियर का बड़ा खुलासा!| UP Police | SIT"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oOIYKuZ0uBk"
-        name: "Sandeep Chaudhary LIVE: गाड़ी रुला रही है..सरकार फायदे गिना रही है! | E20 Ethanol Row | Hardeep Puri"
-        artist: "ABP NEWS"
+        videoId: "zKgEc8NsSnM"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.07.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vYHr58Wyy1I"
+        name: "2 PM Gujarati News LIVE | 2 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-04T08:28:28.076Z"
+  exported_at: "2026-07-04T13:10:00.706Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-04T08:28:28.037Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-04T13:10:00.669Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
