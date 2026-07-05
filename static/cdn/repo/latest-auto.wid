@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260705T131808.286Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260705T190703.870Z-l4t35t"
   type: "state"
-  created: "2026-07-05T13:18:08.286Z"
+  created: "2026-07-05T19:07:03.870Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260705T131808.286Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260705T190703.870Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,38 +53,68 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jd4Rr5DAc54"
-        name: "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!"
+        videoId: "1rmyHI8kQes"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.07.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d0FyQoW-on4"
+        name: "Latest News Live | ਦਿਨ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ | CM Mann | Today Punjabi News | News18 Punjab Live"
+        artist: "News18 Punjab"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "34MnykW88j4"
+        name: "F!ring Incident in NewYork - Security High Alert | Geo News 9PM Headlines 5 July 26"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yNmaYkZvens"
+        name: "Ram Mandir Chadhava Chori News LIVE:  147 किलो वाली रामचरितमानस गायब! पूर्व गृह सचिव का दावा!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ATIfLPDa1Ak"
-        name: "Ram Mandir Donation Scam Row LIVE: टिन्नू यादव के मोबाइल में मिले अहम सुराग! | Champat Rai | UP News"
+        videoId: "-oCG7WEmLqU"
+        name: "Ram Mandir Donation Scam Row LIVE: अविनाश पर नए-नए 7 धमाकेदार खुलासे, पूछताछ में उगला सच!!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BCCc9ZYNLzs"
-        name: "Iran America War Live Update: ईरान-अमेरिका युद्ध की खबरें |Trump | Netanyahu | Hormuz | Khamenei"
-        artist: "News18 UP Uttarakhand"
+        videoId: "1G0gr7vAPyY"
+        name: "WORLD NEWS LIVE: Netanyahu Attends Heritage Center Groundbreaking Ceremony in Israel"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fOy7RTNgR1A"
-        name: "Ram Mandir Chori News | UP News: शाम होते ही चढ़ावा चोरी कांड पर अयोध्या से आई बड़ी खबर! | Ayodhya"
+        videoId: "AeMxjbG5-QA"
+        name: "🔴LIVE আজকের টপ আন্তর্জাতিক সংবাদ  BBC World News Bangla 06 june 2026 বিশ্বজুড়ে এখনযা ঘটছে #khobor"
+        artist: "INTERNATIONAL VIP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SlzBwltJe2A"
+        name: "Ram Mandir Scam News LIVE: ‘केजरीवाल, प्रियंका गांधी, संजय सिंह, राम गोपाल यादव से की जाए पूछताछ’"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BIVJsDPNOr0"
-        name: "Ram Mandir Daan Chori News LIVE: दान घोटाले में जल्द खुल सकते हैं नए राज! | Champat Rai | Tinnu"
-        artist: "ABP NEWS"
+        videoId: "B4pY6_UyM14"
+        name: "Javed Chaudhry Latest Speech Today | Pakistan News Live | Must Watch"
+        artist: "Grand News Info"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DrYFZboxeU0"
-        name: "Big Development After Araghchi's Meeting with Hamas & Hezbollah | Geo News 1PM Headlines 5 July 2026"
+        videoId: "BQMMhCp3b7Q"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (05.07.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tGBTw3d5FNw"
+        name: "Is Islamabad the Center of New Global Peace Efforts Again? | Geo News 6PM Geo Bulletin 5 July 2026"
         artist: "Geo News"
         chapter: null
   moodCustomizations:
@@ -96,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-05T13:18:08.286Z"
+  exported_at: "2026-07-05T19:07:03.870Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-05T13:18:08.244Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-05T19:07:03.833Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
