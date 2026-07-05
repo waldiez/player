@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-04T19:01:05.586Z",
+    "generatedAt": "2026-07-05T02:38:34.533Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "US3A4338eBI",
-            "name": "🔴LIVE: Final Journey for Ayatollah Ali Khamenei | Mourners Pay Tribute | Geo News",
-            "artist": "Geo News"
+            "videoId": "5fV-uBn3S-E",
+            "name": "Iran America War Live: अमेरिका-ईरान युद्ध की ताजा खबर! | Trump | Khamenei Funeral | Netanyahu | N18G",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "agEx1TsFfq8",
-            "name": "Live: Parade of ships in NYC’s Hudson River for July 4th, America 250",
-            "artist": "FOX 5 New York"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BqyrmQbd5S0",
-            "name": "Sail4th 250 Live: Largest-Ever Tall Ship Flotilla Sails into NYC on 4th of July for America's 250th",
-            "artist": "New York Post"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tUFZ6CbBAAk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ygAeAYa_YiA",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (04.07.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EJw3Vg7BG54",
-            "name": "🔴LIVE: தவெகவுக்கு புதிய சிக்கல் - கொளுத்திப்போட்ட அதிமுக... | TVK | ADMK | Governor",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IDPhfmntN1A",
-            "name": "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!",
+            "videoId": "tjxdXL-5dtE",
+            "name": "Ali Khamenei Last Rites News LIVE: खामेनेई की अंतिम यात्रा में काले कपड़े पहनकर पहुंचे लाखों लोग!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bDUVbTysZ4s",
-            "name": "World-renowned U.S. Army Brass Quintet performs as military aircraft take to the skies over NYC.",
+            "videoId": "OwnRzFtb25M",
+            "name": "Sandeep Chaudhary LIVE: दान की लूट, जमीन घोटाला...कितने का गड़बड़झाला? | Ram Mandir Daan Chori",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_lNB4grfwUk",
+            "name": "Disney Celebrates America: World News Tonight with David Muir (Special Edition) - July 4, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "0wimr3hx_LQ",
-            "name": "Today Headlines | 04 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "videoId": "miJt_PpQEW0",
+            "name": "Today's Headlines | 05 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uLFnbAxCeAw",
+            "name": "Trump Makes Major Announcement During Funeral Ceremony | 4 AM GEO News Headlines - 5th July 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NqYnRNNuYSI",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 5 July News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NWbD8jJupCQ",
+            "name": "Today Breaking News ! आज 5 जुलाई 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, UP, Bihar, Delhi",
+            "artist": "My Smart Guide"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t-7RSOCxQjc",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {

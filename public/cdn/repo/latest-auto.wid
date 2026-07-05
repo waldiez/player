@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260704T190105.622Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260705T023834.574Z-l4t35t"
   type: "state"
-  created: "2026-07-04T19:01:05.622Z"
+  created: "2026-07-05T02:38:34.574Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260704T190105.622Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260705T023834.574Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "US3A4338eBI"
-        name: "🔴LIVE: Final Journey for Ayatollah Ali Khamenei | Mourners Pay Tribute | Geo News"
-        artist: "Geo News"
+        videoId: "5fV-uBn3S-E"
+        name: "Iran America War Live: अमेरिका-ईरान युद्ध की ताजा खबर! | Trump | Khamenei Funeral | Netanyahu | N18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "agEx1TsFfq8"
-        name: "Live: Parade of ships in NYC’s Hudson River for July 4th, America 250"
-        artist: "FOX 5 New York"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BqyrmQbd5S0"
-        name: "Sail4th 250 Live: Largest-Ever Tall Ship Flotilla Sails into NYC on 4th of July for America's 250th"
-        artist: "New York Post"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tUFZ6CbBAAk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ygAeAYa_YiA"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (04.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EJw3Vg7BG54"
-        name: "🔴LIVE: தவெகவுக்கு புதிய சிக்கல் - கொளுத்திப்போட்ட அதிமுக... | TVK | ADMK | Governor"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IDPhfmntN1A"
-        name: "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!"
+        videoId: "tjxdXL-5dtE"
+        name: "Ali Khamenei Last Rites News LIVE: खामेनेई की अंतिम यात्रा में काले कपड़े पहनकर पहुंचे लाखों लोग!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0wimr3hx_LQ"
-        name: "Today Headlines | 04 July 2026 | Night Headlines | #headlines | Sathiyam News"
+        videoId: "OwnRzFtb25M"
+        name: "Sandeep Chaudhary LIVE: दान की लूट, जमीन घोटाला...कितने का गड़बड़झाला? | Ram Mandir Daan Chori"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_lNB4grfwUk"
+        name: "Disney Celebrates America: World News Tonight with David Muir (Special Edition) - July 4, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "miJt_PpQEW0"
+        name: "Today's Headlines | 05 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
         artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uLFnbAxCeAw"
+        name: "Trump Makes Major Announcement During Funeral Ceremony | 4 AM GEO News Headlines - 5th July 2026"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NqYnRNNuYSI"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 5 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NWbD8jJupCQ"
+        name: "Today Breaking News ! आज 5 जुलाई 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, SBI, UP, Bihar, Delhi"
+        artist: "My Smart Guide"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t-7RSOCxQjc"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-04T19:01:05.622Z"
+  exported_at: "2026-07-05T02:38:34.574Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-04T19:01:05.586Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: bDUVbTysZ4s (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 65 < 70)"
+  source_generated_at: "2026-07-05T02:38:34.533Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
