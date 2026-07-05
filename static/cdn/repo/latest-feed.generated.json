@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-05T08:45:14.120Z",
+    "generatedAt": "2026-07-05T13:18:08.244Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "v0kEZgDRPjw",
-            "name": "Ram Mandir Daan Chori News LIVE: अविनाश ने फोड़ा सभी का भांड़ा? | Champat Rai | Tinnu | Avinash",
+            "videoId": "jd4Rr5DAc54",
+            "name": "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "W2p_EYQELvg",
-            "name": "USA News LIVE : USA Independence Day 2026 LIVE Celebrations | Donald Trump | 4th Of July Fireworks",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8-8kzj2jyxc",
-            "name": "Mumbai Heavy Rain Red Alert Update LIVE: 2:45 से 3:15 पर समुद्र को लेकर हाई अलर्ट | IMD | Breaking",
+            "videoId": "ATIfLPDa1Ak",
+            "name": "Ram Mandir Donation Scam Row LIVE: टिन्नू यादव के मोबाइल में मिले अहम सुराग! | Champat Rai | UP News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TDZ3Z_YfzvM",
-            "name": "Ram Mandir Daan Chori News LIVE: सोने के पन्नों वाली रामचरितमानस भी गायब? | Champat Rai | Breaking",
+            "videoId": "BCCc9ZYNLzs",
+            "name": "Iran America War Live Update: ईरान-अमेरिका युद्ध की खबरें |Trump | Netanyahu | Hormuz | Khamenei",
+            "artist": "News18 UP Uttarakhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fOy7RTNgR1A",
+            "name": "Ram Mandir Chori News | UP News: शाम होते ही चढ़ावा चोरी कांड पर अयोध्या से आई बड़ी खबर! | Ayodhya",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jT2MhO7nPfA",
-            "name": "Today Headlines | 05 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "BIVJsDPNOr0",
+            "name": "Ram Mandir Daan Chori News LIVE: दान घोटाले में जल्द खुल सकते हैं नए राज! | Champat Rai | Tinnu",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4oO3lVv-mV4",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 05.07.2026 | BD New | Today News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IzGTFhMdgaw",
-            "name": "Marathi Breaking News LIVE |🔴 Mumbai Rain | Monsoon Update | Maharashtra Politics | Bhandup Rain",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wkQLcANCMeU",
-            "name": "Super Fast News LIVE: 100 बड़ी खबरें | PM Modi | Trump | Ram Mandir News | 5 July | Hindi News",
-            "artist": "Republic Bharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bBTmncSHxlY",
-            "name": "🟠Gujarat Varsad News LIVE | આજના વરસાદના મોટા સમાચાર | Latest News | Weather | Monsoon | News",
-            "artist": "News18 Gujarati"
+            "videoId": "DrYFZboxeU0",
+            "name": "Big Development After Araghchi's Meeting with Hamas & Hezbollah | Geo News 1PM Headlines 5 July 2026",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
