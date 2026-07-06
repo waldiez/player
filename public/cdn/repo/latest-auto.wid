@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260706T100413.618Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260706T151849.945Z-l4t35t"
   type: "state"
-  created: "2026-07-06T10:04:13.618Z"
+  created: "2026-07-06T15:18:49.945Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260706T100413.618Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260706T151849.945Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ao2SAXOdq9g"
-        name: "LIVE: Impeachment Trial of Vice President Sara Duterte | July 6, 2026"
-        artist: "NET25 News and Information"
+        videoId: "vwC36rTUREs"
+        name: "President Trump rings opening bell at New York Stock Exchange from the Oval Office: LIVE"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SLj1ivnSfMw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "WAK49wP-onw"
+        name: "🔴England Vs Mexico LIVE: FIFA World Cup 2026 Round of 16 Knockout | ENG Vs MEX | Harry Kane | N18G"
+        artist: "CNBC-TV18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P-z6Iz0Rr9E"
-        name: "Iran News LIVE | Iran Sends Strong Message to US & Israel: Mojtaba's Set To take Father's Revenge?"
-        artist: "CNN-News18"
+        videoId: "JlaCevETg2U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 6 July 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Television 24 BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6cVZLc2yOMs"
-        name: "Ram Mandir Chanda Chori News LIVE: फसेंगे चढ़ावा चोरी केस में बड़े नाम? | Chamat Rai | Tinnu Yadav"
+        videoId: "6UWdVTBPknE"
+        name: "Ram Mandir Chanda Chori News LIVE:चंपत राय, अनिल मिश्रा का निकल गया समय!, बैठक से आई बड़ी खबर"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rkdEMar3Ln4"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (06.07.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "B7yjFo4UNa8"
+        name: "ABP Report LIVE: मुंबई दरिया है...डूबकर जाना है! | Heavy Rain Flooded In Mumbai | IMD | Red Alert"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "guUZ5wnrHWA"
-        name: "Morning News Today LIVE | Sakalchya Batmya | 6 July | Uddhav Thackeray | Rain News | Politics News"
+        videoId: "6saq0vGIAjE"
+        name: "Sandeep Chaudhary LIVE: चंपत का इस्तीफा मंजूर...'डकैत' पकड़े गए हुजूर? | Ram Mandir Chanda Chori"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RqKlBIQHqLk"
+        name: "Sandeep Chuadhary LIVE: राम नाम जपना...भक्तों का माल अपना! | Ram Mandir Donation Scam | Champat Rai"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e01bWSgPa9g"
+        name: "Maharashtra Rain News LIVE | 'या' जिल्ह्यांना पावसाचा रेड अलर्ट! | Rain Update | Mumbai Rain"
         artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BZTbiC_cjps"
+        name: "Khamenei Last Rites Live: खामेनेई की अंतिम यात्रा | Ali Khamenei Funeral | Iran News | IRGC | Tehran"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8fdRfzrJXKA"
+        name: "Ayatollah Ali Khamenei funeral | New Petrol Price | Good News | 05 PM News Headlines | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-06T10:04:13.618Z"
+  exported_at: "2026-07-06T15:18:49.945Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-06T10:04:13.574Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-06T15:18:49.907Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
