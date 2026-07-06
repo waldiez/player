@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-06T02:36:00.642Z",
+    "generatedAt": "2026-07-06T10:04:13.574Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "m9EZXQ8iDcY",
-            "name": "Iran America War Live: अमेरिका-ईरान युद्ध की ताजा खबर! | Trump | Khamenei Funeral | Netanyahu | N18G",
-            "artist": "News18 UP Uttarakhand"
+            "videoId": "ao2SAXOdq9g",
+            "name": "LIVE: Impeachment Trial of Vice President Sara Duterte | July 6, 2026",
+            "artist": "NET25 News and Information"
         },
         {
             "mood": "storm",
-            "videoId": "ijHTxAiT51A",
-            "name": "Sandeep Chaudhary LIVE: ट्रस्ट में तकरार...चढ़ावे पर आर-पार! | Ram Mandir | Champat Rai | CM Yogi",
+            "videoId": "SLj1ivnSfMw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Jun 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P-z6Iz0Rr9E",
+            "name": "Iran News LIVE | Iran Sends Strong Message to US & Israel: Mojtaba's Set To take Father's Revenge?",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6cVZLc2yOMs",
+            "name": "Ram Mandir Chanda Chori News LIVE: फसेंगे चढ़ावा चोरी केस में बड़े नाम? | Chamat Rai | Tinnu Yadav",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Pnkmux0NK5o",
-            "name": "Maharashtra Rain LIVE | दिवसभरातील पावसाचे अपडेट लाईव्ह | Mumbai Rain News | Rain News",
+            "videoId": "rkdEMar3Ln4",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (06.07.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "guUZ5wnrHWA",
+            "name": "Morning News Today LIVE | Sakalchya Batmya | 6 July | Uddhav Thackeray | Rain News | Politics News",
             "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CiHCf_6_ufc",
-            "name": "Marathi News Today LIVE | पावसाच्या बातम्या | Mumbai Rain | Maharashtra Politics | Uddhav Thackeray",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "icqBf_l8uOw",
-            "name": "TV9 Bharatvarsh Live: Khamenei Last Rites | Iran US War | Ram Mandir | Trump | Tehran | Mumbai Rain",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qsMk3YVNsAc",
-            "name": "Sandeep Chaudhary LIVE: राम नाम की लूट...'बड़ी मछली' जाएगी छूट? | Ram Mandir Daan Chori | Ayodhya",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8bvDWjxKDXI",
-            "name": "Mumbai Weather Red Alert LIVE: बारिश से हाहाकार! , 5 की मौत मुंबई से सीधे LIVE | IMD | Heavy Rain",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zy8VWoPSioY",
-            "name": "Ram Mandir Chadhava Chori News LIVE: चढ़ावा चोरी केस में मिल गया मोबाइल!, CCTV ने पकड़ा चोर!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fu-b_LsyACM",
-            "name": "Headlines Now | 6 AM | 06-07-2026 | Sun News | Tamil News Today | Latest News",
-            "artist": "Sun News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-XKUtwY__Co",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 6 July News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W1MWJu82UvQ",
-            "name": "Today's Headlines | 06 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V18_N5O2va8",
-            "name": "US player reinstated for World Cup after Trump calls Fifa | BBC News",
-            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
