@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260706T194720.377Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260707T023140.802Z-l4t35t"
   type: "state"
-  created: "2026-07-06T19:47:20.377Z"
+  created: "2026-07-07T02:31:40.802Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260706T194720.377Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260707T023140.802Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "D3ghImWcsc8"
-        name: "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | FIFA World Cup | Ram Mandir News | Monsoon"
-        artist: "Aaj Tak"
+        videoId: "-Lrh951sPL4"
+        name: "USA vs Belgium: LIVE watch party of the 2026 World Cup"
+        artist: "Associated Press"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W0rfHSWg3Io"
-        name: "Today News LIVE | Kolkata Crime News LIVE | Bengal News | Mamata Banerjee News LIVE | India TV LIVE"
-        artist: "India TV Speed News"
+        videoId: "mUHoYwfJS4Y"
+        name: "US-Iran War LIVE: Trump Bombs Iran Again, Massive Explosions Rock Sirik & Qeshm Region | WION"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xiZtF0bOGVU"
-        name: "Ram Mandir Donation Scam Update LIVE: राम मंदिर को लेकर आ गई बड़ी खबर| Champat Rai"
+        videoId: "Lw3HGqSMo54"
+        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lCZCTJ0KC-0"
+        name: "LIVE | Trump Drops Shocking Last-Minute Bombshell That Leaves America Completely Stunned"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "74YShmUGcw8"
+        name: "Iran News Live | Spotlight Turns to Mojtaba Amid US-Israel Tensions | Middle East on Edge | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vSDYL5pwsSc"
+        name: "Mumbai Weather Red Alert LIVE: बारिश से हाहाकार! , 5 की मौत मुंबई से सीधे LIVE | IMD | Heavy Rain"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hnBsaffVN-Y"
-        name: "🔴LIVE : செந்தில் பாலாஜி ஆஜர்? வெளியான ட்விஸ்ட் தகவல் | TVKNews |SenthilBalaji"
-        artist: "NewsTamil 24X7"
+        videoId: "L1DSu2Nstiw"
+        name: "Ram Mandir Donation Theft LIVE: चंपत राय पर आ गया बड़ा फैसला!, अयोध्या से सीधे LIVE | Champat"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "I8B5sB2EfZs"
-        name: "Israel Latest Attack | Geo News 9PM Headlines 6 July 2026"
+        videoId: "RqKlBIQHqLk"
+        name: "Sandeep Chuadhary LIVE: राम नाम जपना...भक्तों का माल अपना! | Ram Mandir Donation Scam | Champat Rai"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fKw6n6moVJ8"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 7 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IpQ-GupWJdk"
+        name: "Today's Headlines | 07 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zvZfeesawz8"
+        name: "ABC World News Tonight With David Muir 7/6/26 | ABC News Today July 6, 2026 HD"
+        artist: "GR Music"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7ARZg8uciGU"
+        name: "Heatwave threat, red alert issued  | 2 AM Headlines Geo News (7 July 2026)"
         artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jq4bIG_kUl8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "j1sMrLo9rJI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X0Buzl8aNP8"
-        name: "🔴Spain vs Portugal LIVE: FIFA World Cup 2026 Round of 16 POR Vs ESP Match | Ronaldo Vs Yamal | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jUwQhcgJd2g"
-        name: "Today Headlines | 06 July 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZQM2MDx5MV4"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । 06.07.2026 | Top News | World Cup 2026 | Breaking News | BD News"
-        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-06T19:47:20.377Z"
+  exported_at: "2026-07-07T02:31:40.802Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-06T19:47:20.332Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-07T02:31:40.763Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
