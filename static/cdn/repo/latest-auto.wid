@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260707T023140.802Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260707T093025.201Z-l4t35t"
   type: "state"
-  created: "2026-07-07T02:31:40.802Z"
+  created: "2026-07-07T09:30:25.201Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260707T023140.802Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260707T093025.201Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-Lrh951sPL4"
-        name: "USA vs Belgium: LIVE watch party of the 2026 World Cup"
-        artist: "Associated Press"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mUHoYwfJS4Y"
-        name: "US-Iran War LIVE: Trump Bombs Iran Again, Massive Explosions Rock Sirik & Qeshm Region | WION"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Lw3HGqSMo54"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lCZCTJ0KC-0"
-        name: "LIVE | Trump Drops Shocking Last-Minute Bombshell That Leaves America Completely Stunned"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "74YShmUGcw8"
-        name: "Iran News Live | Spotlight Turns to Mojtaba Amid US-Israel Tensions | Middle East on Edge | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vSDYL5pwsSc"
-        name: "Mumbai Weather Red Alert LIVE: बारिश से हाहाकार! , 5 की मौत मुंबई से सीधे LIVE | IMD | Heavy Rain"
+        videoId: "xjzJRu4TYc8"
+        name: "Syria Blast News LIVE: सीरिया के दमिश्क में बड़ा ब्लास्ट, दहल गया पूरा देश! | Breaking | Damascus"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L1DSu2Nstiw"
-        name: "Ram Mandir Donation Theft LIVE: चंपत राय पर आ गया बड़ा फैसला!, अयोध्या से सीधे LIVE | Champat"
-        artist: "ABP NEWS"
+        videoId: "_HtLaOo2zLw"
+        name: "🔴 LIVE | Daily News Live | Latest Updates Around the World"
+        artist: "Javaria Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RqKlBIQHqLk"
-        name: "Sandeep Chuadhary LIVE: राम नाम जपना...भक्तों का माल अपना! | Ram Mandir Donation Scam | Champat Rai"
-        artist: "ABP NEWS"
+        videoId: "HqrKqJD0u14"
+        name: "വയനാട് കള്ളാടി തുരങ്കപാതയ്ക്ക് സമീപം മണ്ണിടിച്ചിൽ | LIVE"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fKw6n6moVJ8"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 7 July News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IpQ-GupWJdk"
-        name: "Today's Headlines | 07 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
+        videoId: "9idQrYSc0TE"
+        name: "Karur Case | TVK Vs DMK | Karur Latest News | உச்ச நீதிமன்றத்தில் திமுக-விற்கு பேரதிர்ச்சி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zvZfeesawz8"
-        name: "ABC World News Tonight With David Muir 7/6/26 | ABC News Today July 6, 2026 HD"
-        artist: "GR Music"
+        videoId: "o--HoW0zshc"
+        name: "TRUMP IMPEACHMENT News LIVE | Lawmakers Announce Their Votes | US News LIVE | World News LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7ARZg8uciGU"
-        name: "Heatwave threat, red alert issued  | 2 AM Headlines Geo News (7 July 2026)"
-        artist: "Geo News"
+        videoId: "L3gEtzK8ZuA"
+        name: "Mumbai Weather Red Alert LIVE: अगले 48 घंटे महाराष्ट्र पर भारी, लोगों में खौफ!, डूबीकारें, 6 की मौत!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oflmgyjZQD0"
+        name: "Ram Mandir Donation Scam | Champat Rai: चढ़ावा चोरी पर कोषाध्यक्ष Govind Dev Giri Ji का बड़ा खुलासा"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t5DjQk4nV9k"
+        name: "🔴Portugal Vs Spain LIVE: FIFA World Cup 2026 Round of 16 Knockout | Ronaldo Vs Lamine Yamal | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b-4uKNJB8rY"
+        name: "Ram Mandir Daan Chori News LIVE: पत्रकार के साथ बदसलूकी! | ABP Ram Mandir Report | Govind Dev Giri"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4b0HyJpTdQ8"
+        name: "Today Headlines | 07 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Szp0gsLwrx8"
+        name: "Morning News Today LIVE | Sakalchya Batmya | 7 July | Uddhav Thackeray | Rain News | Politics News"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T36orDClFJE"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-07T02:31:40.802Z"
+  exported_at: "2026-07-07T09:30:25.201Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-07T02:31:40.763Z"
+  source_generated_at: "2026-07-07T09:30:25.164Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
