@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-08T08:14:45.918Z",
+    "generatedAt": "2026-07-08T13:49:09.574Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "B0s9vrpnu5o",
-            "name": "Gujarat Heavy Rain News LIVE: ये क्या हुआ डूब गया गुजरात का ये शहर!,खौफ में लोग!| Surat | Red Alert",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Yi_rKZGLvvM",
-            "name": "🔴 Argentina vs Egypt LIVE | FIFA World Cup 2026 Round of 16 | Lionel Messi vs Mohamed Salah LIVE",
-            "artist": "moneycontrol"
-        },
-        {
-            "mood": "storm",
-            "videoId": "18qgq60qZ2w",
-            "name": "US-Iran War LIVE: Trump Issues New Attack Warning To Iran, Says ‘We May Hit Iran Again’ | WORLD NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FSsZSQdqtbQ",
-            "name": "LIVE : मुंबई में बारिश से हाहाकार! | Weather Update | Mumbai Rain | Rain News | IMD",
+            "videoId": "3-YLFoFbnSk",
+            "name": "America Attack On Iran LIVE : अमेरिका-ईरान में जंग शुरू! ट्रंप ने कर दिया बड़ा ऐलान.. Trump | War",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "F-jtcaNt8sU",
-            "name": "US Reimposes Ban on Iranian Oil Sales | US Iran War | Geo News 10AM Headlines 8 July 2026",
-            "artist": "Geo News"
+            "videoId": "NugK1AbWzy4",
+            "name": "LIVE: War Is Back? U.S. Launches New Strikes on Iran After Hormuz Ship Attacks | Iran Under Fire",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "QqNHC3b0xGw",
-            "name": "🔴LIVE: உயிருடன் மண்ணில் புதையும் பதைபதைக்கும் காட்சிகள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "a0CRE9Btcx0",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 08 jul",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uxhtGEOcTLs",
-            "name": "Wayanad Landslide News LIVE: वायनाड लैंडस्लाइड का खौफनाक मंजर, बह गया टैंकर, 3 की मौत,लापता लोग!",
+            "videoId": "PDD_9bSI25o",
+            "name": "Iran US War | America Attacks Iran | Hormuz: ईरान पर अमेरिका का बारूदी बदला... | Iran | ABP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XfATa9gk3Rk",
-            "name": "U.S. Strikes Iran || Big Breaking News| ARY News 8 AM Headlines | 8th July 2026",
-            "artist": "ARY News"
+            "videoId": "cjo7yrmxKnY",
+            "name": "Iran US War - Latest Update | 5PM Headlines Geo News (8 July 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "DDTv-vR8zK0",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 08.07.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "fbbpCNZkYsc",
+            "name": "🔴LIVE: Senthil Balaji | ஜாமீனா? ஜெயிலா?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tQo4tgmgpJE",
+            "name": "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zGfD3YDgbj0",
+            "name": "US-Iran War LIVE: US Unleashes Massive Strikes On Iran After Tankers Hit Strait Of Hormuz | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AdR6Lb1vN4g",
+            "name": "NATO Summit Leaders Dinner LIVE: Awkward Showdown Between Trump And Italian PM Meloni | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aE-yc2ublUk",
+            "name": "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ny-QFJ0uY8o",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.07.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
