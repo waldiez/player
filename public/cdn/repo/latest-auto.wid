@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260708T134909.613Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260708T191451.359Z-l4t35t"
   type: "state"
-  created: "2026-07-08T13:49:09.613Z"
+  created: "2026-07-08T19:14:51.359Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260708T134909.613Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260708T191451.359Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3-YLFoFbnSk"
-        name: "America Attack On Iran LIVE : अमेरिका-ईरान में जंग शुरू! ट्रंप ने कर दिया बड़ा ऐलान.. Trump | War"
-        artist: "NDTV India"
+        videoId: "YvA62TVdv_Q"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.07.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NugK1AbWzy4"
-        name: "LIVE: War Is Back? U.S. Launches New Strikes on Iran After Hormuz Ship Attacks | Iran Under Fire"
-        artist: "CNN-News18"
+        videoId: "JVP_Ltowgzg"
+        name: "🔴 LIVE: Trump Departs From Ankara Airport After NATO Summit"
+        artist: "DawnNews English"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PDD_9bSI25o"
-        name: "Iran US War | America Attacks Iran | Hormuz: ईरान पर अमेरिका का बारूदी बदला... | Iran | ABP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cjo7yrmxKnY"
-        name: "Iran US War - Latest Update | 5PM Headlines Geo News (8 July 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fbbpCNZkYsc"
-        name: "🔴LIVE: Senthil Balaji | ஜாமீனா? ஜெயிலா?"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tQo4tgmgpJE"
-        name: "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump"
+        videoId: "zrYT1Bs4rNo"
+        name: "US News LIVE | Trump Shocks Entire Nation With Bombshell Announcement | Trump LIVE | White House"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zGfD3YDgbj0"
-        name: "US-Iran War LIVE: US Unleashes Massive Strikes On Iran After Tankers Hit Strait Of Hormuz | WION"
-        artist: "WION"
+        videoId: "XOxheQiq0PM"
+        name: "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AdR6Lb1vN4g"
-        name: "NATO Summit Leaders Dinner LIVE: Awkward Showdown Between Trump And Italian PM Meloni | N18G"
-        artist: "CNN-News18"
+        videoId: "_gd2sN-EaD0"
+        name: "🔴LIVE: Iran | America | துவம்சம் செய்யும் ஈரான் - பெரும் பதற்றம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aE-yc2ublUk"
-        name: "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal"
-        artist: "NDTV India"
+        videoId: "n4psQ1IsR4I"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ny-QFJ0uY8o"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.07.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "6lVe4B57jgg"
+        name: "🔴LIVE: Trump | War | ஒட்டுமொத்த உலகையும் திரும்பி பார்க்க வைத்த ட்ரம்பின் அறிவிப்பு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I6bzy5GR8p0"
+        name: "President Trump holds news conference at NATO summit in Ankara, Turkey: LIVE"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "auddDl661zc"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 08 July 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-08T13:49:09.613Z"
+  exported_at: "2026-07-08T19:14:51.359Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-08T13:49:09.574Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-08T19:14:51.320Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

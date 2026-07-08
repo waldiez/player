@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-08T13:49:09.574Z",
+    "generatedAt": "2026-07-08T19:14:51.320Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3-YLFoFbnSk",
-            "name": "America Attack On Iran LIVE : अमेरिका-ईरान में जंग शुरू! ट्रंप ने कर दिया बड़ा ऐलान.. Trump | War",
-            "artist": "NDTV India"
+            "videoId": "YvA62TVdv_Q",
+            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.07.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "NugK1AbWzy4",
-            "name": "LIVE: War Is Back? U.S. Launches New Strikes on Iran After Hormuz Ship Attacks | Iran Under Fire",
-            "artist": "CNN-News18"
+            "videoId": "JVP_Ltowgzg",
+            "name": "🔴 LIVE: Trump Departs From Ankara Airport After NATO Summit",
+            "artist": "DawnNews English"
         },
         {
             "mood": "storm",
-            "videoId": "PDD_9bSI25o",
-            "name": "Iran US War | America Attacks Iran | Hormuz: ईरान पर अमेरिका का बारूदी बदला... | Iran | ABP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cjo7yrmxKnY",
-            "name": "Iran US War - Latest Update | 5PM Headlines Geo News (8 July 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fbbpCNZkYsc",
-            "name": "🔴LIVE: Senthil Balaji | ஜாமீனா? ஜெயிலா?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tQo4tgmgpJE",
-            "name": "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump",
+            "videoId": "zrYT1Bs4rNo",
+            "name": "US News LIVE | Trump Shocks Entire Nation With Bombshell Announcement | Trump LIVE | White House",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zGfD3YDgbj0",
-            "name": "US-Iran War LIVE: US Unleashes Massive Strikes On Iran After Tankers Hit Strait Of Hormuz | WION",
-            "artist": "WION"
+            "videoId": "XOxheQiq0PM",
+            "name": "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "AdR6Lb1vN4g",
-            "name": "NATO Summit Leaders Dinner LIVE: Awkward Showdown Between Trump And Italian PM Meloni | N18G",
-            "artist": "CNN-News18"
+            "videoId": "_gd2sN-EaD0",
+            "name": "🔴LIVE: Iran | America | துவம்சம் செய்யும் ஈரான் - பெரும் பதற்றம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "aE-yc2ublUk",
-            "name": "Ketan Agarwal Murder Case News LIVE: भाई ने खोल दिया सिया का बड़ा राज! | Chetan | Siya Goyal",
-            "artist": "NDTV India"
+            "videoId": "n4psQ1IsR4I",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Ny-QFJ0uY8o",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.07.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "6lVe4B57jgg",
+            "name": "🔴LIVE: Trump | War | ஒட்டுமொத்த உலகையும் திரும்பி பார்க்க வைத்த ட்ரம்பின் அறிவிப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I6bzy5GR8p0",
+            "name": "President Trump holds news conference at NATO summit in Ankara, Turkey: LIVE",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "auddDl661zc",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 08 July 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
