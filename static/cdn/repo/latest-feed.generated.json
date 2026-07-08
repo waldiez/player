@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-08T02:05:34.509Z",
+    "generatedAt": "2026-07-08T08:14:45.918Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Tynkav5dETs",
-            "name": "Champat Rai Letter News LIVE: इस्तीफे के बाद पहली बार आ गई चंपत राय की चिट्ठी, खोल दिए राज!",
+            "videoId": "B0s9vrpnu5o",
+            "name": "Gujarat Heavy Rain News LIVE: ये क्या हुआ डूब गया गुजरात का ये शहर!,खौफ में लोग!| Surat | Red Alert",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "24WzgJgk7L4",
-            "name": "Tukaram Mundhe Exclusive Interview LIVE | तुकाराम मुंडेंबाबत माहित नसलेल्या गोष्टी | Marathi News",
-            "artist": "News18 Marathi"
+            "videoId": "Yi_rKZGLvvM",
+            "name": "🔴 Argentina vs Egypt LIVE | FIFA World Cup 2026 Round of 16 | Lionel Messi vs Mohamed Salah LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "ucsVn0pLRHU",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 8 July News",
-            "artist": "ABP NEWS"
+            "videoId": "18qgq60qZ2w",
+            "name": "US-Iran War LIVE: Trump Issues New Attack Warning To Iran, Says ‘We May Hit Iran Again’ | WORLD NEWS",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "xnoPTLC7ZKE",
-            "name": "Today's Headlines | 08 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
+            "videoId": "FSsZSQdqtbQ",
+            "name": "LIVE : मुंबई में बारिश से हाहाकार! | Weather Update | Mumbai Rain | Rain News | IMD",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F-jtcaNt8sU",
+            "name": "US Reimposes Ban on Iranian Oil Sales | US Iran War | Geo News 10AM Headlines 8 July 2026",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QqNHC3b0xGw",
+            "name": "🔴LIVE: உயிருடன் மண்ணில் புதையும் பதைபதைக்கும் காட்சிகள்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "qaL-Q5ETPn4",
-            "name": "Middle East Tensions Rise Again After US New Attack On Iran| 5 AM Headlines Geo News (8 July 2026)",
-            "artist": "Geo News"
+            "videoId": "a0CRE9Btcx0",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 08 jul",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "suXImqYs6vM",
-            "name": "US imposes new sanctions on Iran | 4 AM Headlines Geo News (8 July 2026)",
-            "artist": "Geo News"
+            "videoId": "uxhtGEOcTLs",
+            "name": "Wayanad Landslide News LIVE: वायनाड लैंडस्लाइड का खौफनाक मंजर, बह गया टैंकर, 3 की मौत,लापता लोग!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2tSAfcmxw8w",
-            "name": "ABC World News Tonight With David Muir Full Episode - July 7_ 2026(720P_HD)",
-            "artist": "ZooM_ FM"
+            "videoId": "XfATa9gk3Rk",
+            "name": "U.S. Strikes Iran || Big Breaking News| ARY News 8 AM Headlines | 8th July 2026",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "2bxTu0aw-VY",
-            "name": "World News | নজর ঘোরাতে এবার মারাত্মক ছক পুতিনের | Zee 24 Ghanta Live",
-            "artist": "Zee 24 Ghanta"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qJCdwDETE7k",
-            "name": "CNN News Live Stream Today: Breaking World News Updates You Can't Miss!",
-            "artist": "LiveNews24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Dc78Fq_QPLs",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 8 July 2026 | NTV Latest News Update",
-            "artist": "NTV News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xy6rOfHfKC0",
-            "name": "New U.S. Strikes on Iran - LIVE Breaking News War Coverage",
-            "artist": "Agenda-Free TV"
+            "videoId": "DDTv-vR8zK0",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 08.07.2026 | Today News | Breaking News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
