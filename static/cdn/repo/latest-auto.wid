@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260708T191451.359Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260709T022426.360Z-l4t35t"
   type: "state"
-  created: "2026-07-08T19:14:51.359Z"
+  created: "2026-07-09T02:24:26.360Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260708T191451.359Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260709T022426.360Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YvA62TVdv_Q"
-        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (08.07.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "S9Bk1rtwJAE"
+        name: "AMERICA ATTACKS IRAN LIVE: US Launches 'Powerful Strikes' on 80+ Targets After Truce Collapses! N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JVP_Ltowgzg"
-        name: "🔴 LIVE: Trump Departs From Ankara Airport After NATO Summit"
-        artist: "DawnNews English"
+        videoId: "NmM2d00gjY8"
+        name: "Rohit Pawar Latest News LIVE | रोहित पवार Sharad Pawar यांच्यावर नाराज? बैठकीला गैरहजर का?"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zrYT1Bs4rNo"
-        name: "US News LIVE | Trump Shocks Entire Nation With Bombshell Announcement | Trump LIVE | White House"
-        artist: "Times Now"
+        videoId: "OPU8-8YOIYA"
+        name: "Champat Rai Letter News LIVE: चंपत राय के लेटर ने कर दिया धमाका!, ये क्या लिख दिया? | Big Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XOxheQiq0PM"
-        name: "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral"
-        artist: "MIRROR NOW"
+        videoId: "X88d7vj8fgg"
+        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_gd2sN-EaD0"
-        name: "🔴LIVE: Iran | America | துவம்சம் செய்யும் ஈரான் - பெரும் பதற்றம்"
+        videoId: "HvilNJCzBFk"
+        name: "Headlines Now | 6 AM | 09-07-2026 | Sun News | Tamil News Today | Latest News"
+        artist: "Sun News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SkovPtQuCrs"
+        name: "Today's Headlines | 09 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n4psQ1IsR4I"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "U1I21UYQ-K0"
+        name: "🔴Headlines Live | காலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6lVe4B57jgg"
-        name: "🔴LIVE: Trump | War | ஒட்டுமொத்த உலகையும் திரும்பி பார்க்க வைத்த ட்ரம்பின் அறிவிப்பு"
-        artist: "Sathiyam News"
+        videoId: "1Ot_9u9_ASo"
+        name: "ABC World News Tonight With David Muir 7/8/26 | ABC News Today July 8, 2026 HD"
+        artist: "GR Music"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "I6bzy5GR8p0"
-        name: "President Trump holds news conference at NATO summit in Ankara, Turkey: LIVE"
-        artist: "ABC News"
+        videoId: "ErP3_UgfxRU"
+        name: "Live: Iran-U.S. Ceasefire Ends as Attacks Resume: Trump’s Key Remarks on Iran - Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "auddDl661zc"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 08 July 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "M-37rXzJpcc"
+        name: "US IRAN WAR LIVE: Trump Declares Ceasefire With Iran Is Over | Eight Blasts Reported In Iran | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-_v1AgUOySs"
+        name: "🔴 LIVE TAMIL NEWS | மீண்டும் தாக்குதல்.. ட்ரம்ப் அதிரடி அறிவிப்பு | Donald Trump | Iran | America"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i2d32Muur08"
+        name: "US attacks on Iran continue.. | 2 AM Headlines Geo News (9 July 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-08T19:14:51.359Z"
+  exported_at: "2026-07-09T02:24:26.360Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-08T19:14:51.320Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-09T02:24:26.321Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
