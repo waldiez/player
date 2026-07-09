@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260709T092727.449Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260709T144300.485Z-l4t35t"
   type: "state"
-  created: "2026-07-09T09:27:27.449Z"
+  created: "2026-07-09T14:43:00.485Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260709T092727.449Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260709T144300.485Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "U6NjNoK9Zhg"
-        name: "Ram Mandir Donation Scam News LIVE: दान चोरी पर खुला बड़ा राज! | Tinnu Yadav | Champat Rai"
+        videoId: "1gxCJ7s79fE"
+        name: "Sandeep Chaudhary LIVE: ट्रंप बेलगाम...दुनिया कब तक भुगतेगी अंजाम? | Iran America War | Trump"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ql0vRU_QnTk"
-        name: "Did Donald Trump Just Invent a New Country? | NATO Summit | Firstpost Live | 4K"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7Cigd2-g9YE"
-        name: "America Attack On Iran LIVE: हमलों पर पलटवार...ईरान का बदला शुरू! | Trump | IRGC | US | Hormuz"
+        videoId: "Rp5NM7W8q_g"
+        name: "Sandeep Chaudhary LIVE: फिर बजा विनाश का जल 'डमरू'? | Iran US War | Trump | Khamenei | Hormuz"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LkZ733YWQYU"
-        name: "World News LIVE: Iran Rocked By Fresh Explosions | New Video Emerges | IRAN-US War LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O1fhMhpHrZ8"
-        name: "BREAKING NEWS LIVE: US Launches Fresh Strikes On Iran | Attack Footage Emerges | IRAN-US War LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wKzsDk5LrSc"
-        name: "Delhi-Mumbai Weather News LIVE: दिल्ली में रिकॉर्डतोड़ बारिश, डूबे वाहन... | Flood | Heavy Rain"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7W7Yuo7D4kg"
-        name: "🔴LIVE || US President Donald Trump Speaks to Media || ARY News Live"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aoGIeh7SEg8"
-        name: "Khamenei Funeral Live: सुपुर्द-ए-खाक हुए खामेनेई | Ayatollah Ali khamenei Namaz E Janaza | Iran News"
+        videoId: "U86ZMwg-Izc"
+        name: "Khamenei's Funeral in Karbala Iraq Live : ईरान के मशहद पहुंचा खामेनेई के पार्थिव शरीर | Iran News"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EgWwN-26MFo"
-        name: "Iran-America War Update LIVE: अरब में फिर ‘महातबाही’ | Hormuz | Iran Attacks | Israel | Lebanon"
+        videoId: "LPExBF-N7m4"
+        name: "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "itjqtWT3-KA"
+        name: "Iran America War Update: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Khamenei | Hormuz"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gF8JsPirRFE"
-        name: "🔴 LIVE: Iran | Trump | வெறி பிடித்து அடிக்கும் ட்ரம்ப் - ரத்தக் காடாகும் ஈரான்..."
+        videoId: "bwiX3vghBk4"
+        name: "Iran US War - Latest Update | 5PM Headlines Geo News (9 July 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KqPWrCUG3zg"
+        name: "Chitra Tripathi: Live Show में Congress प्रवक्ता का चौंकाने वाला दावा! | UP Election 2027 | Akhilesh"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hf7fnu_IPwk"
+        name: "Iran America War Update: युद्ध हो गया फिर से शुरू? | Trump | Mojtaba | Breaking News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U1I21UYQ-K0"
+        name: "🔴Headlines Live | மாலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K-maZm7Dl6g"
+        name: "🔴LIVE: Iran | America | அமெரிக்கா - ஈரான் கண்மூடித்தனமான தாக்குதலால் அதிரும் உலகம்"
         artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HZtOR7Wdr_k"
-        name: "Gujarat Heavy Rain News:  डूब गया गुजरात का ये शहर!,  लोग परेशान | Surat | Red Alert"
-        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-09T09:27:27.449Z"
+  exported_at: "2026-07-09T14:43:00.485Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-09T09:27:27.407Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-09T14:43:00.446Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

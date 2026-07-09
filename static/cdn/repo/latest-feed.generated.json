@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-09T09:27:27.407Z",
+    "generatedAt": "2026-07-09T14:43:00.446Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "U6NjNoK9Zhg",
-            "name": "Ram Mandir Donation Scam News LIVE: दान चोरी पर खुला बड़ा राज! | Tinnu Yadav | Champat Rai",
+            "videoId": "1gxCJ7s79fE",
+            "name": "Sandeep Chaudhary LIVE: ट्रंप बेलगाम...दुनिया कब तक भुगतेगी अंजाम? | Iran America War | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ql0vRU_QnTk",
-            "name": "Did Donald Trump Just Invent a New Country? | NATO Summit | Firstpost Live | 4K",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7Cigd2-g9YE",
-            "name": "America Attack On Iran LIVE: हमलों पर पलटवार...ईरान का बदला शुरू! | Trump | IRGC | US | Hormuz",
+            "videoId": "Rp5NM7W8q_g",
+            "name": "Sandeep Chaudhary LIVE: फिर बजा विनाश का जल 'डमरू'? | Iran US War | Trump | Khamenei | Hormuz",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LkZ733YWQYU",
-            "name": "World News LIVE: Iran Rocked By Fresh Explosions | New Video Emerges | IRAN-US War LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O1fhMhpHrZ8",
-            "name": "BREAKING NEWS LIVE: US Launches Fresh Strikes On Iran | Attack Footage Emerges | IRAN-US War LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wKzsDk5LrSc",
-            "name": "Delhi-Mumbai Weather News LIVE: दिल्ली में रिकॉर्डतोड़ बारिश, डूबे वाहन... | Flood | Heavy Rain",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7W7Yuo7D4kg",
-            "name": "🔴LIVE || US President Donald Trump Speaks to Media || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aoGIeh7SEg8",
-            "name": "Khamenei Funeral Live: सुपुर्द-ए-खाक हुए खामेनेई | Ayatollah Ali khamenei Namaz E Janaza | Iran News",
+            "videoId": "U86ZMwg-Izc",
+            "name": "Khamenei's Funeral in Karbala Iraq Live : ईरान के मशहद पहुंचा खामेनेई के पार्थिव शरीर | Iran News",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "EgWwN-26MFo",
-            "name": "Iran-America War Update LIVE: अरब में फिर ‘महातबाही’ | Hormuz | Iran Attacks | Israel | Lebanon",
+            "videoId": "LPExBF-N7m4",
+            "name": "World News LIVE: Iran Foreign Minister Breaks Silence After Ceasefire, Sends Strong Message To Trump",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "itjqtWT3-KA",
+            "name": "Iran America War Update: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Khamenei | Hormuz",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "gF8JsPirRFE",
-            "name": "🔴 LIVE: Iran | Trump | வெறி பிடித்து அடிக்கும் ட்ரம்ப் - ரத்தக் காடாகும் ஈரான்...",
+            "videoId": "bwiX3vghBk4",
+            "name": "Iran US War - Latest Update | 5PM Headlines Geo News (9 July 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KqPWrCUG3zg",
+            "name": "Chitra Tripathi: Live Show में Congress प्रवक्ता का चौंकाने वाला दावा! | UP Election 2027 | Akhilesh",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hf7fnu_IPwk",
+            "name": "Iran America War Update: युद्ध हो गया फिर से शुरू? | Trump | Mojtaba | Breaking News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U1I21UYQ-K0",
+            "name": "🔴Headlines Live | மாலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "K-maZm7Dl6g",
+            "name": "🔴LIVE: Iran | America | அமெரிக்கா - ஈரான் கண்மூடித்தனமான தாக்குதலால் அதிரும் உலகம்",
             "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HZtOR7Wdr_k",
-            "name": "Gujarat Heavy Rain News:  डूब गया गुजरात का ये शहर!,  लोग परेशान | Surat | Red Alert",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
