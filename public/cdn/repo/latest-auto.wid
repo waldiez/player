@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260710T092351.377Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260710T140806.081Z-l4t35t"
   type: "state"
-  created: "2026-07-10T09:23:51.377Z"
+  created: "2026-07-10T14:08:06.081Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260710T092351.377Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260710T140806.081Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "eOicAQa14Eo"
-        name: "Live: Iran America War - Tension Esclate, Middle East High Alert - Geo News"
-        artist: "Geo News"
+        videoId: "YVtXNTkC0Zo"
+        name: "🔴Headlines Live | மாலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xJ-nvY0tyUY"
-        name: "WATCH LIVE: France vs Morocco | FIFA World Cup 2026 Quarter-Final | Winner Heads to the Semi-Finals!"
-        artist: "The Daily Guardian"
+        videoId: "M3ERDJ7trmM"
+        name: "US-Iran War LIVE: US Unleashes Massive Strikes On Iran, Blasts Reported In Bandar Abbas, Chabahar"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kO4C5LqizwM"
-        name: "🔴LIVE || Iran US War || Ayatollah Ali Khamenei Funeral Update || ARY News"
-        artist: "ARY News"
+        videoId: "BDb27pLz07Y"
+        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m7paaAEItiw"
-        name: "1 PM Gujarati News LIVE | 1 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "x7nLsjyiOHo"
-        name: "🔴LIVE: CM Vijay | Karur | அதிரும் கரூர்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "P6mfD7rTTY0"
-        name: "Iran-America War Update LIVE: ईरान के भीषण हमले शुरू | Hormuz | Iran Attacks | Israel | Lebanon"
+        videoId: "CanMhNDgZjo"
+        name: "Iran America War Update: जंग में बेकाबू ईरान? | Trump | Khamenei | Hormuz | Missile Attack"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZSKz2m9S-vA"
-        name: "Iran-America War: IRGC का बदला शुरू!| Hormuz | Iran Attacks | Israel | Lebanon | World War 3"
+        videoId: "zVndIXj33bQ"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WmHkiGK2CEE"
+        name: "ईरान-अमेरिका जंग, 10 जुलाई 2026  Iran Vs America War | Trump | Mujtaba | Khamenei | Middle East"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IqgTH6eH1Pc"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.07.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UdsmaE8Ahx4"
+        name: "Lalita Murder Case Update: मेरठ में हत्याकांड से मचा बवाल | SSP Viral Video | Meerut News"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6ZHh5okL4f0"
-        name: "World Bank Approves $376 Million for Pakistan's Power Grid | Geo News 11AM Headlines 10 July 2026"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "a_WO3gs6iqE"
-        name: "Iran-US War | Iran Attacks Arab Countries, Targets US Bases | ARY News 11AM Headlines | 10 July 2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1yyW878BZIY"
-        name: "WATCH LIVE: France vs Morocco| FIFA  World Cup 2026 Quarter-Final"
-        artist: "The Daily Guardian"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-10T09:23:51.377Z"
+  exported_at: "2026-07-10T14:08:06.081Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-10T09:23:51.332Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-10T14:08:06.042Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
