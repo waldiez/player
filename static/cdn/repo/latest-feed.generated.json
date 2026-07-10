@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-10T14:08:06.042Z",
+    "generatedAt": "2026-07-10T19:19:25.826Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "YVtXNTkC0Zo",
-            "name": "🔴Headlines Live | மாலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "M3ERDJ7trmM",
-            "name": "US-Iran War LIVE: US Unleashes Massive Strikes On Iran, Blasts Reported In Bandar Abbas, Chabahar",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BDb27pLz07Y",
+            "videoId": "7TQcT0zx26w",
             "name": "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "CanMhNDgZjo",
-            "name": "Iran America War Update: जंग में बेकाबू ईरान? | Trump | Khamenei | Hormuz | Missile Attack",
-            "artist": "ABP NEWS"
+            "videoId": "1dqakuMOd9o",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "zVndIXj33bQ",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "videoId": "mctP-2zmNSc",
+            "name": "Ali Khamenei Last Rites: खामेनेई की मौत का बदला लेगा ईरान, ट्रंप की हत्या की साजिश? | US-Iran War",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RSLL4EF7o5I",
+            "name": "War Alert - IRGC Issues Big Statement | 8PM Headlines Geo News  (10 July 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rtu1atfDwUs",
+            "name": "Donald Trump LIVE | Trump's Big DECISION On Iran War | Trump Huge Warning Leaves Iran In Panic!",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "WmHkiGK2CEE",
-            "name": "ईरान-अमेरिका जंग, 10 जुलाई 2026  Iran Vs America War | Trump | Mujtaba | Khamenei | Middle East",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IqgTH6eH1Pc",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.07.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UdsmaE8Ahx4",
-            "name": "Lalita Murder Case Update: मेरठ में हत्याकांड से मचा बवाल | SSP Viral Video | Meerut News",
+            "videoId": "Gqg7ohnO2b4",
+            "name": "Sandeep Chaudhary: SSP थप्पड़ विवाद पर Live Debate में हंगामा | Meerut Lalita Murder Case",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iDXV3Uwdn6I",
+            "name": "Oil New Price..? Big News | 7PM Headlines Geo News  (10 July 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TLIbzG0y2dc",
+            "name": "America Attack On Iran LIVE Update: ईरान पर बरसी आग! संपूर्ण अरब में बारूदी विनाश! | Trump |Khamenei",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BbUEiMDBIFM",
+            "name": "Iran Under Attack Again? US-Iran War Escalates | 6PM Headlines Geo News  (10 July 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {

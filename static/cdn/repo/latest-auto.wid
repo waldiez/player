@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260710T140806.081Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260710T191925.865Z-l4t35t"
   type: "state"
-  created: "2026-07-10T14:08:06.081Z"
+  created: "2026-07-10T19:19:25.865Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260710T140806.081Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260710T191925.865Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YVtXNTkC0Zo"
-        name: "🔴Headlines Live | மாலை தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M3ERDJ7trmM"
-        name: "US-Iran War LIVE: US Unleashes Massive Strikes On Iran, Blasts Reported In Bandar Abbas, Chabahar"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BDb27pLz07Y"
+        videoId: "7TQcT0zx26w"
         name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CanMhNDgZjo"
-        name: "Iran America War Update: जंग में बेकाबू ईरान? | Trump | Khamenei | Hormuz | Missile Attack"
-        artist: "ABP NEWS"
+        videoId: "1dqakuMOd9o"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zVndIXj33bQ"
-        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        videoId: "mctP-2zmNSc"
+        name: "Ali Khamenei Last Rites: खामेनेई की मौत का बदला लेगा ईरान, ट्रंप की हत्या की साजिश? | US-Iran War"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RSLL4EF7o5I"
+        name: "War Alert - IRGC Issues Big Statement | 8PM Headlines Geo News  (10 July 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rtu1atfDwUs"
+        name: "Donald Trump LIVE | Trump's Big DECISION On Iran War | Trump Huge Warning Leaves Iran In Panic!"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WmHkiGK2CEE"
-        name: "ईरान-अमेरिका जंग, 10 जुलाई 2026  Iran Vs America War | Trump | Mujtaba | Khamenei | Middle East"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IqgTH6eH1Pc"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (10.07.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UdsmaE8Ahx4"
-        name: "Lalita Murder Case Update: मेरठ में हत्याकांड से मचा बवाल | SSP Viral Video | Meerut News"
+        videoId: "Gqg7ohnO2b4"
+        name: "Sandeep Chaudhary: SSP थप्पड़ विवाद पर Live Debate में हंगामा | Meerut Lalita Murder Case"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iDXV3Uwdn6I"
+        name: "Oil New Price..? Big News | 7PM Headlines Geo News  (10 July 2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TLIbzG0y2dc"
+        name: "America Attack On Iran LIVE Update: ईरान पर बरसी आग! संपूर्ण अरब में बारूदी विनाश! | Trump |Khamenei"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BbUEiMDBIFM"
+        name: "Iran Under Attack Again? US-Iran War Escalates | 6PM Headlines Geo News  (10 July 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-10T14:08:06.081Z"
+  exported_at: "2026-07-10T19:19:25.865Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-10T14:08:06.042Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-10T19:19:25.826Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
