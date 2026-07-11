@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260711T020327.788Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260711T074521.594Z-l4t35t"
   type: "state"
-  created: "2026-07-11T02:03:27.788Z"
+  created: "2026-07-11T07:45:21.594Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260711T020327.788Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260711T074521.594Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "eOdKoTur_gU"
-        name: "Maharashtra Politics LIVE | Rain Update | Mumbai Rain | CM Devendra Fadnavis | Marathi News Today"
-        artist: "News18 Marathi"
+        videoId: "kviS7BD-p0c"
+        name: "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9SUwmQD3_FU"
-        name: "Iran America Israel War News LIVE: ईरान ने दिखाया मौत का भयंकर मंजर! | Hormuz | Missile Attack"
+        videoId: "9MakCeLDiKY"
+        name: "US vs Iran War LIVE: Trump Ends Ceasefire, Launches New Airstrikes As Iran Retaliates | Gulf | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7TQcT0zx26w"
+        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VM2KpyHilp8"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 11.07.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UhVwJiQZPN4"
+        name: "Narottam Mishra News LIVE: MP BJP में 'खेला', सड़क पर कार्यकर्ताओं का हंगामा! | Datia | Protest"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-zIkJe30ixM"
-        name: "🔴LIVE: தடை... தடை... தடை...! CM விஜய்க்கு பேரிடி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V6IcUAdnRwQ"
-        name: "Iran US War Update LIVE: अभी-अभी ईरान पर बड़ा हमला! | Trump | Netanyahu | Khamenei | Hormuz"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2KlUQImpKVU"
-        name: "Sandeep Chaudhary LIVE: UP में 'दलित कांड'..किसका सियासी 'रिमांड'? | Lalita Murder Case | Meerut SSP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "L5wlgxTqFu4"
-        name: "Iran America War Update LIVE: ईरान के जवाबी हमले शुरू! | Trump | Khamenei | Hormuz | Netanyahu"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wJ-ItmTX-9o"
-        name: "Today's Headlines | 11 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1ODTM1TKEWE"
-        name: "🔴Headlines Live | காலை தலைப்புச் செய்திகள் | Live Tamil News | News Tamil 24x7 | TVK | CM Vijay"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3N8cpySl_Ow"
-        name: "America Attack On Iran LIVE : अमेरिका-ईरान में युद्ध, ताजा हालात!Trump | Ceasefire Ends | War News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HLrC0nIkNu4"
-        name: "ABC World News Tonight With David Muir 7/10/26 | ABC News Today July 10, 2026 HD"
-        artist: "GR Music"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8svYg_kk-Ls"
-        name: "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (11.07.2026) | 7 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "I-owyQSZujk"
-        name: "🔴Headlines Live | இரவு தலைப்புச் செய்திகள் | live tamil news | News Tamil 24x7 | TVK | CM Vijay"
-        artist: "NewsTamil 24X7"
+        videoId: "S92V7rwaTh0"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 11 jul"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-11T02:03:27.788Z"
+  exported_at: "2026-07-11T07:45:21.594Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-11T02:03:27.744Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-11T07:45:21.556Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
