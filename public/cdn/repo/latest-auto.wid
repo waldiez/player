@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260711T074521.594Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260711T130420.482Z-l4t35t"
   type: "state"
-  created: "2026-07-11T07:45:21.594Z"
+  created: "2026-07-11T13:04:20.482Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260711T074521.594Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260711T130420.482Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "kviS7BD-p0c"
-        name: "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "_npZvDEoHuI"
+        name: "Maharashtra Politics LIVE | Rain Update | Mumbai Rain | CM Devendra Fadnavis | Marathi News Today"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9MakCeLDiKY"
-        name: "US vs Iran War LIVE: Trump Ends Ceasefire, Launches New Airstrikes As Iran Retaliates | Gulf | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7TQcT0zx26w"
-        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VM2KpyHilp8"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 11.07.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UhVwJiQZPN4"
-        name: "Narottam Mishra News LIVE: MP BJP में 'खेला', सड़क पर कार्यकर्ताओं का हंगामा! | Datia | Protest"
+        videoId: "Mi7D1An_nok"
+        name: "Iran-America War Update LIVE: ट्रंप की हत्या की खबर पर क्या बोला ईरान?, तान दी 1000 मिसाइल,कुछ बड़ा!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S92V7rwaTh0"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 11 jul"
-        artist: "Sairbeen News 24"
+        videoId: "ry5Sow5vXMU"
+        name: "Narottam Mishra News LIVE: बीजेपी के बड़े नेता का कटा पत्ता!, दतिया में हो गया बवाल! | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wjVVWHZLqtM"
+        name: "Big Update on Iran US War LIVE: सीजफायर के बाद फिर युद्ध शुरू? | Trump | Khamenei | Netanyahu"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TxOSlOrI4ns"
+        name: "আন্তর্জাতিক সময় | বিকাল ৪টা | ১১ জুলাই ২০২৬ | Somoy TV Bulletin 4pm| Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KU-GnOoCG_Y"
+        name: "America Attack on Iran LIVE: ट्रंप की हत्या की बात लीक होते ही ईरान की तरफ घूमी 1000 मिसाइलें!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7XRwe99kego"
+        name: "Iran US War Update LIVE: ईरान के नए हमलों से युद्ध फिर से शुरू! | Trump | Khamenei | Hormuz"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NQR4XM5fFYI"
+        name: "Narottam Mishra Supporter Protest LIVE: नरोत्तम मिश्रा के समर्थकों का बवाल, पत्थरबाजी में SP घायल!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VXnz0xgQR7w"
+        name: "Iran America War Update LIVE: ईरान को ट्रंप की विध्वंस की चेतावनी ! | Trump | Khamenei | Top News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-11T07:45:21.594Z"
+  exported_at: "2026-07-11T13:04:20.482Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-11T07:45:21.556Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-11T13:04:20.440Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
