@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-12T02:07:10.788Z",
+    "generatedAt": "2026-07-12T08:06:14.892Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JklqJPl0zwk",
-            "name": "US Iran War LIVE | U.S. Boots on the Ground in Iran? Trump Hints at Bigger Attack Tonight | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jX0zbaUzDgw",
-            "name": "🔴Headlines Live | காலை தலைப்புச் செய்திகள் | Live Tamil News | News Tamil 24x7 | TVK | CM Vijay",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LfDBFBcVtgo",
-            "name": "CENTCOM Announces New Wave of Strikes Against Iran | 5 AM Headlines Geo News (12th July 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ddz6sOxfoqo",
-            "name": "Today's Headlines | 12 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "69NvEM8S77M",
-            "name": "🔴LIVE | Iran US War | Mojtaba Khamenei pledges revenge for martyred father, predecessor | ARY News",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UgWn-m399JQ",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 12 July News",
+            "videoId": "R6aAz5UKz2g",
+            "name": "Iran-US War Update LIVE | Donald Trump | Strait of Hormuz | Israel Iran America War News | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xqoUHIWqlMc",
-            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (12.07.2026) | 7 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "vHR-Y3BDkd0",
+            "name": "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "NFut35uJT08",
-            "name": "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP",
-            "artist": "MIRROR NOW"
+            "videoId": "KyuLvdg8Jy8",
+            "name": "Iran US War LIVE Update | Hormuz Strait Air Strike Drones Attack | Ali khamenei | Iran News | Trump",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-8fOUE-lPxc",
+            "name": "Iran US War LIVE Update | Hormuz Strait Air Strike Drones Attack | Ali khamenei | Iran News | Trump",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cNy7N8fLC3s",
+            "name": "UP Kanwar Yatra News LIVE: कांवड में हो गया बड़ा बवाल! | Muzaffarnagar | Police | Shop Name Plate",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ULWrP83qFS8",
+            "name": "Iran America War News LIVE: ईरान ने दिया मुहंतोड़ जवाब! | Trump | Missile Attack | Air Strike",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IchEsHkOR5k",
+            "name": "Iran US War | Iran Launches Attacks on Bahrain | 11 AM News Headlines | 12 July 2026",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "unSl-ZzLPV4",
+            "name": "War News LIVE | World War 3 Fear Grows? Iran’s Explosive Ultimatum To US | US-Iran War LIVE",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8LFybym0EJw",
+            "name": "🔴LIVE:  S .Janaki Passed Away | மறைந்த ஜானகியின் கடைசி நிமிடங்கள்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yN8ncNM4CW8",
+            "name": "Iran US War Update LIVE: ईरान के जवाबी हमले शुरू! | Trump | Netanyahu | Hormuz | War Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
