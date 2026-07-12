@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-12T13:05:16.047Z",
+    "generatedAt": "2026-07-12T18:56:46.693Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FjWUBCov8kY",
-            "name": "Bangla News Live BBC World News 12 July 2026  || World News Bangla || International News Today",
-            "artist": "Somoy News Tv"
+            "videoId": "_GtKA3m-yE8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "TPSJXnQ0pe0",
-            "name": "🔴LIVE | US Launches Third Air Operation Against Iran This Week | ARY News Live",
-            "artist": "ARY News"
+            "videoId": "iuJewNg1G2Q",
+            "name": "🔴LIVE: Iran | America | Trump | சோலி முடிஞ்சது! - ட்ரம்பை அலறவிட்ட ஈரான்!",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "a5oo1rBg5ys",
-            "name": "US Attacks Iran News LIVE: US Launches Fresh Strikes on Iran After IRGC Ship Attack | India Today",
-            "artist": "India Today"
+            "videoId": "8DcUhbQIdfs",
+            "name": "Middle East High Alert - Iran U.S. War Latest Update | Geo News 9PM Headlines 12 July 2026",
+            "artist": "Geo Headlines"
         },
         {
             "mood": "storm",
-            "videoId": "-ulmPywHrKg",
-            "name": "America Attack On Iran LIVE : अमेरिका-ईरान में युद्ध, ताजा हालात!Trump | Ceasefire Ends | War News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UjGGyVsBjOU",
-            "name": "🔴England vs Norway LIVE: FIFA World Cup 2026 Quarterfinal | Haaland vs Kane | ENG vs NOR Match |N18G",
-            "artist": "CNBC-TV18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TGdLjWaNQek",
-            "name": "Abohar Nagar Nigam Mayor Election News LIVE: अबोहर  मेयर चुनाव में हार गई बीजेपी!,आप ने मारी बाजी!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jmZ0VxdnSx0",
-            "name": "LIVE | ‘World War 3 In…’: Trump STUNNING Nuclear Warning Shocks Europe, Middle East | FULL SPEECH",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wWDYnjd5TMc",
-            "name": "🔴LIVE : S Janaki Passed Away | பாடகி ஜானகியின் இறுதி ஊர்வலம் | S.Janaki RIP | SJanaki Death Funeral",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YLWTjKF-FYA",
-            "name": "America Attack On Iran LIVE : अमेरिका-ईरान में युद्ध, ताजा हालात!Trump | Ceasefire Ends | War News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kpg6H6HKELY",
-            "name": "US Iran War LIVE | Trump Orders Big Military Strike On Iran | US Iran Latest News | Iran News | N18G",
+            "videoId": "Lebr6IhhAkg",
+            "name": "LIVE: U.S. Strikes Iran After Strait of Hormuz Attack? Pentagon Updates | Trump | Iran War | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "xqoUHIWqlMc",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (12.07.2026) |2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "JYiPlEFGREU",
+            "name": "🔴LIVE: Singer S Janaki Passed Away | Tribute To S Janaki | ஜானகியின் இறுதி பயணம் - நேரலை காட்சிகள்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YBSRyCQ2cGY",
+            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FZLIlJszIWE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aPS5Gp6hPbI",
+            "name": "Iran-US War | Latest Update | New Wave of Airstrikes Reported | 08:30 PM News Update | Samaa TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iPEvCQCDYNM",
+            "name": "Aaj Ki Taza Khabar Live: 12 July 2026 | US Iran War | Weather Update | Ram Mandir Chori | Trump",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
