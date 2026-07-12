@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-11T18:52:14.857Z",
+    "generatedAt": "2026-07-12T02:07:10.788Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UEWeP4Q6Ano",
-            "name": "10 PM Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f5qp9zqpmus",
-            "name": "Trump Murder Poster News LIVE: ट्रंप की हत्या वाला पोस्टर आ गया सामने!, हिल गई पूरी दुनिया! | War",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4kB0lHZWOcc",
-            "name": "IRAN WAR LIVE: Trump Orders For Strategic Military Operations If Iran Tries To Kill Him | N18G",
+            "videoId": "JklqJPl0zwk",
+            "name": "US Iran War LIVE | U.S. Boots on the Ground in Iran? Trump Hints at Bigger Attack Tonight | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "9kL5lTx5D2I",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.07.2026) | Sathiyam Headlines",
+            "videoId": "jX0zbaUzDgw",
+            "name": "🔴Headlines Live | காலை தலைப்புச் செய்திகள் | Live Tamil News | News Tamil 24x7 | TVK | CM Vijay",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LfDBFBcVtgo",
+            "name": "CENTCOM Announces New Wave of Strikes Against Iran | 5 AM Headlines Geo News (12th July 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ddz6sOxfoqo",
+            "name": "Today's Headlines | 12 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "qgqewEyMR20",
-            "name": "🔴LIVE: Trump | America | Iran |  அதிர்ச்சியில் உலகம்",
-            "artist": "Sathiyam News"
+            "videoId": "69NvEM8S77M",
+            "name": "🔴LIVE | Iran US War | Mojtaba Khamenei pledges revenge for martyred father, predecessor | ARY News",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "ZT7VABrbyaE",
-            "name": "WATCH LIVE: Spain vs Belgium  | FIFA World Cup 2026 | Quarter-final Spot at Stake",
-            "artist": "The Daily Guardian"
+            "videoId": "UgWn-m399JQ",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 12 July News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "UVR8SQ6PE3I",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "DBC FAST UPDATE NEWS"
+            "videoId": "xqoUHIWqlMc",
+            "name": "🔴LIVE: Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (12.07.2026) | 7 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "a40WUq0ZZOs",
-            "name": "US-IRAN WAR LIVE | US Launches Massive Strikes On Iran; Trump Declares Ceasefire Is Over",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2fAklIgp2ps",
-            "name": "Iran America War Update LIVE | Hormuz War | Trump | Khamenei | Mojtaba | Middle East War  | Top News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "NFut35uJT08",
+            "name": "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
