@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-12T18:56:46.693Z",
+    "generatedAt": "2026-07-13T02:08:43.216Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_GtKA3m-yE8",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.07.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "8CL6GMB-gDs",
+            "name": "Bangla News Live BBC World News 12 July 2026  || World News Bangla || International News Today",
+            "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "iuJewNg1G2Q",
-            "name": "🔴LIVE: Iran | America | Trump | சோலி முடிஞ்சது! - ட்ரம்பை அலறவிட்ட ஈரான்!",
-            "artist": "Sathiyam News"
+            "videoId": "8mBRQqDV_iM",
+            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "8DcUhbQIdfs",
-            "name": "Middle East High Alert - Iran U.S. War Latest Update | Geo News 9PM Headlines 12 July 2026",
-            "artist": "Geo Headlines"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Lebr6IhhAkg",
-            "name": "LIVE: U.S. Strikes Iran After Strait of Hormuz Attack? Pentagon Updates | Trump | Iran War | N18G",
+            "videoId": "oDBvW2sabnw",
+            "name": "LIVE | SENATOR GRAHAM DEAD | Was Senator Graham 'Poisoned'? Unverified Claims Spark Speculation",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "JYiPlEFGREU",
-            "name": "🔴LIVE: Singer S Janaki Passed Away | Tribute To S Janaki | ஜானகியின் இறுதி பயணம் - நேரலை காட்சிகள்",
-            "artist": "Sathiyam News"
+            "videoId": "CcrqOMRXETo",
+            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 13 July News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YBSRyCQ2cGY",
-            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
-            "artist": "NDTV India"
+            "videoId": "BqOpyFFEChw",
+            "name": "WORLD NEWS LIVE: Police Brief Media After Death of Former UK Politician Ann Widdecombe",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "FZLIlJszIWE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "1TjjDgVEkJ0",
+            "name": "WORLD NEWS LIVE: Netanyahu Delivers Major Address to the Nation Amid Rising Middle East Tensions",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "aPS5Gp6hPbI",
-            "name": "Iran-US War | Latest Update | New Wave of Airstrikes Reported | 08:30 PM News Update | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "Iq6GGBVtui4",
+            "name": "ABC World News Tonight With David Muir 7/12/26 | ABC News Today July 12, 2026 HD",
+            "artist": "GR Music"
         },
         {
             "mood": "storm",
-            "videoId": "iPEvCQCDYNM",
-            "name": "Aaj Ki Taza Khabar Live: 12 July 2026 | US Iran War | Weather Update | Ram Mandir Chori | Trump",
-            "artist": "NDTV India"
+            "videoId": "3heJy4gUwqM",
+            "name": "US-Iran War LIVE News: Explosions Rock Southern Iran As US-Iran Tensions Rise After Strait Incident",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cSy7Rgy7oNg",
+            "name": "War News LIVE | World War 3 Fear Grows? Iran’s Explosive Ultimatum To US | US-Iran War LIVE",
+            "artist": "Hindustan Times"
         }
     ],
     "sourceFilters": {
