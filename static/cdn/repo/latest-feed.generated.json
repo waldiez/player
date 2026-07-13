@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-13T02:08:43.216Z",
+    "generatedAt": "2026-07-13T08:56:23.427Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8CL6GMB-gDs",
-            "name": "Bangla News Live BBC World News 12 July 2026  || World News Bangla || International News Today",
-            "artist": "Somoy News Tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8mBRQqDV_iM",
-            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oDBvW2sabnw",
-            "name": "LIVE | SENATOR GRAHAM DEAD | Was Senator Graham 'Poisoned'? Unverified Claims Spark Speculation",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CcrqOMRXETo",
-            "name": "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 13 July News",
+            "videoId": "TRmnb28OQ4g",
+            "name": "Pok Protest News Update LIVE: पाकिस्तान में हाहाकार!, आटा-बिजली मांगी, मार दी गोली, गुस्से में लोग!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "BqOpyFFEChw",
-            "name": "WORLD NEWS LIVE: Police Brief Media After Death of Former UK Politician Ann Widdecombe",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1TjjDgVEkJ0",
-            "name": "WORLD NEWS LIVE: Netanyahu Delivers Major Address to the Nation Amid Rising Middle East Tensions",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Iq6GGBVtui4",
-            "name": "ABC World News Tonight With David Muir 7/12/26 | ABC News Today July 12, 2026 HD",
-            "artist": "GR Music"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3heJy4gUwqM",
-            "name": "US-Iran War LIVE News: Explosions Rock Southern Iran As US-Iran Tensions Rise After Strait Incident",
+            "videoId": "vDZlYWyNUyU",
+            "name": "LIVE | Iran Claims Direct Hit on US Defense System in Kuwait as America Strikes Iranian Sites | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "cSy7Rgy7oNg",
-            "name": "War News LIVE | World War 3 Fear Grows? Iran’s Explosive Ultimatum To US | US-Iran War LIVE",
-            "artist": "Hindustan Times"
+            "videoId": "SaZLfoltVfw",
+            "name": "Iran US War LIVE Update | Hormuz Strait Air Strike Drones Attack | Ali khamenei | Iran News | Trump",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cAhoMa87HJE",
+            "name": "LIVE: आज की बड़ी खबरें | Iran America War | Weather Update | Pune News | Breaking News |12 July 2026",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wsBXo7Bs_Qc",
+            "name": "Iran-America War News LIVE: ट्रंप के 'दोस्त' को मारा?, 48 घंटे के अंदर मौत ने उड़ा दी नींद!,ईरान खुश",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yfS3MzBj6YQ",
+            "name": "Super Fast 100 News LIVE: 11 बजे की इस खबर ने हिला दी दुनिया!, हत्या पर हत्या! | Delhi Murder | 100",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5KzHmZ-Nuvw",
+            "name": "US-Iran Latest News LIVE: US Military Deployments Escalates US-Iran War Amid Strait Of Hormuz Shut",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BvV7tnEnnq8",
+            "name": "🔴 LIVE | Latest News Today | Breaking News Live | India & World News | Today News Updates 2026",
+            "artist": "Md Kaif "
+        },
+        {
+            "mood": "storm",
+            "videoId": "i5d71ajNDMQ",
+            "name": "Super Fast 100 News LIVE: सुबह 7 बजे की सबसे बड़ी खबर, हो गई बड़ी हत्या! | Delhi Murder | 100 Khabar",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XcZtznJqtZU",
+            "name": "Iran-America War News LIVE: अचानक 6 देशों पर ईरान का बड़ा हमला!, फिर से जंग शुरू! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VC2ZKAiLVg4",
+            "name": "US-Iran War News LIVE: Explosions Rock Southern Iran As US-Iran Tensions Rise After Strait Incident",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
