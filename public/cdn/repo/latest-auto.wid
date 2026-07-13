@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260713T085623.461Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260713T141733.348Z-l4t35t"
   type: "state"
-  created: "2026-07-13T08:56:23.461Z"
+  created: "2026-07-13T14:17:33.348Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260713T085623.461Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260713T141733.348Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "TRmnb28OQ4g"
-        name: "Pok Protest News Update LIVE: पाकिस्तान में हाहाकार!, आटा-बिजली मांगी, मार दी गोली, गुस्से में लोग!"
+        videoId: "3cpG3nz22VI"
+        name: "US-Iran War LIVE: IRGC Claim New Missile Strikes On US Bases In Kuwait, Bahrain, Gulf On Alert"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fxFfjqUn28k"
+        name: "Bangla News Live BBC World News 13 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hW5cGKGaY5M"
+        name: "Iran-America War News LIVE: ट्रंप के जहाजों का निकाला ईरान ने दम!, उड़ा डाले अमेरिकी बेस!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vDZlYWyNUyU"
-        name: "LIVE | Iran Claims Direct Hit on US Defense System in Kuwait as America Strikes Iranian Sites | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SaZLfoltVfw"
-        name: "Iran US War LIVE Update | Hormuz Strait Air Strike Drones Attack | Ali khamenei | Iran News | Trump"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cAhoMa87HJE"
-        name: "LIVE: आज की बड़ी खबरें | Iran America War | Weather Update | Pune News | Breaking News |12 July 2026"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wsBXo7Bs_Qc"
-        name: "Iran-America War News LIVE: ट्रंप के 'दोस्त' को मारा?, 48 घंटे के अंदर मौत ने उड़ा दी नींद!,ईरान खुश"
+        videoId: "e8RQ2bFrRUA"
+        name: "Big Breaking on Iram America War LIVE: अचानक रूस से ईरान पहुंचने लगे पुतिन के जहाज, होगा युद्ध ?"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yfS3MzBj6YQ"
-        name: "Super Fast 100 News LIVE: 11 बजे की इस खबर ने हिला दी दुनिया!, हत्या पर हत्या! | Delhi Murder | 100"
-        artist: "ABP NEWS"
+        videoId: "xXvi-4iPnu0"
+        name: "LIVE: US Bombs Northern Iran! Critical Railway Bridge To China & Russia Destroyed! جنگ شروع | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5KzHmZ-Nuvw"
-        name: "US-Iran Latest News LIVE: US Military Deployments Escalates US-Iran War Amid Strait Of Hormuz Shut"
-        artist: "ET Now World"
+        videoId: "jnPyyCKJhqs"
+        name: "আন্তর্জাতিক সময় | বিকাল ৪টা | ১৩ জুলাই ২০২৬ | Somoy TV Bulletin 4pm | Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BvV7tnEnnq8"
-        name: "🔴 LIVE | Latest News Today | Breaking News Live | India & World News | Today News Updates 2026"
-        artist: "Md Kaif "
+        videoId: "AYlYp_3GtEg"
+        name: "🔴LIVE: Today Headlines | மதியம் 3 மணி தலைப்புச் செய்திகள் (13.07.2026) | 3 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i5d71ajNDMQ"
-        name: "Super Fast 100 News LIVE: सुबह 7 बजे की सबसे बड़ी खबर, हो गई बड़ी हत्या! | Delhi Murder | 100 Khabar"
-        artist: "ABP NEWS"
+        videoId: "TnfhLc1wxUs"
+        name: "WORLD WAR 3? Iran America War LIVE Updates: रूस-ईरान की खुफिया डील से कांपा अमेरिका! महाविनाश शुरू!"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XcZtznJqtZU"
-        name: "Iran-America War News LIVE: अचानक 6 देशों पर ईरान का बड़ा हमला!, फिर से जंग शुरू! | Breaking"
-        artist: "ABP NEWS"
+        videoId: "3yYJXvirfpE"
+        name: "US-Iran War News LIVE: Iran Attacks US Bases In Bahrain, Kuwait | Iran War LIVE Updates | Iran War"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VC2ZKAiLVg4"
-        name: "US-Iran War News LIVE: Explosions Rock Southern Iran As US-Iran Tensions Rise After Strait Incident"
-        artist: "Times Now"
+        videoId: "TgwoKgt-FfY"
+        name: "Bangla News Live BBC World News 13 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Qb2m7l9Q_A8"
+        name: "Bangla News Live BBC World News July 13, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-13T08:56:23.461Z"
+  exported_at: "2026-07-13T14:17:33.348Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-13T08:56:23.427Z"
+  source_generated_at: "2026-07-13T14:17:33.309Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
