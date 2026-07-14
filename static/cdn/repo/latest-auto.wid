@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260714T015419.751Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260714T075208.679Z-l4t35t"
   type: "state"
-  created: "2026-07-14T01:54:19.751Z"
+  created: "2026-07-14T07:52:08.679Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T015419.751Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T075208.679Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fxDGjqY6blA"
-        name: "Sandeep Chaudhary LIVE: 'सतलुज' पर बैन..कश्मीर, केरल, बंगाल फाइल्स के फैन! | Satluj Row | BJP Vs BJP"
+        videoId: "dT1GbDOookU"
+        name: "Iran US War News LIVE | Iran US War Latest Update | Iran News LIVE | Iran Attacks US | Iran War News"
+        artist: "NDTV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MMzMQEQPnsI"
+        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sxuCWuoLzyo"
+        name: "Today Headlines | 14 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NWfdD9gOJZY"
+        name: "Iranian Military Unleashes Ballistic Missiles on US Bases | Latest News | 11 AM Headlines | Hum News"
+        artist: "HUM News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9DLXHaVInEM"
+        name: "Iran-America War News LIVE: अचानक ईरान ने दाग दी मिसाइलें!, 6 देशों में मची खलबली! | Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1xk5-xzsrgE"
-        name: "LIVE: Iran Missiles Hit UAE Tankers in Strait of Hormuz | Middle East On Edge? Hormuz Crisis | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QWBpKOwapG4"
-        name: "Lindsey Graham Autopsy Report LIVE | What Investigators Have Revealed So Far? | US TOP NEWS | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mlhcHqIZTvA"
+        videoId: "jvldN5mBiGo"
         name: "Bangla News Live BBC World News 14 July 2026  || World News Bangla || International News Today"
         artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iWtbq809GW4"
-        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 14 July News"
+        videoId: "W5ehi51OJTo"
+        name: "US Iran LIVE: New Round of Attacks Roil Gulf After Tehran Hits Commercial Vessel in Hormuz |Vantage"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wUqmpEWMSho"
+        name: "Aamir Khan Marriage Controversy News LIVE:आमिर खान की तीसरी शादी पर हो गया बवाल!भड़क उठे नितेश राणे!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KUe6Ekea-EQ"
-        name: "Bangla News Live BBC World News July 14, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "oCxwi6LsgZc"
+        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ১৪ জুলাই ২০২৬ | Somoy TV Bulletin 9am | Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DrpqAKlZ_R8"
-        name: "Today's Headlines | 14 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Go68VmEI8DU"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DM4FgvVtjKI"
-        name: "ABC World News Tonight With David Muir 7/13/26 | ABC News Today July 13, 2026 HD"
-        artist: "GR Music Entertainment"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k630UCSG1WE"
-        name: "🔴LIVE | Iran US War | Trump says US will be reimbursed 20% on all cargo shipped through Hormuz | ARY"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "q6MlHYRJNd8"
-        name: "New war begins, attacks on Iran begin | 3 AM Headlines Geo News (14 July 2026)"
-        artist: "Geo News"
+        videoId: "Q-swbOCOgnM"
+        name: "🔴LIVE: BBC World News Bangla | 14  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্বপ্রবাহ"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-14T01:54:19.751Z"
+  exported_at: "2026-07-14T07:52:08.679Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-14T01:54:19.722Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-14T07:52:08.642Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
