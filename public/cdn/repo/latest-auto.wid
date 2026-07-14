@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260714T131904.027Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260714T190903.159Z-l4t35t"
   type: "state"
-  created: "2026-07-14T13:19:04.027Z"
+  created: "2026-07-14T19:09:03.159Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T131904.027Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T190903.159Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1iyWEKMzwZU"
-        name: "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "DQUwP5u8at4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BAC WORLD NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zF_jR8NecoA"
-        name: "Iran-America War News: ईरान के हमले में भारतीय की मौत, युद्ध में कूदा भारत! | Breaking | India"
-        artist: "ABP NEWS"
+        videoId: "JGhHqPq7Yz4"
+        name: "US-Iran News LIVE: US Launches Third Night Of Iran Strikes As Hormuz Crisis Disrupts Global Shipping"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zUvSmhhd7iE"
-        name: "Bangla News Live BBC World News 14 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
+        videoId: "tkCDuGreYXI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 july 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বাংলা সংবাদ ৭১"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M4lTaEdm9RA"
-        name: "Iran Attacks US Base In Jordan LIVE:Ballistic Missiles Destroy Prince Hassan Air Base Command Center"
-        artist: "News18 Urdu"
+        videoId: "bxyKCMnxl14"
+        name: "IRAN- US War LIVE: US Biggest Strike On Iran | Huge Explosion Caught on Camera! | Iran In shock!"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SOkPlf0JmrU"
-        name: "Saudi Airport Attack Linked to Sanaa Airport Strike Response | Geo News 3PM Headlines 14 July 2026"
-        artist: "Geo News"
+        videoId: "ZxhDeZ7nuiM"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 14 July 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lcN7QaJ3VAA"
-        name: "Bangla News Live BBC World News July 14, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "bTx1mD9HCb0"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : बागेश्वर बाबा के भाई ने गोली चलाई"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WKUJ99Avl4A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NCN আন্তর্জাতিক সংবাদ"
+        videoId: "KExjk4Qywq8"
+        name: "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e9yOhC1kWGc"
-        name: "BREAKING: US military launches 5-hour mission HAMMERING Iranian assets"
-        artist: "Fox News"
+        videoId: "XQzDDsy8By8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Julai 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NEWS245"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qxm0171VuP8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  14 July 2026  বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "trwamvimElc"
+        name: "LIVE | Netanyahu Warns Iran: 'Attack Again and the Response Will Be Different' | Trump | Khamenei"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jI1N2ZLg1Xo"
+        name: "Today Headlines | 14 July 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-14T13:19:04.027Z"
+  exported_at: "2026-07-14T19:09:03.159Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-14T13:19:03.998Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-14T19:09:03.124Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
