@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260713T191631.216Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260714T015419.751Z-l4t35t"
   type: "state"
-  created: "2026-07-13T19:16:31.216Z"
+  created: "2026-07-14T01:54:19.751Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260713T191631.216Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T015419.751Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RDdR44wZv0c"
-        name: "🔴 LIVE: DMK | TVK | CM Vijay | Video Evidence | CM விஜய்க்கு புதிய சிக்கல்"
+        videoId: "fxDGjqY6blA"
+        name: "Sandeep Chaudhary LIVE: 'सतलुज' पर बैन..कश्मीर, केरल, बंगाल फाइल्स के फैन! | Satluj Row | BJP Vs BJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1xk5-xzsrgE"
+        name: "LIVE: Iran Missiles Hit UAE Tankers in Strait of Hormuz | Middle East On Edge? Hormuz Crisis | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QWBpKOwapG4"
+        name: "Lindsey Graham Autopsy Report LIVE | What Investigators Have Revealed So Far? | US TOP NEWS | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mlhcHqIZTvA"
+        name: "Bangla News Live BBC World News 14 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iWtbq809GW4"
+        name: "Aaj Ki 100 Khabar LIVE: Headlines Today | Superfast News | Top News | Hindi News | 14 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KUe6Ekea-EQ"
+        name: "Bangla News Live BBC World News July 14, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DrpqAKlZ_R8"
+        name: "Today's Headlines | 14 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oz_0r2Aq_ao"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "B7-zNHKlXJ8"
-        name: "DECODE Live: Sudhir Chaudhary | Iran-US War | Trump Strait of Hormuz | Tahir Hussain | Bangkok Fire"
-        artist: "DD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "50ZW-aGbPgA"
-        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uuh9nfl2dw8"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE:आ गई ईरान की हिटलिस्ट ! Iran | America | Ram Mandir"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pZKHY-A0yE0"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 13 July 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ppBQ3AKDTFw"
-        name: "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2dDV8hAt-dE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "AsianBD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GQWUYGJO4rA"
-        name: "US Iran War LIVE | 140 Iranian Targets Bombed by American Military | Strait of Hormuz Closed | N18G"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NgQIm6nTuLE"
+        videoId: "Go68VmEI8DU"
         name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kys_HaA5jgc"
-        name: "US IRAN NEWS LIVE: Fresh US Strikes Rock 5 Iranian Cities as 'MASSIVE' Damage Footage Gets Viral"
-        artist: "ET Now"
+        videoId: "DM4FgvVtjKI"
+        name: "ABC World News Tonight With David Muir 7/13/26 | ABC News Today July 13, 2026 HD"
+        artist: "GR Music Entertainment"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k630UCSG1WE"
+        name: "🔴LIVE | Iran US War | Trump says US will be reimbursed 20% on all cargo shipped through Hormuz | ARY"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q6MlHYRJNd8"
+        name: "New war begins, attacks on Iran begin | 3 AM Headlines Geo News (14 July 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-13T19:16:31.216Z"
+  exported_at: "2026-07-14T01:54:19.751Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-13T19:16:31.176Z"
+  source_generated_at: "2026-07-14T01:54:19.722Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
