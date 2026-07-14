@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260714T075208.679Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260714T131904.027Z-l4t35t"
   type: "state"
-  created: "2026-07-14T07:52:08.679Z"
+  created: "2026-07-14T13:19:04.027Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T075208.679Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260714T131904.027Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "dT1GbDOookU"
-        name: "Iran US War News LIVE | Iran US War Latest Update | Iran News LIVE | Iran Attacks US | Iran War News"
-        artist: "NDTV"
+        videoId: "1iyWEKMzwZU"
+        name: "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MMzMQEQPnsI"
-        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sxuCWuoLzyo"
-        name: "Today Headlines | 14 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NWfdD9gOJZY"
-        name: "Iranian Military Unleashes Ballistic Missiles on US Bases | Latest News | 11 AM Headlines | Hum News"
-        artist: "HUM News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9DLXHaVInEM"
-        name: "Iran-America War News LIVE: अचानक ईरान ने दाग दी मिसाइलें!, 6 देशों में मची खलबली! | Big Breaking"
+        videoId: "zF_jR8NecoA"
+        name: "Iran-America War News: ईरान के हमले में भारतीय की मौत, युद्ध में कूदा भारत! | Breaking | India"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jvldN5mBiGo"
+        videoId: "zUvSmhhd7iE"
         name: "Bangla News Live BBC World News 14 July 2026  || World News Bangla || International News Today"
         artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W5ehi51OJTo"
-        name: "US Iran LIVE: New Round of Attacks Roil Gulf After Tehran Hits Commercial Vessel in Hormuz |Vantage"
-        artist: "Firstpost"
+        videoId: "M4lTaEdm9RA"
+        name: "Iran Attacks US Base In Jordan LIVE:Ballistic Missiles Destroy Prince Hassan Air Base Command Center"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wUqmpEWMSho"
-        name: "Aamir Khan Marriage Controversy News LIVE:आमिर खान की तीसरी शादी पर हो गया बवाल!भड़क उठे नितेश राणे!"
-        artist: "ABP NEWS"
+        videoId: "SOkPlf0JmrU"
+        name: "Saudi Airport Attack Linked to Sanaa Airport Strike Response | Geo News 3PM Headlines 14 July 2026"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oCxwi6LsgZc"
-        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ১৪ জুলাই ২০২৬ | Somoy TV Bulletin 9am | Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "lcN7QaJ3VAA"
+        name: "Bangla News Live BBC World News July 14, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q-swbOCOgnM"
-        name: "🔴LIVE: BBC World News Bangla | 14  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বপ্রবাহ"
+        videoId: "WKUJ99Avl4A"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NCN আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e9yOhC1kWGc"
+        name: "BREAKING: US military launches 5-hour mission HAMMERING Iranian assets"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qxm0171VuP8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  14 July 2026  বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-14T07:52:08.679Z"
+  exported_at: "2026-07-14T13:19:04.027Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-14T07:52:08.642Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-14T13:19:03.998Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
