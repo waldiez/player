@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-14T19:09:03.124Z",
+    "generatedAt": "2026-07-15T07:55:59.730Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DQUwP5u8at4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC WORLD NEWS"
+            "videoId": "mYimdsnpYuE",
+            "name": "Bangla News Live BBC World News 15 July 2026  || World News Bangla || International News Today",
+            "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "JGhHqPq7Yz4",
-            "name": "US-Iran News LIVE: US Launches Third Night Of Iran Strikes As Hormuz Crisis Disrupts Global Shipping",
-            "artist": "CNN-News18"
+            "videoId": "l2LYn4zsfhk",
+            "name": "🔴LIVE: BBC World News Bangla | 15  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্বপ্রবাহ"
         },
         {
             "mood": "storm",
-            "videoId": "tkCDuGreYXI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 july 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বাংলা সংবাদ ৭১"
+            "videoId": "V53NXuSKmU4",
+            "name": "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "bxyKCMnxl14",
-            "name": "IRAN- US War LIVE: US Biggest Strike On Iran | Huge Explosion Caught on Camera! | Iran In shock!",
-            "artist": "Times Now"
+            "videoId": "VUYgJO4uacA",
+            "name": "Iran-America War News LIVE: ईरान-अमेरिका के युद्ध में भारतीय की मौत!,चल पड़ी सेना,एक्शन में भारत!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZxhDeZ7nuiM",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 July 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "iWJ0ADHktGU",
+            "name": "15 July 100 Khabar LIVE: 15 जुलाई की वो 100 बड़ी खबरें, जिसे देख लोग सन्न! | Aaj KI 100 News | LIVE",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bTx1mD9HCb0",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : बागेश्वर बाबा के भाई ने गोली चलाई",
-            "artist": "NDTV India"
+            "videoId": "3MGLXqtwor8",
+            "name": "India Warning News LIVE: युद्ध के बीच भारत की बड़ी चेतावनी, भारतीय की मौत के बाद एक्शन!|Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "KExjk4Qywq8",
-            "name": "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral",
-            "artist": "MIRROR NOW"
+            "videoId": "Q0I_qGo5Gp0",
+            "name": "US-Iran War LIVE: 6 US Soldiers Killed in Shuaiba Port Strike After Warnings Ignored | IRGC | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "XQzDDsy8By8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Julai 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NEWS245"
-        },
-        {
-            "mood": "storm",
-            "videoId": "trwamvimElc",
-            "name": "LIVE | Netanyahu Warns Iran: 'Attack Again and the Response Will Be Different' | Trump | Khamenei",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jI1N2ZLg1Xo",
-            "name": "Today Headlines | 14 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "videoId": "StwIiXbaGWk",
+            "name": "🔴LIVE: CM விஜய்க்கு பேரதிர்ச்சி செய்தி",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_mlfIdOKAcg",
+            "name": "🔴LIVE: BBC World News Bangla | 15  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্বপ্রবাহ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4l_tXbPcB7k",
+            "name": "US Iran War: Gulf States Hit as Missiles Pound Tankers in Hormuz | Vantage on Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
