@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-15T19:01:05.751Z",
+    "generatedAt": "2026-07-16T02:01:29.438Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aVX_-wBuGNk",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (15.07.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rZGAqLZxslk",
-            "name": "Iran-US War Live Update: Top Updates From the Last 12 Hours | Gulf Tensions Escalate | N18G",
-            "artist": "News18 J&K"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0lQENeTk0i0",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MILz3hnnLCQ",
-            "name": "Noida International Airport: Air India गायब, Indigo के भरोसे Noida Airport! | Latest News | CM Yogi",
+            "videoId": "lfKSwBaLQds",
+            "name": "Iran-America War News LIVE:   सुबह-सुबह...भीषण हमले हो गए शुरू | Trump | US Army Attack | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YQJyLOFVzqU",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.07.2026) | Sathiyam Headlines",
+            "videoId": "gnDnTf8OMeE",
+            "name": "LIVE: IRAN BOMBS 85 US TARGETS! Massive Revenge Strikes After Trump Ends Ceasefire! بڑا حملہ | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tcpLOyphjdQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NCN আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hZWNiEOxgKk",
+            "name": "Iran-America War News LIVE: भीषण बमबारी से दहला होर्मुज, कई ठिकाने तबाह | Trump | World War 3 Update",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sgRdibZuEG4",
+            "name": "US-Iran War LIVE: Trump Announces Biggest Attack On Iran, Vows To Target Power Plants And Bridges",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "T028PiD7nug",
+            "name": "US NEWS Live: Trump Orders Immediate National Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_eA8hAjHgB8",
+            "name": "Top Headlines Marathi News LIVE | Bade Mudde | Uddhav Thackeray | CM Fadnavis | Maharashtra Politics",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XzPFk4yz6sI",
+            "name": "Iran-Israel War Update LIVE: इजरायल पर बमबारी के लिए तैयार ईरान! | Trump | Netanyahu | War",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_BoY6_-AZEc",
+            "name": "Breaking | US Iran War | Hormuz Strait: 24 घंटे में किसकी धमकी से पलट गए Trump? | Khamenei | ABP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dIpsg6Sa_kc",
+            "name": "Today's Headlines | 16 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ZbgE0L1JjVM",
-            "name": "🔴LIVE: புதின் Support... இறங்கி அடிக்கும் ஈரான் - மரண பயத்தில் ட்ரம்ப்",
-            "artist": "Sathiyam News"
+            "videoId": "A4sh83F6uSU",
+            "name": "Noida Mamura Fire News: नोएडा ममूरा आगकांड की आंखों देखी कहानी | Latest News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ICX1Mf-SmOY",
-            "name": "Today Headlines | 15 July 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "dMI5kSI2QTU",
+            "name": "ABC World News Tonight With David Muir 7/15/26 | ABC News Today July 15, 2026 HD",
+            "artist": "GR Music Entertainment"
         }
     ],
     "sourceFilters": {
