@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260716T080146.358Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260716T132852.559Z-l4t35t"
   type: "state"
-  created: "2026-07-16T08:01:46.358Z"
+  created: "2026-07-16T13:28:52.559Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260716T080146.358Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260716T132852.559Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3fVPWcamb5Q"
-        name: "Iran America Israel War News LIVE: ईरान के अंदर घुसी अमेरिकी सेना..? | Hormuz | Khamenei | IRGC"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "408abxmaIxU"
-        name: "Bangla News Live BBC World News 16 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Uhqn5ahoj1Q"
-        name: "🔴ENGLAND vs ARGENTINA LIVE: FIFA World Cup 2026 Semi-Final ENG Vs ARG Match | Kane vs Messi | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OQqQ8cFld9k"
-        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
+        videoId: "aUXFd-ouVJk"
+        name: "Iran America War Update LIVE: अभी अभी होर्मुज में युद्ध का राउंड 2 शुरू? | Trump | Breaking | Israel"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "29FAAajRzrc"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "ZDuqWEOXfF0"
+        name: "Iran America War Live: ईरान-अमेरिका युद्ध की ताजा खबर | Trump | Khamenei | Netanyahu | Hormuz | 18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dWD8SMOQnKc"
-        name: "Iran war live: US confirms new ‘wave of strikes’ as Tehran hits Gulf states | Geo News"
-        artist: "Geo News"
+        videoId: "_DAdKQfcwN4"
+        name: "Superfast News LIVE: फटाफट अंदाज में आज की बड़ी खबरें | US Iran War | FIFA World Cup | Breaking News"
+        artist: "Aaj Tak"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9Cq9keL63bU"
-        name: "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE"
+        videoId: "7RJtSwkdmmc"
+        name: "IRAN LIVE | Bushehr Nuclear Plant Bombed As US Launches New Wave Of Strikes, IRGC Declares CODE RED"
+        artist: "CRUX"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pUQHgOzNx9Y"
+        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্বপ্রবাহ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "x19WSOk1M8Y"
+        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্বপ্রবাহ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rCU0VPzbm5Y"
+        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wvGxrsbI1q8"
-        name: "Iran Big Attack on America Base LIVE: ईरान को मिला मौका अमेरिकी बेस पर टूट पड़ा IRGC! | Trump | US"
-        artist: "ABP NEWS"
+        videoId: "CcOu4JBjnLI"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.07.2026)| 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IvZDg8O-AEI"
+        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্বপ্রবাহ"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-16T08:01:46.358Z"
+  exported_at: "2026-07-16T13:28:52.559Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-16T08:01:46.321Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-16T13:28:52.520Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

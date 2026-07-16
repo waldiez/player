@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-16T08:01:46.321Z",
+    "generatedAt": "2026-07-16T13:28:52.520Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3fVPWcamb5Q",
-            "name": "Iran America Israel War News LIVE: ईरान के अंदर घुसी अमेरिकी सेना..? | Hormuz | Khamenei | IRGC",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "408abxmaIxU",
-            "name": "Bangla News Live BBC World News 16 July 2026  || World News Bangla || International News Today",
-            "artist": "Somoy News Tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Uhqn5ahoj1Q",
-            "name": "🔴ENGLAND vs ARGENTINA LIVE: FIFA World Cup 2026 Semi-Final ENG Vs ARG Match | Kane vs Messi | N18G",
-            "artist": "CNBC-TV18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OQqQ8cFld9k",
-            "name": "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei",
+            "videoId": "aUXFd-ouVJk",
+            "name": "Iran America War Update LIVE: अभी अभी होर्मुज में युद्ध का राउंड 2 शुरू? | Trump | Breaking | Israel",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "29FAAajRzrc",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
+            "videoId": "ZDuqWEOXfF0",
+            "name": "Iran America War Live: ईरान-अमेरिका युद्ध की ताजा खबर | Trump | Khamenei | Netanyahu | Hormuz | 18G",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "dWD8SMOQnKc",
-            "name": "Iran war live: US confirms new ‘wave of strikes’ as Tehran hits Gulf states | Geo News",
-            "artist": "Geo News"
+            "videoId": "_DAdKQfcwN4",
+            "name": "Superfast News LIVE: फटाफट अंदाज में आज की बड़ी खबरें | US Iran War | FIFA World Cup | Breaking News",
+            "artist": "Aaj Tak"
         },
         {
             "mood": "storm",
-            "videoId": "9Cq9keL63bU",
-            "name": "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE",
+            "videoId": "7RJtSwkdmmc",
+            "name": "IRAN LIVE | Bushehr Nuclear Plant Bombed As US Launches New Wave Of Strikes, IRGC Declares CODE RED",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pUQHgOzNx9Y",
+            "name": "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্বপ্রবাহ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "x19WSOk1M8Y",
+            "name": "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্বপ্রবাহ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rCU0VPzbm5Y",
+            "name": "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "wvGxrsbI1q8",
-            "name": "Iran Big Attack on America Base LIVE: ईरान को मिला मौका अमेरिकी बेस पर टूट पड़ा IRGC! | Trump | US",
-            "artist": "ABP NEWS"
+            "videoId": "CcOu4JBjnLI",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.07.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IvZDg8O-AEI",
+            "name": "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্বপ্রবাহ"
         }
     ],
     "sourceFilters": {
