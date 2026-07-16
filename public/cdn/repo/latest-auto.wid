@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260716T132852.559Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260716T190043.759Z-l4t35t"
   type: "state"
-  created: "2026-07-16T13:28:52.559Z"
+  created: "2026-07-16T19:00:43.759Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260716T132852.559Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260716T190043.759Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "aUXFd-ouVJk"
-        name: "Iran America War Update LIVE: अभी अभी होर्मुज में युद्ध का राउंड 2 शुरू? | Trump | Breaking | Israel"
+        videoId: "C5bWkNQA4xk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zR0r388atTA"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 16 July 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Qi442Tmns2c"
+        name: "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4I-5I5yX8Xs"
+        name: "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZDuqWEOXfF0"
-        name: "Iran America War Live: ईरान-अमेरिका युद्ध की ताजा खबर | Trump | Khamenei | Netanyahu | Hormuz | 18G"
-        artist: "News18 UP Uttarakhand"
+        videoId: "V9K2IkqfhNo"
+        name: "Today Headlines | 16 July 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_DAdKQfcwN4"
-        name: "Superfast News LIVE: फटाफट अंदाज में आज की बड़ी खबरें | US Iran War | FIFA World Cup | Breaking News"
-        artist: "Aaj Tak"
+        videoId: "J4By0M8hMC0"
+        name: "Iran's Major Announcement as Regional Tensions Remain High | 8PM Headlines Geo News (16th July 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7RJtSwkdmmc"
-        name: "IRAN LIVE | Bushehr Nuclear Plant Bombed As US Launches New Wave Of Strikes, IRGC Declares CODE RED"
-        artist: "CRUX"
+        videoId: "ENAdtXdU4Qo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NCN আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pUQHgOzNx9Y"
-        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বপ্রবাহ"
+        videoId: "wmAhcbIHWfk"
+        name: "Sandeep Chaudhary: भारत पर अमेरिकी Tariff का संकट! | Trump | Iran US War | America | Khamenei"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x19WSOk1M8Y"
-        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বপ্রবাহ"
+        videoId: "jdytXgrfJHA"
+        name: "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rCU0VPzbm5Y"
-        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
-        artist: "MIRROR NOW"
+        videoId: "rt5_Q_XUzoE"
+        name: "Bangla News Live BBC World News 16 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CcOu4JBjnLI"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (16.07.2026)| 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IvZDg8O-AEI"
-        name: "🔴LIVE: BBC World News Bangla | 16  July 2026 | আন্তর্জাতিক বাংলা খবর | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বপ্রবাহ"
+        videoId: "HlFOMeLpgN8"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-16T13:28:52.559Z"
+  exported_at: "2026-07-16T19:00:43.759Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-16T13:28:52.520Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-16T19:00:43.724Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
