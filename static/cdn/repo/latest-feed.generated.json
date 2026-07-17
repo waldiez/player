@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-16T19:00:43.724Z",
+    "generatedAt": "2026-07-17T02:05:00.493Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C5bWkNQA4xk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.07.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "zBZZq-XyMvA",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "zR0r388atTA",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 16 July 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Qi442Tmns2c",
-            "name": "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4I-5I5yX8Xs",
-            "name": "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V9K2IkqfhNo",
-            "name": "Today Headlines | 16 July 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "J4By0M8hMC0",
-            "name": "Iran's Major Announcement as Regional Tensions Remain High | 8PM Headlines Geo News (16th July 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ENAdtXdU4Qo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 July  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NCN আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wmAhcbIHWfk",
-            "name": "Sandeep Chaudhary: भारत पर अमेरिकी Tariff का संकट! | Trump | Iran US War | America | Khamenei",
+            "videoId": "J6xWFfpRC28",
+            "name": "Sandeep Chaudhary LIVE: ट्रंप की अजब यारी..100% टैरिफ की तैयारी! | US Tariff on India | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jdytXgrfJHA",
-            "name": "Iran America War LIVE :जंग में बेकाबू हुआ ईरान, निकाला खतरनाक हथियार Trump | Israel | Missile Attack",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rt5_Q_XUzoE",
-            "name": "Bangla News Live BBC World News 16 July 2026  || World News Bangla || International News Today",
+            "videoId": "O0EOUJ6kWU4",
+            "name": "Bangla News Live BBC World News 17 July 2026  || World News Bangla || International News Today",
             "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "HlFOMeLpgN8",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
+            "videoId": "qVf51GE2M4g",
+            "name": "Iran America War LIVE: ईरान ने भीषण हमले शुरू...! | Trump | Khamenei | Hormuz | World War 3 | IRGC",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rCU0VPzbm5Y",
+            "name": "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mHxzgZGCjug",
+            "name": "Today's Headlines | 17 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "22Z76Pd9vWs",
+            "name": "Trump LIVE: Donald Trump Urgent Address To The World From White House | Russia | iran | US",
             "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X4wmA0QQlpY",
+            "name": "Top News: बड़ी खबरें | Iran-America | Jagannath Rath Yatra | US attack on iran | bandar abbas",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ZZt-Zmvw3c",
+            "name": "America's continued attacks on Iran | 2 AM Headlines GeoNews (17 July 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bc-oqehF7ZY",
+            "name": "Iran targets military bases as US launches wave of strikes | BBC News",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
