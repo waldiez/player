@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260717T020500.535Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260717T075827.515Z-l4t35t"
   type: "state"
-  created: "2026-07-17T02:05:00.535Z"
+  created: "2026-07-17T07:58:27.515Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260717T020500.535Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260717T075827.515Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zBZZq-XyMvA"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J6xWFfpRC28"
-        name: "Sandeep Chaudhary LIVE: ट्रंप की अजब यारी..100% टैरिफ की तैयारी! | US Tariff on India | Trump"
+        videoId: "e8AR717MzfI"
+        name: "Sonam Wangchuk Health News LIVE: वांगचुक की हालत बेहद नाजुक! | Jantar Mantar Hunger Protest"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O0EOUJ6kWU4"
-        name: "Bangla News Live BBC World News 17 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qVf51GE2M4g"
-        name: "Iran America War LIVE: ईरान ने भीषण हमले शुरू...! | Trump | Khamenei | Hormuz | World War 3 | IRGC"
+        videoId: "Vee-JqDR0vI"
+        name: "Sonam Wangchuk Hunger Strike News LIVE: 20 दिन भूखे रहने के बाद वांगचुक की हेल्थ पर बड़ी अपडेट"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rCU0VPzbm5Y"
-        name: "WORLD NEWS LIVE | US Attack On Iran? World Watches As Tensions Explode | US IRAN NEWS LIVE | TRUMP"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mHxzgZGCjug"
-        name: "Today's Headlines | 17 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "22Z76Pd9vWs"
-        name: "Trump LIVE: Donald Trump Urgent Address To The World From White House | Russia | iran | US"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X4wmA0QQlpY"
-        name: "Top News: बड़ी खबरें | Iran-America | Jagannath Rath Yatra | US attack on iran | bandar abbas"
+        videoId: "AWgGVVeglP8"
+        name: "Sonam Wangchuk Hunger Strike Update LIVE:  'मैं भूत बनकर वापस आऊंगा'- सोनम वांगचुक | Jantar Mantar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2ZZt-Zmvw3c"
-        name: "America's continued attacks on Iran | 2 AM Headlines GeoNews (17 July 2026)"
+        videoId: "EpXlaQEzbhk"
+        name: "Karachi Port Achieves Historic Milestone in Maritime Trade | 10AM Headlines Geo News (17 July 2026)"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Bc-oqehF7ZY"
-        name: "Iran targets military bases as US launches wave of strikes | BBC News"
-        artist: "BBC News"
+        videoId: "HlFOMeLpgN8"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cU7aVro_IKY"
+        name: "Sonam Wangchuk Hunger Strike LIVE: 'सफल बनाकर छोडूंगा नहीं तो भूत बन जाऊंगा' | Kejriwal | High Court"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ge0qMqZ9-Hw"
+        name: "Iran Big Strike on America Base LIVE: ईरान ने लिया अमेरिका से भयंकर बदला! उड़ाए विमान | Trump"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uHWqvIi1dZA"
+        name: "Bangla News Live BBC World News 17 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-17T02:05:00.535Z"
+  exported_at: "2026-07-17T07:58:27.515Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-17T02:05:00.493Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-17T07:58:27.472Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
