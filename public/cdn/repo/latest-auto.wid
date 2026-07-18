@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260717T185822.327Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260718T015350.718Z-l4t35t"
   type: "state"
-  created: "2026-07-17T18:58:22.327Z"
+  created: "2026-07-18T01:53:50.718Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260717T185822.327Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260718T015350.718Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GzfCYPhqB20"
-        name: "🔴 LIVE: “Wait and Watch”: Iran’s Revolutionary Guards Issue Major Warning to the U.S. | Geo News"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1BL_BrX6Siw"
-        name: "Iran's Infrastructure Under Siege as Trump Expands War | Vantage on Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "x-LWnNgRFwc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RPiEbJOSugg"
-        name: "Debate With Arnab LIVE: What's Munir's New Game In Gilgit-Baltistan?"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tKmtbOf4z7A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 july 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bd top 3"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nWzAO2a5K7I"
-        name: "Sonam Wangchuk News LIVE: सोनम वांगचुक का ये वीडियो वायरल हो गया, मची खलबली! | Delhi | CJP Protest"
+        videoId: "yv3NNVXpwaQ"
+        name: "Sonam Wangchuk News LIVE: आमिर खान का सोनम, वांगचुक पर बयान ने देश को हिला डाला! | CJP | Abhijeet"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "clZKVUL-qrM"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 17 July 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "9cMHii8-vF8"
+        name: "Bangla News Live BBC World News 18 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nIx-pvvp9wU"
-        name: "CM Yogi Big Statement News LIVE: चुनाव आने से पहले ही योगी के बयान से यूपी में आया भूचाल! | Breaking"
+        videoId: "EFQD4QRtCbA"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 18 July News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fhqfhNt71PM"
-        name: "Sandeep Chaudhary: Sonam Wangchuk के अनशन पर राजनीति? | BJP | Kejriwal | Dharmendra Pradhan"
-        artist: "ABP NEWS"
+        videoId: "9vbBj8uCW6I"
+        name: "Today's Headlines | 18 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yrtpvcbASik"
-        name: "Sonam Wangchuk News LIVE: शाम होते ही सोनम वांगचुक पर आ गई ये बड़ी खबर! | CJP | Abhijeet Dipke"
-        artist: "ABP NEWS"
+        videoId: "HISrELRYVMY"
+        name: "🔴LIVE: Today Headlines | காலை  7 மணி தலைப்புச் செய்திகள் (18.07.2026) | 7 AM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g5c34XfClc0"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১৭.০৭.২০২৬ | Top News | Breaking News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "AAlbBHWHpyg"
+        name: "ABC World News Tonight With David Muir 07/17/26 | ABC News Today July 17, 2026 HD"
+        artist: "GR Music Entertainment"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BfwjQEMNPrE"
-        name: "Sandeep Chaudhary: Sonam Wangchuk को लेकर ऐसा क्या बोले Mahesh Verma..भड़क गए संदीप चौधरी"
-        artist: "ABP NEWS"
+        videoId: "mQDbIx67fRE"
+        name: "WATCH LIVE: President Trump attends FIFA World Cup reception at Trump Tower"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mlTOVthpJcw"
+        name: "US-Iran Latest News LIVE: U.S. Pounds Iran Again | Massive Airstrikes Rock Tehran | Hormuz |Iran War"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-17T18:58:22.327Z"
+  exported_at: "2026-07-18T01:53:50.718Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-17T18:58:22.282Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-18T01:53:50.684Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
