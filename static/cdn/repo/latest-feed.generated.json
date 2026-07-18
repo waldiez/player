@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-18T01:53:50.684Z",
+    "generatedAt": "2026-07-18T07:39:25.494Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yv3NNVXpwaQ",
-            "name": "Sonam Wangchuk News LIVE: आमिर खान का सोनम, वांगचुक पर बयान ने देश को हिला डाला! | CJP | Abhijeet",
+            "videoId": "wOPnJenQKBU",
+            "name": "Iran-America War News LIVE: ईरान ने उतार दिया तबाही मचाने वाला ड्रोन, घबराया अमेरिका! | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "9cMHii8-vF8",
+            "videoId": "0ZfIZvE9Fyo",
+            "name": "Sonam Wangchuk News LIVE: सोनम वांगचुक की मेडिकल रिपोर्ट ने उड़ाए होश!, डॉक्टर के बयान ने चौंकाया!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6NbQVdD7pd4",
+            "name": "Iran America War Update LIVE: ईरान के जवाबी हमले, कुवैत से बहरीन तक भारी तबाही! | Trump | Khamenei",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7LuY2PctMb4",
+            "name": "America attack on Chabahar Port News LIVE: ट्रंप ने ये क्या कर दिया?,भारत के निवेश वालीजगह किया अटैक",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XGyoT_JgZXk",
+            "name": "Sonam Wangchuk News LIVE: ये है वो 8 लोग जिसने सोनम वांगचुक को उठाया!, जंतर-मंतर पर हंगामा! | Delhi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Ny5G5tDOIs",
+            "name": "🔴 LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WpJ3nBmG24Q",
+            "name": "🔴 LIVE: Iran Strikes Back: US Bases Hit as Middle East Tensions Escalate | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GzfCYPhqB20",
+            "name": "🔴 LIVE: “Wait and Watch”: Iran’s Revolutionary Guards Issue Major Warning to the U.S. | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6vB1_txLdC0",
+            "name": "Sonam Wangchuk News LIVE: जंतर-मंतर पर हंगामा, ताजा हालात LIVE | CJP | Abhijeet | Delhi | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RjtUggPkF_U",
             "name": "Bangla News Live BBC World News 18 July 2026  || World News Bangla || International News Today",
             "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "EFQD4QRtCbA",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 18 July News",
-            "artist": "ABP NEWS"
+            "videoId": "-8tiEsnaGwI",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 18.07.2026 | Today News | Live News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "9vbBj8uCW6I",
-            "name": "Today's Headlines | 18 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HISrELRYVMY",
-            "name": "🔴LIVE: Today Headlines | காலை  7 மணி தலைப்புச் செய்திகள் (18.07.2026) | 7 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AAlbBHWHpyg",
-            "name": "ABC World News Tonight With David Muir 07/17/26 | ABC News Today July 17, 2026 HD",
-            "artist": "GR Music Entertainment"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mQDbIx67fRE",
-            "name": "WATCH LIVE: President Trump attends FIFA World Cup reception at Trump Tower",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mlTOVthpJcw",
-            "name": "US-Iran Latest News LIVE: U.S. Pounds Iran Again | Massive Airstrikes Rock Tehran | Hormuz |Iran War",
-            "artist": "CNN-News18"
+            "videoId": "IpcYfVfsG18",
+            "name": "सोनम वांगचुक पर आई होश उड़ाने वाली खबर LIVE | Jantar Mantar | Hunger Strike | Sonam Wangchuk | NDTV",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
