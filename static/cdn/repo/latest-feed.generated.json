@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-19T13:02:25.209Z",
+    "generatedAt": "2026-07-19T18:57:24.966Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "TyEj3rnfvtY",
-            "name": "US-Iran War LIVE | US Launches Fresh Strikes on Iran | Trump News | War News | India Today LIVE",
-            "artist": "India Today"
+            "videoId": "Ox6pGZgU1hM",
+            "name": "US IRAN WAR LIVE: Shocking Video Emerge from Israel After Iran Strikes | World News | War News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "-mkWmh0ipIY",
-            "name": "US Iran War LIVE: Trump Launches Revenge Strikes | Bahrain Blunts Iran Attacks | Jordan Issues Alert",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Lh6PYH0E-Vs",
-            "name": "Romana Isar Khan: 27 का घमासान, भगवान में हिंदू-मुसलमान | Maulana Jarjis Ansari | Akhilesh Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wH7HAZaFliE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 19 July 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Television 24 BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TQhxnwtnONs",
-            "name": "WATCH LIVE: France vs England | Battle for Third Place | FIFA World Cup 2026",
-            "artist": "The Daily Guardian"
-        },
-        {
-            "mood": "storm",
-            "videoId": "29uXIphU-MI",
-            "name": "🔴Sathiyam News LIVE: Breaking | TVK | CMVijay | |MKStalin DMK |EPS ADMK | TNGovt |",
+            "videoId": "KtbnBj0GFHo",
+            "name": "🔴 LIVE: ''CM விஜயை தாக்குவோம்'' திமுக MLA  பகிரங்க மிரட்டல்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "_r7oEXj3ZuA",
-            "name": "Sonam Wangchuk Protest News LIVE: टूट गया सोनम वांगचुक का अनशन? | Jantar Mantar | Abhijeet Dipke",
-            "artist": "ABP NEWS"
+            "videoId": "KuyRKpgJ5co",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "QYGkTAq9KKg",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
+            "videoId": "uI8A66XJbDI",
+            "name": "Russia Strikes Ukraine LIVE: Russia Launches Deadly Overnight Attack on Kyiv | Putin | Zelensky",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "TvCHnvEMkXI",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (19.07.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "k97wu7NgumM",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "CGQeknJtVtg",
-            "name": "US NEWS LIVE: Rubio’s Last Warning to Iran Sends Shockwaves Through Tehran | Khamenei in Shock!",
-            "artist": "ET Now World"
+            "videoId": "0ZmSFwcDFEc",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 19 July 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wt3-0-CUZK8",
+            "name": "സ്പീഡ് ന്യൂസ് 09.30 PM, ജൂലൈ 19, 2026 | Speed News",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Q_dhdFSPtk",
+            "name": "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0X6BPRzcdsU",
+            "name": "Spain Vs Argentina Final LIVE | FIFA World Cup 2026 Final Match | Messi Vs Yamal | New Jersey | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BJSpwkdHg_c",
+            "name": "Trump urged to 'FINISH THE JOB' in Iran after US troops killed",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lF18DX3fQ4w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Antorjatik News Desk"
         }
     ],
     "sourceFilters": {
