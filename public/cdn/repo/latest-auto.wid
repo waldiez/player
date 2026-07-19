@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260718T185343.111Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260719T020501.388Z-l4t35t"
   type: "state"
-  created: "2026-07-18T18:53:43.111Z"
+  created: "2026-07-19T02:05:01.388Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260718T185343.111Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260719T020501.388Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WzE4VNr3AN0"
-        name: "Today News LIVE | America Attack Iran LIVE Update | Middle East Crisis | Ram Mandir Donation Scam"
-        artist: "India TV Speed News"
+        videoId: "VGvbFtYAsz8"
+        name: "🔴FIFA World Cup 2026 | FRANCE vs ENGLAND LIVE | Third-Place Match | Mbappe Vs Bellingham | N18G"
+        artist: "CNBC-TV18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8nGqqF-JW4E"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "SRJ_lN7RW2E"
+        name: "Sonam Wangchuk News LIVE: सफेद चादर की दीवार बनाई फिर वांगचुक को ऐसे उठा ले गई पुलिस! Jantar Mantar"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wrv6mGuhKq8"
-        name: "Bangla News Live BBC World News 18 July 2026 || World News Bangla || International News Today ||"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "-GkOmbq4Af8"
+        name: "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M0pdgjaO3mY"
-        name: "New Monsoon Spell Brings Heavy Rainfall | 09pm News Headlines | Hum News | Pakistan"
-        artist: "HUM News"
+        videoId: "X3-vVcCE_z8"
+        name: "Bangla News Live BBC World News 19 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OwpOPPPysHM"
+        videoId: "j9PvG60L_pU"
+        name: "Sandeep Chaudhary LIVE: हर समस्या का 'रामबाण'...हिंदू-मुसलमान! | Jantar Mantar | Sonam Wangchuk"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3_n5YvEOEcc"
+        name: "Sonam Wangchuk Protest News LIVE: क्या टूट गया सोनम वांगचुक का अनशन?| Jantar Mantar | Abhijeet Dipke"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Udi44pkwODg"
         name: "Sonam Wangchuk News LIVE: हॉस्पिटल में सोनम वांगचुक, Abhijeet Dipke ने शुरू किया आमरण अनशन | CJP"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9imUjQ-iFBw"
-        name: "Bharat Ki Baat Batata Hoon  LIVE : वांगचुक को उठा ले गई पुलिस | Sonam Wangchuk News | Abhijit Dipke"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mBkj22j42-g"
-        name: "🔴Sathiyam News LIVE: Breaking | TVK | CMVijay | |MKStalin DMK |EPS ADMK | TNGovt |"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gXx-WILx8VI"
-        name: "Security is stepped up for the World Cup final"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5b5SDL6F6TU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bQVAPnQ3grI"
-        name: "🔴LIVE: ''வெளியே போ'' - சாட்டையை சுழற்றிய CM விஜய்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u9q-3CSEQmg"
-        name: "Sandeep Chaudhary: Abhijeet Dipke को लेकर वरिष्ठ पत्रकार का बड़ा खुलासा! | Sonam Wangchuk | Chirag"
+        videoId: "vVMcY7OcuwM"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 19 July News"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9FzhVoEchts"
+        name: "Today's Headlines | 19 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0jm485Lmas0"
+        name: "ABC World News Tonight with David Muir Full Broadcast - July 18, 2026"
+        artist: "Tanu Digital Rasiya "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "J8237aiePbE"
+        name: "US-Iran War Latest LIVE: US-Iran Tensions Continue To Escalate After Fatal Strikes From Both Sides"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-18T18:53:43.111Z"
+  exported_at: "2026-07-19T02:05:01.388Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-18T18:53:43.065Z"
+  source_generated_at: "2026-07-19T02:05:01.340Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
