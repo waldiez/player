@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260719T080542.532Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260719T130225.257Z-l4t35t"
   type: "state"
-  created: "2026-07-19T08:05:42.532Z"
+  created: "2026-07-19T13:02:25.257Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260719T080542.532Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260719T130225.257Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BdfNsB2gn20"
-        name: "🔥 World News Headlines Today LIVE | Breaking Global News | US, Iran, Israel, Russia, China Updates"
-        artist: "World Masala"
+        videoId: "TyEj3rnfvtY"
+        name: "US-Iran War LIVE | US Launches Fresh Strikes on Iran | Trump News | War News | India Today LIVE"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_x7AwVsQG6E"
-        name: "Trump Speech Live | US President Just Declare Emergency | Trump New Message To America | Kash Patel"
-        artist: "Times Now"
+        videoId: "-mkWmh0ipIY"
+        name: "US Iran War LIVE: Trump Launches Revenge Strikes | Bahrain Blunts Iran Attacks | Jordan Issues Alert"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qvJ_NygX6jo"
-        name: "US-Iran War LIVE: Iran Bombs US Bases In Bahrain, Jordan & Kuwait, Footage Shows Heavy Damage"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WCp1YyYwwSE"
-        name: "Bangla News Live BBC World News 19 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wpmCOG78g_4"
-        name: "Gujarati Latest News LIVE | ગુજરાત મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather Update | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4dDcylesCQw"
-        name: "Sonam Wangchuk Health Update LIVE: बिगड़ी सोनम वांगचुक की सेहत! | Jantar Mantar Protest News"
+        videoId: "Lh6PYH0E-Vs"
+        name: "Romana Isar Khan: 27 का घमासान, भगवान में हिंदू-मुसलमान | Maulana Jarjis Ansari | Akhilesh Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q-JIkoYHWWo"
+        videoId: "wH7HAZaFliE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 19 July 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Television 24 BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TQhxnwtnONs"
+        name: "WATCH LIVE: France vs England | Battle for Third Place | FIFA World Cup 2026"
+        artist: "The Daily Guardian"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "29uXIphU-MI"
+        name: "🔴Sathiyam News LIVE: Breaking | TVK | CMVijay | |MKStalin DMK |EPS ADMK | TNGovt |"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_r7oEXj3ZuA"
+        name: "Sonam Wangchuk Protest News LIVE: टूट गया सोनम वांगचुक का अनशन? | Jantar Mantar | Abhijeet Dipke"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QYGkTAq9KKg"
         name: "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5MtEDdkErto"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "TvCHnvEMkXI"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (19.07.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AwlP-SVK0zU"
-        name: "🔴 LIVE: WAR BREAKING | US Iran | உச்சகட்ட பதற்றம் - தாக்குதல் 2.0 - அமெரிக்கா அதிரடி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aP-wRmrQtB4"
-        name: "US Iran War LIVE | Iranian Strike on Jordan Base Kills 2 US Soldiers | Trump Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6arFJhDEFYM"
-        name: "🔴 LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
+        videoId: "CGQeknJtVtg"
+        name: "US NEWS LIVE: Rubio’s Last Warning to Iran Sends Shockwaves Through Tehran | Khamenei in Shock!"
+        artist: "ET Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-19T08:05:42.532Z"
+  exported_at: "2026-07-19T13:02:25.257Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-19T08:05:42.485Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-19T13:02:25.209Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
