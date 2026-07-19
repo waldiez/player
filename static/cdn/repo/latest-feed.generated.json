@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-19T02:05:01.340Z",
+    "generatedAt": "2026-07-19T08:05:42.485Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VGvbFtYAsz8",
-            "name": "🔴FIFA World Cup 2026 | FRANCE vs ENGLAND LIVE | Third-Place Match | Mbappe Vs Bellingham | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "BdfNsB2gn20",
+            "name": "🔥 World News Headlines Today LIVE | Breaking Global News | US, Iran, Israel, Russia, China Updates",
+            "artist": "World Masala"
         },
         {
             "mood": "storm",
-            "videoId": "SRJ_lN7RW2E",
-            "name": "Sonam Wangchuk News LIVE: सफेद चादर की दीवार बनाई फिर वांगचुक को ऐसे उठा ले गई पुलिस! Jantar Mantar",
-            "artist": "NDTV India"
+            "videoId": "_x7AwVsQG6E",
+            "name": "Trump Speech Live | US President Just Declare Emergency | Trump New Message To America | Kash Patel",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "-GkOmbq4Af8",
-            "name": "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "qvJ_NygX6jo",
+            "name": "US-Iran War LIVE: Iran Bombs US Bases In Bahrain, Jordan & Kuwait, Footage Shows Heavy Damage",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "X3-vVcCE_z8",
+            "videoId": "WCp1YyYwwSE",
             "name": "Bangla News Live BBC World News 19 July 2026  || World News Bangla || International News Today",
             "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "j9PvG60L_pU",
-            "name": "Sandeep Chaudhary LIVE: हर समस्या का 'रामबाण'...हिंदू-मुसलमान! | Jantar Mantar | Sonam Wangchuk",
+            "videoId": "wpmCOG78g_4",
+            "name": "Gujarati Latest News LIVE | ગુજરાત મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather Update | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4dDcylesCQw",
+            "name": "Sonam Wangchuk Health Update LIVE: बिगड़ी सोनम वांगचुक की सेहत! | Jantar Mantar Protest News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3_n5YvEOEcc",
-            "name": "Sonam Wangchuk Protest News LIVE: क्या टूट गया सोनम वांगचुक का अनशन?| Jantar Mantar | Abhijeet Dipke",
-            "artist": "ABP NEWS"
+            "videoId": "q-JIkoYHWWo",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "Udi44pkwODg",
-            "name": "Sonam Wangchuk News LIVE: हॉस्पिटल में सोनम वांगचुक, Abhijeet Dipke ने शुरू किया आमरण अनशन | CJP",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vVMcY7OcuwM",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 19 July News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9FzhVoEchts",
-            "name": "Today's Headlines | 19 JULY 2026 | Morning Headlines | 6AM Headlines | Latest Headlines |Sathiyam TV",
+            "videoId": "5MtEDdkErto",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.07.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "0jm485Lmas0",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - July 18, 2026",
-            "artist": "Tanu Digital Rasiya "
+            "videoId": "AwlP-SVK0zU",
+            "name": "🔴 LIVE: WAR BREAKING | US Iran | உச்சகட்ட பதற்றம் - தாக்குதல் 2.0 - அமெரிக்கா அதிரடி",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "J8237aiePbE",
-            "name": "US-Iran War Latest LIVE: US-Iran Tensions Continue To Escalate After Fatal Strikes From Both Sides",
+            "videoId": "aP-wRmrQtB4",
+            "name": "US Iran War LIVE | Iranian Strike on Jordan Base Kills 2 US Soldiers | Trump Iran War | N18G",
             "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6arFJhDEFYM",
+            "name": "🔴 LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
         }
     ],
     "sourceFilters": {
