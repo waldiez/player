@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260720T135302.886Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260720T193617.462Z-l4t35t"
   type: "state"
-  created: "2026-07-20T13:53:02.886Z"
+  created: "2026-07-20T19:36:17.462Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260720T135302.886Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260720T193617.462Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q2pfRf7Mt1o"
-        name: "Jantar Mantar Protest News LIVE: आज 20 जुलाई,जंतर-मंतर पर होगा बड़ा प्रदर्शन? | Sonam Wangchuk"
+        videoId: "TPb-btVdEys"
+        name: "CJP Parliament March Live: Protestors Lathicharged At Sonam Wangchuk’s Sansad March | Delhi Protest"
+        artist: "The Indian Express"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9kr5cRVDOIg"
+        name: "Top News: बड़ी खबरें | Jantar Mantar Protest | Parliament Monsoon Session | CJP | Sonam wangchuk"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bHLtZ1fQT6A"
-        name: "CJP Protest Ends LIVE: CJP का धरना खत्म? सरकार ने मान ली ये 3 शर्तें..? | Jantar Mantar | Parliament"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1yZbyMiccjs"
-        name: "CJP Protest News LIVE: फिर संसद की तरफ बढ़े प्रदर्शनकारी? | Jantar Mantar | Sonam Wangchuk | Delhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FMTJ97kxUVA"
-        name: "Iran-US War Live | Iran Fires Missiles Again | 5 PM News Headlines | Samaa TV"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Da4ZAbfPwKk"
-        name: "Jantar Mantar Protest Ends News LIVE: CJP का धरना खत्म? | Jantar Mantar | Parliament |Delhi Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hwUBoBNNrt4"
-        name: "🔴 Live : போராட்டத்தில் போலீசார் அடிதடி | | Breaking News | Live Updates | Delhi | gem tv"
-        artist: "Gem Television"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DpYEV9Nle0s"
-        name: "Iran America War Update Live:अमेरिकी हमले के बाद ईरान का बड़ा जवाब? Mojtaba Khamenei | Donald Trump"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XjxMVNXn92A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "UjUSDtxQ7xE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qubOx-g25HQ"
-        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "4IaYI4lc7GM"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hLKSOW79mFs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The Explain Tv"
+        videoId: "fFG3BudFDBQ"
+        name: "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iFg_fibkiS8"
-        name: "🔴FIFA World Cup Final LIVE: Argentina vs Spain World Cup Final Match | Messi vs Yamal | Trump | N18G"
-        artist: "CNBC-TV18"
+        videoId: "DuiYCcGkAV8"
+        name: "Live from Jantar Mantar: Delhi Police clash with CJP protesters | The Federal"
+        artist: "The Federal"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cA35v8rk1YQ"
+        name: "🔴LIVE: CM Vijay | CM விஜய்-க்கு சகாயம் IAS அவசர கோரிக்கை"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uuLumYKnKmg"
+        name: "WORLD NEWS LIVE: Lavrov Issues Stark Warning to NATO Amid Rising Global Tensions | World News"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "occ4ZrgXCXo"
+        name: "DECODE Live: Sudhir Chaudhary | CJP Protest | Abhijeet Dipke Cockroach Party | Sonam Wangchuk"
+        artist: "DD News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ekx0G9Jk13k"
+        name: "CJP Protests News LIVE: Massive Security at Jantar Mantar for Today’s Big March | India Today LIVE"
+        artist: "India Today"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-20T13:53:02.886Z"
+  exported_at: "2026-07-20T19:36:17.462Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-20T13:53:02.833Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-20T19:36:17.418Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
