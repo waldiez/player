@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260719T185725.009Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260720T023638.314Z-l4t35t"
   type: "state"
-  created: "2026-07-19T18:57:25.009Z"
+  created: "2026-07-20T02:36:38.314Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260719T185725.009Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260720T023638.314Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ox6pGZgU1hM"
-        name: "US IRAN WAR LIVE: Shocking Video Emerge from Israel After Iran Strikes | World News | War News"
-        artist: "ET Now World"
+        videoId: "YUJ3FFCftks"
+        name: "Sandeep Chaudhary LIVE: रिजल्ट की हड़बड़ी...NEET में फिर गड़बड़ी? | Parliament | Dharmendra Pradhan"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KtbnBj0GFHo"
-        name: "🔴 LIVE: ''CM விஜயை தாக்குவோம்'' திமுக MLA  பகிரங்க மிரட்டல்"
-        artist: "Sathiyam News"
+        videoId: "qmYQv80BWPA"
+        name: "Iran America War Live: ईरान-अमेरिका युद्ध की ताजा खबर | Trump | Khamenei | Netanyahu | Hormuz | 18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KuyRKpgJ5co"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "u7_F86mw2UE"
+        name: "Iran America War LIVE: ईरान का विनाशकारी हमला | IRGC | Donald Trump | Hormuz Attack | Missile Launch"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uI8A66XJbDI"
-        name: "Russia Strikes Ukraine LIVE: Russia Launches Deadly Overnight Attack on Kyiv | Putin | Zelensky"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k97wu7NgumM"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0ZmSFwcDFEc"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 19 July 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wt3-0-CUZK8"
-        name: "സ്പീഡ് ന്യൂസ് 09.30 PM, ജൂലൈ 19, 2026 | Speed News"
-        artist: "Manorama News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1Q_dhdFSPtk"
-        name: "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0X6BPRzcdsU"
-        name: "Spain Vs Argentina Final LIVE | FIFA World Cup 2026 Final Match | Messi Vs Yamal | New Jersey | N18G"
+        videoId: "XczEQ9nB9ME"
+        name: "ARGENTINA VS SPAIN LIVE | Spain Wins FIFA World Cup 2026, Beat Argentina | Lamine Yamal | N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BJSpwkdHg_c"
-        name: "Trump urged to 'FINISH THE JOB' in Iran after US troops killed"
-        artist: "Fox News"
+        videoId: "KPw1Ryf7V0U"
+        name: "WORLD NEWS LIVE: Trump and Melania Arrive at FIFA World Cup 2026 Final | All Eyes on the Stadium"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lF18DX3fQ4w"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Antorjatik News Desk"
+        videoId: "LJhccWToNbg"
+        name: "LIVE: Spain beats Argentina 1-0 to win the 2026 FIFA World Cup"
+        artist: "Associated Press"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bcqetHq76jw"
+        name: "WORLD CUP FINAL LIVE: Donald Trump Makes High-Profile Stadium Appearance | US NEWS Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "n0ZIkRfVew0"
+        name: "Bangla News Live BBC World News 20 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zBad0iGxynU"
+        name: "LIVE : FIFA World Cup Final 2026 | Spain vs Argentina | BOL News"
+        artist: "BOL News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Q2pfRf7Mt1o"
+        name: "Jantar Mantar Protest News LIVE: आज 20 जुलाई,जंतर-मंतर पर होगा बड़ा प्रदर्शन? | Sonam Wangchuk"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e3-PvLuefFE"
+        name: "Rahul Gandhi on Sonam Wangchuk LIVE: सोनम वांगचुक के समर्थन में उतरे राहुल! | Jantar Mantar"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-19T18:57:25.009Z"
+  exported_at: "2026-07-20T02:36:38.314Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-19T18:57:24.966Z"
+  source_generated_at: "2026-07-20T02:36:38.267Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
