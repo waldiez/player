@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260720T084652.091Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260720T135302.886Z-l4t35t"
   type: "state"
-  created: "2026-07-20T08:46:52.091Z"
+  created: "2026-07-20T13:53:02.886Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260720T084652.091Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260720T135302.886Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "C5xWDW23xs8"
-        name: "CJP Protest News LIVE: ससंद भवन के पास पहुंचे प्रदर्शनकारी | RAF Lathicharge | Sonam Wangchuk"
+        videoId: "Q2pfRf7Mt1o"
+        name: "Jantar Mantar Protest News LIVE: आज 20 जुलाई,जंतर-मंतर पर होगा बड़ा प्रदर्शन? | Sonam Wangchuk"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A6rTe8Fd-K0"
-        name: "Watch Live Spain vs Argentina FIFA WC 2026 Final: Yamal vs Messi | Prediction, Who Wins the Trophy?"
-        artist: "The Daily Guardian"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "B4UVPp13ZJI"
-        name: "Jantar Mantar Protest LIVE: ‘पूरा इंडिया हिल चुका है’ | CJP | Sonam Wangchuk | Abhijeet Dipke"
+        videoId: "bHLtZ1fQT6A"
+        name: "CJP Protest Ends LIVE: CJP का धरना खत्म? सरकार ने मान ली ये 3 शर्तें..? | Jantar Mantar | Parliament"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7T1Ds_5QPwA"
-        name: "CJP Protest News Live : Jantar Mantar पर भारी संख्या में फोर्स तैनात! | Sonam Wangchuk | Parliament"
-        artist: "News18 India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ktzN1H-HbpU"
-        name: "Bangla News Live BBC World News 20 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4Bar4m1DWtc"
-        name: "WORLD NEWS LIVE: Lavrov Issues Stark Warning to NATO Amid Rising Global Tensions | World News"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sJSwIeTfSfA"
-        name: "Jantar Mantar Protest News LIVE : चप्पे-चप्पे पर पुलिस, CJP का संसद मार्च,  जंतर-मंतर से LIVE"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "55YMZMRDjAo"
-        name: "Parliament Monsoon Session News LIVE: मॉनसून सत्र के पहले दिन संसद में हंगामा LIVE"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nHV6h98f30M"
-        name: "Jantar Mantar Police Lathicharge LIVE: जंतर-मंतर मार्च में पुलिस का लाठीचार्ज | Sonam Wangchuk"
+        videoId: "1yZbyMiccjs"
+        name: "CJP Protest News LIVE: फिर संसद की तरफ बढ़े प्रदर्शनकारी? | Jantar Mantar | Sonam Wangchuk | Delhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yf3tvmkbE-U"
-        name: "Trump's Emergency Announcement LIVE | US On High Alert? Trump Issues Urgent Warning"
-        artist: "Firstpost"
+        videoId: "FMTJ97kxUVA"
+        name: "Iran-US War Live | Iran Fires Missiles Again | 5 PM News Headlines | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3GKBgTKYfII"
-        name: "Jantar-Mantar Protest LIVE: जंतर-मंतर से निकला मार्च | Delhi Police | Sonam Wangchuk | Abhijeet"
+        videoId: "Da4ZAbfPwKk"
+        name: "Jantar Mantar Protest Ends News LIVE: CJP का धरना खत्म? | Jantar Mantar | Parliament |Delhi Breaking"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hwUBoBNNrt4"
+        name: "🔴 Live : போராட்டத்தில் போலீசார் அடிதடி | | Breaking News | Live Updates | Delhi | gem tv"
+        artist: "Gem Television"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DpYEV9Nle0s"
+        name: "Iran America War Update Live:अमेरिकी हमले के बाद ईरान का बड़ा जवाब? Mojtaba Khamenei | Donald Trump"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XjxMVNXn92A"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qubOx-g25HQ"
+        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hLKSOW79mFs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The Explain Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iFg_fibkiS8"
+        name: "🔴FIFA World Cup Final LIVE: Argentina vs Spain World Cup Final Match | Messi vs Yamal | Trump | N18G"
+        artist: "CNBC-TV18"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-20T08:46:52.091Z"
+  exported_at: "2026-07-20T13:53:02.886Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-20T08:46:52.044Z"
+  source_generated_at: "2026-07-20T13:53:02.833Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
