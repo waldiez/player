@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-21T02:03:59.478Z",
+    "generatedAt": "2026-07-21T08:14:39.034Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LXBRZ6i_z0M",
+            "videoId": "W3ja-agowzs",
             "name": "Bangla News Live BBC World News 21 July 2026  || World News Bangla || International News Today",
             "artist": "Somoy News Tv"
         },
         {
             "mood": "storm",
-            "videoId": "k8PYpP9IvRk",
-            "name": "WATCH LIVE: TVJ's Prime Time News | Monday, July 20, 2026",
-            "artist": "Television Jamaica"
+            "videoId": "XI65711fRsc",
+            "name": "Gujarati News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Weather | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "L2awd5dViOs",
-            "name": "CJP Protest News LIVE: फिर संसद की तरफ बढ़े प्रदर्शनकारी? | Jantar Mantar | Sonam Wangchuk | Delhi",
+            "videoId": "aUudqrxD1KQ",
+            "name": "🔴 LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OoQX8vm_0o4",
+            "name": "LIVE: CJP Protests To Continue At Jantar Mantar Despite Delhi Police Curfew | India Today",
+            "artist": "India Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rr3cEL99eB0",
+            "name": "NEET Paper Leak News LIVE: 'युवाओं के भविष्य से खिलवाड़ नहीं होने देंगे' | PM Modi Speech | AAP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "1yZbyMiccjs",
-            "name": "CJP Protest News LIVE: फिर संसद की तरफ बढ़े प्रदर्शनकारी? | Jantar Mantar | Sonam Wangchuk | Delhi",
+            "videoId": "hKHuZ3YbuRM",
+            "name": "Jantar Mantar Protest News LIVE: जंतर-मंतर से आई ताजा तस्वीरें | Sonam Wangchuk | Parliament March",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AAgH6vsmCbE",
+            "name": "Sandeep Chaudhary LIVE: संसद से सड़क तक आर-पार...तब जागी 'सरकार'! | CJP Protest | Dharmendra Pradhan",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "obV7nqBwcSw",
-            "name": "Sandeep Chaudhary LIVE: पेपर लीक पर घमासान..बातचीत ही समाधान? | CJP Protest | Parliament | Rahul",
+            "videoId": "6Kkw9DciBmc",
+            "name": "Jantar Mantar Protest LIVE: जंतर-मंतर पहुंचे अभिजीत दीपके | CJP March | Sonam Wangchuk |Delhi Police",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "CJTExy8UMBQ",
-            "name": "Jantar Mantar Protest News LIVE: जंतर-मंतर पर बड़ा प्रदर्शन?| Jantar Mantar | Parliament |Delhi",
+            "videoId": "9RVsW1fCnzc",
+            "name": "LIVE: Spain's World Cup Heroes Receive Grand Welcome In Madrid | Spain Vs Argentina Celebrations",
+            "artist": "CNBC-TV18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "McxXt6bFDQM",
+            "name": "CJP Protest Today LIVE Updates: जंतर-मंतर प्रदर्शन पर बड़ी खबर!| Delhi Police Action | Jantar Mantar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "h9tUG6DD9LM",
-            "name": "LIVE: Spain's soccer team celebrates FIFA World Cup win",
-            "artist": "Reuters"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nPprrvANBLA",
-            "name": "ABC World News Tonight With David Muir 7/20/26 | ABC News Today July 20, 2026",
-            "artist": "Tanu Digital Rasiya "
-        },
-        {
-            "mood": "storm",
-            "videoId": "-eCY_zzwp48",
-            "name": "Petrol Price Update  | 2 AM Headlines GeoNews (21 July 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "40ZFSxRdFCI",
-            "name": "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV",
-            "artist": "V News27"
+            "videoId": "ttWo1ch5Sr0",
+            "name": "U.S. vs Iran LIVE | U.S. Bases Damaged| Nuke War Soon? Day 9 Strike, Hormuz War Grows | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
