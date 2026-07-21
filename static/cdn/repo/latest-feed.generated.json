@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-21T08:14:39.034Z",
+    "generatedAt": "2026-07-21T13:24:21.341Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "W3ja-agowzs",
-            "name": "Bangla News Live BBC World News 21 July 2026  || World News Bangla || International News Today",
-            "artist": "Somoy News Tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XI65711fRsc",
-            "name": "Gujarati News LIVE | ગુજરાતના આજના તમામ મહત્વના સમાચાર | Weather | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aUudqrxD1KQ",
-            "name": "🔴 LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
-            "artist": "The Global Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OoQX8vm_0o4",
-            "name": "LIVE: CJP Protests To Continue At Jantar Mantar Despite Delhi Police Curfew | India Today",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rr3cEL99eB0",
-            "name": "NEET Paper Leak News LIVE: 'युवाओं के भविष्य से खिलवाड़ नहीं होने देंगे' | PM Modi Speech | AAP",
+            "videoId": "VOlGGgkE-SQ",
+            "name": "Jantar Mantar Protest News LIVE: जंतर-मंतर पर बड़ा प्रदर्शन? | Jantar Mantar | CJP | Parliament",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "hKHuZ3YbuRM",
-            "name": "Jantar Mantar Protest News LIVE: जंतर-मंतर से आई ताजा तस्वीरें | Sonam Wangchuk | Parliament March",
-            "artist": "NDTV India"
+            "videoId": "mIuWg1LN8iA",
+            "name": "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "AAgH6vsmCbE",
-            "name": "Sandeep Chaudhary LIVE: संसद से सड़क तक आर-पार...तब जागी 'सरकार'! | CJP Protest | Dharmendra Pradhan",
+            "videoId": "FmZELyhxUDM",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6j7x3_xg9Ww",
+            "name": "Chaar Ki Chaal LIVE: संसद 'ठप'..समाधान कब? | Parliament | CJP Protest | Jantar Mantar | Rahul Gandhi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "6Kkw9DciBmc",
-            "name": "Jantar Mantar Protest LIVE: जंतर-मंतर पहुंचे अभिजीत दीपके | CJP March | Sonam Wangchuk |Delhi Police",
+            "videoId": "X1iJpAYGJ1Y",
+            "name": "Iran America War Live Update: ईरान-अमेरिका जंग के ताजा हालात | Iran Attack On Jordan US Base | N18G",
+            "artist": "News18 UP Uttarakhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WNRelK9XTHk",
+            "name": "Congress Protest Outside PM House LIVE: राहुल-प्रियंका का प्रदर्शन, PM आवास के पास धरना |CJP Protest",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "9RVsW1fCnzc",
-            "name": "LIVE: Spain's World Cup Heroes Receive Grand Welcome In Madrid | Spain Vs Argentina Celebrations",
-            "artist": "CNBC-TV18"
+            "videoId": "54Ppv-HvLBs",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.07.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "McxXt6bFDQM",
-            "name": "CJP Protest Today LIVE Updates: जंतर-मंतर प्रदर्शन पर बड़ी खबर!| Delhi Police Action | Jantar Mantar",
+            "videoId": "tL0geR4EqZI",
+            "name": "जंतर-मंतर पर फिर से CJP का धरना शुरू | Dharmendra Pradhan | Sonam Wangchuk",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ttWo1ch5Sr0",
-            "name": "U.S. vs Iran LIVE | U.S. Bases Damaged| Nuke War Soon? Day 9 Strike, Hormuz War Grows | N18G",
-            "artist": "CNN-News18"
+            "videoId": "_bR3Sn5PoEU",
+            "name": "CJP Protest: जंतर-मंतर से सामने आई ताजा तस्वीरें | Jantar Mantar | Sonam Wangchuk | Delhi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-xlxuPXeYHA",
+            "name": "Farmers Protest: ‘गुस्साए’ किसानों का बड़ा ऐलान! | Kisan Andolan | Singhu | Shambhu Border",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
