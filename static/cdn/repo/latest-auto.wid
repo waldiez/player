@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260721T132421.385Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260722T020220.040Z-l4t35t"
   type: "state"
-  created: "2026-07-21T13:24:21.385Z"
+  created: "2026-07-22T02:02:20.040Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260721T132421.385Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T020220.040Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VOlGGgkE-SQ"
-        name: "Jantar Mantar Protest News LIVE: जंतर-मंतर पर बड़ा प्रदर्शन? | Jantar Mantar | CJP | Parliament"
+        videoId: "Ndrp7XNCpNQ"
+        name: "Rahul Gandhi Protest News LIVE: आज राहुल गांधी फिर करेंगे प्रदर्शन? | CJP Protest | Jantar Mantar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mIuWg1LN8iA"
-        name: "US-Iran War LIVE: Iran Fires \"Monster\" Missiles At US Bases, Middle East On Edge! IRGC | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FmZELyhxUDM"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6j7x3_xg9Ww"
-        name: "Chaar Ki Chaal LIVE: संसद 'ठप'..समाधान कब? | Parliament | CJP Protest | Jantar Mantar | Rahul Gandhi"
+        videoId: "27-ytj6hdxg"
+        name: "Rahul Gandhi Detained By Police LIVE: PM आवास के पास से राहुल-प्रियंका को हिरासत में लिया | Congress"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X1iJpAYGJ1Y"
-        name: "Iran America War Live Update: ईरान-अमेरिका जंग के ताजा हालात | Iran Attack On Jordan US Base | N18G"
-        artist: "News18 UP Uttarakhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WNRelK9XTHk"
-        name: "Congress Protest Outside PM House LIVE: राहुल-प्रियंका का प्रदर्शन, PM आवास के पास धरना |CJP Protest"
+        videoId: "Exo1jxZk9rI"
+        name: "Akhilesh Yadav Joins Rahul Gandhi Protest LIVE: राहुल-प्रियंका के धरने में पहुंचे अखिलेश | PM House"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "54Ppv-HvLBs"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.07.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tL0geR4EqZI"
-        name: "जंतर-मंतर पर फिर से CJP का धरना शुरू | Dharmendra Pradhan | Sonam Wangchuk"
+        videoId: "dN5aCbPrN5s"
+        name: "Sandeep Chaudhary LIVE: तेरा धरना-मेरा धरना...मकसद राजनीति करना! | Congress Protest | Rahul Gandhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_bR3Sn5PoEU"
-        name: "CJP Protest: जंतर-मंतर से सामने आई ताजा तस्वीरें | Jantar Mantar | Sonam Wangchuk | Delhi"
+        videoId: "5CJd9d6L8PE"
+        name: "Janhit with Chitra Tripathi LIVE: कॉकरोच आंदोलन पर कांग्रेस का 'HIT' | CJP Protest | Rahul Gandhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-xlxuPXeYHA"
-        name: "Farmers Protest: ‘गुस्साए’ किसानों का बड़ा ऐलान! | Kisan Andolan | Singhu | Shambhu Border"
+        videoId: "zJCW8bLD8ZE"
+        name: "CJP Protest News LIVE: सुबह-सुबह...जंतर-मंतर से आई बड़ी खबर! | Jantar Mantar | Rahul Gandhi | Delhi"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bm9As4_zldw"
+        name: "Bangla News Live BBC World News 22 July 2026  || World News Bangla || International News Today"
+        artist: "Somoy News Tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-faPCVjci5k"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 22 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wg2k0Dffmt8"
+        name: "ABC World News Tonight With David Muir Today July 22, 2026 | ABC News Today 7/22/26"
+        artist: "Tanu Digital Rasiya "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gbaezSem1cE"
+        name: "ABC World News Tonight With David Muir 7/21/26 | ABC News Today July 21, 2026 HD"
+        artist: "GR Music Entertainment"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "43knQcE9SQo"
+        name: "CJP Protest LIVE | Jantar Mantar Protests | #LIVE | Ground Zero from Jantar Mantar"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZY0d4C_HtIA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ 24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-21T13:24:21.385Z"
+  exported_at: "2026-07-22T02:02:20.040Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-21T13:24:21.341Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-22T02:02:19.995Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
