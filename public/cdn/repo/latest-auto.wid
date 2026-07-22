@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260722T020220.040Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260722T081504.703Z-l4t35t"
   type: "state"
-  created: "2026-07-22T02:02:20.040Z"
+  created: "2026-07-22T08:15:04.703Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T020220.040Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T081504.703Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ndrp7XNCpNQ"
-        name: "Rahul Gandhi Protest News LIVE: आज राहुल गांधी फिर करेंगे प्रदर्शन? | CJP Protest | Jantar Mantar"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "27-ytj6hdxg"
-        name: "Rahul Gandhi Detained By Police LIVE: PM आवास के पास से राहुल-प्रियंका को हिरासत में लिया | Congress"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Exo1jxZk9rI"
-        name: "Akhilesh Yadav Joins Rahul Gandhi Protest LIVE: राहुल-प्रियंका के धरने में पहुंचे अखिलेश | PM House"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dN5aCbPrN5s"
-        name: "Sandeep Chaudhary LIVE: तेरा धरना-मेरा धरना...मकसद राजनीति करना! | Congress Protest | Rahul Gandhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5CJd9d6L8PE"
-        name: "Janhit with Chitra Tripathi LIVE: कॉकरोच आंदोलन पर कांग्रेस का 'HIT' | CJP Protest | Rahul Gandhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zJCW8bLD8ZE"
-        name: "CJP Protest News LIVE: सुबह-सुबह...जंतर-मंतर से आई बड़ी खबर! | Jantar Mantar | Rahul Gandhi | Delhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bm9As4_zldw"
+        videoId: "YDV4MKxBzsU"
         name: "Bangla News Live BBC World News 22 July 2026  || World News Bangla || International News Today"
         artist: "Somoy News Tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-faPCVjci5k"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 22 July News"
+        videoId: "3EJp2hgKCMc"
+        name: "Congress Parliament Protest LIVE: संसद के बाहर कांग्रेसियों का प्रदर्शन | Rahul Gandhi | Priyanka"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wg2k0Dffmt8"
-        name: "ABC World News Tonight With David Muir Today July 22, 2026 | ABC News Today 7/22/26"
-        artist: "Tanu Digital Rasiya "
+        videoId: "Ow2uyDV9Yb4"
+        name: "Jantar Mantar Protest Update LIVE: अलर्ट पर दिल्ली...भारी संख्या में CRPF की तैनाती! | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gbaezSem1cE"
-        name: "ABC World News Tonight With David Muir 7/21/26 | ABC News Today July 21, 2026 HD"
-        artist: "GR Music Entertainment"
+        videoId: "BQxgR4gdHiU"
+        name: "Morning News Today LIVE  | 22 July | Abhjeet Dipke Protest | Uddhav Thackeray Jantar Mantar"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "43knQcE9SQo"
-        name: "CJP Protest LIVE | Jantar Mantar Protests | #LIVE | Ground Zero from Jantar Mantar"
-        artist: "CNN-News18"
+        videoId: "WR3DxMKgmlw"
+        name: "US-Iran War LIVE: US Hits Tehran's Darkhovin & Bushehr Nuclear Sites As Forces Strike For 10th Day"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZY0d4C_HtIA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21Jun  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ 24"
+        videoId: "J6XSuyYRwwo"
+        name: "Jantar Mantar Protest LIVE: जंतर-मंतर पर ताजा हालात! | Dharmendra Pradhan Resign News | Rahul Gandhi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ahBUt2fi4nk"
+        name: "LIVE: J&K CM Omar Abdullah Holds Press Conference On Statehood Demand | BJP | NC | PDP | News18 Urdu"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ifT3ZXmlj10"
+        name: "PM Modi on NEET Paper Leak LIVE: पेपर लीक पर पहली बारबोलें PM मोदी | Jantar Mantar Protest Update"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eMEgvZxsqi4"
+        name: "Rahul Gandhi Protest News LIVE: राहुल गांधी के धरने के बाद सड़कों पर कांग्रेस! | CJP | Jantar Mantar"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-22T02:02:20.040Z"
+  exported_at: "2026-07-22T08:15:04.703Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-22T02:02:19.995Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-22T08:15:04.661Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
