@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260722T132826.311Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260722T190333.856Z-l4t35t"
   type: "state"
-  created: "2026-07-22T13:28:26.311Z"
+  created: "2026-07-22T19:03:33.856Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T132826.311Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T190333.856Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_gxqaVcxejI"
-        name: "Jantar Mantar Protest Update LIVE: अभी-अभी इस्तीफे पर आई बड़ी खबर, बीजेपी के उड़े होश! | CJP | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J-Hmp_FzAM0"
-        name: "Patna Student Protest LIVE: दिल्ली के प्रदर्शन नेबिहार में लगा दी 'आग' सड़क पर उतरे छात्र! | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1nEUTeNx1VI"
-        name: "Jantar Mantar CJP Protest LIVE: जंतर-मंतर पर फिर शुरू प्रदर्शन | Delhi Police | Breaking News"
-        artist: "IndiaTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aNBLTgrTmBI"
-        name: "Congress Protest Outside of Parliament LIVE: काले कपड़े में संसद पहुंचे राहुल गांधी |NEET Paper Leak"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kfQVATIUdX0"
-        name: "Patna Student Protest LIVE: भीड़ हुई बेलगाम...ABP रिपोर्टर पर हमला | Bihar | Jantar Mantar News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xo3dRKNDJp8"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        videoId: "Ni7QsmcMcM8"
+        name: "US-IRAN WAR LIVE: Araghchi's Explosive ‘Time Has Come’ Warning STUNS Washington, Middle East on Edge"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RcfaTw20MkY"
-        name: "JPSC Chairman Resigns News LIVE: किसी ने सोचा नहीं था ये हो जाएगा!, झारखंड में बड़ा इस्तीफा!"
+        videoId: "B3iQlDPlS-Y"
+        name: "Latest Gujarati News LIVE | 9 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wdk6pNPepPM"
+        name: "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yvm8BEgcdog"
+        name: "US Vs Iran War Updates LIVE: ईरान के खिलाफ आज Trump  का फाइनल विध्वंसक प्रहार! | Khamenei | IRGC"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aN1EfGSZ4js"
+        name: "Jantar Mantar Protest LIVE: 'धर्मेंद्र प्रधान का इस्तीफा, छात्रों को पीटने वालों पर हो एक्शन' | CJP"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U-IQLhGJRII"
+        name: "Sandeep Chaudhary LIVE: छात्र खाएं मार...राजनीति बनाए हथियार! | Congress Protest | NEET Paper Leak"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bONuBqdOCC8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u3vrC0TncDs"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AOeZbiaW3WQ"
+        name: "Janhit LIVE: संसद में चर्चा गुल, तमाशा फुल! | Jantar Mantar Protest | CJP | BJP | Rahul Gandhi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BnpLxQnSlm8"
+        name: "WORLD NEWS LIVE: East Asian Nations Launch Major Palestine Development Conference | ASEAN Summit"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RdFRQUf6efE"
+        name: "Dharmendra Pradhan News LIVE: शिक्षा मंत्री धर्मेंद्र प्रधान LIVE | School Education Schemes"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8S6erpfkqbQ"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ২২.০৭.২০২৬ | Top News | Today News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-22T13:28:26.311Z"
+  exported_at: "2026-07-22T19:03:33.856Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-22T13:28:26.262Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-22T19:03:33.809Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
