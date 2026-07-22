@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-22T08:15:04.661Z",
+    "generatedAt": "2026-07-22T13:28:26.262Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,56 +28,44 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "YDV4MKxBzsU",
-            "name": "Bangla News Live BBC World News 22 July 2026  || World News Bangla || International News Today",
-            "artist": "Somoy News Tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3EJp2hgKCMc",
-            "name": "Congress Parliament Protest LIVE: संसद के बाहर कांग्रेसियों का प्रदर्शन | Rahul Gandhi | Priyanka",
+            "videoId": "_gxqaVcxejI",
+            "name": "Jantar Mantar Protest Update LIVE: अभी-अभी इस्तीफे पर आई बड़ी खबर, बीजेपी के उड़े होश! | CJP | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Ow2uyDV9Yb4",
-            "name": "Jantar Mantar Protest Update LIVE: अलर्ट पर दिल्ली...भारी संख्या में CRPF की तैनाती! | Breaking",
+            "videoId": "J-Hmp_FzAM0",
+            "name": "Patna Student Protest LIVE: दिल्ली के प्रदर्शन नेबिहार में लगा दी 'आग' सड़क पर उतरे छात्र! | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "BQxgR4gdHiU",
-            "name": "Morning News Today LIVE  | 22 July | Abhjeet Dipke Protest | Uddhav Thackeray Jantar Mantar",
-            "artist": "News18 Marathi"
+            "videoId": "1nEUTeNx1VI",
+            "name": "Jantar Mantar CJP Protest LIVE: जंतर-मंतर पर फिर शुरू प्रदर्शन | Delhi Police | Breaking News",
+            "artist": "IndiaTV"
         },
         {
             "mood": "storm",
-            "videoId": "WR3DxMKgmlw",
-            "name": "US-Iran War LIVE: US Hits Tehran's Darkhovin & Bushehr Nuclear Sites As Forces Strike For 10th Day",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "J6XSuyYRwwo",
-            "name": "Jantar Mantar Protest LIVE: जंतर-मंतर पर ताजा हालात! | Dharmendra Pradhan Resign News | Rahul Gandhi",
+            "videoId": "aNBLTgrTmBI",
+            "name": "Congress Protest Outside of Parliament LIVE: काले कपड़े में संसद पहुंचे राहुल गांधी |NEET Paper Leak",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ahBUt2fi4nk",
-            "name": "LIVE: J&K CM Omar Abdullah Holds Press Conference On Statehood Demand | BJP | NC | PDP | News18 Urdu",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ifT3ZXmlj10",
-            "name": "PM Modi on NEET Paper Leak LIVE: पेपर लीक पर पहली बारबोलें PM मोदी | Jantar Mantar Protest Update",
+            "videoId": "kfQVATIUdX0",
+            "name": "Patna Student Protest LIVE: भीड़ हुई बेलगाम...ABP रिपोर्टर पर हमला | Bihar | Jantar Mantar News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "eMEgvZxsqi4",
-            "name": "Rahul Gandhi Protest News LIVE: राहुल गांधी के धरने के बाद सड़कों पर कांग्रेस! | CJP | Jantar Mantar",
+            "videoId": "xo3dRKNDJp8",
+            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RcfaTw20MkY",
+            "name": "JPSC Chairman Resigns News LIVE: किसी ने सोचा नहीं था ये हो जाएगा!, झारखंड में बड़ा इस्तीफा!",
             "artist": "ABP NEWS"
         }
     ],

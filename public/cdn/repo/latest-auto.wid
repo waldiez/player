@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260722T081504.703Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260722T132826.311Z-l4t35t"
   type: "state"
-  created: "2026-07-22T08:15:04.703Z"
+  created: "2026-07-22T13:28:26.311Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T081504.703Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260722T132826.311Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,44 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YDV4MKxBzsU"
-        name: "Bangla News Live BBC World News 22 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3EJp2hgKCMc"
-        name: "Congress Parliament Protest LIVE: संसद के बाहर कांग्रेसियों का प्रदर्शन | Rahul Gandhi | Priyanka"
+        videoId: "_gxqaVcxejI"
+        name: "Jantar Mantar Protest Update LIVE: अभी-अभी इस्तीफे पर आई बड़ी खबर, बीजेपी के उड़े होश! | CJP | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ow2uyDV9Yb4"
-        name: "Jantar Mantar Protest Update LIVE: अलर्ट पर दिल्ली...भारी संख्या में CRPF की तैनाती! | Breaking"
+        videoId: "J-Hmp_FzAM0"
+        name: "Patna Student Protest LIVE: दिल्ली के प्रदर्शन नेबिहार में लगा दी 'आग' सड़क पर उतरे छात्र! | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BQxgR4gdHiU"
-        name: "Morning News Today LIVE  | 22 July | Abhjeet Dipke Protest | Uddhav Thackeray Jantar Mantar"
-        artist: "News18 Marathi"
+        videoId: "1nEUTeNx1VI"
+        name: "Jantar Mantar CJP Protest LIVE: जंतर-मंतर पर फिर शुरू प्रदर्शन | Delhi Police | Breaking News"
+        artist: "IndiaTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WR3DxMKgmlw"
-        name: "US-Iran War LIVE: US Hits Tehran's Darkhovin & Bushehr Nuclear Sites As Forces Strike For 10th Day"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J6XSuyYRwwo"
-        name: "Jantar Mantar Protest LIVE: जंतर-मंतर पर ताजा हालात! | Dharmendra Pradhan Resign News | Rahul Gandhi"
+        videoId: "aNBLTgrTmBI"
+        name: "Congress Protest Outside of Parliament LIVE: काले कपड़े में संसद पहुंचे राहुल गांधी |NEET Paper Leak"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ahBUt2fi4nk"
-        name: "LIVE: J&K CM Omar Abdullah Holds Press Conference On Statehood Demand | BJP | NC | PDP | News18 Urdu"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ifT3ZXmlj10"
-        name: "PM Modi on NEET Paper Leak LIVE: पेपर लीक पर पहली बारबोलें PM मोदी | Jantar Mantar Protest Update"
+        videoId: "kfQVATIUdX0"
+        name: "Patna Student Protest LIVE: भीड़ हुई बेलगाम...ABP रिपोर्टर पर हमला | Bihar | Jantar Mantar News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eMEgvZxsqi4"
-        name: "Rahul Gandhi Protest News LIVE: राहुल गांधी के धरने के बाद सड़कों पर कांग्रेस! | CJP | Jantar Mantar"
+        videoId: "xo3dRKNDJp8"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RcfaTw20MkY"
+        name: "JPSC Chairman Resigns News LIVE: किसी ने सोचा नहीं था ये हो जाएगा!, झारखंड में बड़ा इस्तीफा!"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-22T08:15:04.703Z"
+  exported_at: "2026-07-22T13:28:26.311Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-22T08:15:04.661Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-22T13:28:26.262Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
