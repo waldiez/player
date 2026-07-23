@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260723T020919.700Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260723T081929.173Z-l4t35t"
   type: "state"
-  created: "2026-07-23T02:09:19.700Z"
+  created: "2026-07-23T08:19:29.173Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260723T020919.700Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260723T081929.173Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RKmbw2NM7cY"
-        name: "Jantar Mantar Protest Update LIVE: आधी रात जंतर-मंतर पर प्रदर्शनकारियों का बवाल, दिल्ली से सीधे LIVE"
+        videoId: "2dBiELi8CWI"
+        name: "Jantar Mantar Protest News LIVE: प्रदर्शनकारियों ने पुलिस के फोड़े सिर, चलाई लाठियां! ये क्या किया?"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XLpYBgcNFmc"
-        name: "BREAKING War LIVE: Iran Targets Critical Kuwait Infrastructure Amid U.S. Tensions | IRGC | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jWjRfzuoAf8"
-        name: "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dvKWCPZC5vc"
-        name: "Jantar Mantar Protest LIVE: 'धर्मेंद्र प्रधान का इस्तीफा, छात्रों को पीटने वालों पर हो एक्शन' | CJP"
+        videoId: "qRhVnYHwV4o"
+        name: "PM Modi on NEET Paper Leak News LIVE: पीएम मोदी का आया बयान, दिल्ली में कुछ बड़ा होने वाला है!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WkOXw4hSAgo"
-        name: "US NEWS Live: Trump Orders Immediate National Lockdown, America In Shock As Mideast Crisis Escalates"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "reA2daYVTz8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.07.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "52SJbAlIzzo"
-        name: "Patna Student Protest LIVE: देश के बड़े हिस्से में शुरू हुआ प्रदर्शन | Bihar News | CJP | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6H8gjl71B9c"
+        videoId: "V5BHNDINW_4"
         name: "Jantar Mantar Protest LIVE: धर्मेंद्र प्रधान के इस्तीफे पर आई बड़ी खबर | Dharmendra Pradhan Resign"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yav4uzJb9RU"
-        name: "इस्तीफे की मांग के बीच धर्मेंद्र प्रधान का बड़ा ऐलान LIVE | Dharmendra Pradhan | PM Modi | Breaking"
+        videoId: "3OqQIaq3c9k"
+        name: "Bangla News Live BBC World News July 23, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "augtjWbsUYA"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (23.07.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UYYVZvkJUMA"
+        name: "Jantar Mantar Protest News LIVE: पथराव, चले गोले जंतर-मंतर पर आधी रात हुआ फिर बवाल!| Delhi CJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "To6K9S7NRgA"
+        name: "US-Iran War LIVE: Tehran Bombs US Army's Main Logistics Hub In Kuwait, West Asia War Explodes"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BZLJ_QemOjw"
+        name: "PM Modi on NEET Paper Leak News LIVE: राहुल ने सोचा नहीं था कि मोदी पेपर लीक पर ये ऐलान कर देंगे!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c-3ql4zNAuA"
+        name: "Today Headlines | 23 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9XA6_mYER-c"
+        name: "Jantar Mantar Protest LIVE: उतरी पैरामिलिट्री फोर्स, मेट्रो स्टेशन बंद, कुछ बड़ा होने वाला है!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HzoDptJkFfw"
+        name: "Salman Khan on CJP Protest: छात्रों के समर्थन में उतरे सलमान खान... LIVE | Dharmendra Pradhan"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8Qbe1TH7Iec"
-        name: "Bangla News Live BBC World News 23 July 2026  || World News Bangla || International News Today"
-        artist: "Somoy News Tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "URCswOnE2zc"
-        name: "New threat of attack on bridges, power plants | 5 AM Headlines Geo News (23 July 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JV_qIbFgY98"
-        name: "ABC World News Tonight With David Muir 7/22/26 | ABC News Today July 22, 2026 HD"
-        artist: "GR Music Entertainment"
+        videoId: "XgNmFug-CNs"
+        name: "CJP Protests LIVE:  Violent Clashes Rock CJP Protest; Police Fire Tear Gas Near Jantar Mantar | WION"
+        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-23T02:09:19.700Z"
+  exported_at: "2026-07-23T08:19:29.173Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-23T02:09:19.658Z"
+  source_generated_at: "2026-07-23T08:19:29.128Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
