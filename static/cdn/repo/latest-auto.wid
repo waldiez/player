@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260723T081929.173Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260723T134127.177Z-l4t35t"
   type: "state"
-  created: "2026-07-23T08:19:29.173Z"
+  created: "2026-07-23T13:41:27.177Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260723T081929.173Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260723T134127.177Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2dBiELi8CWI"
-        name: "Jantar Mantar Protest News LIVE: प्रदर्शनकारियों ने पुलिस के फोड़े सिर, चलाई लाठियां! ये क्या किया?"
+        videoId: "Ark2003q1Cw"
+        name: "ABP Report LIVE: संसद में तकरार...इस्तीफे पर आर-पार! | CJP Protest | Jantar Mantar | Rahul Gandhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qRhVnYHwV4o"
-        name: "PM Modi on NEET Paper Leak News LIVE: पीएम मोदी का आया बयान, दिल्ली में कुछ बड़ा होने वाला है!"
+        videoId: "W4_6f2VMrLg"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f35szrhbrCQ"
+        name: "Dharmendra Pradhan Resignation News LIVE: आखिरकार धर्मेंद्र प्रधान के इस्तीफे पर आई सबसे बड़ी खबर!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "V5BHNDINW_4"
-        name: "Jantar Mantar Protest LIVE: धर्मेंद्र प्रधान के इस्तीफे पर आई बड़ी खबर | Dharmendra Pradhan Resign"
+        videoId: "GcpNEjNuerM"
+        name: "LIVE: U.S. Launches New Attacks On Iran | Houthis Strike 2 Saudi Oil Tankers | Trump Threatens Iran"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8c1PGCT-140"
+        name: "Rahul Gandhi LIVE: संसद शुरू होते ही राहुल गांधी ने धज्जियां उड़ा दी, मचा बवाल! | PM Modi | Congress"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3OqQIaq3c9k"
+        videoId: "LQYF4GHtdoY"
+        name: "Heavy Rain in Pakistan:Torrential Rains Leave Flood Risk Across Pakistan | 3PM Headlines Geo News"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dAP5IWwwM64"
+        name: "Jantar Mantar Protest News LIVE: आखिरकार धर्मेंद्र प्रधान के इस्तीफे पर आई सबसे बड़ी खबर | Delhi CJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8Rse4NyFA6s"
         name: "Bangla News Live BBC World News July 23, 2026 || World News Bangla || International News Today"
         artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "augtjWbsUYA"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (23.07.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "SVD3rdl4g14"
+        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UYYVZvkJUMA"
-        name: "Jantar Mantar Protest News LIVE: पथराव, चले गोले जंतर-मंतर पर आधी रात हुआ फिर बवाल!| Delhi CJP"
+        videoId: "ElhJmTLeLn4"
+        name: "Mumbai Rain News LIVE | राज्यभरात कुठे किती पाऊस, सगळे अपडेट | Rain Alert | Nashik Rain | Pune Rain"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GFtqWjkR8DA"
+        name: "CJP Protest News LIVE: देश के कई बड़े शहरों में प्रदर्शन शुरू | Jantar Mantar | Sonam Wangchuk"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "To6K9S7NRgA"
-        name: "US-Iran War LIVE: Tehran Bombs US Army's Main Logistics Hub In Kuwait, West Asia War Explodes"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BZLJ_QemOjw"
-        name: "PM Modi on NEET Paper Leak News LIVE: राहुल ने सोचा नहीं था कि मोदी पेपर लीक पर ये ऐलान कर देंगे!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "c-3ql4zNAuA"
-        name: "Today Headlines | 23 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9XA6_mYER-c"
-        name: "Jantar Mantar Protest LIVE: उतरी पैरामिलिट्री फोर्स, मेट्रो स्टेशन बंद, कुछ बड़ा होने वाला है!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HzoDptJkFfw"
-        name: "Salman Khan on CJP Protest: छात्रों के समर्थन में उतरे सलमान खान... LIVE | Dharmendra Pradhan"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XgNmFug-CNs"
-        name: "CJP Protests LIVE:  Violent Clashes Rock CJP Protest; Police Fire Tear Gas Near Jantar Mantar | WION"
-        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-23T08:19:29.173Z"
+  exported_at: "2026-07-23T13:41:27.177Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-23T08:19:29.128Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-23T13:41:27.134Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
