@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-23T13:41:27.134Z",
+    "generatedAt": "2026-07-23T19:04:37.788Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ark2003q1Cw",
-            "name": "ABP Report LIVE: संसद में तकरार...इस्तीफे पर आर-पार! | CJP Protest | Jantar Mantar | Rahul Gandhi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W4_6f2VMrLg",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f35szrhbrCQ",
-            "name": "Dharmendra Pradhan Resignation News LIVE: आखिरकार धर्मेंद्र प्रधान के इस्तीफे पर आई सबसे बड़ी खबर!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GcpNEjNuerM",
-            "name": "LIVE: U.S. Launches New Attacks On Iran | Houthis Strike 2 Saudi Oil Tankers | Trump Threatens Iran",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8c1PGCT-140",
-            "name": "Rahul Gandhi LIVE: संसद शुरू होते ही राहुल गांधी ने धज्जियां उड़ा दी, मचा बवाल! | PM Modi | Congress",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LQYF4GHtdoY",
-            "name": "Heavy Rain in Pakistan:Torrential Rains Leave Flood Risk Across Pakistan | 3PM Headlines Geo News",
+            "videoId": "u4ZbHZOA4dg",
+            "name": "🔴 LIVE: US-Iran War Tensions Escalate: Missile Barrage Raises Fears Across the Middle East| Geo News",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "dAP5IWwwM64",
-            "name": "Jantar Mantar Protest News LIVE: आखिरकार धर्मेंद्र प्रधान के इस्तीफे पर आई सबसे बड़ी खबर | Delhi CJP",
+            "videoId": "Nw_oegJ2GDs",
+            "name": "Gujarati News LIVE | 11 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JuPlzHTNdMY",
+            "name": "CJP Protest: संसद से सड़क तक आर-पार की जंग! | Rahul Gandhi | BJP Vs Congress | Dharmendra Pradhan",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "8Rse4NyFA6s",
-            "name": "Bangla News Live BBC World News July 23, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "reA2daYVTz8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.07.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "SVD3rdl4g14",
-            "name": "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ElhJmTLeLn4",
-            "name": "Mumbai Rain News LIVE | राज्यभरात कुठे किती पाऊस, सगळे अपडेट | Rain Alert | Nashik Rain | Pune Rain",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GFtqWjkR8DA",
-            "name": "CJP Protest News LIVE: देश के कई बड़े शहरों में प्रदर्शन शुरू | Jantar Mantar | Sonam Wangchuk",
+            "videoId": "IxB43NDjgg0",
+            "name": "Janhit with Chitra Tripathi LIVE: लाठी खा रहे छात्र..जिद पर क्यों अड़ी सरकार? | CJP Protest",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7rnC-zF1mJc",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 23 July 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ly-UJedPO58",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lPpxmlysJ-Q",
+            "name": "🔴 LIVE: Iran’s Devastating Attack: US Aircraft Destroyed, IRGC Vows Revenge | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "As5xZ-NeI4o",
+            "name": "Today Headlines | 23 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BMsh3eqQAko",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
