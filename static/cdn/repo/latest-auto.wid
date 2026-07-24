@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260724T132336.742Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260724T191628.901Z-l4t35t"
   type: "state"
-  created: "2026-07-24T13:23:36.742Z"
+  created: "2026-07-24T19:16:28.901Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T132336.742Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T191628.901Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mxwWTb0E7LE"
-        name: "UP CJP Protest News: यूपी पहुंची CJP प्रदर्शन की 'आग', लखनऊ में बवाल!, एक्शन में पुलिस!"
+        videoId: "IXxDIIPTR9o"
+        name: "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XovhWUXvocU"
+        name: "🔴LIVE: Trump | Iran | சர்வநாசம் செய்யும் ட்ரம்ப்.. ஈரானின் உயிர்நாடி காலி..? - உச்சகட்ட பதற்றம்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "23TwmoFusbg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (24.07.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4Io_l8aWzd0"
+        name: "🔴LIVE:  Dharmendra Pradhan | Pm Modi | தர்மேந்திர பிரதான் பதவி விலகல்?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Kqj0r0TnCD0"
+        name: "🔴LIVE : மாற்றம்.. முதல்வர் விஜயின் அதிரடி முடிவு! | CM Vijay | TN Secretariat | TVK Govt"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iCVHHwX3CRk"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yp7Q9UtgjZ8"
+        name: "Debate With Arnab LIVE: Mob Takeover Protest, Congress Questions Sonam Wangchuk"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RJH3hl815Nw"
+        name: "Sandeep Chaudhary: अधिकारी बर्खास्त..शिक्षा मंत्री काइस्तीफा कब? | CJP Protest | Dharmendra Pradhan"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pWf0qxAn1RY"
-        name: "LIVE: পদত্যাগ করলেন বাংলাদেশের রাষ্ট্রপতি সাহাবুদ্দিন | President Resign | Shahabuddin"
-        artist: "EKHON TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nbWDO6qUB_M"
-        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BZp_zfzu7c4"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3ie-uW_tr0w"
-        name: "Jantar Mantar Protest LIVE: 24 जुलाई CJP का  प्रदर्शन,17 मेट्रो स्टेशन बंद, लोगों के उडे होश!| Delhi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-nNjR0YWrPI"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.07.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ACmXZ9jTCSk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "p7pl-3aI8DE"
-        name: "Dharmendra Pradhan Resignation News: धर्मेंद्र प्रधान के 'इस्तीफे' पर होश उड़ाने वाली खबर LIVE"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jIA8qxOCmHY"
-        name: "Saadia Zahidi Becomes ICAO’s First Female Director General |  2PM Headlines Geo News (24 July 2026)"
+        videoId: "rKytKebdCZM"
+        name: "🔴 LIVE: Iran’s Devastating Attack: US Aircraft Destroyed, IRGC Vows Revenge | Geo News"
         artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bRPXEJKuriI"
+        name: "LIVE: शिक्षा मंत्रालय का बड़ा ऐलान | Dharmendra Pradhan | CJP Protest | Jantar Mantar | ABP News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jszMgLRx4PU"
+        name: "Today Headlines | 24 July 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-24T13:23:36.742Z"
+  exported_at: "2026-07-24T19:16:28.901Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-24T13:23:36.702Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-24T19:16:28.861Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
