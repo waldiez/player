@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260724T081411.831Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260724T132336.742Z-l4t35t"
   type: "state"
-  created: "2026-07-24T08:14:11.831Z"
+  created: "2026-07-24T13:23:36.742Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T081411.831Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T132336.742Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "O0vauYY3Xjg"
-        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iU5ZkvNTv3Y"
-        name: "Mumbai Rain News LIVE | पावसाची खबरबात! राज्यभरात कुठे किती पाऊस, सगळे अपडेट | Monsoon 2026"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i8wnvJhWnIM"
-        name: "Parliament Monsoon Session LIVE: संसद सत्र का 5वां दिन | Jantar Mantar | Paper Leak | PM Modi"
+        videoId: "mxwWTb0E7LE"
+        name: "UP CJP Protest News: यूपी पहुंची CJP प्रदर्शन की 'आग', लखनऊ में बवाल!, एक्शन में पुलिस!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dlNPuZrhOzc"
-        name: "Bangla News Live BBC World News July 24, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "pWf0qxAn1RY"
+        name: "LIVE: পদত্যাগ করলেন বাংলাদেশের রাষ্ট্রপতি সাহাবুদ্দিন | President Resign | Shahabuddin"
+        artist: "EKHON TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xElEwvkOyoE"
-        name: "Patna Student Protest LIVE: बिहार पहुंची CJP प्रदर्शन की आग, BJP मंत्री की गाड़ी पर हमला! | CJP"
+        videoId: "nbWDO6qUB_M"
+        name: "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BZp_zfzu7c4"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3ie-uW_tr0w"
+        name: "Jantar Mantar Protest LIVE: 24 जुलाई CJP का  प्रदर्शन,17 मेट्रो स्टेशन बंद, लोगों के उडे होश!| Delhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qOQjf3EWXSA"
-        name: "🔴 7/24/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
+        videoId: "-nNjR0YWrPI"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.07.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HBX42TJ0DWo"
-        name: "Bhim Army Protest News LIVE: लखनऊ में भीम आर्मी का प्रदर्शन,अचानक दौड़ पड़े छात्र!| UP | Bihar | CJP"
-        artist: "ABP NEWS"
+        videoId: "ACmXZ9jTCSk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dzychRQ79Dc"
-        name: "US-Iran War LIVE | BREAKING | B-2 Bombers Launched? America Preparing Its Biggest Strike Yet | LIVE"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cwuy0alfhwE"
-        name: "CJP प्रदर्शन को लेकर आई होश उड़ाने वाली खबर LIVE | Jantar Mantar | Rahul | Modi | NEET | Parliament"
+        videoId: "p7pl-3aI8DE"
+        name: "Dharmendra Pradhan Resignation News: धर्मेंद्र प्रधान के 'इस्तीफे' पर होश उड़ाने वाली खबर LIVE"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "atCEJVb0JU4"
-        name: "CJP Protest News LIVE: पलट गया CJP आंदोलन सोनम वांगचुक ने तोड़ा अनशन, मोदी का ऐलान | Jantar Mantar"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FiX5Ab5DTPA"
-        name: "LIVE: आज की बड़ी खबरें | Iran America War | Weather Update | Pune News | Breaking News |24 July 2026"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "jIA8qxOCmHY"
+        name: "Saadia Zahidi Becomes ICAO’s First Female Director General |  2PM Headlines Geo News (24 July 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-24T08:14:11.831Z"
+  exported_at: "2026-07-24T13:23:36.742Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-24T08:14:11.786Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-24T13:23:36.702Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
