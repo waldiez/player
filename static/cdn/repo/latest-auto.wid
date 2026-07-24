@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260724T020512.833Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260724T081411.831Z-l4t35t"
   type: "state"
-  created: "2026-07-24T02:05:12.833Z"
+  created: "2026-07-24T08:14:11.831Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T020512.833Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260724T081411.831Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VlXjHtAJJjI"
-        name: "US-Iran War LIVE: Iran Declares ‘Full-Scale War’ Against US, Iran Prez Issues Stark Warning  | WION"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GFtqWjkR8DA"
-        name: "CJP Protest News LIVE: देश के कई बड़े शहरों में प्रदर्शन शुरू | Jantar Mantar | Sonam Wangchuk"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hUIitgzHsTE"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        videoId: "O0vauYY3Xjg"
+        name: "Trump Speech LIVE: US War Message on Iran Shocks World | Major Warning Issued | Iran | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-KVCvut16wg"
-        name: "दिल्ली में कुछ बड़ा होने वाला है? ताजा हालात LIVE | Rahul Gandhi | Dharmendra Pradhan | Protest"
-        artist: "TV9 Bharatvarsh"
+        videoId: "iU5ZkvNTv3Y"
+        name: "Mumbai Rain News LIVE | पावसाची खबरबात! राज्यभरात कुठे किती पाऊस, सगळे अपडेट | Monsoon 2026"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jaHfL4nCC1w"
-        name: "Rahul Gandhi News LIVE: सांसदों को बस में बैठाकर निकल रहे थे राहुल गांधी, तभी RAF ने किया 'खेला'!"
+        videoId: "i8wnvJhWnIM"
+        name: "Parliament Monsoon Session LIVE: संसद सत्र का 5वां दिन | Jantar Mantar | Paper Leak | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JQj2GxcEgxM"
-        name: "America Attack On Iran LIVE : अमेरिका-ईरान में युद्ध, ताजा हालात! Trump | Strait of Hormuz| War News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DmFVytkC7ww"
+        videoId: "dlNPuZrhOzc"
         name: "Bangla News Live BBC World News July 24, 2026 || World News Bangla || International News Today"
         artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PPkZO-D9IKY"
-        name: "LIVE: Trump's Major War Announcement LIVE: US President Addresses Global Tensions From White House"
+        videoId: "xElEwvkOyoE"
+        name: "Patna Student Protest LIVE: बिहार पहुंची CJP प्रदर्शन की आग, BJP मंत्री की गाड़ी पर हमला! | CJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qOQjf3EWXSA"
+        name: "🔴 7/24/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
+        artist: "The Global Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HBX42TJ0DWo"
+        name: "Bhim Army Protest News LIVE: लखनऊ में भीम आर्मी का प्रदर्शन,अचानक दौड़ पड़े छात्र!| UP | Bihar | CJP"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dzychRQ79Dc"
+        name: "US-Iran War LIVE | BREAKING | B-2 Bombers Launched? America Preparing Its Biggest Strike Yet | LIVE"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KyInAZQdQfo"
-        name: "Jantar Mantar Protest LIVE: सुबह-सुबह जंतर-मंतर से आई बड़ी खबर | Delhi Police | CJP | BJP | Congress"
+        videoId: "cwuy0alfhwE"
+        name: "CJP प्रदर्शन को लेकर आई होश उड़ाने वाली खबर LIVE | Jantar Mantar | Rahul | Modi | NEET | Parliament"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "atCEJVb0JU4"
+        name: "CJP Protest News LIVE: पलट गया CJP आंदोलन सोनम वांगचुक ने तोड़ा अनशन, मोदी का ऐलान | Jantar Mantar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mDmv6JlQjOI"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | Delhi CJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Xa1FTW1tWF8"
-        name: "Today's Headlines| 24 JULY 2026 | Morning Headlines| 6AM Headlines | Latest Headlines | CM vijay"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-nNjR0YWrPI"
-        name: "🔴LIVE : Today Headlines | காலை 7 மணி தலைப்புச் செய்திகள் (24.07.2026) | 7 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "FiX5Ab5DTPA"
+        name: "LIVE: आज की बड़ी खबरें | Iran America War | Weather Update | Pune News | Breaking News |24 July 2026"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-24T02:05:12.833Z"
+  exported_at: "2026-07-24T08:14:11.831Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-24T02:05:12.789Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-24T08:14:11.786Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
