@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260725T131033.701Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260725T185811.853Z-l4t35t"
   type: "state"
-  created: "2026-07-25T13:10:33.701Z"
+  created: "2026-07-25T18:58:11.853Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260725T131033.701Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260725T185811.853Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4rvbgyrCVYE"
-        name: "Dharmendra Pradhan Resignation LIVE: देवेंद्र फडणवीस बनेंगे देश नए शिक्षा मंत्री?तुरंत दिल्ली निकले!"
-        artist: "ABP NEWS"
+        videoId: "qS_2HKhp5d8"
+        name: "Debate With Arnab LIVE: CJP Protest Over, Has Rahul Gandhi’s Plan Met An Abrupt End?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7wVjiYVxpkc"
-        name: "Mahadangal LIVE: इस्तीफे का एलान, घमासान पर विराम? | Dharmendra Pradhan Resign | CJP Protest | Modi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F7J6Upm8-TQ"
-        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
+        videoId: "44W8e_srjm4"
+        name: "Gujarat News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | Weather News| News18 Gujarati"
         artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "icXfVhJyQdE"
-        name: "Dharmendra Pradhan Resignation LIVE: धर्मेंद्र प्रधान का इस्तीफा | Jantar Mantar Protest Breaking"
+        videoId: "fnMyGbZFrsk"
+        name: "Prahlad Joshi New Education Minister LIVE:  शिक्षा मंत्री का प्रभार मिलने पर बोले प्रह्लाद जोशी!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LCrxQ3eAjoU"
-        name: "इस्तीफे की मांग के बीच धर्मेंद्र प्रधान का Viral Interview LIVE | NEET | CJP | Rahul Gandhi | Modi"
-        artist: "NDTV India"
+        videoId: "mkc4RPFj4Ss"
+        name: "🔴LIVE: Dharmendra Pradhan Resignation? India Education Minister Faces Political Storm After Protests"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Eaw0Y8HZPIs"
-        name: "Dharmendra Pradhan Resignation LIVE: सरकार-CJP की प्रेस कॉन्फ्रेंस LIVE | CJP Protest | JP Nadda"
+        videoId: "HL8KqHJmdg4"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.07.2026) | Sathiyam Headlines | NEET | CM Vijay"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gaVtxM-jLKY"
+        name: "अभी-अभी नए शिक्षा मंत्री पर आई बड़ी खबर? किसे मिलेगी जिम्मेदारी? LIVE | Jantar-Mantar | PM Modi"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3-GSCEp0Zmo"
+        name: "Sandeep Chaudhary: Devendra Fadnavis बनेंगे शिक्षा मंत्री? | Dharmendra Pradhan | CJP Protest"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SVBT9M1xssU"
-        name: "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री का नाम आया सामने-सूत्र, ये नेता बनेगा?"
+        videoId: "UJ-RHGZQN3M"
+        name: "Dharmendra Pradhan Resign LIVE: धर्मेंद्र प्रधान ने दिया इस्तीफा | Police Lathicharge |Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XDkdVMQVCHc"
-        name: "Aaj Ki Taaza Khabar LIVE: 25 July 2026 | CJP Protest | Sonam Wangchuk | Modi | Rahul Gandhi | Dipke"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ch-0zDw9Hfw"
-        name: "Dharmendra Pradhan Resign LIVE: धर्मेंद्र प्रधान के इस्तीफे से बीजेपी में मचा हड़कंप! | CJP Protest"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wnRbB0Tx9F8"
-        name: "Dharmendra Pradhan Resign LIVE: इस्तीफे के बाद जंतर-मंतर से सीधा | CJP Protest | Abhijeet Dipke"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DzUxOhF4NnM"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 25 July News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VF-gS9Qx2KY"
-        name: "Dharmendra Pradhan Resignation LIVE: धर्मेंद्र प्रधान को इस बड़े नेता का कॉल!, और हो गया इस्तीफा"
-        artist: "ABP NEWS"
+        videoId: "uusVA7L-c4s"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-25T13:10:33.701Z"
+  exported_at: "2026-07-25T18:58:11.853Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-25T13:10:33.661Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-25T18:58:11.810Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
