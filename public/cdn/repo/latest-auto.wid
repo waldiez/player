@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260725T075637.209Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260725T131033.701Z-l4t35t"
   type: "state"
-  created: "2026-07-25T07:56:37.209Z"
+  created: "2026-07-25T13:10:33.701Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260725T075637.209Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260725T131033.701Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "uRhQ7wBbNeI"
-        name: "Sonam Wangchuk Latest Video: भड़के सोनम वांगचुक... 'ऐसे नीच ख्यालात वालों पर धिक्कार' | CJP Protest"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S9b84I_Rrss"
-        name: "Bangla News Live BBC World News July 25, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "p5evYPwhKAw"
-        name: "ABC News Live Prime: Friday, July 24, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "19vx4Yy39Aw"
-        name: "CJP Protest LIVE Update: सरकार से मीटिंग के बाद CJP का बड़ा ऐलान LIVE | Jantar Mantar | Delhi Police"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Rdh3XrIkK5k"
-        name: "🔴LIVE: Speed News | 24 Headlines | 25-07-2026 | #morningwithabn | ABN Telugu"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hYlaWjB_LRc"
-        name: "दिल्ली में कुछ बड़ा होने वाला है? ताजा हालात LIVE | CJP Protest | NEET | Dharmendra Pradhan | Dipke"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Cq8sANELbJg"
-        name: "Sandeep Chaudhary LIVE: Dharmendra Pradhan पर आर-पार...लटकी इस्तीफे की तलवार! | CJP Protest"
+        videoId: "4rvbgyrCVYE"
+        name: "Dharmendra Pradhan Resignation LIVE: देवेंद्र फडणवीस बनेंगे देश नए शिक्षा मंत्री?तुरंत दिल्ली निकले!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AjArVfBtxOs"
-        name: "Dharmendra Pradhan Resign News LIVE: धर्मेंद्र प्रधान नहीं देंगे इस्तीफा: सरकारी सूत्र | BJP | CJP"
+        videoId: "7wVjiYVxpkc"
+        name: "Mahadangal LIVE: इस्तीफे का एलान, घमासान पर विराम? | Dharmendra Pradhan Resign | CJP Protest | Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Swt8SlrZP3g"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 25 jul"
-        artist: "Sairbeen News 24"
+        videoId: "F7J6Upm8-TQ"
+        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "74ayHyJghGU"
-        name: "Bangla News Live BBC World News July 25, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "icXfVhJyQdE"
+        name: "Dharmendra Pradhan Resignation LIVE: धर्मेंद्र प्रधान का इस्तीफा | Jantar Mantar Protest Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LCrxQ3eAjoU"
+        name: "इस्तीफे की मांग के बीच धर्मेंद्र प्रधान का Viral Interview LIVE | NEET | CJP | Rahul Gandhi | Modi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Eaw0Y8HZPIs"
+        name: "Dharmendra Pradhan Resignation LIVE: सरकार-CJP की प्रेस कॉन्फ्रेंस LIVE | CJP Protest | JP Nadda"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SVBT9M1xssU"
+        name: "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री का नाम आया सामने-सूत्र, ये नेता बनेगा?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XDkdVMQVCHc"
+        name: "Aaj Ki Taaza Khabar LIVE: 25 July 2026 | CJP Protest | Sonam Wangchuk | Modi | Rahul Gandhi | Dipke"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ch-0zDw9Hfw"
+        name: "Dharmendra Pradhan Resign LIVE: धर्मेंद्र प्रधान के इस्तीफे से बीजेपी में मचा हड़कंप! | CJP Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wnRbB0Tx9F8"
+        name: "Dharmendra Pradhan Resign LIVE: इस्तीफे के बाद जंतर-मंतर से सीधा | CJP Protest | Abhijeet Dipke"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DzUxOhF4NnM"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 25 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VF-gS9Qx2KY"
+        name: "Dharmendra Pradhan Resignation LIVE: धर्मेंद्र प्रधान को इस बड़े नेता का कॉल!, और हो गया इस्तीफा"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-25T07:56:37.209Z"
+  exported_at: "2026-07-25T13:10:33.701Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-25T07:56:37.164Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-25T13:10:33.661Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
