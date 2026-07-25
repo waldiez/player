@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-25T02:04:40.231Z",
+    "generatedAt": "2026-07-25T07:56:37.164Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1OThJZtqu0g",
-            "name": "जंतर-मंतर पर  कुछ बड़ा होने वाला है? ताजा हालात LIVE | CJP Protest | Dharmendra Pradhan | Dipke",
+            "videoId": "uRhQ7wBbNeI",
+            "name": "Sonam Wangchuk Latest Video: भड़के सोनम वांगचुक... 'ऐसे नीच ख्यालात वालों पर धिक्कार' | CJP Protest",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "b1pNk7xI7C0",
-            "name": "US-Iran War LIVE | Trump Deploys B-1 Bombers, Iran on High Alert | Iran News | Trump Iran | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RPxXHWmJpnc",
-            "name": "Breaking News LIVE: Paper Leak पर NTA का बड़ा एक्शन, 47 अधिकारी बर्खास्त | CJP Protest",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FGYMtIo2FIE",
-            "name": "आंदोलन से आया नया मोड़! आ गई चौंकाने वाली खबर LIVE | CJP Protest | Rahul Gandhi | Jantar Mantar",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sSEVIm_l3uo",
+            "videoId": "S9b84I_Rrss",
             "name": "Bangla News Live BBC World News July 25, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "-7_PzXGmk2k",
-            "name": "ABC World News Tonight With David Muir 7/24/26 | ABC News Today July 24, 2026",
-            "artist": "Tanu Digital Rasiya "
+            "videoId": "p5evYPwhKAw",
+            "name": "ABC News Live Prime: Friday, July 24, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "WrhbMFr5-kU",
-            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?",
-            "artist": "Times Now World"
+            "videoId": "19vx4Yy39Aw",
+            "name": "CJP Protest LIVE Update: सरकार से मीटिंग के बाद CJP का बड़ा ऐलान LIVE | Jantar Mantar | Delhi Police",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "F7Fr3f-it5M",
-            "name": "US hits dozens of countries with new wave of tariffs | BBC News",
-            "artist": "BBC News"
+            "videoId": "Rdh3XrIkK5k",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 25-07-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "2z_fE-xFedg",
-            "name": "US IRAN WAR LIVE | US Uses World War Weapons To Destroy Iran | Trump Iran | Iran News | N18G",
-            "artist": "CNN-News18"
+            "videoId": "hYlaWjB_LRc",
+            "name": "दिल्ली में कुछ बड़ा होने वाला है? ताजा हालात LIVE | CJP Protest | NEET | Dharmendra Pradhan | Dipke",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "dlhY57Zz9TQ",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
-            "artist": "Times Now"
+            "videoId": "Cq8sANELbJg",
+            "name": "Sandeep Chaudhary LIVE: Dharmendra Pradhan पर आर-पार...लटकी इस्तीफे की तलवार! | CJP Protest",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "E1-EzpN9OnY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 24 July 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Television 24 BANGLA"
+            "videoId": "AjArVfBtxOs",
+            "name": "Dharmendra Pradhan Resign News LIVE: धर्मेंद्र प्रधान नहीं देंगे इस्तीफा: सरकारी सूत्र | BJP | CJP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Swt8SlrZP3g",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 25 jul",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "74ayHyJghGU",
+            "name": "Bangla News Live BBC World News July 25, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         }
     ],
     "sourceFilters": {
