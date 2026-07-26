@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260726T020930.656Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260726T081403.811Z-l4t35t"
   type: "state"
-  created: "2026-07-26T02:09:30.656Z"
+  created: "2026-07-26T08:14:03.811Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T020930.656Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T081403.811Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "CLjA8Mjuu98"
-        name: "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री के नाम का ऐलान? | CJP Protest | Big Breaking"
+        videoId: "xEKEGl-Fzt0"
+        name: "CJP News LIVE: सीजेपी राजनीति में लेगी ENTRY? | Dharmendra Pradhan Resign | Abhijeet Dipke"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XjoXz0hQq2Y"
-        name: "Sandeep Chaudhary LIVE: 'कॉकरोच' जीत गए! | Dharmendra Pradhan Resignation | CJP Protest | PM Modi"
+        videoId: "5QtrTOd0A50"
+        name: "Dharmendra Pradhan Resignation LIVE: सरकार का बड़ा फैसला, ‘दर्ज केस होंगे वापस’ | Jantar Mantar CJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y8nYQNWn308"
-        name: "Sandeep Chaudhary LIVE: हटे प्रधान...'सिस्टम' का होगा कल्याण? | Dharmendra Pradhan Resignation | CJP"
+        videoId: "FbxH64u80NM"
+        name: "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री का सामने आया बड़ा बयान | Pralhad Joshi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zo0bK2A4qPc"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News |26 July News"
+        videoId: "Z20OWimJrmE"
+        name: "Dharmendra Pradhan Resignation LIVE: 'ना कोई जीता, ना  कोई हारा...' | Anna Hazare | CJP | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-_pv7cfXy-o"
-        name: "ABC World News Tonight With David Muir 7/25/26 | ABC News Today July 25, 2026 HD"
-        artist: "GR Music Entertainment"
+        videoId: "M2cfxNH5CFg"
+        name: "Raj Thackeray LIVE | जेन झी तरूणांसमोर राज ठाकरेंचं दणदणीत भाषण! शिवाजी पार्क मैदानावर काय झालं?"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "599Yd1UWdbI"
-        name: "ABC World News Tonight With David Muir TODAY 7/25/26 | ABC News Today July 25, 2026 HD"
-        artist: "GR Music Entertainment"
+        videoId: "sESXzsWnD4A"
+        name: "US NEWS Live: Trump UNLEASHES Emergency Powers, Iran War Forces America into CRISIS Mode"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3C6jtuyhI_w"
-        name: "US Iran War LIVE: Iran Attacks US Bases in Kuwait, Bahrain and Jordan | No Ceasefire in Sight?"
-        artist: "Firstpost"
+        videoId: "RAjkLYIaHtg"
+        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CwpoMsPljHo"
-        name: "ABC World News Tonight With David Muir 7/25/26 | ABC News Today July 25, 2026"
-        artist: "Tanu Digital Rasiya "
+        videoId: "byqOCNZsCR8"
+        name: "Prahlad Joshi New Education Minister LIVE:  शिक्षा मंत्री का प्रभार मिलने पर बोले प्रह्लाद जोशी!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nvdyyIg8YjU"
-        name: "Breaking News Today | Latest World News Headlines | Top News Update Live"
-        artist: "1Beyonds"
+        videoId: "9Gi_yNJGOh0"
+        name: "US-Iran War LIVE | Trump Weighs Nuclear Strike After Iran Bombs US Bases Across Middle East | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-26T02:09:30.656Z"
+  exported_at: "2026-07-26T08:14:03.811Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-26T02:09:30.613Z"
+  source_generated_at: "2026-07-26T08:14:03.779Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
