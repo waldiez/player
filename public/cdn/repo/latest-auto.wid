@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260726T130606.118Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260726T190124.774Z-l4t35t"
   type: "state"
-  created: "2026-07-26T13:06:06.118Z"
+  created: "2026-07-26T19:01:24.774Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T130606.118Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T190124.774Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,68 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "O-NCWIyuBUA"
-        name: "Chaar Ki Chaal LIVE: 'छात्र युद्ध' खत्म 'श्रेय युद्ध' शुरू! | Dharmendra Pradhan | Abhijeet Dipke"
-        artist: "ABP NEWS"
+        videoId: "HXT3rU1z0D0"
+        name: "🔴 7/26/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
+        artist: "The Global Desk"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3RnDgzgt5L8"
-        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
-        artist: "Times Now"
+        videoId: "DzbQC2ULrcs"
+        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rgK1H0pxSNk"
-        name: "আন্তর্জাতিক সংবাদ | বিকাল ৪টা | ২৬ জুলাই ২০২৬ | Somoy TV Bulletin 4pm | Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "W6CgWIdnoEg"
+        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (26-07-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6Fd3nPTQoVk"
-        name: "Rahul Gandhi on Students LIVE: राहुल गांधी ने लिखा गृहमंत्री को लेटर, पूछे तीखे सवाल! | Amit Shah"
-        artist: "ABP NEWS"
+        videoId: "u7RbTyh8FUY"
+        name: "US NEWS LIVE: Pentagon Sends Shocking Warning to Iran | Big Nuke Strike Ahead? | Pete Hegseth LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PL5-iB8ISQ0"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 26 July 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "LNzHDP4_BjU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0N_0WSjWpe0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BRB News 360"
+        videoId: "m5XgH4LEy_c"
+        name: "ইরানের ‘খাইবার শেকান’ ক্ষেপণাস্ত্রেই কুপোকাত যুক্তরাষ্ট্র! | Kheibar Shekan | Iran Missile |ATN News"
+        artist: "ATN News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "53FbpOWlIQQ"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.07.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "hwxF2uyx1iA"
+        name: "US-Iran War LIVE: Exclusive Footage of Major Strikes Rock Tehran | Iran In Flames | World News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BEBtLuNl2PA"
-        name: "Tej Pratap Yadav Arrest News LIVE: तेज प्रताप को 14 दिन की जेल | Patna Student Protest | Breaking"
-        artist: "ABP NEWS"
+        videoId: "-_yFo4UhqCg"
+        name: "Marathi Top Headlines LIVE | 26 July | 9 PM | Dharmendra Pradhan Resignation | Abhijeet Dipke"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ektkv083ugg"
-        name: "Tej Pratap Yadav Arrested LIVE: प्रदर्शन में उतरने के बाद बिहार पुलिस का एक्शन | Bihar Protest"
+        videoId: "AlnI8qMxhZk"
+        name: "Bharat Ki Baat Batata Hoon  Syed Suhail LIVE:  CJP का अगला प्लान क्या? Dharmendra Pradhan | PM Modi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UjUIPc1FLI0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "2K Vision Pulse"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GrCMNpa9RWs"
+        name: "Breaking | PM Modi New Video: Paper Leak पर PM का नया वीडियो मैसेज, बोले - 'भविष्य से खिलवाड़...'"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-26T13:06:06.118Z"
+  exported_at: "2026-07-26T19:01:24.774Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-26T13:06:06.085Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-26T19:01:24.733Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
