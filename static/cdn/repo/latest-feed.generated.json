@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-25T18:58:11.810Z",
+    "generatedAt": "2026-07-26T02:09:30.613Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qS_2HKhp5d8",
-            "name": "Debate With Arnab LIVE: CJP Protest Over, Has Rahul Gandhi’s Plan Met An Abrupt End?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "44W8e_srjm4",
-            "name": "Gujarat News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar | Weather News| News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fnMyGbZFrsk",
-            "name": "Prahlad Joshi New Education Minister LIVE:  शिक्षा मंत्री का प्रभार मिलने पर बोले प्रह्लाद जोशी!",
+            "videoId": "CLjA8Mjuu98",
+            "name": "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री के नाम का ऐलान? | CJP Protest | Big Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "mkc4RPFj4Ss",
-            "name": "🔴LIVE: Dharmendra Pradhan Resignation? India Education Minister Faces Political Storm After Protests",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HL8KqHJmdg4",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gaVtxM-jLKY",
-            "name": "अभी-अभी नए शिक्षा मंत्री पर आई बड़ी खबर? किसे मिलेगी जिम्मेदारी? LIVE | Jantar-Mantar | PM Modi",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3-GSCEp0Zmo",
-            "name": "Sandeep Chaudhary: Devendra Fadnavis बनेंगे शिक्षा मंत्री? | Dharmendra Pradhan | CJP Protest",
+            "videoId": "XjoXz0hQq2Y",
+            "name": "Sandeep Chaudhary LIVE: 'कॉकरोच' जीत गए! | Dharmendra Pradhan Resignation | CJP Protest | PM Modi",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "UJ-RHGZQN3M",
-            "name": "Dharmendra Pradhan Resign LIVE: धर्मेंद्र प्रधान ने दिया इस्तीफा | Police Lathicharge |Breaking",
+            "videoId": "y8nYQNWn308",
+            "name": "Sandeep Chaudhary LIVE: हटे प्रधान...'सिस्टम' का होगा कल्याण? | Dharmendra Pradhan Resignation | CJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "uusVA7L-c4s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "zo0bK2A4qPc",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News |26 July News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-_pv7cfXy-o",
+            "name": "ABC World News Tonight With David Muir 7/25/26 | ABC News Today July 25, 2026 HD",
+            "artist": "GR Music Entertainment"
+        },
+        {
+            "mood": "storm",
+            "videoId": "599Yd1UWdbI",
+            "name": "ABC World News Tonight With David Muir TODAY 7/25/26 | ABC News Today July 25, 2026 HD",
+            "artist": "GR Music Entertainment"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3C6jtuyhI_w",
+            "name": "US Iran War LIVE: Iran Attacks US Bases in Kuwait, Bahrain and Jordan | No Ceasefire in Sight?",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CwpoMsPljHo",
+            "name": "ABC World News Tonight With David Muir 7/25/26 | ABC News Today July 25, 2026",
+            "artist": "Tanu Digital Rasiya "
+        },
+        {
+            "mood": "storm",
+            "videoId": "nvdyyIg8YjU",
+            "name": "Breaking News Today | Latest World News Headlines | Top News Update Live",
+            "artist": "1Beyonds"
         }
     ],
     "sourceFilters": {
