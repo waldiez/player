@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260726T081403.811Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260726T130606.118Z-l4t35t"
   type: "state"
-  created: "2026-07-26T08:14:03.811Z"
+  created: "2026-07-26T13:06:06.118Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T081403.811Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260726T130606.118Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xEKEGl-Fzt0"
-        name: "CJP News LIVE: सीजेपी राजनीति में लेगी ENTRY? | Dharmendra Pradhan Resign | Abhijeet Dipke"
+        videoId: "O-NCWIyuBUA"
+        name: "Chaar Ki Chaal LIVE: 'छात्र युद्ध' खत्म 'श्रेय युद्ध' शुरू! | Dharmendra Pradhan | Abhijeet Dipke"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5QtrTOd0A50"
-        name: "Dharmendra Pradhan Resignation LIVE: सरकार का बड़ा फैसला, ‘दर्ज केस होंगे वापस’ | Jantar Mantar CJP"
+        videoId: "3RnDgzgt5L8"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rgK1H0pxSNk"
+        name: "আন্তর্জাতিক সংবাদ | বিকাল ৪টা | ২৬ জুলাই ২০২৬ | Somoy TV Bulletin 4pm | Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6Fd3nPTQoVk"
+        name: "Rahul Gandhi on Students LIVE: राहुल गांधी ने लिखा गृहमंत्री को लेटर, पूछे तीखे सवाल! | Amit Shah"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FbxH64u80NM"
-        name: "Dharmendra Pradhan Resignation LIVE: नए शिक्षा मंत्री का सामने आया बड़ा बयान | Pralhad Joshi"
+        videoId: "PL5-iB8ISQ0"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i Desk | 26 July 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0N_0WSjWpe0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BRB News 360"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "53FbpOWlIQQ"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.07.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BEBtLuNl2PA"
+        name: "Tej Pratap Yadav Arrest News LIVE: तेज प्रताप को 14 दिन की जेल | Patna Student Protest | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Z20OWimJrmE"
-        name: "Dharmendra Pradhan Resignation LIVE: 'ना कोई जीता, ना  कोई हारा...' | Anna Hazare | CJP | BJP"
+        videoId: "Ektkv083ugg"
+        name: "Tej Pratap Yadav Arrested LIVE: प्रदर्शन में उतरने के बाद बिहार पुलिस का एक्शन | Bihar Protest"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M2cfxNH5CFg"
-        name: "Raj Thackeray LIVE | जेन झी तरूणांसमोर राज ठाकरेंचं दणदणीत भाषण! शिवाजी पार्क मैदानावर काय झालं?"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sESXzsWnD4A"
-        name: "US NEWS Live: Trump UNLEASHES Emergency Powers, Iran War Forces America into CRISIS Mode"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RAjkLYIaHtg"
-        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "byqOCNZsCR8"
-        name: "Prahlad Joshi New Education Minister LIVE:  शिक्षा मंत्री का प्रभार मिलने पर बोले प्रह्लाद जोशी!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9Gi_yNJGOh0"
-        name: "US-Iran War LIVE | Trump Weighs Nuclear Strike After Iran Bombs US Bases Across Middle East | N18G"
-        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-26T08:14:03.811Z"
+  exported_at: "2026-07-26T13:06:06.118Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-26T08:14:03.779Z"
+  source_generated_at: "2026-07-26T13:06:06.085Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
