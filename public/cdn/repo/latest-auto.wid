@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260727T022245.380Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260727T093817.044Z-l4t35t"
   type: "state"
-  created: "2026-07-27T02:22:45.380Z"
+  created: "2026-07-27T09:38:17.044Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260727T022245.380Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260727T093817.044Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "t2XuKb4E9d8"
-        name: "Tej Pratap Yadav Arrest News LIVE: पटना की सड़कों पर बंदूक लेकर दौड़ी पुलिस!, छात्रों पर की फायरिंग"
+        videoId: "Mxwq7t4dWyk"
+        name: "Paper Leak Bill NewsLIVE: लोकसभा में पेपर लीक बिल पेश, विपक्ष देखता रह गया! | PM Modi | Parliament"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vS9BW9pp2dc"
-        name: "Republic TV LIVE: July 26, 2026 | Political | Global News | Delhi Jantar Mantar Protest Ends | CJP"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DLxZOzbiTxk"
-        name: "Gunratna Sadavarte Latest News LIVE | Uddhav-Raj Thackeray यांच्यावर बरसले, रॅलीवरून काय बोलले? N18L"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Y1rLQyKnkGE"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.07.2026) | Sathiyam Headlines | NEET | CM Vijay"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T1oUCXI7lmo"
-        name: "US-Iran Latest News LIVE | Iran Claims Victory as US Pauses Strikes | Trump | Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vjBScpEVBgg"
-        name: "Jantar Mantar Protest News LIVE: इस्तीफा देने पर बोले धर्मेंद्र प्रधान! | Delhi CJP | Big Breaking"
+        videoId: "nKMwHpTihlE"
+        name: "Punjab Education Minister Resignation News LIVE:एक और बड़ा इस्तीफा होगा?, आप में हड़कंप! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KYXNbsSlqBo"
-        name: "US-Iran Latest News LIVE | Trump Pauses Strikes on Iran, Calls for Peace Talks | Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9Wl2ns8M4F4"
-        name: "Bangla News Live BBC World News July 27, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Jb6g6metL2o"
-        name: "Tej Pratap Yadav Arrest News LIVE: पटना की सड़कों पर बंदूक लेकर दौड़ी पुलिस!, छात्रों पर की फायरिंग"
+        videoId: "PQPA20gxmlo"
+        name: "Pralhad Joshi Education Minister LIVE: नए शिक्षा मंत्री के आदेश से हिल गए अधिकारी!, दौड़ पड़े छात्र!"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zJBCYNKwj7s"
+        name: "Punjab Education Minister Resignation News LIVE: पंजाब से शिक्षा मंत्री के इस्तीफे पर आई बड़ी खबर"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yBWsfKrEQeY"
+        name: "Houthis Target Saudi Oil Infrastructure As Red Sea Shipping Slows | Firstpost Live | 4K"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HXT3rU1z0D0"
+        name: "🔴 7/26/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
+        artist: "The Global Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t1Az9qIjn08"
+        name: "আজকের আন্তর্জাতিক সব খবর, ২৭ জুলাই ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
+        artist: "World News Ira"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iQgy-Ovrrkc"
+        name: "Paper Leak Bill News LIVE: लोकसभा में पेपर लीक बिल पेश होते ही बौखला, उठा विपक्ष, छोड़ भागे संसद!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cEu4OO17QFk"
+        name: "Pralhad Joshi Education Minister LIVE: नए शिक्षा मंत्री के आदेश से हिल गए अधिकारी!, दौड़ पड़े छात्र!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3zkgsru-RYU"
+        name: "Hezbollah Stands With Iran! Mojtaba Khamenei Issues Response | 12PM Headlines Geo News (27 July 26)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Hxiuac3HBnI"
+        name: "Sandeep Chaudhary LIVE: गए प्रधान...अब लाठीचार्ज पर घमासान? | Dharmendra Pradhan | CJP Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "umzSfWq-ixc"
+        name: "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-27T02:22:45.380Z"
+  exported_at: "2026-07-27T09:38:17.044Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-27T02:22:45.341Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-27T09:38:17.004Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
