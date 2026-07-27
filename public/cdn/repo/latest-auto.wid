@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260727T093817.044Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260727T141718.881Z-l4t35t"
   type: "state"
-  created: "2026-07-27T09:38:17.044Z"
+  created: "2026-07-27T14:17:18.881Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260727T093817.044Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260727T141718.881Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Mxwq7t4dWyk"
-        name: "Paper Leak Bill NewsLIVE: लोकसभा में पेपर लीक बिल पेश, विपक्ष देखता रह गया! | PM Modi | Parliament"
+        videoId: "7BkiTXJTNrY"
+        name: "Dharmendra Pradhan LIVE: इस्तीफे के बाद धर्मेंद्र प्रधान का बड़ा खुलासा | CJP Protest | Rahul Gandhi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nKMwHpTihlE"
-        name: "Punjab Education Minister Resignation News LIVE:एक और बड़ा इस्तीफा होगा?, आप में हड़कंप! | Breaking"
+        videoId: "zhAitX0FuWA"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tRpH12yDB28"
+        name: "Sandeep Chaudhary LIVE: AK-47, पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PQPA20gxmlo"
-        name: "Pralhad Joshi Education Minister LIVE: नए शिक्षा मंत्री के आदेश से हिल गए अधिकारी!, दौड़ पड़े छात्र!"
+        videoId: "5Hx5yGCvA-k"
+        name: "Sandeep Chaudhary LIVE: संसद में खत्म तकरार..बिहार, बंगाल में छात्र गिरफ्तार? | CJP Protest | Rahul"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zJBCYNKwj7s"
-        name: "Punjab Education Minister Resignation News LIVE: पंजाब से शिक्षा मंत्री के इस्तीफे पर आई बड़ी खबर"
-        artist: "ABP NEWS"
+        videoId: "YvLNqSwejRg"
+        name: "🔴LIVE: CM Vijay | CM விஜய் எச்சரிக்கை - ''கப் சிப்'' ஆன பெருந்தலைகள்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yBWsfKrEQeY"
-        name: "Houthis Target Saudi Oil Infrastructure As Red Sea Shipping Slows | Firstpost Live | 4K"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HXT3rU1z0D0"
-        name: "🔴 7/26/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "t1Az9qIjn08"
-        name: "আজকের আন্তর্জাতিক সব খবর, ২৭ জুলাই ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
-        artist: "World News Ira"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iQgy-Ovrrkc"
-        name: "Paper Leak Bill News LIVE: लोकसभा में पेपर लीक बिल पेश होते ही बौखला, उठा विपक्ष, छोड़ भागे संसद!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cEu4OO17QFk"
-        name: "Pralhad Joshi Education Minister LIVE: नए शिक्षा मंत्री के आदेश से हिल गए अधिकारी!, दौड़ पड़े छात्र!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3zkgsru-RYU"
-        name: "Hezbollah Stands With Iran! Mojtaba Khamenei Issues Response | 12PM Headlines Geo News (27 July 26)"
+        videoId: "muw_SipI6bw"
+        name: "US-Iran War Latest Updates: Middle East on Edge | Breaking Developments | 5PM Headlines Geo News"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Hxiuac3HBnI"
-        name: "Sandeep Chaudhary LIVE: गए प्रधान...अब लाठीचार्ज पर घमासान? | Dharmendra Pradhan | CJP Protest"
+        videoId: "VSMRNRMaqS8"
+        name: "Dharmendra Pradhan Resignation LIVE: CJP पर सबसे बड़ा खुलासा!, जिसने भी सुना यकीन नहीं किया!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "umzSfWq-ixc"
-        name: "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral"
-        artist: "MIRROR NOW"
+        videoId: "rPuf02-gALg"
+        name: "Dharmendra Pradhan Resignation News LIVE: धर्मेंद्र प्रधान के इस्तीफे के बाद एक और इस्तीफा?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bgdTuNpeRJ4"
+        name: "আন্তর্জাতিক সংবাদ | বিকাল ৪টা | ২৭ জুলাই ২০২৬ | Somoy TV Bulletin 4pm | Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vTk6B9_5MVE"
+        name: "ஈரான் அமெரிக்கா போ*ர்...அமெரிக்காவுக்கு பெரும் சேதாரம் | Iran | USA IranVsUSA | WorldNews | GemTV"
+        artist: "Gem Television"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zBc_RH2SrFc"
+        name: "BREAKING NEWS LIVE: 'TRUMP SIGNS NUKE STRIKE ORDER!' | Trump Speech LIVE | IRAN-US War | US News"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-27T09:38:17.044Z"
+  exported_at: "2026-07-27T14:17:18.881Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-27T09:38:17.004Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-27T14:17:18.840Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
