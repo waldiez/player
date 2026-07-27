@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-27T14:17:18.840Z",
+    "generatedAt": "2026-07-27T19:17:42.643Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7BkiTXJTNrY",
-            "name": "Dharmendra Pradhan LIVE: इस्तीफे के बाद धर्मेंद्र प्रधान का बड़ा खुलासा | CJP Protest | Rahul Gandhi",
-            "artist": "ABP NEWS"
+            "videoId": "P70J_wJly7M",
+            "name": "Iran US War Updates LIVE |Trump's Pause Before a Bigger War? Netanyahu Meeting Raises Questions|N18G",
+            "artist": "News18 Kerala"
         },
         {
             "mood": "storm",
-            "videoId": "zhAitX0FuWA",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tRpH12yDB28",
-            "name": "Sandeep Chaudhary LIVE: AK-47, पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5Hx5yGCvA-k",
-            "name": "Sandeep Chaudhary LIVE: संसद में खत्म तकरार..बिहार, बंगाल में छात्र गिरफ्तार? | CJP Protest | Rahul",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YvLNqSwejRg",
-            "name": "🔴LIVE: CM Vijay | CM விஜய் எச்சரிக்கை - ''கப் சிப்'' ஆன பெருந்தலைகள்",
+            "videoId": "Y1rLQyKnkGE",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "muw_SipI6bw",
-            "name": "US-Iran War Latest Updates: Middle East on Edge | Breaking Developments | 5PM Headlines Geo News",
-            "artist": "Geo News"
+            "videoId": "2NKNtcuImqs",
+            "name": "🔴LIVE: MK Stalin | DMK | பதவி பறிப்பு..? - ஸ்டாலினின் கேம் ஸ்டார்ட்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "VSMRNRMaqS8",
-            "name": "Dharmendra Pradhan Resignation LIVE: CJP पर सबसे बड़ा खुलासा!, जिसने भी सुना यकीन नहीं किया!",
-            "artist": "ABP NEWS"
+            "videoId": "uAxpTHYwBO0",
+            "name": "Bharat Ki Baat Batata Hoon Syed Suhail LIVE: डांस पार्टी कर फंस गए CJP वाले? Modi | Bihar | Sansad",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "rPuf02-gALg",
-            "name": "Dharmendra Pradhan Resignation News LIVE: धर्मेंद्र प्रधान के इस्तीफे के बाद एक और इस्तीफा?",
-            "artist": "ABP NEWS"
+            "videoId": "kSh2n5Y7ry4",
+            "name": "ইরানের মিসাইল হুং'কারে কাঁ'প'ছে আমেরিকাসহ বিশ্বের আলোচিত সব খবর | Iran latest news | Kalbela i news",
+            "artist": "Kalbela World"
         },
         {
             "mood": "storm",
-            "videoId": "bgdTuNpeRJ4",
-            "name": "আন্তর্জাতিক সংবাদ | বিকাল ৪টা | ২৭ জুলাই ২০২৬ | Somoy TV Bulletin 4pm | Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "npkYgrMYn9w",
+            "name": "Today Headlines | 27 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "vTk6B9_5MVE",
-            "name": "ஈரான் அமெரிக்கா போ*ர்...அமெரிக்காவுக்கு பெரும் சேதாரம் | Iran | USA IranVsUSA | WorldNews | GemTV",
-            "artist": "Gem Television"
+            "videoId": "j5v2np_PaWY",
+            "name": "Bangla News Live BBC World News July 27, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "zBc_RH2SrFc",
-            "name": "BREAKING NEWS LIVE: 'TRUMP SIGNS NUKE STRIKE ORDER!' | Trump Speech LIVE | IRAN-US War | US News",
-            "artist": "Times Now"
+            "videoId": "SOZgYN8x4PM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gLwYtq5qlC0",
+            "name": "LIVE🔴Iran-US Talks Breakthrough? Khamenei Declares Jihad | Netanyahu’s New Plot | Breaking News",
+            "artist": "NTV"
         }
     ],
     "sourceFilters": {
