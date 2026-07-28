@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260727T191742.687Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260728T015754.999Z-l4t35t"
   type: "state"
-  created: "2026-07-27T19:17:42.687Z"
+  created: "2026-07-28T01:57:54.999Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260727T191742.687Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260728T015754.999Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "P70J_wJly7M"
-        name: "Iran US War Updates LIVE |Trump's Pause Before a Bigger War? Netanyahu Meeting Raises Questions|N18G"
-        artist: "News18 Kerala"
+        videoId: "WrxIx1jdUsg"
+        name: "Mumbai Rain News LIVE | राज्यभरात कुठे किती पाऊस? कुठे अलर्ट?  | Maharashtra Monsoon 2026"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y1rLQyKnkGE"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.07.2026) | Sathiyam Headlines | NEET | CM Vijay"
-        artist: "Sathiyam News"
+        videoId: "tRpH12yDB28"
+        name: "Sandeep Chaudhary LIVE: AK-47, पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2NKNtcuImqs"
-        name: "🔴LIVE: MK Stalin | DMK | பதவி பறிப்பு..? - ஸ்டாலினின் கேம் ஸ்டார்ட்"
-        artist: "Sathiyam News"
+        videoId: "Fax2EQzNp0Q"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uAxpTHYwBO0"
-        name: "Bharat Ki Baat Batata Hoon Syed Suhail LIVE: डांस पार्टी कर फंस गए CJP वाले? Modi | Bihar | Sansad"
-        artist: "NDTV India"
+        videoId: "sxdPx2N0hi0"
+        name: "Dharmendra Pradhan Resignation LIVE: संदीप चौधरी के सवालों ने लगा दी 'आग'!, LIVE शो में प्रवक्ता लाल"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kSh2n5Y7ry4"
-        name: "ইরানের মিসাইল হুং'কারে কাঁ'প'ছে আমেরিকাসহ বিশ্বের আলোচিত সব খবর | Iran latest news | Kalbela i news"
-        artist: "Kalbela World"
+        videoId: "jfWKcvGkyic"
+        name: "US IRAN WAR BREAKING LIVE | Iran: US Won’t Decide ‘Timing Of War And Peace’ | Trump | Hormuz | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "npkYgrMYn9w"
-        name: "Today Headlines | 27 July 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
+        videoId: "Hf_ack1ffBw"
+        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j5v2np_PaWY"
-        name: "Bangla News Live BBC World News July 27, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "qZx9VMt4SAg"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 28 July News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SOZgYN8x4PM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "-xXlnFIgJfE"
+        name: "ABC World News Tonight With David Muir TODAY July 27, 2026 | ABC News 7/27/26"
+        artist: "Tanu Digital Rasiya "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gLwYtq5qlC0"
-        name: "LIVE🔴Iran-US Talks Breakthrough? Khamenei Declares Jihad | Netanyahu’s New Plot | Breaking News"
-        artist: "NTV"
+        videoId: "--twjlp9mXc"
+        name: "ABC World News Tonight With David Muir 7/27/26 | ABC News Today July 27, 2026"
+        artist: "GR Music Entertainment"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pyYdqkYW86k"
+        name: "LIVE: President Trump delivers remarks in Milford, Michigan"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yepuavz8Tjk"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-27T19:17:42.687Z"
+  exported_at: "2026-07-28T01:57:54.999Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-27T19:17:42.643Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-28T01:57:54.960Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
