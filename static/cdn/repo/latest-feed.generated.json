@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-28T08:22:37.849Z",
+    "generatedAt": "2026-07-28T13:49:26.534Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lSzmy29gEhA",
-            "name": "NDA Mangal Milan Meeting News LIVE: धर्मेंद्र प्रधान के इस्तीफे के बाद NDA की पहली बैठक | PM Modi",
-            "artist": "ABP NEWS"
+            "videoId": "aq5Vma99lJc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The ডেইলি খবর "
         },
         {
             "mood": "storm",
-            "videoId": "6puGEgSdgQ8",
-            "name": "NDA Mangal Milan Meeting News LIVE: NDA के मंगल मिलन से पहले ये क्या हुआ?, संसद में भारी हंगामा",
-            "artist": "ABP NEWS"
+            "videoId": "CCiYRqg9TH4",
+            "name": "🔴LIVE : జగన్ కి  బిగ్ షాక్..టీడీపీలోకి క్యూ కట్టిన వైసీపీ నేతలు..!? | Big Shock To YS Jagan | ABN",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "CyWsqpWCJuI",
-            "name": "Dharmendra Pradhan Resignation LIVE: संदीप चौधरी NEET प्रदर्शन पर क्या बोले?",
-            "artist": "ABP NEWS"
+            "videoId": "BXQir0A0vjs",
+            "name": "Trump LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "vXmF-Q1lFVI",
-            "name": "Paper Leak Bill News LIVE: लोकसभा में पेपर लीक बिल पेश, विपक्ष देखता रह गया! | PM Modi | Parliament",
-            "artist": "ABP NEWS"
+            "videoId": "opgOzmEBaYo",
+            "name": "Iran-US War LIVE | World War III Begins? | 3 PM News Headlines | 28 July 2026 | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "T9dyWA5dDyM",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
+            "videoId": "laTnR7G3TfY",
+            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "bhBP7fhmJ0o",
-            "name": "Siwan AK-47 Firing News LIVE: पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_3Ak2GYKT4I",
-            "name": "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE",
+            "videoId": "jaNplJTRemY",
+            "name": "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "A71pA1fj628",
-            "name": "Siwan AK-47 Firing News LIVE: पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav",
-            "artist": "ABP NEWS"
+            "videoId": "Ykjj65OQNoM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BRB News 360"
         },
         {
             "mood": "storm",
-            "videoId": "R8dAfLbBFXc",
-            "name": "US Iran War: US Halts Attacks on Iran as Trump Weighs Options | Vantage on Firstpost",
-            "artist": "Firstpost"
+            "videoId": "oEE2-Sc6sPA",
+            "name": "Patna Student Protest News LIVE: छात्रों पर AK-47 चलाने पर संदीप चौधरी के खुलासे ने हिला दी बीजेपी!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
