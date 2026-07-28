@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260728T015754.999Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260728T082237.888Z-l4t35t"
   type: "state"
-  created: "2026-07-28T01:57:54.999Z"
+  created: "2026-07-28T08:22:37.888Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260728T015754.999Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260728T082237.888Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WrxIx1jdUsg"
-        name: "Mumbai Rain News LIVE | राज्यभरात कुठे किती पाऊस? कुठे अलर्ट?  | Maharashtra Monsoon 2026"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tRpH12yDB28"
-        name: "Sandeep Chaudhary LIVE: AK-47, पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav"
+        videoId: "lSzmy29gEhA"
+        name: "NDA Mangal Milan Meeting News LIVE: धर्मेंद्र प्रधान के इस्तीफे के बाद NDA की पहली बैठक | PM Modi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Fax2EQzNp0Q"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
+        videoId: "6puGEgSdgQ8"
+        name: "NDA Mangal Milan Meeting News LIVE: NDA के मंगल मिलन से पहले ये क्या हुआ?, संसद में भारी हंगामा"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CyWsqpWCJuI"
+        name: "Dharmendra Pradhan Resignation LIVE: संदीप चौधरी NEET प्रदर्शन पर क्या बोले?"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vXmF-Q1lFVI"
+        name: "Paper Leak Bill News LIVE: लोकसभा में पेपर लीक बिल पेश, विपक्ष देखता रह गया! | PM Modi | Parliament"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T9dyWA5dDyM"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bhBP7fhmJ0o"
+        name: "Siwan AK-47 Firing News LIVE: पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_3Ak2GYKT4I"
+        name: "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sxdPx2N0hi0"
-        name: "Dharmendra Pradhan Resignation LIVE: संदीप चौधरी के सवालों ने लगा दी 'आग'!, LIVE शो में प्रवक्ता लाल"
+        videoId: "A71pA1fj628"
+        name: "Siwan AK-47 Firing News LIVE: पैलेट गन..सियासी 'फायर' दनादन | Patna Student Protest |Tejashwi Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jfWKcvGkyic"
-        name: "US IRAN WAR BREAKING LIVE | Iran: US Won’t Decide ‘Timing Of War And Peace’ | Trump | Hormuz | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Hf_ack1ffBw"
-        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Weather News | Superfast |News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qZx9VMt4SAg"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 28 July News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-xXlnFIgJfE"
-        name: "ABC World News Tonight With David Muir TODAY July 27, 2026 | ABC News 7/27/26"
-        artist: "Tanu Digital Rasiya "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "--twjlp9mXc"
-        name: "ABC World News Tonight With David Muir 7/27/26 | ABC News Today July 27, 2026"
-        artist: "GR Music Entertainment"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pyYdqkYW86k"
-        name: "LIVE: President Trump delivers remarks in Milford, Michigan"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yepuavz8Tjk"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
+        videoId: "R8dAfLbBFXc"
+        name: "US Iran War: US Halts Attacks on Iran as Trump Weighs Options | Vantage on Firstpost"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-28T01:57:54.999Z"
+  exported_at: "2026-07-28T08:22:37.888Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-28T01:57:54.960Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-28T08:22:37.849Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
