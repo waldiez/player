@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-28T13:49:26.534Z",
+    "generatedAt": "2026-07-28T19:14:12.653Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aq5Vma99lJc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "HUEQKGFUIpc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "CCiYRqg9TH4",
-            "name": "🔴LIVE : జగన్ కి  బిగ్ షాక్..టీడీపీలోకి క్యూ కట్టిన వైసీపీ నేతలు..!? | Big Shock To YS Jagan | ABN",
-            "artist": "ABN Telugu "
+            "videoId": "tzk8M_9WVJs",
+            "name": "Japan Earthquake LIVE: Huge 7.1 Magnitude Earthquake Strikes Japan's Kyushu, Tsunami Warning Issued",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "BXQir0A0vjs",
-            "name": "Trump LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran",
-            "artist": "Times Now"
+            "videoId": "PTUXk6OMdqk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "opgOzmEBaYo",
-            "name": "Iran-US War LIVE | World War III Begins? | 3 PM News Headlines | 28 July 2026 | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "ECjgqhcDuwA",
+            "name": "Japan Earthquake LIVE 🔴: 7.1 Magnitude, Death Toll, Injures, Damage | Kyushu | World Breaking News",
+            "artist": "Asianet News English"
         },
         {
             "mood": "storm",
-            "videoId": "laTnR7G3TfY",
-            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jaNplJTRemY",
-            "name": "US News LIVE | Trump Declares EMERGENCY From White House; Iran on High Alert Amid Khamenei's Funeral",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ykjj65OQNoM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BRB News 360"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oEE2-Sc6sPA",
-            "name": "Patna Student Protest News LIVE: छात्रों पर AK-47 चलाने पर संदीप चौधरी के खुलासे ने हिला दी बीजेपी!",
+            "videoId": "paGDKyxRq1M",
+            "name": "Kangana Ranaut Statement: क्या इस पोस्ट पर माफी मांगेंगी कंगना? | Paper Leak | Breaking",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "maAOSR_uOF4",
+            "name": "Sandeep Chaudhary: Paper Leak पर नया बिल...अब रुकेगी धांधली? विश्लेषकों का सटीक विश्लेषण | BJP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZlFi8Bu-8Sw",
+            "name": "Today Headlines | 28 July 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w41MFxFHQTw",
+            "name": "Sandeep Chaudhary: 'गटर छाप' बयान पर ये क्या बोल गए Congress प्रवक्ता Surendra Rajput? | Kangana",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W_9z6bsKJiI",
+            "name": "LIVE : छात्रों पर AK-47 से फायरिंग, सम्राट चौधरी का बड़ा एक्शन! Bihar Student Protest | Breaking",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XBYfAo75aUc",
+            "name": "Iran America War Update LIVE: ईरान-अमेरिका जंग में कूदे 32 देश ? | NATO | Israel | Trump | Khamenei",
+            "artist": "News18 MP Chhattisgarh"
         }
     ],
     "sourceFilters": {
