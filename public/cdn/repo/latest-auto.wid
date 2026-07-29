@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260729T082837.910Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260729T135430.198Z-l4t35t"
   type: "state"
-  created: "2026-07-29T08:28:37.910Z"
+  created: "2026-07-29T13:54:30.198Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260729T082837.910Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260729T135430.198Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5lUg-jx-21k"
-        name: "Aaj Ki Taaja Khabar LIVE: 29 July 2026 | PM Modi on Paper Leak | Dharmendra Pradhan |CJP | Flood"
-        artist: "Times Now Navbharat"
+        videoId: "jqoSL5AExfk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The ডেইলি খবর "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CzI6juOs_W4"
-        name: "Bangla News Live BBC World News July 29, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "nbcrHujdOdg"
+        name: "Anti Paper Leak Bill Pass in Lok Sabha LIVE: एंटी पेपर लीक बिल लोकसभा में पास | Rahul Gandhi"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_sxaeDyp-PQ"
-        name: "Today Headlines | 29 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "7IE6p-xdfto"
+        name: "🔴LIVE: senthil balaji | DMK | வசமாக சிக்கிய செந்தில் பாலாஜி"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hMG2y20SBO0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "dps_nQfw-e8"
+        name: "Maharashtra Rain Update LIVE | पावसाच्या महत्त्वाच्या बातम्या | Mumbai Rain | Nashik Paus | Monsoon"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UxE2bJ5x7zk"
-        name: "LIVE | Trump-Netanyahu-Zelensky's SECRET MEETING | Next Step Of the 'Iran War' Discussed | N18G"
-        artist: "CNN-News18"
+        videoId: "rnQMxGmaLjs"
+        name: "Bengali News Live BBC World News July 29, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DJXsZD9L9Ow"
-        name: "SC on CJP Protest LIVE: आज की बड़ी खबरें | Iran America War Update | Weather Update | Top News"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "ujlPPPBWHp8"
+        name: "Rahul Gandhi on Amit Shah LIVE: 'शाह ने छात्रों की पीटने का आदेश दिया' | Parliament Monsoon Session"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TkUuun5b0U8"
-        name: "LIVE 🔴 Wisconsin Tornado Aftermath | Trees Uprooted, Thousands Without Power | World News"
-        artist: "MyNation"
+        videoId: "W_0sTW3cads"
+        name: "जंतर-मंतर प्रदर्शन पर नया खुलासा?चौंकाने वाली खबर LIVE | CJP | Delhi Police | Protest | Modi | NDTV"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eQxiiZ9I-P0"
+        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MpeOjD0NOj4"
+        name: "Ajker khobor 29 July 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time bd news"
+        artist: "Desh tv 71"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-29T08:28:37.910Z"
+  exported_at: "2026-07-29T13:54:30.198Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-29T08:28:37.866Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-29T13:54:30.158Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
