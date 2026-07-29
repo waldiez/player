@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-29T13:54:30.158Z",
+    "generatedAt": "2026-07-29T19:04:00.259Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jqoSL5AExfk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The ডেইলি খবর "
+            "videoId": "neKnaVM2ZvI",
+            "name": "BREAKING LIVE: Iran Launches 'Surprise Attack' on U.S. Forces in Middle East | U.S Military Responds",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "nbcrHujdOdg",
-            "name": "Anti Paper Leak Bill Pass in Lok Sabha LIVE: एंटी पेपर लीक बिल लोकसभा में पास | Rahul Gandhi",
-            "artist": "ABP NEWS"
+            "videoId": "Wqntig41jMA",
+            "name": "BREAKING NEWS! Middle East Crisis Escalates | Iran, Israel & US Latest Update | Imran Riaz Khan News",
+            "artist": "IRK News Hub"
         },
         {
             "mood": "storm",
-            "videoId": "7IE6p-xdfto",
-            "name": "🔴LIVE: senthil balaji | DMK | வசமாக சிக்கிய செந்தில் பாலாஜி",
+            "videoId": "U976TpMF208",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ddyfdGvd1g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The Explain Tv"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZOWfCaeWXRw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "dps_nQfw-e8",
-            "name": "Maharashtra Rain Update LIVE | पावसाच्या महत्त्वाच्या बातम्या | Mumbai Rain | Nashik Paus | Monsoon",
-            "artist": "News18 Marathi"
+            "videoId": "zjnHbHJdzKg",
+            "name": "🔴LIVE:  7,000 மாணவர்களுக்கு HIV - கல்லூரிகளுக்கு அவசர உத்தரவு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "rnQMxGmaLjs",
-            "name": "Bengali News Live BBC World News July 29, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "V_b2qCX8Ir0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "ujlPPPBWHp8",
-            "name": "Rahul Gandhi on Amit Shah LIVE: 'शाह ने छात्रों की पीटने का आदेश दिया' | Parliament Monsoon Session",
-            "artist": "ABP NEWS"
+            "videoId": "-6mpKt4QxOM",
+            "name": "🔴LIVE: ஸ்டாலின் தோற்ற கொளத்தூரில் ட்விஸ்ட் - ரிசல்ட் மாறுமா..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "W_0sTW3cads",
-            "name": "जंतर-मंतर प्रदर्शन पर नया खुलासा?चौंकाने वाली खबर LIVE | CJP | Delhi Police | Protest | Modi | NDTV",
+            "videoId": "SIYYS4-AztQ",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "m5KrEjATNSw",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8qDRJTEFx40",
+            "name": "Pakistan News LIVE : पाकिस्तान से आई सबसे दुखद खबर, पूरा विश्व हैरान LIVE | PoK | Munir | Protest",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eQxiiZ9I-P0",
-            "name": "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MpeOjD0NOj4",
-            "name": "Ajker khobor 29 July 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time bd news",
-            "artist": "Desh tv 71"
         }
     ],
     "sourceFilters": {
