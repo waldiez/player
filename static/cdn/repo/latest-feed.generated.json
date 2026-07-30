@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-29T19:04:00.259Z",
+    "generatedAt": "2026-07-30T01:51:24.357Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "neKnaVM2ZvI",
-            "name": "BREAKING LIVE: Iran Launches 'Surprise Attack' on U.S. Forces in Middle East | U.S Military Responds",
-            "artist": "CNN-News18"
+            "videoId": "QTOg8xA3kS8",
+            "name": "Sandeep Chaudhary LIVE: छात्रों की लड़ाई...'IDIOT' और 'अंधभक्त' पर आई? | Rahul Gandhi | Parliament",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Wqntig41jMA",
-            "name": "BREAKING NEWS! Middle East Crisis Escalates | Iran, Israel & US Latest Update | Imran Riaz Khan News",
-            "artist": "IRK News Hub"
+            "videoId": "vua32xiM6K4",
+            "name": "ABC World News Tonight With David Muir 7/29/26 | ABC News Today July 29, 2026 HD",
+            "artist": "GR Music Entertainment"
         },
         {
             "mood": "storm",
-            "videoId": "U976TpMF208",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
-            "artist": "MIRROR NOW"
+            "videoId": "9mLijNbDFmo",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 30 July News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "2ddyfdGvd1g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The Explain Tv"
+            "videoId": "xaoPg9EDeBU",
+            "name": "ABC World News Tonight With David Muir July 29, 2026 | ABC News Today 7/29/26 HD",
+            "artist": "TDigital"
         },
         {
             "mood": "storm",
-            "videoId": "ZOWfCaeWXRw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
-            "artist": "Sathiyam News"
+            "videoId": "4njMh2eu1AM",
+            "name": "ABC World News Tonight With David Muir July 29, 2026 | ABC News Today 7/29/26",
+            "artist": "TDigital"
         },
         {
             "mood": "storm",
-            "videoId": "zjnHbHJdzKg",
-            "name": "🔴LIVE:  7,000 மாணவர்களுக்கு HIV - கல்லூரிகளுக்கு அவசர உத்தரவு",
-            "artist": "Sathiyam News"
+            "videoId": "pbYpnU5_SGw",
+            "name": "🔴LIVE : கொளத்தூரில் EVM சோதனை... மேலும் பரபரப்பு திருப்பம் | MK STALIN | DMK | TVK | CM VIJAY |",
+            "artist": "Gem Television"
         },
         {
             "mood": "storm",
-            "videoId": "V_b2qCX8Ir0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "TK7b45blWf4",
+            "name": "President Trump, Transportation Sec. Duffy make announcement on Dulles International Airport: LIVE",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "-6mpKt4QxOM",
-            "name": "🔴LIVE: ஸ்டாலின் தோற்ற கொளத்தூரில் ட்விஸ்ட் - ரிசல்ட் மாறுமா..?",
-            "artist": "Sathiyam News"
+            "videoId": "TCps_w2LYho",
+            "name": "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ৩০ জুলাই ২০২৬ | News Bulletin | Latest News | News24LIVE",
+            "artist": "NEWS24 LIVE"
         },
         {
             "mood": "storm",
-            "videoId": "SIYYS4-AztQ",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m5KrEjATNSw",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8qDRJTEFx40",
-            "name": "Pakistan News LIVE : पाकिस्तान से आई सबसे दुखद खबर, पूरा विश्व हैरान LIVE | PoK | Munir | Protest",
-            "artist": "NDTV India"
+            "videoId": "b6jj_QjEJoQ",
+            "name": "LIVE: President Trump makes announcement with the Secretary of Transportation",
+            "artist": "FOX 5 New York"
         }
     ],
     "sourceFilters": {
