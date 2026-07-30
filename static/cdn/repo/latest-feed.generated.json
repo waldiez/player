@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-30T13:44:23.240Z",
+    "generatedAt": "2026-07-30T19:15:25.327Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tsZnwiMBUd4",
-            "name": "Chitra Tripathi LIVE: लाठी और पैलेट..सियासी अटैक! | CJP Protest | Rahul Gandhi | Parliament",
+            "videoId": "vnlVW3RdrQM",
+            "name": "🔴 LIVE: Iran US War - Middle East Tension Esclate - World War 3 Alert | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q7mfW62wrKM",
+            "name": "Bankipur Bypolls Voting LIVE: बांकीपुर से जीत रहे हैं प्रशांत किशोर? | Prashant Kishor | Jan Suraj",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TuBwEbN4ghU",
-            "name": "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "PU3PHiUyfTw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.07.2026) | Sathiyam Headlines | NEET | CM Vijay",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "P25NuuUmM4k",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PDqf9R6V9us",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Eg0EwoVzCnM",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Hindi News | PM Modi | Rahul Gandhi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8vJoqyqkdR4",
-            "name": "Iran War LIVE Updates: Trump Launches New Airstrikes In Response To Iran Attack on US Forces",
+            "videoId": "RmIpBDIAvQk",
+            "name": "Iran War: Saudi Arabia Rallies International Coalition To Tackle Houthi Threat In Red Sea",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "5wFHvByLOKI",
-            "name": "Parliament Monsoon Session LIVE: संसद से सीधा लाइव | Parliament New Bill | PM Modi | Rahul Gandhi",
-            "artist": "ABP NEWS"
+            "videoId": "LOMmvUudBdA",
+            "name": "🔴 7/30/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
         },
         {
             "mood": "storm",
-            "videoId": "eD95o6hruMc",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.07.2026) | 2 PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "DSqBK2fOFyI",
+            "name": "🔴LIVE: கொளத்தூரில் ஸ்டாலினுக்கு மீண்டும் அதிர்ச்சி | Kolathur | DMK | MK STALIN | TVK | CM VIJAY |",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "blcqXKJEqWg",
+            "name": "IRAN NEWS LIVE: Iran In Flames After US Strikes? Rear Footage Directly From Iran | US-IRAN War LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qhy53WGl92A",
+            "name": "US-IRAN WAR LIVE : Iran Rocked by Explosions After U.S. Military Launches Fresh Airstrikes",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7XNatAHbzhw",
+            "name": "DEVELOPING: Trump weighs 'GO BIG' Iran attack plan",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XI0y7kl9rws",
+            "name": "🔴 7/30/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
         }
     ],
     "sourceFilters": {
