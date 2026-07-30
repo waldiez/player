@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260730T081256.630Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260730T134423.286Z-l4t35t"
   type: "state"
-  created: "2026-07-30T08:12:56.630Z"
+  created: "2026-07-30T13:44:23.286Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260730T081256.630Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260730T134423.286Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4zsiZKbSanI"
-        name: "US News LIVE | Trump Declares Nuclear War Starts Now? | America On High Alert? | Trump Speech LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0X_LLzwM9gI"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kqkGzlQFA4Y"
-        name: "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CvijRmk1QCo"
-        name: "Bankipur Upchunav Voting LIVE: बांकीपुर में वोटिंग शुरू लगी लंबी लाइन | Prashant Kishor | BJP"
+        videoId: "tsZnwiMBUd4"
+        name: "Chitra Tripathi LIVE: लाठी और पैलेट..सियासी अटैक! | CJP Protest | Rahul Gandhi | Parliament"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d64KyOqDS4s"
+        videoId: "TuBwEbN4ghU"
+        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P25NuuUmM4k"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PDqf9R6V9us"
         name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
         artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KPF87IsgHnI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সব খবর"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yhAiOFUrktg"
-        name: "Today Headlines | 30 JULY  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ACDui_hlQAI"
-        name: "Rahul Gandhi News LIVE: राहुल गांधी ने कर दी बड़ी मांग | RAF Action | Supreme Court | Breaking News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EkWye0yQGrs"
-        name: "Congress Parliament Protest LIVE: संसद परिसर के बाहर कांग्रेस का बड़ा प्रदर्शन | Rahul Gandhi | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IdFjUkWEUmI"
-        name: "Bankipur byelection Voting LIVE: पोलिंग बूथ पर भिड़े BJP और जन सुराज समर्थक | Breaking News | PK"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tROR_61iBrY"
-        name: "Flood News LIVE:  बाढ़-बारिश से खौफनाक तबाही! वीडियो देख रूह कांप जाएगी! | Assam | Gujarat | Delhi"
+        videoId: "Eg0EwoVzCnM"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Hindi News | PM Modi | Rahul Gandhi"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bo-EF2t9qSQ"
-        name: "Bankipur Bypolls 2026 Voting LIVE: 2:30 घंटे की वोटिंग हुई खत्म | Prashant Kishor | Jan Suraj | BJP"
+        videoId: "8vJoqyqkdR4"
+        name: "Iran War LIVE Updates: Trump Launches New Airstrikes In Response To Iran Attack on US Forces"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5wFHvByLOKI"
+        name: "Parliament Monsoon Session LIVE: संसद से सीधा लाइव | Parliament New Bill | PM Modi | Rahul Gandhi"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eD95o6hruMc"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (30.07.2026) | 2 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-30T08:12:56.630Z"
+  exported_at: "2026-07-30T13:44:23.286Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-30T08:12:56.565Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-30T13:44:23.240Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
