@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260730T191525.379Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260731T020937.922Z-l4t35t"
   type: "state"
-  created: "2026-07-30T19:15:25.379Z"
+  created: "2026-07-31T02:09:37.922Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260730T191525.379Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260731T020937.922Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vnlVW3RdrQM"
-        name: "🔴 LIVE: Iran US War - Middle East Tension Esclate - World War 3 Alert | Geo News"
-        artist: "Geo News"
+        videoId: "Itww44bCkLw"
+        name: "WORLD NEWS LIVE: European Commission Holds Daily Briefing in Brussels | Key EU Updates"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q7mfW62wrKM"
-        name: "Bankipur Bypolls Voting LIVE: बांकीपुर से जीत रहे हैं प्रशांत किशोर? | Prashant Kishor | Jan Suraj"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PU3PHiUyfTw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.07.2026) | Sathiyam Headlines | NEET | CM Vijay"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RmIpBDIAvQk"
-        name: "Iran War: Saudi Arabia Rallies International Coalition To Tackle Houthi Threat In Red Sea"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LOMmvUudBdA"
-        name: "🔴 7/30/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DSqBK2fOFyI"
-        name: "🔴LIVE: கொளத்தூரில் ஸ்டாலினுக்கு மீண்டும் அதிர்ச்சி | Kolathur | DMK | MK STALIN | TVK | CM VIJAY |"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "blcqXKJEqWg"
-        name: "IRAN NEWS LIVE: Iran In Flames After US Strikes? Rear Footage Directly From Iran | US-IRAN War LIVE"
+        videoId: "3Fi6nTpaYmI"
+        name: "BREAKING NEWS LIVE: 'TRUMP SIGNS NUKE STRIKE ORDER!' | Trump Speech LIVE | IRAN-US War | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Qhy53WGl92A"
-        name: "US-IRAN WAR LIVE : Iran Rocked by Explosions After U.S. Military Launches Fresh Airstrikes"
-        artist: "CNN-News18"
+        videoId: "VUoGtKZnGRg"
+        name: "Bangla News Live BBC World News July 31, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7XNatAHbzhw"
-        name: "DEVELOPING: Trump weighs 'GO BIG' Iran attack plan"
-        artist: "Fox News"
+        videoId: "jMlGGMlxA8E"
+        name: "TRUMP LIVE: Trump’s Last-Minute Move Shocks The Entire Nation | US News LIVE | IRAN NEWS"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XI0y7kl9rws"
-        name: "🔴 7/30/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
+        videoId: "-ff2L1UEWh0"
+        name: "Janhit with Chitra Tripathi LIVE: आंदोलन का 'Alpha' वर्ज़न! | Parliament | Rahul Gandhi |CJP Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lrUe5iv74Lo"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 31 July News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BVTjIYjzUI4"
+        name: "Sandeep Chaudhary: Anti Paper Leak Bill पर SP प्रवक्ता का चौंकाने वाला दावा! | CJP  | Parliament"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OwRmqHfPhio"
+        name: "France Fire Update LIVE | Wildfire Recovery, Latest Blaze Updates | World News Today | Top News"
+        artist: "Vox Live News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uIb11egexgE"
+        name: "ABC World News Tonight With David Muir 7/30/26 | ABC News Today July 30, 2026"
+        artist: "GR Music Entertainment"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-07-30T19:15:25.379Z"
+  exported_at: "2026-07-31T02:09:37.922Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-07-30T19:15:25.327Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-07-31T02:09:37.884Z"
+  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 41IzHsER-z4 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 65 < 70)"
