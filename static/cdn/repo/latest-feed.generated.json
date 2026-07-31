@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-07-31T02:09:37.884Z",
+    "generatedAt": "2026-07-31T13:49:05.823Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Itww44bCkLw",
-            "name": "WORLD NEWS LIVE: European Commission Holds Daily Briefing in Brussels | Key EU Updates",
-            "artist": "Times Now World"
+            "videoId": "oZrbMEow3Yo",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "3Fi6nTpaYmI",
-            "name": "BREAKING NEWS LIVE: 'TRUMP SIGNS NUKE STRIKE ORDER!' | Trump Speech LIVE | IRAN-US War | US News",
-            "artist": "Times Now"
+            "videoId": "PSAsIW6ZTxw",
+            "name": "Ahmedabad Heavy Rain LIVE | અમદાવાદના આ વિસ્તારો પાણીમાં ગરકાવ | Weather Forecast | Monsoon",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "VUoGtKZnGRg",
+            "videoId": "x0hZIHeVUA8",
+            "name": "Parliament Monsoon Session News LIVE: राहुल गांधी के खिलाफ लोकसभा में विशेषाधिकार हनन नोटिस",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "exCtos1904U",
+            "name": "Maharashtra Rain Update LIVE | पावसाच्या बातम्या, कुठे किती पाऊस? Nashik Rain | Mumbai Rain",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "84m5Nx4fMSA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 31 July 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Television 24 BANGLA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "a3qTkQQqmY8",
+            "name": "Pappu Yadav Parliament News LIVE: पप्पू यादव बन गए साधू!, सांसद देने लगे दान, अचानक छीना-झपटी!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wgYpWWIxB-4",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F0D-EgFUQZA",
+            "name": "BREAKING: US Rejects Iran's F-35 Fighter Jet Destruction Claim | 3PM Headlines Geo News (31 July 26)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IWq0gCWQ8nY",
             "name": "Bangla News Live BBC World News July 31, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "jMlGGMlxA8E",
-            "name": "TRUMP LIVE: Trump’s Last-Minute Move Shocks The Entire Nation | US News LIVE | IRAN NEWS",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-ff2L1UEWh0",
-            "name": "Janhit with Chitra Tripathi LIVE: आंदोलन का 'Alpha' वर्ज़न! | Parliament | Rahul Gandhi |CJP Protest",
+            "videoId": "vhSRkVpTsnY",
+            "name": "Privilege Notice Against Rahul Gandhi LIVE: राहुल गांधी के खिलाफ विशेषाधिकार हनन नोटिस | Lok Sabha",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "lrUe5iv74Lo",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News | 31 July News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BVTjIYjzUI4",
-            "name": "Sandeep Chaudhary: Anti Paper Leak Bill पर SP प्रवक्ता का चौंकाने वाला दावा! | CJP  | Parliament",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OwRmqHfPhio",
-            "name": "France Fire Update LIVE | Wildfire Recovery, Latest Blaze Updates | World News Today | Top News",
-            "artist": "Vox Live News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uIb11egexgE",
-            "name": "ABC World News Tonight With David Muir 7/30/26 | ABC News Today July 30, 2026",
-            "artist": "GR Music Entertainment"
-        },
-        {
-            "mood": "storm",
-            "videoId": "41IzHsER-z4",
-            "name": "What to know about the latest Powerball jackpot",
-            "artist": "ABC News"
+            "videoId": "UwNrC-gygbY",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (31.07.2026)| 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
