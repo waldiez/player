@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260801T130445.043Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260801T185926.476Z-l4t35t"
   type: "state"
-  created: "2026-08-01T13:04:45.043Z"
+  created: "2026-08-01T18:59:26.476Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260801T130445.043Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260801T185926.476Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "mOESd1LchJk"
-        name: "Out Of Focus Live | 01 August 2026"
-        artist: "MediaoneTV Live"
+        videoId: "ABE4seddtpo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IMrOjikUCWA"
-        name: "Nepal Protest LIVE Updates: नेपाल में चारों ओरमचा कत्लेआम..! | Gen-Z Big Protest | PM Balen Shah"
+        videoId: "bPuNiO_b9UA"
+        name: "Sindh Faces Continued Rainfall as Monsoon Spell Persists | Monsoon | 10PM HEADLINES | 01 AUG 2026"
+        artist: "Aaj News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4TRjYpJMnc4"
+        name: "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q1U_jvJ55iI"
+        name: "LIVE: భోగాపురం ఎయిర్‌ పోర్ట్‌ | Bhogapuram Airport Guinness World Record | Mahaa News"
+        artist: "Mahaa News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rFtR3GXQ5gY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (01.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "maniEr9gWLY"
+        name: "🔴LIVE: OPS | MK Stalin | DMK | முடிவு செய்துவிட்டார் OPS..."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Gq8CTCis6Cc"
+        name: "🔴LIVE: MK stalin | CM Vijay | VS Babu | kolathur |மாறுகிறது  ரிசல்ட்? கொளத்தூரில் தேர்தலில் முறைகேடு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VWmN0G4wcLw"
+        name: "LIVE : భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభోత్సవం | Bhogapuram International Airport Inauguration | PM Modi"
+        artist: "Sakshi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JiIicAn3jZ0"
+        name: "TOP News: बड़ी खबरे, फटाफट | PM Modi Video Message | Paper Leak Amendment Bill | CJP Protest | Bihar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OUjcWd1orh0"
-        name: "LIVE: PM Modi To Inaugurate Bhogapuram Airport | Game-Changer for AP | Union Minister Rammohan Naidu"
-        artist: "Zee Telugu News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wd35Qyj4WWg"
-        name: "🔴LIVE: భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభం  | Alluri Sitarama Raju International Airport Opening | ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NxzK2oxCoSM"
-        name: "Superfast 100 News LIVE: 1 अगस्त की वो 11 खबर जिसने हिला दिया पूरा देश! | Aaj Ki 100 Khabar"
+        videoId: "7PCG7D60sxw"
+        name: "Nepal Protest News LIVE: भारत पहुंची नेपाल हिंसा की 'आग'!, हाई अलर्ट पर बिहार! | GEN-Z Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZM6nKoU_4qY"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "KUtkpyJ_aks"
+        name: "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mI1SbXmMVWE"
-        name: "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?"
-        artist: "Times Now World"
+        videoId: "QIXBlMIWIS8"
+        name: "Nepal Violence News LIVE: नेपाल से सामने आए हालात!| Balen Shah | Nepal Police Action | Breaking"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-01T13:04:45.043Z"
+  exported_at: "2026-08-01T18:59:26.476Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-01T13:04:45.004Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-01T18:59:26.431Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"

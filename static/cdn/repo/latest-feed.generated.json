@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-01T13:04:45.004Z",
+    "generatedAt": "2026-08-01T18:59:26.431Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mOESd1LchJk",
-            "name": "Out Of Focus Live | 01 August 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "ABE4seddtpo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "IMrOjikUCWA",
-            "name": "Nepal Protest LIVE Updates: नेपाल में चारों ओरमचा कत्लेआम..! | Gen-Z Big Protest | PM Balen Shah",
+            "videoId": "bPuNiO_b9UA",
+            "name": "Sindh Faces Continued Rainfall as Monsoon Spell Persists | Monsoon | 10PM HEADLINES | 01 AUG 2026",
+            "artist": "Aaj News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4TRjYpJMnc4",
+            "name": "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q1U_jvJ55iI",
+            "name": "LIVE: భోగాపురం ఎయిర్‌ పోర్ట్‌ | Bhogapuram Airport Guinness World Record | Mahaa News",
+            "artist": "Mahaa News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rFtR3GXQ5gY",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (01.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "maniEr9gWLY",
+            "name": "🔴LIVE: OPS | MK Stalin | DMK | முடிவு செய்துவிட்டார் OPS...",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Gq8CTCis6Cc",
+            "name": "🔴LIVE: MK stalin | CM Vijay | VS Babu | kolathur |மாறுகிறது  ரிசல்ட்? கொளத்தூரில் தேர்தலில் முறைகேடு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VWmN0G4wcLw",
+            "name": "LIVE : భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభోత్సవం | Bhogapuram International Airport Inauguration | PM Modi",
+            "artist": "Sakshi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JiIicAn3jZ0",
+            "name": "TOP News: बड़ी खबरे, फटाफट | PM Modi Video Message | Paper Leak Amendment Bill | CJP Protest | Bihar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "OUjcWd1orh0",
-            "name": "LIVE: PM Modi To Inaugurate Bhogapuram Airport | Game-Changer for AP | Union Minister Rammohan Naidu",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wd35Qyj4WWg",
-            "name": "🔴LIVE: భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభం  | Alluri Sitarama Raju International Airport Opening | ABN",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "NxzK2oxCoSM",
-            "name": "Superfast 100 News LIVE: 1 अगस्त की वो 11 खबर जिसने हिला दिया पूरा देश! | Aaj Ki 100 Khabar",
+            "videoId": "7PCG7D60sxw",
+            "name": "Nepal Protest News LIVE: भारत पहुंची नेपाल हिंसा की 'आग'!, हाई अलर्ट पर बिहार! | GEN-Z Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZM6nKoU_4qY",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "KUtkpyJ_aks",
+            "name": "Breaking News LIVE: Pentagon Issues Nuclear Warning To Iran | Pete Hegseth | Trump | US-Iran War",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "mI1SbXmMVWE",
-            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?",
-            "artist": "Times Now World"
+            "videoId": "QIXBlMIWIS8",
+            "name": "Nepal Violence News LIVE: नेपाल से सामने आए हालात!| Balen Shah | Nepal Police Action | Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
