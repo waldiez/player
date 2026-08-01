@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-01T02:11:08.266Z",
+    "generatedAt": "2026-08-01T08:09:42.242Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BCw1q1osTmQ",
-            "name": "PM Modi Video Massage: जंतर-मंतर पर गाली-गलौज करने वालों को PM का संदेश! |Anti Paper Leak Bill | CJP",
+            "videoId": "Q5qd9H9PsP0",
+            "name": "Nepal Gen-Z Protest LIVE: नेपाल फिर बनेगा हिंदू राष्ट्र? PM नेकर दिया साफ... | Protest | Balen Shah",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "TRm3WLIdWCs",
-            "name": "Sandeep Chaudhary LIVE: पहले Gen-Z, अब Gen-Alpha...सुधरेगी शिक्षा व्यवस्था?| CJP Protest | Rahul",
+            "videoId": "rwJ-6mq5jYc",
+            "name": "Nepal Violence News LIVE: नेपाल हिंसा में मारे गए3 लोग, मचा भयंकर गदर! | Balen Shah Speech",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "hk6pkW8kokk",
-            "name": "Sandeep Chaudhary LIVE: न पंखे, न टॉयलेट, न टीचर...बनना है 'दुनिया का लीडर'! | Gen Alpha Protest",
+            "videoId": "b-LF9jhNAuQ",
+            "name": "Superfast 100 News LIVE: अबतक की 100 बड़ी खबरें | Aaj Ki 100 Khabar | Headlines Today | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "OEAQwLupjlU",
-            "name": "Report: Trump orders new strikes on Iran, aimed at getting Tehran to surrender",
-            "artist": "Fox News"
+            "videoId": "znsAtr-I7tA",
+            "name": "Breaking News LIVE: Iran's Biggest Strike on US Tonight? | Fm araghchi Biggest Announcement | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "8FX7SKAwjTY",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News |1 August News",
+            "videoId": "tWb4NrexFlA",
+            "name": "F-35 Fighter Jet Crashes in California: Investigation Underway | 11 AM Headlines Geo News (1 Aug 26)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9V1ZcGQb6W0",
+            "name": "Nepal Violence News LIVE: गिर जाएगी नेपाल में नई GEN-Z सरकार? | Protest | Balen Shah | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "iNTHd_vQIw0",
-            "name": "ABC World News Tonight With David Muir 7/31/26 | ABC News Today July 31, 2026",
-            "artist": "GR Music Entertainment"
+            "videoId": "8Jic11LU5SA",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध पर पल-पल की अपडेट | Netanyahu | Trump | Khamenei",
+            "artist": "News18 Rajasthan"
         },
         {
             "mood": "storm",
-            "videoId": "qxCcNvu87Go",
-            "name": "Headlines Live With World News Report Today July 31st 2026!",
-            "artist": "World News Report Today"
+            "videoId": "Qr1dC6-kck4",
+            "name": "Nepal Protest Latest Update LIVE: नेपाल में सरकार के खिलाफ उतरे GEN-Z, बड़ा बवाल! | Violence",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "HXnxJzL3B1w",
-            "name": "POK Protests LIVE | Pakistan's Defence Minister Khawaja Asif Defends Killing Of 32 PoK Protestors",
-            "artist": "Firstpost"
+            "videoId": "KeEepDfgHDo",
+            "name": "Nepal Protest LIVE: कौन लोग हैं हिंसा के पीछे... जानिए अब कैसे हैं हालात | Nepal PM Statement",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4HOtnGcGvvM",
-            "name": "US IRAN WAR SHOCKING NEWS LIVE | Explosions Reported Near Iran's Bushehr Nuclear Facility | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m5rPxo8slwc",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (31.07.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jis6PDTPMZs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |01 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সব খবর"
+            "videoId": "HQNbLpZV4Gk",
+            "name": "Iran Issues Strong Warning to Israel & the United States | 9 AM Headlines Geo News, (1st Aug 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
