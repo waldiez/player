@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260801T080942.283Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260801T130445.043Z-l4t35t"
   type: "state"
-  created: "2026-08-01T08:09:42.283Z"
+  created: "2026-08-01T13:04:45.043Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260801T080942.283Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260801T130445.043Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q5qd9H9PsP0"
-        name: "Nepal Gen-Z Protest LIVE: नेपाल फिर बनेगा हिंदू राष्ट्र? PM नेकर दिया साफ... | Protest | Balen Shah"
+        videoId: "mOESd1LchJk"
+        name: "Out Of Focus Live | 01 August 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IMrOjikUCWA"
+        name: "Nepal Protest LIVE Updates: नेपाल में चारों ओरमचा कत्लेआम..! | Gen-Z Big Protest | PM Balen Shah"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rwJ-6mq5jYc"
-        name: "Nepal Violence News LIVE: नेपाल हिंसा में मारे गए3 लोग, मचा भयंकर गदर! | Balen Shah Speech"
+        videoId: "OUjcWd1orh0"
+        name: "LIVE: PM Modi To Inaugurate Bhogapuram Airport | Game-Changer for AP | Union Minister Rammohan Naidu"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Wd35Qyj4WWg"
+        name: "🔴LIVE: భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభం  | Alluri Sitarama Raju International Airport Opening | ABN"
+        artist: "ABN Telugu "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NxzK2oxCoSM"
+        name: "Superfast 100 News LIVE: 1 अगस्त की वो 11 खबर जिसने हिला दिया पूरा देश! | Aaj Ki 100 Khabar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b-LF9jhNAuQ"
-        name: "Superfast 100 News LIVE: अबतक की 100 बड़ी खबरें | Aaj Ki 100 Khabar | Headlines Today | Breaking"
-        artist: "ABP NEWS"
+        videoId: "ZM6nKoU_4qY"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "znsAtr-I7tA"
-        name: "Breaking News LIVE: Iran's Biggest Strike on US Tonight? | Fm araghchi Biggest Announcement | Trump"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tWb4NrexFlA"
-        name: "F-35 Fighter Jet Crashes in California: Investigation Underway | 11 AM Headlines Geo News (1 Aug 26)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9V1ZcGQb6W0"
-        name: "Nepal Violence News LIVE: गिर जाएगी नेपाल में नई GEN-Z सरकार? | Protest | Balen Shah | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8Jic11LU5SA"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध पर पल-पल की अपडेट | Netanyahu | Trump | Khamenei"
-        artist: "News18 Rajasthan"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Qr1dC6-kck4"
-        name: "Nepal Protest Latest Update LIVE: नेपाल में सरकार के खिलाफ उतरे GEN-Z, बड़ा बवाल! | Violence"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KeEepDfgHDo"
-        name: "Nepal Protest LIVE: कौन लोग हैं हिंसा के पीछे... जानिए अब कैसे हैं हालात | Nepal PM Statement"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HQNbLpZV4Gk"
-        name: "Iran Issues Strong Warning to Israel & the United States | 9 AM Headlines Geo News, (1st Aug 2026)"
-        artist: "Geo News"
+        videoId: "mI1SbXmMVWE"
+        name: "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?"
+        artist: "Times Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-01T08:09:42.283Z"
+  exported_at: "2026-08-01T13:04:45.043Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-01T08:09:42.242Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-01T13:04:45.004Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"

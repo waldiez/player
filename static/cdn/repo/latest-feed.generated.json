@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-01T08:09:42.242Z",
+    "generatedAt": "2026-08-01T13:04:45.004Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Q5qd9H9PsP0",
-            "name": "Nepal Gen-Z Protest LIVE: नेपाल फिर बनेगा हिंदू राष्ट्र? PM नेकर दिया साफ... | Protest | Balen Shah",
+            "videoId": "mOESd1LchJk",
+            "name": "Out Of Focus Live | 01 August 2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IMrOjikUCWA",
+            "name": "Nepal Protest LIVE Updates: नेपाल में चारों ओरमचा कत्लेआम..! | Gen-Z Big Protest | PM Balen Shah",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "rwJ-6mq5jYc",
-            "name": "Nepal Violence News LIVE: नेपाल हिंसा में मारे गए3 लोग, मचा भयंकर गदर! | Balen Shah Speech",
+            "videoId": "OUjcWd1orh0",
+            "name": "LIVE: PM Modi To Inaugurate Bhogapuram Airport | Game-Changer for AP | Union Minister Rammohan Naidu",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wd35Qyj4WWg",
+            "name": "🔴LIVE: భోగాపురం ఎయిర్ పోర్ట్ ప్రారంభం  | Alluri Sitarama Raju International Airport Opening | ABN",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "NxzK2oxCoSM",
+            "name": "Superfast 100 News LIVE: 1 अगस्त की वो 11 खबर जिसने हिला दिया पूरा देश! | Aaj Ki 100 Khabar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "b-LF9jhNAuQ",
-            "name": "Superfast 100 News LIVE: अबतक की 100 बड़ी खबरें | Aaj Ki 100 Khabar | Headlines Today | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "ZM6nKoU_4qY",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "znsAtr-I7tA",
-            "name": "Breaking News LIVE: Iran's Biggest Strike on US Tonight? | Fm araghchi Biggest Announcement | Trump",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tWb4NrexFlA",
-            "name": "F-35 Fighter Jet Crashes in California: Investigation Underway | 11 AM Headlines Geo News (1 Aug 26)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9V1ZcGQb6W0",
-            "name": "Nepal Violence News LIVE: गिर जाएगी नेपाल में नई GEN-Z सरकार? | Protest | Balen Shah | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8Jic11LU5SA",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध पर पल-पल की अपडेट | Netanyahu | Trump | Khamenei",
-            "artist": "News18 Rajasthan"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Qr1dC6-kck4",
-            "name": "Nepal Protest Latest Update LIVE: नेपाल में सरकार के खिलाफ उतरे GEN-Z, बड़ा बवाल! | Violence",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KeEepDfgHDo",
-            "name": "Nepal Protest LIVE: कौन लोग हैं हिंसा के पीछे... जानिए अब कैसे हैं हालात | Nepal PM Statement",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HQNbLpZV4Gk",
-            "name": "Iran Issues Strong Warning to Israel & the United States | 9 AM Headlines Geo News, (1st Aug 2026)",
-            "artist": "Geo News"
+            "videoId": "mI1SbXmMVWE",
+            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
