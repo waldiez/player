@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260802T130616.120Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260802T190017.360Z-l4t35t"
   type: "state"
-  created: "2026-08-02T13:06:16.120Z"
+  created: "2026-08-02T19:00:17.360Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260802T130616.120Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260802T190017.360Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZRhSJ-Ithew"
-        name: "🔴LIVE: Union Minister Rammohan Naidu Powerful Speech on Bhogapuram Airport || ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U8C960VzN0A"
-        name: "Aaj Ki Taaja Khabar LIVE: 02 August 2026 | Parliament Session | PM Modi | Rahul Gandhi | Amit Shah"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K1EvqCBnYa0"
-        name: "Trump Iran News LIVE | Trump Orders Massive Strikes on Iran | US Iran Latest News | Iran War | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ISfp5pYfPDw"
-        name: "Kulgam Terror Attack News LIVE: कुलगाम आतंकी हमले के बाद यूपी में हाई अलर्ट  | CM Yogi |Kanwar Yatra"
+        videoId: "p53PkoXssv4"
+        name: "Mumbai Local | मुंबई में रफ्तार पर बारिश का ब्रेक! | Latest News | Breaking | News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rfvjq9eaKYE"
-        name: "Superfast 100 News LIVE: मौत बनकर आया2 अगस्त!, गिरने लगी लाशें!, हिल गई दुनिया! | Aaj Ki 100 Khabar"
-        artist: "ABP NEWS"
+        videoId: "vFY41PqWqCw"
+        name: "🔴 08/02/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
+        artist: "The Global Desk"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g5WFPzzXR5g"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
-        artist: "MIRROR NOW"
+        videoId: "NbV67pz6wOU"
+        name: "Breaking News: सांसद Pappu Yadav पर चाकू से हमला? | Purnia MP | Bihar News | Press Conference"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ABE4seddtpo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "dw_pd5LMl74"
+        name: "🔴LIVE: OPS | MK Stalin | DMK | மீண்டுமொரு யுத்தம் - OPS அதிரடி"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4ddP33mdrTk"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 02.08.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "ZmNL0gPfkbU"
+        name: "🔴 LIVE: Cauvery Water | தமிழ்நாட்டிற்கு சீறி பாயும் தண்ணீர்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SmiWPpSbt9c"
-        name: "Trump LIVE | 'World War 3 In…', Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | Watch"
+        videoId: "V8Wcl9mseMU"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XtQtUEctAAQ"
-        name: "Jantar Mantar Protest News LIVE: कोलकात्ता से बड़ी गिरफ्तारी, हो गया बड़ा खुलासा | Pakistan"
-        artist: "ABP NEWS"
+        videoId: "wFXrHiRC66I"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fjD6parYQpg"
-        name: "Big Breaking on Jantar Mantar Protest LIVE: छात्र आंदोलन की आड़ में बड़ी आतंकी साजिश का खुलासा"
-        artist: "ABP NEWS"
+        videoId: "RI2are1jP6A"
+        name: "US IRAN WAR LIVE | 'Be Ready To Leave': US Issues Stark Warning Amid Escalating Iran Crisis | Trump"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XE2NZhjI1p0"
+        name: "AJK Election 2026 Phase 2 - Latest Update | Geo News 9PM Headlines 2 August 26"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "h4WJsxRzQds"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NewsEye"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-02T13:06:16.120Z"
+  exported_at: "2026-08-02T19:00:17.360Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-02T13:06:16.075Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-02T19:00:17.312Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
