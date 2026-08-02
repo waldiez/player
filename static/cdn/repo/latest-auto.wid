@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260802T020814.703Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260802T081121.274Z-l4t35t"
   type: "state"
-  created: "2026-08-02T02:08:14.703Z"
+  created: "2026-08-02T08:11:21.274Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260802T020814.703Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260802T081121.274Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "kN7MyXS4kwM"
-        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
-        artist: "News18 Urdu"
+        videoId: "Ya1Hw2XnyoA"
+        name: "Morning News LIVE | Peru plane crash | Assam flood update | CM relief to flood victim | Assam Census"
+        artist: "News18 Assam/Northeast"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R69DS0vG8Kg"
-        name: "Trump LIVE | 'World War 3 In…', Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | Watch"
+        videoId: "8Su6uBDqTTQ"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y05GpN39a0w"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yJECdTQx3eg"
-        name: "Sandeep Chaudhary LIVE: PM ने किया माफ...BJP बोले 'बाबर छाप'! | PM Modi Message | GEN-Z Video"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Iy-KK3epquo"
-        name: "Aaj Ki 100 Khabar LIVE: फटाफट अंदाज में 100 खबरें | Headlines Today | Top News | Hindi News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J6GCZr_-uL8"
-        name: "Today's Headlines | 02 AUG 2026 | காலை தலைப்புச் செய்திகள் | Morning Headlines |Tamil News |CM vijay"
+        videoId: "WmGB5NKPCz0"
+        name: "Today Headlines | 02 AUG  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FFBvW4jnY_o"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News | Hindi News |2 August News"
+        videoId: "1_cogGax_80"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cI455kWkfvc"
+        name: "Breaking News LIVE: आज की बड़ी खबरें | Iran America War Update | Weather Update | Top News |N18V"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CJ6wVuIyJ9M"
+        name: "Big Breaking on Jantar Mantar Protest LIVE: छात्र आंदोलन की आड़ में बड़ी आतंकी साजिश का खुलासा"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AA3jFHC3d10"
-        name: "Horrific Plane Crash | 13 People Kille*d | 4 AM Headlines Geo News (2nd Aug 2026)"
+        videoId: "xKTkjLU_UcA"
+        name: "Breaking News: LA-27 Muzaffarabad Polling Postponed | Geo News 10AM Headlines 2nd August 2026"
         artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wEkcM3fediI"
-        name: "ABC World News Tonight with David Muir August 1, 2026 | ABC News Today 08/01/26"
-        artist: "GR Music Entertainment"
+        videoId: "C3oyxCSTNew"
+        name: "US IRAN WAR LIVE | Trump’s Iran Bombshell: US Strike Ready, But Attack Halted Over Deal Talks | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EOCoXtAGptA"
-        name: "ABC World News Tonight with David Muir 8/1/26 | ABC News Today August 1, 2026"
-        artist: "GR Music Entertainment"
+        videoId: "dwFDYZX0CLc"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 02.08.2026 | Today News | Live News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Xzs7N1K7VYA"
-        name: "US WAR LIVE: Trump Orders Fresh Strikes On Iran Within Days | Iranian Nuclear Sites on Target?"
-        artist: "Firstpost"
+        videoId: "c64aKuexk8c"
+        name: "US Iran War Latest News LIVE | Trump Eyes Exit From Iran War As Tehran Escalates Attacks | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-02T02:08:14.703Z"
+  exported_at: "2026-08-02T08:11:21.274Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-02T02:08:14.656Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-02T08:11:21.232Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
