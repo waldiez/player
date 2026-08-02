@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-02T08:11:21.232Z",
+    "generatedAt": "2026-08-02T13:06:16.075Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ya1Hw2XnyoA",
-            "name": "Morning News LIVE | Peru plane crash | Assam flood update | CM relief to flood victim | Assam Census",
-            "artist": "News18 Assam/Northeast"
+            "videoId": "ZRhSJ-Ithew",
+            "name": "🔴LIVE: Union Minister Rammohan Naidu Powerful Speech on Bhogapuram Airport || ABN",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "8Su6uBDqTTQ",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
+            "videoId": "U8C960VzN0A",
+            "name": "Aaj Ki Taaja Khabar LIVE: 02 August 2026 | Parliament Session | PM Modi | Rahul Gandhi | Amit Shah",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "WmGB5NKPCz0",
-            "name": "Today Headlines | 02 AUG  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "K1EvqCBnYa0",
+            "name": "Trump Iran News LIVE | Trump Orders Massive Strikes on Iran | US Iran Latest News | Iran War | N18G",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "1_cogGax_80",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cI455kWkfvc",
-            "name": "Breaking News LIVE: आज की बड़ी खबरें | Iran America War Update | Weather Update | Top News |N18V",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CJ6wVuIyJ9M",
-            "name": "Big Breaking on Jantar Mantar Protest LIVE: छात्र आंदोलन की आड़ में बड़ी आतंकी साजिश का खुलासा",
+            "videoId": "ISfp5pYfPDw",
+            "name": "Kulgam Terror Attack News LIVE: कुलगाम आतंकी हमले के बाद यूपी में हाई अलर्ट  | CM Yogi |Kanwar Yatra",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xKTkjLU_UcA",
-            "name": "Breaking News: LA-27 Muzaffarabad Polling Postponed | Geo News 10AM Headlines 2nd August 2026",
-            "artist": "Geo News"
+            "videoId": "rfvjq9eaKYE",
+            "name": "Superfast 100 News LIVE: मौत बनकर आया2 अगस्त!, गिरने लगी लाशें!, हिल गई दुनिया! | Aaj Ki 100 Khabar",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "C3oyxCSTNew",
-            "name": "US IRAN WAR LIVE | Trump’s Iran Bombshell: US Strike Ready, But Attack Halted Over Deal Talks | N18G",
-            "artist": "CNN-News18"
+            "videoId": "g5WFPzzXR5g",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "dwFDYZX0CLc",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 02.08.2026 | Today News | Live News | Ajker News | ATN Bangla News",
+            "videoId": "ABE4seddtpo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4ddP33mdrTk",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 02.08.2026 | Today News | Ajker News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "c64aKuexk8c",
-            "name": "US Iran War Latest News LIVE | Trump Eyes Exit From Iran War As Tehran Escalates Attacks | N18G",
-            "artist": "CNN-News18"
+            "videoId": "SmiWPpSbt9c",
+            "name": "Trump LIVE | 'World War 3 In…', Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | Watch",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XtQtUEctAAQ",
+            "name": "Jantar Mantar Protest News LIVE: कोलकात्ता से बड़ी गिरफ्तारी, हो गया बड़ा खुलासा | Pakistan",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fjD6parYQpg",
+            "name": "Big Breaking on Jantar Mantar Protest LIVE: छात्र आंदोलन की आड़ में बड़ी आतंकी साजिश का खुलासा",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
