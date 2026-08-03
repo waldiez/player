@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-03T09:31:28.585Z",
+    "generatedAt": "2026-08-03T14:24:42.023Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "fZYzSapXIXM",
-            "name": "Bankipur By Election Result 2026 News LIVE: प्रशांत किशोर ने दसवें राउंड में बीजेपी को पछाड़ा!",
+            "videoId": "L_Xi4_s04K0",
+            "name": "Sandeep Chaudhary LIVE: BJP को बिहार में झटका..राजनीति का खेल अटका? | Bankipur By Election Result",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "M4XlQJ-RZTw",
-            "name": "Bankipur By Election Result 2026 News LIVE: बीजेपी के गढ़ में प्रशांत किशोर ने लगाई सेंध! | Breaking",
+            "videoId": "PV40bFzR4Ew",
+            "name": "Bankipur By Election Result 2026 LIVE: BJP का किला ढहाने के बाद PK का पहला बयान | BJP | ABP News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "-D9_99X775s",
-            "name": "US Iran War LIVE | Iran Declares Victory As Trump Pauses Strikes | US Iran Latest News | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "egroJ0vKDHQ",
-            "name": "Bankipur By Election Result 2026 Live : बांकीपुर उपचुनाव के नतीजे | Prashant Kishor | BJP | RJD",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OJWNOfGBSJg",
-            "name": "Bankipur By Election Result 2026 LIVE: पलट गया बांकीपुर का पूरा उपचुनाव! | Prashant Kishor",
+            "videoId": "Si7HhW57O4k",
+            "name": "Chitra Tripathi LIVE: हारकर जीते' बाजीगर PK'! | Bankipur By Election Result | Prashant Kishor | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "pMkx5zxOmFE",
-            "name": "Bankipur By Election Result 2026 News LIVE: नौ राउंड जीतने के बाद अचानक LIVE आए प्रशांत किशोर!",
+            "videoId": "m8RPR8_01jI",
+            "name": "Prashant Kishor Won Bankipur Bypoll LIVE: PK की बड़ी जीत! बांकीपुर से सीधा LIVE | BJP | Jan Suraaj",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "EtUDGlQ-W3w",
-            "name": "Aaj Ki Taaja Khabar LIVE: 03 August 2026 | Pappu Yadav | PM Modi | Rahul Gandhi | Amit Shah",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oTd8qxgDVEE",
-            "name": "Superfast 100 News LIVE: मौत बनकर आया 3 अगस्त!, गिरने लगी लाशें!, हिल गई दुनिया! | Aaj Ki 100 Khabar",
+            "videoId": "FxTyunA15WY",
+            "name": "Bankipur By Election Result 2026 LIVE: प्रशांत किशोर की आंधी में उड़ गई बीजेपी!, नौवें राउंड में आगे",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bnfy-lU3_qo",
-            "name": "Datia By Election Result LIVE: दतिया में अचानक Congress ने पलटा गेम! LIVE | Narottam Mishra | BJP",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "V0DSiiXDGf4",
+            "name": "US IRAN WAR LIVE | Trump Announces Fresh US-Iran Talks After Calling Off Major Strike | World News",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Jcf_WEMwd-M",
+            "name": "Bankipur By Election Result 2026 LIVE: BJP के हाथ से निकला बांकीपुर? | Prashant Kishor | ABP News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ViQ4LTwgsTo",
+            "name": "EXPLOSION reported in Strait of Hormuz as Trump aborts MAJOR Iran attack",
+            "artist": "Fox News"
         }
     ],
     "sourceFilters": {
