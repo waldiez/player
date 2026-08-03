@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260803T021034.676Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260803T093128.635Z-l4t35t"
   type: "state"
-  created: "2026-08-03T02:10:34.676Z"
+  created: "2026-08-03T09:31:28.635Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260803T021034.676Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260803T093128.635Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QmInAe2l1lY"
-        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QoHInmZr2Ok"
-        name: "Sandeep Chaudhary LIVE: चढ़ावा चोरी हो गया...'की करिए की करिए'! | Pappu Yadav | BJP | Ram Mandir"
+        videoId: "fZYzSapXIXM"
+        name: "Bankipur By Election Result 2026 News LIVE: प्रशांत किशोर ने दसवें राउंड में बीजेपी को पछाड़ा!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ik_TrZ2kCrU"
-        name: "US IRAN NEWS LIVE | Breaking Announcement On Iran War; Strait Of Hormuz To Reopen Immediately"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fs7mnx2ijzQ"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 3 August News"
+        videoId: "M4XlQJ-RZTw"
+        name: "Bankipur By Election Result 2026 News LIVE: बीजेपी के गढ़ में प्रशांत किशोर ने लगाई सेंध! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nQIaaY154AE"
-        name: "Donald Trump LIVE | US President Drops BOMBSHELL; Declares Emergency Warning In America | US News"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jlLVRWpVbjc"
-        name: "🔴 08/02/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rX1-dCfqwXA"
-        name: "ABC World News Tonight With David Muir 8/2/26 | ABC News Today August 2, 2026"
-        artist: "GR Music Entertainment"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "C3oyxCSTNew"
-        name: "US IRAN WAR LIVE | Trump’s Iran Bombshell: US Strike Ready, But Attack Halted Over Deal Talks | N18G"
+        videoId: "-D9_99X775s"
+        name: "US Iran War LIVE | Iran Declares Victory As Trump Pauses Strikes | US Iran Latest News | N18G"
         artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HUjKdKiib18"
-        name: "🔴 08/02/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines"
-        artist: "The Global Desk"
+        videoId: "egroJ0vKDHQ"
+        name: "Bankipur By Election Result 2026 Live : बांकीपुर उपचुनाव के नतीजे | Prashant Kishor | BJP | RJD"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OJWNOfGBSJg"
+        name: "Bankipur By Election Result 2026 LIVE: पलट गया बांकीपुर का पूरा उपचुनाव! | Prashant Kishor"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pMkx5zxOmFE"
+        name: "Bankipur By Election Result 2026 News LIVE: नौ राउंड जीतने के बाद अचानक LIVE आए प्रशांत किशोर!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EtUDGlQ-W3w"
+        name: "Aaj Ki Taaja Khabar LIVE: 03 August 2026 | Pappu Yadav | PM Modi | Rahul Gandhi | Amit Shah"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oTd8qxgDVEE"
+        name: "Superfast 100 News LIVE: मौत बनकर आया 3 अगस्त!, गिरने लगी लाशें!, हिल गई दुनिया! | Aaj Ki 100 Khabar"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bnfy-lU3_qo"
+        name: "Datia By Election Result LIVE: दतिया में अचानक Congress ने पलटा गेम! LIVE | Narottam Mishra | BJP"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-03T02:10:34.676Z"
+  exported_at: "2026-08-03T09:31:28.635Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-03T02:10:34.634Z"
+  source_generated_at: "2026-08-03T09:31:28.585Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
