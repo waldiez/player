@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-02T19:00:17.312Z",
+    "generatedAt": "2026-08-03T02:10:34.634Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "p53PkoXssv4",
-            "name": "Mumbai Local | मुंबई में रफ्तार पर बारिश का ब्रेक! | Latest News | Breaking | News",
+            "videoId": "QmInAe2l1lY",
+            "name": "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QoHInmZr2Ok",
+            "name": "Sandeep Chaudhary LIVE: चढ़ावा चोरी हो गया...'की करिए की करिए'! | Pappu Yadav | BJP | Ram Mandir",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vFY41PqWqCw",
+            "videoId": "Ik_TrZ2kCrU",
+            "name": "US IRAN NEWS LIVE | Breaking Announcement On Iran War; Strait Of Hormuz To Reopen Immediately",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fs7mnx2ijzQ",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 3 August News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nQIaaY154AE",
+            "name": "Donald Trump LIVE | US President Drops BOMBSHELL; Declares Emergency Warning In America | US News",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jlLVRWpVbjc",
             "name": "🔴 08/02/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
             "artist": "The Global Desk"
         },
         {
             "mood": "storm",
-            "videoId": "NbV67pz6wOU",
-            "name": "Breaking News: सांसद Pappu Yadav पर चाकू से हमला? | Purnia MP | Bihar News | Press Conference",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "rX1-dCfqwXA",
+            "name": "ABC World News Tonight With David Muir 8/2/26 | ABC News Today August 2, 2026",
+            "artist": "GR Music Entertainment"
         },
         {
             "mood": "storm",
-            "videoId": "dw_pd5LMl74",
-            "name": "🔴LIVE: OPS | MK Stalin | DMK | மீண்டுமொரு யுத்தம் - OPS அதிரடி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZmNL0gPfkbU",
-            "name": "🔴 LIVE: Cauvery Water | தமிழ்நாட்டிற்கு சீறி பாயும் தண்ணீர்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V8Wcl9mseMU",
-            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wFXrHiRC66I",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RI2are1jP6A",
-            "name": "US IRAN WAR LIVE | 'Be Ready To Leave': US Issues Stark Warning Amid Escalating Iran Crisis | Trump",
+            "videoId": "C3oyxCSTNew",
+            "name": "US IRAN WAR LIVE | Trump’s Iran Bombshell: US Strike Ready, But Attack Halted Over Deal Talks | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "XE2NZhjI1p0",
-            "name": "AJK Election 2026 Phase 2 - Latest Update | Geo News 9PM Headlines 2 August 26",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "h4WJsxRzQds",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NewsEye"
+            "videoId": "HUjKdKiib18",
+            "name": "🔴 08/02/26 | LIVE Breaking News 24/7 | Latest World News, US News & Global Headlines",
+            "artist": "The Global Desk"
         }
     ],
     "sourceFilters": {
