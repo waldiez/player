@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-03T14:24:42.023Z",
+    "generatedAt": "2026-08-03T19:22:55.834Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "L_Xi4_s04K0",
-            "name": "Sandeep Chaudhary LIVE: BJP को बिहार में झटका..राजनीति का खेल अटका? | Bankipur By Election Result",
+            "videoId": "m1L-dPo84S0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_NTwNkAFbIs",
+            "name": "🟠Gujarat News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News| News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XsGZjwChNhw",
+            "name": "🔴LIVE: CM Vijay | TVK | OPS | தவெகவில் இணைகிறாரா ஓபிஎஸ்? விஜய் போட்ட அதிரடி கண்டிஷன்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-dU5M3s6xik",
+            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pHU0dYGrqpE",
+            "name": "Trump Live | Donald Trump's Nuclear Message Stuns Iran | US-Iran War | White House | Hormuz",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D_IU1g8lt-o",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : BJP अध्यक्ष की सीट जीते PK | Bankipur | Datia",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LDmArqRv5N4",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 03 August 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hSDPFVSkC6E",
+            "name": "Bankipur Election Result 2026 LIVE: बांकीपुर से जीतगए प्रशांत किशोर | Prashant Kishor | Big Breaking",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PV40bFzR4Ew",
-            "name": "Bankipur By Election Result 2026 LIVE: BJP का किला ढहाने के बाद PK का पहला बयान | BJP | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Si7HhW57O4k",
-            "name": "Chitra Tripathi LIVE: हारकर जीते' बाजीगर PK'! | Bankipur By Election Result | Prashant Kishor | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m8RPR8_01jI",
-            "name": "Prashant Kishor Won Bankipur Bypoll LIVE: PK की बड़ी जीत! बांकीपुर से सीधा LIVE | BJP | Jan Suraaj",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FxTyunA15WY",
-            "name": "Bankipur By Election Result 2026 LIVE: प्रशांत किशोर की आंधी में उड़ गई बीजेपी!, नौवें राउंड में आगे",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V0DSiiXDGf4",
-            "name": "US IRAN WAR LIVE | Trump Announces Fresh US-Iran Talks After Calling Off Major Strike | World News",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Jcf_WEMwd-M",
-            "name": "Bankipur By Election Result 2026 LIVE: BJP के हाथ से निकला बांकीपुर? | Prashant Kishor | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ViQ4LTwgsTo",
-            "name": "EXPLOSION reported in Strait of Hormuz as Trump aborts MAJOR Iran attack",
-            "artist": "Fox News"
         }
     ],
     "sourceFilters": {

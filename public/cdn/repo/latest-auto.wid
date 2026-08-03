@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260803T142442.070Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260803T192255.885Z-l4t35t"
   type: "state"
-  created: "2026-08-03T14:24:42.070Z"
+  created: "2026-08-03T19:22:55.885Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260803T142442.070Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260803T192255.885Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "L_Xi4_s04K0"
-        name: "Sandeep Chaudhary LIVE: BJP को बिहार में झटका..राजनीति का खेल अटका? | Bankipur By Election Result"
+        videoId: "m1L-dPo84S0"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_NTwNkAFbIs"
+        name: "🟠Gujarat News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News| News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XsGZjwChNhw"
+        name: "🔴LIVE: CM Vijay | TVK | OPS | தவெகவில் இணைகிறாரா ஓபிஎஸ்? விஜய் போட்ட அதிரடி கண்டிஷன்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-dU5M3s6xik"
+        name: "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pHU0dYGrqpE"
+        name: "Trump Live | Donald Trump's Nuclear Message Stuns Iran | US-Iran War | White House | Hormuz"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D_IU1g8lt-o"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : BJP अध्यक्ष की सीट जीते PK | Bankipur | Datia"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LDmArqRv5N4"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 03 August 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hSDPFVSkC6E"
+        name: "Bankipur Election Result 2026 LIVE: बांकीपुर से जीतगए प्रशांत किशोर | Prashant Kishor | Big Breaking"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PV40bFzR4Ew"
-        name: "Bankipur By Election Result 2026 LIVE: BJP का किला ढहाने के बाद PK का पहला बयान | BJP | ABP News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Si7HhW57O4k"
-        name: "Chitra Tripathi LIVE: हारकर जीते' बाजीगर PK'! | Bankipur By Election Result | Prashant Kishor | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m8RPR8_01jI"
-        name: "Prashant Kishor Won Bankipur Bypoll LIVE: PK की बड़ी जीत! बांकीपुर से सीधा LIVE | BJP | Jan Suraaj"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FxTyunA15WY"
-        name: "Bankipur By Election Result 2026 LIVE: प्रशांत किशोर की आंधी में उड़ गई बीजेपी!, नौवें राउंड में आगे"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V0DSiiXDGf4"
-        name: "US IRAN WAR LIVE | Trump Announces Fresh US-Iran Talks After Calling Off Major Strike | World News"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Jcf_WEMwd-M"
-        name: "Bankipur By Election Result 2026 LIVE: BJP के हाथ से निकला बांकीपुर? | Prashant Kishor | ABP News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ViQ4LTwgsTo"
-        name: "EXPLOSION reported in Strait of Hormuz as Trump aborts MAJOR Iran attack"
-        artist: "Fox News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-03T14:24:42.070Z"
+  exported_at: "2026-08-03T19:22:55.885Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-03T14:24:42.023Z"
+  source_generated_at: "2026-08-03T19:22:55.834Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
