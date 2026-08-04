@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260804T015607.793Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260804T082641.968Z-l4t35t"
   type: "state"
-  created: "2026-08-04T01:56:07.793Z"
+  created: "2026-08-04T08:26:41.968Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260804T015607.793Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260804T082641.968Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,62 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WJkBZ5K3Vbc"
-        name: "Trump Signs Orders LIVE | 'I'd Like To Buy...': Trump Accepts Iran's Offer; US To Ditch Netanyahu?"
+        videoId: "KIZ8LSJOJoE"
+        name: "US-Iran War LIVE | TRUMP'S WW3 WARNING: US Halts 'Biggest Attack Since WWII' On Iran | World News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lyAbP1CGNm4"
-        name: "ABC World News Tonight With David Muir 8/3/26 | ABC News Today August 3, 2026"
-        artist: "GR Music Entertainment"
+        videoId: "yEaF2Mfksys"
+        name: "US Iran War Live: Trump Says Iran Talks Ongoing, Calls It ‘Last Chance’; Tehran Denies Claim"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BC3bwyHXGUA"
-        name: "World News Live | Trump Pushes New Hamas Deal | Is A Historic Breakthrough Near?"
-        artist: "Times Now Plus"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QricM25Bo8A"
-        name: "US IRAN WAR NEWS LIVE | US-Iran Crisis Takes New Turn As Talks Restart Over War Concerns | Trump"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ALx53Euq4S4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (03.08.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ScpQTGlOOiI"
-        name: "President Trump signs executive order in the Oval Office: LIVE"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9n6zfdDaxTg"
-        name: "Mumbai Local | सैलाब में बच्चों के लिए 'देवदूत'! | Latest News | Breaking | News"
+        videoId: "k22OJ7T58U0"
+        name: "Bankipur By Election Result 2026 News LIVE: अकेले प्रशांत किशोर बीजेपी पर पड़े भारी!| Breaking | BJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DnJsk8moq9o"
-        name: "How much of the world is on fire right now? | BBC News"
-        artist: "BBC News"
+        videoId: "BUFaiPr8P1A"
+        name: "Bankipur By Election Result 2026 News LIVE: जीत गए प्रशांतकिशोर, हार गई बीजेपी | Big Breaking | BJP"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uda4v3SZZFA"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ | 03.08.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "PbczHR7I3rI"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GKSvHbquu-E"
+        name: "🔴LIVE: DMK | udhayanidhi | உதயநிதி கைது - MKS எடுத்த முடிவு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DLR9PmxN-Ec"
+        name: "Jharkhand Student Protest News LIVE: पेपर लीक से हड़कंप!| JSSC Exam | Hemant Soren | CJP | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iVO6Je23wXY"
+        name: "U.S. vs Iran LIVE: Pentagon Discloses Nearly 100 US Troops Injured In Strikes | Middle East Crisis"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7G-6nOksq4k"
+        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ আগস্ট ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4Ew4r1Sre6c"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 04.08.2026 | Today News | Live News | Ajker News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-04T01:56:07.793Z"
+  exported_at: "2026-08-04T08:26:41.968Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-04T01:56:07.759Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-04T08:26:41.934Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
