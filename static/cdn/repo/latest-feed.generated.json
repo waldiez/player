@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-04T13:54:55.890Z",
+    "generatedAt": "2026-08-04T19:22:00.487Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xEdEQvGzZjs",
-            "name": "🔴LIVE: DMK | udhayanidhi | கோர்ட்டில் கிழித்தெடுத்த திமுக வழக்கறிஞர் - உதயநிதி வழக்கில் ட்விஸ்ட்",
-            "artist": "Sathiyam News"
+            "videoId": "5Q-6sCvfo4w",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "FjZM5pQ42Mc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "ZeihUXBSULE",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : कांवड़ में बवाल पर भड़के Yogi | Akhilesh | Modi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "-QYhrFU-ihg",
-            "name": "Trump LIVE | 'World War 3 In…', Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | Watch",
-            "artist": "Times Now"
+            "videoId": "qWH9dOOywuY",
+            "name": "Iran-America War LIVE : ईरान से डरे ट्रंप, भागे US सैनिक | Trump | Mujtaba Khamenei | Missile Attack",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "YVOHjnfRFuk",
-            "name": "🔴LIVE : Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (04.08.2026) | 4 PM Headlines | ThanthiTV",
+            "videoId": "BxEn8dYL-8c",
+            "name": "US Senate Judiciary Committee votes on Blanche nomination | US NEWS LIVE | WORLD NEWS",
+            "artist": "The Financial Express"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZLnE_XuGKvs",
+            "name": "🔴LIVE : Udhayanidhi stalin | DMK | தஞ்சையை குலுங்கவிட்ட திமுக தொண்டர்கள் - பிரமாண்ட பேரணி",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "4I3lPO-ohKA",
-            "name": "Bengali News Live BBC World News August 04, 2026 || World News Bangla || International News Today",
+            "videoId": "oP2i-Fw8me4",
+            "name": "Bangla News Live BBC World News August 04, 2026 || World News Bangla || International News Today",
             "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "c0XEk1v_n8o",
-            "name": "🔴LIVE: DMK | udhayanidhi | உதயநிதி கைது வழக்கு - கடைசியில் நடந்த ட்விஸ்ட்",
-            "artist": "Sathiyam News"
+            "videoId": "iNA2wcPUx5Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 4 August  | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Television 24 BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "QSr10ygPRlc",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.08.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "xQYSeu81UJQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "0uKilpIOw70",
-            "name": "🔴LIVE: DMK | udhayanidhi | உதயநிதியை தூக்கிய போலீஸ்.. கைதின் பரபரப்பு காட்சிகள்",
-            "artist": "Sathiyam News"
+            "videoId": "tMYVFioSwK0",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
