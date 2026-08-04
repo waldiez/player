@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-04T08:26:41.934Z",
+    "generatedAt": "2026-08-04T13:54:55.890Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KIZ8LSJOJoE",
-            "name": "US-Iran War LIVE | TRUMP'S WW3 WARNING: US Halts 'Biggest Attack Since WWII' On Iran | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yEaF2Mfksys",
-            "name": "US Iran War Live: Trump Says Iran Talks Ongoing, Calls It ‘Last Chance’; Tehran Denies Claim",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k22OJ7T58U0",
-            "name": "Bankipur By Election Result 2026 News LIVE: अकेले प्रशांत किशोर बीजेपी पर पड़े भारी!| Breaking | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BUFaiPr8P1A",
-            "name": "Bankipur By Election Result 2026 News LIVE: जीत गए प्रशांतकिशोर, हार गई बीजेपी | Big Breaking | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PbczHR7I3rI",
-            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GKSvHbquu-E",
-            "name": "🔴LIVE: DMK | udhayanidhi | உதயநிதி கைது - MKS எடுத்த முடிவு",
+            "videoId": "xEdEQvGzZjs",
+            "name": "🔴LIVE: DMK | udhayanidhi | கோர்ட்டில் கிழித்தெடுத்த திமுக வழக்கறிஞர் - உதயநிதி வழக்கில் ட்விஸ்ட்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "DLR9PmxN-Ec",
-            "name": "Jharkhand Student Protest News LIVE: पेपर लीक से हड़कंप!| JSSC Exam | Hemant Soren | CJP | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "FjZM5pQ42Mc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "iVO6Je23wXY",
-            "name": "U.S. vs Iran LIVE: Pentagon Discloses Nearly 100 US Troops Injured In Strikes | Middle East Crisis",
-            "artist": "News18 Urdu"
+            "videoId": "-QYhrFU-ihg",
+            "name": "Trump LIVE | 'World War 3 In…', Trump STUNNING Nuclear Warning Shocks World, Iran, Israel | Watch",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "7G-6nOksq4k",
-            "name": "আন্তর্জাতিক সময় | সকাল ৯টা | ৪ আগস্ট ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
-            "artist": "SOMOY TV Bulletin"
+            "videoId": "YVOHjnfRFuk",
+            "name": "🔴LIVE : Today Headlines | மாலை 4 மணி தலைப்புச் செய்திகள் (04.08.2026) | 4 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "4Ew4r1Sre6c",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 04.08.2026 | Today News | Live News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "4I3lPO-ohKA",
+            "name": "Bengali News Live BBC World News August 04, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "c0XEk1v_n8o",
+            "name": "🔴LIVE: DMK | udhayanidhi | உதயநிதி கைது வழக்கு - கடைசியில் நடந்த ட்விஸ்ட்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QSr10ygPRlc",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.08.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0uKilpIOw70",
+            "name": "🔴LIVE: DMK | udhayanidhi | உதயநிதியை தூக்கிய போலீஸ்.. கைதின் பரபரப்பு காட்சிகள்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
