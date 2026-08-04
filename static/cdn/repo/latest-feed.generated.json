@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-03T19:22:55.834Z",
+    "generatedAt": "2026-08-04T01:56:07.759Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "m1L-dPo84S0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_NTwNkAFbIs",
-            "name": "🟠Gujarat News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News| News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XsGZjwChNhw",
-            "name": "🔴LIVE: CM Vijay | TVK | OPS | தவெகவில் இணைகிறாரா ஓபிஎஸ்? விஜய் போட்ட அதிரடி கண்டிஷன்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-dU5M3s6xik",
-            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pHU0dYGrqpE",
-            "name": "Trump Live | Donald Trump's Nuclear Message Stuns Iran | US-Iran War | White House | Hormuz",
+            "videoId": "WJkBZ5K3Vbc",
+            "name": "Trump Signs Orders LIVE | 'I'd Like To Buy...': Trump Accepts Iran's Offer; US To Ditch Netanyahu?",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "D_IU1g8lt-o",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : BJP अध्यक्ष की सीट जीते PK | Bankipur | Datia",
-            "artist": "NDTV India"
+            "videoId": "lyAbP1CGNm4",
+            "name": "ABC World News Tonight With David Muir 8/3/26 | ABC News Today August 3, 2026",
+            "artist": "GR Music Entertainment"
         },
         {
             "mood": "storm",
-            "videoId": "LDmArqRv5N4",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 03 August 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "BC3bwyHXGUA",
+            "name": "World News Live | Trump Pushes New Hamas Deal | Is A Historic Breakthrough Near?",
+            "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "hSDPFVSkC6E",
-            "name": "Bankipur Election Result 2026 LIVE: बांकीपुर से जीतगए प्रशांत किशोर | Prashant Kishor | Big Breaking",
+            "videoId": "QricM25Bo8A",
+            "name": "US IRAN WAR NEWS LIVE | US-Iran Crisis Takes New Turn As Talks Restart Over War Concerns | Trump",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ALx53Euq4S4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (03.08.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ScpQTGlOOiI",
+            "name": "President Trump signs executive order in the Oval Office: LIVE",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9n6zfdDaxTg",
+            "name": "Mumbai Local | सैलाब में बच्चों के लिए 'देवदूत'! | Latest News | Breaking | News",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DnJsk8moq9o",
+            "name": "How much of the world is on fire right now? | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uda4v3SZZFA",
+            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ | 03.08.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
