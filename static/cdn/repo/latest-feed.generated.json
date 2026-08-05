@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-05T01:55:24.181Z",
+    "generatedAt": "2026-08-05T08:25:30.194Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xxadRF4QXjc",
-            "name": "BREAKING NEWS LIVE: Pakistan's 'Unknown Gunmen' Strike Again? LeT Admits 30 Terrorists Killed",
-            "artist": "Firstpost"
+            "videoId": "4qaSWLYHyew",
+            "name": "Parliament Monsoon Session 2026 LIVE: संसद में विपक्ष का प्रदर्शन | BJP| Congress | Amit shah",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "HRnFSrLMErk",
-            "name": "LIVE: Trump's New ORDER! | U.S.-Iran War Update | Breaking | World News | White House",
-            "artist": "Times Now Plus"
+            "videoId": "tJVygeF0WQw",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "zmvlJY22VmY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সব খবর"
+            "videoId": "s0q-r4NvDtU",
+            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "TneDqPXuITY",
-            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump",
-            "artist": "ET Now"
+            "videoId": "TOBPpyMZTDM",
+            "name": "U.S. & World News LIVE Today | 05 August 2026 | Breaking America & Global Headlines Now",
+            "artist": "AMERICA FAST NEWS "
         },
         {
             "mood": "storm",
-            "videoId": "_dtTEvRpQUM",
-            "name": "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "2pRAIyUBHXw",
+            "name": "Prashant Kishor on Gen-Z LIVE: जेन-जी पर बोलें प्रशांत किशोरLIVE | Bankipur |Jantar Mantar Protest",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "l3ZupEUCle4",
-            "name": "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "epNTavLhg2Q",
+            "name": "ABC News Live Prime Full Episode: Tue, Aug 4, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "uiocJEE1OUc",
-            "name": "Peter Doocy: This is their LAST CHANCE",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AGYbMt3Bc2w",
-            "name": "LIVE: Trump signs executive orders, Iran war latest | Breaking News | World News | Top News",
-            "artist": "Times Now Plus"
+            "videoId": "iqxDDFd9iHY",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 05 Aug",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
