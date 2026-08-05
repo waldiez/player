@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260805T082530.236Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260805T192024.284Z-l4t35t"
   type: "state"
-  created: "2026-08-05T08:25:30.236Z"
+  created: "2026-08-05T19:20:24.284Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260805T082530.236Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260805T192024.284Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4qaSWLYHyew"
-        name: "Parliament Monsoon Session 2026 LIVE: संसद में विपक्ष का प्रदर्शन | BJP| Congress | Amit shah"
+        videoId: "3Sjd9P9rwE4"
+        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-Tas1NBi1R4"
+        name: "Trump LIVE: Big Iran Decision Revealed, World Watches In Shock | WORLD NEWS | TRUMP NEWS"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-6u--kH5WZY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9s-OCJUWTJE"
+        name: "🔴LIVE: CM விஜயின் முதல் பட்ஜெட்  - சௌமியா அன்புமணி  ரியாக்க்ஷன்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EH1KLxHHGGU"
+        name: "Red Sea Attack Sinks India Flagged Ship Amid Houthi Threat | New Delhi Condemns | Vantage"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JfbpyKDcqdI"
+        name: "Pratima Mishra | Viral Video: कांवड़ियों के नाम पर गुंडागर्दी? | Breaking News | Latest News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tJVygeF0WQw"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
+        videoId: "mw-7DHlOUCs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s0q-r4NvDtU"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TOBPpyMZTDM"
-        name: "U.S. & World News LIVE Today | 05 August 2026 | Breaking America & Global Headlines Now"
-        artist: "AMERICA FAST NEWS "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2pRAIyUBHXw"
-        name: "Prashant Kishor on Gen-Z LIVE: जेन-जी पर बोलें प्रशांत किशोरLIVE | Bankipur |Jantar Mantar Protest"
+        videoId: "x9erVeyFGjo"
+        name: "Congress Protest In Parliament LIVE: सरकार से राहुल गांधी की बात सफल नहीं- सूत्र | Amit Shah"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "epNTavLhg2Q"
-        name: "ABC News Live Prime Full Episode: Tue, Aug 4, 2026"
-        artist: "ABC News"
+        videoId: "KKystqrMlAs"
+        name: "Rahul Gandhi LIVE: छात्रों के प्रदर्शन पर राहुल गांधी LIVE | Jantar Mantar | CJP Protest"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iqxDDFd9iHY"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 05 Aug"
-        artist: "Sairbeen News 24"
+        videoId: "n40_qqz_GG0"
+        name: "Bangla News Live BBC World News August 05, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-05T08:25:30.236Z"
+  exported_at: "2026-08-05T19:20:24.284Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-05T08:25:30.194Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-05T19:20:24.240Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
