@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-04T19:22:00.487Z",
+    "generatedAt": "2026-08-05T01:55:24.181Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5Q-6sCvfo4w",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "xxadRF4QXjc",
+            "name": "BREAKING NEWS LIVE: Pakistan's 'Unknown Gunmen' Strike Again? LeT Admits 30 Terrorists Killed",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "ZeihUXBSULE",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : कांवड़ में बवाल पर भड़के Yogi | Akhilesh | Modi",
-            "artist": "NDTV India"
+            "videoId": "HRnFSrLMErk",
+            "name": "LIVE: Trump's New ORDER! | U.S.-Iran War Update | Breaking | World News | White House",
+            "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "qWH9dOOywuY",
-            "name": "Iran-America War LIVE : ईरान से डरे ट्रंप, भागे US सैनिक | Trump | Mujtaba Khamenei | Missile Attack",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "zmvlJY22VmY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সব খবর"
         },
         {
             "mood": "storm",
-            "videoId": "BxEn8dYL-8c",
-            "name": "US Senate Judiciary Committee votes on Blanche nomination | US NEWS LIVE | WORLD NEWS",
-            "artist": "The Financial Express"
+            "videoId": "TneDqPXuITY",
+            "name": "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "ZLnE_XuGKvs",
-            "name": "🔴LIVE : Udhayanidhi stalin | DMK | தஞ்சையை குலுங்கவிட்ட திமுக தொண்டர்கள் - பிரமாண்ட பேரணி",
-            "artist": "Thanthi TV"
+            "videoId": "_dtTEvRpQUM",
+            "name": "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "oP2i-Fw8me4",
-            "name": "Bangla News Live BBC World News August 04, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "l3ZupEUCle4",
+            "name": "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "iNA2wcPUx5Q",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 4 August  | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Television 24 BANGLA"
+            "videoId": "uiocJEE1OUc",
+            "name": "Peter Doocy: This is their LAST CHANCE",
+            "artist": "Fox News"
         },
         {
             "mood": "storm",
-            "videoId": "xQYSeu81UJQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tMYVFioSwK0",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
+            "videoId": "AGYbMt3Bc2w",
+            "name": "LIVE: Trump signs executive orders, Iran war latest | Breaking News | World News | Top News",
+            "artist": "Times Now Plus"
         }
     ],
     "sourceFilters": {
