@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-06T13:49:45.285Z",
+    "generatedAt": "2026-08-06T23:52:28.189Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iUvV1mRBVKk",
-            "name": "Atiq Ahmed Son Died in Accident LIVE: बाहर आएंगी शाइसता परवीन? | Jhansi | Aban Ahmed | Breaking News",
-            "artist": "ABP NEWS"
+            "videoId": "4Ajum5wfW2E",
+            "name": "🔴 LIVE: World News Headlines | Breaking News Live | Global News 24/7 | Latest Updates",
+            "artist": "Newsroom National"
         },
         {
             "mood": "storm",
-            "videoId": "N4Z0dr4JrnA",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "cW90fieeTrI",
+            "name": "ABC World News Tonight With David Muir 8/6/26 | ABC News Today August 6, 2026",
+            "artist": "GR Music Entertainment"
         },
         {
             "mood": "storm",
-            "videoId": "jSCfgCPNawI",
-            "name": "Iran-US Talks Latest Update | Major Developments & Global Reactions | 5PM Headlines Geo News (6 Aug)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fw7Wfo0BgvY",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I6CS8uaNyds",
-            "name": "Shivsena Party Name Symbol Hearing LIVE | शिवसेना पक्ष सुनावणीआधीच्या अपडेट्स | Thackeray Vs Shinde",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yorCFirKo9s",
-            "name": "US Iran War LIVE | Netanyahu Vows Large Scale Strikes On Iran | Trump Iran News | Israel War | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RNeJYRBblZo",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.08.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PUTv7BnfNwg",
-            "name": "Atiq Ahmed Son Death News LIVE: अतीक अहमद के बेटे की ‘पलटी गाड़ी’..? हुई मौत | UP Accident | Jhansi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oGa9Gj3ahKY",
-            "name": "US Iran War LIVE: Iran Launches Revenge Strikes On US Military Bases in the Gulf | Kuwait | Bahrain",
+            "videoId": "9TNWsHt6hGQ",
+            "name": "LIVE: Iran Makes SHOCKING Strait of Hormuz Move After Deal With Oman | Trump | US Iran War",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "iCe5vl0EMJU",
-            "name": "🔴TAMILNADU BUDGET LIVE: Udhayanidhi stalin Press Meet | Cm Vijay |வேளாண் பட்ஜெட்-உதயநிதி reaction",
-            "artist": "Sathiyam News"
+            "videoId": "2A261R0Fuvo",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.08.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "h-a1ZXDYW60",
-            "name": "Parliament Monsoon Session 2026 LIVE: संसद में विपक्ष का प्रदर्शन | BJP| Congress | Amit shah",
-            "artist": "ABP NEWS"
+            "videoId": "-uXAXLAwxeE",
+            "name": "US Iran War News LIVE | Trump Claims Major Iran Deal | Strait Of Hormuz Crisis Update | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bS3EL2dNHwk",
+            "name": "US NEWS LIVE: Trump's Biggest Iran Decision Yet? World Watches Closely | World War 3 About To Start?",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uoaraw_KnOo",
+            "name": "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jw9_5jls3Fw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
