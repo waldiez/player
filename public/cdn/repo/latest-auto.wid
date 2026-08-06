@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260806T082309.672Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260806T134945.328Z-l4t35t"
   type: "state"
-  created: "2026-08-06T08:23:09.672Z"
+  created: "2026-08-06T13:49:45.328Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260806T082309.672Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260806T134945.328Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fexljSWPyMQ"
-        name: "Sandeep Chaudhary LIVE: सरकार फूल बरसाए...कांवड़िए पुलिस को दौड़ाएं! | Jharkhand JPSC Protest"
+        videoId: "iUvV1mRBVKk"
+        name: "Atiq Ahmed Son Died in Accident LIVE: बाहर आएंगी शाइसता परवीन? | Jhansi | Aban Ahmed | Breaking News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gOvyxgB-ZEU"
-        name: "Weather News LIVE: दिल्ली-NCR में भारी बारिश की चेतावनी! | IMD Alert | Heavy Rainfall | Cloudburst"
+        videoId: "N4Z0dr4JrnA"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jSCfgCPNawI"
+        name: "Iran-US Talks Latest Update | Major Developments & Global Reactions | 5PM Headlines Geo News (6 Aug)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Fw7Wfo0BgvY"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I6CS8uaNyds"
+        name: "Shivsena Party Name Symbol Hearing LIVE | शिवसेना पक्ष सुनावणीआधीच्या अपडेट्स | Thackeray Vs Shinde"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yorCFirKo9s"
+        name: "US Iran War LIVE | Netanyahu Vows Large Scale Strikes On Iran | Trump Iran News | Israel War | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RNeJYRBblZo"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (06.08.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PUTv7BnfNwg"
+        name: "Atiq Ahmed Son Death News LIVE: अतीक अहमद के बेटे की ‘पलटी गाड़ी’..? हुई मौत | UP Accident | Jhansi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y7cKpjF0XX8"
-        name: "US-Iran War LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
-        artist: "Times Now"
+        videoId: "oGa9Gj3ahKY"
+        name: "US Iran War LIVE: Iran Launches Revenge Strikes On US Military Bases in the Gulf | Kuwait | Bahrain"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qLdaxfu-oGI"
-        name: "BREAKING NEWS LIVE: Shocking Explosion Footage Emerges From Dubai | EXCLUSIVE FOOTAGE | Dubai News"
-        artist: "ET Now World"
+        videoId: "iCe5vl0EMJU"
+        name: "🔴TAMILNADU BUDGET LIVE: Udhayanidhi stalin Press Meet | Cm Vijay |வேளாண் பட்ஜெட்-உதயநிதி reaction"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MzREIZ8rGoI"
-        name: "Donald Trump LIVE | US President Drops BOMBSHELL; Declares Emergency Warning In America | US News"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U83keH6NUUY"
-        name: "Nepal Violence News LIVE Updates: नेपाल पहुंचे Bulldozer! | Balen Shah | Hindu Muslim Clash | Curfew"
-        artist: "Republic Bharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GAGvrjiHov0"
-        name: "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ৬ আগস্ট ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
-        artist: "SOMOY TV Bulletin"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6C0y7bLRMPU"
-        name: "Bangla News Live BBC World News August 06, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vCk3Xzrl0s4"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 06 Aug"
-        artist: "Sairbeen News 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4NeSAZ3HFHs"
-        name: "ABC News Live Prime: August 5, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hwg2M5ifaIw"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 06.08.2026 | Today News | Live News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "h-a1ZXDYW60"
+        name: "Parliament Monsoon Session 2026 LIVE: संसद में विपक्ष का प्रदर्शन | BJP| Congress | Amit shah"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-06T08:23:09.672Z"
+  exported_at: "2026-08-06T13:49:45.328Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-06T08:23:09.628Z"
+  source_generated_at: "2026-08-06T13:49:45.285Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
