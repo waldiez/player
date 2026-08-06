@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260805T192024.284Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260806T015858.122Z-l4t35t"
   type: "state"
-  created: "2026-08-05T19:20:24.284Z"
+  created: "2026-08-06T01:58:58.122Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260805T192024.284Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260806T015858.122Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3Sjd9P9rwE4"
-        name: "BREAKING War LIVE: Iran Attacks Sakhir Air Base In Bahrain | Gulf War Escalation Update | N18G"
-        artist: "News18 Urdu"
+        videoId: "xAXoL-ag2h0"
+        name: "Dubai Attack LIVE | 7 Explosions in 20 Minutes? Massive Smoke Near Jebel Ali Sparks Alarm Across UAE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-Tas1NBi1R4"
-        name: "Trump LIVE: Big Iran Decision Revealed, World Watches In Shock | WORLD NEWS | TRUMP NEWS"
-        artist: "ET Now"
+        videoId: "LEDDzzhwt6k"
+        name: "ABC World News Tonight With David Muir 8/5/26 | ABC News Today August 5, 2026 HD"
+        artist: "GR Music Entertainment"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-6u--kH5WZY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "rWHIiQ1xAfk"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 6 August News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9s-OCJUWTJE"
-        name: "🔴LIVE: CM விஜயின் முதல் பட்ஜெட்  - சௌமியா அன்புமணி  ரியாக்க்ஷன்"
-        artist: "Sathiyam News"
+        videoId: "5f_26eNOmuE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 6 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "দেশ নিউজ ৭১"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EH1KLxHHGGU"
-        name: "Red Sea Attack Sinks India Flagged Ship Amid Houthi Threat | New Delhi Condemns | Vantage"
+        videoId: "PHsuWbg6dco"
+        name: "LIVE: Trump's Bold Iran Move | Major White House Statement | Breaking World News LIVE | USA News"
+        artist: "Times Now Plus"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1i_sxG4uPQE"
+        name: "US Iran War News LIVE: Trump Claims MAJOR Iran Deal As Hormuz Crisis Enters Critical Phase"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JfbpyKDcqdI"
-        name: "Pratima Mishra | Viral Video: कांवड़ियों के नाम पर गुंडागर्दी? | Breaking News | Latest News"
-        artist: "ABP NEWS"
+        videoId: "ifYqtZdv-aY"
+        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (05.08.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mw-7DHlOUCs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
+        videoId: "p0_DiTb1giQ"
+        name: "Headlines Live With World News Report Today August 4th 2026!"
+        artist: "World News Report Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x9erVeyFGjo"
-        name: "Congress Protest In Parliament LIVE: सरकार से राहुल गांधी की बात सफल नहीं- सूत्र | Amit Shah"
-        artist: "ABP NEWS"
+        videoId: "9escIiTyvbg"
+        name: "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KKystqrMlAs"
-        name: "Rahul Gandhi LIVE: छात्रों के प्रदर्शन पर राहुल गांधी LIVE | Jantar Mantar | CJP Protest"
-        artist: "ABP NEWS"
+        videoId: "Wi9giw7H4lQ"
+        name: "DONALD TRUMP LIVE: Trump's Big Message To Everyone | Trump News LIVE | US News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n40_qqz_GG0"
-        name: "Bangla News Live BBC World News August 05, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
+        videoId: "nHW-1sWIYRY"
+        name: "US News Live: Karoline Leaked! US Army To Take Over Iran In 24 Hours, Regime Change Confirmed?"
+        artist: "ET Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-05T19:20:24.284Z"
+  exported_at: "2026-08-06T01:58:58.122Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-05T19:20:24.240Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-06T01:58:58.077Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
