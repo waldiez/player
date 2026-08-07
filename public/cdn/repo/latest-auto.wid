@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260807T124751.176Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260807T184431.510Z-l4t35t"
   type: "state"
-  created: "2026-08-07T12:47:51.176Z"
+  created: "2026-08-07T18:44:31.510Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260807T124751.176Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260807T184431.510Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qhra6A2iXGY"
-        name: "Rahul Gandhi House Security News LIVE: अचानक बढ़ी राहुल गांधी आवास सुरक्षा | Parliament | Congress"
+        videoId: "oNEtk67Udhs"
+        name: "US Iran War News LIVE | Trump Drops MAJOR Iran Warning: 'War Has To End Pretty Soon'"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qctAZ3LdWPY"
+        name: "Bangla News Live BBC World News August 07, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NKDkmG01vz4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yKv0roJWmtg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "slEyA5MhNqg"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8yOICScdDmQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 7 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্ব আপডেট নিউজ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DECoXR2Zq7o"
+        name: "Atiq Ahmed Son Death News LIVE: जहां होगा अतीक का बेटा दफन वहां से सीधे LIVE | Big Breaking | Jhansi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jhDExIwOFCk"
-        name: "Atiq Ahmed Son Death News LIVE: अतीक के बेटे की मौत के 5 वो सूबत, जिस ने पूरे देश को चौंकाया!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qUbur58tby4"
-        name: "🔴LIVE : CM Vijay | Udhayanidhi Stalin | TN Assembly 2026 | வெடிக்கும் பஞ்சாயத்து.. அலறும் பேரவை"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PZE26GO17bE"
-        name: "PM Modi ने NDA के नए सांसदों को दिया बड़ा मंत्र | Latest News | Breaking News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tHiATdJVZw4"
-        name: "अतीक अहमद के बेटे का जनाजा, Prayagraj से सीधा LIVE | Atiq Ahmed Son Aban Funeral | Shaista Parveen"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_UTouHKmDn8"
-        name: "Atiq Ahmed Son Died in Accident LIVE: अतीक अहमद के बेटे के आखिरी शब्द | Jhansi | Aban Ahmed"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LEzTl4HPEKY"
-        name: "Breaking News LIVE: Delhi Assembly में हाई वोल्टेज ड्रामा, Ravinder Singh Negi की हो गई हाथापाई! AAP"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pBSquK_7owU"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (07.08.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "rhAv7gGzlCA"
+        name: "Donald Trump Announcement Live | Trump Makes Major Statement From The White House | US Iran War"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-07T12:47:51.176Z"
+  exported_at: "2026-08-07T18:44:31.510Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-07T12:47:51.125Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 5l-h3VSDvWo (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 60 < 70)"
+  source_generated_at: "2026-08-07T18:44:31.381Z"
+  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: QdBMUlqlMXk (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 65 < 70)"

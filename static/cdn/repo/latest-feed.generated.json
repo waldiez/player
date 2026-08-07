@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-07T12:47:51.125Z",
+    "generatedAt": "2026-08-07T18:44:31.381Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qhra6A2iXGY",
-            "name": "Rahul Gandhi House Security News LIVE: अचानक बढ़ी राहुल गांधी आवास सुरक्षा | Parliament | Congress",
-            "artist": "ABP NEWS"
+            "videoId": "oNEtk67Udhs",
+            "name": "US Iran War News LIVE | Trump Drops MAJOR Iran Warning: 'War Has To End Pretty Soon'",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "jhDExIwOFCk",
-            "name": "Atiq Ahmed Son Death News LIVE: अतीक के बेटे की मौत के 5 वो सूबत, जिस ने पूरे देश को चौंकाया!",
-            "artist": "ABP NEWS"
+            "videoId": "qctAZ3LdWPY",
+            "name": "Bangla News Live BBC World News August 07, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "qUbur58tby4",
-            "name": "🔴LIVE : CM Vijay | Udhayanidhi Stalin | TN Assembly 2026 | வெடிக்கும் பஞ்சாயத்து.. அலறும் பேரவை",
-            "artist": "Thanthi TV"
+            "videoId": "NKDkmG01vz4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "PZE26GO17bE",
-            "name": "PM Modi ने NDA के नए सांसदों को दिया बड़ा मंत्र | Latest News | Breaking News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tHiATdJVZw4",
-            "name": "अतीक अहमद के बेटे का जनाजा, Prayagraj से सीधा LIVE | Atiq Ahmed Son Aban Funeral | Shaista Parveen",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_UTouHKmDn8",
-            "name": "Atiq Ahmed Son Died in Accident LIVE: अतीक अहमद के बेटे के आखिरी शब्द | Jhansi | Aban Ahmed",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LEzTl4HPEKY",
-            "name": "Breaking News LIVE: Delhi Assembly में हाई वोल्टेज ड्रामा, Ravinder Singh Negi की हो गई हाथापाई! AAP",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5l-h3VSDvWo",
-            "name": "🔴LIVE: CM Vijay | sangeetha | விவாகரத்து வழக்கு.. மிக பெரிய திருப்பம்",
+            "videoId": "QdBMUlqlMXk",
+            "name": "🔴LIVE: CM விஜயுடன் இணையும் சங்கீதா - வழக்கு வாபஸ் ..",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "pBSquK_7owU",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (07.08.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "yKv0roJWmtg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "slEyA5MhNqg",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8yOICScdDmQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 7 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্ব আপডেট নিউজ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DECoXR2Zq7o",
+            "name": "Atiq Ahmed Son Death News LIVE: जहां होगा अतीक का बेटा दफन वहां से सीधे LIVE | Big Breaking | Jhansi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rhAv7gGzlCA",
+            "name": "Donald Trump Announcement Live | Trump Makes Major Statement From The White House | US Iran War",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
