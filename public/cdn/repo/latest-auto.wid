@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260806T235228.236Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260807T022138.636Z-l4t35t"
   type: "state"
-  created: "2026-08-06T23:52:28.236Z"
+  created: "2026-08-07T02:21:38.636Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260806T235228.236Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260807T022138.636Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4Ajum5wfW2E"
-        name: "🔴 LIVE: World News Headlines | Breaking News Live | Global News 24/7 | Latest Updates"
-        artist: "Newsroom National"
+        videoId: "QY2no5cyYWM"
+        name: "Atiq Ahmed Son Death In Accident LIVE: सड़क हादसे में अतीक अहमद के बेटे की मौत | UP News | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cW90fieeTrI"
-        name: "ABC World News Tonight With David Muir 8/6/26 | ABC News Today August 6, 2026"
-        artist: "GR Music Entertainment"
+        videoId: "A524dGwox24"
+        name: "US-IRAN WAR LIVE | Trump Troops On High Alert! Karoline Leavitt Bombshell Briefing | World News"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9TNWsHt6hGQ"
-        name: "LIVE: Iran Makes SHOCKING Strait of Hormuz Move After Deal With Oman | Trump | US Iran War"
-        artist: "Firstpost"
+        videoId: "F1D5BOFa6bY"
+        name: "Sandeep Chaudhary LIVE: युवा आक्रोश..नेताओं के उड़े होश! | Jharkhand Protest | Hemant Soren | Rahul"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2A261R0Fuvo"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.08.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "z5CD4ReUZXI"
+        name: "Breaking News: माफिया अतीक अहमद के छोटे बेटे आबान की मौत! LIVE | Atiq Ahmed | Aaban | Prayagraj News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-uXAXLAwxeE"
-        name: "US Iran War News LIVE | Trump Claims Major Iran Deal | Strait Of Hormuz Crisis Update | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bS3EL2dNHwk"
-        name: "US NEWS LIVE: Trump's Biggest Iran Decision Yet? World Watches Closely | World War 3 About To Start?"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uoaraw_KnOo"
-        name: "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jw9_5jls3Fw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "1gu9TJgoUKA"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 7 August News"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-06T23:52:28.236Z"
+  exported_at: "2026-08-07T02:21:38.636Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-06T23:52:28.189Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-07T02:21:38.603Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
