@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260808T064009.337Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260808T123405.144Z-l4t35t"
   type: "state"
-  created: "2026-08-08T06:40:09.337Z"
+  created: "2026-08-08T12:34:05.144Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T064009.337Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T123405.144Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "dK0PD-NU8RE"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 08 Aug"
-        artist: "Sairbeen News 24"
+        videoId: "Nnp_MiZGWUk"
+        name: "Atiq Ahmed Son Death News LIVE: ये मिल गया CCTV!, अबान की गाड़ी के पास ये कौन व्यक्ति था?|"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MOFGjqRGgSY"
-        name: "LIVE🔴এটিএন বাংলার সংবাদ | 08.08.2026 | Today News | Live News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "YfE4LI_qnao"
+        name: "8 August Big News LIVE: 8 अगस्त मौत बनकर आया!, 98 लोगों की मौत, हिल गया पूरा देश! | Heavy Rain"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ja_iNH2UQ90"
-        name: "LIVE: Pakistan, Saudi Arabia & Turkey Ink 'Mecca' Pact To Set Up 'Islamic NATO' | Gulf War Update"
-        artist: "News18 Urdu"
+        videoId: "5Uj3ouU5jlA"
+        name: "Jharkhand Student Protest News LIVE: झारखंड के शिक्षामंत्री के इस्तीफे को लेकर आई बड़ी खबर| Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EJEdu_P75gs"
-        name: "ABC News Live Prime: August 7, 2026"
-        artist: "ABC News"
+        videoId: "exmVipp1i9k"
+        name: "Mahadangal LIVE: अपना-अपना मोर्चा, छात्रों का क्या होगा? | Jharkhand Student Protest | JPSC | JSSC"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7Id3qVf13lM"
-        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
-        artist: "The Savera Times"
+        videoId: "DuaxgSzxE_k"
+        name: "India Heavy Rain News LIVE: भारी बारिश से मचा हाहाकार, बह गई गाड़ी, फटा बादल, मची तबाही! | Assam"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hJMqYoeBXVo"
-        name: "Imran Khan Protests LIVE | Over 100 PTI Supporters Arrested Across Pakistan | Shahbaz sharif | N18G"
-        artist: "News18 Urdu"
+        videoId: "mE0HVQIGDqg"
+        name: "Atiq Ahmed Son Death News LIVE: अबान के जनाजे में दोनों भाई, शाइस्ता ने चौंकाया, प्रयागराज से LIVE"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PCbeHzV3usQ"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Aug. 7, 2026"
-        artist: "ABC News"
+        videoId: "bfeuAnvPmR8"
+        name: "8 August Big News LIVE: 8 अगस्त का दिन और अबतक 98 की मौत, हिल गया देश! | Heavy Rain | 100 News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tamrJ9VzTlU"
+        name: "Jharkhand Student Protest News LIVE: झारखंड में छात्रों का प्रदर्शन पर सीधे रांची से LIVE | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XSAnSPAMbXM"
+        name: "Rahul Gandhi News LIVE: राहुल गांधी को लगा बड़ा झटका? | Congress Youth Program | BJP | Paper Leak"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1uIiScPyKYQ"
+        name: "Atiq Ahmed Son Death News LIVE: शाइस्ता को लेकर आई बड़ी खबर! | Aban Ahmed | UP News | Jhansi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4NXBfD-HvwE"
+        name: "Atiq Ahmed Son Death News LIVE: रात के 10 बजे दबे पांव पहुंची बेटे की कब्रपर शाइस्ता?,चौंके लोग!"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-08T06:40:09.337Z"
+  exported_at: "2026-08-08T12:34:05.144Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-08T06:40:09.287Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-08T12:34:05.105Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
