@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-07T18:44:31.381Z",
+    "generatedAt": "2026-08-08T01:07:11.599Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oNEtk67Udhs",
-            "name": "US Iran War News LIVE | Trump Drops MAJOR Iran Warning: 'War Has To End Pretty Soon'",
-            "artist": "Firstpost"
+            "videoId": "EKwr5xOqEkQ",
+            "name": "Today Headlines - 07 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "qctAZ3LdWPY",
-            "name": "Bangla News Live BBC World News August 07, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "UAjBOadJxX0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "NKDkmG01vz4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "BX9vN3yue5s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RegVo-GnPg0",
+            "name": "Janhit LIVE: क्या CBI जांच की मांग मानेगी सोरेन सरकार?| Jharkhand Students Protest | Hemant",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
@@ -52,33 +58,9 @@
         },
         {
             "mood": "storm",
-            "videoId": "yKv0roJWmtg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "slEyA5MhNqg",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8yOICScdDmQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 7 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বিশ্ব আপডেট নিউজ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DECoXR2Zq7o",
-            "name": "Atiq Ahmed Son Death News LIVE: जहां होगा अतीक का बेटा दफन वहां से सीधे LIVE | Big Breaking | Jhansi",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rhAv7gGzlCA",
-            "name": "Donald Trump Announcement Live | Trump Makes Major Statement From The White House | US Iran War",
-            "artist": "Times Now"
+            "videoId": "RhxZEoB33zc",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अतीक के बेटे की पोस्टमॉर्टम रिपोर्ट! Yogi | UP",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
