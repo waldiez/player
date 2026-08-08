@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260808T010711.639Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260808T064009.337Z-l4t35t"
   type: "state"
-  created: "2026-08-08T01:07:11.639Z"
+  created: "2026-08-08T06:40:09.337Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T010711.639Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T064009.337Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "EKwr5xOqEkQ"
-        name: "Today Headlines - 07 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
-        artist: "Polimer News"
+        videoId: "dK0PD-NU8RE"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 08 Aug"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UAjBOadJxX0"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "MOFGjqRGgSY"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 08.08.2026 | Today News | Live News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BX9vN3yue5s"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "ja_iNH2UQ90"
+        name: "LIVE: Pakistan, Saudi Arabia & Turkey Ink 'Mecca' Pact To Set Up 'Islamic NATO' | Gulf War Update"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RegVo-GnPg0"
-        name: "Janhit LIVE: क्या CBI जांच की मांग मानेगी सोरेन सरकार?| Jharkhand Students Protest | Hemant"
-        artist: "ABP NEWS"
+        videoId: "EJEdu_P75gs"
+        name: "ABC News Live Prime: August 7, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RhxZEoB33zc"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : अतीक के बेटे की पोस्टमॉर्टम रिपोर्ट! Yogi | UP"
-        artist: "NDTV India"
+        videoId: "7Id3qVf13lM"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
+        artist: "The Savera Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hJMqYoeBXVo"
+        name: "Imran Khan Protests LIVE | Over 100 PTI Supporters Arrested Across Pakistan | Shahbaz sharif | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PCbeHzV3usQ"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Aug. 7, 2026"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-08T01:07:11.639Z"
+  exported_at: "2026-08-08T06:40:09.337Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-08T01:07:11.599Z"
-  validation: "validation enabled: accepted 5/6 tracks; maxAgeHours=72 minKeywordHits=1; rejected: QdBMUlqlMXk (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 60 < 70)"
+  source_generated_at: "2026-08-08T06:40:09.287Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
