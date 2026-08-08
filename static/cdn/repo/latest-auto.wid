@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260808T123405.144Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260808T182702.318Z-l4t35t"
   type: "state"
-  created: "2026-08-08T12:34:05.144Z"
+  created: "2026-08-08T18:27:02.318Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T123405.144Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260808T182702.318Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,68 +53,74 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Nnp_MiZGWUk"
-        name: "Atiq Ahmed Son Death News LIVE: ये मिल गया CCTV!, अबान की गाड़ी के पास ये कौन व्यक्ति था?|"
+        videoId: "UW4bBDgmmYY"
+        name: "World News LIVE: Japan’s Food Self-Sufficiency Rate Falls To Record Low | Latest News | NewsX"
+        artist: "NewsX Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vNZqEKKHOQo"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E9d_nSyGCsQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sAl1N7HHM3c"
+        name: "Charcha With Chitra: चित्रा त्रिपाठी के साथ बृजभूषण शरण सिंह का  EXCLUSIVE INTERVIEW"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YfE4LI_qnao"
-        name: "8 August Big News LIVE: 8 अगस्त मौत बनकर आया!, 98 लोगों की मौत, हिल गया पूरा देश! | Heavy Rain"
+        videoId: "hXhAdYQjxf4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 8 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "দেশ নিউজ ৭১"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LFOXrWPi2yg"
+        name: "Atiq Ahmed Son Death News LIVE: लो आखिरकार डॉन का बेटा दफन, उड़े ड्रोन!,पहली तस्वीर आई सामने!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5Uj3ouU5jlA"
-        name: "Jharkhand Student Protest News LIVE: झारखंड के शिक्षामंत्री के इस्तीफे को लेकर आई बड़ी खबर| Breaking"
+        videoId: "lFuw_MQxNUM"
+        name: "Rahul Gandhi News LIVE: 'यूपी में हुए पेपर लीक', राहुल के सामने इस लड़के के खुलासे ने हिलाया!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "exmVipp1i9k"
-        name: "Mahadangal LIVE: अपना-अपना मोर्चा, छात्रों का क्या होगा? | Jharkhand Student Protest | JPSC | JSSC"
+        videoId: "MhTKE7RzrsY"
+        name: "Sandeep Chaudhary LIVE: आर्थिक सुधार के 35 साल...शिक्षा सुधार का खस्ताहाल? | Ranchi Students Protest"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DuaxgSzxE_k"
-        name: "India Heavy Rain News LIVE: भारी बारिश से मचा हाहाकार, बह गई गाड़ी, फटा बादल, मची तबाही! | Assam"
+        videoId: "m6xjiYsNL-4"
+        name: "Jharkhand Student Protest News LIVE: मोर्चा ही मोर्चा,छात्रों का क्या होगा?| Breaking | Hemant Soren"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mE0HVQIGDqg"
-        name: "Atiq Ahmed Son Death News LIVE: अबान के जनाजे में दोनों भाई, शाइस्ता ने चौंकाया, प्रयागराज से LIVE"
-        artist: "ABP NEWS"
+        videoId: "3PXHmw9t1fA"
+        name: "Bangla News Live BBC World News August 08, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bfeuAnvPmR8"
-        name: "8 August Big News LIVE: 8 अगस्त का दिन और अबतक 98 की मौत, हिल गया देश! | Heavy Rain | 100 News"
-        artist: "ABP NEWS"
+        videoId: "LKcs5zhajNM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tamrJ9VzTlU"
-        name: "Jharkhand Student Protest News LIVE: झारखंड में छात्रों का प्रदर्शन पर सीधे रांची से LIVE | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XSAnSPAMbXM"
-        name: "Rahul Gandhi News LIVE: राहुल गांधी को लगा बड़ा झटका? | Congress Youth Program | BJP | Paper Leak"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1uIiScPyKYQ"
-        name: "Atiq Ahmed Son Death News LIVE: शाइस्ता को लेकर आई बड़ी खबर! | Aban Ahmed | UP News | Jhansi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4NXBfD-HvwE"
-        name: "Atiq Ahmed Son Death News LIVE: रात के 10 बजे दबे पांव पहुंची बेटे की कब्रपर शाइस्ता?,चौंके लोग!"
+        videoId: "WCbtZaHQaig"
+        name: "Jharkhand Student Protest News LIVE: झारखंड 'पेपर लीक' पर संदीप के 3 सवालों से हिली हेमंत सरकार!"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-08T12:34:05.144Z"
+  exported_at: "2026-08-08T18:27:02.318Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-08T12:34:05.105Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-08T18:27:02.282Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
