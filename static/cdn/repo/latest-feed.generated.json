@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-08T18:27:02.282Z",
+    "generatedAt": "2026-08-09T01:12:08.615Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UW4bBDgmmYY",
-            "name": "World News LIVE: Japan’s Food Self-Sufficiency Rate Falls To Record Low | Latest News | NewsX",
-            "artist": "NewsX Live"
+            "videoId": "1HpHOlufBT8",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "vNZqEKKHOQo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "dGbRmoVpEWQ",
+            "name": "ABC World News Tonight With David Muir 8/8/26 | ABC News Today August 8, 2026 HD",
+            "artist": "GR Music Entertainment"
         },
         {
             "mood": "storm",
-            "videoId": "E9d_nSyGCsQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "aF-S1WmZaYo",
+            "name": "Headlines Live With World News Report Today August 7th 2026!",
+            "artist": "World News Report Today"
         },
         {
             "mood": "storm",
-            "videoId": "sAl1N7HHM3c",
-            "name": "Charcha With Chitra: चित्रा त्रिपाठी के साथ बृजभूषण शरण सिंह का  EXCLUSIVE INTERVIEW",
+            "videoId": "ghe4d3_JQAU",
+            "name": "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bf2KkNtLP-A",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w9u3PS8J3SU",
+            "name": "Hormuz Reset : होर्मुज में धमाकों से हड़कंप!..ईरान का नया गेम प्लान शुरू ?। Janhit With Chitra",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "hXhAdYQjxf4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 8 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "দেশ নিউজ ৭১"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LFOXrWPi2yg",
-            "name": "Atiq Ahmed Son Death News LIVE: लो आखिरकार डॉन का बेटा दफन, उड़े ड्रोन!,पहली तस्वीर आई सामने!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lFuw_MQxNUM",
-            "name": "Rahul Gandhi News LIVE: 'यूपी में हुए पेपर लीक', राहुल के सामने इस लड़के के खुलासे ने हिलाया!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MhTKE7RzrsY",
-            "name": "Sandeep Chaudhary LIVE: आर्थिक सुधार के 35 साल...शिक्षा सुधार का खस्ताहाल? | Ranchi Students Protest",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m6xjiYsNL-4",
-            "name": "Jharkhand Student Protest News LIVE: मोर्चा ही मोर्चा,छात्रों का क्या होगा?| Breaking | Hemant Soren",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3PXHmw9t1fA",
-            "name": "Bangla News Live BBC World News August 08, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LKcs5zhajNM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WCbtZaHQaig",
-            "name": "Jharkhand Student Protest News LIVE: झारखंड 'पेपर लीक' पर संदीप के 3 सवालों से हिली हेमंत सरकार!",
-            "artist": "ABP NEWS"
+            "videoId": "qL9Q4vpk6mI",
+            "name": "LIVE with Dr. Shahid Masood | Pakistan, Saudi Arabia and Turkey! After the Agreement | 08 AUG26 |GNN",
+            "artist": "GNN"
         }
     ],
     "sourceFilters": {
