@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-09T01:12:08.615Z",
+    "generatedAt": "2026-08-09T06:43:35.249Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1HpHOlufBT8",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
+            "videoId": "UW4bBDgmmYY",
+            "name": "World News LIVE: Japan’s Food Self-Sufficiency Rate Falls To Record Low | Latest News | NewsX",
+            "artist": "NewsX Live"
         },
         {
             "mood": "storm",
-            "videoId": "dGbRmoVpEWQ",
-            "name": "ABC World News Tonight With David Muir 8/8/26 | ABC News Today August 8, 2026 HD",
-            "artist": "GR Music Entertainment"
+            "videoId": "om1ZxwdPRVk",
+            "name": "IRAN WAR LIVE: IGRC Says Hormuz To Open After us ‘Fully’ Accepts Conditions | WEST ASIA WAR",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "aF-S1WmZaYo",
-            "name": "Headlines Live With World News Report Today August 7th 2026!",
-            "artist": "World News Report Today"
+            "videoId": "AcJtHNypmp8",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ghe4d3_JQAU",
-            "name": "Gujarati News LIVE | 10 વાગ્યાના સૌથી મોટા સમાચાર | Gujarati Samachar |Weather News |News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Bf2KkNtLP-A",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w9u3PS8J3SU",
-            "name": "Hormuz Reset : होर्मुज में धमाकों से हड़कंप!..ईरान का नया गेम प्लान शुरू ?। Janhit With Chitra",
+            "videoId": "aa-J8YSbj14",
+            "name": "Jharkhand Student Protest News LIVE: झारखंड में छात्रों का प्रदर्शन पर सीधे रांची से LIVE | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qL9Q4vpk6mI",
-            "name": "LIVE with Dr. Shahid Masood | Pakistan, Saudi Arabia and Turkey! After the Agreement | 08 AUG26 |GNN",
-            "artist": "GNN"
+            "videoId": "Ho_8fjQ7-U4",
+            "name": "Jharkhand Student Protest News LIVE: 36 घंटों बाद छात्रों का बड़ा ऐलान... | Hemant Soren | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IvAVtY1Qy00",
+            "name": "Trump LIVE: Trump Issues Explosive Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IpjYwygmYMk",
+            "name": "Jharkhand Student Protest News LIVE: स्टूडेंट प्रोटेस्ट पर सामने आई बड़ी खबर! बड़ा ऐलान? | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "esbQ-4WCmwI",
+            "name": "Jharkhand Student Protest News LIVE: झारखंड के छात्रों का सोरेन सरकार को अल्टीमेटम | Hemant Soren",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y2WdKgerhPY",
+            "name": "Atiq Ahmed Son Death News LIVE: अतीक के बेटे का आखिरी वीडियो मिल गया!पुलिस के उड़े होश!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-8GZjl5OUuk",
+            "name": "Jharkhand Student Protest News LIVE: इस्तीफा देने पर बोले झारखंड के शिक्षामंत्री! | Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
