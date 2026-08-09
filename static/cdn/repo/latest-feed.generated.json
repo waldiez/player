@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-09T12:36:51.382Z",
+    "generatedAt": "2026-08-09T18:30:38.378Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jRvUA3eqF4s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Mar 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "News Sphere BD"
+            "videoId": "4KbyPf0OCUs",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "4ZVv81vgXuQ",
-            "name": "Mojtaba Khamenei New Video Update LIVE: अचानक खामेनेई का वीडियो जारी,खौफ में Trump-Netanyahu? LIVE",
-            "artist": "NDTV India"
+            "videoId": "bG5AKa7oEJw",
+            "name": "9 PM Gujarati News LIVE | આજના તમામ ગુજરાતી મોટા સમાાચાર | Latest Gujarati News | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "jA_7pLEo-0c",
-            "name": "Atiq Ahmed Son Death News LIVE: अतीक का बेटा दफन, कब्रिस्तान में जुटे थे मुस्लिम! | Big Breaking",
+            "videoId": "zimyRbCoKIA",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2KaEwqRx1hQ",
+            "name": "🟠Fatafat News LIVE | અત્યારના મોટા સમાચાર । Gujarat Latest News | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rDlANqNQn7k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UentMRqDpq8",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZjILaBDS96Q",
+            "name": "Sandeep Chaudhary: टीवी डिबेट में प्रोफेसर Sourav Malviya का दावा | Jharkhand Students Protest",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "nMsfMjB5JKg",
-            "name": "Hemant Soren Resignation News LIVE: 'हेमंत सोरेन पर इस्तीफे का दवाब बना रहे हैं राहुल गांधी' | BJP",
-            "artist": "ABP NEWS"
+            "videoId": "3LCZocYhIzU",
+            "name": "Colombia Car Blast LIVE: Bomb Attack Hits Colombia | New President at Target?",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "V0PUktzY5qY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Khobor Srot"
+            "videoId": "y6vLOyo_sG0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 10 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "দেশ নিউজ ৭১"
         },
         {
             "mood": "storm",
-            "videoId": "GMBzzGk_WfI",
-            "name": "Ranchi JPSC Student Protest News LIVE: आज छात्रों से वार्ता में हो सकता है बड़ा फैसला| Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G0W2TAhAvfA",
-            "name": "LIVE: Pakistan, Saudi Arabia & Turkey Ink 'Mecca' Pact To Set Up 'Islamic NATO' | Gulf War Update",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LQzuZer_-yQ",
-            "name": "Ranchi JPSC Student Protest News LIVE: छात्रों में गुस्से से उबाल, थोड़ी देर में बड़ा फैसला?",
-            "artist": "ABP NEWS"
+            "videoId": "irS-hzgF91I",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
