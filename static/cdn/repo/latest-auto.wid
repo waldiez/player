@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260809T183038.414Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260810T011404.846Z-l4t35t"
   type: "state"
-  created: "2026-08-09T18:30:38.414Z"
+  created: "2026-08-10T01:14:04.846Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260809T183038.414Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260810T011404.846Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4KbyPf0OCUs"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "RUKLfOQlRRo"
+        name: "Bangla News Live BBC World News August 10, 2026 || World News Bangla || International News Today"
+        artist: "বাংলা নিউজ লাইভ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bG5AKa7oEJw"
-        name: "9 PM Gujarati News LIVE | આજના તમામ ગુજરાતી મોટા સમાાચાર | Latest Gujarati News | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "Rl7dBPWTGuk"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 09 August ' 2026 || World News Bangla || International News"
+        artist: "72 tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zimyRbCoKIA"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "S_Pqa9umGJ4"
+        name: "Trump LIVE:  Major Announcement From White House Statement |  World News LIVE | USA News | Top News"
+        artist: "Times Now Plus"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2KaEwqRx1hQ"
-        name: "🟠Fatafat News LIVE | અત્યારના મોટા સમાચાર । Gujarat Latest News | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "9PvYyynEjjk"
+        name: "Today Headlines - 09 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rDlANqNQn7k"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UentMRqDpq8"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZjILaBDS96Q"
-        name: "Sandeep Chaudhary: टीवी डिबेट में प्रोफेसर Sourav Malviya का दावा | Jharkhand Students Protest"
+        videoId: "5U38lHOwRQs"
+        name: "Mumbai Local: सेल्फी का चक्कर .. खतरे में जीवन! | Latest News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3LCZocYhIzU"
-        name: "Colombia Car Blast LIVE: Bomb Attack Hits Colombia | New President at Target?"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "y6vLOyo_sG0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 10 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "দেশ নিউজ ৭১"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "irS-hzgF91I"
+        videoId: "0iqJLf8tYm8"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        artist: "NX আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vjYsgXhwVW4"
+        name: "🔴 LIVE Breaking News | World News, US News, Politics, Business & Technology"
+        artist: "The Global Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H3IUMdVw3a8"
+        name: "Gujarat Fatafat News LIVE | તમામ મહત્વના સમાચાર | Latest Gujarati News | News 18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-09T18:30:38.414Z"
+  exported_at: "2026-08-10T01:14:04.846Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-09T18:30:38.378Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-10T01:14:04.804Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
