@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260810T011404.846Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260810T071825.255Z-l4t35t"
   type: "state"
-  created: "2026-08-10T01:14:04.846Z"
+  created: "2026-08-10T07:18:25.255Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260810T011404.846Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260810T071825.255Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RUKLfOQlRRo"
-        name: "Bangla News Live BBC World News August 10, 2026 || World News Bangla || International News Today"
-        artist: "বাংলা নিউজ লাইভ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Rl7dBPWTGuk"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 09 August ' 2026 || World News Bangla || International News"
-        artist: "72 tv"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S_Pqa9umGJ4"
-        name: "Trump LIVE:  Major Announcement From White House Statement |  World News LIVE | USA News | Top News"
-        artist: "Times Now Plus"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9PvYyynEjjk"
-        name: "Today Headlines - 09 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5U38lHOwRQs"
-        name: "Mumbai Local: सेल्फी का चक्कर .. खतरे में जीवन! | Latest News"
+        videoId: "w4GCU6kzO_o"
+        name: "Jharkhand Student Protest LIVE: प्रदर्शनकारियों ने तोड़ डाले बैरिकेडिंग, गुस्से में निकले छात्र!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0iqJLf8tYm8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
+        videoId: "HNZ8_vd5WzU"
+        name: "Jharkhand Student Protest LIVE: प्रदर्शन में स्ट्रेचर पर देवेंद्र नाथ महतो आगे बढ़ रहे है छात्र"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vjYsgXhwVW4"
-        name: "🔴 LIVE Breaking News | World News, US News, Politics, Business & Technology"
-        artist: "The Global Desk"
+        videoId: "xKUW0bc8M0o"
+        name: "Today Headlines | 10 AUG  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H3IUMdVw3a8"
-        name: "Gujarat Fatafat News LIVE | તમામ મહત્વના સમાચાર | Latest Gujarati News | News 18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "pB_dbb-WsGk"
+        name: "Ranchi JPSC Student Protest News LIVE: झारखंड में 11 बजे कुछ बड़ा होने वाला है!, चल पड़े छात्र"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "isHDSR-gKtQ"
+        name: "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ks1-UCng_2o"
+        name: "Jharkhand Student Protest LIVE: विधानसभा की तरफ बढ़े छात्र, धारा 163 लागू, एक्शन में आई पुलिस!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kJ6fSOX1mQ0"
+        name: "Jharkhand Student Protest LIVE: 'दोषी इसी मिट्टी में दफन होंगे', हेमंत सोरेन के बयान से हलचल तेज!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RH-VjXedjBY"
+        name: "Ranchi Student Protest: पुरानी विधानसभा से छात्रों का नए विधानसभा के तरफ कूच शुरू"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JIlElsJlFY4"
+        name: "Ranchi JPSC Student Protest News LIVE: छात्रों के सामने झुकी हेमंत सरकार!, 3 अधिकारी का इस्तीफा"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "L_KzUlPSldM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 10 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "দেশ নিউজ ৭১"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7qV-KSH-T-s"
+        name: "US IRAN NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-10T01:14:04.846Z"
+  exported_at: "2026-08-10T07:18:25.255Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-10T01:14:04.804Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-10T07:18:25.210Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
