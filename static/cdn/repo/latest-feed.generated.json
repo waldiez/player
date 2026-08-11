@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-11T01:12:33.919Z",
+    "generatedAt": "2026-08-11T06:55:05.423Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ZUOGOFSHDjI",
-            "name": "Breaking News LIVE | US Military Out Of Missiles? Shocking Camp David Leak Revealed | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "78mmxGDl14c",
+            "name": "Colombia Earthquake News LIVE: भूकंप से 132 मौत से दुनिया के उड़े होश!, रोए लोग इमरजेंसी घोषित!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "IKb-InQ7KQk",
-            "name": "US-Iran War LIVE: Trump Declares Biggest Attack On Iran, Aims To Target Tehran's Energy Grid",
-            "artist": "MIRROR NOW"
+            "videoId": "101x-lfJQC0",
+            "name": "President Rule in Pakistan News LIVE: पाकिस्तान में लगेगा राष्ट्रपति शासन?,आई बड़ी खबर | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "H1jgd8PK6mw",
-            "name": "LIVE: Trump's New ORDER! | U.S.-Iran War Update | Breaking | World News | White House",
-            "artist": "Times Now Plus"
+            "videoId": "TENHyyind1E",
+            "name": "Jharkhand Bandh News LIVE: बीजेपी का झारखंड बंदका ऐलान, एक्शन में पुलिस! | Ranchi | Student Protest",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "qK-LxawYgK8",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "hD7Ve2W-1ck",
+            "name": "Jharkhand Bandh News LIVE: BJP के झारखंड बंद को लेकर हाई अलर्ट 3000 जवान तैनात | Ranchi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "RQXXidDdAAo",
-            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
-            "artist": "ET Now World"
+            "videoId": "o2qeBwbs_B0",
+            "name": "Jharkhand Bandh News LIVE: BJP का बंद, हाई अलर्ट पर झारखंड, सड़क पर उतरे 3000 जवान! | Ranchi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "11wLj3EilIo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pf9CiD0i_88",
+            "name": "Colombia Earthquake News LIVE: कोलंबिया में भूकंप ने मचाई ताबाही, देखते ही देखते 132 की मौत",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HrvLMSPZiKY",
+            "name": "FCRA को लेकर आई बड़ी खबर LIVE : FCRA Rules 2026 | Parliament Session | Sansad | Amit Shah | Rahul",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-9k_toRh77o",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ | 11.08.2026 | Latest News | BD News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2A8Bt7pgXg4",
+            "name": "Colombia Earthquake News LIVE: कोलंबिया में भूकंप के झटके गिरी इमारतें,जान बचाकर भागे लोग,132 की मौत",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
