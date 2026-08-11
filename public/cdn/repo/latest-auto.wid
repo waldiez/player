@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260811T065505.452Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260811T124908.217Z-l4t35t"
   type: "state"
-  created: "2026-08-11T06:55:05.452Z"
+  created: "2026-08-11T12:49:08.217Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260811T065505.452Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260811T124908.217Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "78mmxGDl14c"
-        name: "Colombia Earthquake News LIVE: भूकंप से 132 मौत से दुनिया के उड़े होश!, रोए लोग इमरजेंसी घोषित!"
+        videoId: "aM5yB8X1edY"
+        name: "Coup in Pakistan News LIVE: मुनीर का तख्तापलट वाला 'प्लान फेल'? भारत ने किया EXPOSE! | Asim Munir"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "101x-lfJQC0"
-        name: "President Rule in Pakistan News LIVE: पाकिस्तान में लगेगा राष्ट्रपति शासन?,आई बड़ी खबर | Breaking"
+        videoId: "uOo74_6Viok"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8UWEgLNXJdA"
+        name: "Afternoon Marathi News LIVE | Maharashtra Politics | Uddhav Thackeray | Jarange Patil | Rain Alert"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ab7aY51QkTg"
+        name: "Gujarat Rain News LIVE | વરસાદના સમાચાર | Latest Rain News | Fatafat | Weather | News 18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "28Z6vX9AxNw"
+        name: "Jharkhand Bandh News LIVE: झारखंड में बीजेपी का बंद, सड़क पर उतरे कार्यकर्ता, पुलिस से हुई कहासुनी"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TENHyyind1E"
-        name: "Jharkhand Bandh News LIVE: बीजेपी का झारखंड बंदका ऐलान, एक्शन में पुलिस! | Ranchi | Student Protest"
+        videoId: "jWUJYcf2aMY"
+        name: "Colombia Earthquake News LIVE: सुबह-सुबह भयंकर भूकंप ने हिला दिया,111 लोगों की मौत |  Big Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hD7Ve2W-1ck"
-        name: "Jharkhand Bandh News LIVE: BJP के झारखंड बंद को लेकर हाई अलर्ट 3000 जवान तैनात | Ranchi"
-        artist: "ABP NEWS"
+        videoId: "KFQtnYfKVfk"
+        name: "Breaking News LIVE: Powerful Earthquake Strikes Colombia And Ecuador | World News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o2qeBwbs_B0"
-        name: "Jharkhand Bandh News LIVE: BJP का बंद, हाई अलर्ट पर झारखंड, सड़क पर उतरे 3000 जवान! | Ranchi"
-        artist: "ABP NEWS"
+        videoId: "cqh13BpvUF8"
+        name: "Trump Faces Death Threat: Major Security Alert Issued | 1PM Headlines Geo News  (11 August 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "11wLj3EilIo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Pf9CiD0i_88"
-        name: "Colombia Earthquake News LIVE: कोलंबिया में भूकंप ने मचाई ताबाही, देखते ही देखते 132 की मौत"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HrvLMSPZiKY"
-        name: "FCRA को लेकर आई बड़ी खबर LIVE : FCRA Rules 2026 | Parliament Session | Sansad | Amit Shah | Rahul"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-9k_toRh77o"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ | 11.08.2026 | Latest News | BD News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2A8Bt7pgXg4"
-        name: "Colombia Earthquake News LIVE: कोलंबिया में भूकंप के झटके गिरी इमारतें,जान बचाकर भागे लोग,132 की मौत"
-        artist: "ABP NEWS"
+        videoId: "On3CiQiBtZQ"
+        name: "Shivsena Court Case Today LIVE | Uddhav Thackeray यांना शिवसेना पक्ष, चिन्ह मिळणार का? Eknath Shinde"
+        artist: "News18 Marathi"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-11T06:55:05.452Z"
+  exported_at: "2026-08-11T12:49:08.217Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-11T06:55:05.423Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-11T12:49:08.178Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
