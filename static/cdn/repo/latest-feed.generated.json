@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-10T18:47:07.706Z",
+    "generatedAt": "2026-08-11T01:12:33.919Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lXygD1MxKI8",
-            "name": "Trump LIVE: Big Iran Decision Revealed, World Watches In Shock | WORLD NEWS | TRUMP NEWS",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H3IUMdVw3a8",
-            "name": "Gujarat Fatafat News LIVE | તમામ મહત્વના સમાચાર | Latest Gujarati News | News 18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "11wLj3EilIo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b3092Y1YEKo",
-            "name": "Mojtaba Khamenei critically ill Live | গুৰুতৰভাৱে অসুস্থ মোজতাবা খামেইনি | World News | N18G",
-            "artist": "News18 Assam/Northeast"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g6wVgx0VSog",
-            "name": "HHS Sec. RFK Jr. makes announcement on food supply, health: LIVE",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sdftaOlAgm4",
-            "name": "Today Headlines | 10 AUG 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T79CbJymr_k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nziaZY84T74",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "25gTv9Kpiqo",
-            "name": "CLANCY MURDER TRIAL LIVE | PSYCHIATRIST REVEALS SHOCKING MEDICATION DETAILS | World News LIVE",
+            "videoId": "ZUOGOFSHDjI",
+            "name": "Breaking News LIVE | US Military Out Of Missiles? Shocking Camp David Leak Revealed | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "hPYslFurlS0",
-            "name": "Bangla News Live BBC World News August 10, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
+            "videoId": "IKb-InQ7KQk",
+            "name": "US-Iran War LIVE: Trump Declares Biggest Attack On Iran, Aims To Target Tehran's Energy Grid",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "Fbxa83w9yiU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
+            "videoId": "H1jgd8PK6mw",
+            "name": "LIVE: Trump's New ORDER! | U.S.-Iran War Update | Breaking | World News | White House",
+            "artist": "Times Now Plus"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qK-LxawYgK8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RQXXidDdAAo",
+            "name": "US NEWS LIVE: Vance Interrupts Karoline's Briefing, Heated Exchange Erupts | World News",
+            "artist": "ET Now World"
         }
     ],
     "sourceFilters": {
