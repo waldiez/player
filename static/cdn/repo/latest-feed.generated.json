@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-11T12:49:08.178Z",
+    "generatedAt": "2026-08-11T18:53:12.657Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aM5yB8X1edY",
-            "name": "Coup in Pakistan News LIVE: मुनीर का तख्तापलट वाला 'प्लान फेल'? भारत ने किया EXPOSE! | Asim Munir",
+            "videoId": "we4jVcU8aPk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "crByhdQxb94",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eG4ycrAsXik",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World View News BD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aihxAl57ANA",
+            "name": "Breaking down latest primary elections in key battleground states",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "407ZY2dd3EQ",
+            "name": "Sandeep Chaudhary: Jharkhand छात्रों पर लाठीचार्ज को लेकर Parliament में हंगामा | Rahul Gandhi |Shah",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "uOo74_6Viok",
-            "name": "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE",
-            "artist": "Times Now World"
+            "videoId": "ZE_9yFRtbg4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "8UWEgLNXJdA",
-            "name": "Afternoon Marathi News LIVE | Maharashtra Politics | Uddhav Thackeray | Jarange Patil | Rain Alert",
-            "artist": "News18 Marathi"
+            "videoId": "TYgrf-1zQIM",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "ab7aY51QkTg",
-            "name": "Gujarat Rain News LIVE | વરસાદના સમાચાર | Latest Rain News | Fatafat | Weather | News 18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "28Z6vX9AxNw",
-            "name": "Jharkhand Bandh News LIVE: झारखंड में बीजेपी का बंद, सड़क पर उतरे कार्यकर्ता, पुलिस से हुई कहासुनी",
+            "videoId": "A22TSNK1LjI",
+            "name": "Jharkhand Bandh News LIVE: लाठीचार्ज के खिलाफ बीजेपी का हल्लाबोल, सरकार के उड़े होश!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jWUJYcf2aMY",
-            "name": "Colombia Earthquake News LIVE: सुबह-सुबह भयंकर भूकंप ने हिला दिया,111 लोगों की मौत |  Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KFQtnYfKVfk",
-            "name": "Breaking News LIVE: Powerful Earthquake Strikes Colombia And Ecuador | World News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cqh13BpvUF8",
-            "name": "Trump Faces Death Threat: Major Security Alert Issued | 1PM Headlines Geo News  (11 August 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "On3CiQiBtZQ",
-            "name": "Shivsena Court Case Today LIVE | Uddhav Thackeray यांना शिवसेना पक्ष, चिन्ह मिळणार का? Eknath Shinde",
-            "artist": "News18 Marathi"
+            "videoId": "Vq2V5JE6rOA",
+            "name": "Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News LIVE",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
