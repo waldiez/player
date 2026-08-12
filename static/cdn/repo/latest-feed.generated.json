@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-12T07:14:50.663Z",
+    "generatedAt": "2026-08-12T12:54:09.837Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MRiNuyDuGC8",
-            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News FULL SHOW",
-            "artist": "Manga Orikado"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DKrb2r6hHjE",
-            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 2",
-            "artist": "Manga Orikado"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1eWSq9E-N5k",
-            "name": "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 2",
-            "artist": "ความขัดแย้งในบ้าน"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EcrEMsZOuRA",
-            "name": "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 1",
-            "artist": "ความขัดแย้งในบ้าน"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4pCSSraERuU",
-            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 1",
-            "artist": "Manga Orikado"
-        },
-        {
-            "mood": "storm",
-            "videoId": "crByhdQxb94",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nFjheUV8txs",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S4mA2Eunqns",
-            "name": "Ranchi Student Protest Latest News LIVE: नहीं झुकेगी सोरेन सरकार? | JMM | Congress | BJP | Breaking",
+            "videoId": "wDhVXV3rCBQ",
+            "name": "Rahul Gandhi Vs Amit Shah LIVE: राहुल का अमित शाह पर बड़ा हमला | Parliament Session | FCRA Bill",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "uv6t7IlvXbU",
-            "name": "PM Modi LIVE: Ex-President Ram Nath Kovind की Book Release Program से सीधा प्रसारण | BJP",
+            "videoId": "NGjRPsq4Xek",
+            "name": "Chitra Tripathi LIVE: Amit Shah करेंगे चर्चा..Rahul Gandhi 'फाड़ेंगे पर्चा'! | Parliament | NDA",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "VAFbFS7c8IA",
-            "name": "Big Political Statement: The Real Problem Is Leadership | M News Plus",
-            "artist": "M Plus PK"
+            "videoId": "FcU36NZNYek",
+            "name": "War News LIVE | Houthi Missiles Hit Al-Makha? Port City Faces New Escalation In Yemen War | Iran",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "MeFLvhmfFF4",
-            "name": "Today Headlines | 12 AUG  2026 | Morning 10 AM Headlines |MorningHeadlines |LatestNews |10amheadline",
-            "artist": "Sathiyam News"
+            "videoId": "YsUCIn1Vsj0",
+            "name": "Parliament Monsoon Session LIVE | Congress | Ranchi Student Protest | BJP | Om Birla | PM Modi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BpYRiiGZmGY",
+            "name": "FCRA Amendment Bill In JPC LIVE: एफसीआरए पर भिड़े राहुल गांधी? | BJP | Congress Parliament Protest",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CI80hEc-sVI",
+            "name": "Afternoon Marathi News LIVE | Maharashtra Politics | Uddhav Thackeray | Rain Update | Jarange Patil",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-615oNO8Ce8",
+            "name": "Shivsena Court Case Today LIVE | Uddhav Thackeray Vs Eknath Shinde | कपिल सिब्बलांचा युक्तिवाद...",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S1Sf2dFhYaY",
+            "name": "Aban Ahmed Car Crash Viral Video LIVE: 1 गलती और हवा में उड़ी अबान की गाड़ी! | Jhansi Accident",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OBqf1wh4ozc",
+            "name": "Latest Gujarat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather Updates | Fatafat News | Monsoon 2026",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EKgGfPmKLmQ",
+            "name": "LIVE : Foreign Office Spokesperson Tahir Andrabi's weekly briefing in Islamabad | Geo News",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {

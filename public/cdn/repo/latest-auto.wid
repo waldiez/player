@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260812T071450.705Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260812T125409.875Z-l4t35t"
   type: "state"
-  created: "2026-08-12T07:14:50.705Z"
+  created: "2026-08-12T12:54:09.875Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260812T071450.705Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260812T125409.875Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "MRiNuyDuGC8"
-        name: "08/11/2026 CNN Newsroom Live - CNN Latest World News FULL SHOW"
-        artist: "Manga Orikado"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DKrb2r6hHjE"
-        name: "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 2"
-        artist: "Manga Orikado"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1eWSq9E-N5k"
-        name: "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 2"
-        artist: "ความขัดแย้งในบ้าน"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EcrEMsZOuRA"
-        name: "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 1"
-        artist: "ความขัดแย้งในบ้าน"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4pCSSraERuU"
-        name: "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 1"
-        artist: "Manga Orikado"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "crByhdQxb94"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nFjheUV8txs"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S4mA2Eunqns"
-        name: "Ranchi Student Protest Latest News LIVE: नहीं झुकेगी सोरेन सरकार? | JMM | Congress | BJP | Breaking"
+        videoId: "wDhVXV3rCBQ"
+        name: "Rahul Gandhi Vs Amit Shah LIVE: राहुल का अमित शाह पर बड़ा हमला | Parliament Session | FCRA Bill"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uv6t7IlvXbU"
-        name: "PM Modi LIVE: Ex-President Ram Nath Kovind की Book Release Program से सीधा प्रसारण | BJP"
+        videoId: "NGjRPsq4Xek"
+        name: "Chitra Tripathi LIVE: Amit Shah करेंगे चर्चा..Rahul Gandhi 'फाड़ेंगे पर्चा'! | Parliament | NDA"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VAFbFS7c8IA"
-        name: "Big Political Statement: The Real Problem Is Leadership | M News Plus"
-        artist: "M Plus PK"
+        videoId: "FcU36NZNYek"
+        name: "War News LIVE | Houthi Missiles Hit Al-Makha? Port City Faces New Escalation In Yemen War | Iran"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MeFLvhmfFF4"
-        name: "Today Headlines | 12 AUG  2026 | Morning 10 AM Headlines |MorningHeadlines |LatestNews |10amheadline"
-        artist: "Sathiyam News"
+        videoId: "YsUCIn1Vsj0"
+        name: "Parliament Monsoon Session LIVE | Congress | Ranchi Student Protest | BJP | Om Birla | PM Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BpYRiiGZmGY"
+        name: "FCRA Amendment Bill In JPC LIVE: एफसीआरए पर भिड़े राहुल गांधी? | BJP | Congress Parliament Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CI80hEc-sVI"
+        name: "Afternoon Marathi News LIVE | Maharashtra Politics | Uddhav Thackeray | Rain Update | Jarange Patil"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-615oNO8Ce8"
+        name: "Shivsena Court Case Today LIVE | Uddhav Thackeray Vs Eknath Shinde | कपिल सिब्बलांचा युक्तिवाद..."
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "S1Sf2dFhYaY"
+        name: "Aban Ahmed Car Crash Viral Video LIVE: 1 गलती और हवा में उड़ी अबान की गाड़ी! | Jhansi Accident"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OBqf1wh4ozc"
+        name: "Latest Gujarat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather Updates | Fatafat News | Monsoon 2026"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EKgGfPmKLmQ"
+        name: "LIVE : Foreign Office Spokesperson Tahir Andrabi's weekly briefing in Islamabad | Geo News"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-12T07:14:50.705Z"
+  exported_at: "2026-08-12T12:54:09.875Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-12T07:14:50.663Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-12T12:54:09.837Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
