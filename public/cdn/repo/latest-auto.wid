@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260811T185312.698Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260812T012027.745Z-l4t35t"
   type: "state"
-  created: "2026-08-11T18:53:12.698Z"
+  created: "2026-08-12T01:20:27.745Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260811T185312.698Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260812T012027.745Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "we4jVcU8aPk"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "m5dtq_Y13g4"
+        name: "US-Iran-Israel War News Live : Hormuz के बाद $400 अरब का दांव! क्या भड़केगा नया युद्ध? | Trump"
+        artist: "News18 India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "crByhdQxb94"
+        videoId: "aRSwgwVtI3I"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eG4ycrAsXik"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "World View News BD"
+        videoId: "dh9Z_efl89M"
+        name: "Trump Latest Speech LIVE: Trump's Big Warning, World On Edge ! | White House Briefing | US News"
+        artist: "Times Now Plus"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aihxAl57ANA"
-        name: "Breaking down latest primary elections in key battleground states"
-        artist: "ABC News"
+        videoId: "a6iq9Yoar10"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  11 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আজকের SOMAY NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "407ZY2dd3EQ"
-        name: "Sandeep Chaudhary: Jharkhand छात्रों पर लाठीचार्ज को लेकर Parliament में हंगामा | Rahul Gandhi |Shah"
+        videoId: "On3CiQiBtZQ"
+        name: "Shivsena Court Case Today LIVE | Uddhav Thackeray यांना शिवसेना पक्ष, चिन्ह मिळणार का? Eknath Shinde"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0tedQuDFoMk"
+        name: "Sandeep Chaudhary: UP Election से लेकर Jantar-Mantar तक विश्लेषक का बड़ा खुलासा | Rahul Gandhi |Shah"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZE_9yFRtbg4"
+        videoId: "_BDmwNwZ3tg"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        artist: "Top10News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TYgrf-1zQIM"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "wRm8jUzop7U"
+        name: "Hong Kong Breaks 142-Year Heat Record | Makkah Defense Agreement| ARY News 10 PM Headlines"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A22TSNK1LjI"
-        name: "Jharkhand Bandh News LIVE: लाठीचार्ज के खिलाफ बीजेपी का हल्लाबोल, सरकार के उड़े होश!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Vq2V5JE6rOA"
-        name: "Trump Declares Emergency LIVE | Historic White House Announcement Rocks the Nation! | US News LIVE"
-        artist: "MIRROR NOW"
+        videoId: "T-KodqkqPZw"
+        name: "11 August | LIVE World & Middle East Hindi News | Duniya Bhar ki Khabrein | Azad Bol India"
+        artist: "AZAD BOL INDIA"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-11T18:53:12.698Z"
+  exported_at: "2026-08-12T01:20:27.745Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-11T18:53:12.657Z"
+  source_generated_at: "2026-08-12T01:20:27.711Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
