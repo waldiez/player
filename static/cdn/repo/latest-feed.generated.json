@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-12T01:20:27.711Z",
+    "generatedAt": "2026-08-12T07:14:50.663Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "m5dtq_Y13g4",
-            "name": "US-Iran-Israel War News Live : Hormuz के बाद $400 अरब का दांव! क्या भड़केगा नया युद्ध? | Trump",
-            "artist": "News18 India"
+            "videoId": "MRiNuyDuGC8",
+            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News FULL SHOW",
+            "artist": "Manga Orikado"
         },
         {
             "mood": "storm",
-            "videoId": "aRSwgwVtI3I",
+            "videoId": "DKrb2r6hHjE",
+            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 2",
+            "artist": "Manga Orikado"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1eWSq9E-N5k",
+            "name": "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 2",
+            "artist": "ความขัดแย้งในบ้าน"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EcrEMsZOuRA",
+            "name": "08/11/2026 CNN Newsroom Live - CNN World News & Latest Headlines Part 1",
+            "artist": "ความขัดแย้งในบ้าน"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4pCSSraERuU",
+            "name": "08/11/2026 CNN Newsroom Live - CNN Latest World News Part 1",
+            "artist": "Manga Orikado"
+        },
+        {
+            "mood": "storm",
+            "videoId": "crByhdQxb94",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NX আন্তর্জাতিক সংবাদ"
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "dh9Z_efl89M",
-            "name": "Trump Latest Speech LIVE: Trump's Big Warning, World On Edge ! | White House Briefing | US News",
-            "artist": "Times Now Plus"
+            "videoId": "nFjheUV8txs",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "a6iq9Yoar10",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  11 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আজকের SOMAY NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "On3CiQiBtZQ",
-            "name": "Shivsena Court Case Today LIVE | Uddhav Thackeray यांना शिवसेना पक्ष, चिन्ह मिळणार का? Eknath Shinde",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0tedQuDFoMk",
-            "name": "Sandeep Chaudhary: UP Election से लेकर Jantar-Mantar तक विश्लेषक का बड़ा खुलासा | Rahul Gandhi |Shah",
+            "videoId": "S4mA2Eunqns",
+            "name": "Ranchi Student Protest Latest News LIVE: नहीं झुकेगी सोरेन सरकार? | JMM | Congress | BJP | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_BDmwNwZ3tg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Top10News"
+            "videoId": "uv6t7IlvXbU",
+            "name": "PM Modi LIVE: Ex-President Ram Nath Kovind की Book Release Program से सीधा प्रसारण | BJP",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "wRm8jUzop7U",
-            "name": "Hong Kong Breaks 142-Year Heat Record | Makkah Defense Agreement| ARY News 10 PM Headlines",
-            "artist": "ARY News"
+            "videoId": "VAFbFS7c8IA",
+            "name": "Big Political Statement: The Real Problem Is Leadership | M News Plus",
+            "artist": "M Plus PK"
         },
         {
             "mood": "storm",
-            "videoId": "T-KodqkqPZw",
-            "name": "11 August | LIVE World & Middle East Hindi News | Duniya Bhar ki Khabrein | Azad Bol India",
-            "artist": "AZAD BOL INDIA"
+            "videoId": "MeFLvhmfFF4",
+            "name": "Today Headlines | 12 AUG  2026 | Morning 10 AM Headlines |MorningHeadlines |LatestNews |10amheadline",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
