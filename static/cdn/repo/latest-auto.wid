@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260813T071652.852Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260813T125503.038Z-l4t35t"
   type: "state"
-  created: "2026-08-13T07:16:52.852Z"
+  created: "2026-08-13T12:55:03.038Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T071652.852Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T125503.038Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qTXvZrqdiOw"
-        name: "Iran America War: 12 बजते ही Bab-el-Mandeb में Saudi के जहाज को अमेरिका ने उड़ाया! | Hormouz | Trump"
+        videoId: "dNhbdXe28cg"
+        name: "Today Evening Headlines | 13 AUG 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TvLkzz4hvE8"
+        name: "FCRA Bill Latest News: 6 बजते ही FCRA बिल पर आई सबसे बड़ी खबर!! FCRA Amendment Bill 2026"
         artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pbEmQqwLhc8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EnBtIxjXDOY"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | Parliament"
+        videoId: "2W7Zc2HsPsU"
+        name: "Rahul Gandhi News LIVE: आखिरी दिन आमने-सामने राहुल Vs शाह..संसद में छिड़ा 'महासंग्राम'! | Amit Shah"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tgwUI03522I"
+        videoId: "kY7wqGOVUsY"
+        name: "Sukhbir Badal Attack: कौन है सुखबीर बादल का हमलावर? | Breaking News | Latest News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bG56pmPQjF4"
+        name: "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LvNepYQvyJE"
+        name: "Iran America War LIVE : पलट गया पूरा युद्ध...! | 13 August War | Trump Vs Mojtaba | Hormuz | Trump"
+        artist: "News State"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zNDfLK7vjiE"
+        name: "Parliament Monsoon Session LIVE: सरकार का घेराव करने के लिए तैयार राहुल? | Parliament Session | FCRA"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DioJMwZspXw"
+        name: "Abhijeet Dipke Big Announcement LIVE: दिपके का बड़ा ऐलान! | Jantar Mantar Protest | CJP | Ashutosh"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "o888RNwvvEE"
+        name: "Parliament Monsoon Session LIVE | Congress | संसद में भारी हंगामा, विपक्ष का  बड़ा ऐलान..! | PM Modi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4aTri-Bex9Y"
+        name: "Priyanka Gandhi Attack on BJP LIVE: 'PM मोदी को माफी मांगनी चाहिए' | Congress Protest | Parliament"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f5M5wZblch0"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "WorldNews Bangla tv"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "f3uLP1K7jo0"
-        name: "FCRA Amedment Bill News LIVE: FCRA पर विपक्ष ने उड़ाए BJP के होश? | Rahul Gandhi | Amit Shah"
+        videoId: "KiGyhSIVvfQ"
+        name: "Rajya Sabha Proceedings LIVE: विपक्ष ने स्पीकर के सामने रखी बड़ी मांग | Mallikarjun Kharge | BJP"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_JwmpbcRHt0"
-        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0NA-4MsuJyw"
-        name: "गांजा के नशे में पायलट ने उड़ाया विमान ,फिर जो हुआ...LIVE |Air India Pilot Marijuana Test Positive"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7HIeXBHDTMc"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ১৩.০৮.২০২৬ | Today News | Latest News | Ajker News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KN1NmmWBOcQ"
-        name: "WORLD NEWS LIVE: Colombia Earthquake Rescue Underway | Rescuers Race to Save Lives"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bFjwrjXA_vo"
-        name: "FCRA Bill Latest News: अभी-अभी FCRA बिल पर संसद से आई सबसे बड़ी खबर! FCRA Amendment Bill 2026"
-        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-13T07:16:52.852Z"
+  exported_at: "2026-08-13T12:55:03.038Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-13T07:16:52.816Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-13T12:55:02.994Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
