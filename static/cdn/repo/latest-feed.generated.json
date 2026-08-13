@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-12T18:53:15.043Z",
+    "generatedAt": "2026-08-13T01:21:49.631Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SKIJIx-vihc",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "6j3IfVy9qXw",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 13August News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LowPtRsh2ss",
+            "videoId": "7zb4esMOII4",
+            "name": "LIVE: A Min Ago ! | U.S.-Iran War Update | Breaking | World News | White House | Announcement",
+            "artist": "Times Now Plus"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QvR_XqQeAb8",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "আন্তর্জাতিক সব খবর"
         },
         {
             "mood": "storm",
-            "videoId": "f5M5wZblch0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nc57aIq46VU",
-            "name": "FCRA Bill Latest News: अभी-अभी FCRA बिल पर संसद से आई सबसे बड़ी खबर! FCRA Amendment Bill 2026",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2P6ec2lAJM8",
-            "name": "Netanyahu Arrest Warrant News : ICC Action Explained | Gaza War Case | World News | News18 J&K",
-            "artist": "News18 J&K"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TkIHMGuRSJQ",
-            "name": "🟠Latest Gujarat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather Updates | Fatafat News | Monsoon 2026",
+            "videoId": "m6SbvGSkFT4",
+            "name": "Gujarat Fatafat LIVE | આજના તમામ મહત્વના સમાચાર | Latest Gujarati News | Superfast | News18 Gujarati",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "d7-VLGRbbqY",
-            "name": "War News LIVE | Houthi Missiles Hit Al-Makha? Port City Faces New Escalation In Yemen War | Iran",
-            "artist": "Mint"
+            "videoId": "Ip4x0zA8Xck",
+            "name": "Space experts break down the latest in space exploration",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "TMcSjQ2b8kE",
-            "name": "FCRA Bill Latest News: FCRA बिल पर संसद में संग्राम! विपक्ष ने कसी कमर! FCRA Amendment Bill 2026",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "1Zem1CF7Fb4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World View News BD"
         },
         {
             "mood": "storm",
-            "videoId": "ppaCrJ6rQVQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "-EaQxwiDT60",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8WEUNNbB8dI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  12 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আজকের SOMAY NEWS"
+            "videoId": "Q-fzApZvRJU",
+            "name": "Jury selection to begin in latest social media addiction trial against Meta",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
