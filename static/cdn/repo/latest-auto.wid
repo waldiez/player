@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260813T125503.038Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260813T185359.716Z-l4t35t"
   type: "state"
-  created: "2026-08-13T12:55:03.038Z"
+  created: "2026-08-13T18:53:59.716Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T125503.038Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T185359.716Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "dNhbdXe28cg"
-        name: "Today Evening Headlines | 13 AUG 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines"
-        artist: "Sathiyam News"
+        videoId: "NkprmR1lbSM"
+        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TvLkzz4hvE8"
-        name: "FCRA Bill Latest News: 6 बजते ही FCRA बिल पर आई सबसे बड़ी खबर!! FCRA Amendment Bill 2026"
-        artist: "TV9 Bharatvarsh"
+        videoId: "jRdfahs6RB8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2W7Zc2HsPsU"
-        name: "Rahul Gandhi News LIVE: आखिरी दिन आमने-सामने राहुल Vs शाह..संसद में छिड़ा 'महासंग्राम'! | Amit Shah"
-        artist: "ABP NEWS"
+        videoId: "14P9CWcu_l0"
+        name: "Global News LIVE: Hormuz Tensions | Putin-Japan Row | China Rocket Failure | Ebola Crisis"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kY7wqGOVUsY"
-        name: "Sukhbir Badal Attack: कौन है सुखबीर बादल का हमलावर? | Breaking News | Latest News"
-        artist: "ABP NEWS"
+        videoId: "DqieVeFmwyQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bG56pmPQjF4"
-        name: "Donald Trump LIVE: Trump Delivers Urgent Message Amid Iran Deal | US News LIVE | Trump Speech LIVE"
-        artist: "MIRROR NOW"
+        videoId: "zYcpqMZYoRk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক প্রতিদিন"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LvNepYQvyJE"
-        name: "Iran America War LIVE : पलट गया पूरा युद्ध...! | 13 August War | Trump Vs Mojtaba | Hormuz | Trump"
-        artist: "News State"
+        videoId: "_Mt8Lsbb_PE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zNDfLK7vjiE"
-        name: "Parliament Monsoon Session LIVE: सरकार का घेराव करने के लिए तैयार राहुल? | Parliament Session | FCRA"
-        artist: "ABP NEWS"
+        videoId: "C4qBbUTIdIw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DioJMwZspXw"
-        name: "Abhijeet Dipke Big Announcement LIVE: दिपके का बड़ा ऐलान! | Jantar Mantar Protest | CJP | Ashutosh"
-        artist: "ABP NEWS"
+        videoId: "XE6rnQmJKbo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o888RNwvvEE"
-        name: "Parliament Monsoon Session LIVE | Congress | संसद में भारी हंगामा, विपक्ष का  बड़ा ऐलान..! | PM Modi"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4aTri-Bex9Y"
-        name: "Priyanka Gandhi Attack on BJP LIVE: 'PM मोदी को माफी मांगनी चाहिए' | Congress Protest | Parliament"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "f5M5wZblch0"
+        videoId: "LowPtRsh2ss"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KiGyhSIVvfQ"
-        name: "Rajya Sabha Proceedings LIVE: विपक्ष ने स्पीकर के सामने रखी बड़ी मांग | Mallikarjun Kharge | BJP"
-        artist: "ABP NEWS"
+        videoId: "Usz8zv32ykI"
+        name: "US NEWS Live: Rubio Declares Iran War 'Over'! US Shifts To 'Phase Two', Deal Or Regime Takeover?"
+        artist: "ET Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-13T12:55:03.038Z"
+  exported_at: "2026-08-13T18:53:59.716Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-13T12:55:02.994Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-13T18:53:59.672Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
