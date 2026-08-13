@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260813T012149.673Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260813T071652.852Z-l4t35t"
   type: "state"
-  created: "2026-08-13T01:21:49.673Z"
+  created: "2026-08-13T07:16:52.852Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T012149.673Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260813T071652.852Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6j3IfVy9qXw"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 13August News"
+        videoId: "qTXvZrqdiOw"
+        name: "Iran America War: 12 बजते ही Bab-el-Mandeb में Saudi के जहाज को अमेरिका ने उड़ाया! | Hormouz | Trump"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pbEmQqwLhc8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EnBtIxjXDOY"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | Parliament"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7zb4esMOII4"
-        name: "LIVE: A Min Ago ! | U.S.-Iran War Update | Breaking | World News | White House | Announcement"
-        artist: "Times Now Plus"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QvR_XqQeAb8"
+        videoId: "tgwUI03522I"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সব খবর"
+        artist: "WorldNews Bangla tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m6SbvGSkFT4"
-        name: "Gujarat Fatafat LIVE | આજના તમામ મહત્વના સમાચાર | Latest Gujarati News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "f3uLP1K7jo0"
+        name: "FCRA Amedment Bill News LIVE: FCRA पर विपक्ष ने उड़ाए BJP के होश? | Rahul Gandhi | Amit Shah"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ip4x0zA8Xck"
-        name: "Space experts break down the latest in space exploration"
-        artist: "ABC News"
+        videoId: "_JwmpbcRHt0"
+        name: "Putin LIVE: Putin’s Final Warning Sends Shockwaves Worldwide | World News | Russia News LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1Zem1CF7Fb4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "World View News BD"
+        videoId: "0NA-4MsuJyw"
+        name: "गांजा के नशे में पायलट ने उड़ाया विमान ,फिर जो हुआ...LIVE |Air India Pilot Marijuana Test Positive"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q-fzApZvRJU"
-        name: "Jury selection to begin in latest social media addiction trial against Meta"
-        artist: "ABC News"
+        videoId: "7HIeXBHDTMc"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ১৩.০৮.২০২৬ | Today News | Latest News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KN1NmmWBOcQ"
+        name: "WORLD NEWS LIVE: Colombia Earthquake Rescue Underway | Rescuers Race to Save Lives"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bFjwrjXA_vo"
+        name: "FCRA Bill Latest News: अभी-अभी FCRA बिल पर संसद से आई सबसे बड़ी खबर! FCRA Amendment Bill 2026"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-13T01:21:49.673Z"
+  exported_at: "2026-08-13T07:16:52.852Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-13T01:21:49.631Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-13T07:16:52.816Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
