@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260814T012115.615Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260814T071501.241Z-l4t35t"
   type: "state"
-  created: "2026-08-14T01:21:15.615Z"
+  created: "2026-08-14T07:15:01.241Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260814T012115.615Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260814T071501.241Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "XHB8e5nSMME"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বাংলা সংবাদ ৭১"
+        videoId: "aCVK712ZgBE"
+        name: "Today Headlines | 14 AUG  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "25jLSS_aa-8"
-        name: "🔴LIVE: World News Tonight with David Muir – Full Broadcast | August 13, 2026 | Breaking News"
-        artist: "COURTpulseUSA"
+        videoId: "7vkNsYPyzBI"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 14 August 2026| Live News Bangla | International News Today "
+        artist: "The News Live 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AEGX0oIJ75s"
-        name: "LIVE | President Trump Signs an Executive Order, | World News | White House | Announcement"
-        artist: "Times Now Plus"
+        videoId: "NkprmR1lbSM"
+        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3al2B2knW30"
-        name: "Trump LIVE:  Major Statement From White House Statement |  World News LIVE | USA News | Top News"
-        artist: "Times Now Plus"
+        videoId: "IosvjTHWWW8"
+        name: "Balochistan Declares Independence News LIVE: BLA लड़ाकों ने PAK को दो हिस्सों में बांटा? | Breaking"
+        artist: "Republic Bharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vnsBpmVIGA4"
-        name: "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Latest Gujarati News | News 18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "IJvJF4I81DE"
+        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0SFhI1B8Kv8"
-        name: "LIVE | Pentagon Reveals Shocking Military Setback As World’s Largest Army Faces Major Crisis"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VecvdQuNoR0"
-        name: "Pratima Mishra: Punjab में भर्ती पर HC की रोक, पेपर लीक के आरोपों से गरमाया मामला | Latest News"
+        videoId: "d9HiKAXA3nw"
+        name: "Abhijeet Dipke Big Announcement LIVE: CJP की मीटिंग, दीपके का बड़ा ऐलान! | Jantar Mantar Protest"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tq9IhuJLJYc"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "IJ208HTydc8"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ১৪.০৮.২০২৬ | Today News | Latest News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hvfdL1oPHVs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 13 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "দেশ নিউজ ৭১"
+        videoId: "WBBmXbJMx3U"
+        name: "Sukhbir Badal Attacked News LIVE: सुखबीर बादल पर हमले का पूरा वीडियो सामने! | Shiromani Akali Dal"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-14T01:21:15.615Z"
+  exported_at: "2026-08-14T07:15:01.241Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-14T01:21:15.573Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-14T07:15:01.200Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
