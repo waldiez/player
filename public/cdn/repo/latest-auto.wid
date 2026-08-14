@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260814T125115.183Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260814T184342.541Z-l4t35t"
   type: "state"
-  created: "2026-08-14T12:51:15.183Z"
+  created: "2026-08-14T18:43:42.541Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260814T125115.183Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260814T184342.541Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cisrTdf1YNo"
-        name: "LIVE: Srisailam Dam Gates Open Latest Updates  | శ్రీశైలంకు వరద బంద్! | ZEE News"
-        artist: "Zee Telugu News"
+        videoId: "xaMerWS4Lww"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oPV5ZpmuTls"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "Wuki3Hd204M"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  15 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আজকের SOMAY NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "85JHMKSAAq8"
-        name: "🔴LIVE:  আজকের আন্তর্জাতিক  খবর BBC World 14 August (2026) || World News Bangla || International News"
-        artist: "Joamunea Tv"
+        videoId: "7pEJMvyCBQs"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hK8t3EBxCe4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
+        videoId: "snY5YfZCzk0"
+        name: "🔴LIVE: தமிழ்நாட்டை உலுக்கும் பள்ளி மாணவியின் வீடியோ"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QOM9cUOnMlM"
-        name: "Ambala Protest LIVE: फिर होगा कुछ बड़ा? | Panjokhra Sahib Dispute | Haryana News | Breaking"
+        videoId: "irk7UqCgKgg"
+        name: "🔴LIVE: ''தளபதி எங்களை ஏமாற்றிவிட்டார்...'' - கொந்தளிக்கும் தவெக தொண்டர்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "47iDUuDsfSA"
+        name: "🔴LIVE: Cm Vijay | CM விஜய்-க்கு வந்த மகிழ்ச்சி செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IJvJF4I81DE"
+        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
+        artist: "News18 J&K"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7TWRWc_Emgo"
+        name: "Bharat Ki Baat LIVE: Gen-Z के भविष्य पर CJI Vs BCI! | NALSAR Controversy | CJP Protest | Telangana"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X_JxQG77H6Y"
-        name: "Sikh Big Protest In Ambala LIVE: अंबाला में हालात हुए बेकाबू? | Gurudwara Panjokhra Sahib | Breaking"
-        artist: "ABP NEWS"
+        videoId: "o1fxe9YTJpw"
+        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3KG1OS-t9DA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
+        videoId: "fM00ckh59bE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tRWjs0RMFQc"
-        name: "PoK Protest LIVE: तेज हुआ प्रदर्शन लोगों में भयंकर आक्रोश! | Shehbaz Sharif | Pakistan | Violence"
-        artist: "ABP NEWS"
+        videoId: "uhR-qZDfnDQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BAC আন্তর্জাতিক সংবাদ "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "F-ULXf7BHPw"
-        name: "Chamoli Tunnel Collapse News LIVE: 7 मजदूरों की मौत अचानक से अंदर घुसा पानी | Terrifying Accident"
-        artist: "ABP NEWS"
+        videoId: "C6-vZ3VCh3U"
+        name: "ABP Majha LIVE | 14 August 2026 | Maharashtra Politics | Devendra Fadnavis | ABP Majha LIVE"
+        artist: "ABP MAJHA"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-14T12:51:15.183Z"
+  exported_at: "2026-08-14T18:43:42.541Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-14T12:51:15.138Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-14T18:43:42.511Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
