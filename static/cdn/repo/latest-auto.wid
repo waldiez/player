@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260814T184342.541Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260815T005215.224Z-l4t35t"
   type: "state"
-  created: "2026-08-14T18:43:42.541Z"
+  created: "2026-08-15T00:52:15.224Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260814T184342.541Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260815T005215.224Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xaMerWS4Lww"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "mCZMwIVjPDU"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wuki3Hd204M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  15 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আজকের SOMAY NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7pEJMvyCBQs"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "snY5YfZCzk0"
-        name: "🔴LIVE: தமிழ்நாட்டை உலுக்கும் பள்ளி மாணவியின் வீடியோ"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "irk7UqCgKgg"
-        name: "🔴LIVE: ''தளபதி எங்களை ஏமாற்றிவிட்டார்...'' - கொந்தளிக்கும் தவெக தொண்டர்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "47iDUuDsfSA"
-        name: "🔴LIVE: Cm Vijay | CM விஜய்-க்கு வந்த மகிழ்ச்சி செய்தி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IJvJF4I81DE"
-        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
-        artist: "News18 J&K"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7TWRWc_Emgo"
-        name: "Bharat Ki Baat LIVE: Gen-Z के भविष्य पर CJI Vs BCI! | NALSAR Controversy | CJP Protest | Telangana"
+        videoId: "n6S-UyMXDeg"
+        name: "Sandeep Chaudhary LIVE: विरोध का अधिकार...छात्रों पर क्यों लटकी तलवार? | CJI Vs BCI | NALSAR"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o1fxe9YTJpw"
-        name: "Balochistan Independence Declaration Live: Big Blow to Pakistan? World News | News18 J&K"
-        artist: "News18 J&K"
+        videoId: "z3eiXmb5Njw"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 15August News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fM00ckh59bE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "5-mN6sDuwUg"
+        name: "US News LIVE: Donald Trump Warns Nuclear War Starts Now as America Goes on High Alert Today"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uhR-qZDfnDQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
+        videoId: "A_eEGQd0GVA"
+        name: "🔴 LIVE: Breaking Political News | Latest Updates & World Politics"
+        artist: "politics new 9294"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C6-vZ3VCh3U"
-        name: "ABP Majha LIVE | 14 August 2026 | Maharashtra Politics | Devendra Fadnavis | ABP Majha LIVE"
-        artist: "ABP MAJHA"
+        videoId: "7TdzrISw8cE"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.08.2026) | 11 PM Headlines |Thanthi TV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XV7pcGwJKnc"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 14 Aug 2026 || World News Bangla || International News Today"
+        artist: "Jamuna Express"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-14T18:43:42.541Z"
+  exported_at: "2026-08-15T00:52:15.224Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-14T18:43:42.511Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-15T00:52:15.179Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
