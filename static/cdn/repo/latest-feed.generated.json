@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-15T00:52:15.179Z",
+    "generatedAt": "2026-08-15T06:25:57.295Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mCZMwIVjPDU",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "n6S-UyMXDeg",
-            "name": "Sandeep Chaudhary LIVE: विरोध का अधिकार...छात्रों पर क्यों लटकी तलवार? | CJI Vs BCI | NALSAR",
+            "videoId": "UlwBN9tuUYE",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | Parliament",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "z3eiXmb5Njw",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 15August News",
+            "videoId": "oyAXK5cOnOk",
+            "name": "PM Modi Red Fort Speech LIVE: PM मोदी का भाषण सुन Gen-Z में खुशी की लहर!’ | 15 August | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "5-mN6sDuwUg",
-            "name": "US News LIVE: Donald Trump Warns Nuclear War Starts Now as America Goes on High Alert Today",
-            "artist": "ET Now"
+            "videoId": "Cgo-XDREB8c",
+            "name": "Independence Day LIVE: लाल किले से सीधे | PM Modi | Red Fort Live Updates | 80th Independence Day",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "A_eEGQd0GVA",
-            "name": "🔴 LIVE: Breaking Political News | Latest Updates & World Politics",
-            "artist": "politics new 9294"
+            "videoId": "A81faQ37HPc",
+            "name": "Independence Day Live : CM Vijay | Trisha | முதல் முறை கொடி ஏற்றும் விஜய் - திரிஷா வருகை",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "7TdzrISw8cE",
-            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.08.2026) | 11 PM Headlines |Thanthi TV",
-            "artist": "Thanthi TV"
+            "videoId": "_3ekG8WKsLs",
+            "name": "PM Modi Red Fort Speech LIVE | 80th Independence Day | 15 August | Gen-Z | Viksit Bharat | Modi",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "XV7pcGwJKnc",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 14 Aug 2026 || World News Bangla || International News Today",
-            "artist": "Jamuna Express"
+            "videoId": "Qv8qNK7zScc",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 15 August 2026| Live News Bangla | International News Today ",
+            "artist": "The News Live 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6Ifc1XazXBU",
+            "name": "80th Independence Day LIVE: 80वें स्वतंत्रता दिवस की धूम | PM Modi Speech | Red Fort | Indian Army",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "reesvoqYMOQ",
+            "name": "80th Independence Day LIVE: लाल किल पर पहुंचे पीएम मोदी | 15 August Day | PM Modi Red Fort Speech",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MfoZsncViC8",
+            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
+            "artist": "The Savera Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QO9vfcSPc40",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 15 Aug",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wx3ky-eRLg0",
+            "name": "ABC News Live Prime: August 14, 2026",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
