@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-16T12:25:27.878Z",
+    "generatedAt": "2026-08-16T18:18:31.663Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "wLr6e7XeYrc",
-            "name": "Punjab Band News LIVE: पंजाब बंद का ऐलान होते ही एक्शनमें पुलिस, 6 दिन बाद...! |Chandigarh Protest",
+            "videoId": "Rd8PP-i46wg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YLLvOBmDVYk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ABetxpeF778",
+            "name": "World News Live: Putin Declares \"War At Sea\"! Russia Will Seize European Vessels, WWIII FEAR RISE!",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Z1vBu3G0-Jo",
+            "name": "IRAN WAR LIVE: Trump Calls Hormuz 'US Territory', Iran Calls it 'Lies and Fabrication'",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cc5NJvrNNZ0",
+            "name": "Trump Emergency Briefing LIVE | SUDDEN Oval Office Address Shockwaves Across America | World News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JBmB-Du7c_s",
+            "name": "\"My Pronouns are Pay/Me \" [DRUNK WORLD NEWS LIVE]",
+            "artist": "DashBlue"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TDTBLPEwCP4",
+            "name": "Romana Isar Khan | Sonia Gandhi News LIVE: सोनिया का 'वो' इशारा, खरगे ने किसको पुकारा?|Vande Mataram",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "MvaWAH09c8M",
-            "name": "Mahadagnal LIVE: वंदे मातरम् सियासी 'रण '! | Amit Shah | Congress | Sonia Gandhi | BJP",
+            "videoId": "TRP2I-auOZA",
+            "name": "UP Election 2027: क्या Gen Z बदलेगा यूपी का चुनावी गणित? | Latest News | Breaking News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "efIbwZNHfc8",
-            "name": "TMC Asish Banerjee Death News LIVE: पूर्व डिप्टी स्पीकर ने TMC ऑफिस में लगाई फांसी... | Bengal",
+            "videoId": "nUD3IQMOnxI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xEgfTIqzVbk",
+            "name": "Jharkhand Protesters Demand News LIVE: लो छात्रों ने सरकार को दिया 18 अगस्त तक का अल्टीमेटम!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "J9uKQ6zsX8Y",
-            "name": "Punjab Protest News LIVE : पंजाब प्रदर्शन में हुआ बड़ा ऐलानLIVE |  Breaking | Chandigarh News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g4uYklkaq5Y",
-            "name": "Congress Office Vande Mataram News Live: ‘वंदे मातरम’ गाने पर भड़कीं Sonia Gandhi? Rahul Gandhi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Gin5cqsoh9g",
-            "name": "Bengal Deputy Speaker Death Case LIVE: बंगाल के इस बड़े नेता ने की खुदकुशी | Ashish Banerjee",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9hupP30CkZE",
-            "name": "🔴LIVE : CM VIJAY | Karnataka | TVK | அத்துமீறிய கர்நாடகாவில் விவசாயிகள் கொ*ல.. தவெக கண்டனம்",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iZqaRwojZ3Q",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I4v3Zj-cXEk",
-            "name": "Congress Office Vande Mataram News Live: ‘वंदे मातरम’ गाने पर भड़कीं Sonia Gandhi? Rahul Gandhi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LgYSvz5TLe0",
-            "name": "Breaking News LIVE: फंदे से लटका मिला Mamata के करीबी और Bengal के पूर्व डिप्टी स्पीकर का शव",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7UB-G2ITNY8",
-            "name": "Pakistan News Live : भारत के सामने गिड़गिड़ाया पाकिस्तान! | Shehbaaz Sharif | Asim Munir | PM Modi",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z4_I7yNtW5U",
-            "name": "🔴LIVE: நயினாருக்கு இடியை இறக்கிய செய்தி",
-            "artist": "Sathiyam News"
+            "videoId": "KPW25KweA_k",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "NX আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {

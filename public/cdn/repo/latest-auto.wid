@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260816T122527.910Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260816T181831.703Z-l4t35t"
   type: "state"
-  created: "2026-08-16T12:25:27.910Z"
+  created: "2026-08-16T18:18:31.703Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260816T122527.910Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260816T181831.703Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wLr6e7XeYrc"
-        name: "Punjab Band News LIVE: पंजाब बंद का ऐलान होते ही एक्शनमें पुलिस, 6 दिन बाद...! |Chandigarh Protest"
+        videoId: "Rd8PP-i46wg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YLLvOBmDVYk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ABetxpeF778"
+        name: "World News Live: Putin Declares \"War At Sea\"! Russia Will Seize European Vessels, WWIII FEAR RISE!"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Z1vBu3G0-Jo"
+        name: "IRAN WAR LIVE: Trump Calls Hormuz 'US Territory', Iran Calls it 'Lies and Fabrication'"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cc5NJvrNNZ0"
+        name: "Trump Emergency Briefing LIVE | SUDDEN Oval Office Address Shockwaves Across America | World News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TDTBLPEwCP4"
+        name: "Romana Isar Khan | Sonia Gandhi News LIVE: सोनिया का 'वो' इशारा, खरगे ने किसको पुकारा?|Vande Mataram"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MvaWAH09c8M"
-        name: "Mahadagnal LIVE: वंदे मातरम् सियासी 'रण '! | Amit Shah | Congress | Sonia Gandhi | BJP"
+        videoId: "TRP2I-auOZA"
+        name: "UP Election 2027: क्या Gen Z बदलेगा यूपी का चुनावी गणित? | Latest News | Breaking News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "efIbwZNHfc8"
-        name: "TMC Asish Banerjee Death News LIVE: पूर्व डिप्टी स्पीकर ने TMC ऑफिस में लगाई फांसी... | Bengal"
+        videoId: "nUD3IQMOnxI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xEgfTIqzVbk"
+        name: "Jharkhand Protesters Demand News LIVE: लो छात्रों ने सरकार को दिया 18 अगस्त तक का अल्टीमेटम!"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "J9uKQ6zsX8Y"
-        name: "Punjab Protest News LIVE : पंजाब प्रदर्शन में हुआ बड़ा ऐलानLIVE |  Breaking | Chandigarh News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g4uYklkaq5Y"
-        name: "Congress Office Vande Mataram News Live: ‘वंदे मातरम’ गाने पर भड़कीं Sonia Gandhi? Rahul Gandhi"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Gin5cqsoh9g"
-        name: "Bengal Deputy Speaker Death Case LIVE: बंगाल के इस बड़े नेता ने की खुदकुशी | Ashish Banerjee"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9hupP30CkZE"
-        name: "🔴LIVE : CM VIJAY | Karnataka | TVK | அத்துமீறிய கர்நாடகாவில் விவசாயிகள் கொ*ல.. தவெக கண்டனம்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iZqaRwojZ3Q"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "I4v3Zj-cXEk"
-        name: "Congress Office Vande Mataram News Live: ‘वंदे मातरम’ गाने पर भड़कीं Sonia Gandhi? Rahul Gandhi"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LgYSvz5TLe0"
-        name: "Breaking News LIVE: फंदे से लटका मिला Mamata के करीबी और Bengal के पूर्व डिप्टी स्पीकर का शव"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7UB-G2ITNY8"
-        name: "Pakistan News Live : भारत के सामने गिड़गिड़ाया पाकिस्तान! | Shehbaaz Sharif | Asim Munir | PM Modi"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "z4_I7yNtW5U"
-        name: "🔴LIVE: நயினாருக்கு இடியை இறக்கிய செய்தி"
-        artist: "Sathiyam News"
+        videoId: "KPW25KweA_k"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-16T12:25:27.910Z"
+  exported_at: "2026-08-16T18:18:31.703Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-16T12:25:27.878Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-16T18:18:31.663Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: JBmB-Du7c_s (recent, keywords:3, no blocked terms, trusted-channel ok, llm score 55 < 70)"
