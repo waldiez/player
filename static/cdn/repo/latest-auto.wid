@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260816T005522.206Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260816T062803.295Z-l4t35t"
   type: "state"
-  created: "2026-08-16T00:55:22.206Z"
+  created: "2026-08-16T06:28:03.295Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260816T005522.206Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260816T062803.295Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "HiisstDpOyg"
-        name: "Gujarati News LIVE | Independence Day 2026 | 12 વાગ્યાના મોટા સમાચાર | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "mx5NKHtjFX0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "WORLD NEWS UPDATE 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CjcDKQZOEQQ"
-        name: "Iran Mocks Trump: “Soon In A Trash Can” | Secret Aircraft Switch Sparks Fresh Taunt"
-        artist: "CNN-News18"
+        videoId: "14zishdqxo0"
+        name: "🔴LIVE: Speed News | 24 Headlines | 16-08-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1eeyEbM5IaM"
-        name: "LIVE: Srisailam Dam Gates Open Latest Updates | శ్రీశైలం నుంచి సాగర్ కు పెరుగుతున్న వరద | ZEE News"
-        artist: "Zee Telugu News"
+        videoId: "H3Zz-45vPNs"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 16 August 2026| Live News Bangla | International News Today"
+        artist: "The News Live 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X92Rx0W3mqY"
-        name: "US NewsLIVE: Nuclear War Risk? | US-Iran War | Trump Latest Warning | World News | Pentagon"
-        artist: "Times Now Plus"
+        videoId: "ltQGO4Rzjr8"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4VAEizcNPYs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্ব আপডেট নিউজ"
+        videoId: "AXPKZkgsXzM"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 16 Aug"
+        artist: "Sairbeen News 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rzDvmqvpkZw"
+        name: "PM Modi Speech Red Fort: लाल किले से मोदी बोले... 'दिमागी नक्सल' बयान... विपक्ष को लगी मिर्ची !"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gHNPTwA4i6Y"
+        name: "Sikh Protest News LIVE :पंजाब बंद परसामने आई ये बड़ी खबर, पुलिस से सीधे भिड़ंत! |  Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tx3Cf4VMutM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UdtVd3aOaqo"
+        name: "Chandigarh Protest News LIVE :पंजाब में उतर आए 3000 प्रदर्शनकारी, पुलिस से सीधे भिड़ंत! |  Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rNsEiaycuU8"
+        name: "BREAKING NEWS! Pakistan on High Alert Amid Rising Iran Tensions | Imran Riaz Khan News"
+        artist: "IRK News Media"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-AdTXTXvsh0"
+        name: "🔴LIVE: Today Headlines - 16 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
+        artist: "Polimer News"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-16T00:55:22.206Z"
+  exported_at: "2026-08-16T06:28:03.295Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-16T00:55:22.164Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-16T06:28:03.258Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
