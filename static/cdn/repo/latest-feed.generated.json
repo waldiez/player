@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-15T18:18:45.542Z",
+    "generatedAt": "2026-08-16T00:55:22.164Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "02pH7nFzkJQ",
-            "name": "PM Modi’s Speech LIVE From The Red Fort | India’s 80th Independence Day | Viksit Bharat 2047",
-            "artist": "Republic World"
+            "videoId": "HiisstDpOyg",
+            "name": "Gujarati News LIVE | Independence Day 2026 | 12 વાગ્યાના મોટા સમાચાર | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "yjXorZF8tNo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "CjcDKQZOEQQ",
+            "name": "Iran Mocks Trump: “Soon In A Trash Can” | Secret Aircraft Switch Sparks Fresh Taunt",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "PTwCcpwC8fs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BanglaWorldNews"
+            "videoId": "1eeyEbM5IaM",
+            "name": "LIVE: Srisailam Dam Gates Open Latest Updates | శ్రీశైలం నుంచి సాగర్ కు పెరుగుతున్న వరద | ZEE News",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "YMrpwvMuOFk",
-            "name": "Aaj Ki Taaja Khabar LIVE: 15 August 2026 | PM Modi | 80th Independence Day | Taaza Khabar",
-            "artist": "Times Now Navbharat"
+            "videoId": "X92Rx0W3mqY",
+            "name": "US NewsLIVE: Nuclear War Risk? | US-Iran War | Trump Latest Warning | World News | Pentagon",
+            "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "vbikwcy5-IY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zywwoPHZWlU",
-            "name": "Mahesh Varma के आंकड़े निकले गलत! Sandeep Chaudhary ने LIVE खोली पोल | independence Day 2026",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7WDMWYMJF5E",
-            "name": "PM Modi Red Fort Speech LIVE: सोनिया सिंह ने PM मोदी के संग फहराया तिरंगा, देखता रह गया विपक्ष!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kb8VEoqF_-w",
-            "name": "Donald Trump LIVE: Trump’s Last Minute Move Shocks The Entire Nation | US News | US-Iran War News",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UUNbfULexiI",
-            "name": "Chandigarh Protest News LIVE: 21 अगस्त को पंजाब में कुछ बड़ा होने वाला है! | Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YhlcnUel-F0",
-            "name": "Operation Sindoor Heroes LIVE: ऑपरेशन सिंदूर के हीरो! | Independence Day 2026 | Indian Army",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UV7VUIKSrC0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
+            "videoId": "4VAEizcNPYs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বিশ্ব আপডেট নিউজ"
         }
     ],
     "sourceFilters": {
