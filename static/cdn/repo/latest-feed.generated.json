@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-16T18:18:31.663Z",
+    "generatedAt": "2026-08-17T00:53:26.230Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Rd8PP-i46wg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
+            "videoId": "gVy7eu4kd_s",
+            "name": "LIVE: ABC News Live - Sunday, August 16 | ABC News",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "YLLvOBmDVYk",
+            "videoId": "NIicZ7uxmNM",
+            "name": "LIVE | Pentagon Reveals Shocking Military Setback As World’s Largest Army Faces Major Crisis",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RTXWatEKRl4",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BQkhgG7DXBw",
+            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (16-08-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0gHBwLoyR20",
+            "name": "Kumar Vishwas on BJP News LIVE: कुमार विश्वास के तीर...किस पर निशाना गंभीर? | MP Dewas | ABP News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tbdVrzSooW4",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "Top10News"
         },
         {
             "mood": "storm",
-            "videoId": "ABetxpeF778",
-            "name": "World News Live: Putin Declares \"War At Sea\"! Russia Will Seize European Vessels, WWIII FEAR RISE!",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z1vBu3G0-Jo",
-            "name": "IRAN WAR LIVE: Trump Calls Hormuz 'US Territory', Iran Calls it 'Lies and Fabrication'",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cc5NJvrNNZ0",
-            "name": "Trump Emergency Briefing LIVE | SUDDEN Oval Office Address Shockwaves Across America | World News",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JBmB-Du7c_s",
-            "name": "\"My Pronouns are Pay/Me \" [DRUNK WORLD NEWS LIVE]",
-            "artist": "DashBlue"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TDTBLPEwCP4",
-            "name": "Romana Isar Khan | Sonia Gandhi News LIVE: सोनिया का 'वो' इशारा, खरगे ने किसको पुकारा?|Vande Mataram",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TRP2I-auOZA",
-            "name": "UP Election 2027: क्या Gen Z बदलेगा यूपी का चुनावी गणित? | Latest News | Breaking News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nUD3IQMOnxI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xEgfTIqzVbk",
-            "name": "Jharkhand Protesters Demand News LIVE: लो छात्रों ने सरकार को दिया 18 अगस्त तक का अल्टीमेटम!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KPW25KweA_k",
+            "videoId": "4RG94hIwfKM",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "NX আন্তর্জাতিক সংবাদ"
+            "artist": "BAC আন্তর্জাতিক সংবাদ "
         }
     ],
     "sourceFilters": {
