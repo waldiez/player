@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-17T00:53:26.230Z",
+    "generatedAt": "2026-08-17T06:40:13.801Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gVy7eu4kd_s",
-            "name": "LIVE: ABC News Live - Sunday, August 16 | ABC News",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NIicZ7uxmNM",
-            "name": "LIVE | Pentagon Reveals Shocking Military Setback As World’s Largest Army Faces Major Crisis",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RTXWatEKRl4",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BQkhgG7DXBw",
-            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (16-08-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0gHBwLoyR20",
-            "name": "Kumar Vishwas on BJP News LIVE: कुमार विश्वास के तीर...किस पर निशाना गंभीर? | MP Dewas | ABP News",
+            "videoId": "qdG1jT5JzF4",
+            "name": "Punjab Bandh News LIVE: पंजाब बंद के ऐलान ने सरकार के उड़ाए होश!, 21 तारीख पड़ेगी भारी! | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "tbdVrzSooW4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Top10News"
+            "videoId": "xbEePPU0vKg",
+            "name": "Chandigarh Protest News LIVE: पंजाब बंद पर आई बड़ी खबर | Big Breaking | Punjab Bandh | Latest News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4RG94hIwfKM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
+            "videoId": "DAg90Kdt93I",
+            "name": "Bihar  News LIVE: नाग पंचमी वाले दिन मंदिर में मची भगदड़, 8 की मौत ,मची चीख-पुकार! | Lakhisarai",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2SAGlSmYrbA",
+            "name": "17 August Big News LIVE: 17 अगस्त मौत बनकरआया!, 57 लोगों की मौत!, दुनिया के उड़े होश! | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "roFuOYWRLc0",
+            "name": "US IRAN NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YyRuwutWSs0",
+            "name": "Bihar  News LIVE: जहां हुआ हादसा, वहां से सीधे LIVE, 7 की मौत | Lakhisarai | Electrocution Death",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sA3HkMt2dWY",
+            "name": "Indonesia Earthquake News LIVE: कुदरत के कहर ने हिला दी पूरी दुनिया, बारिश, भूकंप, आग! | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-sJBiDmiBHk",
+            "name": "Sonia Gandhi News LIVE: सोनिया गांधी के खिलाफ थाने में शिकायत दर्ज, कांग्रेस में मचा हड़कंप!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XrFABVSPHUw",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 17.08.2026 | Today News | Live News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fafyb4UYoCU",
+            "name": "Bihar  News LIVE: सुबह-सुबह अचानक, 7 मौत से मचा हाहाकार! | Lakhisarai | Electrocution Death",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LUWy6pZjKbQ",
+            "name": "US News LIVE | JUST IN, Trump's Shocking White House Emergency Briefing LIVE | Donald Trump LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RD1NTObBP2Y",
+            "name": "ਹੁਣ ਬੀਬੀਆਂ ਦੇ ਖਾਤੇ 'ਚ 50-50,000! NEWS That Matters",
+            "artist": "TV Punjab"
         }
     ],
     "sourceFilters": {
