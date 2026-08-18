@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-17T18:28:17.147Z",
+    "generatedAt": "2026-08-18T00:51:53.197Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7Rd37J-Oxog",
-            "name": "Breaking News: Ranchi Protest के बीच बड़ा फैसला! | Ranchi | Breaking News | Latest News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0xX6ynjy32w",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZEphN60Iig4",
-            "name": "Iran US War Live | Trump Warns | New Attack on Oman | 10 PM News Headlines | Samaa TV",
+            "videoId": "oBOKTeJfzVY",
+            "name": "Iran-US War LIVE: Trump Threatens to Bomb Oman | 3 AM News Headlines | SAMAA TV",
             "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "r6iuFacp_Wg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "JWE2RE4EmEo",
+            "name": "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 01 AM News Headlines | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "zd7shw4lYM0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bangla Globe"
+            "videoId": "HA2w0yo6f10",
+            "name": "🔴LIVE | New Petrol & Diesel Prices Announced | Latest Fuel Price Update | SAMAA TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "GZLbYLnJqRU",
-            "name": "US Iran War Updates LIVE: Trump's Threaten to Make Hormuz US Territory | Iran Fires Back",
-            "artist": "Firstpost"
+            "videoId": "94v1dNtjpug",
+            "name": "Good Morning America Full Broadcast - Monday, August 17, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "9qQ9KNETPkA",
-            "name": "Pratima Mishra: ‘दिमागी नक्सल’ पर सियासी संग्राम, आखिर इसका मतलब क्या? | Latest News",
-            "artist": "ABP NEWS"
+            "videoId": "FxMMMVB-otU",
+            "name": "🔴LIVE:  CM Vijay | TVK | DMK | Udhayanidhi Stalin | TN Assembly 2026 | EPS | ADMK | KAS | Ministers",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "mh43Tl6T6FY",
-            "name": "US-Iran War LIVE: Iran Unleashes Deadly New Tactics | Drone Swarms & Missile Threat | Trump LIVE",
-            "artist": "Times Now"
+            "videoId": "D9lqjt_ArpM",
+            "name": "🔴LIVE : CM Vijay | Udhayanidhi Stalin | பேரவைக்கு CM விஜய் வரும்போது..உதயநிதி  எழ வேண்டும்",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "6AqK3pVVC_8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC আন্তর্জাতিক সংবাদ"
+            "videoId": "lbqi6FyuPbI",
+            "name": "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 09  PM News Headlines | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "m0rGY2K3b4E",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 17 August 2026| Live News Bangla | International News Today ",
-            "artist": "The News Live 24X7"
+            "videoId": "eYM_WkhRMRI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug'2026  বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Piku Gaming"
         }
     ],
     "sourceFilters": {

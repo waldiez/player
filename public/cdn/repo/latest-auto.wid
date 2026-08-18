@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260817T182817.177Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260818T005153.226Z-l4t35t"
   type: "state"
-  created: "2026-08-17T18:28:17.177Z"
+  created: "2026-08-18T00:51:53.226Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260817T182817.177Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260818T005153.226Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7Rd37J-Oxog"
-        name: "Breaking News: Ranchi Protest के बीच बड़ा फैसला! | Ranchi | Breaking News | Latest News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0xX6ynjy32w"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZEphN60Iig4"
-        name: "Iran US War Live | Trump Warns | New Attack on Oman | 10 PM News Headlines | Samaa TV"
+        videoId: "oBOKTeJfzVY"
+        name: "Iran-US War LIVE: Trump Threatens to Bomb Oman | 3 AM News Headlines | SAMAA TV"
         artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r6iuFacp_Wg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "JWE2RE4EmEo"
+        name: "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 01 AM News Headlines | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zd7shw4lYM0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Globe"
+        videoId: "HA2w0yo6f10"
+        name: "🔴LIVE | New Petrol & Diesel Prices Announced | Latest Fuel Price Update | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GZLbYLnJqRU"
-        name: "US Iran War Updates LIVE: Trump's Threaten to Make Hormuz US Territory | Iran Fires Back"
-        artist: "Firstpost"
+        videoId: "94v1dNtjpug"
+        name: "Good Morning America Full Broadcast - Monday, August 17, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9qQ9KNETPkA"
-        name: "Pratima Mishra: ‘दिमागी नक्सल’ पर सियासी संग्राम, आखिर इसका मतलब क्या? | Latest News"
-        artist: "ABP NEWS"
+        videoId: "FxMMMVB-otU"
+        name: "🔴LIVE:  CM Vijay | TVK | DMK | Udhayanidhi Stalin | TN Assembly 2026 | EPS | ADMK | KAS | Ministers"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mh43Tl6T6FY"
-        name: "US-Iran War LIVE: Iran Unleashes Deadly New Tactics | Drone Swarms & Missile Threat | Trump LIVE"
-        artist: "Times Now"
+        videoId: "D9lqjt_ArpM"
+        name: "🔴LIVE : CM Vijay | Udhayanidhi Stalin | பேரவைக்கு CM விஜய் வரும்போது..உதயநிதி  எழ வேண்டும்"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6AqK3pVVC_8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC আন্তর্জাতিক সংবাদ"
+        videoId: "lbqi6FyuPbI"
+        name: "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 09  PM News Headlines | Samaa TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m0rGY2K3b4E"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 17 August 2026| Live News Bangla | International News Today "
-        artist: "The News Live 24X7"
+        videoId: "eYM_WkhRMRI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug'2026  বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Piku Gaming"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-17T18:28:17.177Z"
+  exported_at: "2026-08-18T00:51:53.226Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-17T18:28:17.147Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-18T00:51:53.197Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
