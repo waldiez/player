@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260818T005153.226Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260818T063139.965Z-l4t35t"
   type: "state"
-  created: "2026-08-18T00:51:53.226Z"
+  created: "2026-08-18T06:31:39.965Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260818T005153.226Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260818T063139.965Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "oBOKTeJfzVY"
-        name: "Iran-US War LIVE: Trump Threatens to Bomb Oman | 3 AM News Headlines | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "Kh8jUfSlXnA"
+        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JWE2RE4EmEo"
-        name: "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 01 AM News Headlines | Samaa TV"
-        artist: "SAMAA TV"
+        videoId: "9xjAanCWpWc"
+        name: "আন্তর্জাতিক সময় | সকাল ৯টা | ১৮ আগস্ট ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HA2w0yo6f10"
-        name: "🔴LIVE | New Petrol & Diesel Prices Announced | Latest Fuel Price Update | SAMAA TV"
-        artist: "SAMAA TV"
+        videoId: "B9edoT39JFY"
+        name: "Iran America Deal News LIVE: अमेरिका-ईरान की डीलखत्म, अब मचेगी तबाही! | Trump | World War | India"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "94v1dNtjpug"
-        name: "Good Morning America Full Broadcast - Monday, August 17, 2026"
-        artist: "ABC News"
+        videoId: "mU84soZtGOk"
+        name: "Jharkhand Protest News LIVE: छात्रों की मांग मान गई सरकार, फोड़े पटाखे, जमकर मनाया जश्न"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FxMMMVB-otU"
-        name: "🔴LIVE:  CM Vijay | TVK | DMK | Udhayanidhi Stalin | TN Assembly 2026 | EPS | ADMK | KAS | Ministers"
-        artist: "NewsTamil 24X7"
+        videoId: "F9yuGtImoTM"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D9lqjt_ArpM"
-        name: "🔴LIVE : CM Vijay | Udhayanidhi Stalin | பேரவைக்கு CM விஜய் வரும்போது..உதயநிதி  எழ வேண்டும்"
-        artist: "NewsTamil 24X7"
+        videoId: "-pucKU7nPCY"
+        name: "Goa Congress BLA Resign News LIVE: कांग्रेस को बड़ा झटका, एक साथ 108 BLA का इस्तीफा, मचा हड़कंप!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lbqi6FyuPbI"
-        name: "Iran US War Live | Trump Warns | New Petrol Price in Pakistan | 09  PM News Headlines | Samaa TV"
-        artist: "SAMAA TV"
+        videoId: "0flVn0KljXI"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 18 Aug"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eYM_WkhRMRI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Aug'2026  বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Piku Gaming"
+        videoId: "EwRjnE9QSJ8"
+        name: "Jharkhand Protest News LIVE: झारखंड से सुबह-सुबह आई बड़ी खबर, छात्रों के सामने झुकी सोरेन सरकार!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p23sMg0WWJk"
+        name: "BJP New Team News LIVE: बीजेपी की नई टीम की लिस्ट हुई लीक!, स्मृति ईरानी की एंट्री | Nitin Nabin"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QvNOdyzi4K8"
+        name: "Iran America War Update LIVE : ईरान-अमेरिका युद्ध की बड़ी खबर | Trump | Hormuz War | Mojtaba | N18G"
+        artist: "News18 Bihar Jharkhand"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-18T00:51:53.226Z"
+  exported_at: "2026-08-18T06:31:39.965Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-18T00:51:53.197Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-18T06:31:39.932Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
