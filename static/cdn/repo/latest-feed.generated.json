@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-19T00:52:33.597Z",
+    "generatedAt": "2026-08-19T06:32:39.737Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UMdJtCELXcE",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 19August News",
+            "videoId": "jex3zzCAB-4",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines | UP Elections Big Update | Patna Protest",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "27k0DVnFQdQ",
-            "name": "US IRAN NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OEeSw3mX-rY",
-            "name": "🔴 LIVE || Supreme Court Big Orders || Noreen Niazi Meets Imran Kha in Adiala Jail || ARY News Live",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OixgG4BBmEk",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9o6KEpjNJtw",
-            "name": "Sandeep Chaudhary: युवाओं की नौकरी पर संकट? | Latest News | BJP  | TRE-4",
+            "videoId": "8D9w1oeEW24",
+            "name": "Patna Student Protest LIVE: पटना से आई सिर घुमा देने वाली खबर! | Tejashwi Yadav | Samrat Chaudhary",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "mBJvrxnAHq4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  19 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আজকের SOMAY NEWS"
+            "videoId": "VQe-wPO6E4U",
+            "name": "America-North Korea News LIVE: मिडिल ईस्ट में फिर से भड़केगा युद्ध? | Donald Trump-Kim Jong Meeting",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kzmSs1VAM6U",
+            "name": "UP Sub Inspector Attack News LIVE: यूपी में दरोगा कागला दबाने वाले परहो गया बड़ा एक्शन!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iaQR_iVH_8Q",
+            "name": "UP Election 2027 News LIVE: ‘योगी होकर झूठ बोलते हैं’ | CM Yogi | Akhilesh Yadav | SP vs BJP",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZHl45jeApF4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bangla Globe"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OOKinydJ0a4",
+            "name": "Namaste Bharat LIVE: आपका शहर आपकी खबर | Headlines Today | Jharkhand Protest | CJP Bengal | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PFz_zqfRvIQ",
+            "name": "🔴LIVE: டிரம்பின் அறிவிப்பால் எகிறிய பதற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NXq-6sYuOtg",
+            "name": "Marathi News Headline Today LIVE | 19 Aug | 9 AM | Maharashtra Politics | Shivsena Hearing Update",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZdV10IAh4jo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "বাংলা সংবাদ ৭১"
+        },
+        {
+            "mood": "storm",
+            "videoId": "L6PNXGC0QLY",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 19 Aug",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MnDwgK0EZjQ",
+            "name": "World War 3 Updates Live: चीन भी युद्ध में कूदा..! Breaking News | Jinping | India News",
+            "artist": "India News"
         }
     ],
     "sourceFilters": {
