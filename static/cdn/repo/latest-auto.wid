@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260818T182741.922Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260819T005233.635Z-l4t35t"
   type: "state"
-  created: "2026-08-18T18:27:41.922Z"
+  created: "2026-08-19T00:52:33.635Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260818T182741.922Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260819T005233.635Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ja-QfrvKZyE"
-        name: "Iran America War Update LIVE: 250 दिन की तैनाती के बाद हार माना Abraham Lincoln ? | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RkXBORp3G6c"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OERdkrpGhyg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Globe"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JOe3Qsun7-Q"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-TTT2BEKVLI"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T-L9J3CSZn4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m-y76K_fgHU"
-        name: "Pratima Mishra: सोरेन सरकार का ये कैसा 'अधूरा इंसाफ'!  | Latest News | Bharat Ki Baat"
+        videoId: "UMdJtCELXcE"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 19August News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ao7qHRSJ0ZI"
-        name: "🔴LIVE: Cm vijay | ஆணவத்தின் உச்சம் - தமிழ்நாட்டை மரியாதை இல்லாமல் பேசிய DK சிவகுமார்"
-        artist: "Sathiyam News"
+        videoId: "27k0DVnFQdQ"
+        name: "US IRAN NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "252q9Mx4WAs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
+        videoId: "OEeSw3mX-rY"
+        name: "🔴 LIVE || Supreme Court Big Orders || Noreen Niazi Meets Imran Kha in Adiala Jail || ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QAGJNMn9rVo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Globe"
+        videoId: "OixgG4BBmEk"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MnDwgK0EZjQ"
-        name: "World War 3 Updates Live: चीन भी युद्ध में कूदा..! Breaking News | Jinping | India News"
-        artist: "India News"
+        videoId: "9o6KEpjNJtw"
+        name: "Sandeep Chaudhary: युवाओं की नौकरी पर संकट? | Latest News | BJP  | TRE-4"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mBJvrxnAHq4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |  19 ‍Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আজকের SOMAY NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-18T18:27:41.922Z"
+  exported_at: "2026-08-19T00:52:33.635Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-18T18:27:41.891Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-19T00:52:33.597Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
