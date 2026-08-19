@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-19T12:32:48.701Z",
+    "generatedAt": "2026-08-19T18:23:54.013Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "C8u5v1oiVrc",
-            "name": "Tejashwi Yadav News LIVE: तेजस्वी को पुलिस ने 'उठाया', पटना की सड़कों पर बवाल! | Patna Protest",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PjuZeYLGx5s",
-            "name": "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates",
-            "artist": "Times Now Plus"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DNEOlSsTt5M",
-            "name": "Tejashwi Yadav Bihar March LIVE: तेजस्वी यादव ने निकाला मार्च... | Patna Student Protest | RJD | BJP",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NGOE72eKr2Y",
-            "name": "US Iran War LIVE | Trump Weighs Next Move After Iran Launches Ballistic Missiles at UAE | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1zCPNXg71iU",
-            "name": "Patna Student Big Protest LIVE: नकली AK-47 के साथ छात्रों का प्रदर्शन! | Siwan | Breaking News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9L-a2KdQmQ0",
-            "name": "Gujarat Latest News LIVE | આજના અત્યાર સુધીના સૌથી મોટા સમાચાર | Fatafat News | Weather | News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T-L9J3CSZn4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "Sbm1s-bEggA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "8CwIw8ZDjoQ",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ১৯ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
-            "artist": "World News Ira"
+            "videoId": "56YQkk99c5Y",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zaDFz127X_s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BAC আন্তর্জাতিক সংবাদ "
+        },
+        {
+            "mood": "storm",
+            "videoId": "CkvNSRdRcJM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Top10News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bsrHBZCShms",
+            "name": "Today Headlines | 19 AUG 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260819T123248.745Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260819T182354.052Z-l4t35t"
   type: "state"
-  created: "2026-08-19T12:32:48.745Z"
+  created: "2026-08-19T18:23:54.052Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260819T123248.745Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260819T182354.052Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "C8u5v1oiVrc"
-        name: "Tejashwi Yadav News LIVE: तेजस्वी को पुलिस ने 'उठाया', पटना की सड़कों पर बवाल! | Patna Protest"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PjuZeYLGx5s"
-        name: "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates"
-        artist: "Times Now Plus"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DNEOlSsTt5M"
-        name: "Tejashwi Yadav Bihar March LIVE: तेजस्वी यादव ने निकाला मार्च... | Patna Student Protest | RJD | BJP"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NGOE72eKr2Y"
-        name: "US Iran War LIVE | Trump Weighs Next Move After Iran Launches Ballistic Missiles at UAE | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1zCPNXg71iU"
-        name: "Patna Student Big Protest LIVE: नकली AK-47 के साथ छात्रों का प्रदर्शन! | Siwan | Breaking News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9L-a2KdQmQ0"
-        name: "Gujarat Latest News LIVE | આજના અત્યાર સુધીના સૌથી મોટા સમાચાર | Fatafat News | Weather | News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T-L9J3CSZn4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "Sbm1s-bEggA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8CwIw8ZDjoQ"
-        name: "আজকের আন্তর্জাতিক সব খবর, ১৯ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
-        artist: "World News Ira"
+        videoId: "56YQkk99c5Y"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zaDFz127X_s"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BAC আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CkvNSRdRcJM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Top10News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bsrHBZCShms"
+        name: "Today Headlines | 19 AUG 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-19T12:32:48.745Z"
+  exported_at: "2026-08-19T18:23:54.052Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-19T12:32:48.701Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-19T18:23:54.013Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
