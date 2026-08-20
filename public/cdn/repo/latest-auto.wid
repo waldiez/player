@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260820T005216.435Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260820T063433.801Z-l4t35t"
   type: "state"
-  created: "2026-08-20T00:52:16.435Z"
+  created: "2026-08-20T06:34:33.801Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260820T005216.435Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260820T063433.801Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SJ16u4jcb_M"
-        name: "LIVE: Konda Sushmita Patel Sensational Comments On CM Revanth | సీఎం అయితే కళ్లు నెత్తికెక్కాయా?"
-        artist: "Zee Telugu News"
+        videoId: "NYIwp7ICz-E"
+        name: "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RABBj7TsQAg"
-        name: "Gujarat Latest News LIVE | આજના અત્યાર સુધીના સૌથી મોટા સમાચાર | Fatafat News | Weather | News"
+        videoId: "Su7tY9mW4wU"
+        name: "US-IRAN WAR LIVE | WAR ROOM ACTIVE: Hegseth Warns Trump Against Full-Scale Ground Invasion"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LyYIEdqeCW8"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
         artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tBbYutUHxQM"
-        name: "World War 3 Updates Live: चीन भी युद्ध में कूदा..! Breaking News | Jinping | India News"
-        artist: "India News"
+        videoId: "iZHfFwrSdY0"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QxPBDkUrlIY"
-        name: "ABC World News Tonight With David Muir 8/19/26 | ABC News Today August 19, 2026"
-        artist: "Natural Music"
+        videoId: "PjuZeYLGx5s"
+        name: "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates"
+        artist: "Times Now Plus"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Bu3D5-rUXxs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dUXKYo5S2rs"
-        name: "🔴LIVE: আজকের টপ সংবাদ | BBC World News Bangla | 19 Aug 2026 | তারেক রহমান কি করলেন এইটা।"
-        artist: "Fuzzy Comet Cats"
+        videoId: "C9ej8KXShJs"
+        name: "LIVE: ABC News Live - Wednesday, August 19 | ABC News"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-20T00:52:16.435Z"
+  exported_at: "2026-08-20T06:34:33.801Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-20T00:52:16.403Z"
+  source_generated_at: "2026-08-20T06:34:33.761Z"
   validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"

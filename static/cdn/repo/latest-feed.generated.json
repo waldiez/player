@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-20T00:52:16.403Z",
+    "generatedAt": "2026-08-20T06:34:33.761Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SJ16u4jcb_M",
-            "name": "LIVE: Konda Sushmita Patel Sensational Comments On CM Revanth | సీఎం అయితే కళ్లు నెత్తికెక్కాయా?",
-            "artist": "Zee Telugu News"
+            "videoId": "NYIwp7ICz-E",
+            "name": "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "RABBj7TsQAg",
-            "name": "Gujarat Latest News LIVE | આજના અત્યાર સુધીના સૌથી મોટા સમાચાર | Fatafat News | Weather | News",
+            "videoId": "Su7tY9mW4wU",
+            "name": "US-IRAN WAR LIVE | WAR ROOM ACTIVE: Hegseth Warns Trump Against Full-Scale Ground Invasion",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LyYIEdqeCW8",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "tBbYutUHxQM",
-            "name": "World War 3 Updates Live: चीन भी युद्ध में कूदा..! Breaking News | Jinping | India News",
-            "artist": "India News"
+            "videoId": "iZHfFwrSdY0",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "QxPBDkUrlIY",
-            "name": "ABC World News Tonight With David Muir 8/19/26 | ABC News Today August 19, 2026",
-            "artist": "Natural Music"
+            "videoId": "PjuZeYLGx5s",
+            "name": "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates",
+            "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "Bu3D5-rUXxs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dUXKYo5S2rs",
-            "name": "🔴LIVE: আজকের টপ সংবাদ | BBC World News Bangla | 19 Aug 2026 | তারেক রহমান কি করলেন এইটা।",
-            "artist": "Fuzzy Comet Cats"
+            "videoId": "C9ej8KXShJs",
+            "name": "LIVE: ABC News Live - Wednesday, August 19 | ABC News",
+            "artist": "ABC News"
         }
     ],
     "sourceFilters": {
