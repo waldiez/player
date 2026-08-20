@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260820T063433.801Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260820T123419.333Z-l4t35t"
   type: "state"
-  created: "2026-08-20T06:34:33.801Z"
+  created: "2026-08-20T12:34:19.333Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260820T063433.801Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260820T123419.333Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "NYIwp7ICz-E"
-        name: "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!"
+        videoId: "m0vzlcuqFbI"
+        name: "Gen-Alpha Student Protest LIVE: यूपी के 4 राज्यों में छात्रों का ‘तूफानी’ बवाल! | CM Yogi Order | UP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Su7tY9mW4wU"
-        name: "US-IRAN WAR LIVE | WAR ROOM ACTIVE: Hegseth Warns Trump Against Full-Scale Ground Invasion"
-        artist: "ET Now World"
+        videoId: "4leD_YXEuww"
+        name: "Gen-Alpha Student Protest LIVE: यूपी में बड़ा पुलिस अलर्ट सड़कों पर उतरे छात्र | CM Yogi Order | UP"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LyYIEdqeCW8"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
+        videoId: "w6AqwhoQJwI"
+        name: "Sugar New Price News LIVE: अचानक चीनी के नए दाम ने सभी को चौंकाया | Raksha Bandhan | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iZHfFwrSdY0"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
+        videoId: "SbKWDEIBel4"
+        name: "Kangana Ranaut-Baba Ramdev Controvesy LIVE: बाबा रामदेव पर बरसी कंगना रनौत | Chirag Paswan |Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PjuZeYLGx5s"
+        videoId: "49PLnaa6wd0"
+        name: "🔴LIVE : জাতীয় সংসদে রাষ্ট্রপতি নির্বাচনের ভোট গ্রহণ চলছে"
+        artist: "NTV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zUy0qN0Uy9o"
         name: "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates"
         artist: "Times Now Plus"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C9ej8KXShJs"
-        name: "LIVE: ABC News Live - Wednesday, August 19 | ABC News"
-        artist: "ABC News"
+        videoId: "wW4QV6Hfo9E"
+        name: "NDA Seat Sharing News LIVE: RLD 73, राजभर को 39, अखिलेश ने किया NDA में सीट बंटवारा! |Akhilesh Yadav"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eyw5-3lfeXo"
+        name: "US-Iran War LIVE: US Unveils World War 3 Plan With New Nuclear Strategy That Targets China & Russia"
+        artist: "WION"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-20T06:34:33.801Z"
+  exported_at: "2026-08-20T12:34:19.333Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-20T06:34:33.761Z"
-  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-20T12:34:19.301Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

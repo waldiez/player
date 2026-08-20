@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-20T06:34:33.761Z",
+    "generatedAt": "2026-08-20T12:34:19.301Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NYIwp7ICz-E",
-            "name": "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!",
+            "videoId": "m0vzlcuqFbI",
+            "name": "Gen-Alpha Student Protest LIVE: यूपी के 4 राज्यों में छात्रों का ‘तूफानी’ बवाल! | CM Yogi Order | UP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Su7tY9mW4wU",
-            "name": "US-IRAN WAR LIVE | WAR ROOM ACTIVE: Hegseth Warns Trump Against Full-Scale Ground Invasion",
-            "artist": "ET Now World"
+            "videoId": "4leD_YXEuww",
+            "name": "Gen-Alpha Student Protest LIVE: यूपी में बड़ा पुलिस अलर्ट सड़कों पर उतरे छात्र | CM Yogi Order | UP",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LyYIEdqeCW8",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
+            "videoId": "w6AqwhoQJwI",
+            "name": "Sugar New Price News LIVE: अचानक चीनी के नए दाम ने सभी को चौंकाया | Raksha Bandhan | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "iZHfFwrSdY0",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
+            "videoId": "SbKWDEIBel4",
+            "name": "Kangana Ranaut-Baba Ramdev Controvesy LIVE: बाबा रामदेव पर बरसी कंगना रनौत | Chirag Paswan |Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "PjuZeYLGx5s",
+            "videoId": "49PLnaa6wd0",
+            "name": "🔴LIVE : জাতীয় সংসদে রাষ্ট্রপতি নির্বাচনের ভোট গ্রহণ চলছে",
+            "artist": "NTV News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zUy0qN0Uy9o",
             "name": "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates",
             "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "C9ej8KXShJs",
-            "name": "LIVE: ABC News Live - Wednesday, August 19 | ABC News",
-            "artist": "ABC News"
+            "videoId": "wW4QV6Hfo9E",
+            "name": "NDA Seat Sharing News LIVE: RLD 73, राजभर को 39, अखिलेश ने किया NDA में सीट बंटवारा! |Akhilesh Yadav",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eyw5-3lfeXo",
+            "name": "US-Iran War LIVE: US Unveils World War 3 Plan With New Nuclear Strategy That Targets China & Russia",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
