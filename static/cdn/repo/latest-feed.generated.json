@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-19T18:23:54.013Z",
+    "generatedAt": "2026-08-20T00:52:16.403Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Sbm1s-bEggA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "SJ16u4jcb_M",
+            "name": "LIVE: Konda Sushmita Patel Sensational Comments On CM Revanth | సీఎం అయితే కళ్లు నెత్తికెక్కాయా?",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "56YQkk99c5Y",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "RABBj7TsQAg",
+            "name": "Gujarat Latest News LIVE | આજના અત્યાર સુધીના સૌથી મોટા સમાચાર | Fatafat News | Weather | News",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "zaDFz127X_s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
+            "videoId": "tBbYutUHxQM",
+            "name": "World War 3 Updates Live: चीन भी युद्ध में कूदा..! Breaking News | Jinping | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "CkvNSRdRcJM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Top10News"
+            "videoId": "QxPBDkUrlIY",
+            "name": "ABC World News Tonight With David Muir 8/19/26 | ABC News Today August 19, 2026",
+            "artist": "Natural Music"
         },
         {
             "mood": "storm",
-            "videoId": "bsrHBZCShms",
-            "name": "Today Headlines | 19 AUG 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "Bu3D5-rUXxs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dUXKYo5S2rs",
+            "name": "🔴LIVE: আজকের টপ সংবাদ | BBC World News Bangla | 19 Aug 2026 | তারেক রহমান কি করলেন এইটা।",
+            "artist": "Fuzzy Comet Cats"
         }
     ],
     "sourceFilters": {
