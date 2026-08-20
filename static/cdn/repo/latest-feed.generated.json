@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-20T12:34:19.301Z",
+    "generatedAt": "2026-08-20T18:28:37.983Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "m0vzlcuqFbI",
-            "name": "Gen-Alpha Student Protest LIVE: यूपी के 4 राज्यों में छात्रों का ‘तूफानी’ बवाल! | CM Yogi Order | UP",
-            "artist": "ABP NEWS"
+            "videoId": "dOhVltVl2FA",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "4leD_YXEuww",
-            "name": "Gen-Alpha Student Protest LIVE: यूपी में बड़ा पुलिस अलर्ट सड़कों पर उतरे छात्र | CM Yogi Order | UP",
-            "artist": "ABP NEWS"
+            "videoId": "r0bCVtRW-DE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "w6AqwhoQJwI",
-            "name": "Sugar New Price News LIVE: अचानक चीनी के नए दाम ने सभी को चौंकाया | Raksha Bandhan | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "3bh3y-FagU0",
+            "name": "US War LIVE: 'Will Bring Further Defeat' Iran Responds to Trump's 'Economic D-Day' Threat",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "SbKWDEIBel4",
-            "name": "Kangana Ranaut-Baba Ramdev Controvesy LIVE: बाबा रामदेव पर बरसी कंगना रनौत | Chirag Paswan |Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "vZul88LRTY8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "49PLnaa6wd0",
-            "name": "🔴LIVE : জাতীয় সংসদে রাষ্ট্রপতি নির্বাচনের ভোট গ্রহণ চলছে",
-            "artist": "NTV News"
+            "videoId": "-RR1abFaKkY",
+            "name": "🟠Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "zUy0qN0Uy9o",
-            "name": "World News Live | Is Finland Heading Toward A Major Economic Crisis? Latest Updates",
-            "artist": "Times Now Plus"
+            "videoId": "cBxaph4PN2E",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "wW4QV6Hfo9E",
-            "name": "NDA Seat Sharing News LIVE: RLD 73, राजभर को 39, अखिलेश ने किया NDA में सीट बंटवारा! |Akhilesh Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eyw5-3lfeXo",
-            "name": "US-Iran War LIVE: US Unveils World War 3 Plan With New Nuclear Strategy That Targets China & Russia",
-            "artist": "WION"
+            "videoId": "LKqxi_EXzeE",
+            "name": "Tukaram Mundhe Latest News LIVE | कशावर बंदी असणारे? नियम मोडल्यास काय कारवाई? N18L",
+            "artist": "News18 Marathi"
         }
     ],
     "sourceFilters": {
