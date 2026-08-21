@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260821T005607.838Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260821T063432.324Z-l4t35t"
   type: "state"
-  created: "2026-08-21T00:56:07.838Z"
+  created: "2026-08-21T06:34:32.324Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260821T005607.838Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260821T063432.324Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "HITf2GjhRFY"
-        name: "Kangana Ranaut vs Baba Ramdev | Breaking News: विवादों की कंगना..बाबा रे बाबा! | Gen-Z | ABP News"
+        videoId: "nt23WTHKVwY"
+        name: "India Gen-Alpha Student Protest LIVE: नए आंदोलन ने सरकारों को हिलाया! | UP Protest | MP | Rajasthan"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r_J_3d24rmo"
-        name: "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?"
-        artist: "Times Now World"
+        videoId: "whwUtGKF_Zo"
+        name: "LIVE: 'Strategic Surprise Coming': Iran Military's Huge Threat To 'ENEMY' Forces Amid U.S. War |N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OPZD1hyM8tY"
-        name: "🔴 LIVE | Oil Ships Moving Out of Hormuz | Breaking World News | Rahim Yar Khan News Official"
-        artist: "Rahim Yar Khan News Official "
+        videoId: "wShcD8N02OQ"
+        name: "Ajker khobor 21 August 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time news"
+        artist: "Desh tv 71"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hc4ev7WPQwA"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 21August News"
+        videoId: "q7TD7k-sLpY"
+        name: "Arvind Kejriwal on Sugar Price Hike LIVE: चीनी के रेट बढ़ते ही केजरीवाल ने खोला बड़ा राज? | Ethanol"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "axxdTfe9_J8"
-        name: "🔴LIVE : CM Vijay Fiery Speech  | BJP | TVK | தென்மாநில முதலமைச்சர்கள் மாநாடு..CM விஜய் உரை"
-        artist: "NewsTamil 24X7"
+        videoId: "VRMWx_fot0I"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iZHfFwrSdY0"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
+        videoId: "Wjwqru-rTXo"
+        name: "Sandeep Chadhary LIVE: 6 छंद Vande Mataram..'सियासी देशभक्ति' फिर आरंभ! | Rahul Gandhi | Amit Shah"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HE48GnaSDMY"
-        name: "Russia-Ukraine War Live: 791 Drones, Moscow Attack Sparks Major Escalation | World News | N18G"
-        artist: "News18 J&K"
+        videoId: "uTAaYT8vxh8"
+        name: "Gen Alpha Protest In UP LIVE: यूपी के कई राज्यों में सड़कों पर उतरे छात्र कर दी बड़ी मांग! | CM Yogi"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "K35rmL_GojI"
-        name: "YS Jagan Press Meet LIVE @Tadepalli | YS జగన్ సంచలన ప్రెస్ మీట్ : Sakshi TV"
-        artist: "Sakshi TV"
+        videoId: "yBvw9K5KXRo"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 20 Aug"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "P7HWYdKSIpY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CAD international news"
+        videoId: "3BbWIaPHrBo"
+        name: "Aaj Ki Taaza Khabar LIVE: PM Modi | Rahul Gandhi | RJD Protest | Tejashwi Yadav | Vande Mataram Row"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7bmEAJNiC74"
+        name: "ABC World News Tonight: Breaking News, David Mui | August 21, 2026| ABC News Today 8/21/26"
+        artist: "Natural Music"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KtRNThGS2ow"
+        name: "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-21T00:56:07.838Z"
+  exported_at: "2026-08-21T06:34:32.324Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-21T00:56:07.800Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-21T06:34:32.281Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
