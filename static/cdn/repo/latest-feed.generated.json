@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-21T06:34:32.281Z",
+    "generatedAt": "2026-08-21T12:33:23.749Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nt23WTHKVwY",
-            "name": "India Gen-Alpha Student Protest LIVE: नए आंदोलन ने सरकारों को हिलाया! | UP Protest | MP | Rajasthan",
+            "videoId": "_14a8P8XXls",
+            "name": "Rahul Gandhi LIVE: राहुल गांधी के इस फैसले ने चौंकाया!, थाने से निकली पुलिस! | Jantar Mantar Protest",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "whwUtGKF_Zo",
-            "name": "LIVE: 'Strategic Surprise Coming': Iran Military's Huge Threat To 'ENEMY' Forces Amid U.S. War |N18G",
-            "artist": "News18 Urdu"
+            "videoId": "26RLYAam9B8",
+            "name": "India TV LIVE: Imran Khan Health Update | Vande Mataram Controversy | Amit Shah | Hemant Soren",
+            "artist": "IndiaTV"
         },
         {
             "mood": "storm",
-            "videoId": "wShcD8N02OQ",
-            "name": "Ajker khobor 21 August 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time news",
-            "artist": "Desh tv 71"
-        },
-        {
-            "mood": "storm",
-            "videoId": "q7TD7k-sLpY",
-            "name": "Arvind Kejriwal on Sugar Price Hike LIVE: चीनी के रेट बढ़ते ही केजरीवाल ने खोला बड़ा राज? | Ethanol",
+            "videoId": "PNyRd6x6rCk",
+            "name": "Sugar New Price Today LIVE: चीनी के रेट बढ़ते ही खान सर का वीडियो वायरल | Khan Sir Video on Sugar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "VRMWx_fot0I",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wjwqru-rTXo",
-            "name": "Sandeep Chadhary LIVE: 6 छंद Vande Mataram..'सियासी देशभक्ति' फिर आरंभ! | Rahul Gandhi | Amit Shah",
+            "videoId": "E1Xcli_jgio",
+            "name": "Rahul Gandhi FIR News LIVE: किसी ने सोचा नहीं था राहुल गांधी ये कर देंगे,  देखती रह गई बीजेपी!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "uTAaYT8vxh8",
-            "name": "Gen Alpha Protest In UP LIVE: यूपी के कई राज्यों में सड़कों पर उतरे छात्र कर दी बड़ी मांग! | CM Yogi",
+            "videoId": "T4CckeBZpO0",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "AFt-zDhnPk4",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.08.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UhVuWKtzIGM",
+            "name": "Sugar Price News LIVE: चीनी के दामों ने तोड़ा रिकॉर्ड!, फीकी हो गई चाय!| Big Breaking | 21 August",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yBvw9K5KXRo",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 20 Aug",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3BbWIaPHrBo",
-            "name": "Aaj Ki Taaza Khabar LIVE: PM Modi | Rahul Gandhi | RJD Protest | Tejashwi Yadav | Vande Mataram Row",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7bmEAJNiC74",
-            "name": "ABC World News Tonight: Breaking News, David Mui | August 21, 2026| ABC News Today 8/21/26",
-            "artist": "Natural Music"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KtRNThGS2ow",
-            "name": "Kangana Ranaut vs Baba Ramdev News LIVE: कंगना रनौत और बाबा रामदेव के बीच छिड़ गई बड़ी जंग!",
+            "videoId": "v-jYEHNqZ4k",
+            "name": "Rahul Gandhi FIR News LIVE: ‘राहुल गांधी ने की FIR की मांग’ | Jantar Mantar | Student Protest | RAF",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EBznZEgR6iU",
+            "name": "Iran US War | US Deploys New Carrier as Iran Blockade Continues | 1:30 News Update | 21 Aug 2026",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "L1H7dBBeYho",
+            "name": "Iran America War Update LIVE: ईरान-US जंग में कूदा China! | Trump | Mojataba | Hormuz War",
+            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
