@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-20T18:28:37.983Z",
+    "generatedAt": "2026-08-21T00:56:07.800Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "dOhVltVl2FA",
-            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "videoId": "HITf2GjhRFY",
+            "name": "Kangana Ranaut vs Baba Ramdev | Breaking News: विवादों की कंगना..बाबा रे बाबा! | Gen-Z | ABP News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "r_J_3d24rmo",
+            "name": "WORLD NEWS LIVE: Russia’s Explosive Warning SHOCKS the West, Is the World Heading Toward WW3?",
             "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "r0bCVtRW-DE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "OPZD1hyM8tY",
+            "name": "🔴 LIVE | Oil Ships Moving Out of Hormuz | Breaking World News | Rahim Yar Khan News Official",
+            "artist": "Rahim Yar Khan News Official "
         },
         {
             "mood": "storm",
-            "videoId": "3bh3y-FagU0",
-            "name": "US War LIVE: 'Will Bring Further Defeat' Iran Responds to Trump's 'Economic D-Day' Threat",
-            "artist": "Firstpost"
+            "videoId": "hc4ev7WPQwA",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 21August News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vZul88LRTY8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "axxdTfe9_J8",
+            "name": "🔴LIVE : CM Vijay Fiery Speech  | BJP | TVK | தென்மாநில முதலமைச்சர்கள் மாநாடு..CM விஜய் உரை",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "-RR1abFaKkY",
-            "name": "🟠Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "videoId": "iZHfFwrSdY0",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "cBxaph4PN2E",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "HE48GnaSDMY",
+            "name": "Russia-Ukraine War Live: 791 Drones, Moscow Attack Sparks Major Escalation | World News | N18G",
+            "artist": "News18 J&K"
         },
         {
             "mood": "storm",
-            "videoId": "LKqxi_EXzeE",
-            "name": "Tukaram Mundhe Latest News LIVE | कशावर बंदी असणारे? नियम मोडल्यास काय कारवाई? N18L",
-            "artist": "News18 Marathi"
+            "videoId": "K35rmL_GojI",
+            "name": "YS Jagan Press Meet LIVE @Tadepalli | YS జగన్ సంచలన ప్రెస్ మీట్ : Sakshi TV",
+            "artist": "Sakshi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "P7HWYdKSIpY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CAD international news"
         }
     ],
     "sourceFilters": {
