@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260821T123323.787Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260821T182703.963Z-l4t35t"
   type: "state"
-  created: "2026-08-21T12:33:23.787Z"
+  created: "2026-08-21T18:27:03.963Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260821T123323.787Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260821T182703.963Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_14a8P8XXls"
-        name: "Rahul Gandhi LIVE: राहुल गांधी के इस फैसले ने चौंकाया!, थाने से निकली पुलिस! | Jantar Mantar Protest"
+        videoId: "3tLYsTkfqOk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GR1NWrd97mA"
+        name: "UAE Under Attack LIVE: UAE Bombed! Two Ballistic Missiles Rip Through UAE, Panic In Gulf | WION"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ADeA537rf4w"
+        name: "YS Jagan LIVE: YS Jagan Massive Craze @ Hyderabad | హైదరాబాద్ లో జగన్ జనసంద్రం | @SakshiTV"
+        artist: "Sakshi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8CeIbBAaH3g"
+        name: "🔴LIVE: பழம்பெரும் நடிகை சௌகார் ஜானகி காலமானார் | Sowcar Janaki  Passed Away"
+        artist: "PT Spotlight"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zXqVeJonBtw"
+        name: "Bharat Ki Baat LIVE: राहुल गांधी का सरकार को नया सरप्राइज! | Rahul Gandhi | BJP | Pellet Gun Case"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "26RLYAam9B8"
-        name: "India TV LIVE: Imran Khan Health Update | Vande Mataram Controversy | Amit Shah | Hemant Soren"
-        artist: "IndiaTV"
+        videoId: "e2ig-I1nxik"
+        name: "LIVE🔴Imran Khan’s Sister Traps Him | Israel Faces the Risk of Total Destruction"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PNyRd6x6rCk"
-        name: "Sugar New Price Today LIVE: चीनी के रेट बढ़ते ही खान सर का वीडियो वायरल | Khan Sir Video on Sugar"
+        videoId: "Ix0VgzJ4tHs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "F7bnU5BbXz4"
+        name: "Russia-Ukraine War Live: 791 Drones, Moscow Attack Sparks Major Escalation | World News | N18G"
+        artist: "News18 J&K"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4kynHiDe_bM"
+        name: "World War 3 Live Updates: युद्ध में चीन की भी एंट्री Breaking News | Jinping | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GPBtfWFIYsU"
+        name: "Rahul Gandhi Press Conference LIVE: राहुल गांधी की बड़ी प्रेस वार्ता | RAF Pellet Gun Firing"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "E1Xcli_jgio"
-        name: "Rahul Gandhi FIR News LIVE: किसी ने सोचा नहीं था राहुल गांधी ये कर देंगे,  देखती रह गई बीजेपी!"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T4CckeBZpO0"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AFt-zDhnPk4"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.08.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UhVuWKtzIGM"
-        name: "Sugar Price News LIVE: चीनी के दामों ने तोड़ा रिकॉर्ड!, फीकी हो गई चाय!| Big Breaking | 21 August"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "v-jYEHNqZ4k"
-        name: "Rahul Gandhi FIR News LIVE: ‘राहुल गांधी ने की FIR की मांग’ | Jantar Mantar | Student Protest | RAF"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EBznZEgR6iU"
-        name: "Iran US War | US Deploys New Carrier as Iran Blockade Continues | 1:30 News Update | 21 Aug 2026"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "L1H7dBBeYho"
-        name: "Iran America War Update LIVE: ईरान-US जंग में कूदा China! | Trump | Mojataba | Hormuz War"
-        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-21T12:33:23.787Z"
+  exported_at: "2026-08-21T18:27:03.963Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-21T12:33:23.749Z"
+  source_generated_at: "2026-08-21T18:27:03.923Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

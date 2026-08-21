@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-21T12:33:23.749Z",
+    "generatedAt": "2026-08-21T18:27:03.923Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_14a8P8XXls",
-            "name": "Rahul Gandhi LIVE: राहुल गांधी के इस फैसले ने चौंकाया!, थाने से निकली पुलिस! | Jantar Mantar Protest",
+            "videoId": "3tLYsTkfqOk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GR1NWrd97mA",
+            "name": "UAE Under Attack LIVE: UAE Bombed! Two Ballistic Missiles Rip Through UAE, Panic In Gulf | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ADeA537rf4w",
+            "name": "YS Jagan LIVE: YS Jagan Massive Craze @ Hyderabad | హైదరాబాద్ లో జగన్ జనసంద్రం | @SakshiTV",
+            "artist": "Sakshi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8CeIbBAaH3g",
+            "name": "🔴LIVE: பழம்பெரும் நடிகை சௌகார் ஜானகி காலமானார் | Sowcar Janaki  Passed Away",
+            "artist": "PT Spotlight"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zXqVeJonBtw",
+            "name": "Bharat Ki Baat LIVE: राहुल गांधी का सरकार को नया सरप्राइज! | Rahul Gandhi | BJP | Pellet Gun Case",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "26RLYAam9B8",
-            "name": "India TV LIVE: Imran Khan Health Update | Vande Mataram Controversy | Amit Shah | Hemant Soren",
-            "artist": "IndiaTV"
+            "videoId": "e2ig-I1nxik",
+            "name": "LIVE🔴Imran Khan’s Sister Traps Him | Israel Faces the Risk of Total Destruction",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "PNyRd6x6rCk",
-            "name": "Sugar New Price Today LIVE: चीनी के रेट बढ़ते ही खान सर का वीडियो वायरल | Khan Sir Video on Sugar",
+            "videoId": "Ix0VgzJ4tHs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F7bnU5BbXz4",
+            "name": "Russia-Ukraine War Live: 791 Drones, Moscow Attack Sparks Major Escalation | World News | N18G",
+            "artist": "News18 J&K"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4kynHiDe_bM",
+            "name": "World War 3 Live Updates: युद्ध में चीन की भी एंट्री Breaking News | Jinping | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GPBtfWFIYsU",
+            "name": "Rahul Gandhi Press Conference LIVE: राहुल गांधी की बड़ी प्रेस वार्ता | RAF Pellet Gun Firing",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E1Xcli_jgio",
-            "name": "Rahul Gandhi FIR News LIVE: किसी ने सोचा नहीं था राहुल गांधी ये कर देंगे,  देखती रह गई बीजेपी!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T4CckeBZpO0",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AFt-zDhnPk4",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (21.08.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UhVuWKtzIGM",
-            "name": "Sugar Price News LIVE: चीनी के दामों ने तोड़ा रिकॉर्ड!, फीकी हो गई चाय!| Big Breaking | 21 August",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "v-jYEHNqZ4k",
-            "name": "Rahul Gandhi FIR News LIVE: ‘राहुल गांधी ने की FIR की मांग’ | Jantar Mantar | Student Protest | RAF",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EBznZEgR6iU",
-            "name": "Iran US War | US Deploys New Carrier as Iran Blockade Continues | 1:30 News Update | 21 Aug 2026",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "L1H7dBBeYho",
-            "name": "Iran America War Update LIVE: ईरान-US जंग में कूदा China! | Trump | Mojataba | Hormuz War",
-            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {
