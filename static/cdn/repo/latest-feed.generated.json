@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-22T00:52:26.283Z",
+    "generatedAt": "2026-08-22T06:28:22.878Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MlQEeUHcC14",
+            "videoId": "j_yF6DBC4Q4",
             "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "TcAtXQXySvk",
-            "name": "LIVE: YS Jagan Telangana Tour Latest Updates | YS Jagan , KCR , KTR , Flex Going Viral | ZEE News",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I7pnru_Cm3Y",
-            "name": "🔴LIVE: ஆவேசமான அமைச்சர் ரமேஷ்! திணறும் சேகர்பாபு | Minister Ramesh Blast Sekarbabu | Live Updates",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "epobARq_2Fg",
-            "name": "🔴LIVE: Today Headlines - 21 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WZjkbXb-s9U",
+            "videoId": "Mv88NGHB-sM",
             "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "fMt7t57e_6k",
-            "name": "LIVE | Trump’s Deadly Order? World In Shock As Bombshell Move Sparks Global Alarm | Iran War LIVE",
-            "artist": "ALERT News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zny0S9EELWI",
-            "name": "Sugar Price News LIVE: चीनी ने चाय की कड़वी!, नए दामों ने जनता का निकाला धुंआ! | Breaking",
+            "videoId": "EOCWX4SHQ60",
+            "name": "Rahul Gandhi-Students Event News LIVE: प्रोग्राम शुरू होने से पहले पुलिस ने रखी 30 शर्तें...",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GcJn-nYmFDY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WorldNews Bangla tv"
+            "videoId": "7q93WITJaX4",
+            "name": "Russia-Ukraine War Live: यूक्रेन पर 2026 में अब तक का सबसे बड़ा हमला | Zelenskyy | Putin | TOP News",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ykpwDoZmRJc",
+            "name": "Rahul Gandhi News LIVE: राहुल गांधी को लेकरआई एक और बड़ी खबरपुणे में होगा 'गूंज' | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "p8Lc2ucLRpY",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "orcEWzlvnEU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BanglaWorldNews"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DM6ZI_UTj0c",
+            "name": "Russia-Ukraine War LIVE: Russia's Banderol 'Mini' Missile Intensifies Ukraine War | Zelensky | Putin",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UhVuWKtzIGM",
+            "name": "Sugar Price News LIVE: चीनी के दामों ने तोड़ा रिकॉर्ड!, फीकी हो गई चाय!| Big Breaking | 21 August",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W7yq0EYLM1E",
+            "name": "Rahul Gandhi News LIVE: राहुल गांधी को लेकरआई एक और बड़ी खबरपुणे में होगा 'गूंज' | Breaking",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
