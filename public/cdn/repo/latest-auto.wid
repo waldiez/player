@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260821T182703.963Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260822T005226.314Z-l4t35t"
   type: "state"
-  created: "2026-08-21T18:27:03.963Z"
+  created: "2026-08-22T00:52:26.314Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260821T182703.963Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260822T005226.314Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3tLYsTkfqOk"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.08.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "MlQEeUHcC14"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GR1NWrd97mA"
-        name: "UAE Under Attack LIVE: UAE Bombed! Two Ballistic Missiles Rip Through UAE, Panic In Gulf | WION"
-        artist: "WION"
+        videoId: "TcAtXQXySvk"
+        name: "LIVE: YS Jagan Telangana Tour Latest Updates | YS Jagan , KCR , KTR , Flex Going Viral | ZEE News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ADeA537rf4w"
-        name: "YS Jagan LIVE: YS Jagan Massive Craze @ Hyderabad | హైదరాబాద్ లో జగన్ జనసంద్రం | @SakshiTV"
-        artist: "Sakshi TV"
+        videoId: "I7pnru_Cm3Y"
+        name: "🔴LIVE: ஆவேசமான அமைச்சர் ரமேஷ்! திணறும் சேகர்பாபு | Minister Ramesh Blast Sekarbabu | Live Updates"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8CeIbBAaH3g"
-        name: "🔴LIVE: பழம்பெரும் நடிகை சௌகார் ஜானகி காலமானார் | Sowcar Janaki  Passed Away"
-        artist: "PT Spotlight"
+        videoId: "epobARq_2Fg"
+        name: "🔴LIVE: Today Headlines - 21 AUGUST 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY | TVK"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zXqVeJonBtw"
-        name: "Bharat Ki Baat LIVE: राहुल गांधी का सरकार को नया सरप्राइज! | Rahul Gandhi | BJP | Pellet Gun Case"
+        videoId: "WZjkbXb-s9U"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fMt7t57e_6k"
+        name: "LIVE | Trump’s Deadly Order? World In Shock As Bombshell Move Sparks Global Alarm | Iran War LIVE"
+        artist: "ALERT News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zny0S9EELWI"
+        name: "Sugar Price News LIVE: चीनी ने चाय की कड़वी!, नए दामों ने जनता का निकाला धुंआ! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e2ig-I1nxik"
-        name: "LIVE🔴Imran Khan’s Sister Traps Him | Israel Faces the Risk of Total Destruction"
-        artist: "NTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ix0VgzJ4tHs"
+        videoId: "GcJn-nYmFDY"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F7bnU5BbXz4"
-        name: "Russia-Ukraine War Live: 791 Drones, Moscow Attack Sparks Major Escalation | World News | N18G"
-        artist: "News18 J&K"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4kynHiDe_bM"
-        name: "World War 3 Live Updates: युद्ध में चीन की भी एंट्री Breaking News | Jinping | India News"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GPBtfWFIYsU"
-        name: "Rahul Gandhi Press Conference LIVE: राहुल गांधी की बड़ी प्रेस वार्ता | RAF Pellet Gun Firing"
-        artist: "ABP NEWS"
+        artist: "WorldNews Bangla tv"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-21T18:27:03.963Z"
+  exported_at: "2026-08-22T00:52:26.314Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-21T18:27:03.923Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-22T00:52:26.283Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
