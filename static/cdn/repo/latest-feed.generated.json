@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-22T12:25:10.803Z",
+    "generatedAt": "2026-08-22T18:19:26.990Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "XLeotkBqD2w",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "AibXHiaPDXE",
+            "name": "🔴LIVE: MK Stalin | DMK |  பதவியை இழக்கும் திமுக ஸ்டார்-கள்..யார்..?யார்?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "8O595bKUTz8",
-            "name": "CJP Team Jaipur Attack News LIVE: 24 घंटे बाद CJP का बड़ा प्रदर्शन? | Abhijeet Dipke | Breaking",
+            "videoId": "9SzjpDlZS5U",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "upJhygIqDS0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6Pzvs0oh4yw",
+            "name": "Iran US War Update: 10 बजते ही ईरान-US जंग पर आई चौंकाने वाली खबर! | Trump | Khamenei | Top News",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fMvSin68bFs",
+            "name": "World War 3 Live Updates: China भी जंग में कूदा | Jinping | Middle East War | America | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qFkoeI72H1E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ko4UnY6_7qE",
+            "name": "Imran Khan News LIVE: इमरान खाने को लेकर बड़ी खबर, 'काफिले से ही लापता', मचा हड़कंप!| Asim | Shahbaz",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LBK4XdkLFhE",
-            "name": "Petrol Prices Increase Again in Pakistan | New Rates Announced | 4 PM News Headlines | 22 Aug 2026",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "794K_fcBSSo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAK WORLD NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KcoAqg2n92s",
-            "name": "Pakistan Imran Khan News LIVE: इमरान जेल से निकले अस्पताल नहीं पहुंचे! | Asim Munir | Shahbaz Sharif",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "n9qBvA2F6Bc",
-            "name": "Sugar Price News LIVE: चल गया पता,चीनी के दाम बढ़ने का असली कारण! | 22 August | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QyXoj7QYBvg",
-            "name": "Patna Student Protest News LIVE: राजभवन का घेराव करने पहुंचे छात्र | Police | Bihar News | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kpzl0qYnrxM",
-            "name": "🔴LIVE : மாமா, மச்சானா..? கடிந்து கொண்ட துரைமுருகன் | Duraimurugan | DMK Meeting | Mkstalin",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zPvnVtQz8Xc",
-            "name": "US NEWS LIVE | Trump’s Shocking ‘World War’ Warning Stuns the World as Global Tensions Escalate",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Et9aLy1lhnQ",
-            "name": "Patna Protest News LIVE: पटना में बैरिकैडिंग पर चढ़े लोग | Bihar News | RAF | Samrat Chaudhary",
-            "artist": "ABP NEWS"
+            "videoId": "3VuWopPH96U",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
