@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-22T18:19:26.990Z",
+    "generatedAt": "2026-08-23T00:56:31.477Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AibXHiaPDXE",
-            "name": "🔴LIVE: MK Stalin | DMK |  பதவியை இழக்கும் திமுக ஸ்டார்-கள்..யார்..?யார்?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9SzjpDlZS5U",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "upJhygIqDS0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6Pzvs0oh4yw",
-            "name": "Iran US War Update: 10 बजते ही ईरान-US जंग पर आई चौंकाने वाली खबर! | Trump | Khamenei | Top News",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fMvSin68bFs",
-            "name": "World War 3 Live Updates: China भी जंग में कूदा | Jinping | Middle East War | America | India News",
-            "artist": "India News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qFkoeI72H1E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ko4UnY6_7qE",
-            "name": "Imran Khan News LIVE: इमरान खाने को लेकर बड़ी खबर, 'काफिले से ही लापता', मचा हड़कंप!| Asim | Shahbaz",
+            "videoId": "MK4i-INhGEc",
+            "name": "22 August News LIVE: 22 अगस्त की 11बड़ी खबर, जिसने हिला दिया पूरा देश! | Top News| Hindi News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3VuWopPH96U",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
+            "videoId": "sryFihGk6_s",
+            "name": "Rahul Gandhi's 'Chhatron Ki Goonj' LIVE: पुणे से राहुल गांधी सीधे LIVE | Pune | Congress",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Byjs6-fXI2E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "British Media Uk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "owoQjXbJpsg",
+            "name": "World War 3 Start Live: युद्ध में China की भी एंट्री America की सेना भी हैरान ? | Trump | Jinping",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yu9nDb2XtJY",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {

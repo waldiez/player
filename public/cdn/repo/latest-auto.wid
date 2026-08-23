@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260822T181927.030Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260823T005631.525Z-l4t35t"
   type: "state"
-  created: "2026-08-22T18:19:27.030Z"
+  created: "2026-08-23T00:56:31.525Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260822T181927.030Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260823T005631.525Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,33 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AibXHiaPDXE"
-        name: "🔴LIVE: MK Stalin | DMK |  பதவியை இழக்கும் திமுக ஸ்டார்-கள்..யார்..?யார்?"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9SzjpDlZS5U"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "upJhygIqDS0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6Pzvs0oh4yw"
-        name: "Iran US War Update: 10 बजते ही ईरान-US जंग पर आई चौंकाने वाली खबर! | Trump | Khamenei | Top News"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fMvSin68bFs"
-        name: "World War 3 Live Updates: China भी जंग में कूदा | Jinping | Middle East War | America | India News"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qFkoeI72H1E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ko4UnY6_7qE"
-        name: "Imran Khan News LIVE: इमरान खाने को लेकर बड़ी खबर, 'काफिले से ही लापता', मचा हड़कंप!| Asim | Shahbaz"
+        videoId: "MK4i-INhGEc"
+        name: "22 August News LIVE: 22 अगस्त की 11बड़ी खबर, जिसने हिला दिया पूरा देश! | Top News| Hindi News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3VuWopPH96U"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
+        videoId: "sryFihGk6_s"
+        name: "Rahul Gandhi's 'Chhatron Ki Goonj' LIVE: पुणे से राहुल गांधी सीधे LIVE | Pune | Congress"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Byjs6-fXI2E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "British Media Uk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "owoQjXbJpsg"
+        name: "World War 3 Start Live: युद्ध में China की भी एंट्री America की सेना भी हैरान ? | Trump | Jinping"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yu9nDb2XtJY"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +90,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-22T18:19:27.030Z"
+  exported_at: "2026-08-23T00:56:31.525Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-22T18:19:26.990Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-23T00:56:31.477Z"
+  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
