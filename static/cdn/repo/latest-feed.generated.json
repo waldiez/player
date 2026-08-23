@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-23T06:29:41.855Z",
+    "generatedAt": "2026-08-23T12:25:59.779Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,56 +28,62 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yRtSNkLI_xc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kgeNvNsg9ss",
-            "name": "UP Flood Latest Update | Weather Alert: बाढ़ से पानी-पानी UP! | Monsoon 2026 | Rain Alert | ABP News",
+            "videoId": "7FVQ5mSTEcw",
+            "name": "Sugar Price Hike News LIVE: शाम होते ही चीनीके नए रेट उड़ाए होश, !11 खबरों ने हिला डाला! | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "FIEEB7yJYoY",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "videoId": "badbQv0rdds",
+            "name": "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन!, हो गया फाइनल-सूत्र | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9uv0FDrPZCw",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 23August News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-lpsIvAyzoI",
+            "name": "Delhi Police Attack News LIVE: दिल्ली में पुलिसकर्मियों पर जानलेवा हमला, सामने आया खतरनाक Video",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zpedhRKyQho",
+            "name": "Ajker khobor 23 Augu 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time bd news",
+            "artist": "সময় টিভি"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RTao4SqaLYQ",
+            "name": "Headlines Live With World News Report Today August 22nd 2026!",
+            "artist": "World News Report Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1mRcjfpjgVE",
+            "name": "WORLD NEWS LIVE: Ukraine War | Harry Return | US Midterms | Iran War | $40Trillion US Debt | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IY6o2NhxNd4",
+            "name": "US News Live: Trump Drops Bombshell  'We Have Total Control Of Everything!', World In Shock!",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6pcOD67LKMA",
+            "name": "Gujarati Afternoon News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "D4M3q3ZlXYQ",
-            "name": "Aaj Ki Taaza Khabar LIVE: 23 August 2026 | RJD Protest | BJP New Team | PM Modi | Vande Mataram",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kDqR57NMJtk",
-            "name": "Sugar New Price Today LIVE: खान सर ने पहले ही बता दिया था चीनी हो जाएगी महंगी! | Sugar New Rate",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S1QHsc79ETQ",
-            "name": "Iran America War Update LIVE: 250 दिन की तैनाती के बाद हार माना Abraham Lincoln ? | Trump | Khamenei",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7BxI6b0HRGE",
-            "name": "Pakistan Imran Khan News LIVE: इमरान जेल से निकले अस्पताल नहीं पहुंचे! | Asim Munir | Shahbaz Sharif",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YEuxV-ttV_g",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 23 Aug",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tgaFek0-Xv4",
-            "name": "Rahul Gandhi News LIVE: गूंज कार्यक्रम में राहुल  गांधी के 7 बड़े खुलासे, PM मोदी की दिखाई तस्वीर!",
+            "videoId": "RQhxnu4wW1E",
+            "name": "Shastrarth LIVE: मजहब की आड़ में वंदे मातरम पर रार! | Romana ISar Khan",
             "artist": "ABP NEWS"
         }
     ],

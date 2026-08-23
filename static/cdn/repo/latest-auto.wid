@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260823T062941.895Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260823T122559.820Z-l4t35t"
   type: "state"
-  created: "2026-08-23T06:29:41.895Z"
+  created: "2026-08-23T12:25:59.820Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260823T062941.895Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260823T122559.820Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,62 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "yRtSNkLI_xc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kgeNvNsg9ss"
-        name: "UP Flood Latest Update | Weather Alert: बाढ़ से पानी-पानी UP! | Monsoon 2026 | Rain Alert | ABP News"
+        videoId: "7FVQ5mSTEcw"
+        name: "Sugar Price Hike News LIVE: शाम होते ही चीनीके नए रेट उड़ाए होश, !11 खबरों ने हिला डाला! | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FIEEB7yJYoY"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        videoId: "badbQv0rdds"
+        name: "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन!, हो गया फाइनल-सूत्र | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9uv0FDrPZCw"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 23August News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-lpsIvAyzoI"
+        name: "Delhi Police Attack News LIVE: दिल्ली में पुलिसकर्मियों पर जानलेवा हमला, सामने आया खतरनाक Video"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zpedhRKyQho"
+        name: "Ajker khobor 23 Augu 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time bd news"
+        artist: "সময় টিভি"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RTao4SqaLYQ"
+        name: "Headlines Live With World News Report Today August 22nd 2026!"
+        artist: "World News Report Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1mRcjfpjgVE"
+        name: "WORLD NEWS LIVE: Ukraine War | Harry Return | US Midterms | Iran War | $40Trillion US Debt | N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IY6o2NhxNd4"
+        name: "US News Live: Trump Drops Bombshell  'We Have Total Control Of Everything!', World In Shock!"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6pcOD67LKMA"
+        name: "Gujarati Afternoon News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
         artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D4M3q3ZlXYQ"
-        name: "Aaj Ki Taaza Khabar LIVE: 23 August 2026 | RJD Protest | BJP New Team | PM Modi | Vande Mataram"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kDqR57NMJtk"
-        name: "Sugar New Price Today LIVE: खान सर ने पहले ही बता दिया था चीनी हो जाएगी महंगी! | Sugar New Rate"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "S1QHsc79ETQ"
-        name: "Iran America War Update LIVE: 250 दिन की तैनाती के बाद हार माना Abraham Lincoln ? | Trump | Khamenei"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7BxI6b0HRGE"
-        name: "Pakistan Imran Khan News LIVE: इमरान जेल से निकले अस्पताल नहीं पहुंचे! | Asim Munir | Shahbaz Sharif"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YEuxV-ttV_g"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 23 Aug"
-        artist: "Sairbeen News 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tgaFek0-Xv4"
-        name: "Rahul Gandhi News LIVE: गूंज कार्यक्रम में राहुल  गांधी के 7 बड़े खुलासे, PM मोदी की दिखाई तस्वीर!"
+        videoId: "RQhxnu4wW1E"
+        name: "Shastrarth LIVE: मजहब की आड़ में वंदे मातरम पर रार! | Romana ISar Khan"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-23T06:29:41.895Z"
+  exported_at: "2026-08-23T12:25:59.820Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-23T06:29:41.855Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-23T12:25:59.779Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
