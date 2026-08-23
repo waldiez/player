@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260823T005631.525Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260823T062941.895Z-l4t35t"
   type: "state"
-  created: "2026-08-23T00:56:31.525Z"
+  created: "2026-08-23T06:29:41.895Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260823T005631.525Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260823T062941.895Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "MK4i-INhGEc"
-        name: "22 August News LIVE: 22 अगस्त की 11बड़ी खबर, जिसने हिला दिया पूरा देश! | Top News| Hindi News"
+        videoId: "yRtSNkLI_xc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kgeNvNsg9ss"
+        name: "UP Flood Latest Update | Weather Alert: बाढ़ से पानी-पानी UP! | Monsoon 2026 | Rain Alert | ABP News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sryFihGk6_s"
-        name: "Rahul Gandhi's 'Chhatron Ki Goonj' LIVE: पुणे से राहुल गांधी सीधे LIVE | Pune | Congress"
+        videoId: "FIEEB7yJYoY"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D4M3q3ZlXYQ"
+        name: "Aaj Ki Taaza Khabar LIVE: 23 August 2026 | RJD Protest | BJP New Team | PM Modi | Vande Mataram"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kDqR57NMJtk"
+        name: "Sugar New Price Today LIVE: खान सर ने पहले ही बता दिया था चीनी हो जाएगी महंगी! | Sugar New Rate"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Byjs6-fXI2E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "British Media Uk"
+        videoId: "S1QHsc79ETQ"
+        name: "Iran America War Update LIVE: 250 दिन की तैनाती के बाद हार माना Abraham Lincoln ? | Trump | Khamenei"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "owoQjXbJpsg"
-        name: "World War 3 Start Live: युद्ध में China की भी एंट्री America की सेना भी हैरान ? | Trump | Jinping"
-        artist: "India News"
+        videoId: "7BxI6b0HRGE"
+        name: "Pakistan Imran Khan News LIVE: इमरान जेल से निकले अस्पताल नहीं पहुंचे! | Asim Munir | Shahbaz Sharif"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yu9nDb2XtJY"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World Awaits | US Iran War Update"
-        artist: "Times Now"
+        videoId: "YEuxV-ttV_g"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 23 Aug"
+        artist: "Sairbeen News 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tgaFek0-Xv4"
+        name: "Rahul Gandhi News LIVE: गूंज कार्यक्रम में राहुल  गांधी के 7 बड़े खुलासे, PM मोदी की दिखाई तस्वीर!"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-23T00:56:31.525Z"
+  exported_at: "2026-08-23T06:29:41.895Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-23T00:56:31.477Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-23T06:29:41.855Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
