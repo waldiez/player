@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-23T12:25:59.779Z",
+    "generatedAt": "2026-08-23T18:19:29.409Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,62 +28,56 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7FVQ5mSTEcw",
-            "name": "Sugar Price Hike News LIVE: शाम होते ही चीनीके नए रेट उड़ाए होश, !11 खबरों ने हिला डाला! | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "badbQv0rdds",
-            "name": "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन!, हो गया फाइनल-सूत्र | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9uv0FDrPZCw",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 23August News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-lpsIvAyzoI",
-            "name": "Delhi Police Attack News LIVE: दिल्ली में पुलिसकर्मियों पर जानलेवा हमला, सामने आया खतरनाक Video",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zpedhRKyQho",
-            "name": "Ajker khobor 23 Augu 2026 | Bangladesh latest news | somoy news | banglavision bdnews24 Time bd news",
-            "artist": "সময় টিভি"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RTao4SqaLYQ",
-            "name": "Headlines Live With World News Report Today August 22nd 2026!",
-            "artist": "World News Report Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1mRcjfpjgVE",
-            "name": "WORLD NEWS LIVE: Ukraine War | Harry Return | US Midterms | Iran War | $40Trillion US Debt | N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IY6o2NhxNd4",
-            "name": "US News Live: Trump Drops Bombshell  'We Have Total Control Of Everything!', World In Shock!",
+            "videoId": "LzphdT7RLMc",
+            "name": "US NEWS Live: Trump Decides Iran's Fate as War Nears Final Chapter, World War 3 Imminent?",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "6pcOD67LKMA",
-            "name": "Gujarati Afternoon News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "videoId": "7tWinMTN-jE",
+            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "RQhxnu4wW1E",
-            "name": "Shastrarth LIVE: मजहब की आड़ में वंदे मातरम पर रार! | Romana ISar Khan",
+            "videoId": "Jctid0EMzso",
+            "name": "11 pm Today's Round-up | 23 AUG 2026 | Night Headlines | #headlines | Sathiyam Tv",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xr6FmRnx68s",
+            "name": "UP Reservation News LIVE: 'आरक्षण हटाओ आंदोलन'...भड़की सियासत | Akhilesh Yadav | PDA | CM Yogi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j-xOTGL8_x0",
+            "name": "LIVE: Iran 'Plans' Gulf Strikes To Hit Trump Before Midterms?| Iran America War | Hormuz | Arab|N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kCsX9YkAbnw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UQeZE7Rvh8M",
+            "name": "Akhilesh Yadav News LIVE: सीट शेयरिंग पर अखिलेश ने कर दिया खेल, इस पार्टी से गठबंधन का ऐलान!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oLolrNdm_ZU",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZSqh_-qafic",
+            "name": "UP Reservation News LIVE:आरक्षण हटाओ पर बवाल पुलिस ने प्रदर्शनकारियों को हिरासत में लिया! | Akhilesh",
             "artist": "ABP NEWS"
         }
     ],
