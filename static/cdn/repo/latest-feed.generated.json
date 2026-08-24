@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-24T12:35:20.395Z",
+    "generatedAt": "2026-08-24T18:29:47.575Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_Zg5Fyb-DbY",
-            "name": "Sugar New Price News LIVE: अचानक चीनी के नए दाम ने सभी को चौंकाया | Raksha Bandhan | Breaking",
+            "videoId": "EBJbcwPAdAc",
+            "name": "ABP Majha LIVE | 24 August 2026 | Devendra Fadnavis | Maharashtra Politics | Marathi News",
+            "artist": "ABP MAJHA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B3xfTlEnlWE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U2GREKkihyA",
+            "name": "Superfast 100 News Today LIVE | बातम्यांचा सुपरफास्ट आढावा | CM Fadnavis News | Mahayuti News Today",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mJa1CjYTcOY",
+            "name": "LIVE with Dr. Shahid Masood I Iran US War I The last battle... | 24 AUG 2026 | GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Mpv2sQppOLI",
+            "name": "Akhilesh Yadav News LIVE: BJP के लिए चुनौती बनेगा नया गठबंधन? हो गया फाइनल-सूत्र | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "W6-H5RIqk6k",
-            "name": "Sugar Price Hike News LIVE: Akhilesh Yadav-Arvind Kejriwal का महंगी चीनी की कीमतों पर बड़ा हमला!",
+            "videoId": "_Tnj0Q0QpIU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "u5qjr-1DRm4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 24 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BDC NEWS 24 BANGLA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9dFalHBn8NI",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I1dP4laz2G0",
+            "name": "Sandeep Chaudhary : युवा को कौन लुभाए..कौन भड़काए? | Reservation Hatao Andolan | BJP Vs Congress",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "yqnjXTa_EXk",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3RzUrz7Fzkc",
-            "name": "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 24.08.2026",
-            "artist": "News18 Kerala"
-        },
-        {
-            "mood": "storm",
-            "videoId": "y1RvC6ZP95Q",
-            "name": "Reservation Hatao Andolan News LIVE: प्रदर्शनकारियों का हंगामा! विपक्ष का घेराव | Akhilesh Yadav",
+            "videoId": "4ZvCfR7BO6w",
+            "name": "Onion Price Hike News: चीनी ने सताया, रुला रहा प्याज! | Onion Market Rate | Breaking News",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Bf6jPAkGtLY",
-            "name": "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Latest World News August 24, 2026 Part 1",
-            "artist": "Black Celebrity Secret"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hVMIMH7kpe8",
-            "name": "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Breaking World News August 24, 2026 Part 1",
-            "artist": "Core Stream"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SfUulEuAlEQ",
-            "name": "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Breaking World News August 24, 2026 Part 1",
-            "artist": "Esha Hemendra Sibal"
         }
     ],
     "sourceFilters": {

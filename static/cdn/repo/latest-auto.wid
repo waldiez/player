@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260824T123520.435Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260824T182947.606Z-l4t35t"
   type: "state"
-  created: "2026-08-24T12:35:20.435Z"
+  created: "2026-08-24T18:29:47.606Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260824T123520.435Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260824T182947.606Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_Zg5Fyb-DbY"
-        name: "Sugar New Price News LIVE: अचानक चीनी के नए दाम ने सभी को चौंकाया | Raksha Bandhan | Breaking"
+        videoId: "EBJbcwPAdAc"
+        name: "ABP Majha LIVE | 24 August 2026 | Devendra Fadnavis | Maharashtra Politics | Marathi News"
+        artist: "ABP MAJHA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B3xfTlEnlWE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U2GREKkihyA"
+        name: "Superfast 100 News Today LIVE | बातम्यांचा सुपरफास्ट आढावा | CM Fadnavis News | Mahayuti News Today"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mJa1CjYTcOY"
+        name: "LIVE with Dr. Shahid Masood I Iran US War I The last battle... | 24 AUG 2026 | GNN"
+        artist: "GNN"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Mpv2sQppOLI"
+        name: "Akhilesh Yadav News LIVE: BJP के लिए चुनौती बनेगा नया गठबंधन? हो गया फाइनल-सूत्र | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "W6-H5RIqk6k"
-        name: "Sugar Price Hike News LIVE: Akhilesh Yadav-Arvind Kejriwal का महंगी चीनी की कीमतों पर बड़ा हमला!"
+        videoId: "_Tnj0Q0QpIU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u5qjr-1DRm4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 24 August | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BDC NEWS 24 BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9dFalHBn8NI"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I1dP4laz2G0"
+        name: "Sandeep Chaudhary : युवा को कौन लुभाए..कौन भड़काए? | Reservation Hatao Andolan | BJP Vs Congress"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yqnjXTa_EXk"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3RzUrz7Fzkc"
-        name: "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 24.08.2026"
-        artist: "News18 Kerala"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "y1RvC6ZP95Q"
-        name: "Reservation Hatao Andolan News LIVE: प्रदर्शनकारियों का हंगामा! विपक्ष का घेराव | Akhilesh Yadav"
+        videoId: "4ZvCfR7BO6w"
+        name: "Onion Price Hike News: चीनी ने सताया, रुला रहा प्याज! | Onion Market Rate | Breaking News"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Bf6jPAkGtLY"
-        name: "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Latest World News August 24, 2026 Part 1"
-        artist: "Black Celebrity Secret"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hVMIMH7kpe8"
-        name: "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Breaking World News August 24, 2026 Part 1"
-        artist: "Core Stream"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SfUulEuAlEQ"
-        name: "CNN Newsroom Live 8/24/26 | 🅲🅽🅽 Breaking World News August 24, 2026 Part 1"
-        artist: "Esha Hemendra Sibal"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-24T12:35:20.435Z"
+  exported_at: "2026-08-24T18:29:47.606Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-24T12:35:20.395Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-24T18:29:47.575Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
