@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260824T005429.174Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260824T064220.536Z-l4t35t"
   type: "state"
-  created: "2026-08-24T00:54:29.174Z"
+  created: "2026-08-24T06:42:20.536Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260824T005429.174Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260824T064220.536Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "chjwN5uLgcU"
-        name: "Sugar Price Hike News LIVE: आधी रात चीनी पर फैसला, आया बवंडर!, तोड़ा रिकॉर्ड, लोगों में हाहाकार!"
+        videoId: "diu1f0SomeI"
+        name: "Onion Price Hike News LIVE: प्याज केबढ़े रेट....मचा बवाल? | Onion Market Rate | Breaking News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Al6iQNYQc3Y"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 24August News"
+        videoId: "qYuushcaLsE"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KLwVJ4qVExg"
+        name: "Aaj Ki Taaza Khabar LIVE: 24 August 2026 | Sugar Price | BJP New Team | PM Modi | Vande Mataram"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SGNMCCcLrOw"
+        name: "World News LIVE | 'We Are Prepared To Act Decisively' | Hegseth Issues Final Ultimatum To Tehran"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kIBJJJC6tFM"
+        name: "Bihar Temple Stampede News LIVE: सावन के अंतिम सोमवारी पर बड़ा हादसा | Sawan | Madhepura Mandir"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KuBRGFRYQqU"
-        name: "LIVE: ABC News Live - Sunday, August 23 | ABC News"
-        artist: "ABC News"
+        videoId: "pEdUJtofkKs"
+        name: "World News Live: US IRAN WAR IMMINENT? Araghchi's Chilling 'Time Has Come' Warning Shocks Washington"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GZaaDmtZDak"
-        name: "ABC World News Tonight With David Muir August 23, 2026 | ABC News Today 8/23/26 HD"
-        artist: "Antra Media Works"
+        videoId: "4vRrgReE33g"
+        name: "Sugar Price Hike News LIVE: चीनी के नए दामों पर आई बड़ी जानकारी! | Sugar Price Jump Update"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fgsI8oxttZw"
-        name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
-        artist: "V News27"
+        videoId: "ZuZBKdmLw0c"
+        name: "UP Reservation Dismiss News LIVE: यूपी चुनाव से पहले सिर घुमा देने वाला खबर...! | Akhilesh Yadav"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e4gyNdpXJsQ"
-        name: "ABC World News Tonight With David Muir 8/23/26 | ABC News Today August 23, 2026"
-        artist: "Antra Digital Media Pvt. Ltd."
+        videoId: "IOlt2FW1vNw"
+        name: "Donald Trump LIVE | World on Edge After Trump's Latest Military Move | U.S.-Iran LIVE"
+        artist: "ALERT News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FIEEB7yJYoY"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mrp362sNvAc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Aug  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "AJKER আন্তর্জাতিক খবর"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4mH-_vIYlxI"
-        name: "आंखों में मिर्च पाउडर, लाठी-डंडों से हमला...दिल्ली पुलिस पर जानलेवा हमला | Attack On Delhi Police"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YA-AP6Wevbw"
-        name: "Iran-US War Escalates Live: Iran Warns of ‘Earthquake-Like’ Retaliation | World News | N18G"
-        artist: "News18 J&K"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Gg_zTkw1eeI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "Ah7EyPPQdYo"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 24 Aug"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-24T00:54:29.174Z"
+  exported_at: "2026-08-24T06:42:20.536Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-24T00:54:29.134Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-24T06:42:20.498Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

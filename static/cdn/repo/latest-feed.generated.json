@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-24T00:54:29.134Z",
+    "generatedAt": "2026-08-24T06:42:20.498Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "chjwN5uLgcU",
-            "name": "Sugar Price Hike News LIVE: आधी रात चीनी पर फैसला, आया बवंडर!, तोड़ा रिकॉर्ड, लोगों में हाहाकार!",
+            "videoId": "diu1f0SomeI",
+            "name": "Onion Price Hike News LIVE: प्याज केबढ़े रेट....मचा बवाल? | Onion Market Rate | Breaking News",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "Al6iQNYQc3Y",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें| Headlines Today | Top News| Hindi News | 24August News",
+            "videoId": "qYuushcaLsE",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KLwVJ4qVExg",
+            "name": "Aaj Ki Taaza Khabar LIVE: 24 August 2026 | Sugar Price | BJP New Team | PM Modi | Vande Mataram",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SGNMCCcLrOw",
+            "name": "World News LIVE | 'We Are Prepared To Act Decisively' | Hegseth Issues Final Ultimatum To Tehran",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kIBJJJC6tFM",
+            "name": "Bihar Temple Stampede News LIVE: सावन के अंतिम सोमवारी पर बड़ा हादसा | Sawan | Madhepura Mandir",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "KuBRGFRYQqU",
-            "name": "LIVE: ABC News Live - Sunday, August 23 | ABC News",
-            "artist": "ABC News"
+            "videoId": "pEdUJtofkKs",
+            "name": "World News Live: US IRAN WAR IMMINENT? Araghchi's Chilling 'Time Has Come' Warning Shocks Washington",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "GZaaDmtZDak",
-            "name": "ABC World News Tonight With David Muir August 23, 2026 | ABC News Today 8/23/26 HD",
-            "artist": "Antra Media Works"
+            "videoId": "4vRrgReE33g",
+            "name": "Sugar Price Hike News LIVE: चीनी के नए दामों पर आई बड़ी जानकारी! | Sugar Price Jump Update",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "fgsI8oxttZw",
-            "name": "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV",
-            "artist": "V News27"
+            "videoId": "ZuZBKdmLw0c",
+            "name": "UP Reservation Dismiss News LIVE: यूपी चुनाव से पहले सिर घुमा देने वाला खबर...! | Akhilesh Yadav",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "e4gyNdpXJsQ",
-            "name": "ABC World News Tonight With David Muir 8/23/26 | ABC News Today August 23, 2026",
-            "artist": "Antra Digital Media Pvt. Ltd."
+            "videoId": "IOlt2FW1vNw",
+            "name": "Donald Trump LIVE | World on Edge After Trump's Latest Military Move | U.S.-Iran LIVE",
+            "artist": "ALERT News"
         },
         {
             "mood": "storm",
-            "videoId": "FIEEB7yJYoY",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mrp362sNvAc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Aug  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "AJKER আন্তর্জাতিক খবর"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4mH-_vIYlxI",
-            "name": "आंखों में मिर्च पाउडर, लाठी-डंडों से हमला...दिल्ली पुलिस पर जानलेवा हमला | Attack On Delhi Police",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YA-AP6Wevbw",
-            "name": "Iran-US War Escalates Live: Iran Warns of ‘Earthquake-Like’ Retaliation | World News | N18G",
-            "artist": "News18 J&K"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Gg_zTkw1eeI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "Ah7EyPPQdYo",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 24 Aug",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
