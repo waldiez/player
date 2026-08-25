@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260825T063432.766Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260825T123517.694Z-l4t35t"
   type: "state"
-  created: "2026-08-25T06:34:32.766Z"
+  created: "2026-08-25T12:35:17.694Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260825T063432.766Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260825T123517.694Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "PHXiGiCqXN8"
-        name: "Sugar Price Hike News LIVE: संजय सिंह का खुलासा, चीनी महंगी होने के पीछे मुसलमान? | Onion Price Hike"
+        videoId: "RBZPPIN7db4"
+        name: "Swine Flu High Alert News LIVE: स्वाइन फ्लू का कहर शुरू, एमपी में 1 व्यक्ति की मौत | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gZoSgKIWEz8"
-        name: "Onion Price Hike News LIVE: सुबह-सुबह प्याज के नए दामों ने लोगों चौंकाया! | Sugar Price | Breaking"
+        videoId: "GPR-yHaYQJM"
+        name: "Patna Student Protest LIVE: पटना में जमकर बवाल | Bihar News | Breaking | Samrat Choudhary"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6ROuiM8C6HM"
-        name: "Patna Student Protest News LIVE: फिर से पटना में बड़ा प्रदर्शन शुरू | Tejashwi Yadav |Bihar Breaking"
+        videoId: "s9iTfiJGt34"
+        name: "Sugar Price News LIVE: चल गया पता,चीनी के दाम बढ़ने का असली कारण! | 22 August | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8UGfptWbuPo"
-        name: "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन...हो गया फाइनल-सूत्र | Breaking"
+        videoId: "MhS3f5UVTmQ"
+        name: "UP Reservation News LIVE: यूपी में खत्म होगा आरक्षण? चुनाव से पहले आई बड़ी खबर | Akhilesh Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QUbu5wSxkDk"
-        name: "ABC News Live Prime: August 24, 2026"
-        artist: "ABC News"
+        videoId: "BZCjPGY-5MY"
+        name: "আজকের আন্তর্জাতিক সব খবর, ২৫ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
+        artist: "World News Ira"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xGbfqvViBVM"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "c7gc8DTQ-KM"
+        name: "Patna Protest March LIVE: छात्रों और पुलिस की भिडंत! | Bihar News | Police Action | Breaking News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8yt9ar0lF68"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 25 Aug"
-        artist: "Sairbeen News 24"
+        videoId: "In3_HjtX5rY"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (25.08.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y8_TvOWkWhA"
+        name: "🔴LIVE: Speed News | 24 Headlines | 25-08-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-25T06:34:32.766Z"
+  exported_at: "2026-08-25T12:35:17.694Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-25T06:34:32.725Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-25T12:35:17.544Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

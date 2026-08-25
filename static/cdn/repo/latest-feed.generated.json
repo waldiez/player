@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-25T06:34:32.725Z",
+    "generatedAt": "2026-08-25T12:35:17.544Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PHXiGiCqXN8",
-            "name": "Sugar Price Hike News LIVE: संजय सिंह का खुलासा, चीनी महंगी होने के पीछे मुसलमान? | Onion Price Hike",
+            "videoId": "RBZPPIN7db4",
+            "name": "Swine Flu High Alert News LIVE: स्वाइन फ्लू का कहर शुरू, एमपी में 1 व्यक्ति की मौत | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "gZoSgKIWEz8",
-            "name": "Onion Price Hike News LIVE: सुबह-सुबह प्याज के नए दामों ने लोगों चौंकाया! | Sugar Price | Breaking",
+            "videoId": "GPR-yHaYQJM",
+            "name": "Patna Student Protest LIVE: पटना में जमकर बवाल | Bihar News | Breaking | Samrat Choudhary",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "6ROuiM8C6HM",
-            "name": "Patna Student Protest News LIVE: फिर से पटना में बड़ा प्रदर्शन शुरू | Tejashwi Yadav |Bihar Breaking",
+            "videoId": "s9iTfiJGt34",
+            "name": "Sugar Price News LIVE: चल गया पता,चीनी के दाम बढ़ने का असली कारण! | 22 August | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "8UGfptWbuPo",
-            "name": "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन...हो गया फाइनल-सूत्र | Breaking",
+            "videoId": "MhS3f5UVTmQ",
+            "name": "UP Reservation News LIVE: यूपी में खत्म होगा आरक्षण? चुनाव से पहले आई बड़ी खबर | Akhilesh Yadav",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "QUbu5wSxkDk",
-            "name": "ABC News Live Prime: August 24, 2026",
-            "artist": "ABC News"
+            "videoId": "BZCjPGY-5MY",
+            "name": "আজকের আন্তর্জাতিক সব খবর, ২৫ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
+            "artist": "World News Ira"
         },
         {
             "mood": "storm",
-            "videoId": "xGbfqvViBVM",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "c7gc8DTQ-KM",
+            "name": "Patna Protest March LIVE: छात्रों और पुलिस की भिडंत! | Bihar News | Police Action | Breaking News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "8yt9ar0lF68",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 25 Aug",
-            "artist": "Sairbeen News 24"
+            "videoId": "In3_HjtX5rY",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (25.08.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y8_TvOWkWhA",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 25-08-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         }
     ],
     "sourceFilters": {
