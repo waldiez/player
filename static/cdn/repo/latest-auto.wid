@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260825T123517.694Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260825T182957.313Z-l4t35t"
   type: "state"
-  created: "2026-08-25T12:35:17.694Z"
+  created: "2026-08-25T18:29:57.313Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260825T123517.694Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260825T182957.313Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "RBZPPIN7db4"
-        name: "Swine Flu High Alert News LIVE: स्वाइन फ्लू का कहर शुरू, एमपी में 1 व्यक्ति की मौत | Breaking"
+        videoId: "0_mOV6W2Gjg"
+        name: "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6ZPBQEIS6-E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MB0PPByIdug"
+        name: "Gujarat Latest Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2LQ0xD1D4H8"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BC1CF55IauY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_PxFkn_9CHQ"
+        name: "🔴LIVE: CM Vijay | Election | CM விஜய்-க்கு ஷாக் செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B9ndLv6_SUE"
+        name: "US IRAN NEWS LIVE: Pentagon War Room Activated as Tensions Reach Critical Point | World News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YI11PBoUucw"
+        name: "Patna GenZ Protest LIVE: पटना में GenZ का आक्रोश | Bihar Protest | Samrat Choudhary | Tejashwi Yadav"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GPR-yHaYQJM"
-        name: "Patna Student Protest LIVE: पटना में जमकर बवाल | Bihar News | Breaking | Samrat Choudhary"
+        videoId: "GlVn2bEPIxU"
+        name: "Patna Students March LIVE: जहां छात्रों का प्रदर्शनवहां से सीधे LIVE| Breaking | Bihar Protest"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s9iTfiJGt34"
-        name: "Sugar Price News LIVE: चल गया पता,चीनी के दाम बढ़ने का असली कारण! | 22 August | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MhS3f5UVTmQ"
-        name: "UP Reservation News LIVE: यूपी में खत्म होगा आरक्षण? चुनाव से पहले आई बड़ी खबर | Akhilesh Yadav"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BZCjPGY-5MY"
-        name: "আজকের আন্তর্জাতিক সব খবর, ২৫ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
-        artist: "World News Ira"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "c7gc8DTQ-KM"
-        name: "Patna Protest March LIVE: छात्रों और पुलिस की भिडंत! | Bihar News | Police Action | Breaking News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "In3_HjtX5rY"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (25.08.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Y8_TvOWkWhA"
-        name: "🔴LIVE: Speed News | 24 Headlines | 25-08-2026 | #morningwithabn | ABN Telugu"
-        artist: "ABN Telugu "
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-25T12:35:17.694Z"
+  exported_at: "2026-08-25T18:29:57.313Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-25T12:35:17.544Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-25T18:29:57.273Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-25T12:35:17.544Z",
+    "generatedAt": "2026-08-25T18:29:57.273Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "RBZPPIN7db4",
-            "name": "Swine Flu High Alert News LIVE: स्वाइन फ्लू का कहर शुरू, एमपी में 1 व्यक्ति की मौत | Breaking",
+            "videoId": "0_mOV6W2Gjg",
+            "name": "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6ZPBQEIS6-E",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MB0PPByIdug",
+            "name": "Gujarat Latest Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2LQ0xD1D4H8",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BC1CF55IauY",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_PxFkn_9CHQ",
+            "name": "🔴LIVE: CM Vijay | Election | CM விஜய்-க்கு ஷாக் செய்தி",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B9ndLv6_SUE",
+            "name": "US IRAN NEWS LIVE: Pentagon War Room Activated as Tensions Reach Critical Point | World News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YI11PBoUucw",
+            "name": "Patna GenZ Protest LIVE: पटना में GenZ का आक्रोश | Bihar Protest | Samrat Choudhary | Tejashwi Yadav",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GPR-yHaYQJM",
-            "name": "Patna Student Protest LIVE: पटना में जमकर बवाल | Bihar News | Breaking | Samrat Choudhary",
+            "videoId": "GlVn2bEPIxU",
+            "name": "Patna Students March LIVE: जहां छात्रों का प्रदर्शनवहां से सीधे LIVE| Breaking | Bihar Protest",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "s9iTfiJGt34",
-            "name": "Sugar Price News LIVE: चल गया पता,चीनी के दाम बढ़ने का असली कारण! | 22 August | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MhS3f5UVTmQ",
-            "name": "UP Reservation News LIVE: यूपी में खत्म होगा आरक्षण? चुनाव से पहले आई बड़ी खबर | Akhilesh Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BZCjPGY-5MY",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ২৫ আগস্ট ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
-            "artist": "World News Ira"
-        },
-        {
-            "mood": "storm",
-            "videoId": "c7gc8DTQ-KM",
-            "name": "Patna Protest March LIVE: छात्रों और पुलिस की भिडंत! | Bihar News | Police Action | Breaking News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "In3_HjtX5rY",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (25.08.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Y8_TvOWkWhA",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 25-08-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
         }
     ],
     "sourceFilters": {
