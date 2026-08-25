@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-25T00:54:38.944Z",
+    "generatedAt": "2026-08-25T06:34:32.725Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Eb8IZMcLZEU",
-            "name": "Janhit with Chitra Tripathi LIVE: सावन में यूपी पॉलिटिक्स का 'नॉन-वेज' वर्जन! |Fish feast in Ayodhya",
+            "videoId": "PHXiGiCqXN8",
+            "name": "Sugar Price Hike News LIVE: संजय सिंह का खुलासा, चीनी महंगी होने के पीछे मुसलमान? | Onion Price Hike",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xapeiM1T-to",
-            "name": "[LIVE] Jesse Watters Primetime 08/24/2026 Live HD | FOX NEWS TRUMP LIVE August 24, 2026",
-            "artist": "ملخصك في دقيقه "
+            "videoId": "gZoSgKIWEz8",
+            "name": "Onion Price Hike News LIVE: सुबह-सुबह प्याज के नए दामों ने लोगों चौंकाया! | Sugar Price | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "gV-l507P6Tc",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
+            "videoId": "6ROuiM8C6HM",
+            "name": "Patna Student Protest News LIVE: फिर से पटना में बड़ा प्रदर्शन शुरू | Tejashwi Yadav |Bihar Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8UGfptWbuPo",
+            "name": "Akhilesh Yadav News LIVE: अखिलेश के साथ इस बड़ी पार्टी का गठबंधन...हो गया फाइनल-सूत्र | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QUbu5wSxkDk",
+            "name": "ABC News Live Prime: August 24, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xGbfqvViBVM",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8yt9ar0lF68",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 25 Aug",
+            "artist": "Sairbeen News 24"
         }
     ],
     "sourceFilters": {
