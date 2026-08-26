@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-26T12:38:23.289Z",
+    "generatedAt": "2026-08-26T19:40:49.811Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "O27bQUw4d4g",
-            "name": "Aaj Ki 100 Khabar LIVE: सुबह-सुबह की 7 खबरों ने देश को चौंकाया!| Headlines Today | Top News",
-            "artist": "ABP NEWS"
+            "videoId": "FoP22PcUvho",
+            "name": "LIVE🔴Chaos in Islamabad: Terrifying New Secrets Emerge From PIMS Hospital | Nepal Hit by a Disaster",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "y0h0hMKZoYg",
-            "name": "Sugar Price News LIVE: 26 अगस्त की चीनी के ताजा नए रेट ने उड़ाए होश! | 26 August | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "OHf0CCElI4g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "nXN6xw3vihQ",
-            "name": "Patna Students March News LIVE: पटना में छात्रों के प्रदर्शन ने हिला दी सरकार!| Big Breaking | Bihar",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CpihaR5kwQ4",
-            "name": "US, Iran Reportedly Agree on New Ceasefire | Russia Media Claims: 1 PM Headlines Geo News (26 Aug )",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kBnrsKP7Z9U",
-            "name": "🔴 LIVE : ජනවරමේ වගකීම  |සටන |Satana 25.08.2026 #Asksatana",
+            "videoId": "OGBtU0ULK2o",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (26.08.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
             "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "crIRBbC-aiU",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (26.08.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "videoId": "CVgtbY0EptI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8atH6NJb6Gs",
+            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (26-08-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
             "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CNKJH_Z9s0o",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6Tlh3CM9YtU",
+            "name": "Nepal Glacier Burst Live: नेपाल में बहुत बड़ा हादसा | Breaking News | Tibet | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_Cq67RkY710",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pSv7ofrgPlo",
+            "name": "🔴 LIVE WORLD NEWS: $3 Trillion American Loss | Netanyahu Assassination Threat Revealed",
+            "artist": "Spot News 3.0"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IRhYR6H6XHo",
+            "name": "Nitin Gadkari Retirement News: नितिन गडकरी राजनीति से लेने जा रहे संन्यास?, BJP में हड़कंप!",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
