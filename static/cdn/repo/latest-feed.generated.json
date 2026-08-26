@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-26T00:55:03.419Z",
+    "generatedAt": "2026-08-26T06:36:29.731Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,27 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EmfGrK3zoVI",
-            "name": "World News LIVE: US IRAN WAR IMMINENT? Araghchi's Chilling 'Time Has Come' Warning Shocks Washington",
-            "artist": "Times Now World"
+            "videoId": "KwTGGH9OIuc",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "RVxPlc9Bw8Q",
-            "name": "Aaj Ki Taaza Khabar LIVE: 26 August 2026 | Sugar Price | BJP New Team | PM Modi | Vande Mataram",
+            "videoId": "Mq0YzDlnHDM",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 26 Aug",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kMYDG6ehLgo",
+            "name": "Aaj Ki Taaza Khabar LIVE: 26 August 2026 | Sugar Price | BJP New Team | PM Modi | Patna Protest",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "AgS6jap02z0",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
-            "artist": "MIRROR NOW"
+            "videoId": "QVRWmVj-Yv4",
+            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 26.08.2026 | Today News | Live News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "76M-6B1DwHM",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
+            "videoId": "bXLWfT0RHLY",
+            "name": "UGC Act Protest Swarn Samaj News LIVE: UGC एक्ट पर भड़का सवर्ण समाज | BJP | Bihar | Navada",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sDP-sf4dCXo",
+            "name": "Sugar Price Down News LIVE: चीनी के दाम धड़ाम?, सरकार के फैसलेने चौंकाया! | 26 August | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DdcBRwcwJO0",
+            "name": "US IRAN WAR LIVE: Iran 'Strikes Enemy Ship' After Trump Unleashes Economic War Against Tehran",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FshBc01g8ko",
+            "name": "Patna BPSC Protest News LIVE: पटना में छात्रों का प्रदर्शन, पहुंची बंकर गाड़ियां!, लाठीचार्ज | Bihar",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
