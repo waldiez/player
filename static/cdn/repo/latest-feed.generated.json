@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-25T18:29:57.273Z",
+    "generatedAt": "2026-08-26T00:55:03.419Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,27 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0_mOV6W2Gjg",
-            "name": "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News",
-            "artist": "News18 Gujarati"
+            "videoId": "EmfGrK3zoVI",
+            "name": "World News LIVE: US IRAN WAR IMMINENT? Araghchi's Chilling 'Time Has Come' Warning Shocks Washington",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "6ZPBQEIS6-E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "RVxPlc9Bw8Q",
+            "name": "Aaj Ki Taaza Khabar LIVE: 26 August 2026 | Sugar Price | BJP New Team | PM Modi | Vande Mataram",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "MB0PPByIdug",
-            "name": "Gujarat Latest Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Weather | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "AgS6jap02z0",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "2LQ0xD1D4H8",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BC1CF55IauY",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_PxFkn_9CHQ",
-            "name": "🔴LIVE: CM Vijay | Election | CM விஜய்-க்கு ஷாக் செய்தி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B9ndLv6_SUE",
-            "name": "US IRAN NEWS LIVE: Pentagon War Room Activated as Tensions Reach Critical Point | World News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YI11PBoUucw",
-            "name": "Patna GenZ Protest LIVE: पटना में GenZ का आक्रोश | Bihar Protest | Samrat Choudhary | Tejashwi Yadav",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GlVn2bEPIxU",
-            "name": "Patna Students March LIVE: जहां छात्रों का प्रदर्शनवहां से सीधे LIVE| Breaking | Bihar Protest",
-            "artist": "ABP NEWS"
+            "videoId": "76M-6B1DwHM",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
         }
     ],
     "sourceFilters": {
