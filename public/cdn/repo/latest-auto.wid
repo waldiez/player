@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260827T064001.065Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260827T213448.484Z-l4t35t"
   type: "state"
-  created: "2026-08-27T06:40:01.065Z"
+  created: "2026-08-27T21:34:48.484Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260827T064001.065Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260827T213448.484Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3qXOVZLoVzE"
-        name: "Iran US War Update: 11 बजते ही Canada और Iran के आगे झुक गए ट्रंप! | Hormuz | Mojtaba | Trump | IRGC"
-        artist: "TV9 Bharatvarsh"
+        videoId: "wi-9V8EPBAM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UxE7X1vjLmg"
-        name: "World War 3 LIVE: Trump's Unveils WWIII Plan With New Nuclear Strategy That Targets Russia, China"
+        videoId: "-zjCe-W2uME"
+        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather | Breaking News | Superfast News"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Pol3Ixu9C98"
+        name: "LIVE: U.S. President Donald Trump Takes Part in Key White House Signing | AC15"
+        artist: "DWS News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1ZLgw9iij5s"
+        name: "Indian Express Special LIVE | Xi-Modi, BRICS & The New India-China Test | Sayoni Aiyar"
+        artist: "The Indian Express"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2skn8C5FNVk"
+        name: "LIVE : ప్రాణభయంతో జనం పరుగులు | Flash Floods Strike Nepal | People Run for Their Lives"
+        artist: "Sakshi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4jP20k4qp5Y"
+        name: "Nepal Floods LIVE: Flash Floods Wreak Havoc Near Nepal-Tibet Border, Shocking Visuals From Rasuwa"
         artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "68FdrVY5ot8"
-        name: "🔴 LIVE  :  News 1st: Prime Time English News - 9 PM | (26-08-2026)"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "ITrTVbr1NcI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Top10News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dStqmEVjGVQ"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 27 Aug"
-        artist: "Sairbeen News 24"
+        videoId: "5zGOHPlEDiY"
+        name: "🔴LIVE : TamilnaduAssemblyLive | CM Vijay | Udhayanidhi Stalin | TVK vs DMK - தீப்பிடிக்கும் பேரவை"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ETTgknCz6PQ"
-        name: "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 27 August 2026 | Zee 24 Taas"
-        artist: "Zee 24 Taas"
+        videoId: "36QCP8s7pzo"
+        name: "Nepal-China Floods LIVE: 150+ Dead, Hundreds Missing | Villages Submerged | Rescue Efforts Underway"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JeejtTtv1pc"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TFEXwmO2mWA"
-        name: "🔴LIVE : நேபாளத்தை புரட்டி போட்ட இயற்கை.. நடுங்கவிடும் காட்சி | Rain | Nepal Flood News"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1DUQDzFXffQ"
-        name: "🔴LIVE: நேபாள பேரழிவு - நெஞ்சை உலுக்கும்  அதிபயங்கர காட்சிகள் | Nepal flood | Flood | Disaster"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IOwvi6CRIdo"
-        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "B5HLQCAHjvk"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News | 27 August"
-        artist: "ABP NEWS"
+        videoId: "6rnfbecjYgg"
+        name: "LIVE🔴Major Attack on Pakistan? Did Modi Order His Army to Act?"
+        artist: "NTV"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-27T06:40:01.065Z"
+  exported_at: "2026-08-27T21:34:48.484Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-27T06:40:01.023Z"
+  source_generated_at: "2026-08-27T21:34:48.440Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
