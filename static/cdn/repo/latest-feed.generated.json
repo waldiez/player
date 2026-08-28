@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-28T08:30:00.703Z",
+    "generatedAt": "2026-08-28T21:38:23.682Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "022uy1zctGw",
-            "name": "Today Headlines | 28 AUG  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "videoId": "4IbnxyaJ54E",
+            "name": "Nepal Floods Latest Updates LIVE | Nepal Floods Latest Visuals | Flood In Nepal Today LIVE",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TatDFRprX7E",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fJMlo-xHYIQ",
+            "name": "🔴LIVE : Nepal Flood News | நேபாளத்திலிருந்து வந்த சோக செய்தி.. அதிர்ச்சியில் உலகம்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t3YhD1XFuAQ",
+            "name": "Good Morning America Full Broadcast - Friday, August 28, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tSDKIKLwd04",
+            "name": "Nepal Flood Update: नेपाल में नहीं थम रही तबाही...LIVE देखें खौफनाक तस्वीरें | Balen Shah | Rasuwa",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SzFJjpWUmXU",
+            "name": "🔴LIVE: Himalayan Tsunami | இமயமலையில் சுனாமி.. பேராபத்து..!",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ECXk3LKvxig",
-            "name": "Breaking News LIVE: भारत के साथ आए 4 देश, महामिशन शुरू | PM Modi | Ajit Doval | Piyush Goyal",
-            "artist": "Republic Bharat"
+            "videoId": "z3tLL0WDgp4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "2qNTX5lrYds",
-            "name": "අර්ජුන මහේන්ද්‍රයන් ගැන මෙන්න දැන් ලැබුණු...  Breaking News, Live Updates",
-            "artist": " රජසැප Talk ( Raja Sapa News Feed )"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G8VhPqK58B0",
-            "name": "🔴LIVE : AP JAC Chairman Bopparaju Venkateswarlu Press Meet | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "43BrfQnNmMY",
-            "name": "LIVE🔴এটিএন বাংলার সংবাদ | 28.08.2026 | Today News | Live News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9yyT6jfSc8U",
-            "name": "Nepal Flood LIVE Update: नेपाल में चारों तरफ चीख-पुकार, कैमरे में खौफनाक मंजर! | Flood News Update",
+            "videoId": "s_nGq9h4TSE",
+            "name": "Nepal Flood LIVE Update: नेपाल में मौत के आंकड़ों ने उड़ाए होश LIVE | Breaking News | Flood News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "8Oy32P46s_4",
-            "name": "Republic TV LIVE: August 28, 2026 | Political | Global News | Nepal Flash Floods",
-            "artist": "Republic World"
+            "videoId": "W5tkO3ZJQnI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "UUtRHGRrAx4",
-            "name": "Headlines Live With World News Report Today August 27th 2026!",
-            "artist": "World News Report Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C7iXAm7g1Bw",
-            "name": "US NEWS Live: PENTAGON on High Alert, Secretary Hegseth Authorizes Immediate Strike Orders on Iran",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QDA6rQFZrmQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "HRIDOY NEWS"
+            "videoId": "2It5ONEYF4k",
+            "name": "LIVE with Dr. Shahid Masood I Iran & US War ...6 | 28 AUG 2026 | GNN",
+            "artist": "GNN"
         }
     ],
     "sourceFilters": {
