@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-28T21:38:23.682Z",
+    "generatedAt": "2026-08-29T05:10:14.137Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4IbnxyaJ54E",
-            "name": "Nepal Floods Latest Updates LIVE | Nepal Floods Latest Visuals | Flood In Nepal Today LIVE",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TatDFRprX7E",
-            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fJMlo-xHYIQ",
-            "name": "🔴LIVE : Nepal Flood News | நேபாளத்திலிருந்து வந்த சோக செய்தி.. அதிர்ச்சியில் உலகம்",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t3YhD1XFuAQ",
-            "name": "Good Morning America Full Broadcast - Friday, August 28, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tSDKIKLwd04",
-            "name": "Nepal Flood Update: नेपाल में नहीं थम रही तबाही...LIVE देखें खौफनाक तस्वीरें | Balen Shah | Rasuwa",
+            "videoId": "ZO6bTWfZUjc",
+            "name": "Nepal Flood News LIVE: नेपाल में फिर खौफ! एक और झील में भयंकर विस्फोट! | Balen Shah | Rasuwa | Tibet",
             "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "SzFJjpWUmXU",
-            "name": "🔴LIVE: Himalayan Tsunami | இமயமலையில் சுனாமி.. பேராபத்து..!",
-            "artist": "Sathiyam News"
+            "videoId": "e3uMr2h_dNo",
+            "name": "🔴LIVE:আজকের টপ আন্তর্জাতিক সংবাদ| 29 Aug''2026 | BBC World News | বিশ্ব সংবাদ | বিশ্বজুড়ে যা ঘটছে |",
+            "artist": "ABC FAST নিউজ"
         },
         {
             "mood": "storm",
-            "videoId": "z3tLL0WDgp4",
+            "videoId": "PhdD54Bg0h0",
+            "name": "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 29 August 2026 | Zee 24 Taas",
+            "artist": "Zee 24 Taas"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2SGZ_jr24-Y",
+            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
+            "artist": "The Savera Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IR7wapn5CU0",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 29 Aug",
+            "artist": "Sairbeen News 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "B8-y90m6-nw",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Aug. 28, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wJDyrkxfhSA",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "s_nGq9h4TSE",
-            "name": "Nepal Flood LIVE Update: नेपाल में मौत के आंकड़ों ने उड़ाए होश LIVE | Breaking News | Flood News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W5tkO3ZJQnI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2It5ONEYF4k",
-            "name": "LIVE with Dr. Shahid Masood I Iran & US War ...6 | 28 AUG 2026 | GNN",
-            "artist": "GNN"
+            "artist": "CBC World Desk71"
         }
     ],
     "sourceFilters": {
