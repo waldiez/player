@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-29T12:06:10.333Z",
+    "generatedAt": "2026-08-29T20:16:34.156Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GtRU7aTltlM",
-            "name": "US-Iran War Update: Latest Developments | 3 PM GEO News Headlines (29 Aug 2026)",
-            "artist": "Geo News"
+            "videoId": "0G67UhBtwh4",
+            "name": "🔴LIVE : வேளாங்கண்ணி புனித ஆரோக்கிய மாதா பேராலய கொடியேற்றம்.. சிறப்பு நேரலை | Velankanni Church",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "6CM_asaljdE",
-            "name": "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G",
-            "artist": "News18 UP Uttarakhand"
+            "videoId": "GOvtH0-9ZKg",
+            "name": "🔴LIVE : Nepal Flood | உருக்குலைந்த நேபாளம்! உலகிற்குத் தெரியாத விஷயங்களை உடைக்கும் கள நிலவரம்!",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "l1hFNAkfg1s",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
-            "artist": "ET Now World"
+            "videoId": "StAnNkEfKmE",
+            "name": "Chitra Tripathi: China के इशारे पर चल रहे Balen Shah? | Nepal Flood Update",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "0t80YqnJyoE",
+            "videoId": "4sV6Kfwaqoc",
+            "name": "Nepal Flash Flood News LIVE: नेपाल में घर छोड़कर भागने लगे लोग..! Rasuwa | Tibet",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Wez_q9EgQeI",
             "name": "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "uHW2SDtP67o",
-            "name": "India Helps Nepal In Flood Crisis LIVE: भारत की मदद...नेपाल ने किया इनकार? | PM Modi | Balen Shah",
+            "videoId": "A7eepdL1VPA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bangla Globe"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9B3kvNqYLC0",
+            "name": "Today Breaking News, 29 August 2026 News, दिनभर की बड़ी खबरें, PM Modi, RJD Protest, Rahul Gandhi",
+            "artist": "News Ganga"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d4br501jF2U",
+            "name": "Nepal Flash Flood News LIVE: अभी-अभी नेपाल में....! | Big Breaking | China | India | 29 August News",
             "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6S086S2NVVg",
-            "name": "🔴 Manoj jarange patil live: अंतरवली सराटीतुन लाईव्ह",
-            "artist": "Rajmudra News Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TRuht_g8Wek",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.08.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RIQmmHJCcIs",
-            "name": "Nepal Flood Alert News LIVE: भारत से नेपाल पहुंची बहुत बड़ी मदद | PM Modi | Bihar Flood | Breaking",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "780KW9htgmg",
-            "name": "Nepal Flash Flood News LIVE:  चीन की चेतावनी, हाई अलर्ट, नेपाल में फिर आएगी तबाही? |  Rasuwa | Tibet",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_IxHDKmaHNo",
-            "name": "Nepal Flood Alert News LIVE: भारत से नेपाल पहुंची बहुत बड़ी मदद | PM Modi | Bihar Flood | Breaking",
-            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
