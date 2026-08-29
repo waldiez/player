@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260829T051014.177Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260829T120610.372Z-l4t35t"
   type: "state"
-  created: "2026-08-29T05:10:14.177Z"
+  created: "2026-08-29T12:06:10.372Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260829T051014.177Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260829T120610.372Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZO6bTWfZUjc"
-        name: "Nepal Flood News LIVE: नेपाल में फिर खौफ! एक और झील में भयंकर विस्फोट! | Balen Shah | Rasuwa | Tibet"
-        artist: "TV9 Bharatvarsh"
+        videoId: "GtRU7aTltlM"
+        name: "US-Iran War Update: Latest Developments | 3 PM GEO News Headlines (29 Aug 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e3uMr2h_dNo"
-        name: "🔴LIVE:আজকের টপ আন্তর্জাতিক সংবাদ| 29 Aug''2026 | BBC World News | বিশ্ব সংবাদ | বিশ্বজুড়ে যা ঘটছে |"
-        artist: "ABC FAST নিউজ"
+        videoId: "6CM_asaljdE"
+        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PhdD54Bg0h0"
-        name: "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 29 August 2026 | Zee 24 Taas"
-        artist: "Zee 24 Taas"
+        videoId: "l1hFNAkfg1s"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2SGZ_jr24-Y"
-        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
-        artist: "The Savera Times"
+        videoId: "0t80YqnJyoE"
+        name: "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IR7wapn5CU0"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 29 Aug"
-        artist: "Sairbeen News 24"
+        videoId: "uHW2SDtP67o"
+        name: "India Helps Nepal In Flood Crisis LIVE: भारत की मदद...नेपाल ने किया इनकार? | PM Modi | Balen Shah"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B8-y90m6-nw"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Aug. 28, 2026"
-        artist: "ABC News"
+        videoId: "6S086S2NVVg"
+        name: "🔴 Manoj jarange patil live: अंतरवली सराटीतुन लाईव्ह"
+        artist: "Rajmudra News Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wJDyrkxfhSA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CBC World Desk71"
+        videoId: "TRuht_g8Wek"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.08.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RIQmmHJCcIs"
+        name: "Nepal Flood Alert News LIVE: भारत से नेपाल पहुंची बहुत बड़ी मदद | PM Modi | Bihar Flood | Breaking"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "780KW9htgmg"
+        name: "Nepal Flash Flood News LIVE:  चीन की चेतावनी, हाई अलर्ट, नेपाल में फिर आएगी तबाही? |  Rasuwa | Tibet"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_IxHDKmaHNo"
+        name: "Nepal Flood Alert News LIVE: भारत से नेपाल पहुंची बहुत बड़ी मदद | PM Modi | Bihar Flood | Breaking"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-29T05:10:14.177Z"
+  exported_at: "2026-08-29T12:06:10.372Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-29T05:10:14.137Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-29T12:06:10.333Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
