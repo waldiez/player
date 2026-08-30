@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260830T110151.740Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260830T155147.501Z-l4t35t"
   type: "state"
-  created: "2026-08-30T11:01:51.740Z"
+  created: "2026-08-30T15:51:47.501Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260830T110151.740Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260830T155147.501Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "P2XbYEyo21Y"
-        name: "🔴LIVE : Nepal Flood News | தமிழர்கள் நிலை?.. நேபாளத்திலிருந்து வந்த பேரதிர்ச்சி செய்தி"
+        videoId: "xzPeUOaoPtc"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "y7qIyPdGnqg"
+        name: "🔴LIVE : Nepal Flood News | நேபாளம் கொடூரம் .. 100 பேரை காணவில்லை.. சற்றுமுன் வந்த அதிமுக்கிய தகவல்"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5uQzRwlixMs"
-        name: "US-Iran War Enters 6th Month Live: Trump Announces New Economic Sanctions | World News | N18G"
-        artist: "News18 J&K"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CEFQzI0mwgk"
-        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
+        videoId: "hIxvKfHdk48"
+        name: "Nepal Flood News LIVE: 734 मौतें, 2500 लापता, तबाही की सीधी तस्वीर LIVE  | Rasuwa | Tibet"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BhmLa923-cc"
-        name: "Nepal Flash Flood LIVE Updates :  नेपाल के ताजा हालात, सीधा LIVE | China Dam Break | Tibet | Jinping"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yX__bdqpnH0"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oPDvsHTCbdc"
+        videoId: "n-VAP0uj9uc"
         name: "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "u4xPGzkCtHU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BV World News"
+        videoId: "HhifLkzG-KE"
+        name: "Nepal Flash Floods LIVE: अभी-अभी नेपाल में फिर फटी एक और झील! China | Tibet Disaster | Balen Shah"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6PoLnLkY6TQ"
-        name: "Nepal LIVE | After Deadly Floods And Mudslides, Tibet Dam 'Bursts'? New Disaster Unfolds | Crux"
-        artist: "CRUX"
+        videoId: "H4xqWer10tg"
+        name: "Iran America War Live Updates: ईरान-अमेरिका युद्ध लाइव| Hormuz | Trump | Khamenei | IRGC | Netanyahu"
+        artist: "News18 UP Uttarakhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DIZyDZkTfZ0"
+        name: "Nepal Flood News LIVE: चारों ओर तबाही, लेकिन सैलाब के बीच खड़ा रहा ये घर... वीडियो वायरल | Rasuwa"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-30T11:01:51.740Z"
+  exported_at: "2026-08-30T15:51:47.501Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-30T11:01:51.700Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-30T15:51:47.460Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
