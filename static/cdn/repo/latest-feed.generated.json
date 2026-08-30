@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-29T20:16:34.156Z",
+    "generatedAt": "2026-08-30T03:00:55.222Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0G67UhBtwh4",
-            "name": "🔴LIVE : வேளாங்கண்ணி புனித ஆரோக்கிய மாதா பேராலய கொடியேற்றம்.. சிறப்பு நேரலை | Velankanni Church",
-            "artist": "NewsTamil 24X7"
+            "videoId": "YD-6qIz1JS8",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 30Aug",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "GOvtH0-9ZKg",
-            "name": "🔴LIVE : Nepal Flood | உருக்குலைந்த நேபாளம்! உலகிற்குத் தெரியாத விஷயங்களை உடைக்கும் கள நிலவரம்!",
-            "artist": "NewsTamil 24X7"
+            "videoId": "QTxyvLUIQoU",
+            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "StAnNkEfKmE",
-            "name": "Chitra Tripathi: China के इशारे पर चल रहे Balen Shah? | Nepal Flood Update",
-            "artist": "ABP NEWS"
+            "videoId": "rkoPMkAauMw",
+            "name": "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 30 August 2026 | Zee 24 Taas",
+            "artist": "Zee 24 Taas"
         },
         {
             "mood": "storm",
-            "videoId": "4sV6Kfwaqoc",
-            "name": "Nepal Flash Flood News LIVE: नेपाल में घर छोड़कर भागने लगे लोग..! Rasuwa | Tibet",
+            "videoId": "BfATFcJYDSo",
+            "name": "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G",
+            "artist": "News18 UP Uttarakhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cJdaDjRYnHw",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ৩০.০৮.২০২৬ | Today News | Breaking News | Latest News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JrWofrQhJUs",
+            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Wez_q9EgQeI",
-            "name": "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!",
-            "artist": "NDTV India"
+            "videoId": "cCbiPvYVaAk",
+            "name": "Mohan Bhagwat Message From Newyork | World News: RSS Chief In United States की धरती से कही ये बात",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "A7eepdL1VPA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bangla Globe"
+            "videoId": "t-6djsFZFGM",
+            "name": "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "9B3kvNqYLC0",
-            "name": "Today Breaking News, 29 August 2026 News, दिनभर की बड़ी खबरें, PM Modi, RJD Protest, Rahul Gandhi",
-            "artist": "News Ganga"
+            "videoId": "CY7dJMzfKM4",
+            "name": "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded",
+            "artist": "Mint"
         },
         {
             "mood": "storm",
-            "videoId": "d4br501jF2U",
-            "name": "Nepal Flash Flood News LIVE: अभी-अभी नेपाल में....! | Big Breaking | China | India | 29 August News",
+            "videoId": "mJTHNzM2EWU",
+            "name": "Nepal Flash Flood News LIVE:नेपाल से आई चौंकाने वाली खबर, बाढ़ में बहकर आए लॉकर,लोगों ने निकाला कैश!",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ZRwaWbkgFg",
+            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {

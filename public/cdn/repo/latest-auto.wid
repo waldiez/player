@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260829T201634.202Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260830T030055.261Z-l4t35t"
   type: "state"
-  created: "2026-08-29T20:16:34.202Z"
+  created: "2026-08-30T03:00:55.261Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260829T201634.202Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260830T030055.261Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GOvtH0-9ZKg"
-        name: "🔴LIVE : Nepal Flood | உருக்குலைந்த நேபாளம்! உலகிற்குத் தெரியாத விஷயங்களை உடைக்கும் கள நிலவரம்!"
-        artist: "NewsTamil 24X7"
+        videoId: "YD-6qIz1JS8"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 30Aug"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "StAnNkEfKmE"
-        name: "Chitra Tripathi: China के इशारे पर चल रहे Balen Shah? | Nepal Flood Update"
-        artist: "ABP NEWS"
+        videoId: "QTxyvLUIQoU"
+        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4sV6Kfwaqoc"
-        name: "Nepal Flash Flood News LIVE: नेपाल में घर छोड़कर भागने लगे लोग..! Rasuwa | Tibet"
+        videoId: "rkoPMkAauMw"
+        name: "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 30 August 2026 | Zee 24 Taas"
+        artist: "Zee 24 Taas"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BfATFcJYDSo"
+        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G"
+        artist: "News18 UP Uttarakhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cJdaDjRYnHw"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ৩০.০৮.২০২৬ | Today News | Breaking News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JrWofrQhJUs"
+        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wez_q9EgQeI"
-        name: "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!"
-        artist: "NDTV India"
+        videoId: "cCbiPvYVaAk"
+        name: "Mohan Bhagwat Message From Newyork | World News: RSS Chief In United States की धरती से कही ये बात"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A7eepdL1VPA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 August 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Globe"
+        videoId: "t-6djsFZFGM"
+        name: "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded"
+        artist: "Hindustan Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9B3kvNqYLC0"
-        name: "Today Breaking News, 29 August 2026 News, दिनभर की बड़ी खबरें, PM Modi, RJD Protest, Rahul Gandhi"
-        artist: "News Ganga"
+        videoId: "CY7dJMzfKM4"
+        name: "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded"
+        artist: "Mint"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d4br501jF2U"
-        name: "Nepal Flash Flood News LIVE: अभी-अभी नेपाल में....! | Big Breaking | China | India | 29 August News"
+        videoId: "mJTHNzM2EWU"
+        name: "Nepal Flash Flood News LIVE:नेपाल से आई चौंकाने वाली खबर, बाढ़ में बहकर आए लॉकर,लोगों ने निकाला कैश!"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2ZRwaWbkgFg"
+        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-29T20:16:34.202Z"
+  exported_at: "2026-08-30T03:00:55.261Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-29T20:16:34.156Z"
-  validation: "validation enabled: accepted 7/8 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 0G67UhBtwh4 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 60 < 70)"
+  source_generated_at: "2026-08-30T03:00:55.222Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
