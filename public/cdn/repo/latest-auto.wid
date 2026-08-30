@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260830T030055.261Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260830T110151.740Z-l4t35t"
   type: "state"
-  created: "2026-08-30T03:00:55.261Z"
+  created: "2026-08-30T11:01:51.740Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260830T030055.261Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260830T110151.740Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YD-6qIz1JS8"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 30Aug"
-        artist: "Sairbeen News 24"
+        videoId: "P2XbYEyo21Y"
+        name: "🔴LIVE : Nepal Flood News | தமிழர்கள் நிலை?.. நேபாளத்திலிருந்து வந்த பேரதிர்ச்சி செய்தி"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QTxyvLUIQoU"
-        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live"
-        artist: "Times Now"
+        videoId: "5uQzRwlixMs"
+        name: "US-Iran War Enters 6th Month Live: Trump Announces New Economic Sanctions | World News | N18G"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rkoPMkAauMw"
-        name: "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 30 August 2026 | Zee 24 Taas"
-        artist: "Zee 24 Taas"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BfATFcJYDSo"
-        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G"
-        artist: "News18 UP Uttarakhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cJdaDjRYnHw"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ৩০.০৮.২০২৬ | Today News | Breaking News | Latest News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JrWofrQhJUs"
+        videoId: "CEFQzI0mwgk"
         name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cCbiPvYVaAk"
-        name: "Mohan Bhagwat Message From Newyork | World News: RSS Chief In United States की धरती से कही ये बात"
-        artist: "Times Now Navbharat"
+        videoId: "BhmLa923-cc"
+        name: "Nepal Flash Flood LIVE Updates :  नेपाल के ताजा हालात, सीधा LIVE | China Dam Break | Tibet | Jinping"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "t-6djsFZFGM"
-        name: "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded"
-        artist: "Hindustan Times"
+        videoId: "yX__bdqpnH0"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CY7dJMzfKM4"
-        name: "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded"
-        artist: "Mint"
+        videoId: "oPDvsHTCbdc"
+        name: "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mJTHNzM2EWU"
-        name: "Nepal Flash Flood News LIVE:नेपाल से आई चौंकाने वाली खबर, बाढ़ में बहकर आए लॉकर,लोगों ने निकाला कैश!"
-        artist: "ABP NEWS"
+        videoId: "u4xPGzkCtHU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BV World News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2ZRwaWbkgFg"
-        name: "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "6PoLnLkY6TQ"
+        name: "Nepal LIVE | After Deadly Floods And Mudslides, Tibet Dam 'Bursts'? New Disaster Unfolds | Crux"
+        artist: "CRUX"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-30T03:00:55.261Z"
+  exported_at: "2026-08-30T11:01:51.740Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-30T03:00:55.222Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-08-30T11:01:51.700Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

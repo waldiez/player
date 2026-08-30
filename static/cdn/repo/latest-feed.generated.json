@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-30T03:00:55.222Z",
+    "generatedAt": "2026-08-30T11:01:51.700Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "YD-6qIz1JS8",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 30Aug",
-            "artist": "Sairbeen News 24"
+            "videoId": "P2XbYEyo21Y",
+            "name": "🔴LIVE : Nepal Flood News | தமிழர்கள் நிலை?.. நேபாளத்திலிருந்து வந்த பேரதிர்ச்சி செய்தி",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "QTxyvLUIQoU",
-            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live",
-            "artist": "Times Now"
+            "videoId": "5uQzRwlixMs",
+            "name": "US-Iran War Enters 6th Month Live: Trump Announces New Economic Sanctions | World News | N18G",
+            "artist": "News18 J&K"
         },
         {
             "mood": "storm",
-            "videoId": "rkoPMkAauMw",
-            "name": "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 30 August 2026 | Zee 24 Taas",
-            "artist": "Zee 24 Taas"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BfATFcJYDSo",
-            "name": "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर| Trump | Mojtaba |  IRGC | Hormuz | N18G",
-            "artist": "News18 UP Uttarakhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cJdaDjRYnHw",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ৩০.০৮.২০২৬ | Today News | Breaking News | Latest News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JrWofrQhJUs",
+            "videoId": "CEFQzI0mwgk",
             "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "cCbiPvYVaAk",
-            "name": "Mohan Bhagwat Message From Newyork | World News: RSS Chief In United States की धरती से कही ये बात",
-            "artist": "Times Now Navbharat"
+            "videoId": "BhmLa923-cc",
+            "name": "Nepal Flash Flood LIVE Updates :  नेपाल के ताजा हालात, सीधा LIVE | China Dam Break | Tibet | Jinping",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "t-6djsFZFGM",
-            "name": "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded",
-            "artist": "Hindustan Times"
+            "videoId": "yX__bdqpnH0",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "CY7dJMzfKM4",
-            "name": "Nepal Flood News LIVE | 180 Km/h Glacier Avalanche! New Animation Shows How Nepal Disaster Unfolded",
-            "artist": "Mint"
+            "videoId": "oPDvsHTCbdc",
+            "name": "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "mJTHNzM2EWU",
-            "name": "Nepal Flash Flood News LIVE:नेपाल से आई चौंकाने वाली खबर, बाढ़ में बहकर आए लॉकर,लोगों ने निकाला कैश!",
-            "artist": "ABP NEWS"
+            "videoId": "u4xPGzkCtHU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 July 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BV World News"
         },
         {
             "mood": "storm",
-            "videoId": "2ZRwaWbkgFg",
-            "name": "Gujarat Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "6PoLnLkY6TQ",
+            "name": "Nepal LIVE | After Deadly Floods And Mudslides, Tibet Dam 'Bursts'? New Disaster Unfolds | Crux",
+            "artist": "CRUX"
         }
     ],
     "sourceFilters": {
