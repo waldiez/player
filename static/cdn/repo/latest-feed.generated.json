@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-30T15:51:47.460Z",
+    "generatedAt": "2026-08-30T20:22:35.198Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "xzPeUOaoPtc",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "y7qIyPdGnqg",
-            "name": "🔴LIVE : Nepal Flood News | நேபாளம் கொடூரம் .. 100 பேரை காணவில்லை.. சற்றுமுன் வந்த அதிமுக்கிய தகவல்",
+            "videoId": "crAucvPE4Z4",
+            "name": "🔴LIVE : Nepal Flood News | குரோம்பேட்டையை சேர்ந்த 49 பேரின் கதி..? கேட்போரை பதறவைக்கும் தகவல்!",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "hIxvKfHdk48",
-            "name": "Nepal Flood News LIVE: 734 मौतें, 2500 लापता, तबाही की सीधी तस्वीर LIVE  | Rasuwa | Tibet",
+            "videoId": "10ZImZk6iMo",
+            "name": "🔴LIVE : அமைச்சரவையில் இருந்து விலகுவோம்.. தவெகவுக்கு காங்கிரஸ் எச்சரிக்கை! | TVK Vs Congress",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GVFxuBCHFKk",
+            "name": "LIVE: Nepal Floods Latest Updates | Drone Footage Shows Devastation In Nepal Village",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "oi0LN27-OXE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla  31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "WorldNews Bangla tv"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BB7RZ0HbGhw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "WORLD NEWS UPDATE 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RGCAHaD3pz8",
+            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "n-VAP0uj9uc",
-            "name": "Nepal Flood News LIVE: दिल दहलाने वाली तस्वीर,  नेपाल में बाढ़, यूपी में बहकर आई लाशें, उड़े होश!",
-            "artist": "NDTV India"
+            "videoId": "20tbNTUNsgg",
+            "name": "🟢 সন্ধ্যার খবর | Shondhar Khobor | 30 August 2026 | NTV News | NTV Latest News Update",
+            "artist": "NTV News"
         },
         {
             "mood": "storm",
-            "videoId": "HhifLkzG-KE",
-            "name": "Nepal Flash Floods LIVE: अभी-अभी नेपाल में फिर फटी एक और झील! China | Tibet Disaster | Balen Shah",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "kq2Qi1COcVM",
+            "name": "Today Headlines | 30 AUG 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "H4xqWer10tg",
-            "name": "Iran America War Live Updates: ईरान-अमेरिका युद्ध लाइव| Hormuz | Trump | Khamenei | IRGC | Netanyahu",
-            "artist": "News18 UP Uttarakhand"
+            "videoId": "nysijGMbdcY",
+            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "DIZyDZkTfZ0",
-            "name": "Nepal Flood News LIVE: चारों ओर तबाही, लेकिन सैलाब के बीच खड़ा रहा ये घर... वीडियो वायरल | Rasuwa",
-            "artist": "NDTV India"
+            "videoId": "z8mWOqob868",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         }
     ],
     "sourceFilters": {
