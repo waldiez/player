@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-30T20:22:35.198Z",
+    "generatedAt": "2026-08-31T02:55:53.282Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "crAucvPE4Z4",
-            "name": "🔴LIVE : Nepal Flood News | குரோம்பேட்டையை சேர்ந்த 49 பேரின் கதி..? கேட்போரை பதறவைக்கும் தகவல்!",
-            "artist": "NewsTamil 24X7"
+            "videoId": "7rUIbnxwaXw",
+            "name": "3 Minutes 30 News | 3 मिनिटात 30 बातम्या | Latest Marathi News LIVE | 31 August 2026 | Zee 24 Taas",
+            "artist": "Zee 24 Taas"
         },
         {
             "mood": "storm",
-            "videoId": "10ZImZk6iMo",
-            "name": "🔴LIVE : அமைச்சரவையில் இருந்து விலகுவோம்.. தவெகவுக்கு காங்கிரஸ் எச்சரிக்கை! | TVK Vs Congress",
-            "artist": "NewsTamil 24X7"
+            "videoId": "H4xqWer10tg",
+            "name": "Iran America War Live Updates: ईरान-अमेरिका युद्ध लाइव| Hormuz | Trump | Khamenei | IRGC | Netanyahu",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "GVFxuBCHFKk",
-            "name": "LIVE: Nepal Floods Latest Updates | Drone Footage Shows Devastation In Nepal Village",
-            "artist": "NDTV"
+            "videoId": "yNNaiXomS_M",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (31.08.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "oi0LN27-OXE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla  31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WorldNews Bangla tv"
+            "videoId": "hIxvKfHdk48",
+            "name": "Nepal Flood News LIVE: 734 मौतें, 2500 लापता, तबाही की सीधी तस्वीर LIVE  | Rasuwa | Tibet",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "BB7RZ0HbGhw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WORLD NEWS UPDATE 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RGCAHaD3pz8",
+            "videoId": "cOXAY67iCJY",
             "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "20tbNTUNsgg",
-            "name": "🟢 সন্ধ্যার খবর | Shondhar Khobor | 30 August 2026 | NTV News | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "9mbxT-MjHsA",
+            "name": "New U.S. Strikes on Iran - LIVE Breaking News Coverage (Iran War)",
+            "artist": "Agenda-Free TV"
         },
         {
             "mood": "storm",
-            "videoId": "kq2Qi1COcVM",
-            "name": "Today Headlines | 30 AUG 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "-6uUe6t57DM",
+            "name": "Aaj Ki Taaza Khabar LIVE: Nepal Flood | FIR Against Rahul Gandhi | Jaipur NEET PG Exam | PM Modi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "nysijGMbdcY",
-            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | US News | Trump Latest News Live",
-            "artist": "Times Now"
+            "videoId": "RrgmSYHVzLA",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - August 30, 2026",
+            "artist": "Baba BalakNath Vibes "
         },
         {
             "mood": "storm",
-            "videoId": "z8mWOqob868",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Aug 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "jyLaE5V1yKQ",
+            "name": "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV",
+            "artist": "V News27"
         }
     ],
     "sourceFilters": {
