@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260831T221615.296Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260901T030314.375Z-l4t35t"
   type: "state"
-  created: "2026-08-31T22:16:15.296Z"
+  created: "2026-09-01T03:03:14.375Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260831T221615.296Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260901T030314.375Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "D3PsVsrOVQA"
-        name: "🔴 LIVE: Hakan Fidan’s Major Address on Mecca Defence Agreement | Geo News"
-        artist: "Geo News"
+        videoId: "2EGFnITdSAk"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Aug. 31, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2_Ut5LNqxGw"
-        name: "ফারাক্কার ১০৯ গেট খুলে দিলো ভারত, ভয়াবহ বন্যার শঙ্কা | Farakka Gate Open | Flood Alert | ATN News"
-        artist: "ATN News"
+        videoId: "O1lUowNbZEE"
+        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
+        artist: "TV5 News "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Yd9HQkBSz1w"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CBC World Desk71"
+        videoId: "XJkbbDzguPk"
+        name: "Breaking News LIVE | Will Trump Launch Nuclear Weapons Tonight? | Trump's Latest Speech LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WOree3JLrfo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Sept  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ 24"
+        videoId: "fToqn_0gci8"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 01Sep"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aJ3ooZpWg6c"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5eskzroacZU"
-        name: "LIVE: India’s Economy Stays Strong Amid Global Challenges | GDP Growth | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CmF3TNIOX-I"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
+        videoId: "Wc-dlmP2SYI"
+        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4_yhE59W_5U"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
-        artist: "NDTV India"
+        videoId: "D-Zo1hLGRj0"
+        name: "Nepal Flood Live Updates : नेपाल में महातबाही ! | Nepal Flood 2026 | Rasuwa | China | Tibet"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L-HaIKsmFr0"
-        name: "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 900, 3000+ Remain Missing"
-        artist: "NDTV"
+        videoId: "Qj5sNA6pZiI"
+        name: "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oQ1IR3LaOoo"
-        name: "Today Headlines | 31 AUG 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
+        videoId: "utQ4kn8TlG8"
+        name: "ABC World News Tonight with David Muir Full Broadcast - August 31, 2026"
+        artist: "Baba BalakNath Vibes "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8CGqOO_HBR0"
-        name: "🔴LIVE : முதல்வர் விஜய்க்கு பேரிடியை இறக்கிய காங்கிரஸ்! | TVK Vs Congress | CM Vijay | Rahulgandhi"
-        artist: "NewsTamil 24X7"
+        videoId: "v8TG_dPba5I"
+        name: "ABC World News Tonight With David Muir 8/31/26 | ABC News Today August 31, 2026 HD"
+        artist: "Baba BalakNath Vibes "
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-08-31T22:16:15.296Z"
+  exported_at: "2026-09-01T03:03:14.375Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-08-31T22:16:15.233Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-01T03:03:14.336Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
