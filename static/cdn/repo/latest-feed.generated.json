@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-01T03:03:14.336Z",
+    "generatedAt": "2026-09-01T10:55:49.266Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "2EGFnITdSAk",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Aug. 31, 2026",
-            "artist": "ABC News"
+            "videoId": "O3CCgD2KZLs",
+            "name": "Iran-US War | Trump Rejects Nuclear Option Amid New Attack Plans | 3 PM News Headlines",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "O1lUowNbZEE",
-            "name": "10 Minutes 50 News | Latest Telugu News Updates | TV5 News",
-            "artist": "TV5 News "
-        },
-        {
-            "mood": "storm",
-            "videoId": "XJkbbDzguPk",
-            "name": "Breaking News LIVE | Will Trump Launch Nuclear Weapons Tonight? | Trump's Latest Speech LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fToqn_0gci8",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 01Sep",
-            "artist": "Sairbeen News 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Wc-dlmP2SYI",
-            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
+            "videoId": "O7s5b7W41RM",
+            "name": "चलती बस में 16 साल की छात्रा से गैंगरेप News LIVE : Delhi | Sleeper Bus Rape Case | Rekha Gupta",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "D-Zo1hLGRj0",
-            "name": "Nepal Flood Live Updates : नेपाल में महातबाही ! | Nepal Flood 2026 | Rasuwa | China | Tibet",
-            "artist": "Times Now Navbharat"
+            "videoId": "wfg1HxsgEx0",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "Qj5sNA6pZiI",
-            "name": "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE",
-            "artist": "ET Now"
+            "videoId": "V04J77DFlxs",
+            "name": "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1000, 4000+ Remain Missing",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "utQ4kn8TlG8",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - August 31, 2026",
-            "artist": "Baba BalakNath Vibes "
+            "videoId": "sMgyDsQdaPQ",
+            "name": "আজকের আন্তর্জাতিক সব খবর, ০১ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর",
+            "artist": "NOJOR TV NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "v8TG_dPba5I",
-            "name": "ABC World News Tonight With David Muir 8/31/26 | ABC News Today August 31, 2026 HD",
-            "artist": "Baba BalakNath Vibes "
+            "videoId": "a_JHdtZMU5Q",
+            "name": "Headlines Live With World News Report Today August 31st 2026!",
+            "artist": "World News Report Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b0ZdramYtDE",
+            "name": "Today Headlines | 01 SEP  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8loOJW5qE64",
+            "name": "नेपाल में तबाही के 2 मिनट पहले क्या हुआ था? वैज्ञानिकों का सबसे बड़ा खुलासा! LIVE | Nepal Flood",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4UakNx9pgsM",
+            "name": "এইমাএ পাওয়া Ajker khobor 01 Sep, 2026 | Bangladesh latest news | MS News 360 |bdnews24",
+            "artist": "MS News 360"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EC69JOc3yok",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 01-09-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "h4NdTz3zz_Q",
+            "name": "Delhi Gangrape News LIVE: चलती बस में 16 साल की लड़की से गैंगरेप | Sleeper Bus | Delhi Bus Rape Case",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CpUaJvYjArE",
+            "name": "NEPAL FLOOD HORROR LIVE: Death Toll Crosses 900 | Devastating Flash Floods Trail of Destruction",
+            "artist": "News18 Urdu"
         }
     ],
     "sourceFilters": {
