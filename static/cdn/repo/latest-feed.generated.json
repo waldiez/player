@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-01T15:54:53.581Z",
+    "generatedAt": "2026-09-01T20:23:10.079Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,33 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "T2XBvHSEzRU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "bRDCJ6tu7Gs",
+            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "5ep44ipi2JM",
-            "name": "🔴LIVE: Trump | America | Iran | உலகை உலுக்கும் போர் - பதற்றத்தில் உலகம்",
+            "videoId": "_2kNYobznVU",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (01.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "6qr37Put9Z8",
-            "name": "LIVE: Big Relief For Imran Khan | Pakistan High Court Bars Solitary Confinement Of Ex-PM",
-            "artist": "India Today"
+            "videoId": "DbV5mPt8jSM",
+            "name": "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (01.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "4kpAD0a5z1Y",
-            "name": "🔴LIVE : CM விஜய்யை சீண்டிய சீமான்..பற்றி எரியும் அரசியல் களம் | seeman | CM Vijay | TVK | NTK",
-            "artist": "NewsTamil 24X7"
+            "videoId": "tC4FlkCYmV8",
+            "name": "Today Headlines | 01 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "FNGR7VkLr-k",
-            "name": "🔴LIVE :  CM VIJAY | SALEM TVK | Mettur Dam | CM விஜய் என்ட்ரி.. அதிரும் சேலம் சிட்டி.. தொடர் நேரலை",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DyFm9Wlx7bc",
-            "name": "Manoj Jarange Patil Andolan LIVE | उपोषणाचा चौथा दिवस, जरांगेंच्या मागण्यांवर तोडगा निघणार? | Hake",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7fWydDALuP4",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ০১ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর",
-            "artist": "World News Ira"
+            "videoId": "BkMnqLa-qkU",
+            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
