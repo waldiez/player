@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260901T105549.308Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260901T155453.624Z-l4t35t"
   type: "state"
-  created: "2026-09-01T10:55:49.308Z"
+  created: "2026-09-01T15:54:53.624Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260901T105549.308Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260901T155453.624Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "O3CCgD2KZLs"
-        name: "Iran-US War | Trump Rejects Nuclear Option Amid New Attack Plans | 3 PM News Headlines"
-        artist: "SAMAA TV"
+        videoId: "T2XBvHSEzRU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O7s5b7W41RM"
-        name: "चलती बस में 16 साल की छात्रा से गैंगरेप News LIVE : Delhi | Sleeper Bus Rape Case | Rekha Gupta"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wfg1HxsgEx0"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "V04J77DFlxs"
-        name: "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1000, 4000+ Remain Missing"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sMgyDsQdaPQ"
-        name: "আজকের আন্তর্জাতিক সব খবর, ০১ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর"
-        artist: "NOJOR TV NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "a_JHdtZMU5Q"
-        name: "Headlines Live With World News Report Today August 31st 2026!"
-        artist: "World News Report Today"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b0ZdramYtDE"
-        name: "Today Headlines | 01 SEP  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "5ep44ipi2JM"
+        name: "🔴LIVE: Trump | America | Iran | உலகை உலுக்கும் போர் - பதற்றத்தில் உலகம்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8loOJW5qE64"
-        name: "नेपाल में तबाही के 2 मिनट पहले क्या हुआ था? वैज्ञानिकों का सबसे बड़ा खुलासा! LIVE | Nepal Flood"
-        artist: "NDTV India"
+        videoId: "6qr37Put9Z8"
+        name: "LIVE: Big Relief For Imran Khan | Pakistan High Court Bars Solitary Confinement Of Ex-PM"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4UakNx9pgsM"
-        name: "এইমাএ পাওয়া Ajker khobor 01 Sep, 2026 | Bangladesh latest news | MS News 360 |bdnews24"
-        artist: "MS News 360"
+        videoId: "4kpAD0a5z1Y"
+        name: "🔴LIVE : CM விஜய்யை சீண்டிய சீமான்..பற்றி எரியும் அரசியல் களம் | seeman | CM Vijay | TVK | NTK"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EC69JOc3yok"
-        name: "🔴LIVE: Speed News | 24 Headlines | 01-09-2026 | #morningwithabn | ABN Telugu"
-        artist: "ABN Telugu "
+        videoId: "FNGR7VkLr-k"
+        name: "🔴LIVE :  CM VIJAY | SALEM TVK | Mettur Dam | CM விஜய் என்ட்ரி.. அதிரும் சேலம் சிட்டி.. தொடர் நேரலை"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h4NdTz3zz_Q"
-        name: "Delhi Gangrape News LIVE: चलती बस में 16 साल की लड़की से गैंगरेप | Sleeper Bus | Delhi Bus Rape Case"
-        artist: "NDTV India"
+        videoId: "DyFm9Wlx7bc"
+        name: "Manoj Jarange Patil Andolan LIVE | उपोषणाचा चौथा दिवस, जरांगेंच्या मागण्यांवर तोडगा निघणार? | Hake"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CpUaJvYjArE"
-        name: "NEPAL FLOOD HORROR LIVE: Death Toll Crosses 900 | Devastating Flash Floods Trail of Destruction"
-        artist: "News18 Urdu"
+        videoId: "7fWydDALuP4"
+        name: "আজকের আন্তর্জাতিক সব খবর, ০১ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর"
+        artist: "World News Ira"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-01T10:55:49.308Z"
+  exported_at: "2026-09-01T15:54:53.624Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-01T10:55:49.266Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-01T15:54:53.581Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
