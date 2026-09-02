@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260901T202310.116Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260902T022316.302Z-l4t35t"
   type: "state"
-  created: "2026-09-01T20:23:10.116Z"
+  created: "2026-09-02T02:23:16.302Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260901T202310.116Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T022316.302Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "bRDCJ6tu7Gs"
-        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_2kNYobznVU"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (01.09.2026) | Sathiyam Headlines"
+        videoId: "cwwikIeYWe4"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DbV5mPt8jSM"
-        name: "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (01.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews"
-        artist: "Sathiyam News"
+        videoId: "FiqSvoG5Y18"
+        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tC4FlkCYmV8"
-        name: "Today Headlines | 01 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
+        videoId: "rX5evKaHWvo"
+        name: "Nepal Flash Floods Latest News LIVE: चीन का बड़ा अलर्ट! नेपाल में फिर आ रहा भंयकर सैलाब? | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BkMnqLa-qkU"
-        name: "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared"
-        artist: "Times Now"
+        videoId: "vcNRx1d9JxQ"
+        name: "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ০২ সেপ্টেম্বর ২০২৬ | News Bulletin | Latest News |News24"
+        artist: "NEWS24 LIVE"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "04ndG4drf0k"
+        name: "🔴LIVE: CM Vijay | Salem | வெளியான CM விஜயின் புது வீடியோ | Polimernews"
+        artist: "Polimer News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Uu-hVp3hByM"
+        name: "U.S. forces strike Iranian targets in Strait of Hormuz, CENTCOM says"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ry-1vyvf_i0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ju6l4pBDFds"
+        name: "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-01T20:23:10.116Z"
+  exported_at: "2026-09-02T02:23:16.302Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-01T20:23:10.079Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-02T02:23:16.254Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
