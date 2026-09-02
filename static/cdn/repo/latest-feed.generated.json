@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-02T15:47:21.794Z",
+    "generatedAt": "2026-09-02T20:23:27.836Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Vz-QAy6cWWc",
-            "name": "MIC On Hai With Sucherita Kukreti LIVE : नेपाल तबाही, China बेनकाब? Nepal Flood | Modi | Balen Shah",
+            "videoId": "JXcgvM6CmwE",
+            "name": "🔴LIVE: Today Headlines | 02 SEP | இரவு தலைப்புச் செய்திகள் | Morning Headlines | CM Vijay | TVK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FgiO7yMwoJk",
+            "name": "US Attack on Iran LIVE: आज रात ईरान पर बड़ा धमाका! | Trump | Breaking | America | Nuclear War",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E6XuOm8kWPA",
+            "name": "Trump LIVE | Middle East On Alert As Iran Tensions Escalate  ! World News । Latest News",
+            "artist": "Vox Live News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cwwikIeYWe4",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CJ2sYThBYdg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D1hz9AyHoTY",
+            "name": "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "zVX4PJW5Ld0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8eb1WO9tfpA",
-            "name": "Nepal Flood News LIVE | Fresh DISASTER Fear? Minister Issues Shocking Warning | China Alerts Nepal",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "36WoDteI_6Q",
-            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Dl9NP7o4Aww",
-            "name": "Nepal Flash Flood News LIVE | नेपाल की तबाही का खौफनाक मंजर, बहकर भारत पहुंच रहीं लाशें LIVE",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RKz30z5iKOU",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7moEz_4HRqI",
-            "name": "Iran-US War LIVE: IRGC Retaliates Against King Hussein & Muwaffaq Salti Air Bases |US Bases | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FiqSvoG5Y18",
-            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9cuk1KfX64g",
-            "name": "Aaj Ki Taaja Khabar LIVE: 02 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1QBkcxE-eTQ",
-            "name": "🔴LIVE: నా పొలిటికల్ లైఫ్ నా ఇష్టం.. | Minister Konda Surekha Press Meet || ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "eRhtfFeIu1U",
-            "name": "2 September News LIVE: 2 सितंबर मौत बनकर आया, 1000 लोग बने लाश! | Nepal Flood | Headlines Today",
+            "videoId": "jnUkgvdp07M",
+            "name": "Crude Oil Price Hike News LIVE: युद्ध शुरू!, तेल के नए दामों नेलोगों के उड़ाए होश!| Iran-US War",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sFM-_9dnIl8",
+            "name": "Iran US War: Iran Strikes Back, US Launches New Attacks | 6PM Headlines Geo News (2 Sep 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260902T154721.840Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260902T202327.877Z-l4t35t"
   type: "state"
-  created: "2026-09-02T15:47:21.840Z"
+  created: "2026-09-02T20:23:27.877Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T154721.840Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T202327.877Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Vz-QAy6cWWc"
-        name: "MIC On Hai With Sucherita Kukreti LIVE : नेपाल तबाही, China बेनकाब? Nepal Flood | Modi | Balen Shah"
+        videoId: "JXcgvM6CmwE"
+        name: "🔴LIVE: Today Headlines | 02 SEP | இரவு தலைப்புச் செய்திகள் | Morning Headlines | CM Vijay | TVK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FgiO7yMwoJk"
+        name: "US Attack on Iran LIVE: आज रात ईरान पर बड़ा धमाका! | Trump | Breaking | America | Nuclear War"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E6XuOm8kWPA"
+        name: "Trump LIVE | Middle East On Alert As Iran Tensions Escalate  ! World News । Latest News"
+        artist: "Vox Live News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cwwikIeYWe4"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CJ2sYThBYdg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D1hz9AyHoTY"
+        name: "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zVX4PJW5Ld0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8eb1WO9tfpA"
-        name: "Nepal Flood News LIVE | Fresh DISASTER Fear? Minister Issues Shocking Warning | China Alerts Nepal"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "36WoDteI_6Q"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Dl9NP7o4Aww"
-        name: "Nepal Flash Flood News LIVE | नेपाल की तबाही का खौफनाक मंजर, बहकर भारत पहुंच रहीं लाशें LIVE"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RKz30z5iKOU"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7moEz_4HRqI"
-        name: "Iran-US War LIVE: IRGC Retaliates Against King Hussein & Muwaffaq Salti Air Bases |US Bases | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FiqSvoG5Y18"
-        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9cuk1KfX64g"
-        name: "Aaj Ki Taaja Khabar LIVE: 02 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1QBkcxE-eTQ"
-        name: "🔴LIVE: నా పొలిటికల్ లైఫ్ నా ఇష్టం.. | Minister Konda Surekha Press Meet || ABN Telugu"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eRhtfFeIu1U"
-        name: "2 September News LIVE: 2 सितंबर मौत बनकर आया, 1000 लोग बने लाश! | Nepal Flood | Headlines Today"
+        videoId: "jnUkgvdp07M"
+        name: "Crude Oil Price Hike News LIVE: युद्ध शुरू!, तेल के नए दामों नेलोगों के उड़ाए होश!| Iran-US War"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sFM-_9dnIl8"
+        name: "Iran US War: Iran Strikes Back, US Launches New Attacks | 6PM Headlines Geo News (2 Sep 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-02T15:47:21.840Z"
+  exported_at: "2026-09-02T20:23:27.877Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-02T15:47:21.794Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-02T20:23:27.836Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
