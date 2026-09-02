@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260902T022316.302Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260902T102304.442Z-l4t35t"
   type: "state"
-  created: "2026-09-02T02:23:16.302Z"
+  created: "2026-09-02T10:23:04.442Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T022316.302Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T102304.442Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cwwikIeYWe4"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines"
+        videoId: "Cs5-lf371cQ"
+        name: "Top 100 Breaking News LIVE : आज की 100 बड़ी खबरें | Nepal Rescue | PM Modi | CM Yogi | Ram Mandir"
+        artist: "Zee News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cyW76Zr4Brc"
+        name: "Headlines Live With World News Report Today September 1st 2026!"
+        artist: "World News Report Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Olp39ftCVMU"
+        name: "Nepal Flood News LIVE: नेपाल से बहकर आई रहस्यमयी मछली! LIVE | Rasuwa | Tibet | Breaking News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "psqdORnBtCU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সময় লাইভ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "toC-m9FTJwI"
+        name: "Today Headlines | 02 SEP  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FiqSvoG5Y18"
-        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
-        artist: "NDTV India"
+        videoId: "WLvptnkVTGU"
+        name: "🔴LIVE: Gold Rate |  ''அவசரப்பட்டு தங்கம் வாங்கிடாதீங்க'' - காத்திருக்கும் மெகா சர்ப்ரைஸ்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rX5evKaHWvo"
-        name: "Nepal Flash Floods Latest News LIVE: चीन का बड़ा अलर्ट! नेपाल में फिर आ रहा भंयकर सैलाब? | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vcNRx1d9JxQ"
-        name: "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ০২ সেপ্টেম্বর ২০২৬ | News Bulletin | Latest News |News24"
-        artist: "NEWS24 LIVE"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "04ndG4drf0k"
-        name: "🔴LIVE: CM Vijay | Salem | வெளியான CM விஜயின் புது வீடியோ | Polimernews"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Uu-hVp3hByM"
-        name: "U.S. forces strike Iranian targets in Strait of Hormuz, CENTCOM says"
+        videoId: "yQa5E2IHDaE"
+        name: "ABC News Live Prime: Sept. 1, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ry-1vyvf_i0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ju6l4pBDFds"
-        name: "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet"
-        artist: "NDTV India"
+        videoId: "Ud_76y-71J8"
+        name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-02T02:23:16.302Z"
+  exported_at: "2026-09-02T10:23:04.442Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-02T02:23:16.254Z"
+  source_generated_at: "2026-09-02T10:23:04.401Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-02T02:23:16.254Z",
+    "generatedAt": "2026-09-02T10:23:04.401Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cwwikIeYWe4",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines",
+            "videoId": "Cs5-lf371cQ",
+            "name": "Top 100 Breaking News LIVE : आज की 100 बड़ी खबरें | Nepal Rescue | PM Modi | CM Yogi | Ram Mandir",
+            "artist": "Zee News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cyW76Zr4Brc",
+            "name": "Headlines Live With World News Report Today September 1st 2026!",
+            "artist": "World News Report Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Olp39ftCVMU",
+            "name": "Nepal Flood News LIVE: नेपाल से बहकर आई रहस्यमयी मछली! LIVE | Rasuwa | Tibet | Breaking News",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "psqdORnBtCU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সময় লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "toC-m9FTJwI",
+            "name": "Today Headlines | 02 SEP  2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "FiqSvoG5Y18",
-            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
-            "artist": "NDTV India"
+            "videoId": "WLvptnkVTGU",
+            "name": "🔴LIVE: Gold Rate |  ''அவசரப்பட்டு தங்கம் வாங்கிடாதீங்க'' - காத்திருக்கும் மெகா சர்ப்ரைஸ்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "rX5evKaHWvo",
-            "name": "Nepal Flash Floods Latest News LIVE: चीन का बड़ा अलर्ट! नेपाल में फिर आ रहा भंयकर सैलाब? | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vcNRx1d9JxQ",
-            "name": "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ০২ সেপ্টেম্বর ২০২৬ | News Bulletin | Latest News |News24",
-            "artist": "NEWS24 LIVE"
-        },
-        {
-            "mood": "storm",
-            "videoId": "04ndG4drf0k",
-            "name": "🔴LIVE: CM Vijay | Salem | வெளியான CM விஜயின் புது வீடியோ | Polimernews",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Uu-hVp3hByM",
-            "name": "U.S. forces strike Iranian targets in Strait of Hormuz, CENTCOM says",
+            "videoId": "yQa5E2IHDaE",
+            "name": "ABC News Live Prime: Sept. 1, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "ry-1vyvf_i0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 02 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ju6l4pBDFds",
-            "name": "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet",
-            "artist": "NDTV India"
+            "videoId": "Ud_76y-71J8",
+            "name": "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
