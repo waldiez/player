@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260903T023025.778Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260903T103134.364Z-l4t35t"
   type: "state"
-  created: "2026-09-03T02:30:25.778Z"
+  created: "2026-09-03T10:31:34.364Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260903T023025.778Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260903T103134.364Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "36WoDteI_6Q"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
+        videoId: "7Fyo8MZFJBw"
+        name: "US Iran War LIVE: Trump Claims US has 'Total Control' of Hormuz | Threatens Renewed Attacks on Iran"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1i_R5sln_I0"
+        name: "Nepal Flash Flood News LIVE | नेपाल की तबाही का खौफनाक मंजर, बहकर भारत पहुंच रहीं लाशें LIVE"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NxT25b142_U"
-        name: "US NEWS LIVE: Trump DROPS EMERGENCY BOMBSHELL, 'World's Most Powerful Reset' Has America SPEECHLESS"
-        artist: "Times Now"
+        videoId: "5jcV4Y0yehw"
+        name: "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3o5TI3fXyio"
-        name: "US NEWS LIVE: Is World War 3 Imminent? Trump's Shocking Iran Speech, World On Edge | US Vs Iran"
-        artist: "ET Now"
+        videoId: "OnAHC0Fko9M"
+        name: "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1050, 4000+ Remain Missing"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ligg7fGOxe8"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update"
-        artist: "Times Now"
+        videoId: "i2x20OG9cvA"
+        name: "Headlines Live With World News Report Today September 2nd 2026!"
+        artist: "World News Report Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FALTEpRMjA4"
-        name: "Nepal Flood News LIVE: नेपाल में फिर तबाही शुरू?, चीन के बयान से मचा हड़कंप! | China Warns Nepal"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cHLZtd7ybMQ"
-        name: "War News LIVE: Putin vs Germany? Russia Accused Over Airport Plot as NATO Tensions Rise"
-        artist: "Mint"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PSI-_YSYjYQ"
-        name: "🔴TN Assembly Live Today | CM Vijay || TVK || பேரவையில் CM விஜயின் அறிவிப்புகள்..தொடர் நேரலை"
+        videoId: "VkD16P8ZsmI"
+        name: "🔴LIVE : கொளத்தூரில் ஸ்டாலினுக்கு குட் நியூஸா? | Mk Stalin | Kolathur Election Result | Vs Babu | Dmk"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1oIG7HMS8BY"
-        name: "Breaking News LIVE | Will Trump Launch Nuclear Weapons Tonight? | Trump's Latest Speech LIVE"
-        artist: "ET Now"
+        videoId: "1T_8UdWvBYA"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (03.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yErXSf21mBQ"
-        name: "LIVE: Trump’s China Strategy Tested As Beijing Rejects US Trade Push | Firstpost"
-        artist: "Firstpost"
+        videoId: "GIuLHJnMMB4"
+        name: "Nepal Flash Flood News LIVE :1127 की मौत, 4500 लोग लापता, तबाही की सीधी तस्वीर | Rasuwa | Tibet"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AJkGBZv3M1E"
+        name: "Accused Idaho killer requests new judge in guilty plea reversal attempt"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gnhnqxQpEn4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2vdhOLAhrxY"
+        name: "🔴LIVE: CM Vijay Speech | Tn Assembly | பேரவையில் CM விஜய் பேச்சு"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-03T02:30:25.778Z"
+  exported_at: "2026-09-03T10:31:34.364Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-03T02:30:25.726Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-03T10:31:34.324Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
