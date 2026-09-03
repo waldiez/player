@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260902T202327.877Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260903T023025.778Z-l4t35t"
   type: "state"
-  created: "2026-09-02T20:23:27.877Z"
+  created: "2026-09-03T02:30:25.778Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260902T202327.877Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260903T023025.778Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JXcgvM6CmwE"
-        name: "🔴LIVE: Today Headlines | 02 SEP | இரவு தலைப்புச் செய்திகள் | Morning Headlines | CM Vijay | TVK"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FgiO7yMwoJk"
-        name: "US Attack on Iran LIVE: आज रात ईरान पर बड़ा धमाका! | Trump | Breaking | America | Nuclear War"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "E6XuOm8kWPA"
-        name: "Trump LIVE | Middle East On Alert As Iran Tensions Escalate  ! World News । Latest News"
-        artist: "Vox Live News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cwwikIeYWe4"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CJ2sYThBYdg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "D1hz9AyHoTY"
-        name: "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet"
+        videoId: "36WoDteI_6Q"
+        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jnUkgvdp07M"
-        name: "Crude Oil Price Hike News LIVE: युद्ध शुरू!, तेल के नए दामों नेलोगों के उड़ाए होश!| Iran-US War"
+        videoId: "NxT25b142_U"
+        name: "US NEWS LIVE: Trump DROPS EMERGENCY BOMBSHELL, 'World's Most Powerful Reset' Has America SPEECHLESS"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3o5TI3fXyio"
+        name: "US NEWS LIVE: Is World War 3 Imminent? Trump's Shocking Iran Speech, World On Edge | US Vs Iran"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ligg7fGOxe8"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FALTEpRMjA4"
+        name: "Nepal Flood News LIVE: नेपाल में फिर तबाही शुरू?, चीन के बयान से मचा हड़कंप! | China Warns Nepal"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sFM-_9dnIl8"
-        name: "Iran US War: Iran Strikes Back, US Launches New Attacks | 6PM Headlines Geo News (2 Sep 2026)"
-        artist: "Geo News"
+        videoId: "cHLZtd7ybMQ"
+        name: "War News LIVE: Putin vs Germany? Russia Accused Over Airport Plot as NATO Tensions Rise"
+        artist: "Mint"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PSI-_YSYjYQ"
+        name: "🔴TN Assembly Live Today | CM Vijay || TVK || பேரவையில் CM விஜயின் அறிவிப்புகள்..தொடர் நேரலை"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1oIG7HMS8BY"
+        name: "Breaking News LIVE | Will Trump Launch Nuclear Weapons Tonight? | Trump's Latest Speech LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yErXSf21mBQ"
+        name: "LIVE: Trump’s China Strategy Tested As Beijing Rejects US Trade Push | Firstpost"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-02T20:23:27.877Z"
+  exported_at: "2026-09-03T02:30:25.778Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-02T20:23:27.836Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-03T02:30:25.726Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

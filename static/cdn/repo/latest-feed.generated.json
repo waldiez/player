@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-02T20:23:27.836Z",
+    "generatedAt": "2026-09-03T02:30:25.726Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JXcgvM6CmwE",
-            "name": "🔴LIVE: Today Headlines | 02 SEP | இரவு தலைப்புச் செய்திகள் | Morning Headlines | CM Vijay | TVK",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FgiO7yMwoJk",
-            "name": "US Attack on Iran LIVE: आज रात ईरान पर बड़ा धमाका! | Trump | Breaking | America | Nuclear War",
-            "artist": "India News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E6XuOm8kWPA",
-            "name": "Trump LIVE | Middle East On Alert As Iran Tensions Escalate  ! World News । Latest News",
-            "artist": "Vox Live News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cwwikIeYWe4",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CJ2sYThBYdg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D1hz9AyHoTY",
-            "name": "Nepal Flash Flood News LIVE : नेपाल के रसुवा से सीधा LIVE | Big Breaking | China | India | Tibet",
+            "videoId": "36WoDteI_6Q",
+            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "jnUkgvdp07M",
-            "name": "Crude Oil Price Hike News LIVE: युद्ध शुरू!, तेल के नए दामों नेलोगों के उड़ाए होश!| Iran-US War",
+            "videoId": "NxT25b142_U",
+            "name": "US NEWS LIVE: Trump DROPS EMERGENCY BOMBSHELL, 'World's Most Powerful Reset' Has America SPEECHLESS",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3o5TI3fXyio",
+            "name": "US NEWS LIVE: Is World War 3 Imminent? Trump's Shocking Iran Speech, World On Edge | US Vs Iran",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ligg7fGOxe8",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FALTEpRMjA4",
+            "name": "Nepal Flood News LIVE: नेपाल में फिर तबाही शुरू?, चीन के बयान से मचा हड़कंप! | China Warns Nepal",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "sFM-_9dnIl8",
-            "name": "Iran US War: Iran Strikes Back, US Launches New Attacks | 6PM Headlines Geo News (2 Sep 2026)",
-            "artist": "Geo News"
+            "videoId": "cHLZtd7ybMQ",
+            "name": "War News LIVE: Putin vs Germany? Russia Accused Over Airport Plot as NATO Tensions Rise",
+            "artist": "Mint"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PSI-_YSYjYQ",
+            "name": "🔴TN Assembly Live Today | CM Vijay || TVK || பேரவையில் CM விஜயின் அறிவிப்புகள்..தொடர் நேரலை",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1oIG7HMS8BY",
+            "name": "Breaking News LIVE | Will Trump Launch Nuclear Weapons Tonight? | Trump's Latest Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yErXSf21mBQ",
+            "name": "LIVE: Trump’s China Strategy Tested As Beijing Rejects US Trade Push | Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
