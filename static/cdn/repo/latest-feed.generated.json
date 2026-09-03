@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-03T10:31:34.324Z",
+    "generatedAt": "2026-09-03T15:36:54.234Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7Fyo8MZFJBw",
+            "videoId": "PQ2vELWbswo",
             "name": "US Iran War LIVE: Trump Claims US has 'Total Control' of Hormuz | Threatens Renewed Attacks on Iran",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "1i_R5sln_I0",
-            "name": "Nepal Flash Flood News LIVE | नेपाल की तबाही का खौफनाक मंजर, बहकर भारत पहुंच रहीं लाशें LIVE",
+            "videoId": "7tDhezNL4W0",
+            "name": "[LIVE] America's Newsroom | Fox & Friends September 03, 2026 | Breaking News | Trump News FHD",
+            "artist": "رواتب العراق 💵"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yMeZRMuixrc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LI39WkHYRE4",
+            "name": "US IRAN NEWS IVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ba4ldcggKp4",
+            "name": "Bessent LIVE | China Turns On Iran? Bessent Reveals SHOCKING US-China Agreement On Tehran",
+            "artist": "Hindustan Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ldik57rhDjo",
+            "name": "[LIVE] FOX News Live Stream | Fox & Friends September 03, 2026 | Breaking News | Trump News FHD",
+            "artist": "رواتب العراق 💵"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TYfmaoc5OMQ",
+            "name": "Nepal Flood News LIVE: नेपाल से बहकर आई रहस्यमयी मछली! LIVE | Rasuwa | Tibet | Breaking News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "5jcV4Y0yehw",
-            "name": "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OnAHC0Fko9M",
-            "name": "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1050, 4000+ Remain Missing",
-            "artist": "NDTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i2x20OG9cvA",
-            "name": "Headlines Live With World News Report Today September 2nd 2026!",
-            "artist": "World News Report Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VkD16P8ZsmI",
-            "name": "🔴LIVE : கொளத்தூரில் ஸ்டாலினுக்கு குட் நியூஸா? | Mk Stalin | Kolathur Election Result | Vs Babu | Dmk",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1T_8UdWvBYA",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (03.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GIuLHJnMMB4",
-            "name": "Nepal Flash Flood News LIVE :1127 की मौत, 4500 लोग लापता, तबाही की सीधी तस्वीर | Rasuwa | Tibet",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AJkGBZv3M1E",
-            "name": "Accused Idaho killer requests new judge in guilty plea reversal attempt",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gnhnqxQpEn4",
+            "videoId": "CJ2sYThBYdg",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "2vdhOLAhrxY",
-            "name": "🔴LIVE: CM Vijay Speech | Tn Assembly | பேரவையில் CM விஜய் பேச்சு",
-            "artist": "Sathiyam News"
+            "videoId": "N_uVXxU9WZo",
+            "name": "Iran US War - Latest Update | Geo News 5PM Headlines (03 Sep 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w24zcGkiH48",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 03 September 2026| Live News Bangla | International News Today",
+            "artist": "The News Live 24X7"
         }
     ],
     "sourceFilters": {
