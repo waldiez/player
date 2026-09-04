@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-03T20:22:37.136Z",
+    "generatedAt": "2026-09-04T02:26:26.167Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,21 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HneS3szdjmU",
-            "name": "India Left Out of the New World Order? | Pakistan Takes the Lead? | Pravin Sawhney’s Analysis",
-            "artist": "Capital TV"
+            "videoId": "ZaomQc8jH0c",
+            "name": "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "_4ls8BqVPTo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.09.2026) | Sathiyam Headlines",
+            "videoId": "3jmCWq1EbzM",
+            "name": "Today's Headlines | 04 SEP 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "D6O8O7uUSz8",
-            "name": "US NEWS Live: Trump Addresses Nation Following Strikes On Iran Nuclear Assets | World Watches",
-            "artist": "MIRROR NOW"
+            "videoId": "y0-Y5-sMDBE",
+            "name": "Donald Trump LIVE | Trump WARNS Iran: “WON’T LAST TOO LONG” As U.S. Prepares For More Strikes?",
+            "artist": "ALERT News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5DHxDNf8bJ4",
+            "name": "[LIVE] Gutfeld 09/03/2026 Live HD | FOX NEWS TRUMP LIVE September 03, 2026",
+            "artist": "شوشو الدليل"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hT9hiSK9f1I",
+            "name": "Lindsay Clancy Trial Latest",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "twn618v-YB4",
+            "name": "Aaj Ki Taaja Khabar LIVE: 03 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cM8HLoyRYfE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Antorjatik সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y9Y979liMZw",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CBC World Desk71"
         }
     ],
     "sourceFilters": {
