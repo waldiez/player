@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-04T10:20:45.124Z",
+    "generatedAt": "2026-09-04T15:35:12.569Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yPJCaYQz9Tc",
-            "name": "LIVE আন্তর্জাতিক বাংলা খবর BBC World News 04 Sep 2026 World News Bangla International News Today",
-            "artist": "FTN TV"
+            "videoId": "d8GWBmwY4cE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "SoI0mTJSpfM",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (04.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "_RWzp12XT5M",
+            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 04 September 2026| Live News Bangla | International News Today ",
+            "artist": "The News Live 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "OY6KL-bgTWs",
-            "name": "Headlines Live With World News Report Today September 3rd 2026!",
-            "artist": "World News Report Today"
+            "videoId": "HZXMuR8F8nY",
+            "name": "[LIVE] FOX News Live Stream | Fox & Friends September 04, 2026 | Breaking News | Trump News FHD",
+            "artist": "رواتب العراق 💵"
         },
         {
             "mood": "storm",
-            "videoId": "5jJz0oo6XAU",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | Hindi News",
+            "videoId": "6d_kk4VEVQs",
+            "name": "UP-Bihar Flood Alert News LIVE: 4 सितंबर 2026,शाम 4 बजे पटना के ताजा हालात | Big Breaking | Patna",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3sDl21CVZKI",
-            "name": "Jantar-Mantar Protest News LIVE: जंतर-मंतर पर फिर बवाल...! | CJP Supporters | Ashutosh Ranka",
-            "artist": "ABP NEWS"
+            "videoId": "S4PjS1GIATA",
+            "name": "Bangla News Live BBC World News September 04, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "j4zhhZs-e8Q",
-            "name": "Aaj Ki 100 Khabar LIVE: मौत बनकर आया 4 सितंबर, अचानक 3000 लोगों की मौत, हिला देश! | Big Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "ECQkcaZYBjo",
+            "name": "US-Iran War LIVE: Trump VOWS Massive NUCLEAR Offensive Against Iran, World Powers On Alert |WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "CWb7zfpK7Fg",
-            "name": "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1050, 4000+ Remain Missing",
-            "artist": "NDTV"
+            "videoId": "mHbe0009X98",
+            "name": "IRAN WAR LIVE: 'I Wouldn’t Call It a War' US-Iran War Has No End Date, Says Vance",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "mW5nkbEVbvU",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 04Sep",
-            "artist": "Sairbeen News 24"
+            "videoId": "dFgRGvpl3PA",
+            "name": "US NEWS LIVE: Is World War 3 Imminent? Trump's Shocking Iran Speech, World On Edge | US Vs Iran",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xVfA8E3zPoE",
+            "name": "Aaj Ki Taaja Khabar LIVE: 04 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
