@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260904T022626.209Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260904T102045.166Z-l4t35t"
   type: "state"
-  created: "2026-09-04T02:26:26.209Z"
+  created: "2026-09-04T10:20:45.166Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260904T022626.209Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260904T102045.166Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZaomQc8jH0c"
-        name: "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy"
-        artist: "Firstpost"
+        videoId: "yPJCaYQz9Tc"
+        name: "LIVE আন্তর্জাতিক বাংলা খবর BBC World News 04 Sep 2026 World News Bangla International News Today"
+        artist: "FTN TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3jmCWq1EbzM"
-        name: "Today's Headlines | 04 SEP 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
-        artist: "Sathiyam News"
+        videoId: "SoI0mTJSpfM"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (04.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y0-Y5-sMDBE"
-        name: "Donald Trump LIVE | Trump WARNS Iran: “WON’T LAST TOO LONG” As U.S. Prepares For More Strikes?"
-        artist: "ALERT News"
+        videoId: "OY6KL-bgTWs"
+        name: "Headlines Live With World News Report Today September 3rd 2026!"
+        artist: "World News Report Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5DHxDNf8bJ4"
-        name: "[LIVE] Gutfeld 09/03/2026 Live HD | FOX NEWS TRUMP LIVE September 03, 2026"
-        artist: "شوشو الدليل"
+        videoId: "5jJz0oo6XAU"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | Hindi News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hT9hiSK9f1I"
-        name: "Lindsay Clancy Trial Latest"
-        artist: "ABC News"
+        videoId: "3sDl21CVZKI"
+        name: "Jantar-Mantar Protest News LIVE: जंतर-मंतर पर फिर बवाल...! | CJP Supporters | Ashutosh Ranka"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "twn618v-YB4"
-        name: "Aaj Ki Taaja Khabar LIVE: 03 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi"
-        artist: "Times Now Navbharat"
+        videoId: "j4zhhZs-e8Q"
+        name: "Aaj Ki 100 Khabar LIVE: मौत बनकर आया 4 सितंबर, अचानक 3000 लोगों की मौत, हिला देश! | Big Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cM8HLoyRYfE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Antorjatik সংবাদ"
+        videoId: "CWb7zfpK7Fg"
+        name: "Nepal Floods Latest News LIVE | Nepal Floods Death Toll Crosses 1050, 4000+ Remain Missing"
+        artist: "NDTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y9Y979liMZw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CBC World Desk71"
+        videoId: "mW5nkbEVbvU"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 04Sep"
+        artist: "Sairbeen News 24"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-04T02:26:26.209Z"
+  exported_at: "2026-09-04T10:20:45.166Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-04T02:26:26.167Z"
+  source_generated_at: "2026-09-04T10:20:45.124Z"
   validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
