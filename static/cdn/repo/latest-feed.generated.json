@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-04T15:35:12.569Z",
+    "generatedAt": "2026-09-04T20:08:33.202Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "d8GWBmwY4cE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_RWzp12XT5M",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 04 September 2026| Live News Bangla | International News Today ",
-            "artist": "The News Live 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HZXMuR8F8nY",
-            "name": "[LIVE] FOX News Live Stream | Fox & Friends September 04, 2026 | Breaking News | Trump News FHD",
-            "artist": "رواتب العراق 💵"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6d_kk4VEVQs",
-            "name": "UP-Bihar Flood Alert News LIVE: 4 सितंबर 2026,शाम 4 बजे पटना के ताजा हालात | Big Breaking | Patna",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S4PjS1GIATA",
-            "name": "Bangla News Live BBC World News September 04, 2026 || World News Bangla || International News Today",
-            "artist": "বাংলা নিউজ লাইভ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ECQkcaZYBjo",
-            "name": "US-Iran War LIVE: Trump VOWS Massive NUCLEAR Offensive Against Iran, World Powers On Alert |WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mHbe0009X98",
-            "name": "IRAN WAR LIVE: 'I Wouldn’t Call It a War' US-Iran War Has No End Date, Says Vance",
+            "videoId": "v9-xeWqBJCU",
+            "name": "IRAN WAR LIVE: No Peace Talks Until Iran Stop Attacking Ships, Says Vance",
             "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "dFgRGvpl3PA",
-            "name": "US NEWS LIVE: Is World War 3 Imminent? Trump's Shocking Iran Speech, World On Edge | US Vs Iran",
-            "artist": "ET Now"
+            "videoId": "R1P8I9-ikG4",
+            "name": "Aaj Ki 100 Khabar LIVE: मौत बनकर आया 4 सितंबर, अचानक 3000 लोगों की मौत, हिला देश! | Big Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "xVfA8E3zPoE",
-            "name": "Aaj Ki Taaja Khabar LIVE: 04 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi",
-            "artist": "Times Now Navbharat"
+            "videoId": "3sDl21CVZKI",
+            "name": "Jantar-Mantar Protest News LIVE: जंतर-मंतर पर फिर बवाल...! | CJP Supporters | Ashutosh Ranka",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RbEbX0rJqAA",
+            "name": "Aaj Ki Taaza Khabar LIVE: Nepal Flood | Ram Mandir CEO | Bihar | Modi | Weather Update  | Yogi",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1Fwwjg-PPz4",
+            "name": "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FJ7DrTcGQ78",
+            "name": "Shri krishna janmabhoomi Janmashtami LIVE: श्रीकृष्ण जन्मोत्सव LIVE | Darshan | Mathura | Vrindavan",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1REX5kjOyns",
+            "name": "🔴LIVE : CM Vijay | TVK | CPM சண்முகத்துடன் திடீர் சந்திப்பு | TVK Ministers | TVK Govt",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "u4Rgfh2a2rQ",
+            "name": "LIVE আন্তর্জাতিক বাংলা খবর BBC World News 04 Sep 2026 World News Bangla International News Today",
+            "artist": "FTN TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8IkXe8qGVc0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 04 Sept 2026 || BBC World News Bangla || বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DNC BANGLA 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G4I8x4MZDY8",
+            "name": "Today Headlines | 04 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
