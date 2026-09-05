@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260905T022725.473Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260905T094815.517Z-l4t35t"
   type: "state"
-  created: "2026-09-05T02:27:25.473Z"
+  created: "2026-09-05T09:48:15.517Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260905T022725.473Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260905T094815.517Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,39 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rzUisq3A1xk"
-        name: "🔴Live | CM VIJAY | அப்படி ஒரு அறிவிப்பு..! அரண்டுபோன தமிழ்நாடு  | TVK Latest News | TVK"
+        videoId: "C85xfruaMb0"
+        name: "🔴LIVE : KNNehru | Dmk News |DVACRaid | விடிந்ததும் K.N.நேருவுக்கு இறங்கிய பேரிடி"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9vDCKEV-Tjo"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News | 5 September"
-        artist: "ABP NEWS"
+        videoId: "HD_bDda-Es4"
+        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pG_sr6-6x_o"
-        name: "ABC World News Tonight With David Muir 9/4/26 | ABC News Today September 4, 2026"
-        artist: "Baba BalakNath Vibes "
+        videoId: "T-CN5WJL7wA"
+        name: "বিশ্বের নতুন মানচিত্র অনুমোদন দিলো জাতিসংঘ | New World Map | UN | ATN News"
+        artist: "ATN News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KVaJxO8D3MQ"
-        name: "ABC World News Tonight With David Muir 9/4/26 | ABC News Today September 4, 2026 HD"
-        artist: "U.V.A Filmz"
+        videoId: "C6zKSBT2_SU"
+        name: "LIVE🔴৬ দফা দাবিতে ১১ দলীয় ঐক্যের 'ঢাকা টু চট্টগ্রাম' লংমার্চ | Long March | 11 Dolio Oikko"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JXQRQGSkjCc"
-        name: "Donald Trump LIVE: 'Iran Is Finished, We’re Winning the War' | Trump | US News LIVE"
-        artist: "MIRROR NOW"
+        videoId: "WcGC_5VNXW0"
+        name: "Headlines Live With World News Report Today September 4th 2026!"
+        artist: "World News Report Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UzmVPNhXvf8"
-        name: "LIVE: Bumper Offer To Konda Surekha? | కొండా సురేఖకు డబుల్ ఆఫర్? | ZEE Telugu News"
-        artist: "Zee Telugu News"
+        videoId: "c5qhJaEosDs"
+        name: "🔴LIVE: CM Vijay | வரப்போகும் புது Airport - CM விஜய் மனசில் உள்ள ரகசிய இடம் இதுதான்?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B2REeHLah-A"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 05Sep"
+        artist: "Sairbeen News 24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VyeSLW059oo"
+        name: "Trump’s Latest Announcement Shocks the World | 8 AM GEONews Headlines (5 Sep 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -96,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-05T02:27:25.473Z"
+  exported_at: "2026-09-05T09:48:15.517Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-05T02:27:25.428Z"
-  validation: "validation enabled: accepted 6/8 tracks; maxAgeHours=72 minKeywordHits=1; rejected: FJ7DrTcGQ78 (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70) | BJp1kGQZiM8 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 65 < 70)"
+  source_generated_at: "2026-09-05T09:48:15.479Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
