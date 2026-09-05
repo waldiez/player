@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-04T20:08:33.202Z",
+    "generatedAt": "2026-09-05T02:27:25.428Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "v9-xeWqBJCU",
-            "name": "IRAN WAR LIVE: No Peace Talks Until Iran Stop Attacking Ships, Says Vance",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "R1P8I9-ikG4",
-            "name": "Aaj Ki 100 Khabar LIVE: मौत बनकर आया 4 सितंबर, अचानक 3000 लोगों की मौत, हिला देश! | Big Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3sDl21CVZKI",
-            "name": "Jantar-Mantar Protest News LIVE: जंतर-मंतर पर फिर बवाल...! | CJP Supporters | Ashutosh Ranka",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RbEbX0rJqAA",
-            "name": "Aaj Ki Taaza Khabar LIVE: Nepal Flood | Ram Mandir CEO | Bihar | Modi | Weather Update  | Yogi",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1Fwwjg-PPz4",
-            "name": "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
             "videoId": "FJ7DrTcGQ78",
             "name": "Shri krishna janmabhoomi Janmashtami LIVE: श्रीकृष्ण जन्मोत्सव LIVE | Darshan | Mathura | Vrindavan",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "1REX5kjOyns",
-            "name": "🔴LIVE : CM Vijay | TVK | CPM சண்முகத்துடன் திடீர் சந்திப்பு | TVK Ministers | TVK Govt",
+            "videoId": "BJp1kGQZiM8",
+            "name": "Krishna Janmashtami 2026 News LIVE: कृष्ण जन्म की दिव्य रात | Mathura | Vrindavan | ABP News LIVE",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rzUisq3A1xk",
+            "name": "🔴Live | CM VIJAY | அப்படி ஒரு அறிவிப்பு..! அரண்டுபோன தமிழ்நாடு  | TVK Latest News | TVK",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "u4Rgfh2a2rQ",
-            "name": "LIVE আন্তর্জাতিক বাংলা খবর BBC World News 04 Sep 2026 World News Bangla International News Today",
-            "artist": "FTN TV"
+            "videoId": "9vDCKEV-Tjo",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News | 5 September",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "8IkXe8qGVc0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 04 Sept 2026 || BBC World News Bangla || বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "DNC BANGLA 24"
+            "videoId": "pG_sr6-6x_o",
+            "name": "ABC World News Tonight With David Muir 9/4/26 | ABC News Today September 4, 2026",
+            "artist": "Baba BalakNath Vibes "
         },
         {
             "mood": "storm",
-            "videoId": "G4I8x4MZDY8",
-            "name": "Today Headlines | 04 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "KVaJxO8D3MQ",
+            "name": "ABC World News Tonight With David Muir 9/4/26 | ABC News Today September 4, 2026 HD",
+            "artist": "U.V.A Filmz"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JXQRQGSkjCc",
+            "name": "Donald Trump LIVE: 'Iran Is Finished, We’re Winning the War' | Trump | US News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UzmVPNhXvf8",
+            "name": "LIVE: Bumper Offer To Konda Surekha? | కొండా సురేఖకు డబుల్ ఆఫర్? | ZEE Telugu News",
+            "artist": "Zee Telugu News"
         }
     ],
     "sourceFilters": {
