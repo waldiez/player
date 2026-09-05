@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-05T14:23:02.274Z",
+    "generatedAt": "2026-09-05T19:47:45.283Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9e8RxFYjsqY",
-            "name": "Top 10 News of World: Russia-Ukraine, Nepal Floods, Iran-US Tensions, PM Modi & India Updates | N18G",
-            "artist": "News18 J&K"
+            "videoId": "-4_265pBWqc",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "9rfqC7SV72c",
-            "name": "Nepal Flash Flood News LIVE : नेपाल के बाद बिहार में भयंकर बाढ़ के हालात | Bihar Flood | Bengal",
+            "videoId": "esOevs8pvKg",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hRJy6CRnNOM",
+            "name": "Nepal Flash Flood News LIVE : ..जब अंधेरी सुरंग को चीरकर निकली जिंदगी, नेपाल में बड़ा चमत्कार LIVE",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "slRgJcgNfOw",
-            "name": "TRUMP LIVE: Trump's Biggest Iran Move Yet? Middle East On Edge | WORLD NEWS | US NEWS LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LuNiPB1D6h4",
-            "name": "🔴LIVE : KNNehru | Dmk News |DVACRaid | சிக்கிய முக்கிய ஆவணங்கள்! கே.என்.நேரு வீட்டில் நடந்த அதிரடி",
+            "videoId": "EoEc8zj8H30",
+            "name": "🔴LIVE : KNNehru News |விஷயம் தெரிந்ததும் ஓடி வந்த அன்பில்.. கே.என்.நேரு வீட்டில் என்ன நடக்கிறது?",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "efnutBK4cyI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC WORLD NEWS"
+            "videoId": "qnHaKMVK0EI",
+            "name": "LIVE: Iran Targets Kuwait In Retaliation For US Strikes! Regional War Escalates | War News | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "6H90wBPFVic",
-            "name": "Aaj Ki Taaja Khabar LIVE: 05 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi",
-            "artist": "Times Now Navbharat"
+            "videoId": "LSzFLBO_3kQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "VIaZbAYNVZ4",
-            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet",
+            "videoId": "-IO_M0VBdxk",
+            "name": "Bangla News Live BBC World News September 05, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "62Fxx6BG2Vw",
+            "name": "Today Headlines | 05 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bFs5MZRysxg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HtbBsp0Fa-U",
+            "name": "Nepal Flash Flood News LIVE :1290 की मौत, 4500 लोग लापता, तबाही की सीधी तस्वीर | Rasuwa | Tibet",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gqVFebRb7rU",
-            "name": "Donald Trump Speech LIVE | Trump’s Last Warning To Iran, Tehran Faces A Major New Decision",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IrvEJ1frxy4",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ০৫ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর",
-            "artist": "World News Ira"
         }
     ],
     "sourceFilters": {
