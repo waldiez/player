@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260905T094815.517Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260905T142302.316Z-l4t35t"
   type: "state"
-  created: "2026-09-05T09:48:15.517Z"
+  created: "2026-09-05T14:23:02.316Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260905T094815.517Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260905T142302.316Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "C85xfruaMb0"
-        name: "🔴LIVE : KNNehru | Dmk News |DVACRaid | விடிந்ததும் K.N.நேருவுக்கு இறங்கிய பேரிடி"
-        artist: "NewsTamil 24X7"
+        videoId: "9e8RxFYjsqY"
+        name: "Top 10 News of World: Russia-Ukraine, Nepal Floods, Iran-US Tensions, PM Modi & India Updates | N18G"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HD_bDda-Es4"
-        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
+        videoId: "9rfqC7SV72c"
+        name: "Nepal Flash Flood News LIVE : नेपाल के बाद बिहार में भयंकर बाढ़ के हालात | Bihar Flood | Bengal"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "slRgJcgNfOw"
+        name: "TRUMP LIVE: Trump's Biggest Iran Move Yet? Middle East On Edge | WORLD NEWS | US NEWS LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T-CN5WJL7wA"
-        name: "বিশ্বের নতুন মানচিত্র অনুমোদন দিলো জাতিসংঘ | New World Map | UN | ATN News"
-        artist: "ATN News"
+        videoId: "LuNiPB1D6h4"
+        name: "🔴LIVE : KNNehru | Dmk News |DVACRaid | சிக்கிய முக்கிய ஆவணங்கள்! கே.என்.நேரு வீட்டில் நடந்த அதிரடி"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C6zKSBT2_SU"
-        name: "LIVE🔴৬ দফা দাবিতে ১১ দলীয় ঐক্যের 'ঢাকা টু চট্টগ্রাম' লংমার্চ | Long March | 11 Dolio Oikko"
-        artist: "ATN Bangla News"
+        videoId: "efnutBK4cyI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC WORLD NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WcGC_5VNXW0"
-        name: "Headlines Live With World News Report Today September 4th 2026!"
-        artist: "World News Report Today"
+        videoId: "6H90wBPFVic"
+        name: "Aaj Ki Taaja Khabar LIVE: 05 September 2026 | Nepal Flood Updates | China | Rahul Gandhi | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "c5qhJaEosDs"
-        name: "🔴LIVE: CM Vijay | வரப்போகும் புது Airport - CM விஜய் மனசில் உள்ள ரகசிய இடம் இதுதான்?"
-        artist: "Sathiyam News"
+        videoId: "VIaZbAYNVZ4"
+        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B2REeHLah-A"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 05Sep"
-        artist: "Sairbeen News 24"
+        videoId: "gqVFebRb7rU"
+        name: "Donald Trump Speech LIVE | Trump’s Last Warning To Iran, Tehran Faces A Major New Decision"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VyeSLW059oo"
-        name: "Trump’s Latest Announcement Shocks the World | 8 AM GEONews Headlines (5 Sep 2026)"
-        artist: "Geo News"
+        videoId: "IrvEJ1frxy4"
+        name: "আজকের আন্তর্জাতিক সব খবর, ০৫ সেপ্টেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর"
+        artist: "World News Ira"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-05T09:48:15.517Z"
+  exported_at: "2026-09-05T14:23:02.316Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-05T09:48:15.479Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-05T14:23:02.274Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
