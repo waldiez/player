@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260906T144508.017Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260906T195136.119Z-l4t35t"
   type: "state"
-  created: "2026-09-06T14:45:08.017Z"
+  created: "2026-09-06T19:51:36.119Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260906T144508.017Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260906T195136.119Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8gQYIdPjVPo"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pU_HeDdkU0I"
+        videoId: "D0tnGmrzozQ"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC WORLD NEWS"
+        artist: "বিশ্ব24 সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "s8kHkdman20"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VcY_hff9mjY"
+        videoId: "YncHsCHrCEM"
         name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9p9FYd96_Lk"
-        name: "Breaking News: दिल्ली में जहां हादसा, वहां से सीधा LIVE | Satya Niketan | Breaking News | Delhi"
+        videoId: "X_JjPmaqE1A"
+        name: "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Z0oHjV-2gN4"
+        name: "News Night Live: बदलने जा रहा है दुनिया का नक्शा? | UN world map | Saharanpur | Russia-Ukraine"
+        artist: "DD News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NFIX2i_Nt_0"
+        name: "🔴LIVE:  தலைகீழாகும் உலக வானிலை"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KB0OH-U9VLk"
+        name: "U.S-Iran War Live: U.S. Strikes 3 Iranian Tankers in Retaliation for Missile Attacks | War Escalates"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KaD6pmgXf_A"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CgljdLQ0ELg"
+        name: "Delhi Satya Niketan Building Collapsed LIVE Updates: दिल्ली हादसे पर CM Rekha Gupta का बड़ा बयान"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HJLRseNrCqE"
-        name: "🔴LIVE :Today Fast 100 News | 06 September 2026 | இன்றைய 100 முக்கியச் செய்திகள் |TN Political Update"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "no-JgGtoSF8"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही के बाद फंसे भारतीयों पर बड़ी खबर | Rasuwa | Tibet"
-        artist: "NDTV India"
+        videoId: "GhocGrWVZBE"
+        name: "Today Headlines | 06 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-06T14:45:08.017Z"
+  exported_at: "2026-09-06T19:51:36.119Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-06T14:45:07.984Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-06T19:51:36.080Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-06T14:45:07.984Z",
+    "generatedAt": "2026-09-06T19:51:36.080Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "8gQYIdPjVPo",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pU_HeDdkU0I",
+            "videoId": "D0tnGmrzozQ",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC WORLD NEWS"
+            "artist": "বিশ্ব24 সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "s8kHkdman20",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VcY_hff9mjY",
+            "videoId": "YncHsCHrCEM",
             "name": "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "9p9FYd96_Lk",
-            "name": "Breaking News: दिल्ली में जहां हादसा, वहां से सीधा LIVE | Satya Niketan | Breaking News | Delhi",
+            "videoId": "X_JjPmaqE1A",
+            "name": "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Z0oHjV-2gN4",
+            "name": "News Night Live: बदलने जा रहा है दुनिया का नक्शा? | UN world map | Saharanpur | Russia-Ukraine",
+            "artist": "DD News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NFIX2i_Nt_0",
+            "name": "🔴LIVE:  தலைகீழாகும் உலக வானிலை",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KB0OH-U9VLk",
+            "name": "U.S-Iran War Live: U.S. Strikes 3 Iranian Tankers in Retaliation for Missile Attacks | War Escalates",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KaD6pmgXf_A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CgljdLQ0ELg",
+            "name": "Delhi Satya Niketan Building Collapsed LIVE Updates: दिल्ली हादसे पर CM Rekha Gupta का बड़ा बयान",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "HJLRseNrCqE",
-            "name": "🔴LIVE :Today Fast 100 News | 06 September 2026 | இன்றைய 100 முக்கியச் செய்திகள் |TN Political Update",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "no-JgGtoSF8",
-            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही के बाद फंसे भारतीयों पर बड़ी खबर | Rasuwa | Tibet",
-            "artist": "NDTV India"
+            "videoId": "GhocGrWVZBE",
+            "name": "Today Headlines | 06 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
