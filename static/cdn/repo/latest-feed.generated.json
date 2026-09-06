@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-06T02:23:35.134Z",
+    "generatedAt": "2026-09-06T14:45:07.984Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KGPMDnd-R5E",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "8gQYIdPjVPo",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
+            "artist": "CK Time TV North America"
         },
         {
             "mood": "storm",
-            "videoId": "VIaZbAYNVZ4",
-            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet",
+            "videoId": "pU_HeDdkU0I",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC WORLD NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "s8kHkdman20",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VcY_hff9mjY",
+            "name": "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9p9FYd96_Lk",
+            "name": "Breaking News: दिल्ली में जहां हादसा, वहां से सीधा LIVE | Satya Niketan | Breaking News | Delhi",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "9xja2j0diDQ",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qeV7I5_wOVQ",
-            "name": "Sandeep Chaudhary LIVE: हिंदू-मुसलमान...दलित पर घमासान...देश का कल्याण? | Politics | Shuddhikaran",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ETYrXlOBSjI",
-            "name": "🔴LIVE : CM VIJAY | TVK | பவரை கையில் எடுத்த விஜய்.. பலமாகும் கூட்டணி | TVK Meeting",
+            "videoId": "HJLRseNrCqE",
+            "name": "🔴LIVE :Today Fast 100 News | 06 September 2026 | இன்றைய 100 முக்கியச் செய்திகள் |TN Political Update",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "T-ojoZ_SQhg",
-            "name": "ABC World News Tonight With David Muir 9/5/26 | ABC News Today September 5, 2026",
-            "artist": "Baba BalakNath Vibes "
-        },
-        {
-            "mood": "storm",
-            "videoId": "GQHpvbaFMqA",
-            "name": "LIVE: ABC News Live - Saturday, September 5 | ABC News",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RUMntBsZr-8",
-            "name": "Ghatkopar Dahihandi LIVE | Ganesh Chukkal  | ABP MAJHA LIVE",
-            "artist": "ABP MAJHA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UuqVm1ap03I",
-            "name": "LIVE: Iran Targets Kuwait In Retaliation For US Strikes! Regional War Escalates | War News | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tRDD3mxTYP8",
-            "name": "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy",
-            "artist": "Firstpost"
+            "videoId": "no-JgGtoSF8",
+            "name": "Nepal Flash Flood News LIVE : नेपाल में तबाही के बाद फंसे भारतीयों पर बड़ी खबर | Rasuwa | Tibet",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {

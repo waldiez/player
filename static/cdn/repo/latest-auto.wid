@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260906T022335.163Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260906T144508.017Z-l4t35t"
   type: "state"
-  created: "2026-09-06T02:23:35.163Z"
+  created: "2026-09-06T14:45:08.017Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260906T022335.163Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260906T144508.017Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "KGPMDnd-R5E"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "8gQYIdPjVPo"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VIaZbAYNVZ4"
-        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही का LIVE Video | Big Breaking | China | India | Tibet"
+        videoId: "pU_HeDdkU0I"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CDC WORLD NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "s8kHkdman20"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VcY_hff9mjY"
+        name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9p9FYd96_Lk"
+        name: "Breaking News: दिल्ली में जहां हादसा, वहां से सीधा LIVE | Satya Niketan | Breaking News | Delhi"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9xja2j0diDQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qeV7I5_wOVQ"
-        name: "Sandeep Chaudhary LIVE: हिंदू-मुसलमान...दलित पर घमासान...देश का कल्याण? | Politics | Shuddhikaran"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ETYrXlOBSjI"
-        name: "🔴LIVE : CM VIJAY | TVK | பவரை கையில் எடுத்த விஜய்.. பலமாகும் கூட்டணி | TVK Meeting"
+        videoId: "HJLRseNrCqE"
+        name: "🔴LIVE :Today Fast 100 News | 06 September 2026 | இன்றைய 100 முக்கியச் செய்திகள் |TN Political Update"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T-ojoZ_SQhg"
-        name: "ABC World News Tonight With David Muir 9/5/26 | ABC News Today September 5, 2026"
-        artist: "Baba BalakNath Vibes "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GQHpvbaFMqA"
-        name: "LIVE: ABC News Live - Saturday, September 5 | ABC News"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UuqVm1ap03I"
-        name: "LIVE: Iran Targets Kuwait In Retaliation For US Strikes! Regional War Escalates | War News | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tRDD3mxTYP8"
-        name: "IRAN WAR LIVE: 'You Will See Soon' Tehran Issues Chilling Warning to US | Iran's New Strategy"
-        artist: "Firstpost"
+        videoId: "no-JgGtoSF8"
+        name: "Nepal Flash Flood News LIVE : नेपाल में तबाही के बाद फंसे भारतीयों पर बड़ी खबर | Rasuwa | Tibet"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-06T02:23:35.163Z"
+  exported_at: "2026-09-06T14:45:08.017Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-06T02:23:35.134Z"
-  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: RUMntBsZr-8 (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 55 < 70)"
+  source_generated_at: "2026-09-06T14:45:07.984Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
