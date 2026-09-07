@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-07T02:20:39.171Z",
+    "generatedAt": "2026-09-07T11:18:44.765Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1F-R_5iV7qU",
-            "name": "Republic TV LIVE: September 6, 2026 | India | Global News | Nepal Floods | ISRO Historic Launch",
-            "artist": "Republic World"
+            "videoId": "IKQKSSQFb5E",
+            "name": "Bangla News Live BBC World News September 07, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
         },
         {
             "mood": "storm",
-            "videoId": "boh-zy04A_E",
-            "name": "LIVE | Trump’s HUGE Iran Warning: World War III Fears Rise As Announcements Loom!",
-            "artist": "MIRROR NOW"
+            "videoId": "F5B3-3AHwA0",
+            "name": "🔴LIVE :  அனுமதிக்காத சபாநாயகர் வெளியே வந்து வெடித்த உதயநிதி.. CM-க்கு தீயாக பதிலடி",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "nSampJX1eGg",
-            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
+            "videoId": "NrfKorN-A94",
+            "name": "Breaking News LIVE | ‘American Army Will…’ | Trump Drops BOMBSHELL, ‘Shocks’ Cabinet | Trump LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BPEKOnxDj1o",
+            "name": "Bangla News Live BBC World News September 07, 2026 || World News Bangla || International News Today",
+            "artist": "বাংলা নিউজ লাইভ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0QtgvnzJDwY",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (07.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "73yru6FewHo",
+            "name": "Nepal Flash Flood News LIVE :1350 की मौत, 5000 लोग लापता, तबाही की सीधी तस्वीर | Rasuwa | Tibet",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "ksr6lhWgYrw",
-            "name": "TRUMP LIVE: Trump's Biggest Iran Move Yet? Middle East On Edge | WORLD NEWS | US NEWS LIVE",
-            "artist": "ET Now"
+            "videoId": "9WbSyi9NHek",
+            "name": "Iran America War Update: अमेरिका में ईरान का विनाशक पलटवार! LIVE | Mojtaba | Trump | IRGC | Top News",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "Z5jYlmLIr1E",
-            "name": "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV",
-            "artist": "V News27"
+            "videoId": "KM6ifegYrnM",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement | US News",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "6Pg2QtmWUNs",
-            "name": "Delhi Satya Niketan Building Collapsed LIVE Updates: मलबे में फंसे छात्र का वीडियो, रेस्क्यू जारी",
-            "artist": "NDTV India"
+            "videoId": "6jX5iEsy-iE",
+            "name": "LIVE : Africa 14 Times Bigger Than Greenland | కొత్త వరల్డ్‌ మ్యాప్‌ వచ్చేసింది | New World Map | UN",
+            "artist": "10TV News Telugu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "btLXmtoYqSw",
+            "name": "ABP Majha LIVE | 07 September 2026 | Maharashtra Politics | Latest News | Marathi News 24/7",
+            "artist": "ABP MAJHA"
         }
     ],
     "sourceFilters": {
