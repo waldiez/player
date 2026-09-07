@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-06T19:51:36.080Z",
+    "generatedAt": "2026-09-07T02:20:39.171Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "D0tnGmrzozQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বিশ্ব24 সংবাদ"
+            "videoId": "1F-R_5iV7qU",
+            "name": "Republic TV LIVE: September 6, 2026 | India | Global News | Nepal Floods | ISRO Historic Launch",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "YncHsCHrCEM",
-            "name": "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live",
-            "artist": "Times Now"
+            "videoId": "boh-zy04A_E",
+            "name": "LIVE | Trump’s HUGE Iran Warning: World War III Fears Rise As Announcements Loom!",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "X_JjPmaqE1A",
-            "name": "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z0oHjV-2gN4",
-            "name": "News Night Live: बदलने जा रहा है दुनिया का नक्शा? | UN world map | Saharanpur | Russia-Ukraine",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NFIX2i_Nt_0",
-            "name": "🔴LIVE:  தலைகீழாகும் உலக வானிலை",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KB0OH-U9VLk",
-            "name": "U.S-Iran War Live: U.S. Strikes 3 Iranian Tankers in Retaliation for Missile Attacks | War Escalates",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KaD6pmgXf_A",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CgljdLQ0ELg",
-            "name": "Delhi Satya Niketan Building Collapsed LIVE Updates: दिल्ली हादसे पर CM Rekha Gupta का बड़ा बयान",
+            "videoId": "nSampJX1eGg",
+            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "GhocGrWVZBE",
-            "name": "Today Headlines | 06 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "ksr6lhWgYrw",
+            "name": "TRUMP LIVE: Trump's Biggest Iran Move Yet? Middle East On Edge | WORLD NEWS | US NEWS LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Z5jYlmLIr1E",
+            "name": "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV",
+            "artist": "V News27"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6Pg2QtmWUNs",
+            "name": "Delhi Satya Niketan Building Collapsed LIVE Updates: मलबे में फंसे छात्र का वीडियो, रेस्क्यू जारी",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {

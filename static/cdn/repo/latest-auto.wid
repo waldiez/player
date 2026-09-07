@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260906T195136.119Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260907T022039.213Z-l4t35t"
   type: "state"
-  created: "2026-09-06T19:51:36.119Z"
+  created: "2026-09-07T02:20:39.213Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260906T195136.119Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260907T022039.213Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,39 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "D0tnGmrzozQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্ব24 সংবাদ"
+        videoId: "1F-R_5iV7qU"
+        name: "Republic TV LIVE: September 6, 2026 | India | Global News | Nepal Floods | ISRO Historic Launch"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YncHsCHrCEM"
-        name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
-        artist: "Times Now"
+        videoId: "boh-zy04A_E"
+        name: "LIVE | Trump’s HUGE Iran Warning: World War III Fears Rise As Announcements Loom!"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X_JjPmaqE1A"
-        name: "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Z0oHjV-2gN4"
-        name: "News Night Live: बदलने जा रहा है दुनिया का नक्शा? | UN world map | Saharanpur | Russia-Ukraine"
-        artist: "DD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NFIX2i_Nt_0"
-        name: "🔴LIVE:  தலைகீழாகும் உலக வானிலை"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KB0OH-U9VLk"
-        name: "U.S-Iran War Live: U.S. Strikes 3 Iranian Tankers in Retaliation for Missile Attacks | War Escalates"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KaD6pmgXf_A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CgljdLQ0ELg"
-        name: "Delhi Satya Niketan Building Collapsed LIVE Updates: दिल्ली हादसे पर CM Rekha Gupta का बड़ा बयान"
+        videoId: "nSampJX1eGg"
+        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GhocGrWVZBE"
-        name: "Today Headlines | 06 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
+        videoId: "ksr6lhWgYrw"
+        name: "TRUMP LIVE: Trump's Biggest Iran Move Yet? Middle East On Edge | WORLD NEWS | US NEWS LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Z5jYlmLIr1E"
+        name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
+        artist: "V News27"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6Pg2QtmWUNs"
+        name: "Delhi Satya Niketan Building Collapsed LIVE Updates: मलबे में फंसे छात्र का वीडियो, रेस्क्यू जारी"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +96,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-06T19:51:36.119Z"
+  exported_at: "2026-09-07T02:20:39.213Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-06T19:51:36.080Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-07T02:20:39.171Z"
+  validation: "validation enabled: accepted 6/6 tracks; maxAgeHours=72 minKeywordHits=1"
