@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-07T17:01:59.309Z",
+    "generatedAt": "2026-09-07T20:59:27.222Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VF8hbdqLAiA",
-            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
-            "artist": "The Savera Times"
+            "videoId": "9rBEMwacx6Y",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "p2rTi-8axEk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CDC WORLD NEWS"
+            "videoId": "rRjY0s5qZV8",
+            "name": "🔴LIVE : యూట్యూబర్ నందన అరెస్ట్ | Youtuber Nandus World Nandana Arrest | ABN",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "9XWAdnPEDJE",
-            "name": "Today Headlines | 07 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "videoId": "-rKf5-epP4Q",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WhbrHE6rrQE",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Qq42WFB7Edw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla  08 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "WorldNews Bangla tv"
+            "videoId": "eFzHlEQU5SE",
+            "name": "🔴LIVE:  CM Vijay | Udhayanidhi Stalin | TVK | DMK | TN Assembly 2026 | EPS | ADMK | KAS | Ministers",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "9nEqGWOywrY",
-            "name": "LIVE: Trump Praises \"Strong\" Talks With Iran to End the War | Trump Latest Live | Trump On Iran",
-            "artist": "ET Now"
+            "videoId": "qhGwnTLrfdI",
+            "name": "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "EeejqNcdujU",
-            "name": "🔴LIVE : ত্রয়োদশ জাতীয় সংসদের তৃতীয় অধিবেশন | ৭ সেপ্টেম্বর ২০২৬ | NTV News",
-            "artist": "NTV News"
+            "videoId": "DFLsYObAops",
+            "name": "LIVE: Russia Slams US 'Pressure Tactics' Against India Ahead of Putin's Trip for the BRICS | IGR",
+            "artist": "India Global Review"
         },
         {
             "mood": "storm",
-            "videoId": "GGqm_FpuePE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 September 2026  বিশ্বজুড়ে এখন যা ঘটছ",
-            "artist": "BanglaWorldNews"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vUWyXT0w8PU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Zae6K_CsQcM",
-            "name": "Delhi Building Collapse News LIVE: सुबह-सुबह दिल्ली से आई दिल चीर देनी वाली खबर LIVE | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2rB6C2Sc0ZE",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 07 ‍SEPTEMBER | World News | International News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "MzTH-jiFWyw",
+            "name": "World Map Changed: दुनिया का नक्शा बदलेगा? भारत ने UN प्रस्ताव का क्यों दिया साथ| New World Map",
+            "artist": "Amar Ujala"
         }
     ],
     "sourceFilters": {
