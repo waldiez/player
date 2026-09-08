@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260907T205927.258Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260908T023306.304Z-l4t35t"
   type: "state"
-  created: "2026-09-07T20:59:27.258Z"
+  created: "2026-09-08T02:33:06.304Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260907T205927.258Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T023306.304Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "9rBEMwacx6Y"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "ALUhGUJVSSQ"
+        name: "LIVE: Youtuber Nandu's World Nandana Arrest! | యూట్యూబర్ నందన అరెస్ట్ | ZEE Telugu News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rRjY0s5qZV8"
-        name: "🔴LIVE : యూట్యూబర్ నందన అరెస్ట్ | Youtuber Nandus World Nandana Arrest | ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-rKf5-epP4Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WhbrHE6rrQE"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.09.2026) | Sathiyam Headlines"
+        videoId: "vNVXWSbNA9U"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eFzHlEQU5SE"
-        name: "🔴LIVE:  CM Vijay | Udhayanidhi Stalin | TVK | DMK | TN Assembly 2026 | EPS | ADMK | KAS | Ministers"
+        videoId: "bSqUYaKRwGQ"
+        name: "🔴LIVE : 20 కోట్ల స్కామ్‌.. జైలుకు నందన | Youtuber Nandus World Nandana Arrest | hmtv"
+        artist: "hmtv Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5xRR8ldkkNk"
+        name: "US News LIVE| Trump's Nuclear Strike On Iran? Iran Goes Completely In shock! | Iran News | War Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YrZBxHZp1J4"
+        name: "LIVE: Gold Price Today | Stock Market Latest Updates | లక్షకే తులం మరింత పడిన బంగారం | ZEE News"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0NYBXqBcauk"
+        name: "ABC World News Tonight With David Muir 9/7/26 | ABC News Today September 7, 2026"
+        artist: "U.V.A Filmz"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TkAvQwW0GMo"
+        name: "Aaj ki taaja khabar 08 September 2026 nonstop news taaja khabar govnews PM Modi SBI UP Bihar monsoon"
+        artist: "GOV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kdZSanyIwK0"
+        name: "🔴LIVE : முன்னாள் அமைச்சர் கே.என்.நேரு கைது? | KN Nehru | DMK | ED Raid"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qhGwnTLrfdI"
-        name: "नेपाल में जलप्रलय तबाही के बाद ताजा हालात LIVE  | Flood News | Bihar | Modi | Balen Shah | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DFLsYObAops"
-        name: "LIVE: Russia Slams US 'Pressure Tactics' Against India Ahead of Putin's Trip for the BRICS | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MzTH-jiFWyw"
-        name: "World Map Changed: दुनिया का नक्शा बदलेगा? भारत ने UN प्रस्ताव का क्यों दिया साथ| New World Map"
-        artist: "Amar Ujala"
+        videoId: "SiQVxx6y1ss"
+        name: "US IRAN WAR LIVE: US Says Three Tankers Hit As Iran Strikes US-Affiliated Ships"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-07T20:59:27.258Z"
+  exported_at: "2026-09-08T02:33:06.304Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-07T20:59:27.222Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-08T02:33:06.264Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
