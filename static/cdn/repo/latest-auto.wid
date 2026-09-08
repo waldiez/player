@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260908T154847.541Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260908T203412.223Z-l4t35t"
   type: "state"
-  created: "2026-09-08T15:48:47.541Z"
+  created: "2026-09-08T20:34:12.223Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T154847.541Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T203412.223Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "0KDTB7e9y2U"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "6202Wsgvn_I"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fc343T19VkM"
-        name: "TBS ৮টার সংবাদ, ৮ সেপ্টেম্বর ২০২৬ | Bangla News Today | World News | The Business Standard"
-        artist: "The Business Standard"
+        videoId: "VtTSGUh8FSY"
+        name: "US IRAN NEWS IVE: US Strikes Iran Nuclear Factory?, World On Red Alert For Global Clash | Iran war"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gCVXqlxNszA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sept 2026 | International News Bangla"
-        artist: "Khobor Srot"
+        videoId: "2rQfyTVjLFU"
+        name: "Iran War LIVE: IRGC Retaliates & Claims Attacks on 6 Ships in Strait of Hormuz! US Strike | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IIhmRj2C4a0"
-        name: "🔴LIVE | CM VIJAY |Udhayanidhi Stalin | விஜய் VS உதயநிதி..ஆர்ப்பரிக்கும் பேரவை.அனல் பறக்கும் விவாதம்"
-        artist: "NewsTamil 24X7"
+        videoId: "ZGHBeCXfU84"
+        name: "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0DelrPZ-kDw"
-        name: "सहारनपुर मस्जिद के  कुएं का खुल गया राज़?LIVE | Saharanpur Masjid Bulldozer Action | Well News| Yogi"
+        videoId: "ZWXIhaIaxXE"
+        name: "Mahasaptah | Maharashtra: शिक्षक दिवस पर दिशा अभियान के विशेष शिक्षकों को सम्मान |  CM Fadnvis"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MLAQwmtYgnc"
+        name: "WORLD NEWS LIVE | US to Attack Iran Any Moment? Trump LIVE | Latest News | Breaking News | US NEWS"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qGdTbzDwUhc"
+        name: "TRUMP LIVE | Trump Warns Putin With Stunning Message, What Happens Next? | TRUMP | PUTIN | WAR NEWS"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MlgubPSqDV4"
+        name: "LIVE: Iran Targets Kuwait In Retaliation For US Strikes! Regional War Escalates | War News | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vNVXWSbNA9U"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4bBxjC6q4PI"
+        name: "PM Modi Rally Vadodara News LIVE: जहां थी पीएम मोदी की रैली, वहां बंदूक लेकर घुसे संदिग्ध | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TGejH31yqk0"
+        name: "सहारनपुर मस्जिद के पास कुएं के अंदर का नजारा देख अधिकारियों के उड़े होश? Saharanpur Mosque | UP News"
         artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K01jC5XOoPo"
-        name: "Police First Reaction on Youtuber Nandu's World Nandana Arrest | Latest Updates | TV5 News"
-        artist: "TV5 News "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1HeGta2d9Z8"
-        name: "బయటపడ్డ నందు ఆడియో LIVE🔴: Youtube Nandu Arrested | Nandu's World UK Visa Controversy |SumanTV Roshan"
-        artist: "SumanTV Digital Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T21StrzFTkU"
-        name: "UN World Map News LIVE: भारत के लिए बड़ी खबर | Pakistan | Kashmir | Shehbaz | PM Modi | Breaking News"
-        artist: "Republic Bharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3rltF0jEmsU"
-        name: "🔴LIVE: యూట్యూబర్ నందన అరెస్ట్! కోట్లల్లో మోసం ..!! || Youtuber Nandus World Nandana Arrest | ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fDxRD3uFNac"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The Daily BBC"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "W6bOo6Jp3ik"
-        name: "World News LIVE | ‘American Army Will…’ | Trump Drops BOMBSHELL, ‘Shocks’ Cabinet | US News"
-        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-08T15:48:47.541Z"
+  exported_at: "2026-09-08T20:34:12.223Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-08T15:48:47.500Z"
+  source_generated_at: "2026-09-08T20:34:12.183Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
