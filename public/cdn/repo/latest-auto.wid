@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260908T102455.558Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260908T154847.541Z-l4t35t"
   type: "state"
-  created: "2026-09-08T10:24:55.558Z"
+  created: "2026-09-08T15:48:47.541Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T102455.558Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T154847.541Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OFcHIrRRW3E"
-        name: "🔴LIVE:YouTuber Nandus World Arrest At Hyderabad Airport |UK Visa Scam | Bigg Boss10 Wild Card Entry"
-        artist: "SumanTV Telugu"
+        videoId: "0KDTB7e9y2U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cpeByPJa2tc"
-        name: "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE"
-        artist: "ET Now"
+        videoId: "fc343T19VkM"
+        name: "TBS ৮টার সংবাদ, ৮ সেপ্টেম্বর ২০২৬ | Bangla News Today | World News | The Business Standard"
+        artist: "The Business Standard"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jveDfEB9i1I"
-        name: "Today Headlines | 08 SEP  2026 | Morning 10 AM Headlines |MorningHeadlines |LatestNews |10amheadline"
-        artist: "Sathiyam News"
+        videoId: "gCVXqlxNszA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sept 2026 | International News Bangla"
+        artist: "Khobor Srot"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DBkdlVJtqjU"
-        name: "LIVE: ABC News Live - Monday, September 7 | ABC News"
-        artist: "ABC News"
+        videoId: "IIhmRj2C4a0"
+        name: "🔴LIVE | CM VIJAY |Udhayanidhi Stalin | விஜய் VS உதயநிதி..ஆர்ப்பரிக்கும் பேரவை.அனல் பறக்கும் விவாதம்"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xieNtYklDfU"
-        name: "Pak-India War | Russia's Deadliest Attacks on Ukraine | China in Action | 8 AM Samaa News Headlines"
-        artist: "SAMAA TV"
+        videoId: "0DelrPZ-kDw"
+        name: "सहारनपुर मस्जिद के  कुएं का खुल गया राज़?LIVE | Saharanpur Masjid Bulldozer Action | Well News| Yogi"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0-1G2sUHivs"
-        name: "Trump Signs Orders LIVE | 'I'd Like To Buy...': Trump Accepts Iran's Offer; US To Ditch Netanyahu?"
+        videoId: "K01jC5XOoPo"
+        name: "Police First Reaction on Youtuber Nandu's World Nandana Arrest | Latest Updates | TV5 News"
+        artist: "TV5 News "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1HeGta2d9Z8"
+        name: "బయటపడ్డ నందు ఆడియో LIVE🔴: Youtube Nandu Arrested | Nandu's World UK Visa Controversy |SumanTV Roshan"
+        artist: "SumanTV Digital Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T21StrzFTkU"
+        name: "UN World Map News LIVE: भारत के लिए बड़ी खबर | Pakistan | Kashmir | Shehbaz | PM Modi | Breaking News"
+        artist: "Republic Bharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3rltF0jEmsU"
+        name: "🔴LIVE: యూట్యూబర్ నందన అరెస్ట్! కోట్లల్లో మోసం ..!! || Youtuber Nandus World Nandana Arrest | ABN"
+        artist: "ABN Telugu "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fDxRD3uFNac"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The Daily BBC"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "W6bOo6Jp3ik"
+        name: "World News LIVE | ‘American Army Will…’ | Trump Drops BOMBSHELL, ‘Shocks’ Cabinet | US News"
         artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wJEQ3roetzs"
-        name: "Breaking News LIVE: US Declares Nuclear Emergency? | Leaves America On High Alert? | US News LIVE'"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GSkflri54-o"
-        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
-        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-08T10:24:55.558Z"
+  exported_at: "2026-09-08T15:48:47.541Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-08T10:24:55.517Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-08T15:48:47.500Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
