@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-09T10:35:10.498Z",
+    "generatedAt": "2026-09-09T15:44:44.331Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JD2fLkwyCYI",
-            "name": "🔴LIVE:  DMK | Udhayanidhi Stalin | MK Stalin | அறிவித்தார் மு.க.ஸ்டாலின் அரண்டுபோன அதிமுக, தவெக",
-            "artist": "NewsTamil 24X7"
+            "videoId": "Ml3oCxl5Qf4",
+            "name": "Breaking News Live | देश - दुनिया की बड़ी खबरें | Delhi Building Collapsed | Today's Hindi News Live",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "AeNmKyxXAU4",
-            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Hindi News | 3 September",
-            "artist": "NDTV India"
+            "videoId": "EWBVRpOs-x8",
+            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Wi8FQR5mpTk",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ০৯.০৯.২০২৬ | Latest News | BD News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "39a-_1IpRpM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "XTy1_Cr_jzo",
-            "name": "[LIVE] Fox & Friends 09/09/2026 Live HD | FOX NEWS TRUMP LIVE September 09, 2026",
-            "artist": "STORYTIME auf Deutsch "
+            "videoId": "8LtGbNjvofk",
+            "name": "Japan Floods LIVE 🔴: Nagoya Underwater After Record 104.5mm Rainfall | World News",
+            "artist": "Asianet News English"
         },
         {
             "mood": "storm",
-            "videoId": "B5Qkg_UEHLM",
-            "name": "🔴LIVE : MK Stalin | DMK | மு.க.ஸ்டாலின் வீட்டில் குவியும் திமுகவினர் | Bye Elections 2026",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YNpHLCzw2I0",
-            "name": "BREAKING LIVE: Iran Captures US Submarine in Hormuz, Revenge Against Oil Tanker Attack",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z1PbXYuuB60",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (09.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4WJNqMdHE7Y",
-            "name": "🔴Live : TVK | DMK | CM VIJAY | திமுகவை ஆக்ரோஷமாய் அடித்த தவெக.. |  TVK VS DMK",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RolpVFOsxyA",
-            "name": "Today Headlines | 09 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "videoId": "q9ROKM51Eeg",
+            "name": "🔴LIVE:  CM விஜயை தோலுரித்த திருமா..",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "efd2VzjqiPs",
-            "name": "BREAKING NEWS LIVE: Trump Makes Major Iran Announcement | Trump Speech LIVE | World News LIVE",
+            "videoId": "7YAbBYIbsqA",
+            "name": "ABP Majha LIVE | 04 PM | 09 September 2026 | Maharashtra LIVE Superfast News | Marathi News",
+            "artist": "ABP MAJHA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5GYVgn7o0Nw",
+            "name": "Today Evening Headlines | 09 SEP 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "VUMWrUh_Yy8",
+            "name": "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News",
             "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MLAQwmtYgnc",
+            "name": "WORLD NEWS LIVE | US to Attack Iran Any Moment? Trump LIVE | Latest News | Breaking News | US NEWS",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
