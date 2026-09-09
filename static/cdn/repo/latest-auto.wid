@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260908T203412.223Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260909T023416.226Z-l4t35t"
   type: "state"
-  created: "2026-09-08T20:34:12.223Z"
+  created: "2026-09-09T02:34:16.226Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260908T203412.223Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260909T023416.226Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "6202Wsgvn_I"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "pVY9Nu1s4v4"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 09Sep"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VtTSGUh8FSY"
-        name: "US IRAN NEWS IVE: US Strikes Iran Nuclear Factory?, World On Red Alert For Global Clash | Iran war"
-        artist: "ET Now World"
+        videoId: "2ngcBvwsAzQ"
+        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
+        artist: "TV5 News "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2rQfyTVjLFU"
-        name: "Iran War LIVE: IRGC Retaliates & Claims Attacks on 6 Ships in Strait of Hormuz! US Strike | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZGHBeCXfU84"
-        name: "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZWXIhaIaxXE"
-        name: "Mahasaptah | Maharashtra: शिक्षक दिवस पर दिशा अभियान के विशेष शिक्षकों को सम्मान |  CM Fadnvis"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MLAQwmtYgnc"
-        name: "WORLD NEWS LIVE | US to Attack Iran Any Moment? Trump LIVE | Latest News | Breaking News | US NEWS"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qGdTbzDwUhc"
-        name: "TRUMP LIVE | Trump Warns Putin With Stunning Message, What Happens Next? | TRUMP | PUTIN | WAR NEWS"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MlgubPSqDV4"
-        name: "LIVE: Iran Targets Kuwait In Retaliation For US Strikes! Regional War Escalates | War News | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vNVXWSbNA9U"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.09.2026) | Sathiyam Headlines"
+        videoId: "f0IT_kMU658"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4bBxjC6q4PI"
-        name: "PM Modi Rally Vadodara News LIVE: जहां थी पीएम मोदी की रैली, वहां बंदूक लेकर घुसे संदिग्ध | Breaking"
+        videoId: "ze7aAXGCzTE"
+        name: "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "W6bOo6Jp3ik"
+        name: "World News LIVE | ‘American Army Will…’ | Trump Drops BOMBSHELL, ‘Shocks’ Cabinet | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Xf43eRCIGfY"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MaQSo72v3cg"
+        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | Hindi News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TGejH31yqk0"
-        name: "सहारनपुर मस्जिद के पास कुएं के अंदर का नजारा देख अधिकारियों के उड़े होश? Saharanpur Mosque | UP News"
-        artist: "NDTV India"
+        videoId: "QPDJA9vH6Ag"
+        name: "🔴 LIVE || UK Announces New Restrictions on Israeli Settlements | Major Policy Shift || ARY News"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2PldPHPjjzA"
+        name: "Iran US War Update: ईरान-अमेरिका युद्ध के ताजा हालात LIVE | Trump | Mojataba | Hormuz War | Top News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-08T20:34:12.223Z"
+  exported_at: "2026-09-09T02:34:16.226Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-08T20:34:12.183Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-09T02:34:16.189Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
