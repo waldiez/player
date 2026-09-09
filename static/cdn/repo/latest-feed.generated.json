@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-09T15:44:44.331Z",
+    "generatedAt": "2026-09-09T20:16:39.356Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Ml3oCxl5Qf4",
-            "name": "Breaking News Live | देश - दुनिया की बड़ी खबरें | Delhi Building Collapsed | Today's Hindi News Live",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EWBVRpOs-x8",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "videoId": "WLKt77D9ZbA",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "39a-_1IpRpM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "6FsQAKAc5XQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "8LtGbNjvofk",
-            "name": "Japan Floods LIVE 🔴: Nagoya Underwater After Record 104.5mm Rainfall | World News",
-            "artist": "Asianet News English"
+            "videoId": "guAY4U09nm8",
+            "name": "DECODE Live: Sudhir Chaudhary | Iran War Oil Crisis | Singapore PM Salary | IAS Officer Rakesh Mehta",
+            "artist": "DD News"
         },
         {
             "mood": "storm",
-            "videoId": "q9ROKM51Eeg",
-            "name": "🔴LIVE:  CM விஜயை தோலுரித்த திருமா..",
+            "videoId": "f0IT_kMU658",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "7YAbBYIbsqA",
-            "name": "ABP Majha LIVE | 04 PM | 09 September 2026 | Maharashtra LIVE Superfast News | Marathi News",
-            "artist": "ABP MAJHA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5GYVgn7o0Nw",
-            "name": "Today Evening Headlines | 09 SEP 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
+            "videoId": "lc34Js1rvAs",
+            "name": "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (09.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "VUMWrUh_Yy8",
-            "name": "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News",
-            "artist": "ET Now"
+            "videoId": "If4z6QfIKWo",
+            "name": "उज्जैन में हनुमान जी का चमत्कार देख सभी चौंके LIVE | Ujjain Hanuman Temple | Bulldozer | Breaking",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "MLAQwmtYgnc",
-            "name": "WORLD NEWS LIVE | US to Attack Iran Any Moment? Trump LIVE | Latest News | Breaking News | US NEWS",
-            "artist": "MIRROR NOW"
+            "videoId": "-O80T9XdWsY",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 09.09.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zRwbPgmW27o",
+            "name": "Maro Netram: నందూస్ నాటకం బట్టబయలు | Nandu's World Nandana Visa Scam | TV5 News",
+            "artist": "TV5 News "
         }
     ],
     "sourceFilters": {
