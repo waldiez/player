@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-10T15:39:38.796Z",
+    "generatedAt": "2026-09-10T20:18:47.830Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aCHtkM-r0WM",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 10.09.2026 | Latest News | BD News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "uhCDY_1SMxQ",
+            "name": "Latest News Live : आज की बड़ी खबरें LIVE | PM Modi | MCD Action | Gandhinagar Building Collapse",
+            "artist": "IndiaTV"
         },
         {
             "mood": "storm",
-            "videoId": "2cIlnKfaIac",
-            "name": "खड़े हनुमान जी मूर्ति पर बड़ा खुलासा?  LIVE | Ujjain Hanuman Temple | Bulldozer | Kade Hanuman JI",
-            "artist": "NDTV India"
+            "videoId": "OuesaazsNB0",
+            "name": "WORLD NEWS LIVE: Is Trump Planning the Next Iran Strike? | New Warning Raises Alarm | US NEWS LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "x3TOejZOOLE",
-            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 10.09.2026 | Latest News | BD News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "kPp_PTHxHQA",
+            "name": "Today News LIVE | BRICS Summit 2026 | PM Modi-Putin Meeting | Mayawati Expelled Akash Anand",
+            "artist": "India TV Speed News"
         },
         {
             "mood": "storm",
-            "videoId": "-boYtgbbgMI",
-            "name": "सहारनपुर मस्जिद कुएं में 'देवस्थान'? मुस्लिमों के उड़े होश LIVE | Saharanpur Masjid Bulldozer Action",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "89sc4k9eovQ",
-            "name": "Today Evening Headlines | 10 SEP 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
+            "videoId": "ye2Oj6srLRU",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "CKXh-TR7qRk",
-            "name": "US-Iran War News Live: Trump Says Iran War Will End After Midterm Elections | Donald Trump News",
-            "artist": "India Today"
+            "videoId": "HORD-r8uyz8",
+            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : 27 के लिए Yogi ने खोला खजाना | Trump",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "7GGnXgw5EaI",
-            "name": "🔴LIVE : TVK candidate list | By Election | இடைத்தேர்தல்.. வேட்பாளர்களை அறிவித்தார் CM விஜய்",
-            "artist": "NewsTamil 24X7"
+            "videoId": "8muZ58tJyrY",
+            "name": "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2xW5pwkylWU",
+            "name": "Debate With Arnab LIVE: Naaraz Fufa Sulks As World Leaders Lineup In Delhi For BRICS",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7bGVsPq2kM8",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3n4YmXARJmU",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 10 september 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7J7HYvsotq8",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "15a6zX4mB_8",
+            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
