@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260909T201639.396Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260910T023558.156Z-l4t35t"
   type: "state"
-  created: "2026-09-09T20:16:39.396Z"
+  created: "2026-09-10T02:35:58.156Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260909T201639.396Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260910T023558.156Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "WLKt77D9ZbA"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update"
+        videoId: "3Hq311xXAu0"
+        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G"
+        artist: "News18 UP Uttarakhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MuLz5SSd2z0"
+        name: "World News LIVE: Putin Meets To Lam In Kremlin, Russia-Vietnam Axis Unlocks New Energy Accord"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gDVz3w_5g4w"
+        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FTh9dIMDZVs"
+        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
+        artist: "TV5 News "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ye2Oj6srLRU"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EFC7tWUNEPI"
+        name: "Breaking News LIVE | Congress Shaken By Trump UFO Revelation Washington Reacts | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6FsQAKAc5XQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "W5GDs4BRzjo"
+        name: "LIVE: Delhi Gears Up For BRICS 2026 Summit With Focus on Russia, China Ties | Spotlight"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "guAY4U09nm8"
-        name: "DECODE Live: Sudhir Chaudhary | Iran War Oil Crisis | Singapore PM Salary | IAS Officer Rakesh Mehta"
-        artist: "DD News"
+        videoId: "oMO3unF7hgM"
+        name: "ABC World News Tonight With David Muir 09/09/26 | ABC News Today September 9, 2026"
+        artist: "Baba BalakNath Vibes "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "f0IT_kMU658"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (09.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "ZZ_NvgH-2Is"
+        name: "ABC World News Tonight With David Muir 9/9/26  | ABC News Today September 09, 2026"
+        artist: "Natural Music"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lc34Js1rvAs"
-        name: "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (09.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews"
-        artist: "Sathiyam News"
+        videoId: "3q9Dx_ag-wo"
+        name: "🔴LIVE : CM Vijay | TVK | கூடாது..CM விஜய்க்கு இடியாய் இறங்கிய செய்தி   | TVK Vijay"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "If4z6QfIKWo"
-        name: "उज्जैन में हनुमान जी का चमत्कार देख सभी चौंके LIVE | Ujjain Hanuman Temple | Bulldozer | Breaking"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-O80T9XdWsY"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ | 09.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zRwbPgmW27o"
-        name: "Maro Netram: నందూస్ నాటకం బట్టబయలు | Nandu's World Nandana Visa Scam | TV5 News"
-        artist: "TV5 News "
+        videoId: "DFPivpVvYRw"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-09T20:16:39.396Z"
+  exported_at: "2026-09-10T02:35:58.156Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-09T20:16:39.356Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-10T02:35:58.112Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
