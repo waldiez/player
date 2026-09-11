@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-11T10:24:40.921Z",
+    "generatedAt": "2026-09-11T15:41:16.362Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CmjlAhDGcuo",
-            "name": "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jWRQjI676ZI",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 11 September 2026",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gmyKUMyp60A",
-            "name": "🔴LIVE :BRICS உச்சிமாநாட்டிற்காக இந்தியா வந்த ரஷ்ய அதிபர் புதின் -பிரதமர் மோடியுடன் முக்கிய சந்திப்பு",
+            "videoId": "b6Aza9X5pbw",
+            "name": "Today Headlines | 11 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "BKozPOgXiOg",
-            "name": "🔴LIVE: Solomon Pappaiah | சாலமன் பாப்பையா காலமானார்",
-            "artist": "Sathiyam News"
+            "videoId": "BENiPT8MuzE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 11 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DESH TV BANGLA "
         },
         {
             "mood": "storm",
-            "videoId": "fQhurwbbvn4",
-            "name": "BRICS Summit 2026 LIVE: भारत मंडपम से सीधा लाइव | India-Russia Big Deal | Putin | PM Modi | Iran",
+            "videoId": "JwSmUFmNt-4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "X5EkBTDyRwg",
+            "name": "PM Modi-Putin Meeting News LIVE: मोदी-पुतिन की महामुलाकात, दिल्ली से सीधे LIVE | BRICS Summit 2026",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "a-uyzBeov3A",
-            "name": "Top News: बड़ी खबरें | BRICS Summit 2026 | Vladimir Putin | Xi Jinping | UP Election | US Iran War",
-            "artist": "ABP NEWS"
+            "videoId": "AuYTpwY--mM",
+            "name": "ABP Majha LIVE | 11 September 2026 | Maharashtra Politics | Latest News | Marathi News 24/7",
+            "artist": "ABP MAJHA"
         },
         {
             "mood": "storm",
-            "videoId": "AT-LrnpvZrQ",
-            "name": "Iran Visit In BRICS Summit 2026 LIVE: ब्रिक्स में ईरान की ENTRY | Masoud Pezeshkian | India-Iran",
-            "artist": "ABP NEWS"
+            "videoId": "0tVLhEQV58Q",
+            "name": "BRICS SUMMIT 2026 LIVE: World Leaders Arrive In New Delhi | Narendra Modi, Putin, Xi Meeting LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "VeO0XBVOi5I",
-            "name": "US-Iran War LIVE: Iran's Carrier Killer Claims New Attack On US Warship, US Navy On Alert |WION",
-            "artist": "WION"
+            "videoId": "rmEYXbro3pI",
+            "name": "LIVE: Modi-Putin Bilateral Trump Can’t Ignore: Key Meet In New Delhi Before BRICS | Firstpost Live",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "H-X0Vb1zoL8",
-            "name": "Putin India Visit LIVE: Russian President Vladimir Putin Lands in New Delhi for BRICS Summit | IGR",
-            "artist": "India Global Review"
+            "videoId": "2u5VujVlVac",
+            "name": "BRICS Summit 2026 Live: Why BRICS Matters For India | Xi Jinping | China | Putin | PM Modi | Russia",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "63GnKLYMMJQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World 24"
+            "videoId": "7jYy4u3ihNo",
+            "name": "Aaj Ki Taaza Khabar LIVE | Delhi Bulldozer Action | Ujjain Hanuman Mandir | Yogi | Modi | Bihar",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "620NRissaGQ",
+            "name": "BRICS Summit 2026: अभी-अभी: ईरान का विमान पहुंचा भारत | Masoud Pezeshkian | Xi Jinping | PM Modi",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LVIOaU360NE",
+            "name": "BRICS Summit 2026 LIVE: Minute-By-Minute Updates | PM Modi, Putin, Xi & World Leaders In New Delhi",
+            "artist": "NDTV Profit"
         }
     ],
     "sourceFilters": {
