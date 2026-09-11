@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260911T022941.438Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260911T102440.961Z-l4t35t"
   type: "state"
-  created: "2026-09-11T02:29:41.438Z"
+  created: "2026-09-11T10:24:40.961Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260911T022941.438Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260911T102440.961Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vbghNYnwMTg"
-        name: "Iran War LIVE: IRGC Retaliates & Claims Attacks on 6 Ships in Strait of Hormuz! US Strike | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XGqfHf8_D38"
-        name: "Republic TV LIVE: September 11, 2026 | India | Global News | BRICS | PM Modi | Russia | China | Iran"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "e59z1dWuPC8"
-        name: "BREAKING NEWS LIVE: Yogi | Modi | Rahul Gandhi | Mamata Banerjee | Kejriwal | Current Affair News"
-        artist: "Next News Post Hindi News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EQyNj-hH6I0"
-        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
-        artist: "TV5 News "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "d46Z3n9YgGo"
-        name: "Sandeep Chaudhary LIVE: ट्रंप दुनिया को दिखाए हेकड़ी..खुद बांटे रेवड़ी! | BRICS Summit 2026 | Hormuz"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "umhIuzj_px0"
-        name: "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zCtoKgo752c"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "U0TN42IHAAc"
-        name: "उज्जैन में हनुमान जी का चमत्कार देख सभी चौंके LIVE | Ujjain Hanuman Temple | Bulldozer | Breaking"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OPx-l3ES5cs"
-        name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
+        videoId: "CmjlAhDGcuo"
+        name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3eEB91oFIVo"
-        name: "Poland narrowly avoided a Russian attack on its border | World News Tonight"
-        artist: "TVP WORLD"
+        videoId: "jWRQjI676ZI"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 11 September 2026"
+        artist: "CK Time TV North America"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gmyKUMyp60A"
+        name: "🔴LIVE :BRICS உச்சிமாநாட்டிற்காக இந்தியா வந்த ரஷ்ய அதிபர் புதின் -பிரதமர் மோடியுடன் முக்கிய சந்திப்பு"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BKozPOgXiOg"
+        name: "🔴LIVE: Solomon Pappaiah | சாலமன் பாப்பையா காலமானார்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fQhurwbbvn4"
+        name: "BRICS Summit 2026 LIVE: भारत मंडपम से सीधा लाइव | India-Russia Big Deal | Putin | PM Modi | Iran"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "a-uyzBeov3A"
+        name: "Top News: बड़ी खबरें | BRICS Summit 2026 | Vladimir Putin | Xi Jinping | UP Election | US Iran War"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AT-LrnpvZrQ"
+        name: "Iran Visit In BRICS Summit 2026 LIVE: ब्रिक्स में ईरान की ENTRY | Masoud Pezeshkian | India-Iran"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VeO0XBVOi5I"
+        name: "US-Iran War LIVE: Iran's Carrier Killer Claims New Attack On US Warship, US Navy On Alert |WION"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H-X0Vb1zoL8"
+        name: "Putin India Visit LIVE: Russian President Vladimir Putin Lands in New Delhi for BRICS Summit | IGR"
+        artist: "India Global Review"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "63GnKLYMMJQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD World 24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-11T02:29:41.438Z"
+  exported_at: "2026-09-11T10:24:40.961Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-11T02:29:41.408Z"
+  source_generated_at: "2026-09-11T10:24:40.921Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
