@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-10T20:18:47.830Z",
+    "generatedAt": "2026-09-11T02:29:41.408Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uhCDY_1SMxQ",
-            "name": "Latest News Live : आज की बड़ी खबरें LIVE | PM Modi | MCD Action | Gandhinagar Building Collapse",
-            "artist": "IndiaTV"
+            "videoId": "vbghNYnwMTg",
+            "name": "Iran War LIVE: IRGC Retaliates & Claims Attacks on 6 Ships in Strait of Hormuz! US Strike | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "OuesaazsNB0",
-            "name": "WORLD NEWS LIVE: Is Trump Planning the Next Iran Strike? | New Warning Raises Alarm | US NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kPp_PTHxHQA",
-            "name": "Today News LIVE | BRICS Summit 2026 | PM Modi-Putin Meeting | Mayawati Expelled Akash Anand",
-            "artist": "India TV Speed News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ye2Oj6srLRU",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HORD-r8uyz8",
-            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : 27 के लिए Yogi ने खोला खजाना | Trump",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8muZ58tJyrY",
-            "name": "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2xW5pwkylWU",
-            "name": "Debate With Arnab LIVE: Naaraz Fufa Sulks As World Leaders Lineup In Delhi For BRICS",
+            "videoId": "XGqfHf8_D38",
+            "name": "Republic TV LIVE: September 11, 2026 | India | Global News | BRICS | PM Modi | Russia | China | Iran",
             "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "7bGVsPq2kM8",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "e59z1dWuPC8",
+            "name": "BREAKING NEWS LIVE: Yogi | Modi | Rahul Gandhi | Mamata Banerjee | Kejriwal | Current Affair News",
+            "artist": "Next News Post Hindi News"
         },
         {
             "mood": "storm",
-            "videoId": "3n4YmXARJmU",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 10 september 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "EQyNj-hH6I0",
+            "name": "10 Minutes 50 News | Latest Telugu News Updates | TV5 News",
+            "artist": "TV5 News "
         },
         {
             "mood": "storm",
-            "videoId": "7J7HYvsotq8",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "videoId": "d46Z3n9YgGo",
+            "name": "Sandeep Chaudhary LIVE: ट्रंप दुनिया को दिखाए हेकड़ी..खुद बांटे रेवड़ी! | BRICS Summit 2026 | Hormuz",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "umhIuzj_px0",
+            "name": "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zCtoKgo752c",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U0TN42IHAAc",
+            "name": "उज्जैन में हनुमान जी का चमत्कार देख सभी चौंके LIVE | Ujjain Hanuman Temple | Bulldozer | Breaking",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OPx-l3ES5cs",
+            "name": "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "15a6zX4mB_8",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
-            "artist": "Times Now"
+            "videoId": "3eEB91oFIVo",
+            "name": "Poland narrowly avoided a Russian attack on its border | World News Tonight",
+            "artist": "TVP WORLD"
         }
     ],
     "sourceFilters": {

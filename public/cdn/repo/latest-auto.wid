@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260910T201847.873Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260911T022941.438Z-l4t35t"
   type: "state"
-  created: "2026-09-10T20:18:47.873Z"
+  created: "2026-09-11T02:29:41.438Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260910T201847.873Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260911T022941.438Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "uhCDY_1SMxQ"
-        name: "Latest News Live : आज की बड़ी खबरें LIVE | PM Modi | MCD Action | Gandhinagar Building Collapse"
-        artist: "IndiaTV"
+        videoId: "vbghNYnwMTg"
+        name: "Iran War LIVE: IRGC Retaliates & Claims Attacks on 6 Ships in Strait of Hormuz! US Strike | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OuesaazsNB0"
-        name: "WORLD NEWS LIVE: Is Trump Planning the Next Iran Strike? | New Warning Raises Alarm | US NEWS LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kPp_PTHxHQA"
-        name: "Today News LIVE | BRICS Summit 2026 | PM Modi-Putin Meeting | Mayawati Expelled Akash Anand"
-        artist: "India TV Speed News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ye2Oj6srLRU"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HORD-r8uyz8"
-        name: "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi LIVE : 27 के लिए Yogi ने खोला खजाना | Trump"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8muZ58tJyrY"
-        name: "Trump Emergency Warning Live | Message Shocks World Leaders | WORLD NEWS | TRUMP LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2xW5pwkylWU"
-        name: "Debate With Arnab LIVE: Naaraz Fufa Sulks As World Leaders Lineup In Delhi For BRICS"
+        videoId: "XGqfHf8_D38"
+        name: "Republic TV LIVE: September 11, 2026 | India | Global News | BRICS | PM Modi | Russia | China | Iran"
         artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7bGVsPq2kM8"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "e59z1dWuPC8"
+        name: "BREAKING NEWS LIVE: Yogi | Modi | Rahul Gandhi | Mamata Banerjee | Kejriwal | Current Affair News"
+        artist: "Next News Post Hindi News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3n4YmXARJmU"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 10 september 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "EQyNj-hH6I0"
+        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
+        artist: "TV5 News "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7J7HYvsotq8"
-        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        videoId: "d46Z3n9YgGo"
+        name: "Sandeep Chaudhary LIVE: ट्रंप दुनिया को दिखाए हेकड़ी..खुद बांटे रेवड़ी! | BRICS Summit 2026 | Hormuz"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "umhIuzj_px0"
+        name: "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zCtoKgo752c"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "U0TN42IHAAc"
+        name: "उज्जैन में हनुमान जी का चमत्कार देख सभी चौंके LIVE | Ujjain Hanuman Temple | Bulldozer | Breaking"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OPx-l3ES5cs"
+        name: "TRUMP SPEECH LIVE | Trump Drops Bombshell On Iran | Major Move Shocks World Leaders Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "15a6zX4mB_8"
-        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
-        artist: "Times Now"
+        videoId: "3eEB91oFIVo"
+        name: "Poland narrowly avoided a Russian attack on its border | World News Tonight"
+        artist: "TVP WORLD"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-10T20:18:47.873Z"
+  exported_at: "2026-09-11T02:29:41.438Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-10T20:18:47.830Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-11T02:29:41.408Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
