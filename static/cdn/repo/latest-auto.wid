@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260911T201907.518Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260912T023806.980Z-l4t35t"
   type: "state"
-  created: "2026-09-11T20:19:07.518Z"
+  created: "2026-09-12T02:38:06.980Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260911T201907.518Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260912T023806.980Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QZucLvN3IDs"
-        name: "LIVE: 9/11 memorial ceremony in New York"
-        artist: "Associated Press"
+        videoId: "A3NxDRA7WBw"
+        name: "BRICS Summit 2026 Live: Why BRICS Matters For India | Xi Jinping | China | Putin | PM Modi | Russia"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9nbhDHWsw7Y"
-        name: "FULL MEETING: Putin Meets Malaysia’s Prime Minister at BRICS | Russia-Malaysia Ties Strengthen |AC1E"
+        videoId: "YEbvDovqXVI"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Cf2uNmI2BM4"
+        name: "BRICS Summit 2026 News LIVE: जहां हो रहा है BRICS समिट, वहां से सीधे LIVE | PM Modi | Putin | Delhi"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7jYy4u3ihNo"
+        name: "Aaj Ki Taaza Khabar LIVE | Delhi Bulldozer Action | Ujjain Hanuman Mandir | Yogi | Modi | Bihar"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pP-85yDWHZk"
+        name: "BRICS 2026: भारत-चीन-रूस की रफ्तार, क्या बन रहा New World Order? | Modi-Putin | Xi Jinping"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mznwzcV337U"
+        name: "LIVE: Russian President Putin Holds Key Bilateral Meetings in New Delhi Ahead of BRICS Summit | AC1E"
         artist: "DWS News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Allxz1KAbTU"
-        name: "🔴LIVE : CM Vijay | TVK | Ajithkumar | CM விஜய் குறித்து மனம் திறந்த அஜித்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zThokyZWBk0"
-        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | BRICS Summit 2026 | PM Modi | Headlines Today"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hxOGjvUXHTQ"
-        name: "9/11: 25 years later, America Remembers"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cBfBrEOYfcs"
-        name: "Good Morning America Full Broadcast - Friday September 11, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3NEv3PjPGBc"
-        name: "DECODE Live: Sudhir Chaudhary | BRICS India 2026 | PM Modi | Putin Delhi Security | Flying Kremlin"
-        artist: "DD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1666BMZAr6o"
-        name: "ChakraView: Sumit Awasthi | नई दिल्ली बनी पावर सेंटर, BRICS से ट्रंप को टेंशन ! | World News Latest"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BYuVSPTQOic"
-        name: "Poochta Hai Bharat With Arnab LIVE: दुनिया में भारत की गूंज, विपक्ष में सन्नाटा! | BRICS | PM Modi"
-        artist: "Republic Bharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vw7Ua4OoghU"
-        name: "WHITE HOUSE BRIEFING LIVE: Trump’s New Russia Announcement | Breaking US News | TRUMP LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uqKTIqRiTgE"
-        name: "BRICS and New World Order: ईरान-रूस-चीन-भारत में बड़ी डील, ब्रिक्स से बनेगा नया वर्ल्ड ऑर्डर? | N18G"
-        artist: "News18 Punjab"
+        videoId: "zCtoKgo752c"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-11T20:19:07.518Z"
+  exported_at: "2026-09-12T02:38:06.980Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-11T20:19:07.486Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-12T02:38:06.938Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
