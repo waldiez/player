@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-12T14:49:23.957Z",
+    "generatedAt": "2026-09-12T20:00:40.455Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JVAKX7rBDCo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Khobor Srot"
+            "videoId": "YEbvDovqXVI",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "EycRl_dCCi0",
-            "name": "🔴LIVE : அமைச்சர் நிர்மல்குமார் குறித்து ஆ.ராசா சர்ச்சை பேச்சு | A.Raasa Speech | Nirmalkumar | Misa",
-            "artist": "NewsTamil 24X7"
+            "videoId": "jBwln3e128I",
+            "name": "LIVE | BRICS 2026: India's Modi Welcomes World Leaders To New Delhi For Landmark 18th Summit | APT",
+            "artist": "APT"
         },
         {
             "mood": "storm",
-            "videoId": "PNKc_lHOH8s",
-            "name": "BRICS Summit 2026 LIVE: 2 बजते ही भारत मंडपम से आई बड़ी खबर सामने | XI Jinping | Putin | PM Modi",
-            "artist": "ABP NEWS"
+            "videoId": "E3s_wwfCWz0",
+            "name": "LIVE with Dr. Shahid Masood | Deception upon deception! Iran US War | Houthis vs Saudia | 12 Sep26",
+            "artist": "GNN"
         },
         {
             "mood": "storm",
-            "videoId": "SenYU2fNbq4",
-            "name": "BRICS Summit 2026: दिल्ली पहुंचे जिनपिंग..स्वागत देखकर दुनिया हैरान! LIVE  I Xi Jinping I PM Modi",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "J1QNQxOlOIo",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 12 september 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "k_gJZUSCmkY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
+            "videoId": "41XRkOjhMlA",
+            "name": "BRICS 2026 LIVE: What's In Menu At BRICS Dinner? All Veg Millet Based Menu | Xi Jinping | Putin",
+            "artist": "DNAIndiaNews"
         },
         {
             "mood": "storm",
-            "videoId": "K_i-XxdI6pw",
-            "name": "BRICS Summit LIVE | World Leaders Arrive in Delhi For Major Global Power Summit | Xi Jinping | Putin",
-            "artist": "Hindustan Times"
+            "videoId": "5lDYNEGbMb0",
+            "name": "BRICS Summit 2026 LIVE | India Hosts BRICS 2026 | PM Modi Welcomes World Leaders | IGR",
+            "artist": "India Global Review"
         },
         {
             "mood": "storm",
-            "videoId": "0o1WvNyP0Bg",
-            "name": "Xi Jinping Visit India: भारत, China और Russia, बन गया New World Order? BRICS Summit 2026 | News18",
-            "artist": "News18 India"
+            "videoId": "-CbClpytIY8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DESH TV BANGLA "
         },
         {
             "mood": "storm",
-            "videoId": "MWaJS2N2gGo",
-            "name": "BRICS Summit 2026 Updates LIVE: भारत मंडपम से ABP न्यूज सीधा लाइव | Modi | Putin | Delhi | Jinping",
-            "artist": "ABP NEWS"
+            "videoId": "gcdtQGmSYrs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6vtvpFlUxFM",
+            "name": "🔴Live |  ଜିନପିଙ୍ଗ ପହଞ୍ଚୁ ପହଞ୍ଚୁ ହଠାତ୍…. | Chinese President Xi Jinping Arrives in New Delhi | OTV",
+            "artist": "OTV"
         }
     ],
     "sourceFilters": {

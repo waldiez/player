@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260912T144923.994Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260912T200040.500Z-l4t35t"
   type: "state"
-  created: "2026-09-12T14:49:23.994Z"
+  created: "2026-09-12T20:00:40.500Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260912T144923.994Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260912T200040.500Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "JVAKX7rBDCo"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Khobor Srot"
+        videoId: "YEbvDovqXVI"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EycRl_dCCi0"
-        name: "🔴LIVE : அமைச்சர் நிர்மல்குமார் குறித்து ஆ.ராசா சர்ச்சை பேச்சு | A.Raasa Speech | Nirmalkumar | Misa"
-        artist: "NewsTamil 24X7"
+        videoId: "jBwln3e128I"
+        name: "LIVE | BRICS 2026: India's Modi Welcomes World Leaders To New Delhi For Landmark 18th Summit | APT"
+        artist: "APT"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PNKc_lHOH8s"
-        name: "BRICS Summit 2026 LIVE: 2 बजते ही भारत मंडपम से आई बड़ी खबर सामने | XI Jinping | Putin | PM Modi"
-        artist: "ABP NEWS"
+        videoId: "E3s_wwfCWz0"
+        name: "LIVE with Dr. Shahid Masood | Deception upon deception! Iran US War | Houthis vs Saudia | 12 Sep26"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SenYU2fNbq4"
-        name: "BRICS Summit 2026: दिल्ली पहुंचे जिनपिंग..स्वागत देखकर दुनिया हैरान! LIVE  I Xi Jinping I PM Modi"
-        artist: "TV9 Bharatvarsh"
+        videoId: "J1QNQxOlOIo"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 12 september 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "k_gJZUSCmkY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
+        videoId: "41XRkOjhMlA"
+        name: "BRICS 2026 LIVE: What's In Menu At BRICS Dinner? All Veg Millet Based Menu | Xi Jinping | Putin"
+        artist: "DNAIndiaNews"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "K_i-XxdI6pw"
-        name: "BRICS Summit LIVE | World Leaders Arrive in Delhi For Major Global Power Summit | Xi Jinping | Putin"
-        artist: "Hindustan Times"
+        videoId: "5lDYNEGbMb0"
+        name: "BRICS Summit 2026 LIVE | India Hosts BRICS 2026 | PM Modi Welcomes World Leaders | IGR"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0o1WvNyP0Bg"
-        name: "Xi Jinping Visit India: भारत, China और Russia, बन गया New World Order? BRICS Summit 2026 | News18"
-        artist: "News18 India"
+        videoId: "-CbClpytIY8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 12 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DESH TV BANGLA "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MWaJS2N2gGo"
-        name: "BRICS Summit 2026 Updates LIVE: भारत मंडपम से ABP न्यूज सीधा लाइव | Modi | Putin | Delhi | Jinping"
-        artist: "ABP NEWS"
+        videoId: "gcdtQGmSYrs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6vtvpFlUxFM"
+        name: "🔴Live |  ଜିନପିଙ୍ଗ ପହଞ୍ଚୁ ପହଞ୍ଚୁ ହଠାତ୍…. | Chinese President Xi Jinping Arrives in New Delhi | OTV"
+        artist: "OTV"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-12T14:49:23.994Z"
+  exported_at: "2026-09-12T20:00:40.500Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-12T14:49:23.957Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-12T20:00:40.455Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
