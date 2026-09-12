@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-12T02:38:06.938Z",
+    "generatedAt": "2026-09-12T09:54:44.041Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "A3NxDRA7WBw",
-            "name": "BRICS Summit 2026 Live: Why BRICS Matters For India | Xi Jinping | China | Putin | PM Modi | Russia",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YEbvDovqXVI",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Cf2uNmI2BM4",
-            "name": "BRICS Summit 2026 News LIVE: जहां हो रहा है BRICS समिट, वहां से सीधे LIVE | PM Modi | Putin | Delhi",
+            "videoId": "NYOv8coFCXY",
+            "name": "BRICS Summit 2026 LIVE: भारत में उतरे खूंखार चीनी कमांडो! | XI Jinping | Delhi Airport | Security",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "7jYy4u3ihNo",
-            "name": "Aaj Ki Taaza Khabar LIVE | Delhi Bulldozer Action | Ujjain Hanuman Mandir | Yogi | Modi | Bihar",
-            "artist": "NDTV India"
+            "videoId": "mIRWgCUH9nI",
+            "name": "BRICS Summit 2026 LIVE: जैसे ही भारत पहुंचे शी जिनपिंग, हुआ बड़ा ऐलान | India-China Direct Flight",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "pP-85yDWHZk",
-            "name": "BRICS 2026: भारत-चीन-रूस की रफ्तार, क्या बन रहा New World Order? | Modi-Putin | Xi Jinping",
-            "artist": "News18 India"
+            "videoId": "cViXY0Ee8QE",
+            "name": "BRICS Summit 2026 LIVE: WION Brings You Exclusive Coverage From New Delhi | WION Live",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "mznwzcV337U",
-            "name": "LIVE: Russian President Putin Holds Key Bilateral Meetings in New Delhi Ahead of BRICS Summit | AC1E",
-            "artist": "DWS News"
+            "videoId": "ImUJUZunYW8",
+            "name": "WORLD NEWS LIVE: Trump’s Deadly Ultimatum to Iran | Iran War Tensions Escalate | Breaking News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zCtoKgo752c",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "i3cYU6yko_Y",
+            "name": "BRICS Summit 2026 LIVE: भारत मंडपम से सीधा लाइव | India-Russia Big Deal | Putin | PM Modi | Iran",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bi4_ThRFPzA",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 12 September 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dsGX5fKBDIU",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 12 September 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "v-R7WrfyTB4",
+            "name": "🔴LIVE : Brics | Modi | india | Putin | Russia | டெல்லியில் ஒன்றிணையும் உலக சக்திகள்.. BRICS திருவிழா",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uBoMHl4WarY",
+            "name": "LIVE | Donald Trump And His Cabinet Issues Fresh Warning | TRUMP | WORLD NEWS LIVE",
+            "artist": "NewsHoundLive"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2j-N76PBBoo",
+            "name": "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ১২.০৯.২০২৬ | Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZH3cyQn3bIk",
+            "name": "XI Jinping Grand Welcome In India LIVE: शी जिनपिंग का जोरदार स्वागत | Palam Airport Exclusive",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
