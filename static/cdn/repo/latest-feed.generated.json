@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-13T10:54:58.783Z",
+    "generatedAt": "2026-09-13T15:26:46.851Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CGQm1MsUX00",
-            "name": "TRUMP BIG ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "K97tffS4eTk",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 13 September 2026",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "t9tCVWU8Znw",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "id9vC1IhD6o",
-            "name": "BRICS Summit 2026: दिल्ली से रवाना हुए पुतिन! LIVE | Putin | PM Modi India-Russia Relation |Top News",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3xoyKmep69I",
-            "name": "🔴LIVE :  \"சகிக்க முடியவில்லை..\" ஆ.ராசாவுக்கு அதிர்ச்சி! | A.Raasa Speech | DMK Controversy",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JqDuZcItJw4",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 13-09-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "Hs5lSfVEZXg",
-            "name": "BRICS Summit 2026 LIVE: भारत मंडपम से ABP न्यूज सीधा लाइव | PM Modi | Putin | XI Jinping |",
+            "videoId": "oX9Nz0DDa1o",
+            "name": "Houthi Attack on Saudi Arab News LIVE: 'अल्लाह की जीत', हूतियों ने कहते हुए लाल सागर तट किया कब्जा!",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4jt9CnQrjJQ",
-            "name": "BRICS में शाही डिनर भारत मंडपम से सीधा LIVE | PM Modi | Putin | Jinping | Bharat Mandpam | Breaking",
-            "artist": "NDTV India"
+            "videoId": "saTbZuZi1l0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ar6gB6EK5M0",
+            "name": "Donald Trump Announcement Live | Trump Makes Major Statement From The White House | US Iran War",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ZLg535xf8c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sept 2026 | International News",
+            "artist": "Khobor Srot"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W8sP8qGpNlU",
+            "name": "BRICS Summit 2026 LIVE: किसी ने  सोचा नहीं था कि ब्रिक्स समिट के LAST दिन ये हो जाएगा, उड़े होश!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8Pkk2Id6vcE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "GLOBAL UPDATE BANGLA"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JVDcjUCkrrI",
+            "name": "LIVE | 5 Biggest BRICS Reboots: Takeaways From Meeting Loaded With Meaning | Firstpost Live",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PrYI0XZfIxQ",
+            "name": "Big Breaking on Oil Pipeline Attack News LIVE: 200 पार जाएंगे पेट्रोल के दाम..? | Petrol Price Today",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CYMC2H5ZxaM",
+            "name": "BRICS Summit 2026 LIVE: World Leaders Depart New Delhi After Concluding BRICS Summit 2026",
+            "artist": "India Global Review"
         }
     ],
     "sourceFilters": {
