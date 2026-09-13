@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-13T15:26:46.851Z",
+    "generatedAt": "2026-09-13T20:06:59.822Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oX9Nz0DDa1o",
-            "name": "Houthi Attack on Saudi Arab News LIVE: 'अल्लाह की जीत', हूतियों ने कहते हुए लाल सागर तट किया कब्जा!",
-            "artist": "ABP NEWS"
+            "videoId": "IDEo3PWcpK0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "saTbZuZi1l0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "1-vZn2JqaNk",
+            "name": "🔴LIVE : கேரளத்தில் கால்பதித்த தவெக! | TVK in Keralam | CM Vijay | TVK Govt",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "Ar6gB6EK5M0",
-            "name": "Donald Trump Announcement Live | Trump Makes Major Statement From The White House | US Iran War",
-            "artist": "ET Now World"
+            "videoId": "HhfB232vqOY",
+            "name": "LIVE with Dr. Shahid Masood | Spreading chaos | 13 Sep 26 I GNN",
+            "artist": "GNN"
         },
         {
             "mood": "storm",
-            "videoId": "2ZLg535xf8c",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sept 2026 | International News",
-            "artist": "Khobor Srot"
+            "videoId": "D5q09bLTNCM",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : भारत में 'दावत', पाक में मातम ! Modi | Jinping",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "W8sP8qGpNlU",
-            "name": "BRICS Summit 2026 LIVE: किसी ने  सोचा नहीं था कि ब्रिक्स समिट के LAST दिन ये हो जाएगा, उड़े होश!",
-            "artist": "ABP NEWS"
+            "videoId": "Z--qT99qGyo",
+            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "8Pkk2Id6vcE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JVDcjUCkrrI",
-            "name": "LIVE | 5 Biggest BRICS Reboots: Takeaways From Meeting Loaded With Meaning | Firstpost Live",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PrYI0XZfIxQ",
-            "name": "Big Breaking on Oil Pipeline Attack News LIVE: 200 पार जाएंगे पेट्रोल के दाम..? | Petrol Price Today",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CYMC2H5ZxaM",
-            "name": "BRICS Summit 2026 LIVE: World Leaders Depart New Delhi After Concluding BRICS Summit 2026",
-            "artist": "India Global Review"
+            "videoId": "4KFvbH3pT7o",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
