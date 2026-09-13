@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-13T02:36:36.051Z",
+    "generatedAt": "2026-09-13T10:54:58.783Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "B2k10RE6LEM",
-            "name": "BRICS Summit LIVE : World leaders Gather for Family Photo I Putin I Xi Jinping I PM Modi | India",
-            "artist": "Mint"
+            "videoId": "CGQm1MsUX00",
+            "name": "TRUMP BIG ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "_oHFMRA-A1s",
-            "name": "🔴LIVE: Le Mans Silverstone Race | Mass Look-ல் தல தளபதி என்ட்ரி | Ajith Kumar | CM Vijay",
+            "videoId": "K97tffS4eTk",
+            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 13 September 2026",
+            "artist": "CK Time TV North America"
+        },
+        {
+            "mood": "storm",
+            "videoId": "t9tCVWU8Znw",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "id9vC1IhD6o",
+            "name": "BRICS Summit 2026: दिल्ली से रवाना हुए पुतिन! LIVE | Putin | PM Modi India-Russia Relation |Top News",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3xoyKmep69I",
+            "name": "🔴LIVE :  \"சகிக்க முடியவில்லை..\" ஆ.ராசாவுக்கு அதிர்ச்சி! | A.Raasa Speech | DMK Controversy",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "rBsUcPvWxkM",
-            "name": "Sandeep Chaudhary LIVE: BRICS का साझा बयान...खाड़ी में थमेगा घमासान? | XI Jinping | Putin | PM Modi",
+            "videoId": "JqDuZcItJw4",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 13-09-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "Hs5lSfVEZXg",
+            "name": "BRICS Summit 2026 LIVE: भारत मंडपम से ABP न्यूज सीधा लाइव | PM Modi | Putin | XI Jinping |",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "svTBwA6NISw",
-            "name": "Petrol Price Hike News LIVE: आधी रात होते ही पेट्रोल 200 पार?, तेल की पाइपलाइन पर हमले से हाहाकार!",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bAUIxM11hmw",
-            "name": "ABC World News Tonight With David Muir 09/12/26 | ABC News Today September 12, 2026",
-            "artist": "Taza Rasiya"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FJ_OgJQl0Ig",
-            "name": "BRICS 2026 LIVE: World Leaders Arrive In New Delhi For 18th BRICS Summit | BRICS FORMAL INAUGRATION",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hR6p9g8NtLY",
-            "name": "BIG Breaking: Xi Jinping in India! 🔴 live | BRICS 2026 | Latest World News",
-            "artist": "MyNation"
-        },
-        {
-            "mood": "storm",
-            "videoId": "y3sEKkxoLOM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zuT45mLYku4",
-            "name": "BRICS Summit 2026 LIVE: PM Modi Hosts Gala Dinner for World Leaders in Delhi",
-            "artist": "Times Now"
+            "videoId": "4jt9CnQrjJQ",
+            "name": "BRICS में शाही डिनर भारत मंडपम से सीधा LIVE | PM Modi | Putin | Jinping | Bharat Mandpam | Breaking",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
