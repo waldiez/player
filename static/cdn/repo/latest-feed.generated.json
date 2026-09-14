@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-13T20:06:59.822Z",
+    "generatedAt": "2026-09-14T02:52:29.779Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IDEo3PWcpK0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.09.2026) | Sathiyam Headlines",
+            "videoId": "BpO3faGm3Jo",
+            "name": "Aaj Ki Taaza Khabar LIVE: 13 September 2026 | BRICS Summit 2026 | PM Modi | Hindi News |Taaja Khabar",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zKHEqf_UVfY",
+            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BnXFSnFSw6E",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Sept. 13, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kWWtE08HlXo",
+            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9fvmTa9meO0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "1-vZn2JqaNk",
-            "name": "🔴LIVE : கேரளத்தில் கால்பதித்த தவெக! | TVK in Keralam | CM Vijay | TVK Govt",
-            "artist": "NewsTamil 24X7"
+            "videoId": "-Wwldpq4VuM",
+            "name": "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | 14 September",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "HhfB232vqOY",
-            "name": "LIVE with Dr. Shahid Masood | Spreading chaos | 13 Sep 26 I GNN",
-            "artist": "GNN"
+            "videoId": "rBqvyxjCL-s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 14 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bangla Protidin"
         },
         {
             "mood": "storm",
-            "videoId": "D5q09bLTNCM",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : भारत में 'दावत', पाक में मातम ! Modi | Jinping",
-            "artist": "NDTV India"
+            "videoId": "3diX2aLZiPM",
+            "name": "🔴LIVE : DMK | TVK | பூதாகாரமாகும் ஆ.ராசா பேச்சு - வீடியோ ஆதாரத்துடன் தவெக எடுத்த ஆக்‌ஷன்",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "Z--qT99qGyo",
-            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4KFvbH3pT7o",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "ecPgstEKtjw",
+            "name": "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
