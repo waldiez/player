@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260914T025229.815Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260914T112820.897Z-l4t35t"
   type: "state"
-  created: "2026-09-14T02:52:29.815Z"
+  created: "2026-09-14T11:28:20.897Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T025229.815Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T112820.897Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BpO3faGm3Jo"
-        name: "Aaj Ki Taaza Khabar LIVE: 13 September 2026 | BRICS Summit 2026 | PM Modi | Hindi News |Taaja Khabar"
+        videoId: "7m3fgexlcSg"
+        name: "News Ki Pathshala Live : BRICS डिनर से क्यों Jinping ने बनाई दूरी, वजह जान रह जाएंगे हैरान! |PM Modi"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zKHEqf_UVfY"
-        name: "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News"
-        artist: "ET Now"
+        videoId: "E23kDFUZNAw"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 14 September 2026"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BnXFSnFSw6E"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Sept. 13, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kWWtE08HlXo"
-        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9fvmTa9meO0"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-Wwldpq4VuM"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | 14 September"
+        videoId: "I9fFFhj0Pn8"
+        name: "Rajasthan Nikay Chunav Result LIVE: पलट गया पूरा गेम! वसुंधरा राजे के गढ़ में BJP का झटका | Jhalawar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rBqvyxjCL-s"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 14 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Protidin"
+        videoId: "m1wUF34YF9c"
+        name: "Trump news LIVE: US Strike Iran Within 48 Hours? Latest Developments and Reactions | WORLD NEWS LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3diX2aLZiPM"
-        name: "🔴LIVE : DMK | TVK | பூதாகாரமாகும் ஆ.ராசா பேச்சு - வீடியோ ஆதாரத்துடன் தவெக எடுத்த ஆக்‌ஷன்"
-        artist: "Thanthi TV"
+        videoId: "ATSxYDXLf5w"
+        name: "🔴LIVE : திருமா பரபரப்பு பிரஸ்மீட் | Tirumavalavan Pressmeet | VCK | CM Vijay"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ecPgstEKtjw"
-        name: "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE"
-        artist: "ET Now"
+        videoId: "VSM5fZy3AuI"
+        name: "🔴 WORLD NEWS LIVE | Hormuz Attack, Dubai, Germany, Poland & USA | Gabriela Info"
+        artist: "Gabriela- info"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9IMlsV8Jv9s"
+        name: "🔴LIVE : காலையிலேயே முதல்வர் விஜய் போட்ட பதிவு! | CM Vijay Tweet | Vinayagar Chaturthi Wishes"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5swBi_E8aAY"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ । 14.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4UTGUA4g5Jo"
+        name: "World News LIVE: Trump and Ilhan Omar Clash Over Explosive Deportation Controversy"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3jH_gvbSlzY"
+        name: "Houthi Attack on Saudi Arab News LIVE: 'अल्लाह की जीत', हूतियों ने कहते हुए लाल सागर तट किया कब्जा!"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-14T02:52:29.815Z"
+  exported_at: "2026-09-14T11:28:20.897Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-14T02:52:29.779Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-14T11:28:20.858Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
