@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260914T172444.714Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260914T211722.785Z-l4t35t"
   type: "state"
-  created: "2026-09-14T17:24:44.714Z"
+  created: "2026-09-14T21:17:22.785Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T172444.714Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T211722.785Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BAwfIUvR9-Q"
-        name: "🔴LIVE : வி.எஸ்.பாபு உடல்நிலை.. சற்றுமுன் வந்த செய்தி! | VS Babu Health Condition | TVK MLA"
-        artist: "NewsTamil 24X7"
+        videoId: "_5fmECp2SmY"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5H8Hl4ex7f0"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : भारत ने 'ट्रॉफी चोर' को फिर खदेड़ा ! Disha Salian"
-        artist: "NDTV India"
+        videoId: "nIULZzXgd2s"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6uZ8YfIN3wQ"
-        name: "US-Iran Base Attack LIVE: Tehran Retaliates With Ballistic Missiles Over Jordan Sky | Gulf War |N18G"
-        artist: "News18 Urdu"
+        videoId: "PbLZ4fvEpYA"
+        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uRiFQVHqI1A"
-        name: "LIVE | Iran-UAE 'Reset': Gulf States Move To Talk To Iran Without Trump? | Firstpost Live | 4K"
-        artist: "Firstpost"
+        videoId: "7w8Gaa6KC3I"
+        name: "Hindi News Live | Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | BRICS Summit 2026 | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wisrxUZXX7E"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 14 September 2026"
-        artist: "CK Time TV North America"
+        videoId: "9fvmTa9meO0"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0bhLz9MMIpc"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "goTjGonxl_A"
+        name: "LIVE with Dr. Shahid Masood | Yemen War Intensifies, Tyre Situation Takes New Turn |14 Sep 26 I GNN"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Sf7MJw3GzWA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "ucUX9gCcUSw"
+        name: "🔴LIVE: IRAN AMERICA WAR  | US Military Operation | ஈரானுக்குள் புகுந்து அமெரிக்க ராணுவம்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "my-abVP4zVs"
-        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 14 ‍SEPTEMBER | World News | International News | NEWS24"
-        artist: "NEWS24"
+        videoId: "FiHPx5rEAII"
+        name: "LIVE: Ocean Water Disappeared |  Ocean Mystery Explained | திடீரென வற்றிய கடல்! நடப்பது என்ன?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0wyrQC5vz_E"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (14.09.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O43Yr4WGRUE"
-        name: "U.S.-Iran War LIVE: Fresh U.S. Fighter Squadrons Arrive As 50,000 Troops Remain In West Asia | N18G"
-        artist: "CNN-News18"
+        videoId: "9gW21C-kOG4"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 14 september 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-14T17:24:44.714Z"
+  exported_at: "2026-09-14T21:17:22.785Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-14T17:24:44.671Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-14T21:17:22.709Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
