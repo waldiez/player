@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260914T112820.897Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260914T172444.714Z-l4t35t"
   type: "state"
-  created: "2026-09-14T11:28:20.897Z"
+  created: "2026-09-14T17:24:44.714Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T112820.897Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260914T172444.714Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7m3fgexlcSg"
-        name: "News Ki Pathshala Live : BRICS डिनर से क्यों Jinping ने बनाई दूरी, वजह जान रह जाएंगे हैरान! |PM Modi"
-        artist: "Times Now Navbharat"
+        videoId: "BAwfIUvR9-Q"
+        name: "🔴LIVE : வி.எஸ்.பாபு உடல்நிலை.. சற்றுமுன் வந்த செய்தி! | VS Babu Health Condition | TVK MLA"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "E23kDFUZNAw"
+        videoId: "5H8Hl4ex7f0"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : भारत ने 'ट्रॉफी चोर' को फिर खदेड़ा ! Disha Salian"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6uZ8YfIN3wQ"
+        name: "US-Iran Base Attack LIVE: Tehran Retaliates With Ballistic Missiles Over Jordan Sky | Gulf War |N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uRiFQVHqI1A"
+        name: "LIVE | Iran-UAE 'Reset': Gulf States Move To Talk To Iran Without Trump? | Firstpost Live | 4K"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wisrxUZXX7E"
         name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News | 14 September 2026"
         artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "I9fFFhj0Pn8"
-        name: "Rajasthan Nikay Chunav Result LIVE: पलट गया पूरा गेम! वसुंधरा राजे के गढ़ में BJP का झटका | Jhalawar"
-        artist: "ABP NEWS"
+        videoId: "0bhLz9MMIpc"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m1wUF34YF9c"
-        name: "Trump news LIVE: US Strike Iran Within 48 Hours? Latest Developments and Reactions | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
+        videoId: "Sf7MJw3GzWA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ATSxYDXLf5w"
-        name: "🔴LIVE : திருமா பரபரப்பு பிரஸ்மீட் | Tirumavalavan Pressmeet | VCK | CM Vijay"
-        artist: "NewsTamil 24X7"
+        videoId: "my-abVP4zVs"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 14 ‍SEPTEMBER | World News | International News | NEWS24"
+        artist: "NEWS24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VSM5fZy3AuI"
-        name: "🔴 WORLD NEWS LIVE | Hormuz Attack, Dubai, Germany, Poland & USA | Gabriela Info"
-        artist: "Gabriela- info"
+        videoId: "0wyrQC5vz_E"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (14.09.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9IMlsV8Jv9s"
-        name: "🔴LIVE : காலையிலேயே முதல்வர் விஜய் போட்ட பதிவு! | CM Vijay Tweet | Vinayagar Chaturthi Wishes"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5swBi_E8aAY"
-        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ । 14.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4UTGUA4g5Jo"
-        name: "World News LIVE: Trump and Ilhan Omar Clash Over Explosive Deportation Controversy"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3jH_gvbSlzY"
-        name: "Houthi Attack on Saudi Arab News LIVE: 'अल्लाह की जीत', हूतियों ने कहते हुए लाल सागर तट किया कब्जा!"
-        artist: "ABP NEWS"
+        videoId: "O43Yr4WGRUE"
+        name: "U.S.-Iran War LIVE: Fresh U.S. Fighter Squadrons Arrive As 50,000 Troops Remain In West Asia | N18G"
+        artist: "CNN-News18"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-14T11:28:20.897Z"
+  exported_at: "2026-09-14T17:24:44.714Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-14T11:28:20.858Z"
+  source_generated_at: "2026-09-14T17:24:44.671Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
