@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260915T025505.164Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260915T105001.705Z-l4t35t"
   type: "state"
-  created: "2026-09-15T02:55:05.164Z"
+  created: "2026-09-15T10:50:01.705Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T025505.164Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T105001.705Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "zbWMgp5HBNc"
-        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
-        artist: "ET Now"
+        videoId: "qE9R_GiYZaM"
+        name: "🔴LIVE : மு.க.ஸ்டாலின் உடல்நிலை? - வெளியான முக்கிய தகவல் | mkstalin | healthupdate | Dmk"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fng2kW4-dkU"
-        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
-        artist: "ET Now World"
+        videoId: "UynTMoXvoJE"
+        name: "Aaj Ki Taaza Khabar LIVE: 15 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mZYcBu-NGHc"
-        name: "Morning Marathi News LIVE | Sakalchya Batmya | 15 Sep | Manoj Jarange Patil | Shiv Sena Hearing"
-        artist: "News18 Marathi"
+        videoId: "CIgDyHlO6fo"
+        name: "Latest in death of Hayden Panettiere"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Mq_Vf6VhxAE"
-        name: "LIVE | President Trump Signs an Executive Order, | World News | White House | Announcement"
-        artist: "Times Now Plus"
+        videoId: "EOtCnuDI_PY"
+        name: "Saudi-Houthi Crisis LIVE: Pakistan Mulls Airstrikes In Yemen Under Makkah Defense Alliance | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4UTGUA4g5Jo"
-        name: "World News LIVE: Trump and Ilhan Omar Clash Over Explosive Deportation Controversy"
-        artist: "MIRROR NOW"
+        videoId: "6GLtTuR8jvQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zJp2y6QbVoQ"
-        name: "WORLD NEWS LIVE: President Trump Reveals New Fear After BRICS Summit Global Threat Warning"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gIMCx5N7d4U"
-        name: "WORLD NEWS LIVE | UFO TRUTH EXPOSED?! Congress Finally Addresses What’s Really Going"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GkRgBQtl52U"
-        name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
+        videoId: "eOg4DPHrBeM"
+        name: "World News LIVE: Trump Torches Ilhan Omar at Public Event | ILHAN OMAR | Trump | US News LIVE"
         artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GMm1BOr8LSY"
+        name: "Today Headlines | 15 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b57WfWqZ61A"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 15.09.2026 | Today News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AWjFeKbdzzg"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i3oUVWIyS2Q"
+        name: "🔴LIVE: Sekar Babu | DMK | திமுகவினருக்கு அடுத்தடுத்து பெரும் ஷாக்"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-15T02:55:05.164Z"
+  exported_at: "2026-09-15T10:50:01.705Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-15T02:55:05.118Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: qsVIfdHwHGo (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 55 < 70)"
+  source_generated_at: "2026-09-15T10:50:01.662Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
