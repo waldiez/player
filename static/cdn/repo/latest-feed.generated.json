@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-14T21:17:22.709Z",
+    "generatedAt": "2026-09-15T02:55:05.118Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_5fmECp2SmY",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "zbWMgp5HBNc",
+            "name": "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "nIULZzXgd2s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PbLZ4fvEpYA",
+            "videoId": "fng2kW4-dkU",
             "name": "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash",
             "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "7w8Gaa6KC3I",
-            "name": "Hindi News Live | Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | BRICS Summit 2026 | PM Modi",
-            "artist": "Times Now Navbharat"
+            "videoId": "qsVIfdHwHGo",
+            "name": "🔴 Live : திடீர் வின்னில் தோன்றிய அதிசயம்! | skymystery | viral News | Gem tv Live",
+            "artist": "Gem Television"
         },
         {
             "mood": "storm",
-            "videoId": "9fvmTa9meO0",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "mZYcBu-NGHc",
+            "name": "Morning Marathi News LIVE | Sakalchya Batmya | 15 Sep | Manoj Jarange Patil | Shiv Sena Hearing",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "goTjGonxl_A",
-            "name": "LIVE with Dr. Shahid Masood | Yemen War Intensifies, Tyre Situation Takes New Turn |14 Sep 26 I GNN",
-            "artist": "GNN"
+            "videoId": "Mq_Vf6VhxAE",
+            "name": "LIVE | President Trump Signs an Executive Order, | World News | White House | Announcement",
+            "artist": "Times Now Plus"
         },
         {
             "mood": "storm",
-            "videoId": "ucUX9gCcUSw",
-            "name": "🔴LIVE: IRAN AMERICA WAR  | US Military Operation | ஈரானுக்குள் புகுந்து அமெரிக்க ராணுவம்",
-            "artist": "Sathiyam News"
+            "videoId": "4UTGUA4g5Jo",
+            "name": "World News LIVE: Trump and Ilhan Omar Clash Over Explosive Deportation Controversy",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "FiHPx5rEAII",
-            "name": "LIVE: Ocean Water Disappeared |  Ocean Mystery Explained | திடீரென வற்றிய கடல்! நடப்பது என்ன?",
-            "artist": "Sathiyam News"
+            "videoId": "zJp2y6QbVoQ",
+            "name": "WORLD NEWS LIVE: President Trump Reveals New Fear After BRICS Summit Global Threat Warning",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "9gW21C-kOG4",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 14 september 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "gIMCx5N7d4U",
+            "name": "WORLD NEWS LIVE | UFO TRUTH EXPOSED?! Congress Finally Addresses What’s Really Going",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GkRgBQtl52U",
+            "name": "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
