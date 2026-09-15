@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260915T160212.744Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260915T204450.657Z-l4t35t"
   type: "state"
-  created: "2026-09-15T16:02:12.744Z"
+  created: "2026-09-15T20:44:50.657Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T160212.744Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T204450.657Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "fz-f_09pj28"
-        name: "🔴LIVE : விஜய் சேதுபதிக்கு தவெக MLA பகிரங்க மிரட்டல்.. பரபரப்பு  | CM Vijay | TVK | Vijay Sethupathy"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OvsuTzXlNPc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "YLYqXbSHFek"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "GLOBAL UPDATE BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "c3Lny3swAhY"
-        name: "Aaj Ki Taaza Khabar LIVE: 15 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
-        artist: "Times Now Navbharat"
+        videoId: "RoazStftwyk"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7kjzerkqlgU"
-        name: "Sandeep Chaudhary LIVE: UPI पर तकरार...आम आदमी पर लटकी तलवार! | UPI Payments Charge | Seedha Sawal"
-        artist: "ABP NEWS"
+        videoId: "zSs6-A-zm2I"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5WeJ61qeuHU"
-        name: "🔴LIVE: Trump New Rule |  ట్రంప్ కొత్త నిబంధన..భారతీయులకు షాక్ | Big Shock To Indians | ABN"
-        artist: "ABN Telugu "
+        videoId: "5EEGg9pCwG0"
+        name: "Debate With Arnab LIVE: Were Disha Salian’s Friends Coached On SSR During Police Confessions?"
+        artist: "Republic World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n2ThDbpTBJU"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        videoId: "SJkt_5n0r7I"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sno5RibeHqg"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0T67S_jveeE"
+        name: "Iran US War Update: ईरान-अमेरिका युद्ध के ताजा हालात LIVE | Trump | Mojataba | Hormuz War | Top News"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2Hajv3oi7Fc"
+        name: "BREAKING LIVE | Maharashtra CM Devendra Fadnavis Reacts as CBI Reopens Disha Salian Case"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OJmPwppqIMo"
+        name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q9eKSnB6Eek"
+        videoId: "wkU5iRWAL5w"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3Ep1YZqNxwA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
+        videoId: "6FuIhwaR8LA"
+        name: "LIVE with Dr. Shahid Masood | Amidst the full-blown wars! |15 Sep 26 I GNN"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HJ2FrV6-r_E"
-        name: "US-Russia Latest News: Trump Family की रूस से सांठगांठ पर खुलासा | Putin | Umar Kremlev | Top News"
-        artist: "Aaj Tak"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8tA6dlFK7LI"
-        name: "Rajasthan Nikay Chunav Result LIVE: 6 नगर परिषदों में जीत गई कांग्रेस, बीजेपी को लगा तगड़ा झटका!"
-        artist: "ABP NEWS"
+        videoId: "oE83sSGnbeU"
+        name: "🔴LIVE : பெரும் படையுடன்.. அமர்களம் செய்த தவெக வேட்பாளர் | maragathamkumaravel | Tvk | byelection2026"
+        artist: "NewsTamil 24X7"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-15T16:02:12.744Z"
+  exported_at: "2026-09-15T20:44:50.657Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-15T16:02:12.715Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-15T20:44:50.618Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
