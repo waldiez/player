@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260915T105001.705Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260915T160212.744Z-l4t35t"
   type: "state"
-  created: "2026-09-15T10:50:01.705Z"
+  created: "2026-09-15T16:02:12.744Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T105001.705Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T160212.744Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qE9R_GiYZaM"
-        name: "🔴LIVE : மு.க.ஸ்டாலின் உடல்நிலை? - வெளியான முக்கிய தகவல் | mkstalin | healthupdate | Dmk"
+        videoId: "fz-f_09pj28"
+        name: "🔴LIVE : விஜய் சேதுபதிக்கு தவெக MLA பகிரங்க மிரட்டல்.. பரபரப்பு  | CM Vijay | TVK | Vijay Sethupathy"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UynTMoXvoJE"
+        videoId: "OvsuTzXlNPc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c3Lny3swAhY"
         name: "Aaj Ki Taaza Khabar LIVE: 15 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CIgDyHlO6fo"
-        name: "Latest in death of Hayden Panettiere"
-        artist: "ABC News"
+        videoId: "7kjzerkqlgU"
+        name: "Sandeep Chaudhary LIVE: UPI पर तकरार...आम आदमी पर लटकी तलवार! | UPI Payments Charge | Seedha Sawal"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EOtCnuDI_PY"
-        name: "Saudi-Houthi Crisis LIVE: Pakistan Mulls Airstrikes In Yemen Under Makkah Defense Alliance | N18G"
-        artist: "News18 Urdu"
+        videoId: "5WeJ61qeuHU"
+        name: "🔴LIVE: Trump New Rule |  ట్రంప్ కొత్త నిబంధన..భారతీయులకు షాక్ | Big Shock To Indians | ABN"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6GLtTuR8jvQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eOg4DPHrBeM"
-        name: "World News LIVE: Trump Torches Ilhan Omar at Public Event | ILHAN OMAR | Trump | US News LIVE"
+        videoId: "n2ThDbpTBJU"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GMm1BOr8LSY"
-        name: "Today Headlines | 15 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "q9eKSnB6Eek"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b57WfWqZ61A"
-        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 15.09.2026 | Today News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "3Ep1YZqNxwA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BAC আন্তর্জাতিক সংবাদ "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AWjFeKbdzzg"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
-        artist: "Times Now"
+        videoId: "HJ2FrV6-r_E"
+        name: "US-Russia Latest News: Trump Family की रूस से सांठगांठ पर खुलासा | Putin | Umar Kremlev | Top News"
+        artist: "Aaj Tak"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i3oUVWIyS2Q"
-        name: "🔴LIVE: Sekar Babu | DMK | திமுகவினருக்கு அடுத்தடுத்து பெரும் ஷாக்"
-        artist: "Sathiyam News"
+        videoId: "8tA6dlFK7LI"
+        name: "Rajasthan Nikay Chunav Result LIVE: 6 नगर परिषदों में जीत गई कांग्रेस, बीजेपी को लगा तगड़ा झटका!"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-15T10:50:01.705Z"
+  exported_at: "2026-09-15T16:02:12.744Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-15T10:50:01.662Z"
+  source_generated_at: "2026-09-15T16:02:12.715Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
