@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260916T155528.670Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260916T204453.003Z-l4t35t"
   type: "state"
-  created: "2026-09-16T15:55:28.670Z"
+  created: "2026-09-16T20:44:53.003Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T155528.670Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T204453.003Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Jde8eYVRB-8"
-        name: "America Tariff on India News: अमेरिका का भारत पर 100% टैरिफ? | Trump | Breaking News"
-        artist: "ABP NEWS"
+        videoId: "gGiGk0OIXgI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bangla Protidin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d_rm8x1pt5Y"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "1aafwcfFrH4"
+        name: "Iran US War Update: 9 देशों का एक साथ ईरान पर विनाशक हमला! LIVE | Trump | Mojataba | Top News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YxFyHlqqITA"
-        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
-        artist: "ET Now World"
+        videoId: "2KC_0UrFZ98"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xhnjSBSghcM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "Bxgl9HiwmZc"
+        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lp9Xoj9ijJQ"
-        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
-        artist: "ET Now"
+        videoId: "D_UJ7qOYSDU"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১৬.০৯.২০২৬ | Top News | Update News | Breaking News | Latest News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BmTuVAJHoK0"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ztaI15I52sg"
-        name: "🔴LIVE : காரில் சிக்கிய ரகசியங்கள்?  சோதனையில் திருப்பம் | Anbil Mahesh Arrest | Bribery Case | DMK"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wPL2VAGCvTE"
-        name: "The Palki Sharma Show LIVE: Saudi Arabia Fires Back After Houthi Missile Barrage | Trump vs AI CEOs"
+        videoId: "bCe7Yho2f5Q"
+        name: "LIVE: Former Philippines President Rodrigo Duterte Appears in ICC Courtroom | The Hague | IGR"
         artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PyO3trFbgHs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
+        videoId: "sXrH3BB4k2c"
+        name: "MIC On Hai With Sucherita Kukreti LIVE : मक्का पर हमला? सऊदी में तबाही! | India-Pak Battleship Clash"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AzB94F7cMR8"
-        name: "Pakistan-India News Live: Pak Navy Ship Collides With Indian Vessel, Islamabad's Top Envoy Summoned"
-        artist: "India Today"
+        videoId: "ft8K61o04DU"
+        name: "LIVE: मक्का पर हमले का नया वीडियो? | Saudi Arabia Under Attack | Houthi | War News | Breaking News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hK65q7D7OvU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
+        videoId: "gYnuefojLao"
+        name: "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rRB-W87D8OM"
-        name: "Trump vs Omar LIVE | Political Showdown Grips America ! World News । Latest Updates"
-        artist: "Times Now Plus"
+        videoId: "jO6Z5F7l6Mk"
+        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-16T15:55:28.670Z"
+  exported_at: "2026-09-16T20:44:53.003Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-16T15:55:28.633Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-16T20:44:52.965Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
