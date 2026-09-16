@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-16T02:50:28.454Z",
+    "generatedAt": "2026-09-16T10:39:23.862Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "9iaEivR16xc",
-            "name": "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "Ju-Jun5g9rQ",
+            "name": "Today's Breaking News LIVE: PM Modi | UPI Payment Charges |  Gurugram Hit And Run | Top News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "MQbdA4ZU2N8",
+            "videoId": "dr2qOVfpRe8",
+            "name": "सऊदी अरब पर बड़ा हमला, चौंके मुस्लिम देश? |Saudi Arabia Under Attack | Houthi | War News | Breaking",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "a0Qw8dAo8IQ",
+            "name": "🔴LIVE : புனித மெக்கா நகரம் மீது ட்ரோன் தாக்குதல்.. அதிர்ச்சி | Mecca | Saudi | Drone Attack",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LvID7ugLd5g",
             "name": "LIVE: Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia | Yemen | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "2KC_0UrFZ98",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.09.2026) | Sathiyam Headlines",
+            "videoId": "SXSepcTWFGY",
+            "name": "🔴LIVE :அமைச்சர்கள் ரமேஷ், நிர்மல்குமார் கூட்டாக பிரஸ்மீட் | Nirmalkumar | Ramesh | Madurai Meenatchi",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wkU5iRWAL5w",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U-p_07hjsWo",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (16.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rjYrTvXEZwI",
+            "name": "UP UCC News LIVE: यूपी में लागू होनेजा रहा है UCC?, आ गई तारीख! | Amit Shah | Big Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DvIaNIMKF2k",
+            "name": "US-Iran War LIVE: Iran Fires 'Secret Weapon' At US Nuclear Carrier; Trump's Navy On High Alert |WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OgHETtDbBrY",
+            "name": "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें, सीधे LIVE | Headlines Today | Top News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uQw_oJrTC_E",
+            "name": "Today Headlines | 16 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "2UivBXZYj_g",
-            "name": "🔴LIVE : வெடித்தது பிரச்சனை.. தவெகவிற்கு இடியை இறக்கிய திமுக | tvkvsdmk | cmvijay | Mk stalin",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fMcuPp_Umkg",
-            "name": "Morning Marathi News LIVE | Sakalchya Batmya | 16 Sep | Manoj Jarange Patil | Shiv Sena Hearing",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fASNwlzTqNo",
-            "name": "सऊदी अरब का हूतियों पर हमला LIVE | Saudi Arabia Under Attack | Houthi | War News | Middle East",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BmTuVAJHoK0",
-            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k21J9Uch_Wo",
-            "name": "🔴Manoj Jarange Patil LIVE :पाटोदा येथील पाटलांची जाहीर सभा!",
-            "artist": "Rajmudra News Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wkLJ3TY3W5U",
-            "name": "🔴LIVE  : CM Vijay | TVK |  London Visit | பவரை கையில் எடுத்த CM விஜய்..அதிரும் லண்டன்",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vQjJlYKF-FE",
-            "name": "The US just deployed a space weapon. Why? | BBC News",
-            "artist": "BBC News"
+            "videoId": "TRIYQhXhTy0",
+            "name": "LIVE : Mecca में पहली बार बजी खतरे की घंटी! | Houthis Attack on Makkah | US Iran War News | Top News",
+            "artist": "News18 India"
         }
     ],
     "sourceFilters": {
