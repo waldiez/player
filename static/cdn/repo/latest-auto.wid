@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260915T204450.657Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260916T025028.483Z-l4t35t"
   type: "state"
-  created: "2026-09-15T20:44:50.657Z"
+  created: "2026-09-16T02:50:28.483Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260915T204450.657Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T025028.483Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YLYqXbSHFek"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RoazStftwyk"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zSs6-A-zm2I"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5EEGg9pCwG0"
-        name: "Debate With Arnab LIVE: Were Disha Salian’s Friends Coached On SSR During Police Confessions?"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SJkt_5n0r7I"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sno5RibeHqg"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0T67S_jveeE"
-        name: "Iran US War Update: ईरान-अमेरिका युद्ध के ताजा हालात LIVE | Trump | Mojataba | Hormuz War | Top News"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2Hajv3oi7Fc"
-        name: "BREAKING LIVE | Maharashtra CM Devendra Fadnavis Reacts as CBI Reopens Disha Salian Case"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OJmPwppqIMo"
-        name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
+        videoId: "9iaEivR16xc"
+        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wkU5iRWAL5w"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "MQbdA4ZU2N8"
+        name: "LIVE: Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia | Yemen | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6FuIhwaR8LA"
-        name: "LIVE with Dr. Shahid Masood | Amidst the full-blown wars! |15 Sep 26 I GNN"
-        artist: "GNN"
+        videoId: "2KC_0UrFZ98"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oE83sSGnbeU"
-        name: "🔴LIVE : பெரும் படையுடன்.. அமர்களம் செய்த தவெக வேட்பாளர் | maragathamkumaravel | Tvk | byelection2026"
+        videoId: "2UivBXZYj_g"
+        name: "🔴LIVE : வெடித்தது பிரச்சனை.. தவெகவிற்கு இடியை இறக்கிய திமுக | tvkvsdmk | cmvijay | Mk stalin"
         artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fMcuPp_Umkg"
+        name: "Morning Marathi News LIVE | Sakalchya Batmya | 16 Sep | Manoj Jarange Patil | Shiv Sena Hearing"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fASNwlzTqNo"
+        name: "सऊदी अरब का हूतियों पर हमला LIVE | Saudi Arabia Under Attack | Houthi | War News | Middle East"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BmTuVAJHoK0"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k21J9Uch_Wo"
+        name: "🔴Manoj Jarange Patil LIVE :पाटोदा येथील पाटलांची जाहीर सभा!"
+        artist: "Rajmudra News Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wkLJ3TY3W5U"
+        name: "🔴LIVE  : CM Vijay | TVK |  London Visit | பவரை கையில் எடுத்த CM விஜய்..அதிரும் லண்டன்"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vQjJlYKF-FE"
+        name: "The US just deployed a space weapon. Why? | BBC News"
+        artist: "BBC News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-15T20:44:50.657Z"
+  exported_at: "2026-09-16T02:50:28.483Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-15T20:44:50.618Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-16T02:50:28.454Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
