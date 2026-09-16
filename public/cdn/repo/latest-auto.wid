@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260916T103923.891Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260916T155528.670Z-l4t35t"
   type: "state"
-  created: "2026-09-16T10:39:23.891Z"
+  created: "2026-09-16T15:55:28.670Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T103923.891Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T155528.670Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Ju-Jun5g9rQ"
-        name: "Today's Breaking News LIVE: PM Modi | UPI Payment Charges |  Gurugram Hit And Run | Top News"
-        artist: "NDTV India"
+        videoId: "Jde8eYVRB-8"
+        name: "America Tariff on India News: अमेरिका का भारत पर 100% टैरिफ? | Trump | Breaking News"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dr2qOVfpRe8"
-        name: "सऊदी अरब पर बड़ा हमला, चौंके मुस्लिम देश? |Saudi Arabia Under Attack | Houthi | War News | Breaking"
-        artist: "NDTV India"
+        videoId: "d_rm8x1pt5Y"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a0Qw8dAo8IQ"
-        name: "🔴LIVE : புனித மெக்கா நகரம் மீது ட்ரோன் தாக்குதல்.. அதிர்ச்சி | Mecca | Saudi | Drone Attack"
-        artist: "NewsTamil 24X7"
+        videoId: "YxFyHlqqITA"
+        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LvID7ugLd5g"
-        name: "LIVE: Fighting in Yemen intensifies, Houthis launch more attacks on Saudi Arabia | Yemen | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SXSepcTWFGY"
-        name: "🔴LIVE :அமைச்சர்கள் ரமேஷ், நிர்மல்குமார் கூட்டாக பிரஸ்மீட் | Nirmalkumar | Ramesh | Madurai Meenatchi"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wkU5iRWAL5w"
+        videoId: "xhnjSBSghcM"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U-p_07hjsWo"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (16.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "lp9Xoj9ijJQ"
+        name: "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rjYrTvXEZwI"
-        name: "UP UCC News LIVE: यूपी में लागू होनेजा रहा है UCC?, आ गई तारीख! | Amit Shah | Big Breaking"
-        artist: "ABP NEWS"
+        videoId: "BmTuVAJHoK0"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DvIaNIMKF2k"
-        name: "US-Iran War LIVE: Iran Fires 'Secret Weapon' At US Nuclear Carrier; Trump's Navy On High Alert |WION"
-        artist: "WION"
+        videoId: "ztaI15I52sg"
+        name: "🔴LIVE : காரில் சிக்கிய ரகசியங்கள்?  சோதனையில் திருப்பம் | Anbil Mahesh Arrest | Bribery Case | DMK"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OgHETtDbBrY"
-        name: "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें, सीधे LIVE | Headlines Today | Top News"
-        artist: "ABP NEWS"
+        videoId: "wPL2VAGCvTE"
+        name: "The Palki Sharma Show LIVE: Saudi Arabia Fires Back After Houthi Missile Barrage | Trump vs AI CEOs"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uQw_oJrTC_E"
-        name: "Today Headlines | 16 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "PyO3trFbgHs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TRIYQhXhTy0"
-        name: "LIVE : Mecca में पहली बार बजी खतरे की घंटी! | Houthis Attack on Makkah | US Iran War News | Top News"
-        artist: "News18 India"
+        videoId: "AzB94F7cMR8"
+        name: "Pakistan-India News Live: Pak Navy Ship Collides With Indian Vessel, Islamabad's Top Envoy Summoned"
+        artist: "India Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hK65q7D7OvU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BAC আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rRB-W87D8OM"
+        name: "Trump vs Omar LIVE | Political Showdown Grips America ! World News । Latest Updates"
+        artist: "Times Now Plus"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-16T10:39:23.891Z"
+  exported_at: "2026-09-16T15:55:28.670Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-16T10:39:23.862Z"
+  source_generated_at: "2026-09-16T15:55:28.633Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
