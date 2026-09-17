@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-17T02:54:36.730Z",
+    "generatedAt": "2026-09-17T10:47:45.888Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WWAh0kEhfKc",
-            "name": "World Breaking News LIVE: कई देशों में तबाही की खौफनाक तस्वीरें LIVE",
-            "artist": "Zee News"
+            "videoId": "lsxzX_8dSL8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "IsUnEJ0ijzk",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 17Sep",
-            "artist": "Sairbeen News 24"
+            "videoId": "-KnWJ_dsAzo",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.09.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "eW6JfsM8QyE",
-            "name": "LIVE: Breaking: Saudi Forces Intercept Drone South Of Mecca | Houthis Deny Holy City Attack | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "NGB83ffwj-o",
+            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "gEK7LkxKVTc",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.09.2026) | Sathiyam Headlines",
+            "videoId": "XhFUmHNnjOI",
+            "name": "Houthis Attack On Saudi Arabia LIVE: मक्का पर हमले का नया वीडियो..मुस्लिम देशों में हड़कंप! Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nhl-wy_t1LM",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 17.09.2026 | Today News | BD News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BQzpiC_uOMw",
+            "name": "Morning Marathi News LIVE | Sakalchya Batmya | 17 Sep | Manoj Jarange Patil | PM Modi Birthday",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TWF3FPlG1B4",
+            "name": "🔴LIVE: CM Vijay | PMK |  அன்புமணி ராமதாஸ் செய்தியாளர் சந்திப்பு | Anbumani Ramadoss | CM Vijay News",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "gJpJxhjOIrk",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
-            "artist": "Times Now"
+            "videoId": "eL8HQgGhrC0",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 17-09-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "Iwhpal4sfHQ",
-            "name": "TV9 Bharatvarsh LIVE:Saudi Houthi War I Mecca | UPI | US Tariff I UCC I Nandigram | AI I Iran US War",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "711_KjgIYaQ",
+            "name": "Today's Breaking News LIVE: UPI Payment | PM Modi Birthday | Saudi Arab | Pakistan | US Tariffs",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "_b5FgsonxCk",
-            "name": "ABC World News Tonight With David Muir – Full Episode September 16, 2026 [1080]",
-            "artist": " morning _ France"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V099V_XyZiw",
-            "name": "Goonj With Arpita Aarya LIVE: Bhai Virendra | Nitish Kumar | RJD | BJP | Samrat Choudhary | Tejashwi",
-            "artist": "News18 India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vDYR4m_Tb8Y",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "mHKw0ylNEEE",
+            "name": "Donald Trump LIVE | NUKE IRAN? Trump’s Explosive Response as US-Iran War Rages On | War News LIVE",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
