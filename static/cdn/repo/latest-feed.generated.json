@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-16T20:44:52.965Z",
+    "generatedAt": "2026-09-17T02:54:36.730Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gGiGk0OIXgI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bangla Protidin"
+            "videoId": "WWAh0kEhfKc",
+            "name": "World Breaking News LIVE: कई देशों में तबाही की खौफनाक तस्वीरें LIVE",
+            "artist": "Zee News"
         },
         {
             "mood": "storm",
-            "videoId": "1aafwcfFrH4",
-            "name": "Iran US War Update: 9 देशों का एक साथ ईरान पर विनाशक हमला! LIVE | Trump | Mojataba | Top News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "IsUnEJ0ijzk",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 17Sep",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "2KC_0UrFZ98",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.09.2026) | Sathiyam Headlines",
+            "videoId": "eW6JfsM8QyE",
+            "name": "LIVE: Breaking: Saudi Forces Intercept Drone South Of Mecca | Houthis Deny Holy City Attack | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gEK7LkxKVTc",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Bxgl9HiwmZc",
-            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News",
+            "videoId": "gJpJxhjOIrk",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "D_UJ7qOYSDU",
-            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১৬.০৯.২০২৬ | Top News | Update News | Breaking News | Latest News",
-            "artist": "ATN Bangla News"
+            "videoId": "Iwhpal4sfHQ",
+            "name": "TV9 Bharatvarsh LIVE:Saudi Houthi War I Mecca | UPI | US Tariff I UCC I Nandigram | AI I Iran US War",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "bCe7Yho2f5Q",
-            "name": "LIVE: Former Philippines President Rodrigo Duterte Appears in ICC Courtroom | The Hague | IGR",
-            "artist": "India Global Review"
+            "videoId": "_b5FgsonxCk",
+            "name": "ABC World News Tonight With David Muir – Full Episode September 16, 2026 [1080]",
+            "artist": " morning _ France"
         },
         {
             "mood": "storm",
-            "videoId": "sXrH3BB4k2c",
-            "name": "MIC On Hai With Sucherita Kukreti LIVE : मक्का पर हमला? सऊदी में तबाही! | India-Pak Battleship Clash",
-            "artist": "NDTV India"
+            "videoId": "V099V_XyZiw",
+            "name": "Goonj With Arpita Aarya LIVE: Bhai Virendra | Nitish Kumar | RJD | BJP | Samrat Choudhary | Tejashwi",
+            "artist": "News18 India"
         },
         {
             "mood": "storm",
-            "videoId": "ft8K61o04DU",
-            "name": "LIVE: मक्का पर हमले का नया वीडियो? | Saudi Arabia Under Attack | Houthi | War News | Breaking News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gYnuefojLao",
-            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jO6Z5F7l6Mk",
-            "name": "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "vDYR4m_Tb8Y",
+            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {

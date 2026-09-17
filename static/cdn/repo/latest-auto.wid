@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260916T204453.003Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260917T025436.770Z-l4t35t"
   type: "state"
-  created: "2026-09-16T20:44:53.003Z"
+  created: "2026-09-17T02:54:36.770Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260916T204453.003Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260917T025436.770Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "gGiGk0OIXgI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | 16 Sept | 2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bangla Protidin"
+        videoId: "WWAh0kEhfKc"
+        name: "World Breaking News LIVE: कई देशों में तबाही की खौफनाक तस्वीरें LIVE"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1aafwcfFrH4"
-        name: "Iran US War Update: 9 देशों का एक साथ ईरान पर विनाशक हमला! LIVE | Trump | Mojataba | Top News"
-        artist: "TV9 Bharatvarsh"
+        videoId: "IsUnEJ0ijzk"
+        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 17Sep"
+        artist: "Sairbeen News 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2KC_0UrFZ98"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.09.2026) | Sathiyam Headlines"
+        videoId: "eW6JfsM8QyE"
+        name: "LIVE: Breaking: Saudi Forces Intercept Drone South Of Mecca | Houthis Deny Holy City Attack | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gEK7LkxKVTc"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (17.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Bxgl9HiwmZc"
-        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News"
+        videoId: "gJpJxhjOIrk"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D_UJ7qOYSDU"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১৬.০৯.২০২৬ | Top News | Update News | Breaking News | Latest News"
-        artist: "ATN Bangla News"
+        videoId: "Iwhpal4sfHQ"
+        name: "TV9 Bharatvarsh LIVE:Saudi Houthi War I Mecca | UPI | US Tariff I UCC I Nandigram | AI I Iran US War"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bCe7Yho2f5Q"
-        name: "LIVE: Former Philippines President Rodrigo Duterte Appears in ICC Courtroom | The Hague | IGR"
-        artist: "India Global Review"
+        videoId: "_b5FgsonxCk"
+        name: "ABC World News Tonight With David Muir – Full Episode September 16, 2026 [1080]"
+        artist: " morning _ France"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sXrH3BB4k2c"
-        name: "MIC On Hai With Sucherita Kukreti LIVE : मक्का पर हमला? सऊदी में तबाही! | India-Pak Battleship Clash"
-        artist: "NDTV India"
+        videoId: "V099V_XyZiw"
+        name: "Goonj With Arpita Aarya LIVE: Bhai Virendra | Nitish Kumar | RJD | BJP | Samrat Choudhary | Tejashwi"
+        artist: "News18 India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ft8K61o04DU"
-        name: "LIVE: मक्का पर हमले का नया वीडियो? | Saudi Arabia Under Attack | Houthi | War News | Breaking News"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gYnuefojLao"
-        name: "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jO6Z5F7l6Mk"
-        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
-        artist: "Times Now"
+        videoId: "vDYR4m_Tb8Y"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-16T20:44:53.003Z"
+  exported_at: "2026-09-17T02:54:36.770Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-16T20:44:52.965Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-17T02:54:36.730Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
