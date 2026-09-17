@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260917T104745.929Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260917T160202.878Z-l4t35t"
   type: "state"
-  created: "2026-09-17T10:47:45.929Z"
+  created: "2026-09-17T16:02:02.878Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260917T104745.929Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260917T160202.878Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lsxzX_8dSL8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "lSU9TdRCDAg"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 17 ‍SEPTEMBER | World News | International News | NEWS24"
+        artist: "NEWS24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-KnWJ_dsAzo"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (17.09.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "-C9p6t7pVrM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NGB83ffwj-o"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XhFUmHNnjOI"
-        name: "Houthis Attack On Saudi Arabia LIVE: मक्का पर हमले का नया वीडियो..मुस्लिम देशों में हड़कंप! Breaking"
+        videoId: "wNRB9oTMr1c"
+        name: "America 100% Tariff News LIVE: भारत को हल्के में न ले अमेरिका... | Live Debate | Trump Sanctions"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nhl-wy_t1LM"
-        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ | 17.09.2026 | Today News | BD News | Ajker News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BQzpiC_uOMw"
-        name: "Morning Marathi News LIVE | Sakalchya Batmya | 17 Sep | Manoj Jarange Patil | PM Modi Birthday"
+        videoId: "u20ZSZBaUxI"
+        name: "Marathi News Today LIVE | Manoj Jarange Update | Shivsena Hearing News | Thackeray Vs Eknath Shinde"
         artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TWF3FPlG1B4"
-        name: "🔴LIVE: CM Vijay | PMK |  அன்புமணி ராமதாஸ் செய்தியாளர் சந்திப்பு | Anbumani Ramadoss | CM Vijay News"
-        artist: "Sathiyam News"
+        videoId: "tmPupQIY25k"
+        name: "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eL8HQgGhrC0"
-        name: "🔴LIVE: Speed News | 24 Headlines | 17-09-2026 | #morningwithabn | ABN Telugu"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "711_KjgIYaQ"
-        name: "Today's Breaking News LIVE: UPI Payment | PM Modi Birthday | Saudi Arab | Pakistan | US Tariffs"
+        videoId: "G3ZSpgdaeO0"
+        name: "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mHKw0ylNEEE"
-        name: "Donald Trump LIVE | NUKE IRAN? Trump’s Explosive Response as US-Iran War Rages On | War News LIVE"
-        artist: "ET Now"
+        videoId: "sZwQOksxg3o"
+        name: "🔴LIVE: UPI | மொத்த நாடே கதிகலங்கிய செய்தி"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1_GaAl9B1Fw"
+        name: "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dPqOVNCaHdw"
+        name: "Saudi Arabia-Houthi War LIVE: शाम होते ही सऊदी हुआ बेकाबू? | Drone Attack | Yamen Air Strike News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qlFstIwoqsQ"
+        name: "Saudi Arabia-Houthi War News LIVE: जंग में बेकाबू हुए सऊदी और हूती! | Drone Attack | Mecca Madina"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-17T10:47:45.929Z"
+  exported_at: "2026-09-17T16:02:02.878Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-17T10:47:45.888Z"
+  source_generated_at: "2026-09-17T16:02:02.846Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
