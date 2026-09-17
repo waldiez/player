@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-17T16:02:02.846Z",
+    "generatedAt": "2026-09-17T20:50:01.345Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "lSU9TdRCDAg",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 17 ‍SEPTEMBER | World News | International News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "4c65KSVVAmY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "-C9p6t7pVrM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "CscwbIjTiUk",
+            "name": "Houthi Leader LIVE: Abdul-Malik Al-Houthi To Address Yemen War As Houthis Claim Saudi Jet Downed",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "wNRB9oTMr1c",
-            "name": "America 100% Tariff News LIVE: भारत को हल्के में न ले अमेरिका... | Live Debate | Trump Sanctions",
-            "artist": "ABP NEWS"
+            "videoId": "FPG8t9fSiGk",
+            "name": "🔴LIVE : meenakshiammanTemple | மதுரை ஸ்ரீ மீனாட்சி சுந்தரேசுவரர் கோயில் வீதி உலா - தொடர் நேரலை",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "u20ZSZBaUxI",
-            "name": "Marathi News Today LIVE | Manoj Jarange Update | Shivsena Hearing News | Thackeray Vs Eknath Shinde",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tmPupQIY25k",
-            "name": "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS",
+            "videoId": "LYw-sFzc834",
+            "name": "World News LIVE: Trump Torches Ilhan Omar at Public Event | ILHAN OMAR | Trump | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "G3ZSpgdaeO0",
-            "name": "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack",
+            "videoId": "dG6oz3_zyzQ",
+            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6zbTNQ5I-1o",
+            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pzKqRfzuxUU",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "f7u7nVwdMes",
+            "name": "🔴LIVE : DMK MK Stalin | mamatabanerjee | உருவாகிறதா 3-வது அணி? தேசிய அரசியலை புரட்டி போட்ட திமுக",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eLDboCfqZvc",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rXpmjFWUPnc",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : हूती के आगे ट्रंप ने किया सरेंडर! Houthi | War",
             "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sZwQOksxg3o",
-            "name": "🔴LIVE: UPI | மொத்த நாடே கதிகலங்கிய செய்தி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1_GaAl9B1Fw",
-            "name": "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dPqOVNCaHdw",
-            "name": "Saudi Arabia-Houthi War LIVE: शाम होते ही सऊदी हुआ बेकाबू? | Drone Attack | Yamen Air Strike News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qlFstIwoqsQ",
-            "name": "Saudi Arabia-Houthi War News LIVE: जंग में बेकाबू हुए सऊदी और हूती! | Drone Attack | Mecca Madina",
-            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
