@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-18T02:40:57.160Z",
+    "generatedAt": "2026-09-18T10:23:19.671Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "cUqy2TxMgpU",
-            "name": "TRUMP NEWS | Donald Trump Goes Live With Explosive Speech That Shocks the Entire Nation",
-            "artist": "MIRROR NOW"
+            "videoId": "KBpQOJx1k2c",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 18 Sept ||  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "DNC TV 24 BANGLA "
         },
         {
             "mood": "storm",
-            "videoId": "L3f83pUm-pU",
-            "name": "🔴 LIVE National & International News | India Latest Updates | World News | Global Affairs Headlines",
-            "artist": "N Uday Media"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NZJBljfm-cc",
-            "name": "LIVE: PRC Meeting Postponed | Latest Updates On PRC Meeting |  ఉద్యోగులకు మళ్లీ నిరాశ! | ZEE",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FVmfbT6VTqY",
-            "name": "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 17 September",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1_GaAl9B1Fw",
-            "name": "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ouOMHYYHgt0",
-            "name": "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xkK9hQofu00",
-            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News",
+            "videoId": "Iwc3YaX2RQQ",
+            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Ow9CW2919kM",
-            "name": "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack",
-            "artist": "NDTV India"
+            "videoId": "8ABQadyOyLA",
+            "name": "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "NdJyPoszc9k",
-            "name": "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE",
-            "artist": "ET Now World"
+            "videoId": "A8FImrFia0c",
+            "name": "Morning Marathi News LIVE | Sakalchya Batmya | 18 Sep | Manoj Jarange Patil | Aaditya Thackeray",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "bRRwUGdRsig",
-            "name": "Saudi Arabia Vs Houthi War Live Updates : ताबड़तोड़ हमले से दहला सऊदी अरब ! | World News | Mecca",
+            "videoId": "tjq5BQ6s9Es",
+            "name": "Houthis Smash Saudi F-15 Over Yemen | Fresh Attack Alert In Mecca, Red Sea 'In Flames' | LIVE",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XGqrg8erQK0",
+            "name": "Marathi News Today LIVE | Disha Salian Case Thackeray | Manoj Jarange Update | Shivsena Hearing News",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j8OGNx1Yo1w",
+            "name": "Today Headlines | 18 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2LXt8U3B5Bo",
+            "name": "Aaj Ki Taaza Khabar LIVE: 18 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Oz3uaM1EBDc",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 18-09-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "2ZrmYsyDBqY",
+            "name": "'Reaper #53 Down': Iran's 'Mystery' Air Defence System Takes Down US MQ-9 Aircraft | Firstpost Live",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q513a3-ZfbE",
+            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {

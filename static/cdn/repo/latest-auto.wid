@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260918T024057.198Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260918T102319.710Z-l4t35t"
   type: "state"
-  created: "2026-09-18T02:40:57.198Z"
+  created: "2026-09-18T10:23:19.710Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T024057.198Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T102319.710Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cUqy2TxMgpU"
-        name: "TRUMP NEWS | Donald Trump Goes Live With Explosive Speech That Shocks the Entire Nation"
-        artist: "MIRROR NOW"
+        videoId: "KBpQOJx1k2c"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 18 Sept ||  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DNC TV 24 BANGLA "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L3f83pUm-pU"
-        name: "🔴 LIVE National & International News | India Latest Updates | World News | Global Affairs Headlines"
-        artist: "N Uday Media"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NZJBljfm-cc"
-        name: "LIVE: PRC Meeting Postponed | Latest Updates On PRC Meeting |  ఉద్యోగులకు మళ్లీ నిరాశ! | ZEE"
-        artist: "Zee Telugu News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FVmfbT6VTqY"
-        name: "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 17 September"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1_GaAl9B1Fw"
-        name: "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ouOMHYYHgt0"
-        name: "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xkK9hQofu00"
-        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News"
+        videoId: "Iwc3YaX2RQQ"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ow9CW2919kM"
-        name: "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack"
-        artist: "NDTV India"
+        videoId: "8ABQadyOyLA"
+        name: "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NdJyPoszc9k"
-        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
-        artist: "ET Now World"
+        videoId: "A8FImrFia0c"
+        name: "Morning Marathi News LIVE | Sakalchya Batmya | 18 Sep | Manoj Jarange Patil | Aaditya Thackeray"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bRRwUGdRsig"
-        name: "Saudi Arabia Vs Houthi War Live Updates : ताबड़तोड़ हमले से दहला सऊदी अरब ! | World News | Mecca"
+        videoId: "tjq5BQ6s9Es"
+        name: "Houthis Smash Saudi F-15 Over Yemen | Fresh Attack Alert In Mecca, Red Sea 'In Flames' | LIVE"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XGqrg8erQK0"
+        name: "Marathi News Today LIVE | Disha Salian Case Thackeray | Manoj Jarange Update | Shivsena Hearing News"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j8OGNx1Yo1w"
+        name: "Today Headlines | 18 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2LXt8U3B5Bo"
+        name: "Aaj Ki Taaza Khabar LIVE: 18 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
         artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Oz3uaM1EBDc"
+        name: "🔴LIVE: Speed News | 24 Headlines | 18-09-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2ZrmYsyDBqY"
+        name: "'Reaper #53 Down': Iran's 'Mystery' Air Defence System Takes Down US MQ-9 Aircraft | Firstpost Live"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q513a3-ZfbE"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-18T02:40:57.198Z"
+  exported_at: "2026-09-18T10:23:19.710Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-18T02:40:57.160Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-18T10:23:19.671Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
