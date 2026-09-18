@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260918T153707.988Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260918T201630.101Z-l4t35t"
   type: "state"
-  created: "2026-09-18T15:37:07.988Z"
+  created: "2026-09-18T20:16:30.101Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T153707.988Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T201630.101Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "UdTXyBK71UI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "knC3ApNex7s"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (18.09.2026) | 11 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "es73ytz0vBw"
-        name: "Pakistan Blast LIVE: Khyber Pakhtunkhwa में नमाज के दौरान धमाका, 12 की मौत, 13 घायल | Breaking"
-        artist: "Aaj Tak"
+        videoId: "j1uPIN9He4E"
+        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ai2-e_ACAkM"
-        name: "Rahul Gandhi's 'Chhatron Ki Goonj': राहुल का इंदौर में 'छात्रों की गूंज' कार्यक्रम | Congress | ABP"
-        artist: "ABP NEWS"
+        videoId: "r2EMQotum0Q"
+        name: "DECODE Live: Sudhir Chaudhary | Saudi Vs Houthis | China | Surendra Koli Nithari Kand| iPhone 18 Pro"
+        artist: "DD News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a0pP_bTy9fw"
-        name: "Out Of Focus Live | 18 September 2026"
-        artist: "MediaoneTV Live"
+        videoId: "3qd2C1usHqI"
+        name: "Today's Breaking News LIVE:PM Modi Birthday | Disha Salian | Houthi Saudi War | Trump Tariffs | Yogi"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JkyZf07_88g"
-        name: "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G"
-        artist: "News18 Urdu"
+        videoId: "Fz1GOjNlwew"
+        name: "World News LIVE | अभी-अभी! Trump के टैरिफ पर बड़ी खबर | India Faces 100% US Tariff | PM Modi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CyeTpDgu0Dc"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 18.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "ZKQy5heBfwk"
+        name: "🔴 LIVE  :  News 1st: Prime Time English News - 9 PM | (18-09-2026)"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MiUpndNynCY"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : मस्जिद में जुमें पर ब्लास्ट ! Pakistan | Mamata"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ITH79qSxqxY"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1nW38eUfr1Y"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "ciZ0OBOK5gQ"
+        name: "LIVE | 'Violated Law...': China's Ship 'Rams' Into Philippine Vessel, Tensions Soar | Firstpost"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S1UmBD930a4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "p4Goj7z0FQ8"
-        name: "China Foreign Ministry LIVE: Beijing Addresses Global Issues | China News LIVE | World News LIVE"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8vGEj4mMsV4"
-        name: "🔴LIVE : CM விஜய்க்கு வந்த GOOD NEWS | Cmvijay | Tvk | Tnpolitics"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1siOONWM5mQ"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 18 Sept. 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "mmS4JMbTFos"
+        name: "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-18T15:37:07.988Z"
+  exported_at: "2026-09-18T20:16:30.101Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-18T15:37:07.949Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-18T20:16:30.060Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
