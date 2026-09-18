@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-17T20:50:01.345Z",
+    "generatedAt": "2026-09-18T02:40:57.160Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4c65KSVVAmY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "cUqy2TxMgpU",
+            "name": "TRUMP NEWS | Donald Trump Goes Live With Explosive Speech That Shocks the Entire Nation",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "CscwbIjTiUk",
-            "name": "Houthi Leader LIVE: Abdul-Malik Al-Houthi To Address Yemen War As Houthis Claim Saudi Jet Downed",
-            "artist": "Firstpost"
+            "videoId": "L3f83pUm-pU",
+            "name": "🔴 LIVE National & International News | India Latest Updates | World News | Global Affairs Headlines",
+            "artist": "N Uday Media"
         },
         {
             "mood": "storm",
-            "videoId": "FPG8t9fSiGk",
-            "name": "🔴LIVE : meenakshiammanTemple | மதுரை ஸ்ரீ மீனாட்சி சுந்தரேசுவரர் கோயில் வீதி உலா - தொடர் நேரலை",
-            "artist": "NewsTamil 24X7"
+            "videoId": "NZJBljfm-cc",
+            "name": "LIVE: PRC Meeting Postponed | Latest Updates On PRC Meeting |  ఉద్యోగులకు మళ్లీ నిరాశ! | ZEE",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "LYw-sFzc834",
-            "name": "World News LIVE: Trump Torches Ilhan Omar at Public Event | ILHAN OMAR | Trump | US News LIVE",
+            "videoId": "FVmfbT6VTqY",
+            "name": "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 17 September",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1_GaAl9B1Fw",
+            "name": "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ouOMHYYHgt0",
+            "name": "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xkK9hQofu00",
+            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "dG6oz3_zyzQ",
-            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6zbTNQ5I-1o",
-            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pzKqRfzuxUU",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f7u7nVwdMes",
-            "name": "🔴LIVE : DMK MK Stalin | mamatabanerjee | உருவாகிறதா 3-வது அணி? தேசிய அரசியலை புரட்டி போட்ட திமுக",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eLDboCfqZvc",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rXpmjFWUPnc",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : हूती के आगे ट्रंप ने किया सरेंडर! Houthi | War",
+            "videoId": "Ow9CW2919kM",
+            "name": "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack",
             "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NdJyPoszc9k",
+            "name": "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bRRwUGdRsig",
+            "name": "Saudi Arabia Vs Houthi War Live Updates : ताबड़तोड़ हमले से दहला सऊदी अरब ! | World News | Mecca",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {

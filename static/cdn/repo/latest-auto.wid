@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260917T205001.391Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260918T024057.198Z-l4t35t"
   type: "state"
-  created: "2026-09-17T20:50:01.391Z"
+  created: "2026-09-18T02:40:57.198Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260917T205001.391Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T024057.198Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "4c65KSVVAmY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "cUqy2TxMgpU"
+        name: "TRUMP NEWS | Donald Trump Goes Live With Explosive Speech That Shocks the Entire Nation"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CscwbIjTiUk"
-        name: "Houthi Leader LIVE: Abdul-Malik Al-Houthi To Address Yemen War As Houthis Claim Saudi Jet Downed"
-        artist: "Firstpost"
+        videoId: "L3f83pUm-pU"
+        name: "🔴 LIVE National & International News | India Latest Updates | World News | Global Affairs Headlines"
+        artist: "N Uday Media"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FPG8t9fSiGk"
-        name: "🔴LIVE : meenakshiammanTemple | மதுரை ஸ்ரீ மீனாட்சி சுந்தரேசுவரர் கோயில் வீதி உலா - தொடர் நேரலை"
-        artist: "NewsTamil 24X7"
+        videoId: "NZJBljfm-cc"
+        name: "LIVE: PRC Meeting Postponed | Latest Updates On PRC Meeting |  ఉద్యోగులకు మళ్లీ నిరాశ! | ZEE"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LYw-sFzc834"
-        name: "World News LIVE: Trump Torches Ilhan Omar at Public Event | ILHAN OMAR | Trump | US News LIVE"
+        videoId: "FVmfbT6VTqY"
+        name: "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 17 September"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1_GaAl9B1Fw"
+        name: "Sandeep Chaudhary LIVE: ट्रंप का टैरिफ वार...India पर लटकी तलवार? | 100% Trump tariffs | Russian Oil"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ouOMHYYHgt0"
+        name: "WORLD NEWS LIVE: Trump & Elon Musk Shock Washington | Cabinet Reacts to Surprise Move"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xkK9hQofu00"
+        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dG6oz3_zyzQ"
-        name: "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6zbTNQ5I-1o"
-        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pzKqRfzuxUU"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "f7u7nVwdMes"
-        name: "🔴LIVE : DMK MK Stalin | mamatabanerjee | உருவாகிறதா 3-வது அணி? தேசிய அரசியலை புரட்டி போட்ட திமுக"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eLDboCfqZvc"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rXpmjFWUPnc"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : हूती के आगे ट्रंप ने किया सरेंडर! Houthi | War"
+        videoId: "Ow9CW2919kM"
+        name: "सऊदी हूती जंग,बॉर्डर से सीधा LIVE | Saudi Arabia Under Attack | Houthi | War | Mecca Under Attack"
         artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "NdJyPoszc9k"
+        name: "Trump LIVE | Trump Makes STUNNING Announcement in All-Important Press Conference | US News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bRRwUGdRsig"
+        name: "Saudi Arabia Vs Houthi War Live Updates : ताबड़तोड़ हमले से दहला सऊदी अरब ! | World News | Mecca"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-17T20:50:01.391Z"
+  exported_at: "2026-09-18T02:40:57.198Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-17T20:50:01.345Z"
+  source_generated_at: "2026-09-18T02:40:57.160Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
