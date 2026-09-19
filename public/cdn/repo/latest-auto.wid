@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260919T100655.972Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260919T195319.797Z-l4t35t"
   type: "state"
-  created: "2026-09-19T10:06:55.972Z"
+  created: "2026-09-19T19:53:19.797Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260919T100655.972Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260919T195319.797Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Bx-OAA5J7IE"
-        name: "BREAKING News LIVE: Trump Responds After Assassination Attempt Scare In DC | Security Under Fire"
-        artist: "ET Now"
+        videoId: "X53ZZWMgh3Y"
+        name: "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-AdCTHoilWg"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
+        videoId: "-1sU7MvkFqQ"
+        name: "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qfW4xDUrYsI"
-        name: "DUSU Election Result 2026 LIVE : DUSU चुनाव के वोटों की गिनती जारी | NSUI | ABVP | SFI"
-        artist: "NDTV India"
+        videoId: "KlBDLxLr3O0"
+        name: "Pakistan Mosque Blast Live: 31 Killed, 100 Injured in Kohat Attack | World News | News18 J&K"
+        artist: "News18 J&K"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YuOpPGTEETU"
-        name: "Morning Marathi News LIVE | Sakalchya Batmya | 19 Sep | Manoj Jarange Patil | Shiv Sena | TMC"
-        artist: "News18 Marathi"
+        videoId: "nShzU_K53fg"
+        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YuuPqAqpR2g"
-        name: "🔴LIVE : CM Vijay | TVK | Jason Sanjay Speech | என்னோட அப்பா விஜய்.. மனம் திறந்த மகன் ஜேசன் சஞ்சய்"
-        artist: "NewsTamil 24X7"
+        videoId: "58ijz_DCwww"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SyN_3VIlVmg"
-        name: "Today Headlines | 19 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "LgoTM65DgWs"
+        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (19-09-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QG0_5KzayQA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "moxvxVVyBNQ"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jZLyZPB7WXs"
+        name: "🔴LIVE: CM Vijay | TVK | CM விஜய்யின் அரசியல் சம்பவம் - தீ பிடிக்கும் தமிழக களம்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fUjHleoB4Qo"
-        name: "Iran America War Update: युद्ध के मैदान से सीधे Live |Trump | US Military | Hormuz | IRGC | Top News"
-        artist: "TV9 Bharatvarsh"
+        videoId: "Qh0AZT7PpSM"
+        name: "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Cwr8qscfa04"
-        name: "Aaj Ki Taaza Khabar LIVE: 19 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
-        artist: "Times Now Navbharat"
+        videoId: "tpbd0XR0uHo"
+        name: "Jinping Death News Live:  6 बजते ही चीन में बजा सायरन जिनपिंग की मौत..?! Breaking News | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kKuwCV-KhUU"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 19 september 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-19T10:06:55.972Z"
+  exported_at: "2026-09-19T19:53:19.797Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-19T10:06:55.938Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: CHMTZO-VaGM (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-09-19T19:53:19.759Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
