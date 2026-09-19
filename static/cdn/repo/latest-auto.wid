@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260918T201630.101Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260919T023954.788Z-l4t35t"
   type: "state"
-  created: "2026-09-18T20:16:30.101Z"
+  created: "2026-09-19T02:39:54.788Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260918T201630.101Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260919T023954.788Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "knC3ApNex7s"
-        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (18.09.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "WWYGzak5JpU"
+        name: "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j1uPIN9He4E"
+        videoId: "RsjARAzPYyE"
+        name: "US Iran War LIVE: Trump's Chilling Warning To Iran Puts America On High Alert | Tehran | US News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QyWvpdTt4Fc"
         name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G"
         artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r2EMQotum0Q"
-        name: "DECODE Live: Sudhir Chaudhary | Saudi Vs Houthis | China | Surendra Koli Nithari Kand| iPhone 18 Pro"
-        artist: "DD News"
+        videoId: "A2EqhU-ArNI"
+        name: "Saudi Arabia vs Houthi News LIVE :सऊदी का बदला शुरू? | Drone Attack | Mecca Madina | Yamen"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3qd2C1usHqI"
-        name: "Today's Breaking News LIVE:PM Modi Birthday | Disha Salian | Houthi Saudi War | Trump Tariffs | Yogi"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fz1GOjNlwew"
-        name: "World News LIVE | अभी-अभी! Trump के टैरिफ पर बड़ी खबर | India Faces 100% US Tariff | PM Modi"
+        videoId: "Hb-wR3fWX_k"
+        name: "Saudi Arabia Vs Houthi War Live Updates : सऊदी अरब का बदला शुरू ? | World News |Mecca |Breaking News"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZKQy5heBfwk"
-        name: "🔴 LIVE  :  News 1st: Prime Time English News - 9 PM | (18-09-2026)"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "7EhmEuLaFOw"
+        name: "ABC World News Tonight With David Muir 9/18/26 | ABC News Today September 18, 2026 HD"
+        artist: "Antra Cine Vision"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MiUpndNynCY"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : मस्जिद में जुमें पर ब्लास्ट ! Pakistan | Mamata"
-        artist: "NDTV India"
+        videoId: "iZpEj5KoGak"
+        name: "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ITH79qSxqxY"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ciZ0OBOK5gQ"
-        name: "LIVE | 'Violated Law...': China's Ship 'Rams' Into Philippine Vessel, Tensions Soar | Firstpost"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mmS4JMbTFos"
-        name: "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G"
-        artist: "News18 Urdu"
+        videoId: "u05QUtlojXA"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-18T20:16:30.101Z"
+  exported_at: "2026-09-19T02:39:54.788Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-18T20:16:30.060Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-19T02:39:54.750Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
