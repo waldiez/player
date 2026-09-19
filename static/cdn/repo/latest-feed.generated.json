@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-19T02:39:54.750Z",
+    "generatedAt": "2026-09-19T10:06:55.938Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WWYGzak5JpU",
-            "name": "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RsjARAzPYyE",
-            "name": "US Iran War LIVE: Trump's Chilling Warning To Iran Puts America On High Alert | Tehran | US News",
+            "videoId": "Bx-OAA5J7IE",
+            "name": "BREAKING News LIVE: Trump Responds After Assassination Attempt Scare In DC | Security Under Fire",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "QyWvpdTt4Fc",
-            "name": "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G",
-            "artist": "News18 UP Uttarakhand"
+            "videoId": "-AdCTHoilWg",
+            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "A2EqhU-ArNI",
-            "name": "Saudi Arabia vs Houthi News LIVE :सऊदी का बदला शुरू? | Drone Attack | Mecca Madina | Yamen",
-            "artist": "ABP NEWS"
+            "videoId": "qfW4xDUrYsI",
+            "name": "DUSU Election Result 2026 LIVE : DUSU चुनाव के वोटों की गिनती जारी | NSUI | ABVP | SFI",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Hb-wR3fWX_k",
-            "name": "Saudi Arabia Vs Houthi War Live Updates : सऊदी अरब का बदला शुरू ? | World News |Mecca |Breaking News",
-            "artist": "Times Now Navbharat"
+            "videoId": "YuOpPGTEETU",
+            "name": "Morning Marathi News LIVE | Sakalchya Batmya | 19 Sep | Manoj Jarange Patil | Shiv Sena | TMC",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "7EhmEuLaFOw",
-            "name": "ABC World News Tonight With David Muir 9/18/26 | ABC News Today September 18, 2026 HD",
-            "artist": "Antra Cine Vision"
+            "videoId": "YuuPqAqpR2g",
+            "name": "🔴LIVE : CM Vijay | TVK | Jason Sanjay Speech | என்னோட அப்பா விஜய்.. மனம் திறந்த மகன் ஜேசன் சஞ்சய்",
+            "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "iZpEj5KoGak",
-            "name": "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Weather |Breaking News | Superfast |News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "u05QUtlojXA",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.09.2026) | Sathiyam Headlines",
+            "videoId": "SyN_3VIlVmg",
+            "name": "Today Headlines | 19 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fUjHleoB4Qo",
+            "name": "Iran America War Update: युद्ध के मैदान से सीधे Live |Trump | US Military | Hormuz | IRGC | Top News",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CHMTZO-VaGM",
+            "name": "🔴LIVE : CM Vijay | TVK | Jason Sanjay Speech  அப்பா விஜய்க்கு. அரங்கத்தை அதிரவிட்ட மகன் ஜேசன் சஞ்சய்",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Cwr8qscfa04",
+            "name": "Aaj Ki Taaza Khabar LIVE: 19 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
