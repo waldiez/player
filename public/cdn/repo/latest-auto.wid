@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260920T025216.994Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260920T102530.301Z-l4t35t"
   type: "state"
-  created: "2026-09-20T02:52:16.994Z"
+  created: "2026-09-20T10:25:30.301Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260920T025216.994Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260920T102530.301Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "PjXmHCr7Hjs"
+        videoId: "Yksr-3AnP4E"
+        name: "Saudi Arabia-Houthi War LIVE: हूती और सऊदी कीलड़ाई के बीच कूदा तुर्की, मची खलबली! | Drone Attack"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Oz2vwJEm8iM"
+        name: "Aaj Ki Taaza Khabar LIVE: 20 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bQ-Eq69yUk8"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tOxGJdeNdaI"
         name: "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9EZFLLzEEwk"
-        name: "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News | N18G"
-        artist: "CNN-News18"
+        videoId: "tarptoM6jho"
+        name: "DNA with Bharath LIVE : ఉద్యోగులకు భారీ షాక్! | TG Employees DA & PRC | Congress Govt | ZEE News"
+        artist: "Zee Telugu News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CV6OZJuUXj8"
-        name: "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G"
-        artist: "News18 Urdu"
+        videoId: "gpIXNvpqAa0"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TyB9HeZGfvs"
-        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G"
-        artist: "News18 UP Uttarakhand"
+        videoId: "B-mUzHThm_M"
+        name: "Marathi News Today LIVE | Maharashtra Politics | Disha Salian Case Thackeray | Manoj Jarange News"
+        artist: "News18 Marathi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NyckGQtvIAY"
-        name: "🔴LIVE :  ஸ்டாலின் பரபரப்பு பேச்சு  | MK Stalin | UdhayanidhiStalin | DMK2026"
-        artist: "NewsTamil 24X7"
+        videoId: "96JV5ykTdXE"
+        name: "Today Headlines | 20 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9BNzCfWJ2GM"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 18 Sept. 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "QRRx6aEOGv8"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ । 20.09.2026 | Today News | Breaking News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZmYMbZJo0cs"
-        name: "LIVE: ABC News Live - Saturday, September 19 | ABC News"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uR6t25M2Sh0"
-        name: "ABC World News Tonight With David Muir 9/19/26 | ABC News Today September 19, 2026 HD"
-        artist: "Dev Gurjar Rasiya"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uP_C6VGG5h4"
-        name: "Russian drone SHOT DOWN in NATO airspace"
-        artist: "Fox News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "135KiqcPkko"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "NX আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "se4s10sBkL4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 19 Sept ||  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "DNC TV 24 BANGLA "
+        videoId: "e75o0auyiSE"
+        name: "20 September Big News LIVE: 20 सितंबर मौत बनकर आया!, 1000 हूती की मौत ने हिला दी दुनिया?| 100 Khabar"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-20T02:52:16.994Z"
+  exported_at: "2026-09-20T10:25:30.301Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-20T02:52:16.955Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-20T10:25:30.269Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
