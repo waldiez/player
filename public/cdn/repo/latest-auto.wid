@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260919T195319.797Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260920T025216.994Z-l4t35t"
   type: "state"
-  created: "2026-09-19T19:53:19.797Z"
+  created: "2026-09-20T02:52:16.994Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260919T195319.797Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260920T025216.994Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "X53ZZWMgh3Y"
+        videoId: "PjXmHCr7Hjs"
         name: "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-1sU7MvkFqQ"
-        name: "Saudi Arabia vs Houthi War LIVE :سعودی کا بدلہ شروع؟ | Drone Attack | Mecca Madina | Gulf War | N18G"
-        artist: "News18 Urdu"
+        videoId: "9EZFLLzEEwk"
+        name: "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KlBDLxLr3O0"
-        name: "Pakistan Mosque Blast Live: 31 Killed, 100 Injured in Kohat Attack | World News | News18 J&K"
-        artist: "News18 J&K"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nShzU_K53fg"
-        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "58ijz_DCwww"
-        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LgoTM65DgWs"
-        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (19-09-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QG0_5KzayQA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "moxvxVVyBNQ"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jZLyZPB7WXs"
-        name: "🔴LIVE: CM Vijay | TVK | CM விஜய்யின் அரசியல் சம்பவம் - தீ பிடிக்கும் தமிழக களம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Qh0AZT7PpSM"
+        videoId: "CV6OZJuUXj8"
         name: "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tpbd0XR0uHo"
-        name: "Jinping Death News Live:  6 बजते ही चीन में बजा सायरन जिनपिंग की मौत..?! Breaking News | India News"
-        artist: "India News"
+        videoId: "TyB9HeZGfvs"
+        name: "Iran America War Live Update: ईरान-अमेरिका महायुद्ध की खबर | Hormuz Attack | Trump | IRGC | N18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kKuwCV-KhUU"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 19 september 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "NyckGQtvIAY"
+        name: "🔴LIVE :  ஸ்டாலின் பரபரப்பு பேச்சு  | MK Stalin | UdhayanidhiStalin | DMK2026"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9BNzCfWJ2GM"
+        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 18 Sept. 2026 | Jamuna TV"
+        artist: "Jamuna TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZmYMbZJo0cs"
+        name: "LIVE: ABC News Live - Saturday, September 19 | ABC News"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uR6t25M2Sh0"
+        name: "ABC World News Tonight With David Muir 9/19/26 | ABC News Today September 19, 2026 HD"
+        artist: "Dev Gurjar Rasiya"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uP_C6VGG5h4"
+        name: "Russian drone SHOT DOWN in NATO airspace"
+        artist: "Fox News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "135KiqcPkko"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "NX আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "se4s10sBkL4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ || 19 Sept ||  2026 | BBC World News Bangla বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "DNC TV 24 BANGLA "
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-19T19:53:19.797Z"
+  exported_at: "2026-09-20T02:52:16.994Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-19T19:53:19.759Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-20T02:52:16.955Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
