@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-20T10:25:30.269Z",
+    "generatedAt": "2026-09-20T15:15:10.457Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Yksr-3AnP4E",
-            "name": "Saudi Arabia-Houthi War LIVE: हूती और सऊदी कीलड़ाई के बीच कूदा तुर्की, मची खलबली! | Drone Attack",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Oz2vwJEm8iM",
-            "name": "Aaj Ki Taaza Khabar LIVE: 20 September 2026 | UCC | PM Modi | Amit Shah | Hindi News | Taaja Khabar",
+            "videoId": "g6iB3He9pYY",
+            "name": "World News LIVE | Breaking News | Middle East में कुछ बड़ा होने वाला है ? | Trump | US Iran War",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "bQ-Eq69yUk8",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
-            "artist": "Times Now"
+            "videoId": "XFzDyW97fe4",
+            "name": "Jinping Death News Live: जिनपिंग को लाया जा रहा भारत? ! Breaking News | India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "tOxGJdeNdaI",
-            "name": "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "LD7wiW1wEbY",
+            "name": "Saudi-Houthi War LIVE | Houthis Vs Nuclear Power? Pakistan Hints At Joining Saudi In War",
+            "artist": "Hindustan Times"
         },
         {
             "mood": "storm",
-            "videoId": "tarptoM6jho",
-            "name": "DNA with Bharath LIVE : ఉద్యోగులకు భారీ షాక్! | TG Employees DA & PRC | Congress Govt | ZEE News",
-            "artist": "Zee Telugu News"
+            "videoId": "bNGgqWQ07KE",
+            "name": "🔴LIVE :SaudiArabia | SaudiArabiaAttack | சவுதி மீது தாக்குதல் - கொதிக்கும் மத்திய கிழக்கு",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "gpIXNvpqAa0",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B-mUzHThm_M",
-            "name": "Marathi News Today LIVE | Maharashtra Politics | Disha Salian Case Thackeray | Manoj Jarange News",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "96JV5ykTdXE",
-            "name": "Today Headlines | 20 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QRRx6aEOGv8",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ । 20.09.2026 | Today News | Breaking News | Latest News | ATN Bangla",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "e75o0auyiSE",
-            "name": "20 September Big News LIVE: 20 सितंबर मौत बनकर आया!, 1000 हूती की मौत ने हिला दी दुनिया?| 100 Khabar",
+            "videoId": "Q_r1uMFxbkg",
+            "name": "Nitish Kumar News LIVE: आ गया नीतीश का 'लेटर बम', बीजेपी में हड़कंप!, CM बनेंगे? | Big Breaking",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wuY5gSh0LZU",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (20.09.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
