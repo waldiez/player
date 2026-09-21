@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-21T02:49:28.748Z",
+    "generatedAt": "2026-09-21T11:42:15.338Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7DsoBFOU3xY",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 23 Sep",
-            "artist": "Sairbeen News 24"
+            "videoId": "jIqs1GiOqHA",
+            "name": "Today's Breaking News LIVE: PM Modi Mimicry | PM Modi | Houthis Attack | US Iran War | Weather",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Y4oUUYHAVz4",
-            "name": "Iran Strikes Tanker In Hormuz As US Faces Fresh UN War Crime Claims | US IRAN WAR LIVE",
-            "artist": "Firstpost"
+            "videoId": "ZKekvWdTq3U",
+            "name": "Pakistan Attacks Afghanistan: एयरस्ट्राइक के बाद तालिबान का पलटवार |World News | Top News",
+            "artist": "News18 Rajasthan"
         },
         {
             "mood": "storm",
-            "videoId": "HE2vBuu4gsI",
-            "name": "US NEWS LIVE: Massive Bombshell in Fiery Speech | Breaking News | TRUMP LIVE | IRAN",
-            "artist": "ET Now"
+            "videoId": "iO5n3d3N4l4",
+            "name": "🔴LIVE :  Today Headlines |மதியம் 2 மணி தலைப்புச் செய்திகள் (21.09.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "RicOXi8KEwE",
-            "name": "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE",
-            "artist": "ET Now World"
+            "videoId": "YTYm3P5MiEA",
+            "name": "Aaj Ki Taaza Khabar LIVE: 21 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "K1f2L3uczSc",
-            "name": "🔴LIVE: CM VIJAY | TVK | CM விஜய் வருகை..! மொத்தமாக மாறிய மதுராந்தகம் | BY-Election",
+            "videoId": "GY6_Vko0bi4",
+            "name": "🔴LIVE: Rice Rate | விடிந்ததும் தமிழக மக்களுக்கு ஷாக் நியூஸ் | Rice Price Hike",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5lN5djpSjJI",
+            "name": "🔴LIVE: CM VIJAY | TVK | மாற்றம் GAME ஐ மாற்றிய CM விஜய்.. Blastuu  | BY-Election | Madhuranthagam",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "pvPm5798YdA",
-            "name": "Trump LIVE: What Triggered His Latest Response? Breaking News & Updates | Trump Angry Reaction",
-            "artist": "Times Now World"
+            "videoId": "Wumsyw5Ibt8",
+            "name": "US-Iran War LIVE: Israel To Get 40,000 US Heavy Bombs, Will Iran Face a Massive Air Assault?  |WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "zVoLhmwrdhE",
-            "name": "US Iran War LIVE | Iran Rains Hell On U.S. Bases In Gulf, Trump Orders Big Retaliation | N18G",
+            "videoId": "ijqZ0KNNKAw",
+            "name": "Donald Trump LIVE: Emergency Speech, Viral Moments & Latest Reactions | Trump Latest News",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GkRWFo98ZLA",
+            "name": "🔴LIVE : CM விஜய் அவசர ஆலோசனை..! | CM Vijay Emergency Meeting | TVK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ROOML3wDfoE",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (21.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aO0hNrM9wWM",
+            "name": "U.S. Latest News LIVE: ICE Shooting In Austin| AI Regularities | Midterms | Iran US War | N18G",
             "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "TbuZRAj3NpA",
-            "name": "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News | N18G",
-            "artist": "CNN-News18"
+            "videoId": "3uw7YDb7yXk",
+            "name": "🔴LIVE: CM Vijay | TVK | இடைத்தேர்தலில் மாபெரும் ட்விஸ்ட் - கசிந்தது  CM விஜயின் Exclusive சீக்ரெட்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
