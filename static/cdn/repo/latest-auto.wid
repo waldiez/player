@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260921T114215.377Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260921T173839.493Z-l4t35t"
   type: "state"
-  created: "2026-09-21T11:42:15.377Z"
+  created: "2026-09-21T17:38:39.493Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260921T114215.377Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260921T173839.493Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jIqs1GiOqHA"
-        name: "Today's Breaking News LIVE: PM Modi Mimicry | PM Modi | Houthis Attack | US Iran War | Weather"
+        videoId: "-KEZ-l4qRgQ"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2T3t-19M1k4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fiyZY8V0G5o"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : बिहार में हैवानियत.. भड़क उठे राहुल ! Bihar Jamui"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZKekvWdTq3U"
-        name: "Pakistan Attacks Afghanistan: एयरस्ट्राइक के बाद तालिबान का पलटवार |World News | Top News"
-        artist: "News18 Rajasthan"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iO5n3d3N4l4"
-        name: "🔴LIVE :  Today Headlines |மதியம் 2 மணி தலைப்புச் செய்திகள் (21.09.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YTYm3P5MiEA"
-        name: "Aaj Ki Taaza Khabar LIVE: 21 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GY6_Vko0bi4"
-        name: "🔴LIVE: Rice Rate | விடிந்ததும் தமிழக மக்களுக்கு ஷாக் நியூஸ் | Rice Price Hike"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5lN5djpSjJI"
-        name: "🔴LIVE: CM VIJAY | TVK | மாற்றம் GAME ஐ மாற்றிய CM விஜய்.. Blastuu  | BY-Election | Madhuranthagam"
+        videoId: "-PZstJlnghY"
+        name: "🔴LIVE: CM VIJAY | TVK | இதுவரை பார்க்காத ஆவேசத்தில் CM விஜய்..| TVK Govt | TamilNews | Live News"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wumsyw5Ibt8"
-        name: "US-Iran War LIVE: Israel To Get 40,000 US Heavy Bombs, Will Iran Face a Massive Air Assault?  |WION"
-        artist: "WION"
+        videoId: "egw9UGzN4Y8"
+        name: "US Breaking NEWS LIVE: Trump Drops MASSIVE Bombshell, Gets Furious | Fiery Speech Shocks Nation"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ijqZ0KNNKAw"
-        name: "Donald Trump LIVE: Emergency Speech, Viral Moments & Latest Reactions | Trump Latest News"
-        artist: "MIRROR NOW"
+        videoId: "st5RS5MIgd4"
+        name: "Today Breaking News LIVE:US Iran Crisis |Sudhanshu Trivedi On Rahul Gandhi,Hamid |Russia Ukraine War"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GkRWFo98ZLA"
-        name: "🔴LIVE : CM விஜய் அவசர ஆலோசனை..! | CM Vijay Emergency Meeting | TVK"
-        artist: "NewsTamil 24X7"
+        videoId: "cC5wbHLn9Lk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ROOML3wDfoE"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (21.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "odt6_RUQqC0"
+        name: "এশিয়ায় আলাদা নতুন মুসলিম রাষ্ট্র গঠনের ঘোষণা, নেপথ্যে কী? | New Muslim State Asia | ATN News"
+        artist: "ATN News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aO0hNrM9wWM"
-        name: "U.S. Latest News LIVE: ICE Shooting In Austin| AI Regularities | Midterms | Iran US War | N18G"
-        artist: "CNN-News18"
+        videoId: "FUK47CFc3rA"
+        name: "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3uw7YDb7yXk"
-        name: "🔴LIVE: CM Vijay | TVK | இடைத்தேர்தலில் மாபெரும் ட்விஸ்ட் - கசிந்தது  CM விஜயின் Exclusive சீக்ரெட்"
-        artist: "Sathiyam News"
+        videoId: "SSx3VjoLnKY"
+        name: "LIVE: J&K Assembly, Huge Uproar, Hungama & Ruckus in assembly | BJP MLAs Protest, NC & Congress MLAs"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-21T11:42:15.377Z"
+  exported_at: "2026-09-21T17:38:39.493Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-21T11:42:15.338Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-21T17:38:39.462Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
