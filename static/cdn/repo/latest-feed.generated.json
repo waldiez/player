@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-20T20:08:30.985Z",
+    "generatedAt": "2026-09-21T02:49:28.748Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qudmQUY4TYU",
-            "name": "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News",
-            "artist": "Times Now"
+            "videoId": "7DsoBFOU3xY",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 23 Sep",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "HHgXuLmGd3o",
-            "name": "Iran America War Live:  Trump’s New Threat, Iran Warns of Painful Retaliation | World News",
-            "artist": "News18 J&K"
+            "videoId": "Y4oUUYHAVz4",
+            "name": "Iran Strikes Tanker In Hormuz As US Faces Fresh UN War Crime Claims | US IRAN WAR LIVE",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "NBrXfiRO7zI",
-            "name": "Houthi Saudi War LIVE:S National Warning Platform Activated In Mecca, Jeddah & Taif | Yemen | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "HE2vBuu4gsI",
+            "name": "US NEWS LIVE: Massive Bombshell in Fiery Speech | Breaking News | TRUMP LIVE | IRAN",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "0ZR_UbNm1wE",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "RicOXi8KEwE",
+            "name": "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "ZQIqa68aLrc",
-            "name": "Donald Trump LIVE: Emergency Speech, Viral Moments & Latest Reactions | Trump Latest News",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g_0LKTIGqHg",
-            "name": "🔴LIVE: அடுத்த 4 நாட்கள்.. தமிழகத்தை ஆட்டிப்படைக்க போகும் மழை",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EbweCjgN9-I",
-            "name": "LIVE: सऊदी अरब का बदला शुरू? LIVE | Saudi Arabia Under Attack | Houthi | War News | Breaking News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w7L58HTRZRM",
-            "name": "LIVE with Dr. Shahid Masood | Fierce war on new fronts | Houthi Militia vs Saudi Arabia | 20 Sep2026",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UzALolVcGcQ",
-            "name": "🔴LIVE: கேரளாவில்  மீண்டும் நிலச்சரிவு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FLLgTFr5so0",
-            "name": "🔴LIVE : Shanthi narayanasamy passed away | நடிகர் பிரபு சகோதரி மறைவு.. வீட்டிலிருந்து நேரலை",
+            "videoId": "K1f2L3uczSc",
+            "name": "🔴LIVE: CM VIJAY | TVK | CM விஜய் வருகை..! மொத்தமாக மாறிய மதுராந்தகம் | BY-Election",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "E9zboQFGGU8",
-            "name": "Today Breaking News LIVE: शाम 9 बजे की सबसे बड़ी खबरें | PM Modi | Rahul Gandhi | Russia Ukraine War",
-            "artist": "Zee News"
+            "videoId": "pvPm5798YdA",
+            "name": "Trump LIVE: What Triggered His Latest Response? Breaking News & Updates | Trump Angry Reaction",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "_YFrNKde5t8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "zVoLhmwrdhE",
+            "name": "US Iran War LIVE | Iran Rains Hell On U.S. Bases In Gulf, Trump Orders Big Retaliation | N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TbuZRAj3NpA",
+            "name": "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News | N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
