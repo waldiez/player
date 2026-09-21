@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260921T173839.493Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260921T213319.461Z-l4t35t"
   type: "state"
-  created: "2026-09-21T17:38:39.493Z"
+  created: "2026-09-21T21:33:19.461Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260921T173839.493Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260921T213319.461Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-KEZ-l4qRgQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "qH00PDJwFTw"
+        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2T3t-19M1k4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fiyZY8V0G5o"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : बिहार में हैवानियत.. भड़क उठे राहुल ! Bihar Jamui"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-PZstJlnghY"
-        name: "🔴LIVE: CM VIJAY | TVK | இதுவரை பார்க்காத ஆவேசத்தில் CM விஜய்..| TVK Govt | TamilNews | Live News"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "egw9UGzN4Y8"
-        name: "US Breaking NEWS LIVE: Trump Drops MASSIVE Bombshell, Gets Furious | Fiery Speech Shocks Nation"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "st5RS5MIgd4"
-        name: "Today Breaking News LIVE:US Iran Crisis |Sudhanshu Trivedi On Rahul Gandhi,Hamid |Russia Ukraine War"
-        artist: "Zee News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cC5wbHLn9Lk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "odt6_RUQqC0"
-        name: "এশিয়ায় আলাদা নতুন মুসলিম রাষ্ট্র গঠনের ঘোষণা, নেপথ্যে কী? | New Muslim State Asia | ATN News"
-        artist: "ATN News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FUK47CFc3rA"
-        name: "Trump LIVE: “WW3 on the Line?” Trump Shocks the World | Major Global Update | Breaking News"
+        videoId: "HbyAY6I92UQ"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SSx3VjoLnKY"
-        name: "LIVE: J&K Assembly, Huge Uproar, Hungama & Ruckus in assembly | BJP MLAs Protest, NC & Congress MLAs"
-        artist: "News18 Urdu"
+        videoId: "3LMrcy3_VAY"
+        name: "US NEWS LIVE: Trump Makes Major Announcement | Donald Trump Speech & Latest US News | TRUMP LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Lu9I2IPM_2E"
+        name: "PUTIN NEWS LIVE: Putin’s Latest Remarks and Major War Developments | Putin Ukraine War"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tf23agC0KOM"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7LDF1BzCvEA"
+        name: "Aaj Ki Taaza Khabar LIVE: 21 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "87B4Y5_QRZ0"
+        name: "🔴LIVE: Tn Weather Update | குறிவைத்த சிஸ்டம் - அடுத்த 24 மணி நேரத்தில்.."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WkqEUiKkz50"
+        name: "LIVE with Dr. Shahid Masood | The war in Yemen has worsened | 21 Sep 2026 I GNN"
+        artist: "GNN"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OgqOTMUsSig"
+        name: "LIVE | Saudi Arabia Under Attack: Has the Mecca Pact Failed? | The Palki Sharma Show"
+        artist: "India Global Review"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-21T17:38:39.493Z"
+  exported_at: "2026-09-21T21:33:19.461Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-21T17:38:39.462Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-21T21:33:19.417Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
