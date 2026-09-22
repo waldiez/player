@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-22T10:45:42.613Z",
+    "generatedAt": "2026-09-22T16:05:11.335Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eyp9kEmX64s",
-            "name": "🔴LIVE : CM VIJAY | TVK || காமராஜர் காலை உணவு விரிவாக்கத் திட்டம்..  தொடங்கி வைக்கும் CM விஜய்",
+            "videoId": "nxbtpoAhQO8",
+            "name": "President Trump speaks at United Nations General Assembly",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "adZRaRJxkVk",
+            "name": "Senate Hearing LIVE: Kash Patel Responds to Epstein Files Questions | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "E2RsQzG5KEs",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1iX-9_qJls4",
+            "name": "Iran Warns US: ‘New Weapons, New Targets’ If Trump Escalates War | US Iran War Updates LIVE",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1cXAKVN4z2g",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (22.09.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bUIDXv7DxYU",
+            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 22 ‍SEPTEMBER | World News | International News | NEWS24",
+            "artist": "NEWS24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Nopnwi0V9s8",
+            "name": "🔴LIVE : Gem Veeramani Case | புரட்டிப்போட்ட வீரமணி CASE கைதான கணேசன் பகீர் வாக்குமூலம்",
             "artist": "NewsTamil 24X7"
         },
         {
             "mood": "storm",
-            "videoId": "KCQqnC3cib4",
-            "name": "Aaj Ki Taaza Khabar LIVE: 22 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar",
-            "artist": "Times Now Navbharat"
+            "videoId": "IEwzpXCal3k",
+            "name": "Donald Trump LIVE | NUKE IRAN? Trump’s Explosive Response as US-Iran War Rages On | War News LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "l1CufGLmGtI",
-            "name": "J&K Assembly Session LIVE | Autumn Session of Jammu & Kashmir Assembly | Srinagar | Kashmir Politics",
-            "artist": "News18 Urdu"
+            "videoId": "Fl-6Wf1QG1E",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "07E0y1B54Oo",
-            "name": "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Monsoon 2026 | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "gmimh3qxLrM",
+            "name": "US-Iran WAR LIVE: Iran Deploys 420,000 Soldiers | US Ground Invasion Next? | Iran War Live Updates",
+            "artist": "DNAIndiaNews"
         },
         {
             "mood": "storm",
-            "videoId": "SI9vaoEndQo",
-            "name": "Super Fast 100 News LIVE: Aaj Ki 100 Khabar | Headlines Today | Top News | Breaking | 22 September",
-            "artist": "Republic Bharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z4_MBuo2Ubo",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aPG-A7Dx8wE",
-            "name": "Bihar Latest News: जमुई केस में चश्मदीदों का सन्न करने वाला खुलासा LIVE",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KK0PQ2X4xi8",
-            "name": "Super Fast 100 News LIVE: 22 तारीख की 100 खबरों ने लोगों के उड़ाए होश! | Aaj Ki Khabar | Bihar | 100",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DxNK7TACQhw",
-            "name": "US-Iran War LIVE: Trump's 'Blow Up Iran' Threat Meets Retaliation As Iran Warns Of Painful Strikes",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b5QWXqOHZjc",
-            "name": "🔴LIVE : CM விஜய் எடுத்த முக்கிய முடிவு | CM Vijay Emergency Meeting | TVK",
-            "artist": "NewsTamil 24X7"
+            "videoId": "L5fFj3x1ve0",
+            "name": "Out Of Focus Live | 22 September 2026",
+            "artist": "MediaoneTV Live"
         }
     ],
     "sourceFilters": {
