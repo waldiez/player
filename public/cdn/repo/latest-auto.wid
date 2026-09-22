@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260921T213319.461Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260922T025002.857Z-l4t35t"
   type: "state"
-  created: "2026-09-21T21:33:19.461Z"
+  created: "2026-09-22T02:50:02.857Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260921T213319.461Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260922T025002.857Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qH00PDJwFTw"
-        name: "US IRAN NEWS LIVE: Trump Ends Silence On Iran Escalation, World On Red Alert For Global Clash"
-        artist: "ET Now World"
+        videoId: "q3rn2vfd8FQ"
+        name: "🔴LIVE : கைது..! சிக்கிய அதிகாரிகள்..! புரட்டிப்போட்ட வீரமணி வழக்கு  |  Gem Veeramani Case"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HbyAY6I92UQ"
+        videoId: "rfUoon-CEzw"
+        name: "Breaking NewsLIVE: President Suddenly Leaves White House Briefing | US News LIVE | Watch Full Speech"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KqnEM_92MtY"
+        name: "US-Iran War LIVE: Trump's 'Blow Up Iran' Threat Meets Retaliation As Iran Warns Of Painful Strikes"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Bqhau3ly56w"
+        name: "TV9 Bharatvarsh LIVE: Russia Ukraine War | Rajasthan Nikay Chunav |Jamui Girl | IIT Bombay |  Trump"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Pf9E4Sg4nxw"
+        name: "Iran America War Update: युद्ध के मैदान से सीधे Live |Trump | US Military | Hormuz | IRGC | Top News"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T4RBDI9oO48"
+        name: "LIVE: President Abruptly Leaves White House Briefing | US News LIVE | Watch Full Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BhVSQgqNXEk"
+        name: "🔴LIVE : CM VIJAY | TVK | TAMILNADU | TVK GOVT | மக்கள்தான் முக்கியம்..! களமிறங்கிய CM விஜய்"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9m2VAomNy6U"
         name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3LMrcy3_VAY"
-        name: "US NEWS LIVE: Trump Makes Major Announcement | Donald Trump Speech & Latest US News | TRUMP LIVE"
-        artist: "MIRROR NOW"
+        videoId: "Q0zbHzZH5FQ"
+        name: "LIVE: Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran Airlines"
+        artist: "Tousi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Lu9I2IPM_2E"
-        name: "PUTIN NEWS LIVE: Putin’s Latest Remarks and Major War Developments | Putin Ukraine War"
-        artist: "Times Now World"
+        videoId: "DiNSczieweI"
+        name: "ABC World News Tonight With David Muir 9/21/26 | ABC News Today September 21, 2026 HD"
+        artist: "Dev Gurjar Rasiya"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tf23agC0KOM"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7LDF1BzCvEA"
-        name: "Aaj Ki Taaza Khabar LIVE: 21 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "87B4Y5_QRZ0"
-        name: "🔴LIVE: Tn Weather Update | குறிவைத்த சிஸ்டம் - அடுத்த 24 மணி நேரத்தில்.."
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WkqEUiKkz50"
-        name: "LIVE with Dr. Shahid Masood | The war in Yemen has worsened | 21 Sep 2026 I GNN"
-        artist: "GNN"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OgqOTMUsSig"
-        name: "LIVE | Saudi Arabia Under Attack: Has the Mecca Pact Failed? | The Palki Sharma Show"
-        artist: "India Global Review"
+        videoId: "AkIzbzsSrLQ"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-21T21:33:19.461Z"
+  exported_at: "2026-09-22T02:50:02.857Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-21T21:33:19.417Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-22T02:50:02.822Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
