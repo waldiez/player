@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260923T025029.091Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260923T103601.313Z-l4t35t"
   type: "state"
-  created: "2026-09-23T02:50:29.091Z"
+  created: "2026-09-23T10:36:01.313Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260923T025029.091Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260923T103601.313Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q-RCaOWAHEg"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "KaMM6Ztnz6I"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IuF4MOak6XQ"
-        name: "जमुई कांड पर आई चौंकाने वाली खबर LIVE | Jamui Police Encounter News | Samrat Choudhary | Bihar"
-        artist: "NDTV India"
+        videoId: "9Vk7Imk8KOE"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.09.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h6_Kl2oVOTs"
-        name: "LIVE: Trump and world leaders speak at UN General Assembly 2026 (full speech)"
-        artist: "Associated Press"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bKu7fxP0MbM"
-        name: "🔴LIVE: CM VIJAY | TVK | ஒரு முடிவோடு இறங்கிய CM விஜய்.. மதுராந்தகத்தில் மாறிய சீன் | BY-Election"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xF3y8ZKta0w"
-        name: "Saudi-Houthi LIVE: Mecca Red Alert Triggers Heavy Airstrikes as Pakistan & Turkey Clarify Pact |N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YwMWvoUB9tY"
-        name: "WATCH LIVE: President Trump, World Leaders Address United Nations General Assembly"
-        artist: "Forbes Breaking News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FWPaiPPOOXQ"
-        name: "Senate Hearing LIVE: Kash Patel Responds to Epstein Files Questions | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vNwifbw5lZc"
-        name: "TV9 Bharatvarsh LIVE: US-Iran Deal |Jamui Encounter | IIT Bombay | Trump | UPI | Nitin Naveen | SIR"
+        videoId: "ev8Cr03fGa8"
+        name: "Saudi-Houthi War Live: अभी अभी: हूती मिसाइलों से दहला Pakistan | Middle East | Yemen | Makka"
         artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "37ziEIVNU1g"
-        name: "LIVE: World leaders address the UN General Assembly | Geo News English"
-        artist: "Geo News English"
+        videoId: "KB3I7x1iYa8"
+        name: "🔴LIVE : Gem Veeramani Case | வெளியான சாந்தி வீடியோ  வீரமணி வழக்கில் முக்கிய திருப்பம்"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TIY1DSizUz4"
-        name: "ABC World News Tonight With David Muir 9/22/26 | ABC News Today September 22, 2026 HD"
-        artist: "Dev Gurjar Rasiya"
+        videoId: "VROFRJcAI8o"
+        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ২৩.০৯.২০২৬ | Today News | Top News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nntUt6KbjbE"
-        name: "Trump just attacked the UN at its major world meeting | BBC News"
-        artist: "BBC News"
+        videoId: "yo6mmFkFlaw"
+        name: "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dBaUlhZKX8A"
+        name: "Today Headlines | 23 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TPAyxY71oOE"
+        name: "BJP Workers Resign News LIVE: 65 कार्यकर्ताओं के इस्तीफे से हिली बीजेपी! चुनाव से पहले 'खेला'!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tvOBB6lh8GM"
+        name: "🔴LIVE : CM Vijay Visit | தொடர் புகார்கள்.. நேராக அந்த இடத்துக்கே சென்ற CM விஜய் | Electricity Issue"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vvgPJFaLzqg"
+        name: "Today's Breaking News LIVE: Jamui Harassment Case | PM Modi | Houthis Attack | US Iran War | Weather"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1AaWPAAel_M"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
+        artist: "The Savera Times"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-23T02:50:29.091Z"
+  exported_at: "2026-09-23T10:36:01.313Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-23T02:50:29.047Z"
+  source_generated_at: "2026-09-23T10:36:01.264Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
