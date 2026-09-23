@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260923T103601.313Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260923T155515.652Z-l4t35t"
   type: "state"
-  created: "2026-09-23T10:36:01.313Z"
+  created: "2026-09-23T15:55:15.652Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260923T103601.313Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260923T155515.652Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "KaMM6Ztnz6I"
-        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "HTLBCn2-IW8"
+        name: "US Iran War LIVE: Explosion in Qeshm Island Near Strait Of Hormuz Triggers Escalation Fears"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9Vk7Imk8KOE"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (23.09.2026) | 2 PM Headlines | ThanthiTV"
+        videoId: "dDKDQfeyrbU"
+        name: "🔴LIVE :| CM Vijay | TVK | ஒரே வீடியோ.. BLAST செய்த விஜய்  | Electricity Issue"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uMNcswVwH5Q"
+        name: "🔴LIVE : செந்தில்பாலாஜி தான்..! புயலை கிளப்பிய தவெக சத்யபாமா | Sathyabama | TVK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w5eZDp9a6_Y"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "stTYABpVseE"
+        name: "🔴LIVE :StraitOfHormuz ``ஹார்முஸ வச்சி தான இந்த ஆட்டம் ஆடுற’’ - `ரூட்டால்’ ஈரானை `ரூட்’ எடுத்த சவுதி"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ev8Cr03fGa8"
-        name: "Saudi-Houthi War Live: अभी अभी: हूती मिसाइलों से दहला Pakistan | Middle East | Yemen | Makka"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KB3I7x1iYa8"
-        name: "🔴LIVE : Gem Veeramani Case | வெளியான சாந்தி வீடியோ  வீரமணி வழக்கில் முக்கிய திருப்பம்"
+        videoId: "gwnYvyPAMW0"
+        name: "🔴LIVE : வீரமணி வழக்கில் சிக்கும் முக்கிய திமுக பெரும் புள்ளி?  | Gem Veeramani Case"
         artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VROFRJcAI8o"
-        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ২৩.০৯.২০২৬ | Today News | Top News | Ajker News | ATN Bangla"
-        artist: "ATN Bangla News"
+        videoId: "eBr-488vm2M"
+        name: "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yo6mmFkFlaw"
-        name: "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE"
-        artist: "ET Now"
+        videoId: "afjRAavld1U"
+        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dBaUlhZKX8A"
-        name: "Today Headlines | 23 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "kOUtdGnlM6c"
+        name: "🔴 LIVE: Latest World News & Breaking News | Gbangla TV Live"
+        artist: "Gbangla Television"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TPAyxY71oOE"
-        name: "BJP Workers Resign News LIVE: 65 कार्यकर्ताओं के इस्तीफे से हिली बीजेपी! चुनाव से पहले 'खेला'!"
-        artist: "ABP NEWS"
+        videoId: "j642U0l5EdU"
+        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi |Bihar Jamui News | Election Commission"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tvOBB6lh8GM"
-        name: "🔴LIVE : CM Vijay Visit | தொடர் புகார்கள்.. நேராக அந்த இடத்துக்கே சென்ற CM விஜய் | Electricity Issue"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vvgPJFaLzqg"
-        name: "Today's Breaking News LIVE: Jamui Harassment Case | PM Modi | Houthis Attack | US Iran War | Weather"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1AaWPAAel_M"
-        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
-        artist: "The Savera Times"
+        videoId: "FK8xtd-MsEo"
+        name: "Aaj Ki Taaza Khabar LIVE: 23 September 2026 | Trump Tariff | PM Modi | Amit Shah | Taaja Khabar"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-23T10:36:01.313Z"
+  exported_at: "2026-09-23T15:55:15.652Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-23T10:36:01.264Z"
+  source_generated_at: "2026-09-23T15:55:15.604Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
