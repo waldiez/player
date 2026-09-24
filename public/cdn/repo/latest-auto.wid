@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260923T205642.985Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260924T024029.091Z-l4t35t"
   type: "state"
-  created: "2026-09-23T20:56:42.985Z"
+  created: "2026-09-24T02:40:29.091Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260923T205642.985Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260924T024029.091Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FMKSMzI9SBA"
-        name: "🔴LIVE :  திடீர் ஆய்வில் இறங்கிய CM விஜய் | CM Vijay Visit | Electricity Issue"
-        artist: "NewsTamil 24X7"
+        videoId: "CnaF57F6Nes"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DeF3C4FK208"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "VCMMdIWXdQY"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BFlEDzZUvqk"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
+        videoId: "U2zfoH9wGl4"
+        name: "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iqKHMUlP_Gc"
-        name: "Gujarati Fatafat News LIVE |  ગુજરાતના તમામ મોટા સમાચાર | Latest Gujarati News | Fatafat | Weather"
-        artist: "News18 Gujarati"
+        videoId: "Mi-u8JnsYfk"
+        name: "LIVE: World leaders speak at UN General Assembly 2026 (Day 2)"
+        artist: "Associated Press"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "08XdVeK6qyw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.09.2026) | Sathiyam Headlines"
+        videoId: "zMA0KWJqrB8"
+        name: "World News LIVE: Rubio Meets Lavrov in New York | US-Russia Talks | UNGA 2026"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_l3bPLgSNJc"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (24.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M0y73NB2qI8"
-        name: "LIVE | Trump vs Iran: UNGA Showdown Amid Rising Tensions | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
+        videoId: "bEpOn_iaaD8"
+        name: "जमुई के 'जल्लादों' को दौड़ाकर ठोका LIVE | Jamui Police Encounter News | Samrat Choudhary | Bihar"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PBoxYcbLorI"
-        name: "DECODE Live: Sudhir Chaudhary | Iran Vs US in UNGA | Hisar Khap Panchayat | Houthi Saudi Arabia"
-        artist: "DD News"
+        videoId: "d5PvGN4p0W0"
+        name: "Jinping Death news Live: जिनपिंग की अंतिम विदाई? देखिये लाइव China | Breaking |India News"
+        artist: "India News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gQ3SgWX-C0U"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "1P2cIqEqMvA"
+        name: "LIVE: Iran President Masoud Pezeshkian Addresses UN General Assembly | US Iran War | Israel | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1r32YA7RwuM"
+        name: "ABC World News Tonight With David Muir 7/23/26 | ABC News Today September 23, 2026 HD"
+        artist: "Dev Gurjar Rasiya"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2JE1qptOQPk"
+        name: "LIVE NEW YORK - Ruto to Address World Leaders at High-Level Dialogue on Debt & Development"
+        artist: "Kenya News Channel"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "h5BoPNdXZQI"
+        name: "LIVE: World Leaders Arrive In New York For UNGA Day 2 High-Level Meetings | DWS News | AC14"
+        artist: "DWS News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-23T20:56:42.985Z"
+  exported_at: "2026-09-24T02:40:29.091Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-23T20:56:42.942Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-24T02:40:29.055Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-23T20:56:42.942Z",
+    "generatedAt": "2026-09-24T02:40:29.055Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FMKSMzI9SBA",
-            "name": "🔴LIVE :  திடீர் ஆய்வில் இறங்கிய CM விஜய் | CM Vijay Visit | Electricity Issue",
-            "artist": "NewsTamil 24X7"
+            "videoId": "CnaF57F6Nes",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "DeF3C4FK208",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "VCMMdIWXdQY",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "BFlEDzZUvqk",
-            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
+            "videoId": "U2zfoH9wGl4",
+            "name": "Trump LIVE | Trump Latest News Live | Donald Trump Makes Big Announcement | Trump Speech | US News",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "iqKHMUlP_Gc",
-            "name": "Gujarati Fatafat News LIVE |  ગુજરાતના તમામ મોટા સમાચાર | Latest Gujarati News | Fatafat | Weather",
-            "artist": "News18 Gujarati"
+            "videoId": "Mi-u8JnsYfk",
+            "name": "LIVE: World leaders speak at UN General Assembly 2026 (Day 2)",
+            "artist": "Associated Press"
         },
         {
             "mood": "storm",
-            "videoId": "08XdVeK6qyw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (23.09.2026) | Sathiyam Headlines",
+            "videoId": "zMA0KWJqrB8",
+            "name": "World News LIVE: Rubio Meets Lavrov in New York | US-Russia Talks | UNGA 2026",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_l3bPLgSNJc",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (24.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "M0y73NB2qI8",
-            "name": "LIVE | Trump vs Iran: UNGA Showdown Amid Rising Tensions | The Palki Sharma Show | IGR",
-            "artist": "India Global Review"
+            "videoId": "bEpOn_iaaD8",
+            "name": "जमुई के 'जल्लादों' को दौड़ाकर ठोका LIVE | Jamui Police Encounter News | Samrat Choudhary | Bihar",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "PBoxYcbLorI",
-            "name": "DECODE Live: Sudhir Chaudhary | Iran Vs US in UNGA | Hisar Khap Panchayat | Houthi Saudi Arabia",
-            "artist": "DD News"
+            "videoId": "d5PvGN4p0W0",
+            "name": "Jinping Death news Live: जिनपिंग की अंतिम विदाई? देखिये लाइव China | Breaking |India News",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "gQ3SgWX-C0U",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "1P2cIqEqMvA",
+            "name": "LIVE: Iran President Masoud Pezeshkian Addresses UN General Assembly | US Iran War | Israel | N18G",
+            "artist": "CNBC-TV18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1r32YA7RwuM",
+            "name": "ABC World News Tonight With David Muir 7/23/26 | ABC News Today September 23, 2026 HD",
+            "artist": "Dev Gurjar Rasiya"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2JE1qptOQPk",
+            "name": "LIVE NEW YORK - Ruto to Address World Leaders at High-Level Dialogue on Debt & Development",
+            "artist": "Kenya News Channel"
+        },
+        {
+            "mood": "storm",
+            "videoId": "h5BoPNdXZQI",
+            "name": "LIVE: World Leaders Arrive In New York For UNGA Day 2 High-Level Meetings | DWS News | AC14",
+            "artist": "DWS News"
         }
     ],
     "sourceFilters": {
