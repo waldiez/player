@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260924T161758.822Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260924T210109.456Z-l4t35t"
   type: "state"
-  created: "2026-09-24T16:17:58.822Z"
+  created: "2026-09-24T21:01:09.456Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260924T161758.822Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260924T210109.456Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "p46EiQq3fak"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "9Dg2mmUmI2w"
+        name: "🔴LIVE : Gem Veeramani Case | வீரமணி வழக்கில் இடியை இறக்கிய ஹரிஹரன்"
+        artist: "NewsTamil 24X7"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M0yVh8O6rOc"
-        name: "जमुई के 'जल्लादों' को दौड़ाकर ठोका LIVE | Jamui Police Encounter News | Samrat Choudhary | Bihar"
-        artist: "NDTV India"
+        videoId: "11rpMqRxHrk"
+        name: "TRUMP LIVE: “Enough Is Enough” | Latest Netanyahu-Israel News | TRUMP WARNING | MIDDLE EAST LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3KI1eNm4g9E"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "_l3bPLgSNJc"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (24.09.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "46CQJbm2x1w"
-        name: "US News LIVE: Trump Signs Major Executive Order? Latest White House | war Updated | Us Military"
-        artist: "Vox Live News"
+        videoId: "Xly1uoIKkVg"
+        name: "🔴LIVE: Sowmiya Anbumani | PMK | CM Vijay | TN ministers | அமைச்சராகிறார் சௌமியா அன்புமணி?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jepFDFMQ9cc"
-        name: "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE"
-        artist: "ET Now"
+        videoId: "54RxSWfsh0U"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ২৪.০৯.২০২৬ | Today News | Top News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3FhN5VzSKHA"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "I2huA2Cm-bI"
+        name: "Today Headlines | 24 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IHWU8kHWLDU"
-        name: "🔴Cyclone Alert LIVE : వాతావరణశాఖ హైఅలర్ట్ .. తీరం దాటిన వాయుగుండం..  | Flash Flood Alert TO AP | ABN"
-        artist: "ABN Telugu "
+        videoId: "ZhHntNKIq6Q"
+        name: "Iran America War Update LIVE: चीन की दुनिया को न्यूक्लियर वॉर्निंग | Xi Jinping | Trump | Mojtaba"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QuTB7GKfzRo"
-        name: "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | PM Modi | Xi Jinping | Iran US War | Breaking"
-        artist: "Aaj Tak"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4VhvYIN4ogg"
-        name: "ടിക്കറ്റ് നിരക്ക് ഉയരും; ഇറാനിയൻ എയർലൈൻ വിലക്ക് ബാധിക്കുന്നത് സാധാരണക്കാരെയോ? | IRAN AIRLINES"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UvlQ0wxx-Kw"
-        name: "আন্তর্জাতিক সংবাদ  | বিকাল ৪টা |২৪ সেপ্টেম্বর ২০২৬  |SomoyTV Bulletin 4pm|Latest International News"
-        artist: "SOMOY TV Bulletin"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "M_aRcnRZELs"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.09.2026)| 2 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
+        videoId: "mb0wRvyQqSo"
+        name: "TBS ৮টার সংবাদ, ২৪ সেপ্টেম্বর ২০২৬ | Bangladesh News | World News | The Business Standard"
+        artist: "The Business Standard"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-24T16:17:58.822Z"
+  exported_at: "2026-09-24T21:01:09.456Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-24T16:17:58.783Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-24T21:01:09.147Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
