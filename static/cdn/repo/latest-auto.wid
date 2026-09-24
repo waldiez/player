@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260924T105529.649Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260924T161758.822Z-l4t35t"
   type: "state"
-  created: "2026-09-24T10:55:29.649Z"
+  created: "2026-09-24T16:17:58.822Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260924T105529.649Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260924T161758.822Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "lVlxGpchd0E"
-        name: "LIVE: Abdul-Malik Al-Houthi Warns Pakistan, Turkey & US Allies Against Joining Saudi Coalition |N18G"
-        artist: "News18 Urdu"
+        videoId: "p46EiQq3fak"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "V8hGvnEpQJA"
-        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "M0yVh8O6rOc"
+        name: "जमुई के 'जल्लादों' को दौड़ाकर ठोका LIVE | Jamui Police Encounter News | Samrat Choudhary | Bihar"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r-mBBfxYkAk"
+        videoId: "3KI1eNm4g9E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "46CQJbm2x1w"
+        name: "US News LIVE: Trump Signs Major Executive Order? Latest White House | war Updated | Us Military"
+        artist: "Vox Live News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jepFDFMQ9cc"
+        name: "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3FhN5VzSKHA"
         name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CcRNEHDWX_8"
-        name: "🔴LIVE : வீரமணி விவகாரத்தில் CM விஜய்யின் ருத்ரதாண்டவம்.. | Gem Veeramani Case"
-        artist: "NewsTamil 24X7"
+        videoId: "IHWU8kHWLDU"
+        name: "🔴Cyclone Alert LIVE : వాతావరణశాఖ హైఅలర్ట్ .. తీరం దాటిన వాయుగుండం..  | Flash Flood Alert TO AP | ABN"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kqcODsKhhDA"
-        name: "U.S Latest News LIVE: Xi- Trump Meet | UNGA | Hurricane Polo | US Midterm Polls | Iran US War | N18G"
-        artist: "CNN-News18"
+        videoId: "QuTB7GKfzRo"
+        name: "Superfast News LIVE: बड़ी खबरें फटाफट अंदाज में | PM Modi | Xi Jinping | Iran US War | Breaking"
+        artist: "Aaj Tak"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-cTMwpBybQg"
-        name: "Washington DC Within Iran’s Missile Range,” Claims Mohsen Rezaei | 12PM Headlines Geo News"
-        artist: "Geo News"
+        videoId: "4VhvYIN4ogg"
+        name: "ടിക്കറ്റ് നിരക്ക് ഉയരും; ഇറാനിയൻ എയർലൈൻ വിലക്ക് ബാധിക്കുന്നത് സാധാരണക്കാരെയോ? | IRAN AIRLINES"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qFpRAQOdjKQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "UvlQ0wxx-Kw"
+        name: "আন্তর্জাতিক সংবাদ  | বিকাল ৪টা |২৪ সেপ্টেম্বর ২০২৬  |SomoyTV Bulletin 4pm|Latest International News"
+        artist: "SOMOY TV Bulletin"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Qxnm_eHKRtc"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (24.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "obF27toP7Qs"
-        name: "🔴LIVE: CM VIJAY | TVK | இதுவரை பார்த்திராத CM விஜயின் பிரம்மாண்ட பிரச்சாரம்"
-        artist: "NewsTamil 24X7"
+        videoId: "M_aRcnRZELs"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (24.09.2026)| 2 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-24T10:55:29.649Z"
+  exported_at: "2026-09-24T16:17:58.822Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-24T10:55:29.604Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-24T16:17:58.783Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
