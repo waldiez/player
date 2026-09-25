@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260925T105654.018Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260925T161826.320Z-l4t35t"
   type: "state"
-  created: "2026-09-25T10:56:54.018Z"
+  created: "2026-09-25T16:18:26.320Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260925T105654.018Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260925T161826.320Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rdfR_khJ2ug"
-        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
-        artist: "Times Now"
+        videoId: "QyMKgGBDw_k"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uZkbJD3GYGw"
-        name: "Bihar Crime News LIVE: एक और नई घटना से बिहार में बड़ा बवाल! | Samrat Chaudhary | Jamui | Tejashwi"
-        artist: "ABP NEWS"
+        videoId: "PONilP3GA_I"
+        name: "LIVE: Jammu Kashmir Assembly Hungama & Uproar, Statehood | NC vs BJP, Omar Abdullah & PDP | News18"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wbcnUIvfANk"
-        name: "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Latest Gujarat News | Fatafat News | Weather"
-        artist: "News18 Gujarati"
+        videoId: "2Sl7kCOTNLY"
+        name: "NEW DETAILS: Iran reveals proposal to END war with US"
+        artist: "Fox News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FQ7TpzCXFw4"
-        name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
-        artist: "V News27"
+        videoId: "NxI160irTU4"
+        name: "New warnings on 'VERY PUBLIC' alliance between China, Russia, Iran, North Korea"
+        artist: "Fox News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lwRmMFZgahc"
-        name: "🔴LIVE: Vijay Live | Tvk Campaign | விழா மேடையில் CM விஜய்.. பறக்கும் விசில் | TVK | Maduranthakam"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2s8FdXQ2SQw"
-        name: "🔴LIVE: Vijay Live | Tvk Campaign | விஜய் தேர்தல் பிரச்சாரம்..  அதிர தொடங்கிய மதுராந்தகம்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fu7NzYRr7w4"
-        name: "🔴LIVE :வீரமணி வழக்கில் நினைத்து பார்த்திராத திருப்பம் |  Gem Veeramani Case"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DpjX3Ve1B9o"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (25.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6pkscBHKVwE"
-        name: "🔴LIVE : CM VIJAY | மதுராந்தகத்தில் விஜய் பிரச்சாரம்.. நேரலை | Madhuranthagam Election Campaign | TVK"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UICFomVna4A"
-        name: "🔴LIVE : CM VIJAY | Madhuranthakam Election Campaign| என் நெஞ்சில் குடியிருக்கும் CM விஜய் பேச்சு TVK"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "49iu7rfNyXs"
-        name: "Today Headlines | 25 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "2mZGHeCtNvM"
+        name: "🔴LIVE :  CM Vijay Full Speech"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nHH3kBKU02U"
-        name: "TRUMP VS ILHAN OMAR LIVE: Trump Sparks Firestorm With Deportation Call | World News LIVE"
-        artist: "Times Now"
+        videoId: "NXOBbnIUpjw"
+        name: "🔴LIVE : தமிழ்நாட்டிற்கு மறுதேர்தலா..? பரபரப்பு தகவல்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yN9eYbQMDAo"
+        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | Election Commission"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-25T10:56:54.018Z"
+  exported_at: "2026-09-25T16:18:26.320Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-25T10:56:53.983Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-25T16:18:26.275Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
