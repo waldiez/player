@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-25T16:18:26.275Z",
+    "generatedAt": "2026-09-25T20:58:41.580Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QyMKgGBDw_k",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "OkLza8IpzDs",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "PONilP3GA_I",
-            "name": "LIVE: Jammu Kashmir Assembly Hungama & Uproar, Statehood | NC vs BJP, Omar Abdullah & PDP | News18",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2Sl7kCOTNLY",
-            "name": "NEW DETAILS: Iran reveals proposal to END war with US",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NxI160irTU4",
-            "name": "New warnings on 'VERY PUBLIC' alliance between China, Russia, Iran, North Korea",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2mZGHeCtNvM",
-            "name": "🔴LIVE :  CM Vijay Full Speech",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NXOBbnIUpjw",
-            "name": "🔴LIVE : தமிழ்நாட்டிற்கு மறுதேர்தலா..? பரபரப்பு தகவல்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yN9eYbQMDAo",
-            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | Election Commission",
+            "videoId": "9c5FrdoLZeg",
+            "name": "Aaj Ki Taaza Khabar LIVE: 25 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar",
             "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vrWYF3P1_eo",
+            "name": "🔴LIVE : CM Vijay | Madhuranthakam Election Campaign |மதுராந்தகத்தில் விஜய் அனல் பறக்கும் பேச்சு| TVK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6pkscBHKVwE",
+            "name": "🔴LIVE : CM VIJAY | மதுராந்தகத்தில் விஜய் பிரச்சாரம்.. நேரலை | Madhuranthagam Election Campaign | TVK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vztxKLPuQAA",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cpnBsAHGOEQ",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "UICFomVna4A",
+            "name": "🔴LIVE : CM VIJAY | Madhuranthakam Election Campaign| என் நெஞ்சில் குடியிருக்கும் CM விஜய் பேச்சு TVK",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kcMaZBjSC94",
+            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y8jhPAekOrQ",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WJq6pYC5nyo",
+            "name": "LIVE with Dr. Shahid Masood | China, US negotiations... Nothing could be decided | 25 Sep 2026 I GNN",
+            "artist": "GNN"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rblSG7Qs77U",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
