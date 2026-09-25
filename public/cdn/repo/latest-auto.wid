@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260925T025719.285Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260925T105654.018Z-l4t35t"
   type: "state"
-  created: "2026-09-25T02:57:19.285Z"
+  created: "2026-09-25T10:56:54.018Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260925T025719.285Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260925T105654.018Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZE2xAc2PA5c"
-        name: "🔴LIVE: Israel PM Netanyahu Delivers Fiery Speech at UN General Assembly 2026 | Mamdani | Iran | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cuq_HagFQ08"
-        name: "ABC News Live Prime: Sept. 24, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g2P9b_sgKZE"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_Kew09zSxns"
-        name: "World News Live । GLOBAL CRISIS AHEAD? TRUMP REVEALS ALL ! Latest News Updates"
-        artist: "Vox Live News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EVgmfgyIe1E"
-        name: "Debate With Arnab LIVE: Huge Row Over Report On Election Commission’s Functioning"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mHiByPPlZgA"
-        name: "Houthi-Saudi War LIVE: Pakistan Responds Under Makkah Joint Defence Agreement | N18G | IRGC | US War"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "csnmLXglMdY"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        videoId: "rdfR_khJ2ug"
+        name: "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hH6pMLGKmHo"
-        name: "🔴LIVE : John Pandiyan | வீரமணி விவகாரம்.. குண்டை வீசிய ஜான் பாண்டியன்  | Gem Veeramani Case"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UjsFhgncVDs"
-        name: "Breaking News LIVE: President Walks Out of White House Briefing | Trump Speech LIVE | White House"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uRa7pBaM5vU"
-        name: "Aaj Ki Taja Khabar LIVE: रात की 100 बड़ी खबरें | Headlines Today | Top News | 24 September News"
+        videoId: "uZkbJD3GYGw"
+        name: "Bihar Crime News LIVE: एक और नई घटना से बिहार में बड़ा बवाल! | Samrat Chaudhary | Jamui | Tejashwi"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cpnBsAHGOEQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.09.2026) | Sathiyam Headlines"
+        videoId: "wbcnUIvfANk"
+        name: "Gujarati News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Latest Gujarat News | Fatafat News | Weather"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FQ7TpzCXFw4"
+        name: "🔴LIVE : வேந்தரின் உச்சிவேளை - பகல் செய்தி | Headlines | Politics | World News | Vnews27 | VendharTV"
+        artist: "V News27"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lwRmMFZgahc"
+        name: "🔴LIVE: Vijay Live | Tvk Campaign | விழா மேடையில் CM விஜய்.. பறக்கும் விசில் | TVK | Maduranthakam"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2s8FdXQ2SQw"
+        name: "🔴LIVE: Vijay Live | Tvk Campaign | விஜய் தேர்தல் பிரச்சாரம்..  அதிர தொடங்கிய மதுராந்தகம்"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fu7NzYRr7w4"
+        name: "🔴LIVE :வீரமணி வழக்கில் நினைத்து பார்த்திராத திருப்பம் |  Gem Veeramani Case"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DpjX3Ve1B9o"
+        name: "🔴 LIVE : Lunch Time Sinhala News | (25.09.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6pkscBHKVwE"
+        name: "🔴LIVE : CM VIJAY | மதுராந்தகத்தில் விஜய் பிரச்சாரம்.. நேரலை | Madhuranthagam Election Campaign | TVK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UICFomVna4A"
+        name: "🔴LIVE : CM VIJAY | Madhuranthakam Election Campaign| என் நெஞ்சில் குடியிருக்கும் CM விஜய் பேச்சு TVK"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "49iu7rfNyXs"
+        name: "Today Headlines | 25 SEP 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qR6UEZoOl_k"
-        name: "LIVE | Trump Issues Huge Warning of 'World War III' | Israel Iran War | Netanyahu | Khamenei | US"
-        artist: "MIRROR NOW"
+        videoId: "nHH3kBKU02U"
+        name: "TRUMP VS ILHAN OMAR LIVE: Trump Sparks Firestorm With Deportation Call | World News LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-25T02:57:19.285Z"
+  exported_at: "2026-09-25T10:56:54.018Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-25T02:57:19.242Z"
+  source_generated_at: "2026-09-25T10:56:53.983Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
