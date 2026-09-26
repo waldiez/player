@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260926T030032.729Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260926T103724.255Z-l4t35t"
   type: "state"
-  created: "2026-09-26T03:00:32.729Z"
+  created: "2026-09-26T10:37:24.255Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260926T030032.729Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260926T103724.255Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Mtbg_b0dtyw"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "t-k8vdg0Y0w"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Sept. 25, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u5DkNA2joIo"
-        name: "Gyanesh Kumar Resign News LIVE: किसी ने सोचा नहीं था ज्ञानेश कुमार के साथ ये हो जाएगा...इस्तीफा?"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Nej1twdQApI"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.09.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NzHNNVh4WpE"
-        name: "Trump Live | Donald Trump Makes Mega Announcement | Trump Speech | Trump Latest News Live | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DN6TS7Zdy4E"
-        name: "Aaj Ki 100 Khabar LIVE: आज की ताजा 100 खबरें | Headlines Today | Top News | Breaking | 25 September"
+        videoId: "qqGXi08cRhY"
+        name: "Gyanesh Kumar News LIVE: जिसका डर था वही हुआ...ज्ञानेश कुमार के खिलाफ बड़ा प्रदर्शन शुरू | CJP"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VraziB4kmj8"
-        name: "World News Live । GLOBAL CRISIS AHEAD? TRUMP REVEALS ALL ! Latest News Updates"
-        artist: "Vox Live News"
+        videoId: "n4A6z9nAipA"
+        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Rahul Gandhi"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EuZazXwSnjA"
-        name: "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 26 September"
-        artist: "ABP NEWS"
+        videoId: "TGWt_faNnIs"
+        name: "Gujarati Breaking News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Latest Gujarati News | Fatafat | Weather"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VlNj1SYzEcQ"
-        name: "9 News maharashtra Live | गणपती विसर्जन मिरवणूक लाईव्ह थेट प्रक्षेपण 2026"
-        artist: "Nine news maharashtra "
+        videoId: "2097-vHI7qE"
+        name: "LIVE: सऊदी अरब का बदला शुरू? LIVE | Saudi Arabia Under Attack | Houthi | War News | Breaking News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rAwDZBoE3Ws"
-        name: "LIVE: World leaders speak at UN General Assembly 2026 (Day 4 speeches)"
-        artist: "Associated Press"
+        videoId: "kcMaZBjSC94"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Rs-7m1aPMF4"
+        name: "Iran America War Live Updates: ईरान-अमेरिका युद्ध लाइव | Hormuz | Trump | Houthi | IRGC | Netanyahu"
+        artist: "News18 UP Uttarakhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Vc2kar4xeQc"
+        name: "LIVE: Ethiopia’s Broken Peace: Abiy’s Army Reports Hundreds of Tigray Rebels Dead | Firstpost Africa"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HaSUuunMD5I"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ । ২৬.০৯.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "VjmKN7ZxNis"
+        name: "Manoj Jarange LIVE मोठा निर्णय- 3वर्षांनंतर मंडप हटवला, जरांगे पाटलांची महत्त्वाची पत्रकार परिषद"
+        artist: "Rajmudra News Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "_hCnRsPGaAA"
+        name: "Live: PM Shehbaz Sharif Addresses the 81st UN General Assembly | Geo News"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-26T03:00:32.729Z"
+  exported_at: "2026-09-26T10:37:24.255Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-26T03:00:32.685Z"
+  source_generated_at: "2026-09-26T10:37:24.209Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
