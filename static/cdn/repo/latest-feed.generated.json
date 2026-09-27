@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-27T03:05:31.147Z",
+    "generatedAt": "2026-09-27T11:10:35.863Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "96EJrcr8SBo",
-            "name": "'ഞാനെന്ന പുതിയ മനുഷ്യനെ കണ്ടെത്തിയത് യാത്രയിലൂടെ'; സഞ്ചാരാനുഭവം പറഞ്ഞ് ചിത്രൻ",
-            "artist": "MediaoneTV Live"
+            "videoId": "ZS-AM6ybajs",
+            "name": "Iran America War Update LIVE: अमेरिका के 'महाबली' पर खतरा...खाड़ी के बेस पर अलर्ट का सायरन | Trump",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "-RrBRntHWEI",
-            "name": "Republic TV LIVE: September 26, 2026 | India | Global News | Asian Games 2026",
-            "artist": "Republic World"
+            "videoId": "wWVKBCoJTgY",
+            "name": "LIVE: हूती-सऊदी जंग पर बड़ी खबर? | Saudi Arabia Under Attack | Houthi | War News | Breaking News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "f5FAYXhbCNw",
-            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HPyUwZUy99Y",
-            "name": "Iran America War Live Updates: ईरान-अमेरिका युद्ध लाइव | Hormuz | Trump | Houthi | IRGC | Netanyahu",
-            "artist": "News18 UP Uttarakhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rJPkutiMJtA",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২৭.০৯.২০২৬ | Today News | Latest News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6LjFhHBm6yU",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nFET_gUnCx8",
-            "name": "LIVE: Saudi Arabia Intercepts Wave Of Houthi Missiles:Oil Prices Hit One-Week High Amid Yanbu Attack",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yjm9M3VCXzg",
-            "name": "Hindi News Live | Aaj Ki Badi Khabar | आज की 100 ताजा बड़ी खबरें | Headlines Today | Top News",
+            "videoId": "xcvu3KNw16o",
+            "name": "Aaj Ki Taaza Khabar LIVE: 27 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "TdZLszHHyNM",
-            "name": "Trump Iran Warning LIVE: Latest U.S.-Iran War Updates and Developments | Iran War Update",
-            "artist": "MIRROR NOW"
+            "videoId": "81JDlqublJQ",
+            "name": "Weather Alert LIVE: छुट्टियां रद्द, स्कूल बंद रेड अलर्ट जारी! LIVE | Rain News LIVE | Weather Update",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "C1USUWOvMGM",
-            "name": "Today's Headlines | 27 SEP 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
-            "artist": "Sathiyam News"
+            "videoId": "wWOqi75Gwz4",
+            "name": "Kaliabor Park News LIVE | পৰ্যটন দিৱসৰ দিনাই পোহৰলৈ কোটিটকীয়া উদ্যানৰ অৱস্থা | World Tourism Day",
+            "artist": "News18 Assam/Northeast"
+        },
+        {
+            "mood": "storm",
+            "videoId": "I7qrUCIQMdw",
+            "name": "US Iran War LIVE: Iran Rains Hell On U.S. Bases In Gulf, Trump Orders Big Retaliation | Hormuz |N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dVArwHeI_Dw",
+            "name": "LIVE | Major Developments in Pakistan & Around the World | Latest Situation Update | Such News",
+            "artist": "SUCH News Pakistan"
         }
     ],
     "sourceFilters": {
