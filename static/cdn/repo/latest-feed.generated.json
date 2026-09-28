@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-28T12:37:31.119Z",
+    "generatedAt": "2026-09-28T22:50:45.644Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "FcRIRTQ00ug",
-            "name": "LIVE: Gold Price Today | Stock Market Latest Updates | కుప్పకూలిన బంగారం |  ZeeTelugu News",
-            "artist": "Zee Telugu News"
+            "videoId": "CGL3JyymjUc",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "7K0s6CAl7mA",
-            "name": "World News Live । GLOBAL CRISIS AHEAD? TRUMP REVEALS ALL ! Latest News Updates",
-            "artist": "Vox Live News"
+            "videoId": "gVYcHULzQS4",
+            "name": "🔴Trump’s BIG Announcement LIVE: World on High Alert? | US President Speaks | Trump Speaks LIVE",
+            "artist": "moneycontrol"
         },
         {
             "mood": "storm",
-            "videoId": "f9eMC8dsZ_s",
-            "name": "LIVE: Abdul-Malik Al-Houthi Warns Pakistan, Turkey & US Allies Against Joining Saudi Coalition |N18G",
-            "artist": "News18 Urdu"
+            "videoId": "uSWMHpsjS1U",
+            "name": "🔴LIVE : CM Vijay | TVK | CM விஜயை பார்க்க வந்த 50 பேருக்கு நேர்ந்த கதி - மதுரையில் பெரும் பரபரப்பு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "q7YPVY7VNgw",
-            "name": "[LIVE] Fox & Friends 09/28/2026 Live HD | FOX NEWS TRUMP LIVE September 28, 2026",
-            "artist": "الشيف محمد المصري"
+            "videoId": "bcdj89dWJa8",
+            "name": "Trump Latest NEWS Live: 24-Hour Countdown for Iran Attack? | Breaking News | WORLD NEWS LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "yShX8d2XCaw",
-            "name": "Trump LIVE:“WW3 Started\" Trump Drops Big Bombshell | Major Global Update | US News | Breaking News",
+            "videoId": "eJzUODddfrY",
+            "name": "🔴LIVE: Nepal Floods | நீங்கள் இதுவரை பார்த்திராத கொடூர காட்சி! கணிக்க முடியாத நேரத்தில் வந்த பேரழிவு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NoPj2ZxCse4",
+            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "OQczP1X0SR0",
-            "name": "Netanyahu’s Secret Abu Dhabi Visit | 12PM Headlines Geo News (28 SEP 2026)",
-            "artist": "Geo News"
+            "videoId": "gjN9Uy5auos",
+            "name": "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (28.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "e9nc666M73E",
-            "name": "Aaj Ki Taaza Khabar LIVE: 28 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar",
-            "artist": "Times Now Navbharat"
+            "videoId": "r3dPA40yC0w",
+            "name": "LIVE with Dr. Shahid Masood | Some surprising news... | 28 Sep 2026",
+            "artist": "GNN"
         },
         {
             "mood": "storm",
-            "videoId": "eIFw02V16-A",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ । ২৮.০৯.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "9LfH8EBW0EM",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : Ujjain में बवाल !सड़क पर हजारों मुसलमान! Masjid",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "7IqMl_fO-VE",
-            "name": "US Iran War LIVE: Iran Rains Hell On U.S. Bases In Gulf, Trump Orders Big Retaliation | Hormuz |N18G",
-            "artist": "CNN-News18"
+            "videoId": "bvnX59NsM4U",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FT3QR9Vix5M",
+            "name": "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qKrer64d5b4",
+            "name": "Jack Keane: Iran is back on its HEELS",
+            "artist": "Fox News"
         }
     ],
     "sourceFilters": {
