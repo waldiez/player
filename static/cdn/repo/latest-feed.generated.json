@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-28T03:02:41.152Z",
+    "generatedAt": "2026-09-28T12:37:31.119Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JbrYNk1NrnE",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Sept. 27, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CGL3JyymjUc",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MpIAh3Qnbfk",
-            "name": "🔴LIVE : CM Vijay | கடும் எதிர்ப்பு... முடிவை மாற்றிய CM விஜய்... அதிரடி ரத்து",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "QI2q3zfgwUY",
-            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vYCfhYJvttw",
-            "name": "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "oOmT0LHac1c",
-            "name": "LIVE: KTR Sensational Comments After Watching His Father KCR Character In Paradise Movie | ZEE",
+            "videoId": "FcRIRTQ00ug",
+            "name": "LIVE: Gold Price Today | Stock Market Latest Updates | కుప్పకూలిన బంగారం |  ZeeTelugu News",
             "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "qNN5RAI2Iek",
-            "name": "LIVE: ABC News Live - Sunday, September 27 | ABC News",
-            "artist": "ABC News"
+            "videoId": "7K0s6CAl7mA",
+            "name": "World News Live । GLOBAL CRISIS AHEAD? TRUMP REVEALS ALL ! Latest News Updates",
+            "artist": "Vox Live News"
         },
         {
             "mood": "storm",
-            "videoId": "qMAo8FF5x4s",
-            "name": "There is a ‘BIG BLOW’ coming to Iran, expert says",
-            "artist": "Fox News"
+            "videoId": "f9eMC8dsZ_s",
+            "name": "LIVE: Abdul-Malik Al-Houthi Warns Pakistan, Turkey & US Allies Against Joining Saudi Coalition |N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "QdtGSl4OoME",
-            "name": "LIVE 🔴 Dubai & World News Today | Ukraine, Iran, Germany, USA & UAE | 27 September 2026",
-            "artist": "Gabriela- info"
+            "videoId": "q7YPVY7VNgw",
+            "name": "[LIVE] Fox & Friends 09/28/2026 Live HD | FOX NEWS TRUMP LIVE September 28, 2026",
+            "artist": "الشيف محمد المصري"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yShX8d2XCaw",
+            "name": "Trump LIVE:“WW3 Started\" Trump Drops Big Bombshell | Major Global Update | US News | Breaking News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OQczP1X0SR0",
+            "name": "Netanyahu’s Secret Abu Dhabi Visit | 12PM Headlines Geo News (28 SEP 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "e9nc666M73E",
+            "name": "Aaj Ki Taaza Khabar LIVE: 28 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eIFw02V16-A",
+            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ । ২৮.০৯.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7IqMl_fO-VE",
+            "name": "US Iran War LIVE: Iran Rains Hell On U.S. Bases In Gulf, Trump Orders Big Retaliation | Hormuz |N18G",
+            "artist": "CNN-News18"
         }
     ],
     "sourceFilters": {
