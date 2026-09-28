@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-27T20:41:45.246Z",
+    "generatedAt": "2026-09-28T03:02:41.152Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "u6IWxYL_kTo",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (27.09.2026) | 10 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "45f3b_zqXlU",
-            "name": "Gujarat Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2SVmO2SUNX0",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : Delhi के मंत्री का 'थप्पड़कांड' | Parvesh Verma",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ah26ObMGAAY",
-            "name": "Good Morning America Full Broadcast - Sunday, September 27, 2026",
+            "videoId": "JbrYNk1NrnE",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Sept. 27, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "ubKUTzy_62o",
-            "name": "Gyanesh Kumar News LIVE: जिसका डर था वही हुआ...ज्ञानेश कुमार के खिलाफ बड़ा प्रदर्शन शुरू | CJP",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bk8YvA4oOsA",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.09.2026) | Sathiyam Headlines",
+            "videoId": "CGL3JyymjUc",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "_--9rOlzxvI",
-            "name": "LIVE with Dr. Shahid Masood | America, Iran war... the arrival of Russia and China | 27 Sep 2026",
-            "artist": "GNN"
+            "videoId": "MpIAh3Qnbfk",
+            "name": "🔴LIVE : CM Vijay | கடும் எதிர்ப்பு... முடிவை மாற்றிய CM விஜய்... அதிரடி ரத்து",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "rItsAsHoDwc",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "videoId": "QI2q3zfgwUY",
+            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vYCfhYJvttw",
+            "name": "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "HNSiD5h0apc",
-            "name": "Today Headlines | 27 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "oOmT0LHac1c",
+            "name": "LIVE: KTR Sensational Comments After Watching His Father KCR Character In Paradise Movie | ZEE",
+            "artist": "Zee Telugu News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qNN5RAI2Iek",
+            "name": "LIVE: ABC News Live - Sunday, September 27 | ABC News",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "qMAo8FF5x4s",
+            "name": "There is a ‘BIG BLOW’ coming to Iran, expert says",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QdtGSl4OoME",
+            "name": "LIVE 🔴 Dubai & World News Today | Ukraine, Iran, Germany, USA & UAE | 27 September 2026",
+            "artist": "Gabriela- info"
         }
     ],
     "sourceFilters": {
