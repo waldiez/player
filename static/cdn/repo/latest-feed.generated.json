@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-28T22:50:45.644Z",
+    "generatedAt": "2026-09-29T03:42:22.693Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CGL3JyymjUc",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (28.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "iUfyg8Ffbss",
+            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 29 Sep",
+            "artist": "Sairbeen News 24"
         },
         {
             "mood": "storm",
-            "videoId": "gVYcHULzQS4",
-            "name": "🔴Trump’s BIG Announcement LIVE: World on High Alert? | US President Speaks | Trump Speaks LIVE",
-            "artist": "moneycontrol"
+            "videoId": "kLhvGZ-uCng",
+            "name": "ABC News Live Prime: Sept. 28, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "uSWMHpsjS1U",
-            "name": "🔴LIVE : CM Vijay | TVK | CM விஜயை பார்க்க வந்த 50 பேருக்கு நேர்ந்த கதி - மதுரையில் பெரும் பரபரப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "7vc91Qo4r08",
+            "name": "US NEWS LIVE: Vance Breaks Silence On Trump Health, Drops Emergency Statement From Briefing Room",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "bcdj89dWJa8",
-            "name": "Trump Latest NEWS Live: 24-Hour Countdown for Iran Attack? | Breaking News | WORLD NEWS LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eJzUODddfrY",
-            "name": "🔴LIVE: Nepal Floods | நீங்கள் இதுவரை பார்த்திராத கொடூர காட்சி! கணிக்க முடியாத நேரத்தில் வந்த பேரழிவு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NoPj2ZxCse4",
-            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gjN9Uy5auos",
-            "name": "🔴LIVE: இன்றைய டாப் 50 செய்திகள் (28.09.2026) | CM vijay |#Top50News #CMVijay #PoliticalNews",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "r3dPA40yC0w",
-            "name": "LIVE with Dr. Shahid Masood | Some surprising news... | 28 Sep 2026",
-            "artist": "GNN"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9LfH8EBW0EM",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : Ujjain में बवाल !सड़क पर हजारों मुसलमान! Masjid",
+            "videoId": "PkpTr_Qa6ZY",
+            "name": "उज्जैन शाही मस्जिद पत्थरबाजी मुस्लिमों का चौंकाने वाला बयान LIVE | Ujjain Shahi Masjid Demolition",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "bvnX59NsM4U",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
+            "videoId": "E77glXNCZdQ",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.09.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "FT3QR9Vix5M",
-            "name": "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE",
-            "artist": "ET Now"
+            "videoId": "UJfdTl6rdiI",
+            "name": "Republic TV LIVE: September 29, 2026 | India | Global News | Asian Games 2026",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "qKrer64d5b4",
-            "name": "Jack Keane: Iran is back on its HEELS",
-            "artist": "Fox News"
+            "videoId": "AOIKMAjSOW8",
+            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "za3XhXqdj7A",
+            "name": "Gyanesh Kumar Resign News LIVE: बदल जाएगा मुख्य चुनाव आयुक्त?, ‘राष्ट्रपति के पास पहुंचा इस्तीफा’?",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
