@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260929T173915.044Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260929T214451.239Z-l4t35t"
   type: "state"
-  created: "2026-09-29T17:39:15.044Z"
+  created: "2026-09-29T21:44:51.239Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260929T173915.044Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260929T214451.239Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ZCQ2qPHxPds"
-        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        videoId: "M-Sk-WYSrCw"
+        name: "Donald Trump LIVE | 'Within Next 24...', Trump Stuns World With HUGE Announcement; US In Shock!"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ny970rPUSGs"
-        name: "Trump LIVE: Iran War Message Rocks World | “We’re Going to Win” | US NEWS | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
+        videoId: "jIA2c8vhqno"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5rAF8fka_PI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "rqLX_VS_nr8"
+        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wmYgSwn-tFM"
-        name: "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE"
+        videoId: "xhM5BFwhuOo"
+        name: "TRUMP LIVE: Major War Warning | Is World War 3 Coming? | TRUMP WW3 WARNING | WORLD NEWS LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xQywwR37Bvw"
-        name: "Gyanesh Kumar News LIVE: शाम होते ही ज्ञानेश कुमार के इस्तीफे पर आई बड़ी खबर! | Congress | Breaking"
-        artist: "ABP NEWS"
+        videoId: "y_0lvIfNVZY"
+        name: "US-Iran War LIVE: Tehran's Destructive 3-Front Attack Against US Forces On Air, Land & Sea Explained"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vJYauigCn5M"
-        name: "Today Headlines | 29 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
+        videoId: "UjQxqqnTU-Y"
+        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 29.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "E77glXNCZdQ"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hVqjSmJ7CWg"
-        name: "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE"
-        artist: "ET Now World"
+        videoId: "G_UajQA1l4U"
+        name: "LIVE with Dr. Shahid Masood | Another chessboard | 29 Sep 2026 | GNN"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Q5jo3gwq-SE"
-        name: "🔴LIVE: அப்பளம் போல் உடைந்த மலை - நேபாளத்தில் கோரத்தாண்டவம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FiE-UNx-hxk"
-        name: "🔴LIVE : CM Vijay Campaign | முதல்வர் விஜய்க்காக காத்திருக்கும் தாராபுரம்.. ஏற்பாடுகள் தீவிரம் !"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "u1qdGG6jVhc"
-        name: "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 29 September 2026 | Rtv News"
-        artist: "Rtv News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lP5J4ViYEZI"
-        name: "Trump Mega Announcement LIVE: Iran Surrenders in front Of America | Trump Latest Live | War News"
-        artist: "MIRROR NOW"
+        videoId: "KXlLXMdE9-E"
+        name: "Jesse Watters: This is the LAST card they have"
+        artist: "Fox News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-29T17:39:15.044Z"
+  exported_at: "2026-09-29T21:44:51.239Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-29T17:39:14.994Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-29T21:44:51.187Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
