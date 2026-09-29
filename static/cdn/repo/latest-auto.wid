@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260929T115647.603Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260929T173915.044Z-l4t35t"
   type: "state"
-  created: "2026-09-29T11:56:47.603Z"
+  created: "2026-09-29T17:39:15.044Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260929T115647.603Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260929T173915.044Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5AaaKjt1YpQ"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.09.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g7Qyc9rvfv0"
-        name: "उज्जैन शाही मस्जिद पत्थरबाजी मुस्लिमों का चौंकाने वाला बयान LIVE | Ujjain Shahi Masjid Demolition"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9E4gmUFRhvk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "AsianBD News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1XuL9H30Iws"
-        name: "Gujarat 100 News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K-p7sN2T1Vk"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F1hUyvAlisY"
-        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7uXoOO5xiTk"
-        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
+        videoId: "ZCQ2qPHxPds"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gnFB8E2Sl8o"
-        name: "Marathi News Today LIVE | Maharashtra Dushkal GR | Gyanesh Kumar | Raj Uddhav Thackeray News"
-        artist: "News18 Marathi"
+        videoId: "Ny970rPUSGs"
+        name: "Trump LIVE: Iran War Message Rocks World | “We’re Going to Win” | US NEWS | WORLD NEWS LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TBNVItZJ_dA"
-        name: "Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News"
-        artist: "Times Now"
+        videoId: "5rAF8fka_PI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wmYgSwn-tFM"
+        name: "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xQywwR37Bvw"
+        name: "Gyanesh Kumar News LIVE: शाम होते ही ज्ञानेश कुमार के इस्तीफे पर आई बड़ी खबर! | Congress | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vJYauigCn5M"
+        name: "Today Headlines | 29 Sep 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hVqjSmJ7CWg"
+        name: "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Q5jo3gwq-SE"
+        name: "🔴LIVE: அப்பளம் போல் உடைந்த மலை - நேபாளத்தில் கோரத்தாண்டவம்"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FiE-UNx-hxk"
+        name: "🔴LIVE : CM Vijay Campaign | முதல்வர் விஜய்க்காக காத்திருக்கும் தாராபுரம்.. ஏற்பாடுகள் தீவிரம் !"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "u1qdGG6jVhc"
+        name: "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 29 September 2026 | Rtv News"
+        artist: "Rtv News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "lP5J4ViYEZI"
+        name: "Trump Mega Announcement LIVE: Iran Surrenders in front Of America | Trump Latest Live | War News"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-29T11:56:47.603Z"
+  exported_at: "2026-09-29T17:39:15.044Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-29T11:56:47.556Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-29T17:39:14.994Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

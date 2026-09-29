@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-29T11:56:47.556Z",
+    "generatedAt": "2026-09-29T17:39:14.994Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5AaaKjt1YpQ",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.09.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g7Qyc9rvfv0",
-            "name": "उज्जैन शाही मस्जिद पत्थरबाजी मुस्लिमों का चौंकाने वाला बयान LIVE | Ujjain Shahi Masjid Demolition",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9E4gmUFRhvk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "AsianBD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1XuL9H30Iws",
-            "name": "Gujarat 100 News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "K-p7sN2T1Vk",
-            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "F1hUyvAlisY",
-            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7uXoOO5xiTk",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "videoId": "ZCQ2qPHxPds",
+            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "gnFB8E2Sl8o",
-            "name": "Marathi News Today LIVE | Maharashtra Dushkal GR | Gyanesh Kumar | Raj Uddhav Thackeray News",
-            "artist": "News18 Marathi"
+            "videoId": "Ny970rPUSGs",
+            "name": "Trump LIVE: Iran War Message Rocks World | “We’re Going to Win” | US NEWS | WORLD NEWS LIVE",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "TBNVItZJ_dA",
-            "name": "Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News",
-            "artist": "Times Now"
+            "videoId": "5rAF8fka_PI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Sep 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wmYgSwn-tFM",
+            "name": "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xQywwR37Bvw",
+            "name": "Gyanesh Kumar News LIVE: शाम होते ही ज्ञानेश कुमार के इस्तीफे पर आई बड़ी खबर! | Congress | Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vJYauigCn5M",
+            "name": "Today Headlines | 29 Sep 2026 | Night Headlines | #headlines | Sathiyam News",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hVqjSmJ7CWg",
+            "name": "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q5jo3gwq-SE",
+            "name": "🔴LIVE: அப்பளம் போல் உடைந்த மலை - நேபாளத்தில் கோரத்தாண்டவம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FiE-UNx-hxk",
+            "name": "🔴LIVE : CM Vijay Campaign | முதல்வர் விஜய்க்காக காத்திருக்கும் தாராபுரம்.. ஏற்பாடுகள் தீவிரம் !",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "u1qdGG6jVhc",
+            "name": "আজকের আন্তর্জাতিক খবর | International News Today | Today’s World News | 29 September 2026 | Rtv News",
+            "artist": "Rtv News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "lP5J4ViYEZI",
+            "name": "Trump Mega Announcement LIVE: Iran Surrenders in front Of America | Trump Latest Live | War News",
+            "artist": "MIRROR NOW"
         }
     ],
     "sourceFilters": {
