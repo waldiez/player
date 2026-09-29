@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-29T03:42:22.693Z",
+    "generatedAt": "2026-09-29T11:56:47.556Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "iUfyg8Ffbss",
-            "name": "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 29 Sep",
-            "artist": "Sairbeen News 24"
+            "videoId": "5AaaKjt1YpQ",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (29.09.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "kLhvGZ-uCng",
-            "name": "ABC News Live Prime: Sept. 28, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7vc91Qo4r08",
-            "name": "US NEWS LIVE: Vance Breaks Silence On Trump Health, Drops Emergency Statement From Briefing Room",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PkpTr_Qa6ZY",
+            "videoId": "g7Qyc9rvfv0",
             "name": "उज्जैन शाही मस्जिद पत्थरबाजी मुस्लिमों का चौंकाने वाला बयान LIVE | Ujjain Shahi Masjid Demolition",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "E77glXNCZdQ",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.09.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "9E4gmUFRhvk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Sept 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "AsianBD News"
         },
         {
             "mood": "storm",
-            "videoId": "UJfdTl6rdiI",
-            "name": "Republic TV LIVE: September 29, 2026 | India | Global News | Asian Games 2026",
-            "artist": "Republic World"
+            "videoId": "1XuL9H30Iws",
+            "name": "Gujarat 100 News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "AOIKMAjSOW8",
-            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
-            "artist": "ET Now World"
+            "videoId": "K-p7sN2T1Vk",
+            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "za3XhXqdj7A",
-            "name": "Gyanesh Kumar Resign News LIVE: बदल जाएगा मुख्य चुनाव आयुक्त?, ‘राष्ट्रपति के पास पहुंचा इस्तीफा’?",
-            "artist": "ABP NEWS"
+            "videoId": "F1hUyvAlisY",
+            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7uXoOO5xiTk",
+            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gnFB8E2Sl8o",
+            "name": "Marathi News Today LIVE | Maharashtra Dushkal GR | Gyanesh Kumar | Raj Uddhav Thackeray News",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TBNVItZJ_dA",
+            "name": "Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
