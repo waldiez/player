@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-30T17:24:49.928Z",
+    "generatedAt": "2026-09-30T21:45:17.141Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HgUROft5plc",
-            "name": "🔴LIVE:  Trump | ட்ரம்ப் அறிவிப்பால் IT உலகில் பெரும் பரபரப்பு",
+            "videoId": "m_v90m7EC9o",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DQuZK34HaU0",
+            "name": "Debate With Arnab LIVE: FlyDubai Flight In Rapid Descent As Pilot Stabbed In Cockpit,Israel On Alert",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-wAM0w-1EoU",
+            "name": "Today's Breaking News LIVE: Election Commission Row | PM Modi | Houthis Attack | US Iran War | USA",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "n8kYa20MGB8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ZMhFVCqhLNg",
-            "name": "LIVE | Houthis Claim Key Mayyun Island Airbase as Red Sea Tensions Rise | Firstpost Live",
-            "artist": "Firstpost"
+            "videoId": "9RM1BmUtH7Q",
+            "name": "🔴LIVE:  தலைகீழாகிறது தமிழ்நாடு வானிலை - எச்சரிக்கை தகவல் | TN Weather | Rain Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "9G1d9hGW4l8",
-            "name": "Putin LIVE: New Russian Parliament Begins First Session in Moscow | WORLD NEWS | Times Now World",
-            "artist": "Times Now World"
+            "videoId": "FkuwYPRAKC8",
+            "name": "India Today TV LIVE: Top LeT Terrorist Killed | Donald Trump | ECI | Gyanesh Kumar | Political News",
+            "artist": "India Today"
         },
         {
             "mood": "storm",
-            "videoId": "FMuenrb-6pY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "d3DPrwbHOEA",
+            "name": "🔴LIVE: துபாய் விமானத்தை கடத்த முயற்சி? நடுவானில் அலறிய பயணிகள்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "oqFfrehzuJg",
-            "name": "LIVE | Flydubai Flight Chaos: Pilot Tried to Crash Israel-Bound Flight Says Netanyahu | IGR",
-            "artist": "India Global Review"
-        },
-        {
-            "mood": "storm",
-            "videoId": "AqEDfSPVaYo",
-            "name": "Evening News LIVE | Manorama News LIVE | News Updates",
-            "artist": "Manorama News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B2lp2jQIsZw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1Z30bX646So",
-            "name": "Trump Speech Live: Iran Surrender Claim & Major Announcement | US-Iran Breaking News | WORLD NEWS",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JE8FtbfoMro",
-            "name": "🟠Gujarat Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k9kE_RI8kZ4",
-            "name": "Out Of Focus Live | 30 September 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "S0sBAwm5x80",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : इजरायल जा रहा विमान 'हाईजैक'? flydubai",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
