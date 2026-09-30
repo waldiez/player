@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260929T214451.239Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260930T033002.361Z-l4t35t"
   type: "state"
-  created: "2026-09-29T21:44:51.239Z"
+  created: "2026-09-30T03:30:02.361Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260929T214451.239Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260930T033002.361Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "M-Sk-WYSrCw"
-        name: "Donald Trump LIVE | 'Within Next 24...', Trump Stuns World With HUGE Announcement; US In Shock!"
-        artist: "Times Now"
+        videoId: "abUBEwxlAYI"
+        name: "US-Iran War LIVE: Iran Fires New Destructive Weapon On Trump's US Carrier, Gulf On Edge | Hormuz War"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jIA2c8vhqno"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "IfFIzJ48z_U"
+        name: "प्रेमानंद जी के शिष्य की मौत का राज मोबाइल ने खोल दिया? LIVE |  Rasik Dulari | Vrindavan | Mathura"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rqLX_VS_nr8"
-        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
-        artist: "Times Now"
+        videoId: "qfzbaVhmCqI"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xhM5BFwhuOo"
-        name: "TRUMP LIVE: Major War Warning | Is World War 3 Coming? | TRUMP WW3 WARNING | WORLD NEWS LIVE"
-        artist: "ET Now"
+        videoId: "iltEqrwt2CU"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Sept. 29, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y_0lvIfNVZY"
-        name: "US-Iran War LIVE: Tehran's Destructive 3-Front Attack Against US Forces On Air, Land & Sea Explained"
+        videoId: "VFe13MRQ_EQ"
+        name: "Iran America War LIVE : ईरान अमेरिका युद्ध की अपडेट ! | Trump | Hormuz War | Mojtaba | Houthi | N18G"
+        artist: "News18 Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vzD4ezm8F4k"
+        name: "US-Iran War LIVE: Iran Launches Major Missile Assault Destroy US Bases Across Gulf, Region On Alert"
         artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UjQxqqnTU-Y"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 29.09.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "E77glXNCZdQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.09.2026) | Sathiyam Headlines"
+        videoId: "n8kYa20MGB8"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.09.2026) | Sathiyam Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "G_UajQA1l4U"
-        name: "LIVE with Dr. Shahid Masood | Another chessboard | 29 Sep 2026 | GNN"
-        artist: "GNN"
+        videoId: "BbPL9jr6JkA"
+        name: "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KXlLXMdE9-E"
-        name: "Jesse Watters: This is the LAST card they have"
-        artist: "Fox News"
+        videoId: "F1hUyvAlisY"
+        name: "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PTxcCianw2k"
+        name: "Hindi News Live | Aaj Ki Badi Khabar LIVE : आज की ताजा खबरें | PM Modi | Gyanesh Kumar | LPU | ECI"
+        artist: "Times Now Navbharat"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-29T21:44:51.239Z"
+  exported_at: "2026-09-30T03:30:02.361Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-29T21:44:51.187Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-09-30T03:30:02.315Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"

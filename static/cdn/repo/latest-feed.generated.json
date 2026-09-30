@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-29T21:44:51.187Z",
+    "generatedAt": "2026-09-30T03:30:02.315Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "M-Sk-WYSrCw",
-            "name": "Donald Trump LIVE | 'Within Next 24...', Trump Stuns World With HUGE Announcement; US In Shock!",
-            "artist": "Times Now"
+            "videoId": "abUBEwxlAYI",
+            "name": "US-Iran War LIVE: Iran Fires New Destructive Weapon On Trump's US Carrier, Gulf On Edge | Hormuz War",
+            "artist": "CNN-News18"
         },
         {
             "mood": "storm",
-            "videoId": "jIA2c8vhqno",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
+            "videoId": "IfFIzJ48z_U",
+            "name": "प्रेमानंद जी के शिष्य की मौत का राज मोबाइल ने खोल दिया? LIVE |  Rasik Dulari | Vrindavan | Mathura",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "rqLX_VS_nr8",
-            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
-            "artist": "Times Now"
+            "videoId": "qfzbaVhmCqI",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "xhM5BFwhuOo",
-            "name": "TRUMP LIVE: Major War Warning | Is World War 3 Coming? | TRUMP WW3 WARNING | WORLD NEWS LIVE",
-            "artist": "ET Now"
+            "videoId": "iltEqrwt2CU",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Sept. 29, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "y_0lvIfNVZY",
-            "name": "US-Iran War LIVE: Tehran's Destructive 3-Front Attack Against US Forces On Air, Land & Sea Explained",
+            "videoId": "VFe13MRQ_EQ",
+            "name": "Iran America War LIVE : ईरान अमेरिका युद्ध की अपडेट ! | Trump | Hormuz War | Mojtaba | Houthi | N18G",
+            "artist": "News18 Bihar Jharkhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vzD4ezm8F4k",
+            "name": "US-Iran War LIVE: Iran Launches Major Missile Assault Destroy US Bases Across Gulf, Region On Alert",
             "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "UjQxqqnTU-Y",
-            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ । 29.09.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E77glXNCZdQ",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.09.2026) | Sathiyam Headlines",
+            "videoId": "n8kYa20MGB8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.09.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "G_UajQA1l4U",
-            "name": "LIVE with Dr. Shahid Masood | Another chessboard | 29 Sep 2026 | GNN",
-            "artist": "GNN"
+            "videoId": "BbPL9jr6JkA",
+            "name": "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "KXlLXMdE9-E",
-            "name": "Jesse Watters: This is the LAST card they have",
-            "artist": "Fox News"
+            "videoId": "F1hUyvAlisY",
+            "name": "TRUMP ANNOUNCEMENT LIVE: Major New Decision Revealed | US News Breaking | world news live",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PTxcCianw2k",
+            "name": "Hindi News Live | Aaj Ki Badi Khabar LIVE : आज की ताजा खबरें | PM Modi | Gyanesh Kumar | LPU | ECI",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
