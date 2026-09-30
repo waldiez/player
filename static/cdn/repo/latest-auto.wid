@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20260930T114438.076Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20260930T172449.975Z-l4t35t"
   type: "state"
-  created: "2026-09-30T11:44:38.076Z"
+  created: "2026-09-30T17:24:49.975Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260930T114438.076Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20260930T172449.975Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "CTq1VMzrw78"
-        name: "Aaj Ki Taaza Khabar LIVE: 30 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar"
-        artist: "Times Now Navbharat"
+        videoId: "HgUROft5plc"
+        name: "🔴LIVE:  Trump | ட்ரம்ப் அறிவிப்பால் IT உலகில் பெரும் பரபரப்பு"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TXtcT-GJRVE"
-        name: "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AahTzDHEyR0"
-        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Obw-UcBknVI"
-        name: "Breaking | Israel Flight Hijack News LIVE: 2 पायलटों में झगड़ा! Israel का Plane हाईजैक! Saudi Arabia"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gzXCrRiW2eA"
-        name: "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DD7iUE3dHUE"
-        name: "LIVE: Ethiopia's Peace Deal In Flames? Why World Powers Urge Immediate Ceasefire | Firstpost Africa"
+        videoId: "ZMhFVCqhLNg"
+        name: "LIVE | Houthis Claim Key Mayyun Island Airbase as Red Sea Tensions Rise | Firstpost Live"
         artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "e-F7eUfxt4c"
-        name: "पता चल गया प्रेमानंद जीके शिष्य की मौत की वजह? LIVE | Vrindavan | Rasik Dulari | Mathura | Breaking"
-        artist: "NDTV India"
+        videoId: "9G1d9hGW4l8"
+        name: "Putin LIVE: New Russian Parliament Begins First Session in Moscow | WORLD NEWS | Times Now World"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m7aKohAEo9U"
-        name: "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech"
-        artist: "MIRROR NOW"
+        videoId: "FMuenrb-6pY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lSTmEanFViw"
-        name: "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ৩০ সেপ্টেম্বর ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
-        artist: "SOMOY TV Bulletin"
+        videoId: "oqFfrehzuJg"
+        name: "LIVE | Flydubai Flight Chaos: Pilot Tried to Crash Israel-Bound Flight Says Netanyahu | IGR"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xvuzrnFaxPU"
-        name: "bbc urdu radio live Sairbeen Jahan numa latest news and world news in Urdu Headlines Today 30 Sep"
-        artist: "Sairbeen News 24"
+        videoId: "AqEDfSPVaYo"
+        name: "Evening News LIVE | Manorama News LIVE | News Updates"
+        artist: "Manorama News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "B2lp2jQIsZw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1Z30bX646So"
+        name: "Trump Speech Live: Iran Surrender Claim & Major Announcement | US-Iran Breaking News | WORLD NEWS"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JE8FtbfoMro"
+        name: "🟠Gujarat Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર | Breaking News | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k9kE_RI8kZ4"
+        name: "Out Of Focus Live | 30 September 2026"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-09-30T11:44:38.076Z"
+  exported_at: "2026-09-30T17:24:49.975Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-09-30T11:44:38.022Z"
+  source_generated_at: "2026-09-30T17:24:49.928Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
