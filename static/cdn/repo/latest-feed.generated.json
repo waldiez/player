@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-30T21:45:17.141Z",
+    "generatedAt": "2026-10-01T03:35:10.583Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "m_v90m7EC9o",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "ru38HG4zMok",
+            "name": "BREAKING NEWS LIVE: Trump Demands Ilhan Omar To Be Deported | Trump News LIVE",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "DQuZK34HaU0",
-            "name": "Debate With Arnab LIVE: FlyDubai Flight In Rapid Descent As Pilot Stabbed In Cockpit,Israel On Alert",
-            "artist": "Republic World"
+            "videoId": "2dWHyHk8Zus",
+            "name": "\"NO MERCY NEXT TIME!\" Iran Issues 'FINAL WARNING' To US Army With New Missiles Ready! West War LIVE",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "-wAM0w-1EoU",
-            "name": "Today's Breaking News LIVE: Election Commission Row | PM Modi | Houthis Attack | US Iran War | USA",
-            "artist": "News18 India"
+            "videoId": "XpX_R2Abi8Q",
+            "name": "Flydubai Flight Hijack News LIVE: नेतन्याहू के लोग बंधी! प्लेन हाईजैक? | Israel | World News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "n8kYa20MGB8",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (30.09.2026) | Sathiyam Headlines",
+            "videoId": "5TgG23grAas",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Sept. 30, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CkkfRWRSTRI",
+            "name": "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "G40TK5K9nlo",
+            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OWhn3gt0dEE",
+            "name": "BREAKING NEWS LIVE: Trump’s Major Escalation Looms Tonight? | Trump Speaks on Iran | Trump LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ptDIeRHqdCg",
+            "name": "ABC World News Tonight With David Muir – Full Broadcast September 30, 2026 1080 HD",
+            "artist": "Lunar Loop"
+        },
+        {
+            "mood": "storm",
+            "videoId": "j357vNkbNFY",
+            "name": "Today's Headlines | 01 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "9RM1BmUtH7Q",
-            "name": "🔴LIVE:  தலைகீழாகிறது தமிழ்நாடு வானிலை - எச்சரிக்கை தகவல் | TN Weather | Rain Update",
-            "artist": "Sathiyam News"
+            "videoId": "IoZCxXS2wOc",
+            "name": "Aaj Ki Taaza Khabar LIVE: 30 September 2026 |Gyanesh Kumar | EC |PM Modi |Rahul Gandhi |Taaja Khabar",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "FkuwYPRAKC8",
-            "name": "India Today TV LIVE: Top LeT Terrorist Killed | Donald Trump | ECI | Gyanesh Kumar | Political News",
-            "artist": "India Today"
+            "videoId": "nkyx6VE1bwI",
+            "name": "ABC World News Tonight With David Muir 09/30/26 | ABC News Today September 30, 2026",
+            "artist": "Mars Digital"
         },
         {
             "mood": "storm",
-            "videoId": "d3DPrwbHOEA",
-            "name": "🔴LIVE: துபாய் விமானத்தை கடத்த முயற்சி? நடுவானில் அலறிய பயணிகள்",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "S0sBAwm5x80",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : इजरायल जा रहा विमान 'हाईजैक'? flydubai",
-            "artist": "NDTV India"
+            "videoId": "LZwyCqXpSAU",
+            "name": "Aaj Ki 100 Khabar LIVE: अभी-अभी की 100 ताजा बड़ी खबरें | Headlines Today | Top News | 1 october",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
