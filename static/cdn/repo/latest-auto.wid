@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261002T114305.897Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261002T171431.267Z-l4t35t"
   type: "state"
-  created: "2026-10-02T11:43:05.897Z"
+  created: "2026-10-02T17:14:31.267Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261002T114305.897Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261002T171431.267Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vEImGoWceho"
-        name: "Mumbai CJP Protest Live: प्रदर्शनकारियों की भीड़ देख भड़के लोग! Gyanesh Kumar | delhi Jantar Mantar"
-        artist: "TV9 Bharatvarsh"
+        videoId: "qWJkWy04Vsc"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PkdnxtyrXrk"
+        videoId: "Bfl57-6pv7I"
+        name: "LIVE | Flydubai Cockpit Attack New Video: Capt. Smit Machchhar & Passengers Overpower Attacker"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2uWVdq8Wglg"
+        name: "LIVE: Donald Trump’s Fiery Announcement Shocks America , Trump Speech LIVE | World News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f4urkP8uwPQ"
         name: "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FBw_oCIjIjg"
-        name: "Marathi News Today LIVE | Abhijeet Dipke CJP Protest | Sharad Pawar News | Pradeep Purnekar Case"
-        artist: "News18 Marathi"
+        videoId: "tka98kYNi14"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IU2lIuQG7DM"
-        name: "CJP Protest LIVE | CJP Mumbai Protest LIVE | CJP Protest News LIVE | CJP Mumbai Protest"
-        artist: "NDTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tXbCUBe3n3k"
-        name: "Today Headlines | 02 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vpaynmkHlSw"
-        name: "Gujarat Afternoon News LIVE | બપોરના તમામ મોટા સમાચાર | Latest Gujarati News | Fatafat | News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bURHGmXi7OI"
-        name: "Super Fast 100 News LIVE: Aaj Ki 100 Khabar | Headlines Today | Top News | Breaking | 02 October"
-        artist: "Republic Bharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hXW_Rcb8b4s"
-        name: "Aaj Ki Taaza Khabar LIVE: 02 October 2026 | Flydubai Flight Incident | PM Modi | Taaja Khabar | ECI"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KfocGROHKAE"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ০২.১০.২০২৬ | Today News | Ajker News | Breaking News | ATN Bangla"
+        videoId: "OpotLyWeOK8"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DZ4GiXoyivo"
-        name: "गिरफ्तार ओमानी पायलट ने उगल दिया सच ? LIVE Netanyahu On Flydubai Cockpit Attack | Omani Pilot"
-        artist: "NDTV India"
+        videoId: "r6aHwnftK-U"
+        name: "LIVE🔴এটিএন বাংলার সংবাদ | 02.10.2026 | Today News | Live News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IHpQhhMAioM"
-        name: "🌍 LIVE: Latest World News | Breaking International News & Global Updates"
-        artist: "World GK in Urdu1"
+        videoId: "AoGgICrr4_o"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xJRbitGqmzU"
-        name: "🔴LIVE: TVK Alliance Campaign | தவெக கூட்டணி கட்சி தலைவர்கள் பரப்புரை | Maduranthakam | CM Vijay"
-        artist: "NewsTamil 24X7"
+        videoId: "RSKeeJi5MBo"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oO4dbPS_NO0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla  03 October 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "WorldNews Bangla tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "22vtKXnef_s"
+        name: "US News LIVE: Trump Signs ‘Death Warrant’ for Iran? | America on High Alert? | Trump Speech LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y7DlgTDzI-g"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 02 October | World News | International News | NEWS24"
+        artist: "NEWS24"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-02T11:43:05.897Z"
+  exported_at: "2026-10-02T17:14:31.267Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-02T11:43:05.843Z"
+  source_generated_at: "2026-10-02T17:14:31.222Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
