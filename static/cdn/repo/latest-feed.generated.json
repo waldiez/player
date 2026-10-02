@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-02T03:35:12.226Z",
+    "generatedAt": "2026-10-02T11:43:05.843Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Korl-X1jvp4",
-            "name": "\"NO MERCY NEXT TIME!\" Iran Issues 'FINAL WARNING' To US Army With New Missiles Ready! West War LIVE",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "MvZjIAHNx3M",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eLUP2aWJhJc",
-            "name": "US NEWS LIVE: Trump Gives Massive New War Update From White House Says 'US Gonna Win The War'",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NoevAwFsGPU",
-            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CaA_zXzTb9k",
-            "name": "TV9 Bharatvarsh LIVE: Iran US War | Gandhi Jayanti | CJP | Gyanesh Kumar | PM Modi | Rahul Gandhi",
+            "videoId": "vEImGoWceho",
+            "name": "Mumbai CJP Protest Live: प्रदर्शनकारियों की भीड़ देख भड़के लोग! Gyanesh Kumar | delhi Jantar Mantar",
             "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "ioXZptiuqG8",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, | Trump On Iran",
+            "videoId": "PkdnxtyrXrk",
+            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
             "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "OwbkeLZ6aGY",
-            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update",
-            "artist": "Times Now"
+            "videoId": "FBw_oCIjIjg",
+            "name": "Marathi News Today LIVE | Abhijeet Dipke CJP Protest | Sharad Pawar News | Pradeep Purnekar Case",
+            "artist": "News18 Marathi"
         },
         {
             "mood": "storm",
-            "videoId": "qWJkWy04Vsc",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.10.2026) | Sathiyam Headlines",
+            "videoId": "IU2lIuQG7DM",
+            "name": "CJP Protest LIVE | CJP Mumbai Protest LIVE | CJP Protest News LIVE | CJP Mumbai Protest",
+            "artist": "NDTV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tXbCUBe3n3k",
+            "name": "Today Headlines | 02 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "YMye5QtfF_8",
-            "name": "Trump LIVE: Emergency Declaration Expected? Trump's Latest Speech LIVE | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "vpaynmkHlSw",
+            "name": "Gujarat Afternoon News LIVE | બપોરના તમામ મોટા સમાચાર | Latest Gujarati News | Fatafat | News",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "EyWoDS0lHuc",
-            "name": "ABC World News Tonight With David Muir 10/01/26 | ABC News Today October 1, 2026",
-            "artist": "Bhajan Bindu"
+            "videoId": "bURHGmXi7OI",
+            "name": "Super Fast 100 News LIVE: Aaj Ki 100 Khabar | Headlines Today | Top News | Breaking | 02 October",
+            "artist": "Republic Bharat"
         },
         {
             "mood": "storm",
-            "videoId": "UFIhVwCz2Hk",
-            "name": "ABC World News Tonight With David Muir – Full Episode October 1, 2026",
-            "artist": "HS STUDIO"
+            "videoId": "hXW_Rcb8b4s",
+            "name": "Aaj Ki Taaza Khabar LIVE: 02 October 2026 | Flydubai Flight Incident | PM Modi | Taaja Khabar | ECI",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KfocGROHKAE",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ০২.১০.২০২৬ | Today News | Ajker News | Breaking News | ATN Bangla",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "DZ4GiXoyivo",
+            "name": "गिरफ्तार ओमानी पायलट ने उगल दिया सच ? LIVE Netanyahu On Flydubai Cockpit Attack | Omani Pilot",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IHpQhhMAioM",
+            "name": "🌍 LIVE: Latest World News | Breaking International News & Global Updates",
+            "artist": "World GK in Urdu1"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xJRbitGqmzU",
+            "name": "🔴LIVE: TVK Alliance Campaign | தவெக கூட்டணி கட்சி தலைவர்கள் பரப்புரை | Maduranthakam | CM Vijay",
+            "artist": "NewsTamil 24X7"
         }
     ],
     "sourceFilters": {
