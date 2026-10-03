@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261003T031934.492Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261003T105628.835Z-l4t35t"
   type: "state"
-  created: "2026-10-03T03:19:34.492Z"
+  created: "2026-10-03T10:56:28.835Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261003T031934.492Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261003T105628.835Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "qvQnAXa6FdU"
-        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
-        artist: "The Savera Times"
+        videoId: "EHf4LvlEhBc"
+        name: "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.10.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PkdnxtyrXrk"
-        name: "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MZr_i9eVlvA"
+        videoId: "l6-GdQr6kdk"
         name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Tp5Y6pgpuTQ"
-        name: "Iran America War LIVE : ईरान अमेरिका युद्ध की बड़ी खबरें! | Trump | Hormuz War | Putin | Houthi| N18G"
-        artist: "News18 Bihar Jharkhand"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F5nnlRMtPc0"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TO1aZ5Pwx24"
-        name: "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | CJP Protest"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xpdlKLQ7cZI"
-        name: "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News | UP-Punjab New Congress President | INDIA Alliance"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FnLSJbtic28"
-        name: "ABC World News Tonight With David Muir 10/2/26 | ABC News Today October 2, 2026"
-        artist: "Bhajan Bindu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "z_QJadekj0g"
-        name: "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }"
-        artist: "ABC NEWS TODAY"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4zNtItfTBV0"
-        name: "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }"
-        artist: "Lunar Loop"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "svz2SuirRyg"
-        name: "Jammu Kashmir News LIVE: ECI on Voter List, JKP & Army Alert | Action against Rohingyas | کشمیر نیوز"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yDLpnZXoIuQ"
-        name: "🔴LIVE: CM VIJAY | TVK | Vetri Payanam | என்னப்பா ஒரு ரவுண்டு போலாமா..! பேருந்தில் மகளிருடன் விஜய்"
+        videoId: "t4miw64Ao7U"
+        name: "🔴LIVE: CM Vijay | TVK | Dharapuram  | ஹெலிகாப்டரில் என்ட்ரி..CM விஜய்யின் மாஸ் பிளான்!"
         artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UEIJbwQafOQ"
+        name: "Marco Rubio LIVE: Iran-US War Is Over? Rubio Drops Major Peace Deal Bombshell | World News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "eCXGxJU-qgE"
+        name: "US NEWS LIVE: Trump Furious With Elon Musk, Demands Immediate Public Apology | World News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4T5qepjUK_w"
+        name: "Today Headlines | 03 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t_12GX7ymZ0"
+        name: "এটিএন বাংলার দুপুর ১২ টার সংবাদ । ০৩.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1cWmlGPeWZ8"
+        name: "🔴LIVE: Speed News | 24 Headlines | 03-10-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KtAb270NBAc"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ০৩.১০.২০২৬ | Today News | BD News | Breaking News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aJSa1DJfjdc"
+        name: "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ৩ অক্টোবর ২০২৬ | Somoy TV Bulletin 9am| Latest International News"
+        artist: "SOMOY TV Bulletin"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ODio2-1aFa8"
+        name: "LIVE: ABC News Live - Friday, October 2"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-03T03:19:34.492Z"
+  exported_at: "2026-10-03T10:56:28.835Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-03T03:19:34.459Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-03T10:56:28.798Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
