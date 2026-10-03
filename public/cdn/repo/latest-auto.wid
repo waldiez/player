@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261002T214143.328Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261003T031934.492Z-l4t35t"
   type: "state"
-  created: "2026-10-02T21:41:43.328Z"
+  created: "2026-10-03T03:19:34.492Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261002T214143.328Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261003T031934.492Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,33 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BUYeSox1Txo"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર Superfast અંદાજમાં | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "qvQnAXa6FdU"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
+        artist: "The Savera Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2tAGiaL6Yfc"
-        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Flydubai Flight"
+        videoId: "PkdnxtyrXrk"
+        name: "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MZr_i9eVlvA"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tp5Y6pgpuTQ"
+        name: "Iran America War LIVE : ईरान अमेरिका युद्ध की बड़ी खबरें! | Trump | Hormuz War | Putin | Houthi| N18G"
+        artist: "News18 Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "F5nnlRMtPc0"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TO1aZ5Pwx24"
+        name: "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | CJP Protest"
         artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PjUO1L-Xtlo"
-        name: "🔴LIVE: அனைவரையும் ஓட விடும் ஈரான்(சீனா) - அதிர்ச்சியில் ட்ரம்ப்"
-        artist: "Sathiyam News"
+        videoId: "xpdlKLQ7cZI"
+        name: "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News | UP-Punjab New Congress President | INDIA Alliance"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z4XxRaHt9CA"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 02 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "FnLSJbtic28"
+        name: "ABC World News Tonight With David Muir 10/2/26 | ABC News Today October 2, 2026"
+        artist: "Bhajan Bindu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gOsmVj4XWQM"
-        name: "Today Headlines | 02 OCT 2026 | Night Headlines | #headlines | Sathiyam News"
-        artist: "Sathiyam News"
+        videoId: "z_QJadekj0g"
+        name: "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }"
+        artist: "ABC NEWS TODAY"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4zNtItfTBV0"
+        name: "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }"
+        artist: "Lunar Loop"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "svz2SuirRyg"
+        name: "Jammu Kashmir News LIVE: ECI on Voter List, JKP & Army Alert | Action against Rohingyas | کشمیر نیوز"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yDLpnZXoIuQ"
+        name: "🔴LIVE: CM VIJAY | TVK | Vetri Payanam | என்னப்பா ஒரு ரவுண்டு போலாமா..! பேருந்தில் மகளிருடன் விஜய்"
+        artist: "NewsTamil 24X7"
         chapter: null
   moodCustomizations:
     {}
@@ -90,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-02T21:41:43.328Z"
+  exported_at: "2026-10-03T03:19:34.492Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-02T21:41:43.285Z"
-  validation: "validation enabled: accepted 5/5 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-03T03:19:34.459Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"

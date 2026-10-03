@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-02T21:41:43.285Z",
+    "generatedAt": "2026-10-03T03:19:34.459Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,33 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BUYeSox1Txo",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મોટા સમાચાર Superfast અંદાજમાં | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "qvQnAXa6FdU",
+            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
+            "artist": "The Savera Times"
         },
         {
             "mood": "storm",
-            "videoId": "2tAGiaL6Yfc",
-            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Flydubai Flight",
+            "videoId": "PkdnxtyrXrk",
+            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MZr_i9eVlvA",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Tp5Y6pgpuTQ",
+            "name": "Iran America War LIVE : ईरान अमेरिका युद्ध की बड़ी खबरें! | Trump | Hormuz War | Putin | Houthi| N18G",
+            "artist": "News18 Bihar Jharkhand"
+        },
+        {
+            "mood": "storm",
+            "videoId": "F5nnlRMtPc0",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TO1aZ5Pwx24",
+            "name": "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | CJP Protest",
             "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "PjUO1L-Xtlo",
-            "name": "🔴LIVE: அனைவரையும் ஓட விடும் ஈரான்(சீனா) - அதிர்ச்சியில் ட்ரம்ப்",
-            "artist": "Sathiyam News"
+            "videoId": "xpdlKLQ7cZI",
+            "name": "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News | UP-Punjab New Congress President | INDIA Alliance",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "z4XxRaHt9CA",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 02 October 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "FnLSJbtic28",
+            "name": "ABC World News Tonight With David Muir 10/2/26 | ABC News Today October 2, 2026",
+            "artist": "Bhajan Bindu"
         },
         {
             "mood": "storm",
-            "videoId": "gOsmVj4XWQM",
-            "name": "Today Headlines | 02 OCT 2026 | Night Headlines | #headlines | Sathiyam News",
-            "artist": "Sathiyam News"
+            "videoId": "z_QJadekj0g",
+            "name": "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }",
+            "artist": "ABC NEWS TODAY"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4zNtItfTBV0",
+            "name": "ABC World News Tonight With David Muir – Full Episode October 2, 2026 { 1080 HD }",
+            "artist": "Lunar Loop"
+        },
+        {
+            "mood": "storm",
+            "videoId": "svz2SuirRyg",
+            "name": "Jammu Kashmir News LIVE: ECI on Voter List, JKP & Army Alert | Action against Rohingyas | کشمیر نیوز",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "yDLpnZXoIuQ",
+            "name": "🔴LIVE: CM VIJAY | TVK | Vetri Payanam | என்னப்பா ஒரு ரவுண்டு போலாமா..! பேருந்தில் மகளிருடன் விஜய்",
+            "artist": "NewsTamil 24X7"
         }
     ],
     "sourceFilters": {
