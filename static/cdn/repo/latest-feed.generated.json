@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-03T10:56:28.798Z",
+    "generatedAt": "2026-10-03T15:33:27.040Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "EHf4LvlEhBc",
-            "name": "🔴LIVE :Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.10.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "PZrfGbEMb5s",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "l6-GdQr6kdk",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "hfYgHfGCGt0",
+            "name": "LIVE: US-Iran War LIVE | Iran Prepares for Possible US Attack | Trump Rejects Hormuz Deal | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "t4miw64Ao7U",
-            "name": "🔴LIVE: CM Vijay | TVK | Dharapuram  | ஹெலிகாப்டரில் என்ட்ரி..CM விஜய்யின் மாஸ் பிளான்!",
-            "artist": "NewsTamil 24X7"
+            "videoId": "I4sAsDn4GI4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "GLOBAL UPDATE BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "UEIJbwQafOQ",
-            "name": "Marco Rubio LIVE: Iran-US War Is Over? Rubio Drops Major Peace Deal Bombshell | World News LIVE",
-            "artist": "ET Now"
+            "videoId": "2os2etUNd5o",
+            "name": "Out Of Focus Live | 03 October 2026",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "eCXGxJU-qgE",
-            "name": "US NEWS LIVE: Trump Furious With Elon Musk, Demands Immediate Public Apology | World News",
-            "artist": "ET Now"
+            "videoId": "d9f2dJFUAxU",
+            "name": "Jantar Mantar Protest LIVE: जंतर-मंतर पर दूसरे दिन प्रदर्शन!, | Mumbai CJP Protest | Gyanesh Kumar",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "4T5qepjUK_w",
-            "name": "Today Headlines | 03 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
+            "videoId": "Q4YKA-xJ-3E",
+            "name": "BREAKING NEWS LIVE: Pete Hegseth Drops Major Iran Bombshell | Pentagon LIVE | US News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "t_12GX7ymZ0",
-            "name": "এটিএন বাংলার দুপুর ১২ টার সংবাদ । ০৩.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "videoId": "Ss4xhMHZHQY",
+            "name": "CJP Mumbai Protest News LIVE | Abhijeet Dipke यांच्यासह 500 आंदोलकांवर गुन्हा दाखल, कारण काय?",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WkL3UlXTMIY",
+            "name": "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ০৩.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "1cWmlGPeWZ8",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 03-10-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "KtAb270NBAc",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ০৩.১০.২০২৬ | Today News | BD News | Breaking News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aJSa1DJfjdc",
-            "name": "আন্তর্জাতিক সংবাদ | সকাল ৯টা | ৩ অক্টোবর ২০২৬ | Somoy TV Bulletin 9am| Latest International News",
-            "artist": "SOMOY TV Bulletin"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ODio2-1aFa8",
-            "name": "LIVE: ABC News Live - Friday, October 2",
-            "artist": "ABC News"
+            "videoId": "XlifxxYTnRw",
+            "name": "Breaking News LIVE: Trump’s Latest Response To Iran Offer | Trump Speech LIVE | US News LIVE",
+            "artist": "ET Now World"
         }
     ],
     "sourceFilters": {
