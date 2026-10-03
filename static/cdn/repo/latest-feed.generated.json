@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-03T15:33:27.040Z",
+    "generatedAt": "2026-10-03T20:27:25.507Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PZrfGbEMb5s",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "M7aSbByC2FM",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "hfYgHfGCGt0",
-            "name": "LIVE: US-Iran War LIVE | Iran Prepares for Possible US Attack | Trump Rejects Hormuz Deal | N18G",
+            "videoId": "L1utnHnnO38",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "I4sAsDn4GI4",
+            "videoId": "J-5TZrilwwY",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pr-Lf3gBUG0",
+            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "T3YEU5XjbkM",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fM7jGxpz2PI",
+            "name": "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0GXfq-eVFic",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct  2026 | Ajker world News",
+            "artist": "Khobor Srot"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sE5by9ANTvg",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
+            "artist": "BAC আন্তর্জাতিক সংবাদ "
         },
         {
             "mood": "storm",
-            "videoId": "2os2etUNd5o",
-            "name": "Out Of Focus Live | 03 October 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d9f2dJFUAxU",
-            "name": "Jantar Mantar Protest LIVE: जंतर-मंतर पर दूसरे दिन प्रदर्शन!, | Mumbai CJP Protest | Gyanesh Kumar",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q4YKA-xJ-3E",
-            "name": "BREAKING NEWS LIVE: Pete Hegseth Drops Major Iran Bombshell | Pentagon LIVE | US News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ss4xhMHZHQY",
-            "name": "CJP Mumbai Protest News LIVE | Abhijeet Dipke यांच्यासह 500 आंदोलकांवर गुन्हा दाखल, कारण काय?",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WkL3UlXTMIY",
-            "name": "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ০৩.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XlifxxYTnRw",
-            "name": "Breaking News LIVE: Trump’s Latest Response To Iran Offer | Trump Speech LIVE | US News LIVE",
-            "artist": "ET Now World"
+            "videoId": "ukVYkpXQkbQ",
+            "name": "ओमानी को- पायलट का कबूलनामा, नेतन्याहू के उड़े होश? LIVE | Netanyahu | Flydubai | Smit Machchhar",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
