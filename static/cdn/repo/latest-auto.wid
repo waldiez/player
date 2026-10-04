@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261004T161757.908Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261004T204537.111Z-l4t35t"
   type: "state"
-  created: "2026-10-04T16:17:57.908Z"
+  created: "2026-10-04T20:45:37.111Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261004T161757.908Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261004T204537.111Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2UvESuPbrTA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "rMDN7UyxqKI"
+        name: "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News |  | INDIA Alliance  | CJP | Asian Games 2026"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WXscFu6OfgE"
-        name: "Today Big Breaking News Live: अभी की 100 बड़ी खबरें LIVE | Gyanesh Kumar | ECI | Flydubai | PM Modi"
-        artist: "Zee News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6v_nT0iS87g"
-        name: "Uddhav Raj Thackeray Mumbai Garjana Morcha LIVE | ठाकरेंचा गर्जना मोर्चा जशास तसा लाईव्ह"
-        artist: "News18 Marathi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b1FWuRQ8o8Y"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Dec 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cxqrrZzE22U"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (04.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "138ZL_db3sU"
-        name: "🔴LIVE: ముంచుకొస్తున్న సూపర్ ఎల్ నినో.. విధ్వంసం తప్పదా.!? | Elnino Effect To World | ABN"
-        artist: "ABN Telugu "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WgsEwAU553g"
-        name: "Good Morning America: News to start your day | October 4"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m0H78LJnBpA"
-        name: "🔴LIVE :  CM Vijay Roadshow | அர்ஜுனரு வில்லு.. அரிச்சந்திரன் சொல்லு.. சீறிப்பாயும் முதல்வர் விஜய்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xpvCTJtMxFA"
-        name: "🔴LIVE : Vijay Road Show | தாராபுரத்தில் முதல்வர் விஜய் ரோடு ஷோ.. பறக்கும் விசில் சத்தம்"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xP2ETdcg5SE"
-        name: "China Migration Live: हाईवे पर भीड़, पूरे शहर में बवाल! World News | Breaking News | India News"
+        videoId: "trzSNvS4nSk"
+        name: "War Impact On India Live: अगले महीने लगेगा Lockdown? Breaking News | India News | Global Crisis"
         artist: "India News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lt8jh_wbEOY"
-        name: "ABC World News Tonight With David Muir – Full Episode October 4  2026 { 1080 HD }"
-        artist: "ABC NEWS TODAY"
+        videoId: "Kj2KtBg6PtU"
+        name: "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News |  | INDIA Alliance  | CJP | Asian Games 2026"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "e520aG5GbZk"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fHVAew3URwY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EhSd-4Kqu2w"
+        name: "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6-TJJeQsEKw"
+        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zOC8N4F1QCU"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जांबाज 'हीरो' को नेतन्याहू का कॉल! | flydubai News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iHAImeDht1c"
+        name: "Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vbTmdVRFkJA"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "P4z24ppSDg0"
+        name: "Today Headlines | 04 OCT 2026 | Night Headlines | #headlines | Sathiyam News"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-04T16:17:57.908Z"
+  exported_at: "2026-10-04T20:45:37.111Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-04T16:17:57.864Z"
+  source_generated_at: "2026-10-04T20:45:37.067Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
