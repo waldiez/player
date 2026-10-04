@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261004T034727.549Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261004T113842.415Z-l4t35t"
   type: "state"
-  created: "2026-10-04T03:47:27.549Z"
+  created: "2026-10-04T11:38:42.415Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261004T034727.549Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261004T113842.415Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "8tTLEPBHgBI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CDC আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6-kHt3aktRU"
+        videoId: "tYqn0MrCkyM"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BD World 24"
+        artist: "Bijoy i-Desk"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U3ZE59JzFWs"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
-        artist: "News18 Urdu"
+        videoId: "fM7jGxpz2PI"
+        name: "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jFtSTziXE0c"
-        name: "TV9 Bharatvarsh LIVE: Iran US War | Trump | flydubai | Smit machchhar | CJP Protest | Gyanesh Kumar"
-        artist: "TV9 Bharatvarsh"
+        videoId: "0zWhbpmhH3Q"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mcJDPTbqubU"
-        name: "Today's Headlines | 04 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        videoId: "Sjr_EhVMDZc"
+        name: "Aaj Ki 100 Khabar LIVE: अभी की ताजा बड़ी खबरें | PM Modi | Rahul Gandhi | Dubai | Gyanesh | CJP"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "C3JdnHdASoE"
+        name: "China Migration Live: शहर हुए खाली, हाईवे पर भीड़ निराली! World News | Breaking News | India News"
+        artist: "India News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "daRVOf761EY"
+        name: "🔴LIVE: Today Headlines | மதியம் 12மணி தலைப்புச் செய்திகள் (04.10.2026) | 12 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7S0cjQjYs24"
+        name: "🔴 LIVE: புறப்பட்டார் CM விஜய் | Road Show"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sEF83n2Wb7o"
-        name: "ABC World News Tonight With David Muir 10/03/26 | ABC News Today October 3, 2026"
-        artist: "Dips Melodies"
+        videoId: "dWYim6RXj4s"
+        name: "Iran America War Update LIVE : ईरान-US युद्ध की बड़ी खबरें! | Trump | Hormuz | Putin | Houthi| N18G"
+        artist: "News18 Bihar Jharkhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4qSX0mjP1hA"
-        name: "LIVE: ABC News Live - Saturday, October 3"
-        artist: "ABC News"
+        videoId: "26-QTdPwzLE"
+        name: "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ০৪.১০.২০২৬ | Top News | Today News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MwTMKmN7GOg"
-        name: "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G"
-        artist: "News18 Urdu"
+        videoId: "AeSqwGLI0Zo"
+        name: "🔴LIVE: Speed News | 24 Headlines | 04-10-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CDTl8XGOnsE"
-        name: "Drone assault damages Kyiv’s northern bridge | World News Tonight"
-        artist: "TVP WORLD"
+        videoId: "cDqILaUbb2I"
+        name: "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order"
+        artist: "ET Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-04T03:47:27.549Z"
+  exported_at: "2026-10-04T11:38:42.415Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-04T03:47:27.502Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-04T11:38:42.381Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
