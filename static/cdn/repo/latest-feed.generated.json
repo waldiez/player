@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-03T20:27:25.507Z",
+    "generatedAt": "2026-10-04T03:47:27.502Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "M7aSbByC2FM",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.10.2026) | Sathiyam Headlines",
+            "videoId": "8tTLEPBHgBI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CDC আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6-kHt3aktRU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BD World 24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "U3ZE59JzFWs",
+            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jFtSTziXE0c",
+            "name": "TV9 Bharatvarsh LIVE: Iran US War | Trump | flydubai | Smit machchhar | CJP Protest | Gyanesh Kumar",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mcJDPTbqubU",
+            "name": "Today's Headlines | 04 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "L1utnHnnO38",
+            "videoId": "sEF83n2Wb7o",
+            "name": "ABC World News Tonight With David Muir 10/03/26 | ABC News Today October 3, 2026",
+            "artist": "Dips Melodies"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4qSX0mjP1hA",
+            "name": "LIVE: ABC News Live - Saturday, October 3",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MwTMKmN7GOg",
             "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "J-5TZrilwwY",
-            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Pr-Lf3gBUG0",
-            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T3YEU5XjbkM",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fM7jGxpz2PI",
-            "name": "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0GXfq-eVFic",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct  2026 | Ajker world News",
-            "artist": "Khobor Srot"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sE5by9ANTvg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "ukVYkpXQkbQ",
-            "name": "ओमानी को- पायलट का कबूलनामा, नेतन्याहू के उड़े होश? LIVE | Netanyahu | Flydubai | Smit Machchhar",
-            "artist": "NDTV India"
+            "videoId": "CDTl8XGOnsE",
+            "name": "Drone assault damages Kyiv’s northern bridge | World News Tonight",
+            "artist": "TVP WORLD"
         }
     ],
     "sourceFilters": {
