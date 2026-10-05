@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-04T20:45:37.067Z",
+    "generatedAt": "2026-10-05T03:31:47.930Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rMDN7UyxqKI",
-            "name": "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News |  | INDIA Alliance  | CJP | Asian Games 2026",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "trzSNvS4nSk",
-            "name": "War Impact On India Live: अगले महीने लगेगा Lockdown? Breaking News | India News | Global Crisis",
+            "videoId": "xP2ETdcg5SE",
+            "name": "China Migration Live: हाईवे पर भीड़, पूरे शहर में बवाल! World News | Breaking News | India News",
             "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "Kj2KtBg6PtU",
-            "name": "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News |  | INDIA Alliance  | CJP | Asian Games 2026",
-            "artist": "NDTV India"
+            "videoId": "VVx3hQ_CLGk",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 4, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "e520aG5GbZk",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fHVAew3URwY",
+            "videoId": "X3ValflMSSc",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "EhSd-4Kqu2w",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
-            "artist": "Times Now"
+            "videoId": "cDqILaUbb2I",
+            "name": "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "6-TJJeQsEKw",
-            "name": "US NEWS LIVE: Trump's Iran Decision Sparks Global Tensions, World on Edge | US Iran War | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zOC8N4F1QCU",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: जांबाज 'हीरो' को नेतन्याहू का कॉल! | flydubai News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iHAImeDht1c",
-            "name": "Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vbTmdVRFkJA",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "P4z24ppSDg0",
-            "name": "Today Headlines | 04 OCT 2026 | Night Headlines | #headlines | Sathiyam News",
+            "videoId": "pAbU7plh-Cw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.10.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MicfTC6WHVM",
+            "name": "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | PM Modi | CJP Protest | Rahul Gandhi",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C3JdnHdASoE",
+            "name": "China Migration Live: शहर हुए खाली, हाईवे पर भीड़ निराली! World News | Breaking News | India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "LYCf0MbC2R0",
+            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Flydubai Flight",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zha05mxtsHM",
+            "name": "Today's Headlines | 05 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ORCbtxpVAJk",
+            "name": "ABC World News Tonight With David Muir 10/4/26 | ABC News Today October 4, 2026",
+            "artist": "Bhajan Bindu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KOxtExhuaSw",
+            "name": "LIVE: ABC News Live - Sunday, October 4",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_6YPK3-qfdQ",
+            "name": "RTTL WORLD NEWS || 04-10-2026 (LIVE STREAM)",
+            "artist": "RTTL-Notisia - Notícia  - News"
         }
     ],
     "sourceFilters": {
