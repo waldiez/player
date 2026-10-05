@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-05T13:18:22.695Z",
+    "generatedAt": "2026-10-05T23:34:49.488Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "ccfodIYDjro",
+            "videoId": "xjfbEzwAHJ0",
+            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Flydubai Flight",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZLPOo5mE3kM",
+            "name": "🔴LIVE: இந்திய பைலட்டை குத்திய `ஓமன் பைலட்’ அதிர்ச்சி வாக்குமூலம்..  சதி அம்பலம்.. அரண்ட உலகம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BNc67Gub5IM",
+            "name": "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wEs8v1jgJ4w",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "artist": "CBC আন্তর্জাতিক সংবাদ "
         },
         {
             "mood": "storm",
-            "videoId": "geAqj5kN0Fo",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "2JLA4PVTjxc",
+            "name": "Aaj Ki Taza Khabar : यूपी की बड़ी खबरें! | Weather News | World News | UP News | IMD Alert |",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "KTjieuTc_-o",
-            "name": "गिरफ्तार ओमानी पायलट ने उगल दिया सच ? LIVE Netanyahu On Flydubai Cockpit Attack | Omani Pilot",
-            "artist": "NDTV India"
+            "videoId": "OD4qzu9brVg",
+            "name": "Saudi deploys 100 fighter jets in Yemen blitz after Iran’s Houthis attack oil | war latest news",
+            "artist": "The Telegraph"
         },
         {
             "mood": "storm",
-            "videoId": "5wF_S0Zn_kA",
-            "name": "Donald Trump Speech LIVE: Fiery Announcement Shocks America In High-Stakes Address | US Iran War",
-            "artist": "ET Now"
+            "videoId": "pAbU7plh-Cw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "cBmKNhzwM7o",
-            "name": "US-Iran War LIVE: New Iranian Missiles Weapon Targets US Carrier, Gulf On High Alert | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "fr4u5X_fLBQ",
-            "name": "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "videoId": "yjZGNhGiGjM",
+            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zvlIWm8522o",
-            "name": "JDA Action से पहले New Sanganer Road पर दुकानदारों ने खाली की दुकानें, न्याय की मांग | Jaipur News",
-            "artist": "The News Canvas"
+            "videoId": "UjXHYmGk3i8",
+            "name": "🔴LIVE: போராட்டம் 2.0 - உச்சகட்ட பதற்றம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "WVJYPqey0q8",
-            "name": "Premanand Maharaj Ashram News LIVE: प्रेमानंद महाराज के आश्रम को बदनाम करने की साजिश? | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "0MgaGC-Tx8g",
+            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "Q05WT5R4FlM",
-            "name": "LIVE : CEC ज्ञानेश कुमार पर 'सुप्रीम कोर्ट' में होगी सुनवाई? CEC Gyanesh Kumar Case | SIR Row | SC",
-            "artist": "NDTV India"
+            "videoId": "noIQu69dcYY",
+            "name": "🔴 LIVE: Imran Khan Long March | World Media Reacts | Pakistan Showdown",
+            "artist": "Soldier Speaks : Adil Raja"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4f7AmYk3ZpQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "GLOBAL UPDATE BANGLA"
         }
     ],
     "sourceFilters": {
