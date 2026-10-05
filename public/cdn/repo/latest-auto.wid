@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261005T033147.973Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261005T131822.741Z-l4t35t"
   type: "state"
-  created: "2026-10-05T03:31:47.973Z"
+  created: "2026-10-05T13:18:22.741Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261005T033147.973Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261005T131822.741Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "xP2ETdcg5SE"
-        name: "China Migration Live: हाईवे पर भीड़, पूरे शहर में बवाल! World News | Breaking News | India News"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VVx3hQ_CLGk"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 4, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "X3ValflMSSc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 05 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "ccfodIYDjro"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cDqILaUbb2I"
-        name: "Breaking News Live: Trump “Lockdown Now” Claim | World News Live | Trump Lockdown Order"
-        artist: "ET Now World"
+        videoId: "geAqj5kN0Fo"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pAbU7plh-Cw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (05.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "KTjieuTc_-o"
+        name: "गिरफ्तार ओमानी पायलट ने उगल दिया सच ? LIVE Netanyahu On Flydubai Cockpit Attack | Omani Pilot"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MicfTC6WHVM"
-        name: "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | PM Modi | CJP Protest | Rahul Gandhi"
-        artist: "Times Now Navbharat"
+        videoId: "5wF_S0Zn_kA"
+        name: "Donald Trump Speech LIVE: Fiery Announcement Shocks America In High-Stakes Address | US Iran War"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C3JdnHdASoE"
-        name: "China Migration Live: शहर हुए खाली, हाईवे पर भीड़ निराली! World News | Breaking News | India News"
-        artist: "India News"
+        videoId: "cBmKNhzwM7o"
+        name: "US-Iran War LIVE: New Iranian Missiles Weapon Targets US Carrier, Gulf On High Alert | WION"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LYCf0MbC2R0"
-        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Gyanesh Kumar | ECI | Flydubai Flight"
-        artist: "Times Now Navbharat"
+        videoId: "fr4u5X_fLBQ"
+        name: "Trump LIVE: US On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zha05mxtsHM"
-        name: "Today's Headlines | 05 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
-        artist: "Sathiyam News"
+        videoId: "zvlIWm8522o"
+        name: "JDA Action से पहले New Sanganer Road पर दुकानदारों ने खाली की दुकानें, न्याय की मांग | Jaipur News"
+        artist: "The News Canvas"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ORCbtxpVAJk"
-        name: "ABC World News Tonight With David Muir 10/4/26 | ABC News Today October 4, 2026"
-        artist: "Bhajan Bindu"
+        videoId: "WVJYPqey0q8"
+        name: "Premanand Maharaj Ashram News LIVE: प्रेमानंद महाराज के आश्रम को बदनाम करने की साजिश? | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KOxtExhuaSw"
-        name: "LIVE: ABC News Live - Sunday, October 4"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_6YPK3-qfdQ"
-        name: "RTTL WORLD NEWS || 04-10-2026 (LIVE STREAM)"
-        artist: "RTTL-Notisia - Notícia  - News"
+        videoId: "Q05WT5R4FlM"
+        name: "LIVE : CEC ज्ञानेश कुमार पर 'सुप्रीम कोर्ट' में होगी सुनवाई? CEC Gyanesh Kumar Case | SIR Row | SC"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-05T03:31:47.973Z"
+  exported_at: "2026-10-05T13:18:22.741Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-05T03:31:47.930Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-05T13:18:22.695Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
