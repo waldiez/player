@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-06T04:19:27.524Z",
+    "generatedAt": "2026-10-06T12:34:42.654Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "USxVoDnoT0A",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৬.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "eEdQSTKl6wg",
+            "name": "LIVE: US-Iran War LIVE | Iran Prepares for Possible US Attack | Trump Rejects Hormuz Deal | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "bTl-PSsqXT0",
-            "name": "US NEWS LIVE: Trump Emergency Address, Drops Warning 'Iran Will Be Wiped Off Map | US IRAN WAR",
-            "artist": "ET Now"
+            "videoId": "y_k3mDRFVV0",
+            "name": "TRUMP VS ILHAN OMAR LIVE: Trump Sparks Firestorm With Deportation Call | World News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "gsnx1BPoH0E",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 5th, 2026",
-            "artist": "ABC News"
+            "videoId": "AWm2VrPN_S4",
+            "name": "गिरफ्तार ओमानी पायलट ने उगल दिया सच ? LIVE Netanyahu On Flydubai Cockpit Attack | Omani Pilot",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "yikK85nOIY4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "suicpgiCy2k",
+            "name": "🔴LIVE: আজকের গরম  আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বসংবাদ",
+            "artist": "Khobor Srot"
         },
         {
             "mood": "storm",
-            "videoId": "OhCm-BA1_30",
-            "name": "US-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?  | WION",
-            "artist": "WION"
+            "videoId": "RGpdGdXx6To",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
         },
         {
             "mood": "storm",
-            "videoId": "k2-6VVkD2W4",
-            "name": "Republic TV LIVE: October 6, 2026 | India | Global News | Flydubai Flight",
-            "artist": "Republic World"
+            "videoId": "Rz7d-ZHRloQ",
+            "name": "Aaj Ki Taaza Khabar LIVE : Flydubai Flight News | Israel | Gyanesh Kumar | Rajya Sabha | SC | CEC",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "bi36zL_8PFo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "TrxeqKXPZx8",
+            "name": "Aaj Ki Taaza Khabar LIVE: 06 Oct 2026 | PM Modi | Smit Machchhar | CJP Protest | Gyanesh Kumar",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "isfG_GXP8qE",
-            "name": "🔴 HR NEWS LIVE | Top World News 24/7 | Breaking News Coverage",
-            "artist": "Homefront Reunions"
+            "videoId": "PQhQ9w9q9xs",
+            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "NmVYasqsObA",
-            "name": "Thailand Floods LIVE 🔴: Bangkok Begins Recovery After Record Rainfall | World News",
-            "artist": "MyNation"
+            "videoId": "Qp6ePD0oaFQ",
+            "name": "Ansar Allah Claims Attacks on Riyadh Airport & Aramco Refinery | 12PM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "QzX28uUpesA",
-            "name": "ABC World News Tonight With David Muir – Full Episode October - 05- 2026 { 1080 HD }",
-            "artist": "Lunar Loop"
-        },
-        {
-            "mood": "storm",
-            "videoId": "lrzpI3Drf3o",
-            "name": "ABC World News Tonight With David Muir 10/5/26 | ABC News Today October 5, 2026 HD",
-            "artist": "Baba BalakNath Vibes "
+            "videoId": "z87Rfp6X5xs",
+            "name": "Big Shock to Telangana Employees | CM Revanth Reddy | PRC Latest Update  |  తెలంగాణ ఉద్యోగులకు షాక్!",
+            "artist": "Zee Telugu News"
         }
     ],
     "sourceFilters": {
