@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-07T03:46:26.965Z",
+    "generatedAt": "2026-10-07T12:27:48.998Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "JKES7fGeHB8",
-            "name": "US NEWS LIVE: Trump Issues Emergency Orders as Mideast Crisis Escalates | World News",
-            "artist": "ET Now"
+            "videoId": "2z2Vyx3EyQs",
+            "name": "Today Breaking News | Gyanesh Kumar | CEC | Flydubai | Rahul Gandhi | Israel | Russia | Modi | Yogi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "IvzZpbo0WVE",
-            "name": "World News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "videoId": "LWDgtxQhubQ",
+            "name": "Trump LIVE: Urgent New Warning to Iran | Major Iran Announcement | US News LIVE | TRUMP NEWS LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "wi6IaDoRQ6Y",
-            "name": "Iran America War Update LIVE: مشرق وسطی میں جنگ کے تازہ حالات | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "onYNNSayB-k",
-            "name": "Shubharambh: Madhya Pradesh - Chhattisgarh समेत देश दुनिया की बड़ी खबरें | 07 October 2026",
-            "artist": "IBC24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xFIESuImd5c",
+            "videoId": "7rejrcw9epA",
             "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "eqzdCtcUjpo",
-            "name": "US Iran War LIVE: Trump’s Bombers Trapped in ‘Spider Web’ Drone Attack by Tehran | Vantage",
-            "artist": "Firstpost"
+            "videoId": "FS34C_dHxX8",
+            "name": "Congress Delhi Protest News LIVE: गठबंधन के समर्थन में कूदी AAP पार्टी...! | Rahul Gandhi | FIR",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GSFx9Bff_rU",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 6, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "E6ilxkLsXds",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1A3ZXs40b30",
-            "name": "Breaking News LIVE: Trump’s Latest Response To Iran Offer | Trump Speech LIVE | US News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Xgxjs233OtA",
-            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
+            "videoId": "BaYx2aP4f7k",
+            "name": "Trump LIVE: Trump's New Iran War Warning In Explosive Speech | 'Trump Signs Death Warrant For Iran'",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "XFEtD9_uuuM",
-            "name": "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed",
-            "artist": "ET Now"
+            "videoId": "HAvdHcU0QPk",
+            "name": "News Break LIVE | ന്യൂസ് ബ്രേക്ക് | News Updates | Latest News | Manorama News Live | INDIA Protest",
+            "artist": "Manorama News"
         },
         {
             "mood": "storm",
-            "videoId": "zgxm5VdMT5s",
-            "name": "ABC World News Tonight With David Muir 10/6/26 | ABC News Today October 6, 2026",
-            "artist": "Baba BalakNath Vibes "
+            "videoId": "xPK4MlaMRoE",
+            "name": "Iran War: 81 US Military Aircraft Lost or Damaged | 12PM Headlines Geo News (07 Oct 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4V5l4QFDESY",
+            "name": "Trump LIVE: Emergency Declaration Expected? Trump's Latest Speech LIVE | US News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "k7RfpRNmetg",
+            "name": "🔴LIVE:  CM Vijay || Visit |  ஸ்பாட்டுக்கு வந்த CM விஜய் பரபரக்கும் சென்னை மாதவரம்",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pXF-nweAeh0",
+            "name": "এটিএন বাংলার টপ নিউজ । দুপুর ১ টা । ০৭.১০.২০২৬ | Top News | Today News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
