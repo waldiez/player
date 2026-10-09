@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-08T22:44:14.077Z",
+    "generatedAt": "2026-10-09T04:04:47.560Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "s0r_T5rRpv8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 08 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OjIZJp7gp-U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "INX NEWS আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "2aPTj4IS7Ig",
-            "name": "Nana Patekar Last Rites Pune Donje LIVE : नाना के अंतिम दर्शन, उमड़ा सैलाब! | Neelakanti Patekar",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VsYLnVIweFw",
-            "name": "Aaj Ki Taaza Khabar LIVE: 08 Oct 2026 | PM Modi |Rahul Gandhi |Gyanesh Kumar |INDIA Alliance Protest",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_HU9hdpYGYM",
-            "name": "🔴LIVE: CM Vijay | TVK | 3 அமைச்சர்களின் பதவி பறிப்பு..? - CM விஜய் மெகா அதிரடி",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GXX92zTa8Kw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qkdLINvh47g",
-            "name": "Nana Patekar Last Rites Pune Donje LIVE | Nana Patekar Passes Away | Actor Nana Patekar | N18L",
-            "artist": "News18 Marathi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tJYRLl_koIU",
-            "name": "LIVE: Houthis Target Saudi Airports, Riyadh Seeks Syria’s Military Help | The Palki Sharma Show |IGR",
-            "artist": "India Global Review"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Mow08RW4Eok",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
+            "videoId": "t4UK0lkzN5s",
+            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "e5skk5ZINvs",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : दिल्ली से बेंगलुरु तक बवाल ! Rahul | Nana Patekar",
+            "videoId": "nePrmhdPe9Q",
+            "name": "HELLO KERALAM LIVE | ഹലോ കേരളം ​| Morning News | Latest News | Manorama News Live | Delhi Protest",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eANSXYnmbRE",
+            "name": "नाना पाटेकर का अंतिम संस्कार,  सीधा LIVE | Nana Patekar Last Rites | Pune | Breaking | Mumbai | NDTV",
             "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "48dZUGSQPX0",
+            "name": "Nana Patekar Last Rites: बेटे ने दी मुखाग्नि, उमड़ा जनसैलाब LIVE  | Pune | Breaking | Mumbai | NDTV",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pv13cFP4JYA",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 8, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3FCQ62XG_hk",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৯.১০.২০২৬ | Today News | Latest News | Breaking News | BD News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nL5xGrxWCBc",
+            "name": "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "n_fDuY2aCb4",
+            "name": "WATCH LIVE: TVJ's Prime Time News | Thursday, October 8, 2026",
+            "artist": "Television Jamaica"
+        },
+        {
+            "mood": "storm",
+            "videoId": "m5dFNUBs59k",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5u9Kfk_b-z4",
+            "name": "🔴LIVE : TN By Election 2026 | CM VIJAY | TVK | இடைத்தேர்தல்..! வரலாற்றை மாற்றிய CM விஜய்..BLAST💥",
+            "artist": "NewsTamil 24X7"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zCHnVZMHOZU",
+            "name": "ABC World News Tonight With David Muir – Full Episode October 8, 2026",
+            "artist": "HS STUDIO"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fmIzbkEPCC0",
+            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Rahul Gandhi | ECI | Nana Patekar",
+            "artist": "Times Now Navbharat"
         }
     ],
     "sourceFilters": {
