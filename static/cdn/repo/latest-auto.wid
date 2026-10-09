@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261009T040447.595Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261009T122447.164Z-l4t35t"
   type: "state"
-  created: "2026-10-09T04:04:47.595Z"
+  created: "2026-10-09T12:24:47.164Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261009T040447.595Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261009T122447.164Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "t4UK0lkzN5s"
-        name: "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE"
+        videoId: "ZXzNm2H9FLg"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BQxjdKTSXuU"
+        name: "🔴LIVE : Maduranthakam Dharapuram By Election Results | TVK | DMK | AIADMK |CM விஜய்க்கு வெற்றி"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "91mEmeIRd2o"
+        name: "Today's Breaking News LIVE: Rahul Gandhi | Congress Protest | Jantar Mantar Protest | Nana Patekar"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tqim7kw62Ko"
+        name: "Iran US War Update LIVE: टूटा सुपरपावर का घमंड! | Trump | Mojataba | Netanyahu | Hormuz War | IRGC"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "G_lADhoxZ2U"
+        name: "Trump LIVE: “Last Night for Iran” Shocking Announcement | Major Iran Warning | US News LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iD5BeoceeWk"
+        name: "Trump LIVE: “Total Control” — Massive New Iran Decision | Trump Iran News | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nePrmhdPe9Q"
-        name: "HELLO KERALAM LIVE | ഹലോ കേരളം ​| Morning News | Latest News | Manorama News Live | Delhi Protest"
-        artist: "Manorama News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eANSXYnmbRE"
-        name: "नाना पाटेकर का अंतिम संस्कार,  सीधा LIVE | Nana Patekar Last Rites | Pune | Breaking | Mumbai | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "48dZUGSQPX0"
-        name: "Nana Patekar Last Rites: बेटे ने दी मुखाग्नि, उमड़ा जनसैलाब LIVE  | Pune | Breaking | Mumbai | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Pv13cFP4JYA"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 8, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3FCQ62XG_hk"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৯.১০.২০২৬ | Today News | Latest News | Breaking News | BD News"
+        videoId: "i5VNf82QRhY"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । 09.10.2026 | Today News | Latest News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nL5xGrxWCBc"
-        name: "Donald Trump LIVE: Trump Makes Shocking Claim | Trump Speech LIVE | World News LIVE"
-        artist: "ET Now World"
+        videoId: "dJ81p8NwMC8"
+        name: "🔴LIVE: TN By Election Results 2026 | அதிர்ச்சி கொடுத்த தேர்தல் முடிவுகள்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n_fDuY2aCb4"
-        name: "WATCH LIVE: TVJ's Prime Time News | Thursday, October 8, 2026"
-        artist: "Television Jamaica"
+        videoId: "lF4b5RHyzbA"
+        name: "🔴LIVE : Maduranthakam Election Results | Dharapuram Election Results | Byelection Results | Election"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "m5dFNUBs59k"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
-        artist: "Times Now"
+        videoId: "X8AoA-JLvKU"
+        name: "🔴LIVE: TN By Election Results 2026 | DMK | 12 மணியில் பெரும் திருப்பம் - புரட்டி போட்ட ரவுண்ட்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5u9Kfk_b-z4"
-        name: "🔴LIVE : TN By Election 2026 | CM VIJAY | TVK | இடைத்தேர்தல்..! வரலாற்றை மாற்றிய CM விஜய்..BLAST💥"
-        artist: "NewsTamil 24X7"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zCHnVZMHOZU"
-        name: "ABC World News Tonight With David Muir – Full Episode October 8, 2026"
-        artist: "HS STUDIO"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fmIzbkEPCC0"
-        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Rahul Gandhi | ECI | Nana Patekar"
-        artist: "Times Now Navbharat"
+        videoId: "ed1HTnaoARw"
+        name: "Today Headlines | 09 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-09T04:04:47.595Z"
+  exported_at: "2026-10-09T12:24:47.164Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-09T04:04:47.560Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-09T12:24:47.118Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
