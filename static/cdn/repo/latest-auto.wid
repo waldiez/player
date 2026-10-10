@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261009T220640.046Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261010T035006.395Z-l4t35t"
   type: "state"
-  created: "2026-10-09T22:06:40.046Z"
+  created: "2026-10-10T03:50:06.395Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261009T220640.046Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261010T035006.395Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Pl1pmqXtjtg"
-        name: "🔴LIVE : Maduranthakam Dharapuram By Election Results | தாராபுரத்தில் த்ரில் திருப்பம்"
-        artist: "Thanthi TV"
+        videoId: "4r3nalh8J1w"
+        name: "नाना पाटेकर की मौत का असली कारण पता चल गया? LIVE | Nana Patekar Funeral Live | Pune | Mumbai"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WqoegyZGc0c"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
+        videoId: "HUisniEygUs"
+        name: "Live view of Pensacola Beach in Florida after Hurricane Isaias made landfall"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i3XmOXDZ2m4"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "Times Now"
+        videoId: "YfhRRTMOctY"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 9, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oWdWBZ7jBM0"
-        name: "Saudi-Houthi War : सऊदी में विध्वसंक बमबमारी जारी! LIVE | Iran US War | Trump | Mojtaba | Hormuz"
-        artist: "TV9 Bharatvarsh"
+        videoId: "iP7b5Dd1XiI"
+        name: "10 Minutes 50 News | Latest Telugu News Updates | TV5 News"
+        artist: "TV5 News "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7dKqZ9ERgiQ"
-        name: "Debate With Arnab LIVE: Nationalists Unite Against Anarchy, No Free Pass For CJP"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "--vk5wI8utg"
-        name: "US NEWS LIVE: President Trump's 'LOCKDOWN NOW' Claim Sparks Questions | World News Live"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8DQLVxhz7OU"
-        name: "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 09 October  2026 World News Bangla International News"
-        artist: "BQ8"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CeafpIWpX3c"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 09 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uJOs6ymPA2o"
-        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_seKpBXjVQ8"
-        name: "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JCgM9lHD_UY"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ০৯.১০.২০২৬ | Top News | Latest News | Update News | Breaking News"
+        videoId: "yLCLUgN7kaU"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ১০.১০.২০২৬ | Today News | Latest News | Breaking News | BD News"
         artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dGFeWWfDyQg"
+        name: "Today's Headlines | 10 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AZCthK21dGM"
+        name: "ABC World News Tonight With David Muir 10/9/26 | ABC News Today October 9, 2026"
+        artist: "Baba BalakNath Vibes "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xoXVcyFU7qQ"
+        name: "ABC World News Tonight With David Muir | October 9, 2026 | ABC News Today"
+        artist: "CONGRESS NEWS TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Zg91RxLl11s"
+        name: "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 10 October  2026 World News Bangla International News"
+        artist: "CPN 9i"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YXfo80ENrpo"
+        name: "Big Breaking on Delhi CJP Protest LIVE: सुबह-सुबह CJP का दिल्ली में कूच? | Gen-z |Delhi Police Alert"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Pv4N6qGluXA"
+        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 10 October News"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-09T22:06:40.046Z"
+  exported_at: "2026-10-10T03:50:06.395Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-09T22:06:40.006Z"
+  source_generated_at: "2026-10-10T03:50:06.338Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
