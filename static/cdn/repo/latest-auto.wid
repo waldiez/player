@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261010T114333.833Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261010T164619.464Z-l4t35t"
   type: "state"
-  created: "2026-10-10T11:43:33.833Z"
+  created: "2026-10-10T16:46:19.464Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261010T114333.833Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261010T164619.464Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "YkYUkUUvaCM"
-        name: "Trump LIVE: Urgent New Warning to Iran | Major Iran Announcement | US News LIVE | TRUMP NEWS LIVE"
-        artist: "Times Now"
+        videoId: "LNeyx95CPao"
+        name: "CJP Protest Delhi LIVE: Cockroach Janta Party Protests Against CEC Gyanesh Kumar In Delhi"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tcAu0VK7UBw"
-        name: "Stone Pelting On Delhi Police LIVE: CP में पुलिस पर पत्थरबाजी, 4 पुलिस घायल!| CJP Protest"
+        videoId: "tHQyiXu8abA"
+        name: "🟠Gujarat Afternoon News LIVE | ગુજરાતના તમામ મોટા અને મહત્વના સમાચાર |Latest Gujarati News | Weather"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Nz9p5CDBSDo"
+        name: "Breaking NEWS LIVE: CJP Protest in New Delhi, Demonstrators Take to the Streets | Breaking News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZzX5a5xuehc"
+        name: "🔴LIVE : WorldNews | உலகை மிரட்டும் 4F ஆபத்து! ஜெய்சங்கர் கொடுத்த முக்கிய  எச்சரிக்கை.. | Jai Shankar"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YQ1_l5hiR44"
+        name: "Donald Trump LIVE: Major Iran War Announcement | Trump AI Task Force Update | US News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wu-3Iz2_qJc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A8IPx311BRw"
+        name: "Panama Earthquake: 7.7-Magnitude Quake Damages Buildings, Triggers Evacuations | World News"
+        artist: "Asianet News English"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pnbSim9eIG8"
+        name: "🔴LIVE: Panama Earthquake | பனாமாவில் பேரதிர்ச்சி... இயற்கையின் வெறியாட்டம்.. கடலில் என்ன நடக்கிறது?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sxZgfzYrIhQ"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (10.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iYEhnR0BpIU"
+        name: "Stone Pelting On Delhi Police LIVE: दिल्ली पुलिस पर पत्थरबाजी, भिड़ गए प्रदर्शनकारी | CJP Protest"
         artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "z0F-vsrL_cs"
-        name: "World News Live: Violent Protests Shatter Paris, Riot Police Deploy Tear Gas Across Capital"
+        videoId: "dYz47f3pD20"
+        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
         artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zCt-ZaoakhQ"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WU6OZELppGY"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iUuguqRSryw"
-        name: "LIVE: Abhijeet Dipke, Saurav Das & Ashutosh Ranka Detained | CJP Leaders Detained | CJP Protest"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ADFOKTqFy4M"
-        name: "CJP Protest: CJP के प्रदर्शन में उमड़ा हुजूम! दिल्ली से सीधा LIVE | Jantar Mantar | Abhijeet Dipke"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m0QfL-idnAk"
-        name: "CJP Protest LIVE | Dhuruv Rathee Datained | Abhijeet Dipke in Delhi | Jantar Mantar Protest | Gen Z"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gLdSQ0OE52A"
-        name: "LIVE MAP: Tracking Hurricane Isaias"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0qyQU0sS1HY"
-        name: "Abhijeet Dipke Detained LIVE: दिपके, रांका, सौरव दास को पुलिस ने हिरासत में लिया | CJP Protest"
-        artist: "Aaj Tak"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Tf6RGDfOvyE"
-        name: "Saudi VS Houthi War LIVE: Houthi Missiles Strike Near Riyadh Airport & Aramco Depots! N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "krjxScR-aAg"
-        name: "Live: CJP leaders detained; protesters being taken away from Jantar Mantar, near by areas"
-        artist: "The Hindu"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-10T11:43:33.833Z"
+  exported_at: "2026-10-10T16:46:19.464Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-10T11:43:33.599Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-10T16:46:19.417Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
