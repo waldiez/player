@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261011T032341.029Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261011T115626.853Z-l4t35t"
   type: "state"
-  created: "2026-10-11T03:23:41.029Z"
+  created: "2026-10-11T11:56:26.853Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261011T032341.029Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261011T115626.853Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VTuDKrkXniU"
-        name: "US NEWS LIVE: White House In Chaos As Trump Abruptly Walks Out Of Press Briefing Midway"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7SuDKakTfEU"
-        name: "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મોટા અને મહત્વના સમાચાર | Latest News | Weather News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eR5LvCDvQ7U"
-        name: "CJP Jantar Mantar Protest | Delhi Police Action On Protestor | Abhijeet Dipke | Delhi Protest News"
+        videoId: "bRnEADKTxSw"
+        name: "Delhi Jantar Mantar Protest LIVE : CJP प्रदर्शन पर चौंकाने वाली खबर! | Delhi Police | CJP Protest"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lsaokzmqqU4"
-        name: "Sandeep Chaudhary LIVE: सड़क पर क्लेश..प्रदर्शन फेल या ज्ञानेश? | CJP Protest | Gyanesh Kumar |Delhi"
+        videoId: "ajc1bYaXulw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oPqitBr6c3s"
+        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c5XEwQTqSBY"
+        name: "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DJvLhgqYocg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global News Bangla tv"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "d6kBUfUd2_E"
+        name: "Trump LIVE: Urgent New Warning to Iran | Major Iran Announcement | US News LIVE | TRUMP NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-ZUASz59kDY"
+        name: "🔴Live : மெட்ரோவில் ஒன்றாக பயணிக்கும் PM & CM | PM Modi Chennai Metro | TVK | BJP | CM VIJAY |"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dz8KL9WvQzk"
+        name: "Supreme Court on Delhi Police Action LIVE: सुप्रीम कोर्ट ने दिल्ली पुलिस को जारी किया नोटिस | CJP"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ykYGN7TPI1A"
-        name: "ABC World News Tonight With David Muir 10/10/26 | ABC News Today October 10, 2026"
-        artist: "Baba BalakNath Vibes "
+        videoId: "3UuAd8-20oo"
+        name: "Houthi Attack On Riyadh Airport LIVE: 12 Killed, Hundreds Injured At Saudi Aiport In Houthi Strikes"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "udXxZJTUlqU"
-        name: "Trump says it’s “time for Ukraine to get new President” as Zelensky condemns diesel deal | BBC News"
-        artist: "BBC News"
+        videoId: "ybkxh8msh4I"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । ১১.১০.২০২৬ | Breaking News | Today News | Latest News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Qek9Hh5_2zQ"
-        name: "LIVE: ABC News Live - Saturday, October 10"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nwW1bUwZxKA"
-        name: "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | Delhi Protest | Gyanesh | Rahul Gandhi"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0rb9KQ4FjQE"
-        name: "CJP Protest LIVE: Delhi Police Begin Detaining Protesters from Jantar Mantar | India Global Review"
-        artist: "India Global Review"
+        videoId: "eSe4O2PNGm8"
+        name: "Delhi Police Action On Protestors LIVE : CJP के कई कार्यकर्ताओं पर Delhi Police का बड़ा एक्शन? LIVE"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-11T03:23:41.029Z"
+  exported_at: "2026-10-11T11:56:26.853Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-11T03:23:40.987Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-11T11:56:26.809Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
