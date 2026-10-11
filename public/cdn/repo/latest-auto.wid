@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261011T171746.791Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261011T212113.649Z-l4t35t"
   type: "state"
-  created: "2026-10-11T17:17:46.791Z"
+  created: "2026-10-11T21:21:13.649Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261011T171746.791Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261011T212113.649Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "htlx51se8fM"
-        name: "US-Iran War LIVE: Trump’s Major Announcement on Military Action Against Iran | Breaking News LIVE"
-        artist: "Times Now"
+        videoId: "QFoSchwLXTk"
+        name: "\"12 DEAD, 300+ WOUNDED IN RIYADH!\" Airport Devastated As Houthi Missile Barrage Hits Capital! LIVE"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QUmc-4brXrs"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: CJP का प्रदर्शन 1 साल बैन? | Protest | Saudi Arab"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hv4-h6rnl-Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "1fvy3jD3bxw"
-        name: "এইমাএ পাওয়া Ajker khobor 11 Octoberp0 2026 | Bangladesh latest news | EF News 52 |bdnews24"
-        artist: "EF NEWS 52"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZGlVizVoyQE"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 11.10.2026 | Today News | BD News | Latest News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_08-AM2ITJQ"
-        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HZ4i-ldZ4mk"
-        name: "CJP Protest Live: 11 October Protest | Jantar Mantar | Delhi Police | Dhruv Rathee | Abhijeet Dipke"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r0lSp7FZ4T4"
+        videoId: "aBSrRYG1F6I"
         name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "X-U4nglTnNk"
-        name: "Sandeep Chaudhary LIVE: सड़क पर तकरार...खामोश Gyanesh Kumar! | CJP Protest | Delhi Police | Rahul"
-        artist: "ABP NEWS"
+        videoId: "3XmubfCSxoA"
+        name: "Saudi Arabia War LIVE: Riyadh Airport Strike Kills 12 as US Evaluates Direct Military Retaliation"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xKxaVv8V-fE"
-        name: "LIVE🔴KP Emergency Imposed! Governor Takes Control as PTI Long March Faces Uncertainty"
-        artist: "NTV"
+        videoId: "6VLG9X1dfh4"
+        name: "Good Morning America Full Broadcast —  Sunday, October 11, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "koFzOTLEsrA"
-        name: "🟠Gujarat Afternoon News LIVE | ગુજરાતના તમામ મોટા અને મહત્વના સમાચાર | Latest Gujarati News |Weather"
-        artist: "News18 Gujarati"
+        videoId: "63KUzDKywGY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "MPg8YpRU5hA"
+        name: "US News LIVE: Obama Arrest? Trump Administration Addresses Major Breaking Developments"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tH-JepQirRY"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nUqgir1hsGE"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 11 October 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XficuWCDYnA"
+        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১১.১০.২০২৬ | Top News | Today News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-11T17:17:46.791Z"
+  exported_at: "2026-10-11T21:21:13.649Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-11T17:17:46.756Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-11T21:21:13.605Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
