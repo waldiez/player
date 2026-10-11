@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-10T20:59:44.636Z",
+    "generatedAt": "2026-10-11T03:23:40.987Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yQd7S8sKmRY",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "VTuDKrkXniU",
+            "name": "US NEWS LIVE: White House In Chaos As Trump Abruptly Walks Out Of Press Briefing Midway",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "8XBZHhny0dg",
-            "name": "Live: CJP 2.0 Protest Against CEC Gyanesh Kumar | Latest Visuals From Delhi's Jantar Mantar | GenZ",
-            "artist": "India Today"
+            "videoId": "7SuDKakTfEU",
+            "name": "Gujarat Fatafat News LIVE | ગુજરાતના તમામ મોટા અને મહત્વના સમાચાર | Latest News | Weather News",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "DOAG2WVdIho",
-            "name": "Eden Garden LIVE: দুর্গাপুজো ২০২৬,  ইডেনে মহালয়ার মেগা ইভেন্ট | Durgapuja | Suvendu Adhikari |",
-            "artist": "R PLUS NEWS 24X7"
+            "videoId": "eR5LvCDvQ7U",
+            "name": "CJP Jantar Mantar Protest | Delhi Police Action On Protestor | Abhijeet Dipke | Delhi Protest News",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "unFgYqGQuZw",
-            "name": "Good Morning America Full Broadcast —  Saturday, October 10, 2026",
+            "videoId": "lsaokzmqqU4",
+            "name": "Sandeep Chaudhary LIVE: सड़क पर क्लेश..प्रदर्शन फेल या ज्ञानेश? | CJP Protest | Gyanesh Kumar |Delhi",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ykYGN7TPI1A",
+            "name": "ABC World News Tonight With David Muir 10/10/26 | ABC News Today October 10, 2026",
+            "artist": "Baba BalakNath Vibes "
+        },
+        {
+            "mood": "storm",
+            "videoId": "udXxZJTUlqU",
+            "name": "Trump says it’s “time for Ukraine to get new President” as Zelensky condemns diesel deal | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qek9Hh5_2zQ",
+            "name": "LIVE: ABC News Live - Saturday, October 10",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "XKCl3Dbe804",
-            "name": "Today Big Breaking News LIVE : CJP Protest | Dhruv Rathee | Abhijeet Dipke | EC | ZEE News",
-            "artist": "Zee News"
+            "videoId": "nwW1bUwZxKA",
+            "name": "Hindi News Live | Aaj Ki Badi Khabar: आज की ताजा 100 खबरें | Delhi Protest | Gyanesh | Rahul Gandhi",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "LfETSu_NenQ",
-            "name": "ABP Majha LIVE | 07 PM | 10 Oct 2026 | Nana Patekar News | Rahul Gandhi | MPSC Andolan | CJP Protest",
-            "artist": "ABP MAJHA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dVCJ7IBZ-h4",
-            "name": "LIVE | CJP 2.0 Protest Against CEC Gyanesh Kumar | Latest Visuals From Delhi's Jantar Mantar | GenZ",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eWyFJ4gR5yg",
-            "name": "🔴LIVE:80 முறை நிலநடுக்கம் -தரைமட்டமான நாடு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8jOA_2i9z4w",
-            "name": "CJP Protest Live: 10 October Protest | Jantar Mantar | Delhi Police | Dhruv Rathee | Abhijeet Dipke",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VKFagZCCDqs",
-            "name": "🔴LIVE: ఢిల్లీలో ఉద్రిక్తత.. | High Tension @ Jantar Mantar | CJP Delhi Protest Updates | ABN",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "DfISQTF1ubE",
-            "name": "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 10 October  2026 World News Bangla International News",
-            "artist": "CPN 9i"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SVnOG58fODQ",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: दीपके को फ्लाइट से उठा ले गई पुलिस | CM Yogi | CJP",
-            "artist": "NDTV India"
+            "videoId": "0rb9KQ4FjQE",
+            "name": "CJP Protest LIVE: Delhi Police Begin Detaining Protesters from Jantar Mantar | India Global Review",
+            "artist": "India Global Review"
         }
     ],
     "sourceFilters": {
