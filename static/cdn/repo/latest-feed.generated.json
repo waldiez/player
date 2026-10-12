@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-11T21:21:13.605Z",
+    "generatedAt": "2026-10-12T03:47:01.135Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QFoSchwLXTk",
-            "name": "\"12 DEAD, 300+ WOUNDED IN RIYADH!\" Airport Devastated As Houthi Missile Barrage Hits Capital! LIVE",
+            "videoId": "53nuSP0Bqdw",
+            "name": "Mann 'ਤੇ ਹੋਊ ਪਰਚਾ? Channi ਨੇ Pargat Singh ਦੀ ਮੰਨੀ! NEWS That Matters",
+            "artist": "TV Punjab"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wPyhfne7OXk",
+            "name": "Houthis New Attacks on Saudi Arabia & Riyadh Airport | America & World Condemn Houthi Attacks | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "aBSrRYG1F6I",
-            "name": "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News",
-            "artist": "MIRROR NOW"
+            "videoId": "Ewn9calTxBw",
+            "name": "CJP Protest News LIVE: दिल्ली में फिर बवाल? | Jantar Mantar Protest | Gyanesh Kumar | Delhi Police",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "3XmubfCSxoA",
-            "name": "Saudi Arabia War LIVE: Riyadh Airport Strike Kills 12 as US Evaluates Direct Military Retaliation",
-            "artist": "News18 Urdu"
+            "videoId": "34urZX8N4GU",
+            "name": "America Russia Big Breaking LIVE : अचानक रूस पर पलटे ट्रंप..भारत भी रह गया हैरान! LIVE",
+            "artist": "Zee News"
         },
         {
             "mood": "storm",
-            "videoId": "6VLG9X1dfh4",
-            "name": "Good Morning America Full Broadcast —  Sunday, October 11, 2026",
-            "artist": "ABC News"
+            "videoId": "SBW1AtUmT7g",
+            "name": "TV9 Bharatvarsh LIVE: Houthi Attack on Riyadh | Delhi Police | CJP Protest | Rahul Gandhi | CJI",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "63KUzDKywGY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "epjScDbf6lI",
+            "name": "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tAasbMB2zdA",
+            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b728EoJtnLM",
+            "name": "പ്രതിഷേധാഗ്നിയില്‍ രാജ്യതലസ്ഥാനം | Delhi Protest Live | CJP | INDIA | Live Updates | Breaking News",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hRBaIgiFP7I",
+            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kS0HGyyJbAM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "INX NEWS আন্তর্জাতিক সংবাদ "
         },
         {
             "mood": "storm",
-            "videoId": "MPg8YpRU5hA",
-            "name": "US News LIVE: Obama Arrest? Trump Administration Addresses Major Breaking Developments",
+            "videoId": "rNprXyTAhNE",
+            "name": "ABC World News Tonight With David Muir 10/11/26 | ABC News Today October 11, 2026",
+            "artist": "Baba BalakNath Vibes "
+        },
+        {
+            "mood": "storm",
+            "videoId": "xVQZer2SK8c",
+            "name": "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News",
             "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tH-JepQirRY",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nUqgir1hsGE",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 11 October 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XficuWCDYnA",
-            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১১.১০.২০২৬ | Top News | Today News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261011T212113.649Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261012T034701.182Z-l4t35t"
   type: "state"
-  created: "2026-10-11T21:21:13.649Z"
+  created: "2026-10-12T03:47:01.182Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261011T212113.649Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261012T034701.182Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QFoSchwLXTk"
-        name: "\"12 DEAD, 300+ WOUNDED IN RIYADH!\" Airport Devastated As Houthi Missile Barrage Hits Capital! LIVE"
+        videoId: "53nuSP0Bqdw"
+        name: "Mann 'ਤੇ ਹੋਊ ਪਰਚਾ? Channi ਨੇ Pargat Singh ਦੀ ਮੰਨੀ! NEWS That Matters"
+        artist: "TV Punjab"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wPyhfne7OXk"
+        name: "Houthis New Attacks on Saudi Arabia & Riyadh Airport | America & World Condemn Houthi Attacks | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aBSrRYG1F6I"
-        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
-        artist: "MIRROR NOW"
+        videoId: "Ewn9calTxBw"
+        name: "CJP Protest News LIVE: दिल्ली में फिर बवाल? | Jantar Mantar Protest | Gyanesh Kumar | Delhi Police"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3XmubfCSxoA"
-        name: "Saudi Arabia War LIVE: Riyadh Airport Strike Kills 12 as US Evaluates Direct Military Retaliation"
-        artist: "News18 Urdu"
+        videoId: "34urZX8N4GU"
+        name: "America Russia Big Breaking LIVE : अचानक रूस पर पलटे ट्रंप..भारत भी रह गया हैरान! LIVE"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6VLG9X1dfh4"
-        name: "Good Morning America Full Broadcast —  Sunday, October 11, 2026"
-        artist: "ABC News"
+        videoId: "SBW1AtUmT7g"
+        name: "TV9 Bharatvarsh LIVE: Houthi Attack on Riyadh | Delhi Police | CJP Protest | Rahul Gandhi | CJI"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "63KUzDKywGY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "epjScDbf6lI"
+        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tAasbMB2zdA"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b728EoJtnLM"
+        name: "പ്രതിഷേധാഗ്നിയില്‍ രാജ്യതലസ്ഥാനം | Delhi Protest Live | CJP | INDIA | Live Updates | Breaking News"
+        artist: "Manorama News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hRBaIgiFP7I"
+        name: "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kS0HGyyJbAM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "INX NEWS আন্তর্জাতিক সংবাদ "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MPg8YpRU5hA"
-        name: "US News LIVE: Obama Arrest? Trump Administration Addresses Major Breaking Developments"
+        videoId: "rNprXyTAhNE"
+        name: "ABC World News Tonight With David Muir 10/11/26 | ABC News Today October 11, 2026"
+        artist: "Baba BalakNath Vibes "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xVQZer2SK8c"
+        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
         artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tH-JepQirRY"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nUqgir1hsGE"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 11 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XficuWCDYnA"
-        name: "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ১১.১০.২০২৬ | Top News | Today News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-11T21:21:13.649Z"
+  exported_at: "2026-10-12T03:47:01.182Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-11T21:21:13.605Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-12T03:47:01.135Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
