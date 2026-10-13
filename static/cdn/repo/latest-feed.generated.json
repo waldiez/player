@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-13T13:19:59.874Z",
+    "generatedAt": "2026-10-13T22:10:17.750Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "WjBJfudqOSw",
-            "name": "LIVE: Houthi के हमलों से फिर दहला सऊदी अरब? रियाद एयरपोर्ट तबाह! LIVE | Saudi Arabia Under Attack |",
-            "artist": "NDTV India"
+            "videoId": "wXVWs2x5HlE",
+            "name": "LIVE🔴Mohsin Naqvi’s Big Move | KP Government Action Begins | PTI Faces a New Challenge",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "wQpq0da8raQ",
-            "name": "Out Of Focus Live | 13 October 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "p7n4vdlALcM",
+            "name": "US IRAN WAR LIVE: Trump ORDERS Deadly Strikes on Iran Energy Sites — 'ATTACK CANCELED? NOT ANYMORE!'",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "-09yqUqM9R8",
-            "name": "LIVE: PTI long March   | PTI Big Announcment | Breaking News  |  Emergency in KPK News",
-            "artist": "Pak News"
+            "videoId": "4k8ZR5Eghe0",
+            "name": "🔴LIVE: இரவு தலைப்புச் செய்திகள் 13.10.26 | Today Headlines | CM Vijay TVK | Udhayanidhi DMK",
+            "artist": "PuthiyathalaimuraiTV"
         },
         {
             "mood": "storm",
-            "videoId": "dW_n_XijY78",
-            "name": "Gyanesh Kumar Resign News Today LIVE: दोपहर होते ही ज्ञानेश कुमार के इस्तीफे पर बड़ी अपडेट! | Rahul",
-            "artist": "ABP NEWS"
+            "videoId": "NTViPUZKf-c",
+            "name": "LIVE :  L Murugan Resignation | மத்திய அமைச்சர் எல்.முருகன் ராஜினாமா",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Us8pxaWi1Ls",
-            "name": "Patna-Kolkata Protest LIVE: पटना-कोलकाता में उग्र प्रदर्शन, सड़कों पर प्रदर्शनकारी! | Breaking News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "I7Ts_pan6Cg",
+            "name": "Good Morning America Full Broadcast —  Tuesday, October 13, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "J1ZqQwcTzGI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "CBC আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZHtqufu04bw",
-            "name": "Today News LIVE | CEC Hearing Postponed | Rahul Thanks INDIA Bloc | INDIA Bloc Tea Party | India TV",
-            "artist": "India TV Speed News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "B-jCLGfRa6A",
-            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
+            "videoId": "3KjEPupWjsc",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "IcaItwUBH3c",
-            "name": "LIVE: Houthis Hit Riyadh & Dammam Airports AGAIN! | Will US Respond? | Saudi Arabia | Dammam | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "de9XukfYajk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "QUjc0ghxvII",
-            "name": "പ്രതിഷേധം തുടരാന്‍ പ്രതിപക്ഷ ഐക്യം | Delhi Updates | Delhi Protests | Latest News | Breaking News",
-            "artist": "Manorama News"
+            "videoId": "EP0zccVmtkM",
+            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "A3ZDYOIPoWw",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ১৩ অক্টোবর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
-            "artist": "World News Ira"
+            "videoId": "THYnygRT9eg",
+            "name": "Debate With Arnab LIVE: Pakistan’s Open Support For CJP’s Anarchy Plot In India",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TpmHH-f5cbU",
+            "name": "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 13 October  2026 World News Bangla International News",
+            "artist": "CPN 9i"
+        },
+        {
+            "mood": "storm",
+            "videoId": "k5Zbb6edufA",
+            "name": "Debate With Arnab LIVE: Rahul Crosses Limits With Replace The CJI Tweet",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bUkitrKpCe8",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
