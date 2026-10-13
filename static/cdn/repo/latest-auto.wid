@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261013T000152.897Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261013T131959.914Z-l4t35t"
   type: "state"
-  created: "2026-10-13T00:01:52.897Z"
+  created: "2026-10-13T13:19:59.914Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261013T000152.897Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261013T131959.914Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "2OxXfHaET2E"
-        name: "LIVE | M News Live 24/7 | Breaking News, Latest Updates & Live Headlines | M News"
-        artist: "M News Pakistan"
+        videoId: "WjBJfudqOSw"
+        name: "LIVE: Houthi के हमलों से फिर दहला सऊदी अरब? रियाद एयरपोर्ट तबाह! LIVE | Saudi Arabia Under Attack |"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AlBU7z6eCA8"
-        name: "BREAKING LIVE | Nepal Flash Floods Sweep Away Homes and Bridges, 5 People Missing"
-        artist: "Firstpost"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "251d5r2l5WE"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        videoId: "wQpq0da8raQ"
+        name: "Out Of Focus Live | 13 October 2026"
         artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "07rh2PJwiOw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
+        videoId: "-09yqUqM9R8"
+        name: "LIVE: PTI long March   | PTI Big Announcment | Breaking News  |  Emergency in KPK News"
+        artist: "Pak News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xjdu03jtWWg"
-        name: "LIVE: Rahul Gandhi, INDIA Bloc Leaders to March to SC, Petition Against CEC Gyanesh Kumar"
-        artist: "The Indian Express"
+        videoId: "dW_n_XijY78"
+        name: "Gyanesh Kumar Resign News Today LIVE: दोपहर होते ही ज्ञानेश कुमार के इस्तीफे पर बड़ी अपडेट! | Rahul"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r6i-0ozwGKc"
-        name: "Saudi Arabia War LIVE: Riyadh Airport Strike, 2 More Killed, Trump Warns Houthis | Mecca Pact Active"
-        artist: "News18 Urdu"
+        videoId: "Us8pxaWi1Ls"
+        name: "Patna-Kolkata Protest LIVE: पटना-कोलकाता में उग्र प्रदर्शन, सड़कों पर प्रदर्शनकारी! | Breaking News"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KrRZuVZXUDI"
-        name: "LIVE: ABC News Live - Monday, October 12"
-        artist: "ABC News"
+        videoId: "J1ZqQwcTzGI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p2kCBRSS8Lc"
-        name: "LIVE: ABC News Live - Monday, October 12"
-        artist: "ABC News"
+        videoId: "ZHtqufu04bw"
+        name: "Today News LIVE | CEC Hearing Postponed | Rahul Thanks INDIA Bloc | INDIA Bloc Tea Party | India TV"
+        artist: "India TV Speed News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XhEDMBQSY4U"
-        name: "🔴LIVE: Seeman | NTK |  ''இடி இல்ல பேரிடி''- ஒரே அடியாக சரிந்த சீமான்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bDDoDdxnid4"
+        videoId: "B-jCLGfRa6A"
         name: "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tXLRevnmrBc"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "IcaItwUBH3c"
+        name: "LIVE: Houthis Hit Riyadh & Dammam Airports AGAIN! | Will US Respond? | Saudi Arabia | Dammam | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QUjc0ghxvII"
+        name: "പ്രതിഷേധം തുടരാന്‍ പ്രതിപക്ഷ ഐക്യം | Delhi Updates | Delhi Protests | Latest News | Breaking News"
+        artist: "Manorama News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "A3ZDYOIPoWw"
+        name: "আজকের আন্তর্জাতিক সব খবর, ১৩ অক্টোবর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
+        artist: "World News Ira"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-13T00:01:52.897Z"
+  exported_at: "2026-10-13T13:19:59.914Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-13T00:01:52.851Z"
+  source_generated_at: "2026-10-13T13:19:59.874Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
