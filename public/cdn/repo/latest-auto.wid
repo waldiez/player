@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261013T221017.799Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261014T030537.590Z-l4t35t"
   type: "state"
-  created: "2026-10-13T22:10:17.799Z"
+  created: "2026-10-14T03:05:37.590Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261013T221017.799Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261014T030537.590Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wXVWs2x5HlE"
-        name: "LIVE🔴Mohsin Naqvi’s Big Move | KP Government Action Begins | PTI Faces a New Challenge"
-        artist: "NTV"
+        videoId: "50U0VyxyUL8"
+        name: "TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News & Latest Update | WORLD NEWS"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p7n4vdlALcM"
-        name: "US IRAN WAR LIVE: Trump ORDERS Deadly Strikes on Iran Energy Sites — 'ATTACK CANCELED? NOT ANYMORE!'"
+        videoId: "VAGZLP0OCZ0"
+        name: "Rahul Gandhi News LIVE: राहुल गांधी की प्रेस कॉन्फ्रेंस LIVE |  Gyanesh Kumar | India Alliance"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GRgJqZsHI6g"
+        name: "Saudi Arabia LIVE: Houthi Threat to Riyadh? MBS in a Bunker? | Middle East News LIVE | WORLD NEWS"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4k8ZR5Eghe0"
-        name: "🔴LIVE: இரவு தலைப்புச் செய்திகள் 13.10.26 | Today Headlines | CM Vijay TVK | Udhayanidhi DMK"
-        artist: "PuthiyathalaimuraiTV"
+        videoId: "QhekWFgLOCY"
+        name: "Trump WARNS Houthis after latest strikes on Saudi Arabia"
+        artist: "Fox News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NTViPUZKf-c"
-        name: "LIVE :  L Murugan Resignation | மத்திய அமைச்சர் எல்.முருகன் ராஜினாமா"
-        artist: "Sathiyam News"
+        videoId: "qBaB8NO0Mzs"
+        name: "The attacks exposing Saudi Arabia's biggest weakness | BBC News"
+        artist: "BBC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3KjEPupWjsc"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
-        artist: "Times Now"
+        videoId: "gF_wQvbQpeI"
+        name: "Saudi Arabia threatens 'serious response' to attacks on its airports"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "de9XukfYajk"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "Ko5vN5I-6Do"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EP0zccVmtkM"
-        name: "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse"
-        artist: "Times Now"
+        videoId: "abvSKlqF4RU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla  14 October 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "WorldNews Bangla tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "THYnygRT9eg"
-        name: "Debate With Arnab LIVE: Pakistan’s Open Support For CJP’s Anarchy Plot In India"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TpmHH-f5cbU"
-        name: "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 13 October  2026 World News Bangla International News"
-        artist: "CPN 9i"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k5Zbb6edufA"
-        name: "Debate With Arnab LIVE: Rahul Crosses Limits With Replace The CJI Tweet"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bUkitrKpCe8"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
-        artist: "Times Now"
+        videoId: "HRihSe6FW84"
+        name: "US IRAN NEWS LIVE: Rubio Declares US-Iran War Over, Proclaims Complete American Victory"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-13T22:10:17.799Z"
+  exported_at: "2026-10-14T03:05:37.590Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-13T22:10:17.750Z"
-  validation: "validation enabled: accepted 11/12 tracks; maxAgeHours=72 minKeywordHits=1; rejected: I7Ts_pan6Cg (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-10-14T03:05:37.542Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
