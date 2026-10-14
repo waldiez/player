@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-14T16:19:02.110Z",
+    "generatedAt": "2026-10-14T21:11:12.038Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eu8WXM4HpLs",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "videoId": "UfCNGrV9m58",
+            "name": "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ১৫ অক্টোবর ২০২৬ | News Bulletin | Latest News | News24",
+            "artist": "NEWS24 LIVE"
+        },
+        {
+            "mood": "storm",
+            "videoId": "A-iJvqkXePE",
+            "name": "🔴LIVE: AIADMK | மீண்டும் இணையும் அதிமுக..",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zcAcj07MDrU",
+            "name": "YEMEN LIVE | Saudi-Led Coalition Launches Fresh Airstrikes On Sanaa After Riyadh Airport Attack",
+            "artist": "CRUX"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Bjq43Q0Av6M",
+            "name": "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.10.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iW_2PI7bFWc",
+            "name": "Libya | Tripoli Flood Horror! Cars Submerged, Streets Turn Into Rivers | World News",
+            "artist": "Asianet News English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "rDuTm_XUQt8",
+            "name": "US NEWS LIVE: Ilhan Omar In Jail? Trump’s Explosive Attack on Ilhan Sparks Uproar | Trump vs Ilhan",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "1G6Fvw-zefk",
-            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse",
-            "artist": "Times Now"
+            "videoId": "YLTN-0K8CzU",
+            "name": "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "5O3OSvylxvs",
-            "name": "Saudi Houthi War LIVE: 14 Dead & 300+ Wounded After Consecutive Attacks On Riyadh Airport | N18G",
+            "videoId": "FpqstmTQzlI",
+            "name": "Saudi Aramco Building Hit As Houthi Missile Debris Injures 4 In Riyadh | Live War Update | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "5ip8zJxBvIQ",
-            "name": "BREAKING NEWS LIVE: Trump Warns Iran | US Could Capture Iran Tonight? | Trump Speech LIVE",
-            "artist": "ET Now"
+            "videoId": "TO1WHYkbLbk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "5EcYaM1wemY",
-            "name": "Trump issues NEW WARNING to Iran",
-            "artist": "Fox News"
+            "videoId": "lhPIMde9NdM",
+            "name": "🔴LIVE: அரிசி முதல் ஆம்லெட் வரை - வந்தாச்சு ஆப்பு!!!",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "sx-mOhZnHTI",
-            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 14.10.2026 | Breaking News | Today News | News | ATN Bangla",
+            "videoId": "T-oDc2PmYlE",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "k9b99tELucE",
-            "name": "আন্তর্জাতিক বাংলা খবর BBC World News 15 October 2026|| World News Bangla || International News Today",
-            "artist": "job preparation kj"
-        },
-        {
-            "mood": "storm",
-            "videoId": "STrKrzsV8os",
-            "name": "Jantar-Mantar Protest LIVE : सुरक्षा में सेंध! CJP नेता Saurav Das और Ashutosh Ranka को जेल भेजा",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nwM2QDZ6SX4",
-            "name": "Aaj Ki Taaza Khabar LIVE: 14 Oct 2026 | PM Modi | Rahul Gandhi | Gyanesh Kumar | Delhi Protest",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pvFoPcV26BY",
+            "videoId": "_o_5DMWPnUk",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BAC আন্তর্জাতিক সংবাদ "
-        },
-        {
-            "mood": "storm",
-            "videoId": "RmZNLmaczwc",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "artist": "GLOBAL UPDATE BANGLA"
         }
     ],
     "sourceFilters": {
