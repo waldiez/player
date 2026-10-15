@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-15T02:45:05.077Z",
+    "generatedAt": "2026-10-15T10:41:31.017Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "l88RH_07ZRE",
-            "name": "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "z5u3M2QnGVw",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G6K2tv1Q-eg",
-            "name": "Saudi Under Attack LIVE: Houthis Rain DEADLY BOMBS On Aramco HQ, Middle East Tensions Explode | WION",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zVyljjrxYKs",
-            "name": "Iran Israel War Live Update: ईरान इजरायल युद्ध की खबरें! | Netanyahu | Houthi attack Saudi Arabia",
-            "artist": "News18 UP Uttarakhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9-i2PZbFjTg",
-            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
+            "videoId": "gR6R3tszOHY",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "BrmhoHBGt_A",
-            "name": "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "ET Now World"
+            "videoId": "y6KfUecZLcU",
+            "name": "Gujarat Latest Breaking News LIVE | ગુજરાતના મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather|News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "zMeIYeJd_YA",
-            "name": "Saudi Houthi War LIVE: 14 Dead & 300+ Wounded After Consecutive Attacks On Riyadh Airport | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3ecbeBJi8Cc",
-            "name": "Katie Zacharia LIVE: New White House Press Secretary Stuns Reporter at First Briefing | US News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m94j3CqhazA",
-            "name": "सऊदी हूती जंग के ताजा हालात LIVE | Saudi Houthi War | Missile Attack | Yaman | Israel | America News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "16NC3W-SHx8",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5xJ5NEIQpGo",
-            "name": "Trump LIVE: Emergency Declaration Expected? Trump's Latest Speech LIVE | US News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "T0G5tmRmpSk",
-            "name": "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 15 October News",
+            "videoId": "LtBDkJVUR0o",
+            "name": "Gyanesh Kumar News LIVE: 11 बजते ही ज्ञानेश कुमार पर आई बड़ी खबर, हिला विपक्ष! | Big Breaking",
             "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "M_sP7hECsJc",
+            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bO3M9hFeAVo",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (15.10.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "4Hvr0TjbHZc",
+            "name": "Rahul Gandhi News LIVE: राहुल गांधी का बड़ा सरप्राइज!, आज शाम कुछ बड़ा होने वाला है! | Gyanesh Kumar",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "z_bnXa74zRg",
+            "name": "US News Live: Trump’s Explosive Iran Decision | “Total Control” Bombshell Sends Shockwaves",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5Dnv0z_LY3A",
+            "name": "Today Headlines | 15 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Egcf-9tOyw0",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 15-10-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "ltRB0IwcbeM",
+            "name": "Tragic School Roof Collapse Incident in Peshawar | Breaking News | Geo News",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vfgtUn413Bc",
+            "name": "Super Fast 100 News LIVE: Aaj Ki 100 Khabar | Headlines Today | Top News | Breaking | 15 October",
+            "artist": "Republic Bharat"
         }
     ],
     "sourceFilters": {
