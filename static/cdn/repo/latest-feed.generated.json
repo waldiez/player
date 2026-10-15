@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-15T16:06:54.162Z",
+    "generatedAt": "2026-10-15T20:49:17.642Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "nkKpraYDYqc",
-            "name": "The Palki Sharma Show LIVE: Houthis Bomb Aramco HQ | Russia Strikes Ukraine | The Houthi War Machine",
+            "videoId": "-_Y1pl1r5O0",
+            "name": "🔴LIVE : Today Headlines - 15 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "OulF4sdvF2I",
+            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "R9Ms6YRZC7w",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "17d5EX-nhFs",
+            "name": "🔴LIVE: Saudi Attack | உச்சகட்ட பதற்றம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2bd_NEIayqI",
+            "name": "🔴LIVE: EPS | AIADMK | இறங்கிய இபிஎஸ்.. இணைகிறது அதிமுக",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SoesPKA9u-M",
+            "name": "LIVE: Trump Considers Dropping 'Mother Of All Bombs' on Iran | The Palki Sharma Show | IGR",
             "artist": "India Global Review"
         },
         {
             "mood": "storm",
-            "videoId": "Xaatcia51Eo",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "6pOh7n6W5s8",
+            "name": "Debate With Arnab LIVE: Dhruv Rathee & CJP’s Open Instigation For Violence In India",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "bSoSKLXbd0c",
-            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_s31_sF0SKk",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6bxQjLfo8xA",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 15 October | World News | International News | NEWS24",
-            "artist": "NEWS24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TYqiqMC3irg",
-            "name": "Russia-Ukraine War Live: 9 Killed in Strikes | Ukraine Faces Blackouts | Diesel Deal | Starlink|N18G",
-            "artist": "CNN-News18"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JdV35ghk10c",
-            "name": "Rahul Gandhi News LIVE: 3 बजते ही राहुल गांधी की याचिका पर बड़ा फैसला! | Gyanesh Kumar | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ae86LuUNuzA",
-            "name": "Rahul Gandhi News LIVE: याचिका डाल बुरे फंसे राहुल गांधी?,सुप्रीम कोर्ट ने लगाई फटकार |Gyanesh Kumar",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d7Th9CcMyVA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | ১৫  Octoberv2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "abc news update"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DMDX2eWr9eQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "INX NEWS আন্তর্জাতিক সংবাদ "
+            "videoId": "MI4vMm3VZXU",
+            "name": "CJP Protest LIVE: Cockroach Janta Party Holds Briefing After CJP Leaders Saurav Das & Ranka Jailed",
+            "artist": "India Global Review"
         }
     ],
     "sourceFilters": {
