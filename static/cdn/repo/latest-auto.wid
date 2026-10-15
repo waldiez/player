@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261014T211112.072Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261015T024505.127Z-l4t35t"
   type: "state"
-  created: "2026-10-14T21:11:12.072Z"
+  created: "2026-10-15T02:45:05.127Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261014T211112.072Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261015T024505.127Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "UfCNGrV9m58"
-        name: "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ১৫ অক্টোবর ২০২৬ | News Bulletin | Latest News | News24"
-        artist: "NEWS24 LIVE"
+        videoId: "l88RH_07ZRE"
+        name: "US-IRAN WAR LIVE | Trump's Big Announcement On Military Action Against Iran | Breaking News LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A-iJvqkXePE"
-        name: "🔴LIVE: AIADMK | மீண்டும் இணையும் அதிமுக.."
-        artist: "Sathiyam News"
+        videoId: "z5u3M2QnGVw"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zcAcj07MDrU"
-        name: "YEMEN LIVE | Saudi-Led Coalition Launches Fresh Airstrikes On Sanaa After Riyadh Airport Attack"
-        artist: "CRUX"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Bjq43Q0Av6M"
-        name: "🔴LIVE :Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (14.10.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iW_2PI7bFWc"
-        name: "Libya | Tripoli Flood Horror! Cars Submerged, Streets Turn Into Rivers | World News"
-        artist: "Asianet News English"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "rDuTm_XUQt8"
-        name: "US NEWS LIVE: Ilhan Omar In Jail? Trump’s Explosive Attack on Ilhan Sparks Uproar | Trump vs Ilhan"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YLTN-0K8CzU"
-        name: "Saudi Under Attack LIVE: Why Saudi Arabia Struggles To Stop Houthi Missiles Despite US Patriots"
+        videoId: "G6K2tv1Q-eg"
+        name: "Saudi Under Attack LIVE: Houthis Rain DEADLY BOMBS On Aramco HQ, Middle East Tensions Explode | WION"
         artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FpqstmTQzlI"
-        name: "Saudi Aramco Building Hit As Houthi Missile Debris Injures 4 In Riyadh | Live War Update | N18G"
+        videoId: "zVyljjrxYKs"
+        name: "Iran Israel War Live Update: ईरान इजरायल युद्ध की खबरें! | Netanyahu | Houthi attack Saudi Arabia"
+        artist: "News18 UP Uttarakhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9-i2PZbFjTg"
+        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BrmhoHBGt_A"
+        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zMeIYeJd_YA"
+        name: "Saudi Houthi War LIVE: 14 Dead & 300+ Wounded After Consecutive Attacks On Riyadh Airport | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TO1WHYkbLbk"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "3ecbeBJi8Cc"
+        name: "Katie Zacharia LIVE: New White House Press Secretary Stuns Reporter at First Briefing | US News LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "lhPIMde9NdM"
-        name: "🔴LIVE: அரிசி முதல் ஆம்லெட் வரை - வந்தாச்சு ஆப்பு!!!"
-        artist: "Sathiyam News"
+        videoId: "m94j3CqhazA"
+        name: "सऊदी हूती जंग के ताजा हालात LIVE | Saudi Houthi War | Missile Attack | Yaman | Israel | America News"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T-oDc2PmYlE"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "16NC3W-SHx8"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_o_5DMWPnUk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
+        videoId: "5xJ5NEIQpGo"
+        name: "Trump LIVE: Emergency Declaration Expected? Trump's Latest Speech LIVE | US News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T0G5tmRmpSk"
+        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 15 October News"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-14T21:11:12.072Z"
+  exported_at: "2026-10-15T02:45:05.127Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-14T21:11:12.038Z"
+  source_generated_at: "2026-10-15T02:45:05.077Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
