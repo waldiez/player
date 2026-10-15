@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-15T10:41:31.017Z",
+    "generatedAt": "2026-10-15T16:06:54.162Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "gR6R3tszOHY",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "videoId": "nkKpraYDYqc",
+            "name": "The Palki Sharma Show LIVE: Houthis Bomb Aramco HQ | Russia Strikes Ukraine | The Houthi War Machine",
+            "artist": "India Global Review"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Xaatcia51Eo",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bSoSKLXbd0c",
+            "name": "US News LIVE | Donald Trump Makes Very Big Announcement | Trump On Iran LIVE | US-Iran LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "y6KfUecZLcU",
-            "name": "Gujarat Latest Breaking News LIVE | ગુજરાતના મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather|News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "_s31_sF0SKk",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "LtBDkJVUR0o",
-            "name": "Gyanesh Kumar News LIVE: 11 बजते ही ज्ञानेश कुमार पर आई बड़ी खबर, हिला विपक्ष! | Big Breaking",
+            "videoId": "6bxQjLfo8xA",
+            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 15 October | World News | International News | NEWS24",
+            "artist": "NEWS24"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TYqiqMC3irg",
+            "name": "Russia-Ukraine War Live: 9 Killed in Strikes | Ukraine Faces Blackouts | Diesel Deal | Starlink|N18G",
+            "artist": "CNN-News18"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JdV35ghk10c",
+            "name": "Rahul Gandhi News LIVE: 3 बजते ही राहुल गांधी की याचिका पर बड़ा फैसला! | Gyanesh Kumar | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "M_sP7hECsJc",
-            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bO3M9hFeAVo",
-            "name": "🔴 LIVE : Lunch Time Sinhala News | (15.10.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4Hvr0TjbHZc",
-            "name": "Rahul Gandhi News LIVE: राहुल गांधी का बड़ा सरप्राइज!, आज शाम कुछ बड़ा होने वाला है! | Gyanesh Kumar",
+            "videoId": "ae86LuUNuzA",
+            "name": "Rahul Gandhi News LIVE: याचिका डाल बुरे फंसे राहुल गांधी?,सुप्रीम कोर्ट ने लगाई फटकार |Gyanesh Kumar",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "z_bnXa74zRg",
-            "name": "US News Live: Trump’s Explosive Iran Decision | “Total Control” Bombshell Sends Shockwaves",
-            "artist": "Times Now"
+            "videoId": "d7Th9CcMyVA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | ১৫  Octoberv2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "abc news update"
         },
         {
             "mood": "storm",
-            "videoId": "5Dnv0z_LY3A",
-            "name": "Today Headlines | 15 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Egcf-9tOyw0",
-            "name": "🔴LIVE: Speed News | 24 Headlines | 15-10-2026 | #morningwithabn | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "ltRB0IwcbeM",
-            "name": "Tragic School Roof Collapse Incident in Peshawar | Breaking News | Geo News",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vfgtUn413Bc",
-            "name": "Super Fast 100 News LIVE: Aaj Ki 100 Khabar | Headlines Today | Top News | Breaking | 15 October",
-            "artist": "Republic Bharat"
+            "videoId": "DMDX2eWr9eQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "INX NEWS আন্তর্জাতিক সংবাদ "
         }
     ],
     "sourceFilters": {
