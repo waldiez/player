@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261015T204917.681Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261016T024131.169Z-l4t35t"
   type: "state"
-  created: "2026-10-15T20:49:17.681Z"
+  created: "2026-10-16T02:41:31.169Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261015T204917.681Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261016T024131.169Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "-_Y1pl1r5O0"
-        name: "🔴LIVE : Today Headlines - 15 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK"
+        videoId: "mVG1lt03Wmo"
+        name: "Marathi News LIVE | Rahul Gandhi | Abhijeet Dipke | CM Fadnavis | CJP Protest | Gyanesh Kumar"
+        artist: "News18 Marathi"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "FB8xT26cVdU"
+        name: "World NEWS LIVE: Putin’s Chilling Warning to US Over War! Is World War 3 Closer Than Ever?"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Bg_c1rUSqbg"
+        name: "US NEWS LIVE: Trump Drops Urgent Warning as America Goes on High Alert | Breaking News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iS02mXb2GUA"
+        name: "US NEWS LIVE: Trump Claims Iran Has Surrendered? Shocking 5-Minute Bombshell Rocks the World!"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YlvTHl0cvwg"
+        name: "US NEWS LIVE: Biggest Arrest In US, Trump’s Explosive Orders sends Ilhan Omar Behind Bars?"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zpSnVUr-Ai8"
+        name: "LIVE | Trump’s Iran War Plans: Could The ‘Mother Of All Bombs’ Be Deployed? | US Army | Tehran |N18G"
+        artist: "CNN-News18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "moBWhFvV-7U"
+        name: "🔴LIVE : Today Headlines - 16 OCTOBER 2026 | 8 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK"
         artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OulF4sdvF2I"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "xILR-XZMor4"
+        name: "Istanbul Weather News LIVE 🔴: Flash Floods Paralyse Turkey’s Largest City | World News"
+        artist: "MyNation"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "R9Ms6YRZC7w"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "hGoy2gkorLc"
+        name: "ABC World News Tonight With David Muir 10/15/26 | ABC News Today October 15, 2026 HD"
+        artist: "Dips Music Punjabi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "17d5EX-nhFs"
-        name: "🔴LIVE: Saudi Attack | உச்சகட்ட பதற்றம்"
-        artist: "Sathiyam News"
+        videoId: "81FnVD6AoUI"
+        name: "ABC World News Tonight With David Muir 10/15/26 | ABC News Today October 15, 2026"
+        artist: "Srilaxmi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2bd_NEIayqI"
-        name: "🔴LIVE: EPS | AIADMK | இறங்கிய இபிஎஸ்.. இணைகிறது அதிமுக"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SoesPKA9u-M"
-        name: "LIVE: Trump Considers Dropping 'Mother Of All Bombs' on Iran | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6pOh7n6W5s8"
-        name: "Debate With Arnab LIVE: Dhruv Rathee & CJP’s Open Instigation For Violence In India"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MI4vMm3VZXU"
-        name: "CJP Protest LIVE: Cockroach Janta Party Holds Briefing After CJP Leaders Saurav Das & Ranka Jailed"
-        artist: "India Global Review"
+        videoId: "26Yp49HFhXI"
+        name: "ABC World News Tonight with David Muir Full Episode October  15 - 2026"
+        artist: "Nasar Khan"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-15T20:49:17.681Z"
+  exported_at: "2026-10-16T02:41:31.169Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-15T20:49:17.642Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-16T02:41:31.123Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
