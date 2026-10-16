@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-16T02:41:31.123Z",
+    "generatedAt": "2026-10-16T10:28:37.057Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "mVG1lt03Wmo",
-            "name": "Marathi News LIVE | Rahul Gandhi | Abhijeet Dipke | CM Fadnavis | CJP Protest | Gyanesh Kumar",
-            "artist": "News18 Marathi"
+            "videoId": "s4DgvVioXUA",
+            "name": "LIVE: Saudi Aramco Building Hit by Houthis Missile | Saudi Arabia & Houthis War Updates LIVE | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "FB8xT26cVdU",
-            "name": "World NEWS LIVE: Putin’s Chilling Warning to US Over War! Is World War 3 Closer Than Ever?",
-            "artist": "Times Now World"
+            "videoId": "zwPqFQv08zI",
+            "name": "CJP Tiranga March: CJP का तिरंगा मार्च...LIVE | Abhijeet Dipke | Gyanesh Kumar | Delhi Police",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "Bg_c1rUSqbg",
-            "name": "US NEWS LIVE: Trump Drops Urgent Warning as America Goes on High Alert | Breaking News",
-            "artist": "ET Now"
+            "videoId": "VxpBX9K90ls",
+            "name": "আজকের আন্তর্জাতিক সব খবর, ১৬ অক্টোবর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
+            "artist": "World News Ira"
         },
         {
             "mood": "storm",
-            "videoId": "iS02mXb2GUA",
-            "name": "US NEWS LIVE: Trump Claims Iran Has Surrendered? Shocking 5-Minute Bombshell Rocks the World!",
-            "artist": "ET Now World"
+            "videoId": "A8Ko52Uh4wE",
+            "name": "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 16 October News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "YlvTHl0cvwg",
-            "name": "US NEWS LIVE: Biggest Arrest In US, Trump’s Explosive Orders sends Ilhan Omar Behind Bars?",
-            "artist": "ET Now"
+            "videoId": "PVcRB-H0IAU",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zpSnVUr-Ai8",
-            "name": "LIVE | Trump’s Iran War Plans: Could The ‘Mother Of All Bombs’ Be Deployed? | US Army | Tehran |N18G",
-            "artist": "CNN-News18"
+            "videoId": "t_XgEaFIerk",
+            "name": "CJP Protest News LIVE: दिल्ली में CJP का प्रदर्शन, 10 बजे के ताजा हालात | Connaught Place | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "moBWhFvV-7U",
-            "name": "🔴LIVE : Today Headlines - 16 OCTOBER 2026 | 8 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
-            "artist": "Polimer News"
+            "videoId": "Vooj0rB3H3M",
+            "name": "LIVE : YSRCP మేయర్ అభ్యర్థుల జాబితా విడుదల | Municipal & Mayor Candidates List",
+            "artist": "Sakshi TV Live"
         },
         {
             "mood": "storm",
-            "videoId": "xILR-XZMor4",
-            "name": "Istanbul Weather News LIVE 🔴: Flash Floods Paralyse Turkey’s Largest City | World News",
-            "artist": "MyNation"
+            "videoId": "R30BxZdS9K8",
+            "name": "Today Headlines | 16 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "hGoy2gkorLc",
-            "name": "ABC World News Tonight With David Muir 10/15/26 | ABC News Today October 15, 2026 HD",
-            "artist": "Dips Music Punjabi"
+            "videoId": "gDFq-dFndP0",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 16-10-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         },
         {
             "mood": "storm",
-            "videoId": "81FnVD6AoUI",
-            "name": "ABC World News Tonight With David Muir 10/15/26 | ABC News Today October 15, 2026",
-            "artist": "Srilaxmi"
+            "videoId": "zH_vK7xX2_o",
+            "name": "Houthi Attack On Saudi Arab News LIVE: हूती-सऊदी अरब  की जंग के बीच भारत का बड़ा बयान, दी चेतावनी!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "26Yp49HFhXI",
-            "name": "ABC World News Tonight with David Muir Full Episode October  15 - 2026",
-            "artist": "Nasar Khan"
+            "videoId": "mJY1IKwZC7g",
+            "name": "Saudi Houthi War LIVE: 14 Dead & 300+ Wounded After Consecutive Attacks On Riyadh Airport | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y2XJPXhrfcU",
+            "name": "Attack On Saudi Arab News LIVE: मक्का के बाद अब मदीना पर मिसाइल अटैक!, कांपा सऊदी अरब! | Madina",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
