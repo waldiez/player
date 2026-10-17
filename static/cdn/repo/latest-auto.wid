@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261017T095949.614Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261017T144737.805Z-l4t35t"
   type: "state"
-  created: "2026-10-17T09:59:49.614Z"
+  created: "2026-10-17T14:47:37.805Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261017T095949.614Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261017T144737.805Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "H8j0xt2U7tg"
-        name: "LIVE: Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure | N18G"
-        artist: "News18 Urdu"
+        videoId: "PI9Tt9qiXkg"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r01dISuim6A"
-        name: "Left Protest In Delhi LIVE Updates: थोड़ी देर में जंतर-मंतर की ओर कूच? | CJP | Abhijeet Dipke Arrest"
-        artist: "ABP NEWS"
+        videoId: "eb93AQhFMDY"
+        name: "LIVE: කුමන්ත්‍රණ පරදවමු ජන රැළිය | 17.10.2026"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HIXhF-2NNi0"
-        name: "Trump Waives New Russia Sanctions & Tariffs | 1PM Headlines Geo News (17 Oct 2026)"
-        artist: "Geo News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZZ8QhSqFeco"
-        name: "CJP Protest News LIVE: CJP ने कर दिया आज फिर बड़ा ऐलान! | Delhi Police | Cannaught Place | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nn2I7CaPhvw"
-        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
+        videoId: "W-XlGq2RJI4"
+        name: "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "t9bTlHrAsYE"
-        name: "World News LIVE | Trump Says Ukraine Should Get Leader  | Zelenskyy Slams US Diesel Deal With Putin"
-        artist: "Times Now World"
+        videoId: "BDfAlViImqQ"
+        name: "Saudi Arabia LIVE: Saudi Aramco Building Hit as Houthi Missile Debris Injures 4 in Riyadh | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-0nShcLIlJY"
-        name: "Delhi Police Action on Abhijeet Dipke LIVE: हिरासत के बाद दीपके का पहला बयान, चौंके राहुल! |Breaking"
+        videoId: "2ohjN1LibOM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "RUO5mtnlL_Y"
+        name: "Abhijeet Dipke Arrest News Update LIVE: दीपके पर आया बड़ा फैसला? | CJP Protest | Delhi Police"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DMgHMYvsfyk"
-        name: "CJP Tiranga March News LIVE: Neha Bora ने हिरासत से छूटते ही दिया बड़ा बयान | Abhijeet Dipke"
-        artist: "ABP NEWS"
+        videoId: "8MGz1Kr1bBE"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wFB862aEHTo"
-        name: "Today Headlines | 17 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
+        videoId: "_p08x1cVHYI"
+        name: "LIVE: MBS UNDER SIEGE! Houthis Unleash Missiles From Riyadh To Saudi Oil Hub Yanbu | | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8hMtPHM19vc"
-        name: "France Protests LIVE: Direct Street Footage and Breaking World News | Live Street Footage"
-        artist: "MIRROR NOW"
+        videoId: "J8ujS82kIak"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "tjWiKeoThVk"
+        name: "US NEWS LIVE | US Sends BIG Message to Iran | Major Warning or New Twist? |LIVE Updates | TRUMP LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-JfuzGK2GbM"
+        name: "🔴LIVE: Deva Passed away | தேவா திடீர் மரணம் - கடைசி நிமிடங்கள்.. கண்ணீரில் தமிழகம்"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-17T09:59:49.614Z"
+  exported_at: "2026-10-17T14:47:37.805Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-17T09:59:49.566Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-17T14:47:37.758Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
