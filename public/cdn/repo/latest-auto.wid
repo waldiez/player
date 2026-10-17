@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261016T202303.208Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261017T023319.685Z-l4t35t"
   type: "state"
-  created: "2026-10-16T20:23:03.208Z"
+  created: "2026-10-17T02:33:19.685Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261016T202303.208Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261017T023319.685Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "G0B9QZFoEOU"
-        name: "തിരംഗമാര്‍ച്ചില്‍ സംഘര്‍ഷം | LIVE  | CJP Tiranga Protest LIVE  | Abhijeet Dipke | Breaking News"
-        artist: "Manorama News"
+        videoId: "zcS_AS3mdtU"
+        name: "BREAKING NEWS LIVE: Pete Hegseth Drops Major Iran Bombshell | Pentagon LIVE | US News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7ZmvPEWcoqQ"
-        name: "LIVE: Saudi Aramco Building Hit by Houthis Missile | Saudi Arabia & Houthis War Updates LIVE | N18G"
-        artist: "News18 Urdu"
+        videoId: "SGdtWwAY2qU"
+        name: "Iran America War LIVE: ईरान अमेरिका युद्ध के हालात! | Trump | Hormuz | IRGC | Middle East War | N18G"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JLLii6wMTkw"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
+        videoId: "G-WhDdQeTJ8"
+        name: "Sandeep Chaudhary LIVE: 'वोट चोरी' बहाना...सत्ता परिवर्तन निशाना? | CJP Protest | Gyanesh | Rahul"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KkDpVOv4mJU"
-        name: "Saudi Houthi War LIVE: Houthis attack Saudi Airports & Companies | Yemen Forces attack Houthi | N18G"
-        artist: "News18 Urdu"
+        videoId: "raStQa8y-vc"
+        name: "🔴LIVE: Speed News | 24 Headlines | 17-10-2026 | #morningwithabn | ABN Telugu"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RFta1kTrPtI"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "oFbfUAID_uU"
+        name: "ABC World News Tonight With David Muir 10/16/26 | ABC News Today October 16, 2026 HD"
+        artist: "Dips Music Punjabi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "VdeSQAR5qpM"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "W6bae4eh1d0"
+        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fKGd45LCyIs"
-        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (16-10-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "qXt1-TiXnjI"
+        name: "Officials give update on shooting at Silver Rail Elementary School in Bend, Oregon"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EbMi99iN_m0"
-        name: "🔴LIVE: CM Vijay | TVK | ''உதயசூரியனை ரூம் போட்டு தங்க வச்சிருக்கேன்..'' லீக்கான ஆடியோ"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vIYlwim6730"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5cgrHuEXczM"
-        name: "LIVE: MBS Tightens Palace Security as Houthi Strikes Intensify | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DYQZ0Ur2Bjs"
-        name: "World NEWS LIVE: Putin’s Chilling Warning to US Over War! Is World War 3 Closer Than Ever?"
-        artist: "Times Now World"
+        videoId: "okPNe2EjP8M"
+        name: "Ukraine destroys key $100 million Russian Nebo-U radar | World News Tonight"
+        artist: "TVP WORLD"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-16T20:23:03.208Z"
+  exported_at: "2026-10-17T02:33:19.685Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-16T20:23:03.173Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-17T02:33:19.562Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
