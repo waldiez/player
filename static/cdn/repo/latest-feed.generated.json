@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-17T14:47:37.758Z",
+    "generatedAt": "2026-10-17T19:57:06.289Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PI9Tt9qiXkg",
-            "name": "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News",
-            "artist": "CK Time TV North America"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eb93AQhFMDY",
-            "name": "LIVE: කුමන්ත්‍රණ පරදවමු ජන රැළිය | 17.10.2026",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "W-XlGq2RJI4",
-            "name": "TRUMP LIVE: Trump 'Accepts' Iran's Rare Offer LIVE | Trump SHOCKS Netanyahu | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BDfAlViImqQ",
-            "name": "Saudi Arabia LIVE: Saudi Aramco Building Hit as Houthi Missile Debris Injures 4 in Riyadh | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2ohjN1LibOM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RUO5mtnlL_Y",
-            "name": "Abhijeet Dipke Arrest News Update LIVE: दीपके पर आया बड़ा फैसला? | CJP Protest | Delhi Police",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8MGz1Kr1bBE",
+            "videoId": "VHtx_UaMxOk",
             "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "_p08x1cVHYI",
-            "name": "LIVE: MBS UNDER SIEGE! Houthis Unleash Missiles From Riyadh To Saudi Oil Hub Yanbu | | N18G",
+            "videoId": "yeg9juBOvG8",
+            "name": "Jammu Kashmir News LIVE: Kupwara Encounter, BJP reaction on 2 Years of Omar Abdullah Govt | Weather",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "J8ujS82kIak",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "TmQdyOihQMY",
+            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "tjWiKeoThVk",
-            "name": "US NEWS LIVE | US Sends BIG Message to Iran | Major Warning or New Twist? |LIVE Updates | TRUMP LIVE",
+            "videoId": "QAal6f0leNE",
+            "name": "LIVE: Hundreds arrested across France with large-scale protest underway in Paris | BBC News",
+            "artist": "BBC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "C4cnXg2hIdM",
+            "name": "LIVE : కడపలో కత్తిపోట్లు.. | TDP Goons Attack on YSRCP Leaders in Kadapa @SakshiTV",
+            "artist": "Sakshi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "aatLb478imY",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g2A9s-y4SrM",
+            "name": "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EaD3eJ1qYRg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla 18 October 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "News Today Update"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6_DGaKxT9zI",
+            "name": "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "-JfuzGK2GbM",
-            "name": "🔴LIVE: Deva Passed away | தேவா திடீர் மரணம் - கடைசி நிமிடங்கள்.. கண்ணீரில் தமிழகம்",
-            "artist": "Thanthi TV"
+            "videoId": "hoXab7tailw",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
         }
     ],
     "sourceFilters": {
