@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-18T10:12:17.595Z",
+    "generatedAt": "2026-10-18T15:12:47.150Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,68 +28,74 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5hZL2m3wbS8",
-            "name": "LIVE: Paris Riots Escalate | Police Fire Tear Gas as Protesters Hurl Objects in Street Clashes",
-            "artist": "NDTV World"
+            "videoId": "42Oky9bdfU4",
+            "name": "Pentagon Briefing LIVE: Pete Hegseth's Briefing Abruptly Ends Midway | What Happened? | US News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "5g9R_BTFfTw",
-            "name": "US-Iran War LIVE: Trump Threatens Pickaxe Mountain Nuclear Site | Hormuz War |  Middle East | N18G",
-            "artist": "CNN-News18"
+            "videoId": "1KMPYpp3RMQ",
+            "name": "CJP Protest News LIVE: दिल्ली में होगा आज फिर बड़ा प्रदर्शन..? | Dipke Bail Granted | LEFT |Congress",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ZikkFo9F2fI",
-            "name": "France Protests Turn Violent | 1,200 Arrested, 150 Police Injured | Latest World News । N18G",
-            "artist": "News18 Odia"
+            "videoId": "Up0RTxiKKNM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "Dcx3_qF8aJQ",
-            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "KwNfMwT5yrc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "GLOBAL UPDATE BANGLA"
         },
         {
             "mood": "storm",
-            "videoId": "OarrodWEOJo",
-            "name": "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | Trump NEWS",
+            "videoId": "39C8NyUdTIc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JIyfm3ihP8M",
+            "name": "🔴LIVE: Music Director Deva Passed away  | தேனிசைத் தென்றல் தேவா மறைவு.. வீட்டிலிருந்து தொடர் நேரலை!",
+            "artist": "PT Spotlight"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZzsV-stHRA4",
+            "name": "Albania Protest News LIVE: प्रधानमंत्री से मांगा इस्तीफा, हो गया भंयकर बवाल, सड़क पर उतरे लोग!",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "BdXFbcq2neo",
+            "name": "Chaar Ki Chaal LIVE: जनक्रोध, जलता यूरोप | France Protest | World News | Italy Breaking",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "th5fh-zXY1U",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CBC আন্তর্জাতিক সংবাদ "
+        },
+        {
+            "mood": "storm",
+            "videoId": "j0e9yifq1u0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "INX NEWS আন্তর্জাতিক সংবাদ "
+        },
+        {
+            "mood": "storm",
+            "videoId": "a7wroP9AP6w",
+            "name": "Trump LIVE: “Total Control” — Massive New Iran Decision | Trump Iran News | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "fALoys2synI",
-            "name": "Saudi Arabia LIVE: Saudi Aramco Building Hit as Houthi Missile Debris Injures 4 in Riyadh | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JPEfZsVK2OE",
-            "name": "Saudi Arabia | Helicopter Crash | Latest Saudi News | 11 AM HEADLINES",
-            "artist": "Aaj News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pVLmmu6slZs",
-            "name": "Today Headlines | 18 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "r7U_00JkoAk",
-            "name": "LIVE: Chennai Cloudburst | Chennai Heavy Rain | தத்தளித்த சென்னை",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PrMvso8PGvc",
-            "name": "Kolkata Durga Puja Stampede News LIVE: Kolkata में हादसा, 19 लोगों की मौत, शव खेज रहे परिजन! TV9",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uBwiuMyWYGI",
-            "name": "Kolkata Stampede News LIVE: आधी रात कोलकाता में बड़ा हादसा, 17 लोगों की मौत | Breaking | Puja Pandal",
+            "videoId": "s4L7APViclg",
+            "name": "Paris Protests Turn Violent LIVE: महंगाई के खिलाफ लोग आउट ऑफ कंट्रोल! | World News | Breaking",
             "artist": "ABP NEWS"
         }
     ],

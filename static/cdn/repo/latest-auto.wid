@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261018T101217.627Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261018T151247.182Z-l4t35t"
   type: "state"
-  created: "2026-10-18T10:12:17.627Z"
+  created: "2026-10-18T15:12:47.182Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T101217.627Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T151247.182Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,68 +53,74 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5hZL2m3wbS8"
-        name: "LIVE: Paris Riots Escalate | Police Fire Tear Gas as Protesters Hurl Objects in Street Clashes"
-        artist: "NDTV World"
+        videoId: "42Oky9bdfU4"
+        name: "Pentagon Briefing LIVE: Pete Hegseth's Briefing Abruptly Ends Midway | What Happened? | US News LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "5g9R_BTFfTw"
-        name: "US-Iran War LIVE: Trump Threatens Pickaxe Mountain Nuclear Site | Hormuz War |  Middle East | N18G"
-        artist: "CNN-News18"
+        videoId: "1KMPYpp3RMQ"
+        name: "CJP Protest News LIVE: दिल्ली में होगा आज फिर बड़ा प्रदर्शन..? | Dipke Bail Granted | LEFT |Congress"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZikkFo9F2fI"
-        name: "France Protests Turn Violent | 1,200 Arrested, 150 Police Injured | Latest World News । N18G"
-        artist: "News18 Odia"
+        videoId: "Up0RTxiKKNM"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Dcx3_qF8aJQ"
-        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
-        artist: "MIRROR NOW"
+        videoId: "KwNfMwT5yrc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "GLOBAL UPDATE BANGLA"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OarrodWEOJo"
-        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | Trump NEWS"
+        videoId: "39C8NyUdTIc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Bijoy i-Desk"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JIyfm3ihP8M"
+        name: "🔴LIVE: Music Director Deva Passed away  | தேனிசைத் தென்றல் தேவா மறைவு.. வீட்டிலிருந்து தொடர் நேரலை!"
+        artist: "PT Spotlight"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZzsV-stHRA4"
+        name: "Albania Protest News LIVE: प्रधानमंत्री से मांगा इस्तीफा, हो गया भंयकर बवाल, सड़क पर उतरे लोग!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BdXFbcq2neo"
+        name: "Chaar Ki Chaal LIVE: जनक्रोध, जलता यूरोप | France Protest | World News | Italy Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "th5fh-zXY1U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "j0e9yifq1u0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "INX NEWS আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "a7wroP9AP6w"
+        name: "Trump LIVE: “Total Control” — Massive New Iran Decision | Trump Iran News | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fALoys2synI"
-        name: "Saudi Arabia LIVE: Saudi Aramco Building Hit as Houthi Missile Debris Injures 4 in Riyadh | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JPEfZsVK2OE"
-        name: "Saudi Arabia | Helicopter Crash | Latest Saudi News | 11 AM HEADLINES"
-        artist: "Aaj News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pVLmmu6slZs"
-        name: "Today Headlines | 18 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r7U_00JkoAk"
-        name: "LIVE: Chennai Cloudburst | Chennai Heavy Rain | தத்தளித்த சென்னை"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PrMvso8PGvc"
-        name: "Kolkata Durga Puja Stampede News LIVE: Kolkata में हादसा, 19 लोगों की मौत, शव खेज रहे परिजन! TV9"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uBwiuMyWYGI"
-        name: "Kolkata Stampede News LIVE: आधी रात कोलकाता में बड़ा हादसा, 17 लोगों की मौत | Breaking | Puja Pandal"
+        videoId: "s4L7APViclg"
+        name: "Paris Protests Turn Violent LIVE: महंगाई के खिलाफ लोग आउट ऑफ कंट्रोल! | World News | Breaking"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-18T10:12:17.627Z"
+  exported_at: "2026-10-18T15:12:47.182Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-18T10:12:17.595Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-18T15:12:47.150Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
