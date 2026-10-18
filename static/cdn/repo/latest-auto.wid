@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261017T195706.332Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261018T023419.249Z-l4t35t"
   type: "state"
-  created: "2026-10-17T19:57:06.332Z"
+  created: "2026-10-18T02:34:19.249Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261017T195706.332Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T023419.249Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VHtx_UaMxOk"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "u57kW2VZUQw"
+        name: "Big Attack on Houthis LIVE : सबसे बड़ा धमाका.. 900 की मौत ने पूरी दुनिया को डराया! | War News"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yeg9juBOvG8"
-        name: "Jammu Kashmir News LIVE: Kupwara Encounter, BJP reaction on 2 Years of Omar Abdullah Govt | Weather"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TmQdyOihQMY"
-        name: "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House"
+        videoId: "Bx9IAhXNzRQ"
+        name: "France Riots LIVE: Raw Street Footage and Latest Breaking News | France Protest Live Updates"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QAal6f0leNE"
-        name: "LIVE: Hundreds arrested across France with large-scale protest underway in Paris | BBC News"
-        artist: "BBC News"
+        videoId: "l_7sDKj969g"
+        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 18 October | Protest"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C4cnXg2hIdM"
-        name: "LIVE : కడపలో కత్తిపోట్లు.. | TDP Goons Attack on YSRCP Leaders in Kadapa @SakshiTV"
-        artist: "Sakshi TV"
+        videoId: "74SYAtT3HDM"
+        name: "ABC World News Tonight With David Muir 10/17/26 | ABC News Today October 17, 2026"
+        artist: "Dips Music Punjabi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aatLb478imY"
-        name: "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World"
-        artist: "Times Now World"
+        videoId: "zccuUPk7dO0"
+        name: "LIVE: ABC News Live - Saturday, October 17"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "g2A9s-y4SrM"
-        name: "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed"
-        artist: "ET Now"
+        videoId: "lsRMea9UQYY"
+        name: "ABC World News Tonight with David Muir Full Episode October  17 - 2026"
+        artist: "Sajid Khan"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EaD3eJ1qYRg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla 18 October 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "News Today Update"
+        videoId: "2a4zhOOQ-sI"
+        name: "Major Russia sanctions waived by Trump after new law takes effect | World News Tonight"
+        artist: "TVP WORLD"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6_DGaKxT9zI"
-        name: "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hoXab7tailw"
+        videoId: "EdkDIBLOW4s"
         name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
         artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "6ye4YKdynn0"
+        name: "Kolkata Durga Puja Stampede News Live : दुर्गा पंडाल में भगदड़, 19 लोगों की मौत, मची चीख-पुकार"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "W4qte1jQPWI"
+        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-17T19:57:06.332Z"
+  exported_at: "2026-10-18T02:34:19.249Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-17T19:57:06.289Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-18T02:34:19.205Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 1i4_tFz8z30 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 55 < 70)"

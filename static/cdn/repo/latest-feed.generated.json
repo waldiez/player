@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-17T19:57:06.289Z",
+    "generatedAt": "2026-10-18T02:34:19.205Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VHtx_UaMxOk",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "u57kW2VZUQw",
+            "name": "Big Attack on Houthis LIVE : सबसे बड़ा धमाका.. 900 की मौत ने पूरी दुनिया को डराया! | War News",
+            "artist": "Zee News"
         },
         {
             "mood": "storm",
-            "videoId": "yeg9juBOvG8",
-            "name": "Jammu Kashmir News LIVE: Kupwara Encounter, BJP reaction on 2 Years of Omar Abdullah Govt | Weather",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TmQdyOihQMY",
-            "name": "Donald Trump LIVE: Trump's Stunning Announcement | Trump Latest News LIVE | US News | White House",
+            "videoId": "Bx9IAhXNzRQ",
+            "name": "France Riots LIVE: Raw Street Footage and Latest Breaking News | France Protest Live Updates",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "QAal6f0leNE",
-            "name": "LIVE: Hundreds arrested across France with large-scale protest underway in Paris | BBC News",
-            "artist": "BBC News"
+            "videoId": "l_7sDKj969g",
+            "name": "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 18 October | Protest",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "C4cnXg2hIdM",
-            "name": "LIVE : కడపలో కత్తిపోట్లు.. | TDP Goons Attack on YSRCP Leaders in Kadapa @SakshiTV",
-            "artist": "Sakshi TV"
+            "videoId": "74SYAtT3HDM",
+            "name": "ABC World News Tonight With David Muir 10/17/26 | ABC News Today October 17, 2026",
+            "artist": "Dips Music Punjabi"
         },
         {
             "mood": "storm",
-            "videoId": "aatLb478imY",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
+            "videoId": "zccuUPk7dO0",
+            "name": "LIVE: ABC News Live - Saturday, October 17",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "g2A9s-y4SrM",
-            "name": "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed",
-            "artist": "ET Now"
+            "videoId": "lsRMea9UQYY",
+            "name": "ABC World News Tonight with David Muir Full Episode October  17 - 2026",
+            "artist": "Sajid Khan"
         },
         {
             "mood": "storm",
-            "videoId": "EaD3eJ1qYRg",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla 18 October 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "News Today Update"
+            "videoId": "2a4zhOOQ-sI",
+            "name": "Major Russia sanctions waived by Trump after new law takes effect | World News Tonight",
+            "artist": "TVP WORLD"
         },
         {
             "mood": "storm",
-            "videoId": "6_DGaKxT9zI",
-            "name": "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hoXab7tailw",
+            "videoId": "EdkDIBLOW4s",
             "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
             "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1i4_tFz8z30",
+            "name": "Danielle Bernstein embraces a major fashion reset",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6ye4YKdynn0",
+            "name": "Kolkata Durga Puja Stampede News Live : दुर्गा पंडाल में भगदड़, 19 लोगों की मौत, मची चीख-पुकार",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "W4qte1jQPWI",
+            "name": "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
         }
     ],
     "sourceFilters": {
