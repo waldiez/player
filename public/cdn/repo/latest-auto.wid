@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261018T023419.249Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261018T101217.627Z-l4t35t"
   type: "state"
-  created: "2026-10-18T02:34:19.249Z"
+  created: "2026-10-18T10:12:17.627Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T023419.249Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T101217.627Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "u57kW2VZUQw"
-        name: "Big Attack on Houthis LIVE : सबसे बड़ा धमाका.. 900 की मौत ने पूरी दुनिया को डराया! | War News"
-        artist: "Zee News"
+        videoId: "5hZL2m3wbS8"
+        name: "LIVE: Paris Riots Escalate | Police Fire Tear Gas as Protesters Hurl Objects in Street Clashes"
+        artist: "NDTV World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Bx9IAhXNzRQ"
-        name: "France Riots LIVE: Raw Street Footage and Latest Breaking News | France Protest Live Updates"
-        artist: "ET Now"
+        videoId: "5g9R_BTFfTw"
+        name: "US-Iran War LIVE: Trump Threatens Pickaxe Mountain Nuclear Site | Hormuz War |  Middle East | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l_7sDKj969g"
-        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 18 October | Protest"
+        videoId: "ZikkFo9F2fI"
+        name: "France Protests Turn Violent | 1,200 Arrested, 150 Police Injured | Latest World News । N18G"
+        artist: "News18 Odia"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Dcx3_qF8aJQ"
+        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OarrodWEOJo"
+        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | Trump NEWS"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fALoys2synI"
+        name: "Saudi Arabia LIVE: Saudi Aramco Building Hit as Houthi Missile Debris Injures 4 in Riyadh | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JPEfZsVK2OE"
+        name: "Saudi Arabia | Helicopter Crash | Latest Saudi News | 11 AM HEADLINES"
+        artist: "Aaj News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pVLmmu6slZs"
+        name: "Today Headlines | 18 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "r7U_00JkoAk"
+        name: "LIVE: Chennai Cloudburst | Chennai Heavy Rain | தத்தளித்த சென்னை"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PrMvso8PGvc"
+        name: "Kolkata Durga Puja Stampede News LIVE: Kolkata में हादसा, 19 लोगों की मौत, शव खेज रहे परिजन! TV9"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uBwiuMyWYGI"
+        name: "Kolkata Stampede News LIVE: आधी रात कोलकाता में बड़ा हादसा, 17 लोगों की मौत | Breaking | Puja Pandal"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "74SYAtT3HDM"
-        name: "ABC World News Tonight With David Muir 10/17/26 | ABC News Today October 17, 2026"
-        artist: "Dips Music Punjabi"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zccuUPk7dO0"
-        name: "LIVE: ABC News Live - Saturday, October 17"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "lsRMea9UQYY"
-        name: "ABC World News Tonight with David Muir Full Episode October  17 - 2026"
-        artist: "Sajid Khan"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2a4zhOOQ-sI"
-        name: "Major Russia sanctions waived by Trump after new law takes effect | World News Tonight"
-        artist: "TVP WORLD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EdkDIBLOW4s"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6ye4YKdynn0"
-        name: "Kolkata Durga Puja Stampede News Live : दुर्गा पंडाल में भगदड़, 19 लोगों की मौत, मची चीख-पुकार"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "W4qte1jQPWI"
-        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-18T02:34:19.249Z"
+  exported_at: "2026-10-18T10:12:17.627Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-18T02:34:19.205Z"
-  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 1i4_tFz8z30 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 55 < 70)"
+  source_generated_at: "2026-10-18T10:12:17.595Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
