@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261019T114847.860Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261019T180853.330Z-l4t35t"
   type: "state"
-  created: "2026-10-19T11:48:47.860Z"
+  created: "2026-10-19T18:08:53.330Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261019T114847.860Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261019T180853.330Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DVqag3VfFaw"
-        name: "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION"
-        artist: "WION"
+        videoId: "OxKiQTpdoMk"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jRkzfM8YF0s"
-        name: "Smoke, Blasts, Destruction LIVE: Houthi Attacks on Saudi Airports | Saudi Arabia Houthi War | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IjPVj7-gZB8"
-        name: "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "J3mBGp4cKp8"
-        name: "WORLD NEWS LIVE: Iran’s Stark Warning to the US Sparks Global Reactions | Iran FM press conference"
+        videoId: "OBgvi4vNW44"
+        name: "US News LIVE: Trump & Melania Sign Executive Order at the White House Rose Garden | WORLD NEWS LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Pwq192gSCR8"
-        name: "NEWS BREAK | ന്യൂസ് ബ്രേക്ക് | NEWS UPDATES | LATEST NEWS | LIVE"
-        artist: "Manorama News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JccsvbCeafI"
-        name: "Trump LIVE: US President Donald Trump Urgent Address To The World | White House | Russia | China"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "JQyv3zVaS2Q"
-        name: "LIVE : फ्रांस में हालात हुए बेकाबू? | Massive Riots In France | Paris News | Emmanuel Macron"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "gWthiNxPaic"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "r3Me_BINPy8"
-        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
+        videoId: "EyNoh7EVF-Y"
+        name: "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O4UXkAzcR-E"
-        name: "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | Trump NEWS"
+        videoId: "o89OfapA8a0"
+        name: "🔴LIVE: திடீர் அலர்ட் - மழையின் Next Round Start"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oISrBHky_V0"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8oEpS9pmJx4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "World বাংলা"
+        videoId: "MezaoEuW0Ag"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Zq_401N4KtY"
-        name: "🔴LIVE: Speed News | 24 Headlines | 19-10-2026 | #morningwithabn | ABN Telugu"
-        artist: "ABN Telugu "
+        videoId: "mm8dnn4Z9os"
+        name: "Rahul Gandhi on Gyanesh Kumar News LIVE: ज्ञानेश कुमार पर राहुल गांधी का बड़ा आरोप, मची खलबली"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dK_0enCVNSk"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "xsbGfY_P6kE"
+        name: "JD Vance LIVE: Iran-US War Over? Major Peace Deal Update | World News LIVE | US IRAN NEWS LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "osxPsIKY9NU"
+        name: "Tiger Shroff Firing LIVE | First Pictures Of Tiger Shroff After Attack Latest Updates | LIVE"
+        artist: "NDTV"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-19T11:48:47.860Z"
+  exported_at: "2026-10-19T18:08:53.330Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-19T11:48:47.821Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-19T18:08:53.287Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
