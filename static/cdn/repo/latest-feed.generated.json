@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-19T02:47:52.660Z",
+    "generatedAt": "2026-10-19T11:48:47.821Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Pdhf8n4_kAY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "DVqag3VfFaw",
+            "name": "Saudi Arabia Under Attack LIVE : CCTV Footage Shows Houthis BOMBED Riyadh Airport | WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "Vm3gAEzzHv0",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 18, 2026",
-            "artist": "ABC News"
+            "videoId": "jRkzfM8YF0s",
+            "name": "Smoke, Blasts, Destruction LIVE: Houthi Attacks on Saudi Airports | Saudi Arabia Houthi War | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "0QjOX_qI7tI",
-            "name": "🔴LIVE : සිරස පත්තරේ | Sirasa Paththare | 19.10.2026",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "IjPVj7-gZB8",
+            "name": "Gujarat Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર ફટાફટ અંદાજમાં | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "zk9ysczRRro",
-            "name": "Firing on Tiger Shroff: टाइगर श्रॉफ पर फायरिंग का LIVE वीडियो! | Mumbai Police | Lawrence Bishnoi",
+            "videoId": "J3mBGp4cKp8",
+            "name": "WORLD NEWS LIVE: Iran’s Stark Warning to the US Sparks Global Reactions | Iran FM press conference",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Pwq192gSCR8",
+            "name": "NEWS BREAK | ന്യൂസ് ബ്രേക്ക് | NEWS UPDATES | LATEST NEWS | LIVE",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JccsvbCeafI",
+            "name": "Trump LIVE: US President Donald Trump Urgent Address To The World | White House | Russia | China",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JQyv3zVaS2Q",
+            "name": "LIVE : फ्रांस में हालात हुए बेकाबू? | Massive Riots In France | Paris News | Emmanuel Macron",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Qc1ExY6h-Vw",
-            "name": "Tiger Shroff Firing News LIVE: Lawrence Bishnoi Gang | Mumbai Breaking News | Latest Update | Live",
-            "artist": "News18 India"
+            "videoId": "gWthiNxPaic",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "8w65vTwKqac",
-            "name": "LIVE: ABC News Live - Sunday, October 18",
-            "artist": "ABC News"
+            "videoId": "r3Me_BINPy8",
+            "name": "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "513DgUIXNrw",
-            "name": "ABC World News Tonight with David Muir Full Episode October  18 - 2026",
-            "artist": "Sajid Khan"
+            "videoId": "O4UXkAzcR-E",
+            "name": "WORLD NEWS LIVE | Trump Decision On Iran Sparks Fear Of Possible New Military Strike | Trump NEWS",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "gQNXCLt-sCo",
-            "name": "Saint Petersburg rocked by Ukraine’s biggest blitz of the war | World News Tonight",
-            "artist": "TVP WORLD"
+            "videoId": "8oEpS9pmJx4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "World বাংলা"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Zq_401N4KtY",
+            "name": "🔴LIVE: Speed News | 24 Headlines | 19-10-2026 | #morningwithabn | ABN Telugu",
+            "artist": "ABN Telugu "
         }
     ],
     "sourceFilters": {
