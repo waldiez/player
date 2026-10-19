@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-18T19:57:04.022Z",
+    "generatedAt": "2026-10-19T02:47:52.660Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "AIsMY40OfaE",
-            "name": "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "n5ITImdBvZk",
-            "name": "🔴LIVE: Today Headlines - 18 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "esM2JtDleCo",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kg2YS5Z0xtk",
-            "name": "Breaking News LIVE: Russia WW3 Claims? West on High Alert | World News | Ww3 Breaking News",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FoqOPkZWJiY",
-            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EKGmpolnaQM",
-            "name": "Breaking News LIVE | US TAKEOVER OF IRAN? Trump’s Latest Statement LIVE |  US IRAN NEWS LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0o5spld457k",
-            "name": "Chennai Red Alert | Chennai Red Alert Today | Chennai Rain Red Alert | Chennai Weather Alert",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cBp1_ANzCdA",
+            "videoId": "Pdhf8n4_kAY",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "GLOBAL UPDATE BANGLA"
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "NmC27J3kqx8",
-            "name": "Trump LIVE: US President Donald Trump Urgent Address To The World | White House | Russia | China",
-            "artist": "Times Now"
+            "videoId": "Vm3gAEzzHv0",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 18, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "PDtXghP_F5M",
-            "name": "US IRAN NEWS LIVE: Rubio Declares US-Iran War Over, Proclaims Complete American Victory",
-            "artist": "ET Now"
+            "videoId": "0QjOX_qI7tI",
+            "name": "🔴LIVE : සිරස පත්තරේ | Sirasa Paththare | 19.10.2026",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zk9ysczRRro",
+            "name": "Firing on Tiger Shroff: टाइगर श्रॉफ पर फायरिंग का LIVE वीडियो! | Mumbai Police | Lawrence Bishnoi",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Qc1ExY6h-Vw",
+            "name": "Tiger Shroff Firing News LIVE: Lawrence Bishnoi Gang | Mumbai Breaking News | Latest Update | Live",
+            "artist": "News18 India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8w65vTwKqac",
+            "name": "LIVE: ABC News Live - Sunday, October 18",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "513DgUIXNrw",
+            "name": "ABC World News Tonight with David Muir Full Episode October  18 - 2026",
+            "artist": "Sajid Khan"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gQNXCLt-sCo",
+            "name": "Saint Petersburg rocked by Ukraine’s biggest blitz of the war | World News Tonight",
+            "artist": "TVP WORLD"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261018T195704.069Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261019T024752.691Z-l4t35t"
   type: "state"
-  created: "2026-10-18T19:57:04.069Z"
+  created: "2026-10-19T02:47:52.691Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261018T195704.069Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261019T024752.691Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "AIsMY40OfaE"
-        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "n5ITImdBvZk"
-        name: "🔴LIVE: Today Headlines - 18 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK"
-        artist: "Polimer News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "esM2JtDleCo"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Kg2YS5Z0xtk"
-        name: "Breaking News LIVE: Russia WW3 Claims? West on High Alert | World News | Ww3 Breaking News"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FoqOPkZWJiY"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "EKGmpolnaQM"
-        name: "Breaking News LIVE | US TAKEOVER OF IRAN? Trump’s Latest Statement LIVE |  US IRAN NEWS LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0o5spld457k"
-        name: "Chennai Red Alert | Chennai Red Alert Today | Chennai Rain Red Alert | Chennai Weather Alert"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cBp1_ANzCdA"
+        videoId: "Pdhf8n4_kAY"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL UPDATE BANGLA"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NmC27J3kqx8"
-        name: "Trump LIVE: US President Donald Trump Urgent Address To The World | White House | Russia | China"
-        artist: "Times Now"
+        videoId: "Vm3gAEzzHv0"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 18, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PDtXghP_F5M"
-        name: "US IRAN NEWS LIVE: Rubio Declares US-Iran War Over, Proclaims Complete American Victory"
-        artist: "ET Now"
+        videoId: "0QjOX_qI7tI"
+        name: "🔴LIVE : සිරස පත්තරේ | Sirasa Paththare | 19.10.2026"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zk9ysczRRro"
+        name: "Firing on Tiger Shroff: टाइगर श्रॉफ पर फायरिंग का LIVE वीडियो! | Mumbai Police | Lawrence Bishnoi"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Qc1ExY6h-Vw"
+        name: "Tiger Shroff Firing News LIVE: Lawrence Bishnoi Gang | Mumbai Breaking News | Latest Update | Live"
+        artist: "News18 India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8w65vTwKqac"
+        name: "LIVE: ABC News Live - Sunday, October 18"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "513DgUIXNrw"
+        name: "ABC World News Tonight with David Muir Full Episode October  18 - 2026"
+        artist: "Sajid Khan"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gQNXCLt-sCo"
+        name: "Saint Petersburg rocked by Ukraine’s biggest blitz of the war | World News Tonight"
+        artist: "TVP WORLD"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-18T19:57:04.069Z"
+  exported_at: "2026-10-19T02:47:52.691Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-18T19:57:04.022Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-19T02:47:52.660Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
