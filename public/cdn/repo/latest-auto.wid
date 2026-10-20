@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261019T180853.330Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261020T025849.784Z-l4t35t"
   type: "state"
-  created: "2026-10-19T18:08:53.330Z"
+  created: "2026-10-20T02:58:49.784Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261019T180853.330Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261020T025849.784Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OxKiQTpdoMk"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OBgvi4vNW44"
-        name: "US News LIVE: Trump & Melania Sign Executive Order at the White House Rose Garden | WORLD NEWS LIVE"
+        videoId: "7Q2NDMzFRw4"
+        name: "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EyNoh7EVF-Y"
-        name: "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
-        artist: "MIRROR NOW"
+        videoId: "xaxU3ML14Pc"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 19, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o89OfapA8a0"
-        name: "🔴LIVE: திடீர் அலர்ட் - மழையின் Next Round Start"
-        artist: "Sathiyam News"
+        videoId: "nfKjnUQvvIg"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oISrBHky_V0"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "M3VxwVzQWLk"
+        name: "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MezaoEuW0Ag"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "P_kof_Rh7ck"
+        name: "Trump Iran News LIVE: Nuclear Strike Order? Latest Warning Explained | Trump Speech LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mm8dnn4Z9os"
-        name: "Rahul Gandhi on Gyanesh Kumar News LIVE: ज्ञानेश कुमार पर राहुल गांधी का बड़ा आरोप, मची खलबली"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dK_0enCVNSk"
+        videoId: "JQwDe3bRFrc"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xsbGfY_P6kE"
-        name: "JD Vance LIVE: Iran-US War Over? Major Peace Deal Update | World News LIVE | US IRAN NEWS LIVE"
+        videoId: "vitbyM0tjuQ"
+        name: "Today's Headlines | 20 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TtLFZR7ydpI"
+        name: "US News LIVE | IRAN STRIKE ALERT? Katie’s Latest Warning Sparks Questions | WORLD NEWS LIVE"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "osxPsIKY9NU"
-        name: "Tiger Shroff Firing LIVE | First Pictures Of Tiger Shroff After Attack Latest Updates | LIVE"
-        artist: "NDTV"
+        videoId: "3TZqscwk2ec"
+        name: "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gFjdNkMYgh0"
+        name: "ABC World News Tonight With David Muir – Full Episode October 19, 2026"
+        artist: "MF Records Plus"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Tw0Pfu93XFQ"
+        name: "ABC World News Tonight with David Muir Full Episode October  19 - 2026"
+        artist: "Malik samiullah Samiullah"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "r3Me_BINPy8"
+        name: "TRUMP SPEECH LIVE: Is World War 3 Coming? | Trump’s Latest Remarks & Global Tensions | World News"
+        artist: "MIRROR NOW"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-19T18:08:53.330Z"
+  exported_at: "2026-10-20T02:58:49.784Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-19T18:08:53.287Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-20T02:58:49.740Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
