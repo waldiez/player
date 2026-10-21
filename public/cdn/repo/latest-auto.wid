@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261021T025301.251Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261021T105909.771Z-l4t35t"
   type: "state"
-  created: "2026-10-21T02:53:01.251Z"
+  created: "2026-10-21T10:59:09.771Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261021T025301.251Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261021T105909.771Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DcbJi4FNSU4"
-        name: "Big Attack on Houthis LIVE : सऊदी के भीषण हमले ने पूरी दुनिया को हिला डाला..900 से ज्यादा की मौत!"
-        artist: "Zee News"
+        videoId: "fO5aVXDourk"
+        name: "🔴LIVE: আজকের গরম আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Khobor Srot"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N7-sBNIRg20"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 20, 2026"
-        artist: "ABC News"
+        videoId: "tw3hjDq098U"
+        name: "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Tiger Shroff | France Protest"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B8vr7Xn5_VU"
-        name: "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed"
-        artist: "ET Now"
+        videoId: "-aqPK-2JpDM"
+        name: "Saudi Arabia Foils Houthi Drone Attack on Madinah - Emergency in KP | ARY News 12 PM Headlines"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hShBZkAn5OI"
-        name: "Paris Protests LIVE: Students Clash With Police as Tear Gas Fired | France Unrest | World News LIVE"
-        artist: "MIRROR NOW"
+        videoId: "v-WxVh4W08E"
+        name: "Today Headlines | 21 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FbvJUHUz6qc"
-        name: "US NEWS LIVE: Trump Signs Deadly Orders In Oval Office, Full-Scale Action Authorized | US IRAN NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "0nvkcBWwYa4"
-        name: "Donald Trump LIVE | Trump's Big Announcement On Iran War | Trump Huge Warning Leaves Iran In Panic!"
+        videoId: "vL716CrzC8U"
+        name: "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "j6tHz19PK0U"
-        name: "World News LIVE: Jaishankar Meets Marco Rubio in Mumbai! High-Stakes Talks Spark Buzz"
-        artist: "ET Now World"
+        videoId: "OulfrRrzaa0"
+        name: "World War 3 LIVE: ईरान को सता रहा बड़े युद्ध का खतरा! अमेरिका से बातचीत की तैयारी? | US-Iran Tension"
+        artist: "India News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YNEjviB8ryc"
-        name: "ABC World News Tonight With David Muir 10/20/26 - ABC News Today October 20, 2026"
-        artist: "Antra Star"
+        videoId: "Z95o1GR2xWI"
+        name: "ABC News Live Prime Full Episode: Tue, Oct 20, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rdDOwr6GtqI"
-        name: "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026"
-        artist: "Rajasthani Jukebox"
+        videoId: "vvB706m-pvg"
+        name: "Lahore Ranks No. 1 Among World’s Most Polluted Cities | 10AM Headlines Geo News (21 Oct 2026)"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p32b6Vfq-Hg"
-        name: "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026"
-        artist: "Desi Tune"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2PopBwiO9qI"
-        name: "Sandeep Chaudhary LIVE: प्रदर्शन का अधिकार...बना अराजकता का हथियार! | Rahul Gandhi | GenZ Protest"
+        videoId: "IQPzXn-q_ac"
+        name: "France Protest LIVE Updates | France Violence | France Riots | Emmanuel Macron | Regime Change"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8IZHB0fBLzQ"
-        name: "World News LIVE | Trump Attack Pickaxe Mountain Tonight? | Iran Nuclear Threat | US Midterm Pressure"
-        artist: "ET Now"
+        videoId: "bOzA_mFVqlY"
+        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "evOvcmAL9b8"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-21T02:53:01.251Z"
+  exported_at: "2026-10-21T10:59:09.771Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-21T02:53:01.217Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-21T10:59:09.719Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-21T02:53:01.217Z",
+    "generatedAt": "2026-10-21T10:59:09.719Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "DcbJi4FNSU4",
-            "name": "Big Attack on Houthis LIVE : सऊदी के भीषण हमले ने पूरी दुनिया को हिला डाला..900 से ज्यादा की मौत!",
-            "artist": "Zee News"
+            "videoId": "fO5aVXDourk",
+            "name": "🔴LIVE: আজকের গরম আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Khobor Srot"
         },
         {
             "mood": "storm",
-            "videoId": "N7-sBNIRg20",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 20, 2026",
-            "artist": "ABC News"
+            "videoId": "tw3hjDq098U",
+            "name": "Aaj Ki 100 Badi Khabar LIVE : आज की ताजा 100 खबरें | PM Modi | Tiger Shroff | France Protest",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "B8vr7Xn5_VU",
-            "name": "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed",
-            "artist": "ET Now"
+            "videoId": "-aqPK-2JpDM",
+            "name": "Saudi Arabia Foils Houthi Drone Attack on Madinah - Emergency in KP | ARY News 12 PM Headlines",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "hShBZkAn5OI",
-            "name": "Paris Protests LIVE: Students Clash With Police as Tear Gas Fired | France Unrest | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "v-WxVh4W08E",
+            "name": "Today Headlines | 21 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "FbvJUHUz6qc",
-            "name": "US NEWS LIVE: Trump Signs Deadly Orders In Oval Office, Full-Scale Action Authorized | US IRAN NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "0nvkcBWwYa4",
-            "name": "Donald Trump LIVE | Trump's Big Announcement On Iran War | Trump Huge Warning Leaves Iran In Panic!",
+            "videoId": "vL716CrzC8U",
+            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran, Russia, China | Declares EMERGENCY From Whitehouse",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "j6tHz19PK0U",
-            "name": "World News LIVE: Jaishankar Meets Marco Rubio in Mumbai! High-Stakes Talks Spark Buzz",
-            "artist": "ET Now World"
+            "videoId": "OulfrRrzaa0",
+            "name": "World War 3 LIVE: ईरान को सता रहा बड़े युद्ध का खतरा! अमेरिका से बातचीत की तैयारी? | US-Iran Tension",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "YNEjviB8ryc",
-            "name": "ABC World News Tonight With David Muir 10/20/26 - ABC News Today October 20, 2026",
-            "artist": "Antra Star"
+            "videoId": "Z95o1GR2xWI",
+            "name": "ABC News Live Prime Full Episode: Tue, Oct 20, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "rdDOwr6GtqI",
-            "name": "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026",
-            "artist": "Rajasthani Jukebox"
+            "videoId": "vvB706m-pvg",
+            "name": "Lahore Ranks No. 1 Among World’s Most Polluted Cities | 10AM Headlines Geo News (21 Oct 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "p32b6Vfq-Hg",
-            "name": "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026",
-            "artist": "Desi Tune"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2PopBwiO9qI",
-            "name": "Sandeep Chaudhary LIVE: प्रदर्शन का अधिकार...बना अराजकता का हथियार! | Rahul Gandhi | GenZ Protest",
+            "videoId": "IQPzXn-q_ac",
+            "name": "France Protest LIVE Updates | France Violence | France Riots | Emmanuel Macron | Regime Change",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "8IZHB0fBLzQ",
-            "name": "World News LIVE | Trump Attack Pickaxe Mountain Tonight? | Iran Nuclear Threat | US Midterm Pressure",
-            "artist": "ET Now"
+            "videoId": "bOzA_mFVqlY",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "evOvcmAL9b8",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
