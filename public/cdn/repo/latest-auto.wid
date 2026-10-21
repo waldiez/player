@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261020T210708.020Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261021T025301.251Z-l4t35t"
   type: "state"
-  created: "2026-10-20T21:07:08.020Z"
+  created: "2026-10-21T02:53:01.251Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261020T210708.020Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261021T025301.251Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "umjmB1TkybY"
-        name: "MARCO RUBIO LIVE INTERVIEW: US State Secy's Unfiltered Conversation With Rahul Joshi | Big Exclusive"
-        artist: "Firstpost"
+        videoId: "DcbJi4FNSU4"
+        name: "Big Attack on Houthis LIVE : सऊदी के भीषण हमले ने पूरी दुनिया को हिला डाला..900 से ज्यादा की मौत!"
+        artist: "Zee News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Vta292TnxWY"
-        name: "প্রবাসী বাংলাদেশিদের সংবাদ | Probash News | ২১ অক্টোবর ২০২৬ | News Bulletin | Latest News | News24"
-        artist: "NEWS24 LIVE"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OO6eCdTlgAk"
-        name: "President Trump, Vice President Vance make announcement from the Oval Office"
+        videoId: "N7-sBNIRg20"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 20, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aVAqD-kZs1k"
-        name: "TRUMP SPEECH LIVE: “The War Is Completely Over” | Trump’s Latest Announcement | US NEWS | WORLD NEWS"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PabtVfC5ph4"
-        name: "Breaking News LIVE | Protest Fury Engulfs France As 800,000 Take To Streets, Violent Clashes | Paris"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "edihZYOUQCw"
-        name: "US IRAN NEWS LIVE: Rubio Declares US-Iran War Over, Proclaims Complete American Victory"
+        videoId: "B8vr7Xn5_VU"
+        name: "US IRAN News LIVE: Trump Discloses Peace Terms On Camera, End-Of-War Deal Exposed"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ovwt321aiHs"
-        name: "France Protest News: फ्रांस अपनाएगा CM Yogi Model?|World News | Europe | School Protest | N18G"
-        artist: "News18 Rajasthan"
+        videoId: "hShBZkAn5OI"
+        name: "Paris Protests LIVE: Students Clash With Police as Tear Gas Fired | France Unrest | World News LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ajOv0qCNvGU"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (20.10.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "FbvJUHUz6qc"
+        name: "US NEWS LIVE: Trump Signs Deadly Orders In Oval Office, Full-Scale Action Authorized | US IRAN NEWS"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "RCyVeahmAcY"
-        name: "Smoke, Blasts, Destruction LIVE: Houthi Attacks on Saudi Airports | Saudi Arabia Houthi War | N18G"
-        artist: "News18 Urdu"
+        videoId: "0nvkcBWwYa4"
+        name: "Donald Trump LIVE | Trump's Big Announcement On Iran War | Trump Huge Warning Leaves Iran In Panic!"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mr_9npm_xCU"
-        name: "🔴LIVE: Tn Weather Update | Chennai Rain | சென்னைக்கு High Warning!"
-        artist: "Sathiyam News"
+        videoId: "j6tHz19PK0U"
+        name: "World News LIVE: Jaishankar Meets Marco Rubio in Mumbai! High-Stakes Talks Spark Buzz"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wQAfBAFdpZY"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "YNEjviB8ryc"
+        name: "ABC World News Tonight With David Muir 10/20/26 - ABC News Today October 20, 2026"
+        artist: "Antra Star"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yRjqSIE6Ip8"
-        name: "🔴LIVE: CM Vijay | Seeman | CM விஜய்-க்கு சீமான் வார்னிங்"
-        artist: "Sathiyam News"
+        videoId: "rdDOwr6GtqI"
+        name: "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026"
+        artist: "Rajasthani Jukebox"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p32b6Vfq-Hg"
+        name: "ABC World News Tonight With David Muir 10/20/26 | ABC News Today October 20, 2026"
+        artist: "Desi Tune"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2PopBwiO9qI"
+        name: "Sandeep Chaudhary LIVE: प्रदर्शन का अधिकार...बना अराजकता का हथियार! | Rahul Gandhi | GenZ Protest"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8IZHB0fBLzQ"
+        name: "World News LIVE | Trump Attack Pickaxe Mountain Tonight? | Iran Nuclear Threat | US Midterm Pressure"
+        artist: "ET Now"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-20T21:07:08.020Z"
+  exported_at: "2026-10-21T02:53:01.251Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-20T21:07:07.981Z"
+  source_generated_at: "2026-10-21T02:53:01.217Z"
   validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
