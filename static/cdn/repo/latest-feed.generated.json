@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-22T02:51:56.804Z",
+    "generatedAt": "2026-10-22T10:58:06.895Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "aH1WS1CMBOs",
-            "name": "LIVE: Can Egypt Rescue Saudi? Houthis Issue Ultimatum After El Sisi Alarming War Pledge | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "SsES9QtuueA",
+            "name": "Kalimantan, Indonesia: Wildfire Nears Homes | Residents Keep Overnight Watch | World News",
+            "artist": "Asianet News English"
         },
         {
             "mood": "storm",
-            "videoId": "AaqEbHBnmwI",
-            "name": "Trump LIVE | Donald Trump Makes Big Announcement | Trump Latest News Live | Trump Speech | US News",
-            "artist": "Times Now"
+            "videoId": "XW5oWaqX6as",
+            "name": "🔴 Manoj Jarange Patil Press Conference LIVE | 500 कोटी प्रकरणात काय पुरावे सादर करणार? #EknathShinde",
+            "artist": "Rajmudra News Live"
         },
         {
             "mood": "storm",
-            "videoId": "AxC1mB-ozJc",
-            "name": "🔴LIVE : සිරස පත්තරේ | Sirasa Paththare | 22.10.2026",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "85KEbEVG_Lc",
+            "name": "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "BIw7mZTe_IY",
-            "name": "Reported Attack on King Fahd International Airport in Saudi Arabia | 4:30 AM News Updates |",
+            "videoId": "AE0MKEMUTKU",
+            "name": "Afternoon News ​|News updates Malayalam | News Updates | Kerala News | Breaking News Live | NewsLive",
+            "artist": "Manorama News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tb2vuKIeJCo",
+            "name": "Today Big Breaking News LIVE : अभी सबसे बड़ी खबरें LIVE | Tiger Shroff Firing Accused Arrested",
+            "artist": "Zee News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "v7YvvlnZ07o",
+            "name": "🔴 LIVE | Trump’s Election Rallies Face Growing Opposition Chants | ARY News Live",
             "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "gCBt7tSEK74",
-            "name": "Headlines Now | 6 AM | 22-10-2026 | Sun News | Tamil News Today | Latest News",
-            "artist": "Sun News"
+            "videoId": "vVAlHcWB1zg",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GK8GHuzt64s",
-            "name": "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!",
-            "artist": "MIRROR NOW"
+            "videoId": "bkgeAFdra-I",
+            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২২.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "CXyyrhafi6g",
-            "name": "WORLD NEWS | 21ST OCTOBER 2026 | AIT LIVE",
-            "artist": "Africa Independent Television"
-        },
-        {
-            "mood": "storm",
-            "videoId": "at-ZGPqdexU",
-            "name": "ABC World News Tonight With David Muir 10/21/26 | ABC News Today October 21, 2026",
-            "artist": "Antra Hits"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bBRljU4qyaw",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 21, 2026",
-            "artist": "MF Records Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qg8x09OrZIA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক যুদ্ধের খবর"
-        },
-        {
-            "mood": "storm",
-            "videoId": "J3hegGUfkaw",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 22 October 2026 | NTV Latest News Update",
-            "artist": "NTV News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "isjVJ1pdKyo",
-            "name": "Yemen War: Houthis & Saudi Arabia War Update, Houthis Expose Saudi & America Defense System | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "OjcxT26YKUM",
+            "name": "Orphan Wasim Case in Multan | Big Resignation Hits PTI Amid Internal Rift | ARY News 8AM | 22 Oct 26",
+            "artist": "ARY News"
         }
     ],
     "sourceFilters": {
