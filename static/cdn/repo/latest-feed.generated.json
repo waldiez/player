@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-22T10:58:06.895Z",
+    "generatedAt": "2026-10-22T16:26:24.317Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SsES9QtuueA",
-            "name": "Kalimantan, Indonesia: Wildfire Nears Homes | Residents Keep Overnight Watch | World News",
-            "artist": "Asianet News English"
+            "videoId": "vb1L_-tfUXQ",
+            "name": "NDTV World Summit 2026: A World Between Orders",
+            "artist": "NDTV"
         },
         {
             "mood": "storm",
-            "videoId": "XW5oWaqX6as",
-            "name": "🔴 Manoj Jarange Patil Press Conference LIVE | 500 कोटी प्रकरणात काय पुरावे सादर करणार? #EknathShinde",
-            "artist": "Rajmudra News Live"
+            "videoId": "Wz8PSCYlUKo",
+            "name": "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "85KEbEVG_Lc",
-            "name": "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn",
-            "artist": "ET Now World"
+            "videoId": "G0oTJuKHl5s",
+            "name": "फ्रांस हिंसा पर ताजा अपडेट LIVE | France Violence | France Riots | Emmanuel Macron | NDTV",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "AE0MKEMUTKU",
-            "name": "Afternoon News ​|News updates Malayalam | News Updates | Kerala News | Breaking News Live | NewsLive",
-            "artist": "Manorama News"
+            "videoId": "YIz5ZNyw1J4",
+            "name": "LIVE🔴Shehbaz Sharif and Field Marshal Asim Munir in Peshawar | Iran Attack Date Revealed",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "tb2vuKIeJCo",
-            "name": "Today Big Breaking News LIVE : अभी सबसे बड़ी खबरें LIVE | Tiger Shroff Firing Accused Arrested",
-            "artist": "Zee News"
+            "videoId": "D7qJ-CFxpcs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "v7YvvlnZ07o",
-            "name": "🔴 LIVE | Trump’s Election Rallies Face Growing Opposition Chants | ARY News Live",
-            "artist": "ARY News"
+            "videoId": "YTJOuyAA_aM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Khobor Srot"
         },
         {
             "mood": "storm",
-            "videoId": "vVAlHcWB1zg",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "PB36ZDHhHic",
+            "name": "Amit Shah Big Statement News LIVE: 7 बजते ही पंजाब से आई बड़ी खबर, बीजेपी का गठबंधन? | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "bkgeAFdra-I",
-            "name": "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২২.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "yjmWRgwZphc",
+            "name": "ABC News Live Prime: Wednesday, October 21, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "OjcxT26YKUM",
-            "name": "Orphan Wasim Case in Multan | Big Resignation Hits PTI Amid Internal Rift | ARY News 8AM | 22 Oct 26",
-            "artist": "ARY News"
+            "videoId": "wrQyr7BRz9E",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (22.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "i_ynbuyjPxY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
