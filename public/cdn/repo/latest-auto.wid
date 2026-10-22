@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261022T162624.354Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261022T210513.732Z-l4t35t"
   type: "state"
-  created: "2026-10-22T16:26:24.354Z"
+  created: "2026-10-22T21:05:13.732Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261022T162624.354Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261022T210513.732Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "vb1L_-tfUXQ"
-        name: "NDTV World Summit 2026: A World Between Orders"
-        artist: "NDTV"
+        videoId: "GB0dgq49Xp0"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Wz8PSCYlUKo"
-        name: "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates"
-        artist: "ET Now"
+        videoId: "z4JHlrM0k5k"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "G0oTJuKHl5s"
-        name: "फ्रांस हिंसा पर ताजा अपडेट LIVE | France Violence | France Riots | Emmanuel Macron | NDTV"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YIz5ZNyw1J4"
-        name: "LIVE🔴Shehbaz Sharif and Field Marshal Asim Munir in Peshawar | Iran Attack Date Revealed"
-        artist: "NTV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "D7qJ-CFxpcs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YTJOuyAA_aM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Khobor Srot"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PB36ZDHhHic"
-        name: "Amit Shah Big Statement News LIVE: 7 बजते ही पंजाब से आई बड़ी खबर, बीजेपी का गठबंधन? | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "yjmWRgwZphc"
-        name: "ABC News Live Prime: Wednesday, October 21, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wrQyr7BRz9E"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (22.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        videoId: "drVoxLMZ1-A"
+        name: "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (22-10-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
         artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i_ynbuyjPxY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "EIi0cuZFwOQ"
+        name: "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PtAtIlH_dfM"
+        name: "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9TEw8FdqqBI"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hQ0LY108V6Q"
+        name: "🔴LIVE:  TN Weather Update | ஒரே நேரத்தில் இரட்டை புயல்கள்?"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HHujCT7lnTc"
+        name: "LIVE: Trump to Resume Iran Strikes After US Midterm Elections? | The Palki Sharma Show | IGR"
+        artist: "India Global Review"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nbw3CqnvXCk"
+        name: "Saudi Defence Ministry In Flames; Houthis Drop Bombs On MBS' Military Power Centre | Vantage"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TtVWQR7djlY"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 22 October 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WCMvPJWm7QY"
+        name: "Protests in recent days have turned violent - is Europe in crisis? | The Global Story"
+        artist: "BBC News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-22T16:26:24.354Z"
+  exported_at: "2026-10-22T21:05:13.732Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-22T16:26:24.317Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-22T21:05:13.706Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

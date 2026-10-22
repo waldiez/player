@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-22T16:26:24.317Z",
+    "generatedAt": "2026-10-22T21:05:13.706Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vb1L_-tfUXQ",
-            "name": "NDTV World Summit 2026: A World Between Orders",
-            "artist": "NDTV"
+            "videoId": "GB0dgq49Xp0",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "Wz8PSCYlUKo",
-            "name": "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates",
-            "artist": "ET Now"
+            "videoId": "z4JHlrM0k5k",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "G0oTJuKHl5s",
-            "name": "फ्रांस हिंसा पर ताजा अपडेट LIVE | France Violence | France Riots | Emmanuel Macron | NDTV",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YIz5ZNyw1J4",
-            "name": "LIVE🔴Shehbaz Sharif and Field Marshal Asim Munir in Peshawar | Iran Attack Date Revealed",
-            "artist": "NTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "D7qJ-CFxpcs",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YTJOuyAA_aM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Khobor Srot"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PB36ZDHhHic",
-            "name": "Amit Shah Big Statement News LIVE: 7 बजते ही पंजाब से आई बड़ी खबर, बीजेपी का गठबंधन? | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yjmWRgwZphc",
-            "name": "ABC News Live Prime: Wednesday, October 21, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wrQyr7BRz9E",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (22.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "videoId": "drVoxLMZ1-A",
+            "name": "🔴 LIVE : News 1st: Prime Time Sinhala News - 10 PM | (22-10-2026) රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
             "artist": "Newsfirst Sri Lanka"
         },
         {
             "mood": "storm",
-            "videoId": "i_ynbuyjPxY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "EIi0cuZFwOQ",
+            "name": "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PtAtIlH_dfM",
+            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9TEw8FdqqBI",
+            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hQ0LY108V6Q",
+            "name": "🔴LIVE:  TN Weather Update | ஒரே நேரத்தில் இரட்டை புயல்கள்?",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HHujCT7lnTc",
+            "name": "LIVE: Trump to Resume Iran Strikes After US Midterm Elections? | The Palki Sharma Show | IGR",
+            "artist": "India Global Review"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nbw3CqnvXCk",
+            "name": "Saudi Defence Ministry In Flames; Houthis Drop Bombs On MBS' Military Power Centre | Vantage",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TtVWQR7djlY",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 22 October 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WCMvPJWm7QY",
+            "name": "Protests in recent days have turned violent - is Europe in crisis? | The Global Story",
+            "artist": "BBC News"
         }
     ],
     "sourceFilters": {
