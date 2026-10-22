@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261021T210607.033Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261022T025156.850Z-l4t35t"
   type: "state"
-  created: "2026-10-21T21:06:07.033Z"
+  created: "2026-10-22T02:51:56.850Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261021T210607.033Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261022T025156.850Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "NO7Aic9ERbw"
-        name: "🔴LIVE : Rain Alert | TN Rains | வங்க கடலில் உருவெடுத்தது.. வலுவாக சுற்றும் சிஸ்டம்.. புயலா?"
-        artist: "Thanthi TV"
+        videoId: "aH1WS1CMBOs"
+        name: "LIVE: Can Egypt Rescue Saudi? Houthis Issue Ultimatum After El Sisi Alarming War Pledge | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uIRkHTGRIgc"
-        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (21.10.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ifqkOmZ1bso"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "priTTJfpZvo"
-        name: "Big Attack on Houthis LIVE : सबसे बड़ा धमाका.. 900 की मौत ने पूरी दुनिया को डराया! | War News"
-        artist: "Zee News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bUCIb3VMc3E"
-        name: "World News LIVE: 'World War 3' Warning? Emergency Speech Sends Shockwaves Amid Middle East Crisis"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NA-lBWF9PZg"
-        name: "🔴LIVE: மீண்டும் பேய்மழையா? “டிசம்பர் வரை புயல்கள்” அடுத்தடுத்து காத்திருக்கும் அதிர்ச்சி"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mHfz5IUFjOQ"
-        name: "Today Big Breaking News LIVE : Saurav Das-Ashutosh Ranka | Tiger Shroff Firing Case |Salman | France"
-        artist: "Zee News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "BRc0-A3orA0"
-        name: "LIVE: France to Deploy Soldiers Amid Fears of More Weekend Riots | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bOzA_mFVqlY"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VOgKVko-DHQ"
-        name: "France Protest LIVE: Police Clash With Protesters | Paris In Flames | Tear Gas Fills Paris Streets"
+        videoId: "AaqEbHBnmwI"
+        name: "Trump LIVE | Donald Trump Makes Big Announcement | Trump Latest News Live | Trump Speech | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_vcC7KNLzkA"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 21 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "AxC1mB-ozJc"
+        name: "🔴LIVE : සිරස පත්තරේ | Sirasa Paththare | 22.10.2026"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BIw7mZTe_IY"
+        name: "Reported Attack on King Fahd International Airport in Saudi Arabia | 4:30 AM News Updates |"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "gCBt7tSEK74"
+        name: "Headlines Now | 6 AM | 22-10-2026 | Sun News | Tamil News Today | Latest News"
+        artist: "Sun News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GK8GHuzt64s"
+        name: "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CXyyrhafi6g"
+        name: "WORLD NEWS | 21ST OCTOBER 2026 | AIT LIVE"
+        artist: "Africa Independent Television"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "at-ZGPqdexU"
+        name: "ABC World News Tonight With David Muir 10/21/26 | ABC News Today October 21, 2026"
+        artist: "Antra Hits"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "bBRljU4qyaw"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 21, 2026"
+        artist: "MF Records Official"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qg8x09OrZIA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক যুদ্ধের খবর"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "J3hegGUfkaw"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 22 October 2026 | NTV Latest News Update"
+        artist: "NTV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "isjVJ1pdKyo"
+        name: "Yemen War: Houthis & Saudi Arabia War Update, Houthis Expose Saudi & America Defense System | N18G"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-21T21:06:07.033Z"
+  exported_at: "2026-10-22T02:51:56.850Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-21T21:06:06.987Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-22T02:51:56.804Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
