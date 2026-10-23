@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261023T025538.916Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261023T105118.526Z-l4t35t"
   type: "state"
-  created: "2026-10-23T02:55:38.916Z"
+  created: "2026-10-23T10:51:18.526Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261023T025538.916Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261023T105118.526Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "e75S5s9CTQw"
-        name: "Breaking News LIVE: Trump Accepts Iran's Offer; US To Ditch Netanyahu? | Trump News | US News LIVE"
+        videoId: "FxrGaOVf3uQ"
+        name: "WORLD NEWS LIVE: Iran’s Stark Warning to the US Sparks Global Reactions | Iran FM press conference"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jzRuGFa4CL0"
-        name: "ABC World News Tonight With David Muir 10/22/26 | ABC World News Tonight October 22, 2026"
-        artist: "Folk Tune - RJ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "R2OEJ0Bc9W0"
-        name: "🔴LIVE: சிறுமி எங்கே..?  - திடுக்கிடும் புதிய தகவல்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iJfxxpJGk3M"
-        name: "PARIS LIVE: FRANCE IN CHAOS! Massive Anti-Government Protests Rock Paris, LOCKDOWN NEXT?"
+        videoId: "3XCQV_q4Twc"
+        name: "France Protests LIVE: Direct Street Footage and Breaking World News | Live Street Footage"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Ff_QaTF7HJQ"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026"
-        artist: "MF Records Official"
+        videoId: "yYMlvoS8WPU"
+        name: "Today News LIVE: सुबह की 100 की खबरें, तिब्बत में भूकंप, 16 लोगों की मौत | 100 Khabar | Viral Video"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "u2JUdLdtrjI"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026"
-        artist: "MF Records Plus"
+        videoId: "N_ZiUIGCQ3A"
+        name: "🔴Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 23.10.2026"
+        artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nlIKXm5rpq8"
-        name: "LIVE | France Protest: फ्रांस में क्यों हो रहे प्रदर्शन? | France News | World News| Trump vs Macron"
-        artist: "MoneyControl Hindi"
+        videoId: "szCvEB10-HU"
+        name: "The Palki Sharma Show | October 22, 2026 | IGR | India Global Review"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vOWtK5HIbtM"
-        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 23 October 2026 | NTV Latest News Update"
-        artist: "NTV News"
+        videoId: "IvKhNoLXJE0"
+        name: "🔴LIVE: Tn Weather Update | TN Rainfall | சென்னைக்கு அவசர அலர்ட்"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ajzFQxnv7sU"
-        name: "LIVE: PM Narendra Modi's Address At The NDTV World Summit 2026"
-        artist: "DD India"
+        videoId: "AnFygv7AMCU"
+        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২৩.১০.২০২৬ | Today News | Breaking News | Ajker News | ATN Bangla"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "abdk39j3Sg8"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
+        videoId: "QbThfpZuyM0"
+        name: "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WrbE0rBFeJU"
-        name: "LIVE: PM Narendra Modi Addresses NDTV World Summit 2026 | New Delhi | BJP"
-        artist: "Bharatiya Janata Party"
+        videoId: "CCQef-zVITo"
+        name: "ദൃശ്യങ്ങൾ വൈറൽ I world news update I NEWS INDIA MALAYALAM"
+        artist: "NEWS INDIA MALAYALAM"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-23T02:55:38.916Z"
+  exported_at: "2026-10-23T10:51:18.526Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-23T02:55:38.867Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-23T10:51:18.484Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
