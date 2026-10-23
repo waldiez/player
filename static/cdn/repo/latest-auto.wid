@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261023T105118.526Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261023T161524.092Z-l4t35t"
   type: "state"
-  created: "2026-10-23T10:51:18.526Z"
+  created: "2026-10-23T16:15:24.092Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261023T105118.526Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261023T161524.092Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "FxrGaOVf3uQ"
-        name: "WORLD NEWS LIVE: Iran’s Stark Warning to the US Sparks Global Reactions | Iran FM press conference"
+        videoId: "BmAmRBa5Zxc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5FdXnhATqCc"
+        name: "World News LIVE | Trump–Iran SUPER DEAL? Vance Confirms LIVE | Trump News Today | US-Iran Peace Deal"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3XCQV_q4Twc"
-        name: "France Protests LIVE: Direct Street Footage and Breaking World News | Live Street Footage"
-        artist: "MIRROR NOW"
+        videoId: "16IxLgJQ8ro"
+        name: "LIVE Saudi Houthis War, Will Pakistan & Turkey Help Saudi Arabia? | Houthis Continue Attacks | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yYMlvoS8WPU"
-        name: "Today News LIVE: सुबह की 100 की खबरें, तिब्बत में भूकंप, 16 लोगों की मौत | 100 Khabar | Viral Video"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N_ZiUIGCQ3A"
-        name: "🔴Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 23.10.2026"
+        videoId: "rn6ytTH8-H8"
+        name: "Live @ 6 | Saudiയിൽ നടുക്കം, ഭീതി: Indiaക്കാർ ജാഗ്രത പാലിക്കണമെന്ന് മുന്നറിയിപ്പ് | Saudi Houthi War"
         artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "szCvEB10-HU"
-        name: "The Palki Sharma Show | October 22, 2026 | IGR | India Global Review"
-        artist: "India Global Review"
+        videoId: "o6_9k1UctzY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IvKhNoLXJE0"
-        name: "🔴LIVE: Tn Weather Update | TN Rainfall | சென்னைக்கு அவசர அலர்ட்"
-        artist: "Sathiyam News"
+        videoId: "uX0YKguG3V0"
+        name: "Aaj Ki Taaza Khabar LIVE: 23 Oct 2026 | Tiger Shroff | Rahul Gandhi | France Protest | CJP Leader"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AnFygv7AMCU"
-        name: "এটিএন বাংলার সকাল ১০ টার সংবাদ । ২৩.১০.২০২৬ | Today News | Breaking News | Ajker News | ATN Bangla"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QbThfpZuyM0"
-        name: "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CCQef-zVITo"
-        name: "ദൃശ്യങ്ങൾ വൈറൽ I world news update I NEWS INDIA MALAYALAM"
-        artist: "NEWS INDIA MALAYALAM"
+        videoId: "5-DaI78uWwQ"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-23T10:51:18.526Z"
+  exported_at: "2026-10-23T16:15:24.092Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-23T10:51:18.484Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-23T16:15:24.035Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
