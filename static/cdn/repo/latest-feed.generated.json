@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-23T16:15:24.035Z",
+    "generatedAt": "2026-10-23T20:51:57.693Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BmAmRBa5Zxc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "DrzbGx6Eh8U",
+            "name": "BREAKING NEWS LIVE: Marco Rubio Leaves White House Briefing Midway, Leaving Reporters With Questions",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "5FdXnhATqCc",
-            "name": "World News LIVE | Trump–Iran SUPER DEAL? Vance Confirms LIVE | Trump News Today | US-Iran Peace Deal",
-            "artist": "Times Now"
+            "videoId": "4xfMAu66enE",
+            "name": "🔴LIVE: Heavy Rain Alert | சென்னை உட்பட 8 Districts-ல்வந்த திடீர் அறிவிப்பு",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "16IxLgJQ8ro",
-            "name": "LIVE Saudi Houthis War, Will Pakistan & Turkey Help Saudi Arabia? | Houthis Continue Attacks | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "6VbItCmDPAQ",
+            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (23.10.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "rn6ytTH8-H8",
-            "name": "Live @ 6 | Saudiയിൽ നടുക്കം, ഭീതി: Indiaക്കാർ ജാഗ്രത പാലിക്കണമെന്ന് മുന്നറിയിപ്പ് | Saudi Houthi War",
-            "artist": "News18 Kerala"
+            "videoId": "4ytvG-nH6F8",
+            "name": "🔴LIVE: Gingee Girl Missing Case | சிறுமி மாயம் - வெளியான புது தகவல்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "o6_9k1UctzY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "KRAjyPOkpts",
+            "name": "🔴LIVE: America | Iran | War | ''சர்வ நாசம் ஏற்பட போகுது'' - பதற்றத்தில் உலகம்",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "uX0YKguG3V0",
-            "name": "Aaj Ki Taaza Khabar LIVE: 23 Oct 2026 | Tiger Shroff | Rahul Gandhi | France Protest | CJP Leader",
-            "artist": "Times Now Navbharat"
+            "videoId": "1anz-7FOuYM",
+            "name": "Iran America War LIVE: ईरान-अमेरिका जंग की खबरें| Trump | India US Trade Deal | Houthi attack | N18G",
+            "artist": "News18 Bihar Jharkhand"
         },
         {
             "mood": "storm",
-            "videoId": "5-DaI78uWwQ",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "97aF8a17ebs",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 23 October 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pXONOLzeuuA",
+            "name": "LIVE: Never-Before-Seen Images Expose Iran’s Damage at US Bases, Troops Recount Horror | Firstpost",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
