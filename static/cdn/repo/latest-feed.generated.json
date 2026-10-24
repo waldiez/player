@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-24T10:05:43.631Z",
+    "generatedAt": "2026-10-24T15:13:13.176Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "5D1l8x2FaEI",
-            "name": "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Gq_lxQuKVTc",
-            "name": "আজকের আন্তর্জাতিক সব খবর, ২৪ অক্টোবর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |",
-            "artist": "World News Ira"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uBUVSVETNvM",
-            "name": "Trump on Iran LIVE: Donald Trump Makes Major Announcement | Iran War News | US News LIVE",
+            "videoId": "NdsCXPcoDqg",
+            "name": "US-IRAN WAR LIVE | President Trump Greenlights Massive Military Force to Confront Iran | WORLD NEWS",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GlNcvz2oLKw",
-            "name": "LIVE: Donald Trump's Shocking Remark On National Emergency | Trump Latest News Live | Trump Speech",
+            "videoId": "v7U_Xscj3NA",
+            "name": "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "DYZgvUSZK3c",
-            "name": "India-China Faceoff LIVE: Border Tensions Reignite, Faceoffs Reported in Arunachal | Vantage",
-            "artist": "Firstpost"
+            "videoId": "9jQGfzTTz8Y",
+            "name": "Live: India Vs New Zealand, 2nd T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
+            "artist": "CricTalks"
         },
         {
             "mood": "storm",
-            "videoId": "nCEd67F3NXk",
-            "name": "TRUMP LIVE: IRAN PEACE DEAL COLLAPSES?! Trump Rejects Tehran's Demands | World News Live",
-            "artist": "ET Now World"
+            "videoId": "7ePuOBV0euU",
+            "name": "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "iMv68E3JOnU",
-            "name": "Jammu Kashmir News LIVE: Dry weather to prevail in Kashmir till October-end: MeT | Omar Abdullah",
+            "videoId": "TYNR9tJyV8s",
+            "name": "LIVE: 'Direct Houthi Hit': Saudi Defence Ministry Bombed; MBS' Military Fails To Block Attack | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "STE_-MxjE14",
-            "name": "US-Iran War: 'Alien-Like' Tehran's Mystery Drone 'Spooks' Trump's Troops | Vantage",
-            "artist": "Firstpost"
+            "videoId": "xcl4vA9uncs",
+            "name": "World News LIVE | Trump–Iran SUPER DEAL? Vance Confirms LIVE | Trump News Today | US-Iran Peace Deal",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ipDrwOgPVvA",
+            "name": "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zSvka3Txaxg",
+            "name": "🟢 দুপুরের খবর | Dupurer Khobor | 24 October 2026 | NTV Latest News Update",
+            "artist": "NTV News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bdXSjxabflY",
+            "name": "Jordan Church Attack: 7 Killed, Dozens Injured | 1PM Headlines Geo News (24 Oct 2026)",
+            "artist": "Geo News"
         }
     ],
     "sourceFilters": {
