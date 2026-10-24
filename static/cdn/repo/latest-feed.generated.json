@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-24T15:13:13.176Z",
+    "generatedAt": "2026-10-24T20:03:40.603Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "NdsCXPcoDqg",
-            "name": "US-IRAN WAR LIVE | President Trump Greenlights Massive Military Force to Confront Iran | WORLD NEWS",
-            "artist": "Times Now"
+            "videoId": "Be1DxQTQzFA",
+            "name": "🔴LIVE: இயற்கையின் கோரத்தாண்டவம்..தலைகீழான ஊட்டி - நடந்தது என்ன..?",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "v7U_Xscj3NA",
-            "name": "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "9jQGfzTTz8Y",
-            "name": "Live: India Vs New Zealand, 2nd T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
-            "artist": "CricTalks"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7ePuOBV0euU",
-            "name": "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TYNR9tJyV8s",
-            "name": "LIVE: 'Direct Houthi Hit': Saudi Defence Ministry Bombed; MBS' Military Fails To Block Attack | N18G",
+            "videoId": "wOZmvQMdh3w",
+            "name": "Can Iran Negotiate Between Saudi Arabia and the Houthis? U.S. Attack Threat | Iran vs Israel LIVE",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "xcl4vA9uncs",
-            "name": "World News LIVE | Trump–Iran SUPER DEAL? Vance Confirms LIVE | Trump News Today | US-Iran Peace Deal",
+            "videoId": "I01cxnpAZ8M",
+            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ipDrwOgPVvA",
-            "name": "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?",
-            "artist": "Times Now"
+            "videoId": "RAgj6GfDwzY",
+            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "zSvka3Txaxg",
-            "name": "🟢 দুপুরের খবর | Dupurer Khobor | 24 October 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "z1pIj7rUYN8",
+            "name": "Today's Latest News LIVE | આજના સૌથી મોટા ગુજરાતી સમાચાર | Fatafat News | Weather News | News18",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "bdXSjxabflY",
-            "name": "Jordan Church Attack: 7 Killed, Dozens Injured | 1PM Headlines Geo News (24 Oct 2026)",
-            "artist": "Geo News"
+            "videoId": "Nt3kYv3rc1U",
+            "name": "Breaking News LIVE | US TAKEOVER OF IRAN? Trump’s Latest Statement LIVE |  US IRAN NEWS LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "148BGDTIORg",
+            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (24.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {

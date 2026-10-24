@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261024T151313.449Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261024T200340.643Z-l4t35t"
   type: "state"
-  created: "2026-10-24T15:13:13.449Z"
+  created: "2026-10-24T20:03:40.643Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261024T151313.449Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261024T200340.643Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "NdsCXPcoDqg"
-        name: "US-IRAN WAR LIVE | President Trump Greenlights Massive Military Force to Confront Iran | WORLD NEWS"
-        artist: "Times Now"
+        videoId: "Be1DxQTQzFA"
+        name: "🔴LIVE: இயற்கையின் கோரத்தாண்டவம்..தலைகீழான ஊட்டி - நடந்தது என்ன..?"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v7U_Xscj3NA"
-        name: "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "9jQGfzTTz8Y"
-        name: "Live: India Vs New Zealand, 2nd T20I, 2026 Series | Live Match Today Score Commentary | CricTalks"
-        artist: "CricTalks"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7ePuOBV0euU"
-        name: "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TYNR9tJyV8s"
-        name: "LIVE: 'Direct Houthi Hit': Saudi Defence Ministry Bombed; MBS' Military Fails To Block Attack | N18G"
+        videoId: "wOZmvQMdh3w"
+        name: "Can Iran Negotiate Between Saudi Arabia and the Houthis? U.S. Attack Threat | Iran vs Israel LIVE"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xcl4vA9uncs"
-        name: "World News LIVE | Trump–Iran SUPER DEAL? Vance Confirms LIVE | Trump News Today | US-Iran Peace Deal"
+        videoId: "I01cxnpAZ8M"
+        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ipDrwOgPVvA"
-        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
-        artist: "Times Now"
+        videoId: "RAgj6GfDwzY"
+        name: "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zSvka3Txaxg"
-        name: "🟢 দুপুরের খবর | Dupurer Khobor | 24 October 2026 | NTV Latest News Update"
-        artist: "NTV News"
+        videoId: "z1pIj7rUYN8"
+        name: "Today's Latest News LIVE | આજના સૌથી મોટા ગુજરાતી સમાચાર | Fatafat News | Weather News | News18"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bdXSjxabflY"
-        name: "Jordan Church Attack: 7 Killed, Dozens Injured | 1PM Headlines Geo News (24 Oct 2026)"
-        artist: "Geo News"
+        videoId: "Nt3kYv3rc1U"
+        name: "Breaking News LIVE | US TAKEOVER OF IRAN? Trump’s Latest Statement LIVE |  US IRAN NEWS LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "148BGDTIORg"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (24.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-24T15:13:13.449Z"
+  exported_at: "2026-10-24T20:03:40.643Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-24T15:13:13.176Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-24T20:03:40.603Z"
+  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
