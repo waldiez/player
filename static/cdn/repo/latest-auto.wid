@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261025T024446.468Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261025T103240.380Z-l4t35t"
   type: "state"
-  created: "2026-10-25T02:44:46.468Z"
+  created: "2026-10-25T10:32:40.380Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T024446.468Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T103240.380Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OUKeu9GB4zg"
-        name: "KASH PATEL LIVE: Trump Assassination Plot BOMBSHELL! FBI Director Exposes Powerful Names? | US NEWS"
+        videoId: "ytyJvCcfacE"
+        name: "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FiLzGqilT4A"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZcBWf0g9qG0"
-        name: "🔴LIVE: America | Iran | War | கவுண்ட்டவுன் ஆரம்பம்..? - அலறும் உலகம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "FklIUvgHTS4"
-        name: "LIVE: ABC News Live - Saturday, October 24"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "24l8tx-RbKA"
+        videoId: "eyAtOAcr-GQ"
         name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H1OS15fCFUY"
-        name: "🔴LIVE: சிறுமி இருக்கும் இடம்..? - பக்கத்து வீட்டு பெண் சொன்ன வார்த்தை - அதிர்ச்சி திருப்பம்"
+        videoId: "TkmrkKTxp1A"
+        name: "Today 100 News LIVE: अभी-अभी की 100 बड़ी खबरें, सीधे LIVE | Headlines Today | Breaking |100 Khabar"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PqN8kgX7TIU"
+        name: "LIVE | Kim Jong Un Visits China Border City Via New Bridge as Xi Jinping Sends Greetings"
+        artist: "Firstpost"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AGk8tpzYnPo"
+        name: "🔴Manoj Jarange Patil LIVE ५०० कोटींची ऑडिओ क्लिप नेमकी कधीची? | Manoj Jarange Patil Latest News"
+        artist: "Rajmudra News Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K3eRwRDptRA"
+        name: "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "m0faYJ_B5pc"
+        name: "FRANCE Protest LIVE: Thousands March in French Cities Amid 70,000+ Heavy Security | Paris | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UPbB-NpQ_bA"
+        name: "Decision BC: Latest news and updates on British Columbia provincial election | LIVE"
+        artist: "Global News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q5W8Gt_zk8U"
+        name: "Today Headlines | 25 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "y3ZPaSfGfsc"
-        name: "Starlink speed restored as Ukraine faces new Russian strikes | World News Tonight"
-        artist: "TVP WORLD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iTjCLn_oTs0"
-        name: "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "tx4LaK15yH0"
+        name: "Jammu Kashmir News LIVE: Omar Abdullah, Cabinet Expansion, PDP & BJP attack NC | Farooq Abdullah"
+        artist: "News18 Urdu"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-25T02:44:46.468Z"
+  exported_at: "2026-10-25T10:32:40.380Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-25T02:44:46.411Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: _cnGX0jzRv8 (recent, keywords:3, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-10-25T10:32:40.347Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
