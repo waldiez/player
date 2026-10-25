@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261025T103240.380Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261025T152324.673Z-l4t35t"
   type: "state"
-  created: "2026-10-25T10:32:40.380Z"
+  created: "2026-10-25T15:23:24.673Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T103240.380Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T152324.673Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ytyJvCcfacE"
-        name: "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eyAtOAcr-GQ"
+        videoId: "u6id2etkeDU"
         name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TkmrkKTxp1A"
-        name: "Today 100 News LIVE: अभी-अभी की 100 बड़ी खबरें, सीधे LIVE | Headlines Today | Breaking |100 Khabar"
-        artist: "ABP NEWS"
+        videoId: "-oZNC_QWYuc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PqN8kgX7TIU"
-        name: "LIVE | Kim Jong Un Visits China Border City Via New Bridge as Xi Jinping Sends Greetings"
-        artist: "Firstpost"
+        videoId: "GV60oO4CjOU"
+        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AGk8tpzYnPo"
-        name: "🔴Manoj Jarange Patil LIVE ५०० कोटींची ऑडिओ क्लिप नेमकी कधीची? | Manoj Jarange Patil Latest News"
-        artist: "Rajmudra News Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K3eRwRDptRA"
-        name: "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m0faYJ_B5pc"
-        name: "FRANCE Protest LIVE: Thousands March in French Cities Amid 70,000+ Heavy Security | Paris | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UPbB-NpQ_bA"
-        name: "Decision BC: Latest news and updates on British Columbia provincial election | LIVE"
-        artist: "Global News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "q5W8Gt_zk8U"
-        name: "Today Headlines | 25 OCT 2026 | Noon Headlines | Sathiyam TV | Afternoon Headlines | Latest Update"
+        videoId: "5M-tP_zSSvU"
+        name: "LIVE: Chef Damu Passed Away | செஃப் தாமு திடீர் மரணம்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tx4LaK15yH0"
-        name: "Jammu Kashmir News LIVE: Omar Abdullah, Cabinet Expansion, PDP & BJP attack NC | Farooq Abdullah"
-        artist: "News18 Urdu"
+        videoId: "7v9tUl3_pc0"
+        name: "🔴LIVE: பிரபல சமையல் கலை நிபுணர் CHEF DHAMU மறைவு.. பிரபலங்கள் அஞ்சலி | Rip Chef Damu"
+        artist: "PT Spotlight"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i4o1Qph0lZA"
+        name: "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YjHhfMvqLoI"
+        name: "আন্তর্জাতিক বাংলা খবর BBC World News 26 October 2026|| World News Bangla || International News Today"
+        artist: "job preparation kj"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2u_TSaN6pfA"
+        name: "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zhp8XRSgSyw"
+        name: "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wvz5226aXNk"
+        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-25T10:32:40.380Z"
+  exported_at: "2026-10-25T15:23:24.673Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-25T10:32:40.347Z"
+  source_generated_at: "2026-10-25T15:23:24.633Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
