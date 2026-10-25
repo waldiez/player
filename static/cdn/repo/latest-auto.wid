@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261025T152324.673Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261025T201549.784Z-l4t35t"
   type: "state"
-  created: "2026-10-25T15:23:24.673Z"
+  created: "2026-10-25T20:15:49.784Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T152324.673Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261025T201549.784Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "u6id2etkeDU"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-oZNC_QWYuc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GV60oO4CjOU"
-        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "5M-tP_zSSvU"
-        name: "LIVE: Chef Damu Passed Away | செஃப் தாமு திடீர் மரணம்"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7v9tUl3_pc0"
-        name: "🔴LIVE: பிரபல சமையல் கலை நிபுணர் CHEF DHAMU மறைவு.. பிரபலங்கள் அஞ்சலி | Rip Chef Damu"
-        artist: "PT Spotlight"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "i4o1Qph0lZA"
-        name: "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YjHhfMvqLoI"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 26 October 2026|| World News Bangla || International News Today"
-        artist: "job preparation kj"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2u_TSaN6pfA"
-        name: "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech"
+        videoId: "CUuz5-gKSpI"
+        name: "Trump LIVE: Ilhan Omar in Jail? Trump’s Latest Speech Sparks Questions | US News LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zhp8XRSgSyw"
-        name: "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE"
+        videoId: "gc9OXCMlzh0"
+        name: "LIVE: இன்று இரவு முதல் - மழையின் உக்கிர தாண்டவம் - அலர்ட் மக்களே!"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JiZgajmMbD0"
+        name: "France Protests LIVE 🔴: Nationwide Marches, Clashes & Heavy Security | World News"
+        artist: "Asianet News English"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "aj7Frl8DOVY"
+        name: "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v1pjP0NbnQg"
+        name: "Good Morning America Full Broadcast — Sunday, October 25, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BM1TguuHX1Y"
+        name: "LIVE: 'Direct Houthi Hit': Saudi Defence Ministry Bombed; MBS' Military Fails To Block Attack | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8k2kZzlyw_0"
+        name: "LIVE: हूतियों से सऊदी अरब का बदला!LIVE | Saudi Arabia Under Attack | Houthi |War News| Breaking News"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yzREGHgaGFc"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : काशी में Modi-Yogi! | Akhilesh | Anant Singh"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2ZPAQfmYqf4"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (25.10.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Sf_v4NXHDuI"
+        name: "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wvz5226aXNk"
-        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
-        artist: "Times Now"
+        videoId: "2ScuJzX5yYY"
+        name: "LIVE: Houthis Unleash Missile and Drone Attacks on Saudi-Backed Forces in Yemen | Qahira | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cL367Ni0TXw"
+        name: "Live তবে কি লীগের খেলা শুরু? | Sheikh Hasina's News | Bangladesh Latest News"
+        artist: "Bangladesh News Alert"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-25T15:23:24.673Z"
+  exported_at: "2026-10-25T20:15:49.784Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-25T15:23:24.633Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-25T20:15:49.713Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
