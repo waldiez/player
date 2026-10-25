@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-24T20:03:40.603Z",
+    "generatedAt": "2026-10-25T02:44:46.411Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,45 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Be1DxQTQzFA",
-            "name": "🔴LIVE: இயற்கையின் கோரத்தாண்டவம்..தலைகீழான ஊட்டி - நடந்தது என்ன..?",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wOZmvQMdh3w",
-            "name": "Can Iran Negotiate Between Saudi Arabia and the Houthis? U.S. Attack Threat | Iran vs Israel LIVE",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I01cxnpAZ8M",
-            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
+            "videoId": "OUKeu9GB4zg",
+            "name": "KASH PATEL LIVE: Trump Assassination Plot BOMBSHELL! FBI Director Exposes Powerful Names? | US NEWS",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "RAgj6GfDwzY",
-            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
-            "artist": "MIRROR NOW"
+            "videoId": "FiLzGqilT4A",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "z1pIj7rUYN8",
-            "name": "Today's Latest News LIVE | આજના સૌથી મોટા ગુજરાતી સમાચાર | Fatafat News | Weather News | News18",
+            "videoId": "ZcBWf0g9qG0",
+            "name": "🔴LIVE: America | Iran | War | கவுண்ட்டவுன் ஆரம்பம்..? - அலறும் உலகம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FklIUvgHTS4",
+            "name": "LIVE: ABC News Live - Saturday, October 24",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "24l8tx-RbKA",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H1OS15fCFUY",
+            "name": "🔴LIVE: சிறுமி இருக்கும் இடம்..? - பக்கத்து வீட்டு பெண் சொன்ன வார்த்தை - அதிர்ச்சி திருப்பம்",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "y3ZPaSfGfsc",
+            "name": "Starlink speed restored as Ukraine faces new Russian strikes | World News Tonight",
+            "artist": "TVP WORLD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "_cnGX0jzRv8",
+            "name": "Papua New Guinea vs Samoa LIVE | Rugby League World Cup 2026",
+            "artist": "ITV Blink"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iTjCLn_oTs0",
+            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati",
             "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nt3kYv3rc1U",
-            "name": "Breaking News LIVE | US TAKEOVER OF IRAN? Trump’s Latest Statement LIVE |  US IRAN NEWS LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "148BGDTIORg",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (24.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
         }
     ],
     "sourceFilters": {
