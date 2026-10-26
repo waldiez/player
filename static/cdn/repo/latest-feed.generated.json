@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-25T20:15:49.713Z",
+    "generatedAt": "2026-10-26T02:42:29.324Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "CUuz5-gKSpI",
-            "name": "Trump LIVE: Ilhan Omar in Jail? Trump’s Latest Speech Sparks Questions | US News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "gc9OXCMlzh0",
-            "name": "LIVE: இன்று இரவு முதல் - மழையின் உக்கிர தாண்டவம் - அலர்ட் மக்களே!",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JiZgajmMbD0",
-            "name": "France Protests LIVE 🔴: Nationwide Marches, Clashes & Heavy Security | World News",
-            "artist": "Asianet News English"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aj7Frl8DOVY",
-            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "v1pjP0NbnQg",
-            "name": "Good Morning America Full Broadcast — Sunday, October 25, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "BM1TguuHX1Y",
-            "name": "LIVE: 'Direct Houthi Hit': Saudi Defence Ministry Bombed; MBS' Military Fails To Block Attack | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8k2kZzlyw_0",
-            "name": "LIVE: हूतियों से सऊदी अरब का बदला!LIVE | Saudi Arabia Under Attack | Houthi |War News| Breaking News",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yzREGHgaGFc",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : काशी में Modi-Yogi! | Akhilesh | Anant Singh",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2ZPAQfmYqf4",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (25.10.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Sf_v4NXHDuI",
-            "name": "JD Vance LIVE: Iran-US War Is Over? Vance Drops Major Peace Deal Bombshell | World News LIVE",
+            "videoId": "wvz5226aXNk",
+            "name": "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "2ScuJzX5yYY",
-            "name": "LIVE: Houthis Unleash Missile and Drone Attacks on Saudi-Backed Forces in Yemen | Qahira | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "GdcMVEAsFZU",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 25, 2026",
+            "artist": "MF Entertainment Official"
         },
         {
             "mood": "storm",
-            "videoId": "cL367Ni0TXw",
-            "name": "Live তবে কি লীগের খেলা শুরু? | Sheikh Hasina's News | Bangladesh Latest News",
-            "artist": "Bangladesh News Alert"
+            "videoId": "82qZPLRDRI0",
+            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YIO_WT0wsz8",
+            "name": "LIVE: ABC News Live - Sunday, October 25",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "S-MukqgoDd8",
+            "name": "Watch LIVE: Pentagon Claims Massive Victory Over Iran | Pentagon Huge Bombshell Speech LIVE",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZDaSVmP6lC8",
+            "name": "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SjlbKy5nOJ4",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
