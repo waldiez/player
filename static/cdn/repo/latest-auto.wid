@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261026T120404.346Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261026T221021.040Z-l4t35t"
   type: "state"
-  created: "2026-10-26T12:04:04.346Z"
+  created: "2026-10-26T22:10:21.040Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261026T120404.346Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261026T221021.040Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "F5GKiFjAaOc"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.10.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eQQR5wX5wmE"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "x7l_wmhNWDA"
-        name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O-bqhNBubQk"
-        name: "Aaj Ki Taaza Khabar LIVE: 26 Oct 2026 | Kharge On PM Modi | Rahul Gandhi | Breaking News | CJP"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oXdcZopdq_I"
-        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TlAcLWXE6MI"
-        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
+        videoId: "MjzbYmKTBgA"
+        name: "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6idOQiRlrQQ"
-        name: "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE"
+        videoId: "wg4lqdEtrgs"
+        name: "🔴LIVE: আজকের গরম আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Khobor Srot"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "8WVjwjQdIjY"
+        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3jlQqdaAYKw"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (26.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "REbuFMV_zm0"
+        name: "Trump LIVE: US Troops to Invade Iran? Major Iran War Announcement | Breaking News | World News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SRqeMkUxVig"
-        name: "LIVE: 'World WAR III...', Trump's HUGE WARNING To EUROPE; Big Announcements On Ukraine, Iran"
-        artist: "Times Now"
+        videoId: "xCiPl3N4UdY"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CdXLDAiYGDg"
-        name: "Anant Singh News LIVE : अनंत सिंह का बड़ा ऐलान, क्या RJD में होंगे शामिल? | JDU | Nitish Kumar"
-        artist: "NDTV India"
+        videoId: "lzcv3LIx69E"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JGWl_fdWZMA"
-        name: "Big News from Iran: Regional Security Talks in Tehran Today | 12PM Headlines Geo News (26 Oct2026)"
-        artist: "Geo News"
+        videoId: "aAlRZQ4EsZA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Global News Bangla tv"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rgVbcUDC8cM"
-        name: "Today 100 News LIVE: आज की TOP 100 देखिए फटाफट | Headline | Breaking | 100 Badi Khabar | Superfast"
-        artist: "ABP NEWS"
+        videoId: "bvISllrGakQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "বিশ্বদৃষ্টি 🌍"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-26T12:04:04.346Z"
+  exported_at: "2026-10-26T22:10:21.040Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-26T12:04:04.299Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-26T22:10:20.995Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
