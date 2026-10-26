@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261026T024229.374Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261026T120404.346Z-l4t35t"
   type: "state"
-  created: "2026-10-26T02:42:29.374Z"
+  created: "2026-10-26T12:04:04.346Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261026T024229.374Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261026T120404.346Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,45 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "wvz5226aXNk"
-        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
-        artist: "Times Now"
+        videoId: "F5GKiFjAaOc"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (26.10.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GdcMVEAsFZU"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 25, 2026"
-        artist: "MF Entertainment Official"
+        videoId: "eQQR5wX5wmE"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "82qZPLRDRI0"
+        videoId: "x7l_wmhNWDA"
         name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
         artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YIO_WT0wsz8"
-        name: "LIVE: ABC News Live - Sunday, October 25"
-        artist: "ABC News"
+        videoId: "O-bqhNBubQk"
+        name: "Aaj Ki Taaza Khabar LIVE: 26 Oct 2026 | Kharge On PM Modi | Rahul Gandhi | Breaking News | CJP"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "S-MukqgoDd8"
-        name: "Watch LIVE: Pentagon Claims Massive Victory Over Iran | Pentagon Huge Bombshell Speech LIVE"
+        videoId: "oXdcZopdq_I"
+        name: "LIVE | Trump's EMERGENCY Message From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZDaSVmP6lC8"
-        name: "WORLD NEWS LIVE | Global Powers React to Iran's Stark Warning Against the United States | Israel"
-        artist: "Times Now World"
+        videoId: "TlAcLWXE6MI"
+        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SjlbKy5nOJ4"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (25.10.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "6idOQiRlrQQ"
+        name: "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SRqeMkUxVig"
+        name: "LIVE: 'World WAR III...', Trump's HUGE WARNING To EUROPE; Big Announcements On Ukraine, Iran"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CdXLDAiYGDg"
+        name: "Anant Singh News LIVE : अनंत सिंह का बड़ा ऐलान, क्या RJD में होंगे शामिल? | JDU | Nitish Kumar"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JGWl_fdWZMA"
+        name: "Big News from Iran: Regional Security Talks in Tehran Today | 12PM Headlines Geo News (26 Oct2026)"
+        artist: "Geo News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rgVbcUDC8cM"
+        name: "Today 100 News LIVE: आज की TOP 100 देखिए फटाफट | Headline | Breaking | 100 Badi Khabar | Superfast"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -102,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-26T02:42:29.374Z"
+  exported_at: "2026-10-26T12:04:04.346Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-26T02:42:29.324Z"
-  validation: "validation enabled: accepted 7/7 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-26T12:04:04.299Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
