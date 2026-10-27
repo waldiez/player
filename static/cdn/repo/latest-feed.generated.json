@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-26T22:10:20.995Z",
+    "generatedAt": "2026-10-27T03:17:06.951Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "MjzbYmKTBgA",
-            "name": "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE",
+            "videoId": "1ApvEcHneU0",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9JEgZGAupHo",
+            "name": "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack on King Khalid Airport | WION",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TnxSWH93De8",
+            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fLKjtZy31os",
+            "name": "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "wg4lqdEtrgs",
-            "name": "🔴LIVE: আজকের গরম আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Khobor Srot"
+            "videoId": "wAYwnFvW6Vw",
+            "name": "US News LIVE | WAR IS OVER? Trump Drops Bombshell | Iran War Latest News | IRAN NEWS",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "8WVjwjQdIjY",
+            "videoId": "UTnfeIpaxTw",
+            "name": "FRANCE PROTEST LIVE: 'This Is The End, Macron': 800,000+ Storm Battleground-Like French Streets",
+            "artist": "Firstpost"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5LT_mZgxfb8",
+            "name": "Iran America War: युद्ध के मैदान से सीधे TV9 LIVE | Trump | Middle East | Hormuz | USA | Israel",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "d2i1wnrma0Y",
             "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
             "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "3jlQqdaAYKw",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (26.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "EHJy8z2s818",
+            "name": "ABC World News Tonight With David Muir 10/26/26 | ABC News Today October 26, 2026",
+            "artist": "Shyam Rana Official"
         },
         {
             "mood": "storm",
-            "videoId": "REbuFMV_zm0",
-            "name": "Trump LIVE: US Troops to Invade Iran? Major Iran War Announcement | Breaking News | World News LIVE",
-            "artist": "Times Now"
+            "videoId": "6aTO6TCMhVE",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 26, 2026",
+            "artist": "MF Entertainment Official"
         },
         {
             "mood": "storm",
-            "videoId": "xCiPl3N4UdY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "f1VQP07CFLw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "lzcv3LIx69E",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aAlRZQ4EsZA",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Global News Bangla tv"
-        },
-        {
-            "mood": "storm",
-            "videoId": "bvISllrGakQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "বিশ্বদৃষ্টি 🌍"
+            "videoId": "C1jcATCCqDM",
+            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.10.2026) | 11 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
