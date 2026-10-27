@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-27T03:17:06.951Z",
+    "generatedAt": "2026-10-27T11:24:11.229Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1ApvEcHneU0",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "videoId": "a5OOjCW3XOA",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "vsmxhoqf7ME",
+            "name": "US-Iran War - Latest News Updates-US Attack On Iran Raises World War III Fears |2PM HEADLINES 27 OCT",
+            "artist": "Aaj News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "YnpD2oF-i1I",
+            "name": "MLC Vote Counting News LIVE: पहले राउंड में ये पार्टी आगे, चौंकी कांग्रेस!, मतगणना शुरू LIVE",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NHszkJ79ZFg",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "9JEgZGAupHo",
-            "name": "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack on King Khalid Airport | WION",
-            "artist": "WION"
+            "videoId": "d86uyDtaXJI",
+            "name": "സ്പീഡ് ന്യൂസ് 01.30 PM, ഒക്‌ടോബർ 27, 2026 | Speed News | 2710",
+            "artist": "Manorama News"
         },
         {
             "mood": "storm",
-            "videoId": "TnxSWH93De8",
-            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "n27L1xwFZ4U",
+            "name": "MLC Vote Counting News LIVE: 11 बजते ही MLC चुनाव के चौंकाने वाले नतीजे! | Election Result | BJP",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "fLKjtZy31os",
-            "name": "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News",
-            "artist": "ET Now"
+            "videoId": "sN0_8kQmIL0",
+            "name": "Khawaja Asif: Saudi Arabia’s Defence Is Essential for Pakistan | 12PM Headlines Geo News (27 Oct 26)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "wAYwnFvW6Vw",
-            "name": "US News LIVE | WAR IS OVER? Trump Drops Bombshell | Iran War Latest News | IRAN NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UTnfeIpaxTw",
-            "name": "FRANCE PROTEST LIVE: 'This Is The End, Macron': 800,000+ Storm Battleground-Like French Streets",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5LT_mZgxfb8",
-            "name": "Iran America War: युद्ध के मैदान से सीधे TV9 LIVE | Trump | Middle East | Hormuz | USA | Israel",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "d2i1wnrma0Y",
-            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EHJy8z2s818",
-            "name": "ABC World News Tonight With David Muir 10/26/26 | ABC News Today October 26, 2026",
-            "artist": "Shyam Rana Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6aTO6TCMhVE",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 26, 2026",
-            "artist": "MF Entertainment Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f1VQP07CFLw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (26.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C1jcATCCqDM",
-            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (26.10.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "1otpFlGWCJs",
+            "name": "MLC Vote Counting News LIVE: जहां MLC चुनाव के वोटों की गिनती वहां से सीधे LIVE | Bihar | UP",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
