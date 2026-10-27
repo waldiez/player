@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261027T112411.473Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261027T171300.032Z-l4t35t"
   type: "state"
-  created: "2026-10-27T11:24:11.473Z"
+  created: "2026-10-27T17:13:00.032Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261027T112411.473Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261027T171300.032Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,50 +53,68 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "a5OOjCW3XOA"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vsmxhoqf7ME"
-        name: "US-Iran War - Latest News Updates-US Attack On Iran Raises World War III Fears |2PM HEADLINES 27 OCT"
-        artist: "Aaj News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YnpD2oF-i1I"
-        name: "MLC Vote Counting News LIVE: पहले राउंड में ये पार्टी आगे, चौंकी कांग्रेस!, मतगणना शुरू LIVE"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NHszkJ79ZFg"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
+        videoId: "QhfQdEkmzMQ"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "d86uyDtaXJI"
-        name: "സ്പീഡ് ന്യൂസ് 01.30 PM, ഒക്‌ടോബർ 27, 2026 | Speed News | 2710"
-        artist: "Manorama News"
+        videoId: "8l1UgAnAjgw"
+        name: "MLC Vote Counting News LIVE: MLC चुनाव में खुल गया खाता? | Bihar | UP MLC | Anant Singh | Yogi | BJP"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "n27L1xwFZ4U"
-        name: "MLC Vote Counting News LIVE: 11 बजते ही MLC चुनाव के चौंकाने वाले नतीजे! | Election Result | BJP"
+        videoId: "HDfriwR2nMY"
+        name: "Israel Iran War LIVE: इजरायल में समाप्त मतदान, अब जलेगा ईरान! | Trump | Mojtaba | Netanyahu | IRGC"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TbCy-K3ex8c"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 27 October | World News | International News | NEWS24"
+        artist: "NEWS24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jhuG0N0SdgE"
+        name: "Aaj Ki Taaza Khabar LIVE: 26 Oct 2026 | Kharge On PM Modi | Rahul Gandhi | Breaking News | CJP"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "UuyfimNyxKE"
+        name: "Out Of Focus Live | 27 October 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "v4sRk2d4Tzk"
+        name: "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Breaking | Patna | ABP News"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sN0_8kQmIL0"
-        name: "Khawaja Asif: Saudi Arabia’s Defence Is Essential for Pakistan | 12PM Headlines Geo News (27 Oct 26)"
-        artist: "Geo News"
+        videoId: "tcjoSls5YJw"
+        name: "दंगों की आग में France ! दहलाने वाली तस्वीरें LIVE| France Riots | Emmanuel Macron | NDTV"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "1otpFlGWCJs"
-        name: "MLC Vote Counting News LIVE: जहां MLC चुनाव के वोटों की गिनती वहां से सीधे LIVE | Bihar | UP"
+        videoId: "aFl4cwxn0pI"
+        name: "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZZ2qIMhK0F8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sBzkpl2AuIA"
+        name: "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Brekaing | Patna | ABP News"
         artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
@@ -108,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-27T11:24:11.473Z"
+  exported_at: "2026-10-27T17:13:00.032Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-27T11:24:11.229Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-27T17:12:59.986Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
