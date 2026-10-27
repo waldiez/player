@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261027T171300.032Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261027T214114.089Z-l4t35t"
   type: "state"
-  created: "2026-10-27T17:13:00.032Z"
+  created: "2026-10-27T21:41:14.089Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261027T171300.032Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261027T214114.089Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "QhfQdEkmzMQ"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
-        artist: "Times Now"
+        videoId: "jo8X6G8axtw"
+        name: "North Korea Border LIVE: Kim’s New Fortifications Raise Tensions | World News LIVE | TIMES NOW WORLD"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8l1UgAnAjgw"
-        name: "MLC Vote Counting News LIVE: MLC चुनाव में खुल गया खाता? | Bihar | UP MLC | Anant Singh | Yogi | BJP"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HDfriwR2nMY"
-        name: "Israel Iran War LIVE: इजरायल में समाप्त मतदान, अब जलेगा ईरान! | Trump | Mojtaba | Netanyahu | IRGC"
+        videoId: "Z0FArpi7dEw"
+        name: "MLC Election Result LIVE | MLC Vote Counting | UP MLC Election Result | Bihar MLC Result I Anant"
         artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TbCy-K3ex8c"
-        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 27 October | World News | International News | NEWS24"
-        artist: "NEWS24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jhuG0N0SdgE"
-        name: "Aaj Ki Taaza Khabar LIVE: 26 Oct 2026 | Kharge On PM Modi | Rahul Gandhi | Breaking News | CJP"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UuyfimNyxKE"
-        name: "Out Of Focus Live | 27 October 2026"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "v4sRk2d4Tzk"
-        name: "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Breaking | Patna | ABP News"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "tcjoSls5YJw"
-        name: "दंगों की आग में France ! दहलाने वाली तस्वीरें LIVE| France Riots | Emmanuel Macron | NDTV"
+        videoId: "IZA94O0lafc"
+        name: "MLC Vote Counting News LIVE : मतगनणा स्थल से सीधा LIVE | MLC Election Result 2026 | Bihar | UP News"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aFl4cwxn0pI"
-        name: "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest"
+        videoId: "uTb1nWWcarg"
+        name: "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kd5DrzCYceQ"
+        name: "MLC Vote Counting News LIVE : Anant Singh | Nitish Kumar | JDU | MLC Election Result 2026 | Bihar"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZZ2qIMhK0F8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "YwxIdvxnvuk"
+        name: "World News LIVE: 'World War 3' Warning? Emergency Speech Sends Shockwaves Amid Middle East Crisis"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sBzkpl2AuIA"
-        name: "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Brekaing | Patna | ABP News"
-        artist: "ABP NEWS"
+        videoId: "xJQy4S-xTfA"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.10.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "O9dJs9NXyoI"
+        name: "Paris Protest LIVE | Protest Fury Engulfs France As 800,000 Take To Streets | Italy | Greece"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TOsiMr_SnV4"
+        name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iTwxs1d7o18"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 27 October 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "50EA5horAi0"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : MLC चुनाव में पलटी बाजी | Bihar | UP MLC Election"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-27T17:13:00.032Z"
+  exported_at: "2026-10-27T21:41:14.089Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-27T17:12:59.986Z"
+  source_generated_at: "2026-10-27T21:41:14.043Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

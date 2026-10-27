@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-27T17:12:59.986Z",
+    "generatedAt": "2026-10-27T21:41:14.043Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "QhfQdEkmzMQ",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel",
-            "artist": "Times Now"
+            "videoId": "jo8X6G8axtw",
+            "name": "North Korea Border LIVE: Kim’s New Fortifications Raise Tensions | World News LIVE | TIMES NOW WORLD",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "8l1UgAnAjgw",
-            "name": "MLC Vote Counting News LIVE: MLC चुनाव में खुल गया खाता? | Bihar | UP MLC | Anant Singh | Yogi | BJP",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HDfriwR2nMY",
-            "name": "Israel Iran War LIVE: इजरायल में समाप्त मतदान, अब जलेगा ईरान! | Trump | Mojtaba | Netanyahu | IRGC",
+            "videoId": "Z0FArpi7dEw",
+            "name": "MLC Election Result LIVE | MLC Vote Counting | UP MLC Election Result | Bihar MLC Result I Anant",
             "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "TbCy-K3ex8c",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 27 October | World News | International News | NEWS24",
-            "artist": "NEWS24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jhuG0N0SdgE",
-            "name": "Aaj Ki Taaza Khabar LIVE: 26 Oct 2026 | Kharge On PM Modi | Rahul Gandhi | Breaking News | CJP",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UuyfimNyxKE",
-            "name": "Out Of Focus Live | 27 October 2026",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "v4sRk2d4Tzk",
-            "name": "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Breaking | Patna | ABP News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "tcjoSls5YJw",
-            "name": "दंगों की आग में France ! दहलाने वाली तस्वीरें LIVE| France Riots | Emmanuel Macron | NDTV",
+            "videoId": "IZA94O0lafc",
+            "name": "MLC Vote Counting News LIVE : मतगनणा स्थल से सीधा LIVE | MLC Election Result 2026 | Bihar | UP News",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "aFl4cwxn0pI",
-            "name": "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest",
+            "videoId": "uTb1nWWcarg",
+            "name": "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kd5DrzCYceQ",
+            "name": "MLC Vote Counting News LIVE : Anant Singh | Nitish Kumar | JDU | MLC Election Result 2026 | Bihar",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "ZZ2qIMhK0F8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "YwxIdvxnvuk",
+            "name": "World News LIVE: 'World War 3' Warning? Emergency Speech Sends Shockwaves Amid Middle East Crisis",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "sBzkpl2AuIA",
-            "name": "MLC Vote Counting News LIVE: आ गया पहला रूझान! | Bihar | UP | Brekaing | Patna | ABP News",
-            "artist": "ABP NEWS"
+            "videoId": "xJQy4S-xTfA",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.10.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "O9dJs9NXyoI",
+            "name": "Paris Protest LIVE | Protest Fury Engulfs France As 800,000 Take To Streets | Italy | Greece",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TOsiMr_SnV4",
+            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "iTwxs1d7o18",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 27 October 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "50EA5horAi0",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : MLC चुनाव में पलटी बाजी | Bihar | UP MLC Election",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
