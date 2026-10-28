@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261028T115707.482Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261028T175455.248Z-l4t35t"
   type: "state"
-  created: "2026-10-28T11:57:07.482Z"
+  created: "2026-10-28T17:54:55.248Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T115707.482Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T175455.248Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "awWgOAOyqME"
-        name: "🔴LIVE: ஊருக்குள் புகுந்த கடல் - சென்னையில் உச்சக்கட்ட பரபரப்பு"
-        artist: "Sathiyam News"
+        videoId: "c28ad823NwU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nEfL2T2YNLA"
-        name: "MLC Vote Counting News LIVE : Anant Singh | Neeraj Kumar | Bihar MLC Result | UP MLC Result"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IBAX2qLyzgI"
-        name: "Israel Election Results LIVE: इजरायल चुनाव के शुरुआती रुझान आए सामने! LIVE | Netanyahu | Trump |IRGC"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "LN351UOgjsI"
-        name: "MLC Election Result LIVE: 1 बजते ही पलटे MLC रिजल्ट के आंकड़े! Vote Counting | UP MLC Result |Bihar"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hXS0I7DvTu8"
-        name: "Israel Elections 2026 Results Live । Final Results Revealed | Breaking News । Latest World News"
-        artist: "Vortex News Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dK1pD_ILUDg"
-        name: "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump"
+        videoId: "scFol_Mcgfs"
+        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rGGocXj4E9M"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "g8v1k3jLhBM"
-        name: "🔴LIVE: ''பேய்க்காற்று'' - கோர தாண்டவம் ஆடும் 'அர்னாப் புயல்' | ARNAB CYCLONE | Cyclone | Heavy wind"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cxd4N7rCX7I"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (28.10.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WIliuO1hCv8"
-        name: "Top 100 News LIVE: दिनभर की 100 खबरें | Superfast News | Headlines Today | Breaking News |MLC Chunav"
+        videoId: "nVRvpRwqWVY"
+        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 खबरें | Headlines Today | Top News | 28 October | MLC Results"
         artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SnqHgf9UnwM"
+        name: "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack on King Khalid Airport | WION"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0OM3xMVpDrw"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kwjKJ6-v0rE"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oJtRiq89-y8"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 28 October | World News | International News | NEWS24"
+        artist: "NEWS24"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "DYH4CtTqkHI"
+        name: "Israel election 2026 LIVE: नेतन्याहू के साथ हो गया बड़ा 'खेला'? ट्रंप हैरान? | Trump? | Netanyahu"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SdrQAXqKMoo"
+        name: "Israel Election Results LIVE : इजरायल चुनाव में चौंकाने वाले नतीजे?-TV9 | Netanyahu I Gadi Eisenkot"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "fKe2NBVk4K0"
+        name: "Israel Election LIVE: Final Results, Vote Count & Netanyahu | World News | Election Final Results"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "hmBHatM8SRM"
+        name: "MLC Vote Counting News LIVE : UP MLC Election Results 2026 | NDA | SP | BJP | Agra | Varanasi"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-28T11:57:07.482Z"
+  exported_at: "2026-10-28T17:54:55.248Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-28T11:57:07.435Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-28T17:54:55.212Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
