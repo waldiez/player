@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261028T175455.248Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261028T220526.485Z-l4t35t"
   type: "state"
-  created: "2026-10-28T17:54:55.248Z"
+  created: "2026-10-28T22:05:26.485Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T175455.248Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T220526.485Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,68 +53,56 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "c28ad823NwU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "rGGocXj4E9M"
+        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "scFol_Mcgfs"
-        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
+        videoId: "8_XyvM1K_8c"
+        name: "LIVE: The Opinion Reports News | 24x7 World News, India News & International Updates"
+        artist: "Opinion_Reports"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sF6yoZricDU"
+        name: "Trump News LIVE: FBI Director Kash Patel UNMASKS The Trump Assassination Plot Details | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nVRvpRwqWVY"
-        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 खबरें | Headlines Today | Top News | 28 October | MLC Results"
+        videoId: "_v5D_dbAwjE"
+        name: "Bihar MLC Election Results LIVE: नीरज कुमार की बड़ी जीत | Nitish Kumar | Anant Singh | Neeraj Kumar"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SnqHgf9UnwM"
-        name: "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack on King Khalid Airport | WION"
-        artist: "WION"
+        videoId: "AMFqnofnfJw"
+        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0OM3xMVpDrw"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
+        videoId: "9HQ-9HuKb7o"
+        name: "Israel Election LIVE: Netanyahu Awaits Results as Vote Count Continues | World News| Times Now World"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-O99mdGxmlw"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kwjKJ6-v0rE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "8I4YmovNaUY"
+        name: "🔴LIVE : Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (28.10.2026) | 6 PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oJtRiq89-y8"
-        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 28 October | World News | International News | NEWS24"
-        artist: "NEWS24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DYH4CtTqkHI"
+        videoId: "6cqPmxfFPMc"
         name: "Israel election 2026 LIVE: नेतन्याहू के साथ हो गया बड़ा 'खेला'? ट्रंप हैरान? | Trump? | Netanyahu"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "SdrQAXqKMoo"
-        name: "Israel Election Results LIVE : इजरायल चुनाव में चौंकाने वाले नतीजे?-TV9 | Netanyahu I Gadi Eisenkot"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "fKe2NBVk4K0"
-        name: "Israel Election LIVE: Final Results, Vote Count & Netanyahu | World News | Election Final Results"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hmBHatM8SRM"
-        name: "MLC Vote Counting News LIVE : UP MLC Election Results 2026 | NDA | SP | BJP | Agra | Varanasi"
         artist: "NDTV India"
         chapter: null
   moodCustomizations:
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-28T17:54:55.248Z"
+  exported_at: "2026-10-28T22:05:26.485Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-28T17:54:55.212Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-28T22:05:26.456Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
