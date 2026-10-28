@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-27T21:41:14.043Z",
+    "generatedAt": "2026-10-28T03:32:23.727Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "jo8X6G8axtw",
-            "name": "North Korea Border LIVE: Kim’s New Fortifications Raise Tensions | World News LIVE | TIMES NOW WORLD",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Z0FArpi7dEw",
-            "name": "MLC Election Result LIVE | MLC Vote Counting | UP MLC Election Result | Bihar MLC Result I Anant",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "IZA94O0lafc",
-            "name": "MLC Vote Counting News LIVE : मतगनणा स्थल से सीधा LIVE | MLC Election Result 2026 | Bihar | UP News",
+            "videoId": "hmBHatM8SRM",
+            "name": "MLC Vote Counting News LIVE : UP MLC Election Results 2026 | NDA | SP | BJP | Agra | Varanasi",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "uTb1nWWcarg",
-            "name": "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kd5DrzCYceQ",
-            "name": "MLC Vote Counting News LIVE : Anant Singh | Nitish Kumar | JDU | MLC Election Result 2026 | Bihar",
+            "videoId": "7M9La_kMRq4",
+            "name": "MLC चुनाव रिजल्ट,पटना में जिसका डर वही हुआ? आ गई बड़ी खबर LIVE | MLC Election Results | Bihar",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "YwxIdvxnvuk",
-            "name": "World News LIVE: 'World War 3' Warning? Emergency Speech Sends Shockwaves Amid Middle East Crisis",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xJQy4S-xTfA",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.10.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O9dJs9NXyoI",
-            "name": "Paris Protest LIVE | Protest Fury Engulfs France As 800,000 Take To Streets | Italy | Greece",
+            "videoId": "SMIIhK_NsMk",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "TOsiMr_SnV4",
-            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
-            "artist": "Times Now World"
+            "videoId": "hw2s3b7afAY",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "iTwxs1d7o18",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 27 October 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "50EA5horAi0",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : MLC चुनाव में पलटी बाजी | Bihar | UP MLC Election",
+            "videoId": "cThwtnZHMUA",
+            "name": "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest",
             "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "w63fACRCy-Q",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026",
+            "artist": "MF Entertainment Official"
+        },
+        {
+            "mood": "storm",
+            "videoId": "H0Yp5fH9zkU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WEPT9FrMX6k",
+            "name": "🔴LIVE : Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (28.10.2026) | 8 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uupU2voD1Pg",
+            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "q2oj0jbkn7A",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.10.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {

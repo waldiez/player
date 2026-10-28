@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261027T214114.089Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261028T033223.773Z-l4t35t"
   type: "state"
-  created: "2026-10-27T21:41:14.089Z"
+  created: "2026-10-28T03:32:23.773Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261027T214114.089Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T033223.773Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "jo8X6G8axtw"
-        name: "North Korea Border LIVE: Kim’s New Fortifications Raise Tensions | World News LIVE | TIMES NOW WORLD"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Z0FArpi7dEw"
-        name: "MLC Election Result LIVE | MLC Vote Counting | UP MLC Election Result | Bihar MLC Result I Anant"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "IZA94O0lafc"
-        name: "MLC Vote Counting News LIVE : मतगनणा स्थल से सीधा LIVE | MLC Election Result 2026 | Bihar | UP News"
+        videoId: "hmBHatM8SRM"
+        name: "MLC Vote Counting News LIVE : UP MLC Election Results 2026 | NDA | SP | BJP | Agra | Varanasi"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uTb1nWWcarg"
-        name: "US IRAN WAR LIVE: Rubio Drops BOMBSHELL on Iran, America on Edge as War Takes New Turn"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kd5DrzCYceQ"
-        name: "MLC Vote Counting News LIVE : Anant Singh | Nitish Kumar | JDU | MLC Election Result 2026 | Bihar"
+        videoId: "7M9La_kMRq4"
+        name: "MLC चुनाव रिजल्ट,पटना में जिसका डर वही हुआ? आ गई बड़ी खबर LIVE | MLC Election Results | Bihar"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YwxIdvxnvuk"
-        name: "World News LIVE: 'World War 3' Warning? Emergency Speech Sends Shockwaves Amid Middle East Crisis"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xJQy4S-xTfA"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (27.10.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "O9dJs9NXyoI"
-        name: "Paris Protest LIVE | Protest Fury Engulfs France As 800,000 Take To Streets | Italy | Greece"
+        videoId: "SMIIhK_NsMk"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TOsiMr_SnV4"
-        name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
-        artist: "Times Now World"
+        videoId: "hw2s3b7afAY"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iTwxs1d7o18"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 27 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "50EA5horAi0"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : MLC चुनाव में पलटी बाजी | Bihar | UP MLC Election"
+        videoId: "cThwtnZHMUA"
+        name: "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest"
         artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w63fACRCy-Q"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026"
+        artist: "MF Entertainment Official"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "H0Yp5fH9zkU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WEPT9FrMX6k"
+        name: "🔴LIVE : Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (28.10.2026) | 8 AM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "uupU2voD1Pg"
+        name: "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "q2oj0jbkn7A"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-27T21:41:14.089Z"
+  exported_at: "2026-10-28T03:32:23.773Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-27T21:41:14.043Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-28T03:32:23.727Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
