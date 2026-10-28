@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-28T03:32:23.727Z",
+    "generatedAt": "2026-10-28T11:57:07.435Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "hmBHatM8SRM",
-            "name": "MLC Vote Counting News LIVE : UP MLC Election Results 2026 | NDA | SP | BJP | Agra | Varanasi",
+            "videoId": "awWgOAOyqME",
+            "name": "🔴LIVE: ஊருக்குள் புகுந்த கடல் - சென்னையில் உச்சக்கட்ட பரபரப்பு",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nEfL2T2YNLA",
+            "name": "MLC Vote Counting News LIVE : Anant Singh | Neeraj Kumar | Bihar MLC Result | UP MLC Result",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "7M9La_kMRq4",
-            "name": "MLC चुनाव रिजल्ट,पटना में जिसका डर वही हुआ? आ गई बड़ी खबर LIVE | MLC Election Results | Bihar",
-            "artist": "NDTV India"
+            "videoId": "IBAX2qLyzgI",
+            "name": "Israel Election Results LIVE: इजरायल चुनाव के शुरुआती रुझान आए सामने! LIVE | Netanyahu | Trump |IRGC",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "SMIIhK_NsMk",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "videoId": "LN351UOgjsI",
+            "name": "MLC Election Result LIVE: 1 बजते ही पलटे MLC रिजल्ट के आंकड़े! Vote Counting | UP MLC Result |Bihar",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hXS0I7DvTu8",
+            "name": "Israel Elections 2026 Results Live । Final Results Revealed | Breaking News । Latest World News",
+            "artist": "Vortex News Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dK1pD_ILUDg",
+            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | President Trump Makes Major Statement From The White House | Trump",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "hw2s3b7afAY",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026",
-            "artist": "ABC News"
+            "videoId": "rGGocXj4E9M",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "cThwtnZHMUA",
-            "name": "Aaj Ki Taaza Khabar | Gold-Silver Price | Kharge | PM Modi | | Anant Singh | Rahul Gandhi | Protest",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w63fACRCy-Q",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 27, 2026",
-            "artist": "MF Entertainment Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "H0Yp5fH9zkU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 28 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "WEPT9FrMX6k",
-            "name": "🔴LIVE : Today Headlines | காலை 8 மணி தலைப்புச் செய்திகள் (28.10.2026) | 8 AM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uupU2voD1Pg",
-            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર। Fatafat News | Weather | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "q2oj0jbkn7A",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (27.10.2026) | Sathiyam Headlines",
+            "videoId": "g8v1k3jLhBM",
+            "name": "🔴LIVE: ''பேய்க்காற்று'' - கோர தாண்டவம் ஆடும் 'அர்னாப் புயல்' | ARNAB CYCLONE | Cyclone | Heavy wind",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cxd4N7rCX7I",
+            "name": "🔴 LIVE : Lunch Time Sinhala News | (28.10.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති",
+            "artist": "Newsfirst Sri Lanka"
+        },
+        {
+            "mood": "storm",
+            "videoId": "WIliuO1hCv8",
+            "name": "Top 100 News LIVE: दिनभर की 100 खबरें | Superfast News | Headlines Today | Breaking News |MLC Chunav",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
