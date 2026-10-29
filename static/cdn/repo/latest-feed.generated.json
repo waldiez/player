@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-29T03:53:51.219Z",
+    "generatedAt": "2026-10-29T12:05:58.224Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "oFGWW0ioKgY",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 28, 2026",
-            "artist": "ABC News"
+            "videoId": "I33Q3TlUe4w",
+            "name": "Aaj Ki Taaza Khabar LIVE: 29 Oct 2026 | PM Modi | Rahul Gandhi | Cyclone Arnab | Israel | Netanyahu",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "Coa4aueiz94",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
+            "videoId": "_jJ93A_QmC0",
+            "name": "Cyclone Arnab Hindi News LIVE: आया गया तूफान | Bengal | AP-Odisha | Videos | Rain | Explained | IMD",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "o_vzNzf3tKw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "obVwEdRfMjs",
+            "name": "UP MLC Election Results LIVE: सपा की 5 सीटों पर बड़ी जीत! | Akhilesh Yadav | CM Yogi | Ayodhya",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "zPZjegEJaJ8",
-            "name": "Prime Time News | LIVE Now On TVJ | Wednesday, October 28, 2026",
-            "artist": "Television Jamaica"
+            "videoId": "HMolmqZ-33M",
+            "name": "Khawaja Asif Levels Allegations Against Maulana Fazlur Rehman | Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "dl_L_Xlxu6I",
-            "name": "Israel Election Results LIVE: Latest Vote Count & Netanyahu Update | World News LIVE",
-            "artist": "ET Now World"
+            "videoId": "7-GxOo7T6Oo",
+            "name": "🔴LIVE :Today Headlines |மதியம் 2 மணி தலைப்புச் செய்திகள் (29.10.2026) | 2 PM Headlines | Thanthi TV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "0Wko0S-ast4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 28, 2026",
-            "artist": "MF Entertainment Official"
+            "videoId": "u3v3t8dpHSQ",
+            "name": "TV9 Bharatvarsh LIVE:MLC Election Result | Iran-US War | Cyclone Arnab | BJP | Congress |Hindi News",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "PJdFIjSVX_w",
-            "name": "Israel Election Results LIVE: Latest Count and Netanyahu Update | Breaking News | WORLD NEWS LIVE",
+            "videoId": "EQxU5TG82gY",
+            "name": "Today Breaking News | 29 October | MLC Election Result | Bihar | UP MLC Result | PM Modi | Israel",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PyPyoVSeMW8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "6nhsfBjzjcU",
+            "name": "Trump Speech LIVE: 2 Minutes Ago! Trump’s Huge Warning Leaves Iran in Panic | Trump on Iran",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "-nHEJQcRAXE",
-            "name": "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "YZaFWZAXhuM",
-            "name": "Israel Election 2026 Counting LIVE : Netanyahu’s Biggest Battle Yet | Bye-Bye Bibi Or Another Win?",
-            "artist": "India Today"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6gNABubUeaY",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 29 October 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "vm0D8IbURy0",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ২৯.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
