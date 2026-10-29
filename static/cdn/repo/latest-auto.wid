@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261028T220526.485Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261029T035351.253Z-l4t35t"
   type: "state"
-  created: "2026-10-28T22:05:26.485Z"
+  created: "2026-10-29T03:53:51.253Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261028T220526.485Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261029T035351.253Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "rGGocXj4E9M"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
+        videoId: "oFGWW0ioKgY"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 28, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Coa4aueiz94"
+        name: "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "o_vzNzf3tKw"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zPZjegEJaJ8"
+        name: "Prime Time News | LIVE Now On TVJ | Wednesday, October 28, 2026"
+        artist: "Television Jamaica"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "dl_L_Xlxu6I"
+        name: "Israel Election Results LIVE: Latest Vote Count & Netanyahu Update | World News LIVE"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8_XyvM1K_8c"
-        name: "LIVE: The Opinion Reports News | 24x7 World News, India News & International Updates"
-        artist: "Opinion_Reports"
+        videoId: "0Wko0S-ast4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 28, 2026"
+        artist: "MF Entertainment Official"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sF6yoZricDU"
-        name: "Trump News LIVE: FBI Director Kash Patel UNMASKS The Trump Assassination Plot Details | US News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_v5D_dbAwjE"
-        name: "Bihar MLC Election Results LIVE: नीरज कुमार की बड़ी जीत | Nitish Kumar | Anant Singh | Neeraj Kumar"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "AMFqnofnfJw"
-        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
+        videoId: "PJdFIjSVX_w"
+        name: "Israel Election Results LIVE: Latest Count and Netanyahu Update | Breaking News | WORLD NEWS LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9HQ-9HuKb7o"
-        name: "Israel Election LIVE: Netanyahu Awaits Results as Vote Count Continues | World News| Times Now World"
-        artist: "Times Now World"
+        videoId: "-nHEJQcRAXE"
+        name: "BREAKING NEWS LIVE: 1 min ago! Trump’s Huge Iran Decision? ‘Full Control Over Iran’ | Trump Speech"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "-O99mdGxmlw"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "Times Now"
+        videoId: "YZaFWZAXhuM"
+        name: "Israel Election 2026 Counting LIVE : Netanyahu’s Biggest Battle Yet | Bye-Bye Bibi Or Another Win?"
+        artist: "India Today"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8I4YmovNaUY"
-        name: "🔴LIVE : Today Headlines | மாலை 6 மணி தலைப்புச் செய்திகள் (28.10.2026) | 6 PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6cqPmxfFPMc"
-        name: "Israel election 2026 LIVE: नेतन्याहू के साथ हो गया बड़ा 'खेला'? ट्रंप हैरान? | Trump? | Netanyahu"
-        artist: "NDTV India"
+        videoId: "6gNABubUeaY"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 29 October 2026 | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-28T22:05:26.485Z"
+  exported_at: "2026-10-29T03:53:51.253Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-28T22:05:26.456Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-29T03:53:51.219Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
