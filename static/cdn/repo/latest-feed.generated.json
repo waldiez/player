@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-30T17:47:24.539Z",
+    "generatedAt": "2026-10-30T21:51:45.100Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "PbTodW-d9fI",
-            "name": "Jammu Kashmir News LIVE: جموں کشمیر سیاسی اور تازہ اہم خبریں | Omar Abdullah | BJP | NC | News18",
-            "artist": "News18 Urdu"
+            "videoId": "0Xxq_xx0PS8",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "SpxVJq-i4Z8",
-            "name": "Trump News LIVE: Rally Security Concerns | Breaking US News and Election Updates | Trump footage",
-            "artist": "Times Now"
+            "videoId": "I21L1MAZ0EU",
+            "name": "Today Headlines - 30 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "u8ZooI6zZ68",
-            "name": "Italy | Bosnia Helicopter CRASH | Military Chopper Crashes During EU Mission | World News",
-            "artist": "Asianet News English"
+            "videoId": "NWJC4zXT8Yo",
+            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "bKCiIe8t5ns",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "SJrZ8_egpFc",
-            "name": "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!",
+            "videoId": "tkvIAPlcSA4",
+            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "2U7kRuyvG1g",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "YpfEgK5JjvU",
+            "name": "तूफान 'अर्नब' का कहर: समुद्र में ऊंची लहरें और भारी तबाही LIVE | Cyclone Arnab | Weather | Tufan",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Ac5gco_T00s",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 30.10.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "jMOPekmAkr8",
+            "name": "LIVE: Cyclone News | Another storm Destruction |Weather Report | Heavy Rains |ముంచుకొస్తున్నమురాసు..",
+            "artist": "Zee Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "vdJjoCBB_S0",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 30 October | World News | International News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "eDRaYErQkhQ",
+            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "116BCyIB37g",
-            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "otL4yM8Kd_M",
-            "name": "Trump LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
-            "artist": "Times Now"
+            "videoId": "XlG6UgCxP1I",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 30 October 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
         }
     ],
     "sourceFilters": {
