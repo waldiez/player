@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-29T22:18:19.571Z",
+    "generatedAt": "2026-10-30T03:55:42.921Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "rQDwU5bR8P0",
-            "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
+            "videoId": "VyzWexmhnHM",
+            "name": "Trump Briefing LIVE | Massive Oval Office Address Shockwaves Across America | World News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sBhO6Ke-Vrw",
+            "name": "US Iran War Live: Trump Breaks Silence With Explosive Iran Warning! World On Edge | WORLD NEWS",
             "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "o_vzNzf3tKw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (29.10.2026) | Sathiyam Headlines",
+            "videoId": "eYxDWnCll14",
+            "name": "Trump Attack News LIVE | President Trump rushed off the stage at White House | US News Live",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zPD9PPWsDfE",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hWdd26VuI_s",
+            "name": "Prime Time News | LIVE Now On TVJ | Thursday, October 29, 2026",
+            "artist": "Television Jamaica"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Q8Q4LQSnzBE",
+            "name": "LIVE: ALBANIA IN TURMOIL? Protesters Gather Outside Parliament | LIVE | World News LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CD7T_zfOIxY",
+            "name": "Iran America War: युद्ध के मैदान से सीधे TV9 LIVE | Iran-US | Trump | Middle East | Hormuz War",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "xmDiHZdBuqw",
+            "name": "Today's Headlines | 30 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "wV_zPcMu9wY",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "wONxJmZ6bCQ",
+            "name": "तूफान 'अर्नब' ने मचाई भारी तबाही! देखिए ताजा हालात LIVE | Cyclone Arnab Updates | Weather | Toofan",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "56-mgN4C2PY",
-            "name": "Asianet News English LIVE 🔴: Breaking News & Latest Updates 24/7 | World Ne… | October 29, 2026 (PM)",
-            "artist": "Asianet News English"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3k5G4SYRXYo",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (29.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "jZup7a-jZg0",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD World 24"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ECpOBDur1Ko",
-            "name": "Debate With Arnab LIVE: Why Should Taxpayers Pay for Violent ‘Congroaches’ & Cockroaches?",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NcdWOfP4hsE",
-            "name": "এটিএন বাংলার টপ নিউজ । রাত ৯ টা । ২৯.১০.২০২৬ | Top News | Today News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nt1NYEKAmA8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "QyE7IHNKpsI",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026",
+            "artist": "MF Entertainment Official"
         }
     ],
     "sourceFilters": {
