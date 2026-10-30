@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261030T035542.961Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261030T115755.919Z-l4t35t"
   type: "state"
-  created: "2026-10-30T03:55:42.961Z"
+  created: "2026-10-30T11:57:55.919Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261030T035542.961Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261030T115755.919Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "VyzWexmhnHM"
-        name: "Trump Briefing LIVE | Massive Oval Office Address Shockwaves Across America | World News"
-        artist: "ET Now"
+        videoId: "T-lwmQSWt3U"
+        name: "Aaj Ki Taaza Khabar LIVE: 30 Oct 2026 | PM Modi | Rahul Gandhi | Cyclone Arnab | Israel | Netanyahu"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sBhO6Ke-Vrw"
-        name: "US Iran War Live: Trump Breaks Silence With Explosive Iran Warning! World On Edge | WORLD NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eYxDWnCll14"
-        name: "Trump Attack News LIVE | President Trump rushed off the stage at White House | US News Live"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "zPD9PPWsDfE"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hWdd26VuI_s"
-        name: "Prime Time News | LIVE Now On TVJ | Thursday, October 29, 2026"
-        artist: "Television Jamaica"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Q8Q4LQSnzBE"
-        name: "LIVE: ALBANIA IN TURMOIL? Protesters Gather Outside Parliament | LIVE | World News LIVE"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CD7T_zfOIxY"
-        name: "Iran America War: युद्ध के मैदान से सीधे TV9 LIVE | Iran-US | Trump | Middle East | Hormuz War"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xmDiHZdBuqw"
-        name: "Today's Headlines | 30 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        videoId: "1LKOSOFluh8"
+        name: "🔴LIVE: Girl Missing | சிறுமி வழக்கில் தலைகீழ் திருப்பம் - அந்த '600' பேர்"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wONxJmZ6bCQ"
-        name: "तूफान 'अर्नब' ने मचाई भारी तबाही! देखिए ताजा हालात LIVE | Cyclone Arnab Updates | Weather | Toofan"
-        artist: "NDTV India"
+        videoId: "QeMujYj7moI"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | যুবরাজের রক্তণালিতে আঘাত"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QyE7IHNKpsI"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026"
-        artist: "MF Entertainment Official"
+        videoId: "6HBfnIZsnFs"
+        name: "Saudi Under Attack LIVE: Deadly Houthi Missiles Target Key Bases In Saudi,War Expands To Wider Level"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZXJ-yukSPDs"
+        name: "പിന്നീട് സംഭവിച്ചത് ഇങ്ങനെ I world news update I NEWS INDIA MALAYALAM"
+        artist: "NEWS INDIA MALAYALAM"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KgpriL_nmfI"
+        name: "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b4OdltZTlOY"
+        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । ৩০.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zxZttq3eCL8"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "IjQPmOxqmOE"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-30T03:55:42.961Z"
+  exported_at: "2026-10-30T11:57:55.919Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-30T03:55:42.921Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-30T11:57:55.887Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-30T03:55:42.921Z",
+    "generatedAt": "2026-10-30T11:57:55.887Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "VyzWexmhnHM",
-            "name": "Trump Briefing LIVE | Massive Oval Office Address Shockwaves Across America | World News",
-            "artist": "ET Now"
+            "videoId": "T-lwmQSWt3U",
+            "name": "Aaj Ki Taaza Khabar LIVE: 30 Oct 2026 | PM Modi | Rahul Gandhi | Cyclone Arnab | Israel | Netanyahu",
+            "artist": "Times Now Navbharat"
         },
         {
             "mood": "storm",
-            "videoId": "sBhO6Ke-Vrw",
-            "name": "US Iran War Live: Trump Breaks Silence With Explosive Iran Warning! World On Edge | WORLD NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eYxDWnCll14",
-            "name": "Trump Attack News LIVE | President Trump rushed off the stage at White House | US News Live",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zPD9PPWsDfE",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hWdd26VuI_s",
-            "name": "Prime Time News | LIVE Now On TVJ | Thursday, October 29, 2026",
-            "artist": "Television Jamaica"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Q8Q4LQSnzBE",
-            "name": "LIVE: ALBANIA IN TURMOIL? Protesters Gather Outside Parliament | LIVE | World News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CD7T_zfOIxY",
-            "name": "Iran America War: युद्ध के मैदान से सीधे TV9 LIVE | Iran-US | Trump | Middle East | Hormuz War",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xmDiHZdBuqw",
-            "name": "Today's Headlines | 30 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
+            "videoId": "1LKOSOFluh8",
+            "name": "🔴LIVE: Girl Missing | சிறுமி வழக்கில் தலைகீழ் திருப்பம் - அந்த '600' பேர்",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "wONxJmZ6bCQ",
-            "name": "तूफान 'अर्नब' ने मचाई भारी तबाही! देखिए ताजा हालात LIVE | Cyclone Arnab Updates | Weather | Toofan",
-            "artist": "NDTV India"
+            "videoId": "QeMujYj7moI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | যুবরাজের রক্তণালিতে আঘাত",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "QyE7IHNKpsI",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 29, 2026",
-            "artist": "MF Entertainment Official"
+            "videoId": "6HBfnIZsnFs",
+            "name": "Saudi Under Attack LIVE: Deadly Houthi Missiles Target Key Bases In Saudi,War Expands To Wider Level",
+            "artist": "WION"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZXJ-yukSPDs",
+            "name": "പിന്നീട് സംഭവിച്ചത് ഇങ്ങനെ I world news update I NEWS INDIA MALAYALAM",
+            "artist": "NEWS INDIA MALAYALAM"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KgpriL_nmfI",
+            "name": "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "b4OdltZTlOY",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ৩০.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zxZttq3eCL8",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IjQPmOxqmOE",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         }
     ],
     "sourceFilters": {
