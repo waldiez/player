@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-30T11:57:55.887Z",
+    "generatedAt": "2026-10-30T17:47:24.539Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "T-lwmQSWt3U",
-            "name": "Aaj Ki Taaza Khabar LIVE: 30 Oct 2026 | PM Modi | Rahul Gandhi | Cyclone Arnab | Israel | Netanyahu",
-            "artist": "Times Now Navbharat"
+            "videoId": "PbTodW-d9fI",
+            "name": "Jammu Kashmir News LIVE: جموں کشمیر سیاسی اور تازہ اہم خبریں | Omar Abdullah | BJP | NC | News18",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "1LKOSOFluh8",
-            "name": "🔴LIVE: Girl Missing | சிறுமி வழக்கில் தலைகீழ் திருப்பம் - அந்த '600' பேர்",
-            "artist": "Sathiyam News"
+            "videoId": "SpxVJq-i4Z8",
+            "name": "Trump News LIVE: Rally Security Concerns | Breaking US News and Election Updates | Trump footage",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "QeMujYj7moI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | যুবরাজের রক্তণালিতে আঘাত",
+            "videoId": "u8ZooI6zZ68",
+            "name": "Italy | Bosnia Helicopter CRASH | Military Chopper Crashes During EU Mission | World News",
+            "artist": "Asianet News English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bKCiIe8t5ns",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SJrZ8_egpFc",
+            "name": "US-IRAN WAR LIVE: WORLD WAR 3 TONIGHT?! Hegseth Drops BOMBSHELL on Trump's Iran Strike Orders!",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2U7kRuyvG1g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 30 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "6HBfnIZsnFs",
-            "name": "Saudi Under Attack LIVE: Deadly Houthi Missiles Target Key Bases In Saudi,War Expands To Wider Level",
-            "artist": "WION"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZXJ-yukSPDs",
-            "name": "പിന്നീട് സംഭവിച്ചത് ഇങ്ങനെ I world news update I NEWS INDIA MALAYALAM",
-            "artist": "NEWS INDIA MALAYALAM"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KgpriL_nmfI",
-            "name": "US NEWS Live: Trump Orders Immediate Lockdown, America In Shock As Mideast Crisis Escalates",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b4OdltZTlOY",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ৩০.১০.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "videoId": "Ac5gco_T00s",
+            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 30.10.2026 | Today News | Ajker News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "zxZttq3eCL8",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "vdJjoCBB_S0",
+            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 30 October | World News | International News | NEWS24",
+            "artist": "NEWS24"
         },
         {
             "mood": "storm",
-            "videoId": "IjQPmOxqmOE",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "116BCyIB37g",
+            "name": "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "otL4yM8Kd_M",
+            "name": "Trump LIVE: Trump Issues Urgent Warning, US Put On High Alert? | US BREAKING NEWS | Live News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
