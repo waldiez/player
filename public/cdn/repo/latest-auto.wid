@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261031T034005.647Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261031T113130.181Z-l4t35t"
   type: "state"
-  created: "2026-10-31T03:40:05.647Z"
+  created: "2026-10-31T11:31:30.181Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261031T034005.647Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261031T113130.181Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ffTyZvmAS4g"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 30, 2026"
-        artist: "ABC News"
+        videoId: "suatVtdx4CM"
+        name: "BREAKING NEWS LIVE: Trump, Iran Offer & Netanyahu | US News | US-Iran Deal? | Trump Netanyahu"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SevCN0JfiF0"
-        name: "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS"
+        videoId: "oCyEKjx0GBI"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MShtxPIqDG0"
-        name: "BBC Bangla News | October 31, 2026 | BBC Bangla | Bangla News | BBC News Live | Bangla News Today"
-        artist: "Bangla News Today"
+        videoId: "a2ccgzXc59s"
+        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
+        artist: "CK Time TV North America"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "E92kdoGmj7g"
-        name: "🔴LIVE: Today Headlines | காலை 9 மணி தலைப்புச் செய்திகள் (31.10.2026) | 9 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "aV7xIa5eFu4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v2ZO_NevLN8"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Oct. 30, 2026"
-        artist: "MF Entertainment Official"
+        videoId: "A1qEEliDCaA"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "qi7IfKFUPnk"
-        name: "ABC World News Tonight With David Muir – Full Episode October 30, 2026"
-        artist: "Sajaproduction"
+        videoId: "ppm46MGYi58"
+        name: "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PbguMdGj88g"
-        name: "Aaj Ki Taja Khabar LIVE: सुबह की 100 खबरें | Headlines Today | Top News | 31 October | Hindi News"
+        videoId: "Y3IYNuv9ecQ"
+        name: "Putin LIVE: Putin Threatens To Enter War? Russia Warns Netanyahu, Trump | Israel-Iran US War LIVE"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zpmsPrX_C98"
+        name: "Delhi Ramlila Maidan Rally News LIVE: राहुल की देशवासियों से अपील | CTI | Rahul Gandhi | Breaking"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QAHIxjXqjmY"
-        name: "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 30 October 2026 World News Bangla International News"
-        artist: "BNO News"
+        videoId: "ir5b2rNr3C8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r2EkHOEVVzo"
-        name: "🔴LIVE:এইমাত্র পাওয়া খবর || 31 Oct' 2026 || World News Bangla || International News Today"
-        artist: "DNC TV 24 BANGLA "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "qFJhSyhRMiQ"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "BAC আন্তর্জাতিক সংবাদ "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "du08F5HKr3g"
-        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
-        artist: "ET Now"
+        videoId: "7K7tJCitpTU"
+        name: "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
+        artist: "ET Now World"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-31T03:40:05.647Z"
+  exported_at: "2026-10-31T11:31:30.181Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-31T03:40:05.606Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-31T11:31:30.137Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
