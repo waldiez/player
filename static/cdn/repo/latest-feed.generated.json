@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-30T21:51:45.100Z",
+    "generatedAt": "2026-10-31T03:40:05.606Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0Xxq_xx0PS8",
-            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
-            "artist": "Times Now World"
+            "videoId": "ffTyZvmAS4g",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 30, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "I21L1MAZ0EU",
-            "name": "Today Headlines - 30 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
-            "artist": "Polimer News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NWJC4zXT8Yo",
+            "videoId": "SevCN0JfiF0",
             "name": "TRUMP LIVE: Trump to Take Over Iran? Latest US–Iran Developments | WORLD NEWS LIVE | US NEWS",
             "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "tkvIAPlcSA4",
-            "name": "BREAKING NEWS LIVE: Trump Issues Urgent Warning, Nation on Edge | Trump's Emergency Announcement",
-            "artist": "MIRROR NOW"
+            "videoId": "MShtxPIqDG0",
+            "name": "BBC Bangla News | October 31, 2026 | BBC Bangla | Bangla News | BBC News Live | Bangla News Today",
+            "artist": "Bangla News Today"
         },
         {
             "mood": "storm",
-            "videoId": "YpfEgK5JjvU",
-            "name": "तूफान 'अर्नब' का कहर: समुद्र में ऊंची लहरें और भारी तबाही LIVE | Cyclone Arnab | Weather | Tufan",
-            "artist": "NDTV India"
+            "videoId": "E92kdoGmj7g",
+            "name": "🔴LIVE: Today Headlines | காலை 9 மணி தலைப்புச் செய்திகள் (31.10.2026) | 9 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "jMOPekmAkr8",
-            "name": "LIVE: Cyclone News | Another storm Destruction |Weather Report | Heavy Rains |ముంచుకొస్తున్నమురాసు..",
-            "artist": "Zee Telugu News"
+            "videoId": "v2ZO_NevLN8",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Oct. 30, 2026",
+            "artist": "MF Entertainment Official"
         },
         {
             "mood": "storm",
-            "videoId": "eDRaYErQkhQ",
-            "name": "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE",
-            "artist": "Times Now World"
+            "videoId": "qi7IfKFUPnk",
+            "name": "ABC World News Tonight With David Muir – Full Episode October 30, 2026",
+            "artist": "Sajaproduction"
         },
         {
             "mood": "storm",
-            "videoId": "XlG6UgCxP1I",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 30 October 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "PbguMdGj88g",
+            "name": "Aaj Ki Taja Khabar LIVE: सुबह की 100 खबरें | Headlines Today | Top News | 31 October | Hindi News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "QAHIxjXqjmY",
+            "name": "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 30 October 2026 World News Bangla International News",
+            "artist": "BNO News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "r2EkHOEVVzo",
+            "name": "🔴LIVE:এইমাত্র পাওয়া খবর || 31 Oct' 2026 || World News Bangla || International News Today",
+            "artist": "DNC TV 24 BANGLA "
+        },
+        {
+            "mood": "storm",
+            "videoId": "qFJhSyhRMiQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "BAC আন্তর্জাতিক সংবাদ "
+        },
+        {
+            "mood": "storm",
+            "videoId": "du08F5HKr3g",
+            "name": "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech",
+            "artist": "ET Now"
         }
     ],
     "sourceFilters": {
