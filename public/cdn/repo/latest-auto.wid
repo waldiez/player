@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261031T113130.181Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261031T163939.503Z-l4t35t"
   type: "state"
-  created: "2026-10-31T11:31:30.181Z"
+  created: "2026-10-31T16:39:39.503Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261031T113130.181Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261031T163939.503Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "suatVtdx4CM"
-        name: "BREAKING NEWS LIVE: Trump, Iran Offer & Netanyahu | US News | US-Iran Deal? | Trump Netanyahu"
-        artist: "MIRROR NOW"
+        videoId: "a0P1PM-X7lo"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oCyEKjx0GBI"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        videoId: "iezpLhZuBRA"
+        name: "US Iran War Live: Trump Breaks Silence With Explosive Iran Warning! World On Edge | WORLD NEWS"
         artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a2ccgzXc59s"
-        name: "ਪੰਜਾਬੀ ਖ਼ਬਰਾਂ | Punjabi News Live Today | Latest Punjab News"
-        artist: "CK Time TV North America"
+        videoId: "eDRaYErQkhQ"
+        name: "LIVE: Putin's Emergency Speech Shocks the World | Iran | Israel | Russia | America | WORLD NEWS LIVE"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aV7xIa5eFu4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "2VMD0NrDJJA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wwJ9gfmztis"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A1qEEliDCaA"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "eMMmbbpvJ4o"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ। 31.10.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ppm46MGYi58"
+        videoId: "-Az6wIlUhyw"
+        name: "Iran-America War Live: लीक जंग का कैलेंडर, तेहरान विनाश की तारीख दर्ज!| Mojtaba | Trump | Netanyahu"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "rowyPIWvYDI"
+        name: "US NEWS LIVE: 2 MINUTES AGO! Trump Drops Massive Iran Decision, \"Total Control\" Declared"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BHcFht68KJY"
         name: "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y3IYNuv9ecQ"
-        name: "Putin LIVE: Putin Threatens To Enter War? Russia Warns Netanyahu, Trump | Israel-Iran US War LIVE"
-        artist: "Times Now World"
+        videoId: "qXWIglRJIrg"
+        name: "Philippines: Mayon Volcano Updates | Albay Region on ALERT! | 2,000+ Evacuated | World News"
+        artist: "Asianet News English"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zpmsPrX_C98"
-        name: "Delhi Ramlila Maidan Rally News LIVE: राहुल की देशवासियों से अपील | CTI | Rahul Gandhi | Breaking"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ir5b2rNr3C8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 31 Oct  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "7K7tJCitpTU"
-        name: "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
-        artist: "ET Now World"
+        videoId: "2INZNn6wWUU"
+        name: "Saudi Arabia-Houthi Tensions: US Issues Major Statement | 5PM Headlines Geo News (31 Oct 2026)"
+        artist: "Geo News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-31T11:31:30.181Z"
+  exported_at: "2026-10-31T16:39:39.503Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-31T11:31:30.137Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-10-31T16:39:39.465Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
