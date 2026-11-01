@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261031T205212.385Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261101T034704.527Z-l4t35t"
   type: "state"
-  created: "2026-10-31T20:52:12.385Z"
+  created: "2026-11-01T03:47:04.527Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261031T205212.385Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261101T034704.527Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "XLe_4J0gr78"
-        name: "Trump Iran News LIVE: Nuclear Strike Order? Latest Warning Explained | Trump Speech LIVE"
-        artist: "ET Now"
+        videoId: "kPzhxtOIef0"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SpCCtmQn3QE"
+        videoId: "gRTlgy_kp6E"
         name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "YhjOMzCKt_M"
-        name: "LIVE: Iran Captures 2nd US Military Aircraft Intact Using Electronic Warfare; Big Blow To Trump|N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "3VcdH-fNh44"
-        name: "Breaking News LIVE: Police Clash With Protesters in Paris | France Protest LIVE | Paris In Flames?"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rHeON8qZcxY"
-        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (31.10.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "0q6lhvEWxt4"
+        name: "🔴LIVE: నా కళ్ల ముందే  రంపంతో .. ప్రత్యక్ష సాక్షి క్లాస్ టీచర్! | Class Teacher Shocking Facts | ABN"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "D05aA2Kkfnw"
-        name: "LIVE: ‘Strike On America In Hours?’ Will Iran Launch Hypersonic Missiles Tonight? US-Iran War"
+        videoId: "2XTbDwzzDf8"
+        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "85fl5jfdv2E"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 31 October 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "teM5JqWEjbI"
+        name: "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "h2Qii1WbDjk"
-        name: "Iran US War Update: ईरान-अमेरिका युद्ध से जुड़ी बहुत बड़ी खबर!| Donald Trump | Iran | war News |N18G"
-        artist: "News18 Bihar Jharkhand"
+        videoId: "JYZsKrXB85A"
+        name: "WORLD NEWS | 31ST OCTOBER 2026 | AIT LIVE"
+        artist: "Africa Independent Television"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0_UM5fEhIvg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (31.10.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "c0wwwIHUvJo"
+        name: "Iran's Supreme Leader Warns US, Israel | Israel Polls 2026 | ARY News 2 AM Headlines | 1st Nov 2026"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "w1w0W45hpr0"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 1 November 2026 | NTV Latest News Update"
+        artist: "NTV News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cidZ807JTBo"
+        name: "LIVE: ABC News Live - Saturday, October 31"
+        artist: "ABC News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-10-31T20:52:12.385Z"
+  exported_at: "2026-11-01T03:47:04.527Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-10-31T20:52:12.352Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-01T03:47:04.495Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
