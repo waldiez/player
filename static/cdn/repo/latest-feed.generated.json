@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-01T03:47:04.495Z",
+    "generatedAt": "2026-11-01T12:29:39.173Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kPzhxtOIef0",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "B1G56pxUgFg",
+            "name": "YS Jagan LIVE: పులివెందులలో జగన్...| Pulivendula Election Polling LIVE @SakshiTVLIVE",
+            "artist": "Sakshi TV Live"
         },
         {
             "mood": "storm",
-            "videoId": "gRTlgy_kp6E",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
-            "artist": "Times Now"
+            "videoId": "twtDCF6lCAA",
+            "name": "🔴LIVE: Today Headlines | Puthiyathalaimurai | மதியம் 2 மணி தலைப்புச் செய்திகள் 01.11.2026 |CM Vijay",
+            "artist": "PuthiyathalaimuraiTV"
         },
         {
             "mood": "storm",
-            "videoId": "0q6lhvEWxt4",
-            "name": "🔴LIVE: నా కళ్ల ముందే  రంపంతో .. ప్రత్యక్ష సాక్షి క్లాస్ టీచర్! | Class Teacher Shocking Facts | ABN",
-            "artist": "ABN Telugu "
+            "videoId": "9H96wyyfEAk",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.11.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "2XTbDwzzDf8",
-            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "OvI2cY-Nzyg",
+            "name": "'ചലോ ദില്ലി' മഹാറാലി ഡൽഹിയിൽ | Chalo Dilli rally LIVE | Delhi | Latest News | Breaking News Update",
+            "artist": "Manorama News"
         },
         {
             "mood": "storm",
-            "videoId": "teM5JqWEjbI",
-            "name": "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "Kizd1p3iMPU",
+            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર | Fatafat News | Weather | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "JYZsKrXB85A",
-            "name": "WORLD NEWS | 31ST OCTOBER 2026 | AIT LIVE",
-            "artist": "Africa Independent Television"
+            "videoId": "zKQgnnx3uVM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Khobor Srot"
         },
         {
             "mood": "storm",
-            "videoId": "0_UM5fEhIvg",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (31.10.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "ENN4Isf56SY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "c0wwwIHUvJo",
-            "name": "Iran's Supreme Leader Warns US, Israel | Israel Polls 2026 | ARY News 2 AM Headlines | 1st Nov 2026",
-            "artist": "ARY News"
+            "videoId": "HXJ5jy6568k",
+            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "w1w0W45hpr0",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 1 November 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "TEgpJSSII0Y",
+            "name": "LIVE: Iran Threatens US | Will Hypersonic Missiles Strike Tonight? | Iran FM’s Biggest Statement",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "cidZ807JTBo",
-            "name": "LIVE: ABC News Live - Saturday, October 31",
-            "artist": "ABC News"
+            "videoId": "uQVqt7Y9yzI",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 01.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GfpWFBnkS9Q",
+            "name": "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS",
+            "artist": "ET Now World"
         }
     ],
     "sourceFilters": {
