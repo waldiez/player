@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261101T122939.214Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261101T213437.197Z-l4t35t"
   type: "state"
-  created: "2026-11-01T12:29:39.214Z"
+  created: "2026-11-01T21:34:37.197Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261101T122939.214Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261101T213437.197Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "B1G56pxUgFg"
-        name: "YS Jagan LIVE: పులివెందులలో జగన్...| Pulivendula Election Polling LIVE @SakshiTVLIVE"
-        artist: "Sakshi TV Live"
+        videoId: "KzxGRFNL7n0"
+        name: "Donald Trump LIVE: Big Decision on Iran War | Latest Warning to Iran | US News LIVE |WORLD NEWS LIVE"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "twtDCF6lCAA"
-        name: "🔴LIVE: Today Headlines | Puthiyathalaimurai | மதியம் 2 மணி தலைப்புச் செய்திகள் 01.11.2026 |CM Vijay"
-        artist: "PuthiyathalaimuraiTV"
+        videoId: "FFBe5vh05Ac"
+        name: "Ramlila Maidan Rally News LIVE: शाम के 5 बजते ही राहुल गांधी के 7 खुलासों ने उड़ा दिए होश!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9H96wyyfEAk"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.11.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "OvI2cY-Nzyg"
-        name: "'ചലോ ദില്ലി' മഹാറാലി ഡൽഹിയിൽ | Chalo Dilli rally LIVE | Delhi | Latest News | Breaking News Update"
-        artist: "Manorama News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Kizd1p3iMPU"
-        name: "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર | Fatafat News | Weather | News18 Gujarati"
+        videoId: "q8olJ6nAGzA"
+        name: "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
         artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zKQgnnx3uVM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Khobor Srot"
+        videoId: "576Br7n1Gzc"
+        name: "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ENN4Isf56SY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "HXJ5jy6568k"
-        name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "TEgpJSSII0Y"
-        name: "LIVE: Iran Threatens US | Will Hypersonic Missiles Strike Tonight? | Iran FM’s Biggest Statement"
-        artist: "Times Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uQVqt7Y9yzI"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ | 01.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "GfpWFBnkS9Q"
-        name: "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS"
+        videoId: "VtqeRqjMYNQ"
+        name: "Trump LIVE: US Takeover of Iran? Latest US–Iran Developments | World News LIVE | IRAN | US NEWS"
         artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "f6ES9-KXUKM"
+        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "mEfKR-6g34c"
+        name: "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "SMqE6OjRV-A"
+        name: "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-01T12:29:39.214Z"
+  exported_at: "2026-11-01T21:34:37.197Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-01T12:29:39.173Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-01T21:34:37.168Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"

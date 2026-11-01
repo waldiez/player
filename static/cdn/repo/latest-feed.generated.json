@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-01T12:29:39.173Z",
+    "generatedAt": "2026-11-01T21:34:37.168Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "B1G56pxUgFg",
-            "name": "YS Jagan LIVE: పులివెందులలో జగన్...| Pulivendula Election Polling LIVE @SakshiTVLIVE",
-            "artist": "Sakshi TV Live"
+            "videoId": "KzxGRFNL7n0",
+            "name": "Donald Trump LIVE: Big Decision on Iran War | Latest Warning to Iran | US News LIVE |WORLD NEWS LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "twtDCF6lCAA",
-            "name": "🔴LIVE: Today Headlines | Puthiyathalaimurai | மதியம் 2 மணி தலைப்புச் செய்திகள் 01.11.2026 |CM Vijay",
-            "artist": "PuthiyathalaimuraiTV"
+            "videoId": "FFBe5vh05Ac",
+            "name": "Ramlila Maidan Rally News LIVE: शाम के 5 बजते ही राहुल गांधी के 7 खुलासों ने उड़ा दिए होश!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "9H96wyyfEAk",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (01.11.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OvI2cY-Nzyg",
-            "name": "'ചലോ ദില്ലി' മഹാറാലി ഡൽഹിയിൽ | Chalo Dilli rally LIVE | Delhi | Latest News | Breaking News Update",
-            "artist": "Manorama News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Kizd1p3iMPU",
-            "name": "Gujarati Latest News LIVE | આજના તમામ મોટા મહત્વના સમાચાર | Fatafat News | Weather | News18 Gujarati",
+            "videoId": "q8olJ6nAGzA",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "zKQgnnx3uVM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Khobor Srot"
+            "videoId": "576Br7n1Gzc",
+            "name": "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "ENN4Isf56SY",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 01 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "HXJ5jy6568k",
-            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "TEgpJSSII0Y",
-            "name": "LIVE: Iran Threatens US | Will Hypersonic Missiles Strike Tonight? | Iran FM’s Biggest Statement",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "uQVqt7Y9yzI",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 01.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GfpWFBnkS9Q",
-            "name": "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS",
+            "videoId": "VtqeRqjMYNQ",
+            "name": "Trump LIVE: US Takeover of Iran? Latest US–Iran Developments | World News LIVE | IRAN | US NEWS",
             "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "f6ES9-KXUKM",
+            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mEfKR-6g34c",
+            "name": "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SMqE6OjRV-A",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
