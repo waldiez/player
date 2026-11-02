@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-01T21:34:37.168Z",
+    "generatedAt": "2026-11-02T03:52:21.830Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "KzxGRFNL7n0",
-            "name": "Donald Trump LIVE: Big Decision on Iran War | Latest Warning to Iran | US News LIVE |WORLD NEWS LIVE",
-            "artist": "ET Now World"
+            "videoId": "sy7lh6hO8Ko",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov, 1, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "FFBe5vh05Ac",
-            "name": "Ramlila Maidan Rally News LIVE: शाम के 5 बजते ही राहुल गांधी के 7 खुलासों ने उड़ा दिए होश!",
-            "artist": "ABP NEWS"
+            "videoId": "3lQ58DJunYI",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "q8olJ6nAGzA",
-            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "EXR7rEiV1Jo",
+            "name": "Republic TV LIVE: November 3, 2026 | India | Global News | US Midterms",
+            "artist": "Republic World"
         },
         {
             "mood": "storm",
-            "videoId": "576Br7n1Gzc",
-            "name": "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS",
+            "videoId": "_aWtmQp_J4I",
+            "name": "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "VtqeRqjMYNQ",
-            "name": "Trump LIVE: US Takeover of Iran? Latest US–Iran Developments | World News LIVE | IRAN | US NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "f6ES9-KXUKM",
-            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
+            "videoId": "dmR8PEkrxK4",
+            "name": "Trump Strikes Before US Election LIVE: America's Political Storm | Trump News | WORLD NEWS LIVE",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "mEfKR-6g34c",
-            "name": "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE",
-            "artist": "ET Now"
+            "videoId": "OgALD95MZOQ",
+            "name": "Ramlila Maidan Rally LIVE: रामलीला मैदान से ताजा अपडेट | Rahul Gandhi | Congress | BJP | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "SMqE6OjRV-A",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
+            "videoId": "_B_L4xtSGbU",
+            "name": "🔴LIVE: పులివెందులలో  ఓటమిని ఒప్పుకున్న జగన్..! || Pulivendula || YS Jagan || AP Municipal Elections",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "ydLY5BgDHuM",
+            "name": "🔴Murasu Cyclone LIVE Updates : దూసుకొస్తున్న మురసు తుఫాను..గంటకు 120 కిమీ.ల వేగం | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "1RZyyuIDx3s",
+            "name": "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5T85pZqkzG0",
+            "name": "Today's Headlines | 02 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
