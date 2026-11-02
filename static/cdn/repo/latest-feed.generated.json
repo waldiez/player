@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-02T03:52:21.830Z",
+    "generatedAt": "2026-11-02T14:29:19.248Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sy7lh6hO8Ko",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov, 1, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3lQ58DJunYI",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "EXR7rEiV1Jo",
-            "name": "Republic TV LIVE: November 3, 2026 | India | Global News | US Midterms",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_aWtmQp_J4I",
-            "name": "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "dmR8PEkrxK4",
-            "name": "Trump Strikes Before US Election LIVE: America's Political Storm | Trump News | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OgALD95MZOQ",
-            "name": "Ramlila Maidan Rally LIVE: रामलीला मैदान से ताजा अपडेट | Rahul Gandhi | Congress | BJP | Breaking",
+            "videoId": "SnQ4qtajnMk",
+            "name": "Punjab MLA AAP Resign News LIVE: लो हो गया बड़ा इस्तीफा! | Big Breaking | Election 2027 | BJP",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "_B_L4xtSGbU",
-            "name": "🔴LIVE: పులివెందులలో  ఓటమిని ఒప్పుకున్న జగన్..! || Pulivendula || YS Jagan || AP Municipal Elections",
-            "artist": "ABN Telugu "
+            "videoId": "SMqE6OjRV-A",
+            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ydLY5BgDHuM",
-            "name": "🔴Murasu Cyclone LIVE Updates : దూసుకొస్తున్న మురసు తుఫాను..గంటకు 120 కిమీ.ల వేగం | ABN Telugu",
-            "artist": "ABN Telugu "
-        },
-        {
-            "mood": "storm",
-            "videoId": "1RZyyuIDx3s",
-            "name": "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC",
-            "artist": "TV9 Bharatvarsh"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5T85pZqkzG0",
-            "name": "Today's Headlines | 02 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
+            "videoId": "rQtmlpc2YaM",
+            "name": "🔴LIVE : நெருங்கிவிட்டது 'முரசு'புயல் - செல்லும் பாதையில்  திருப்பம்",
             "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZnesMhJAMWQ",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ACj0semcPJU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KNeA83TdpSU",
+            "name": "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "03Z0bR_rpeQ",
+            "name": "First Trade 2nd November 2026: Zee Business Live | Share Market Live Updates | Stock Market News",
+            "artist": "Zee Business"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KKXG1lUY7U0",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Nig5clbnByo",
+            "name": "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ০২.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
