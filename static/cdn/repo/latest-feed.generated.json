@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-02T14:29:19.248Z",
+    "generatedAt": "2026-11-03T00:18:53.598Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SnQ4qtajnMk",
-            "name": "Punjab MLA AAP Resign News LIVE: लो हो गया बड़ा इस्तीफा! | Big Breaking | Election 2027 | BJP",
-            "artist": "ABP NEWS"
+            "videoId": "EBY7CyR-obc",
+            "name": "World War 3 LIVE: UN में भरेंगे हुंकार, नेतन्याहू का बड़ा ऐलान! Breaking News | Netanyahu UN Speech",
+            "artist": "India News"
         },
         {
             "mood": "storm",
-            "videoId": "SMqE6OjRV-A",
-            "name": "Breaking News LIVE: US Declares Nuclear Emergency? | America On High Alert | Trump LIVE | US News",
-            "artist": "Times Now"
+            "videoId": "pGn5znuhTRk",
+            "name": "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "rQtmlpc2YaM",
-            "name": "🔴LIVE : நெருங்கிவிட்டது 'முரசு'புயல் - செல்லும் பாதையில்  திருப்பம்",
+            "videoId": "4Vte6FMn5Zo",
+            "name": "BREAKING News LIVE: Kash Patel Exposes 'Big Names' Involved In Trump Assassination Attempt | US News",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hdu2adeQX3g",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tmmHfmaUGnY",
+            "name": "America Midterm Elections Results Live: Donald Trump | Republican Vs Democratic | US News | Top News",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2bbA6DYLnj8",
+            "name": "🔴Murasu CYCLONE Alert LIVE Updates : ముంచుకొస్తున్న మురసు..రెడ్ అలర్ట్ | ABN Telugu",
+            "artist": "ABN Telugu "
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ou9nCn5xpcw",
+            "name": "Breaking News LIVE | World War 3 About To Start? | Iran Oil Factories Attacked? | Trump Latest Live",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZWpf2M0d56k",
+            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Lb8HDP0no74",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (02.11.2026) | Sathiyam Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "ZnesMhJAMWQ",
-            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "cAReYIjozNI",
+            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "ACj0semcPJU",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Bijoy i-Desk"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KNeA83TdpSU",
-            "name": "BREAKING NEWS LIVE: Trump’s Iran Strike Order? Hegseth’s Latest Update | US News | WORLD NEWS LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "03Z0bR_rpeQ",
-            "name": "First Trade 2nd November 2026: Zee Business Live | Share Market Live Updates | Stock Market News",
-            "artist": "Zee Business"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KKXG1lUY7U0",
-            "name": "Gujarat Fatafat News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Nig5clbnByo",
-            "name": "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ০২.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "-6pWlVji55E",
+            "name": "🔴LIVE : Andhra | Girl Attacked | மாணவியை ரம்பத்தால் அறுத்த கொடூரன் சுடப்பட்டான்",
+            "artist": "Sathiyam News"
         }
     ],
     "sourceFilters": {
