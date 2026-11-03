@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261103T132634.648Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261103T224602.745Z-l4t35t"
   type: "state"
-  created: "2026-11-03T13:26:34.648Z"
+  created: "2026-11-03T22:46:02.745Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261103T132634.648Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261103T224602.745Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "x5gE0pWWhTg"
-        name: "Trump Strikes Before US Election LIVE: America's Political Storm | Trump News | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
+        videoId: "zidQLRVhH3I"
+        name: "US Midterm Elections 2026 LIVE: Attack On Trump | Trump l Latest Speech | Trump Speech Live | US"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jrrxSIesJs4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "sdDuf_Q-jS0"
+        name: "BREAKING NEWS LIVE: Trump Makes Major Emergency Announcement | US on High Alert? | Trump Speech LIVE"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C6FkU0A2Nd4"
-        name: "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World"
-        artist: "Times Now World"
+        videoId: "VrcnITeKCMQ"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A55TCBNRaIw"
-        name: "TV9 Bharatvarsh LIVE: US attack on Iran | INDIA Alliance | Cyclone Murasu | US Midterm Elections"
-        artist: "TV9 Bharatvarsh"
+        videoId: "NjHHbGQmZUI"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OYL-BtNAcYs"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (03.11.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "0MHlyaV5f4w"
+        name: "Today Headlines - 03 NOVEMBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rStsfzCLjA8"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 03 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "dvYVXL59kNs"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । ০৩.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "AKeL3-tHX3s"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SQWaNNQwWs0"
-        name: "Dhirendra Shastri Controversy News LIVE : धीरेंद्र शास्त्री को लेकर बड़ी खबर | Akhilesh Yadav"
-        artist: "NDTV India"
+        videoId: "26IQIqIklm8"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (03.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "A2dtoiDq_f8"
-        name: "US Midterm Elections LIVE : मिडटर्म चुनाव में बड़ा उलटफेर? | US Election News | Donald Trump | US"
-        artist: "News18 Rajasthan"
+        videoId: "ShOUaJv3RO8"
+        name: "Iran Attack On Europe: अभी-अभी यूरोप के 7 देशों पर बड़ा अटैक! LIVE | Iran US War | IRGC | Trump"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3QnYrAtNCiA"
-        name: "🔴 LIVE : Lunch Time Sinhala News | (03.11.2026) දහවල් ප්‍රධාන ප්‍රවෘත්ති"
-        artist: "Newsfirst Sri Lanka"
+        videoId: "BqQS77K4e4g"
+        name: "America Massive Attack on Iran LIVE: अमेरिका ने ईरान पर फिर दागी मिसाइलें | Trump | Israel |Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YTVUmc2I__U"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 03 November 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EIZPsCUV-9U"
+        name: "অবশেষে ইরানে হামলা চালিয়েই দিলো যুক্তরাষ্ট্র, ইরানের রণপ্রস্তুতি | Ajker Alochito Khobor | NEWS24"
+        artist: "NEWS24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-03T13:26:34.648Z"
+  exported_at: "2026-11-03T22:46:02.745Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-03T13:26:34.609Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-03T22:46:02.709Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
