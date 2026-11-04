@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261104T133749.028Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261104T230357.361Z-l4t35t"
   type: "state"
-  created: "2026-11-04T13:37:49.028Z"
+  created: "2026-11-04T23:03:57.361Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261104T133749.028Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261104T230357.361Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "IDbxxz8ooqM"
-        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
+        videoId: "NilSE3_TBE8"
+        name: "US Midterm Elections 2026 Results Live: Democrats Win Control Of Congress | Iran War | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OtSPiTo00Xc"
-        name: "LIVE: US midterm election results reshaping Congress"
-        artist: "Reuters"
+        videoId: "6QTuc_Btw7g"
+        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TYpWLBwAYL0"
-        name: "BIG BREAKING LIVE: IRAN SURRENDERS TO TRUMP, Trump's Explosive VICTORY SPEECH Goes VIRAL"
-        artist: "ET Now"
+        videoId: "GpaY0mvEXmI"
+        name: "US Result Live: US Midterm Election Results | Senate, House and Governor Races| C-Span Live Coverage"
+        artist: "The Financial Express"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Vi3ddVWiM1E"
-        name: "REPLAY: Democrats win control of House and Senate in US midterms"
-        artist: "FRANCE 24 English"
+        videoId: "7bzyTn6O714"
+        name: "President Trump speaks after midterm elections"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IilSwB9j0ko"
-        name: "US Midterm Elections Result LIVE: Donald Trump की किस्मत का फैसला | America Politics | Republicans"
-        artist: "Aaj Tak"
+        videoId: "_EogGsb0cfs"
+        name: "Today Breaking News LIVE | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്ത | Top Headlines Of The Hour | 04.11.2026"
+        artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "87edNKkg1Ow"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "3LGF3Dw9Pj4"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (04.11.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MzSj23_o7v4"
-        name: "Trump LIVE: U.S. On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "llCnPNvckJM"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.11.2026) | 2 PM Headlines | ThanthiTV"
+        videoId: "W4ntQCGaQbI"
+        name: "🔴LIVE: DonaldTrump | USMid TermElection | `இழந்தார்’ டிரம்ப்..முடிந்தது கதை-மாறிய உலக தலைப்பு செய்தி"
         artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zBUqEW4YtMs"
-        name: "US Midterm Election Result LIVE Updates: आए US चुनाव के फाइनल नतीजे | Donald Trump | Breaking"
-        artist: "ABP NEWS"
+        videoId: "skOdefMEUEE"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (04.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "B3KsWdhiepM"
-        name: "🔴LIVE : Today Headlines | இரவு 7 மணி தலைப்புச் செய்திகள் (04.11.2026) | 7 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "x5E0msPSX8c"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 04 November 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "WnHUyv2jNI8"
+        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE : ट्रंप हारे, जीत गया 'अब्दुल'! Trump | America"
+        artist: "NDTV India"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-04T13:37:49.028Z"
+  exported_at: "2026-11-04T23:03:57.361Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-04T13:37:48.981Z"
+  source_generated_at: "2026-11-04T23:03:57.329Z"
   validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
