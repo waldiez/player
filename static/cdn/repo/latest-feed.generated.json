@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-04T04:24:16.051Z",
+    "generatedAt": "2026-11-04T13:37:48.981Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "1_65wRpY3Hc",
-            "name": "Midterm election results live coverage from Eyewitness News",
-            "artist": "Eyewitness News ABC7NY"
+            "videoId": "IDbxxz8ooqM",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "m5oqaVThSHM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 04 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "OtSPiTo00Xc",
+            "name": "LIVE: US midterm election results reshaping Congress",
+            "artist": "Reuters"
         },
         {
             "mood": "storm",
-            "videoId": "JWUPycPWU3U",
-            "name": "US Midterm Election Results LIVE | Donald Trump | Vote Counting | Election Breaking | World News",
+            "videoId": "TYpWLBwAYL0",
+            "name": "BIG BREAKING LIVE: IRAN SURRENDERS TO TRUMP, Trump's Explosive VICTORY SPEECH Goes VIRAL",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Vi3ddVWiM1E",
+            "name": "REPLAY: Democrats win control of House and Senate in US midterms",
+            "artist": "FRANCE 24 English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "IilSwB9j0ko",
+            "name": "US Midterm Elections Result LIVE: Donald Trump की किस्मत का फैसला | America Politics | Republicans",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "87edNKkg1Ow",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MzSj23_o7v4",
+            "name": "Trump LIVE: U.S. On High Alert? Trump Issues Urgent Warning | Trump's Emergency Announcement LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "llCnPNvckJM",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (04.11.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zBUqEW4YtMs",
+            "name": "US Midterm Election Result LIVE Updates: आए US चुनाव के फाइनल नतीजे | Donald Trump | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ipQietQ-k2Q",
-            "name": "US Midterm Elections LIVE : मिडटर्म चुनाव में बड़ा उलटफेर? | US Election News | Donald Trump | US",
-            "artist": "News18 Rajasthan"
-        },
-        {
-            "mood": "storm",
-            "videoId": "36GGxHzh_44",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৪.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "qco7FSIPeVQ",
-            "name": "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kb48q4EmVTc",
-            "name": "Iran US War LIVE Updates: छिड़ेगा विश्नयुद्ध? | Trump | Israel | Hormuz | Oil Crisis Explained | WW3",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "rERnGkXRd_k",
-            "name": "Headlines Now | 6 AM | 04-11-2026 | Sun News | Tamil News Today | Latest News",
-            "artist": "Sun News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8YAWAgXwSzk",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 3, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "1FBFCOrpE-o",
-            "name": "McEnany: This is the HOTTEST race of 2026",
-            "artist": "Fox News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "C_rA28TFy80",
-            "name": "Today's Headlines | 04 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7V_Tdaj_LeE",
-            "name": "Republic TV LIVE: November 4, 2026 | India | Global News | US Midterms Elections 2026",
-            "artist": "Republic World"
+            "videoId": "B3KsWdhiepM",
+            "name": "🔴LIVE : Today Headlines | இரவு 7 மணி தலைப்புச் செய்திகள் (04.11.2026) | 7 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
