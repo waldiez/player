@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-05T04:40:58.787Z",
+    "generatedAt": "2026-11-05T13:50:11.093Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "0o1TPKLvHz8",
+            "videoId": "ScjNXbN_4t4",
             "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "IC386Olamq4",
-            "name": "100 News Today LIVE: देश-दुनिया की 100 बड़ी खबरें | Headlines Today | Hindi News | Breaking News",
-            "artist": "NDTV India"
+            "videoId": "voyWVRinD2g",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "WVRxYD45RA8",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 4, 2026",
-            "artist": "ABC News"
+            "videoId": "PC7WcBgjKyQ",
+            "name": "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "WLic68PukrI",
-            "name": "US Election Results LIVE Updates: 9 कंपनियों पर लगाया प्रतिबंध! | India-America Relations | Breaking",
-            "artist": "ABP NEWS"
+            "videoId": "H9DU8Oeqki0",
+            "name": "🔴LIVE: அன்பில் மகேஷுக்கு ஜாமீன்? | anbil mahesh | Bail | sathiyam news",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "5SI9H7vZIHQ",
-            "name": "TV9 Bharatvarsh LIVE: US Midterm Election | UP Election | Trump |PM Modi | Rahul Gandhi |Hindi News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "N5h8uj8OXJo",
+            "name": "🔴LIVE: இஸ்ரேல் தேர்தலில் திடீர் திருப்பம்!",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "KqfdSf_guHg",
-            "name": "Republic TV LIVE: November 5, 2026 | India | Global News | US Midterms Elections 2026",
-            "artist": "Republic World"
+            "videoId": "YTZhVP3yCEA",
+            "name": "TRUMP LIVE: WORLD WAR 3 FEARS EXPLODE! His Latest Speech Sparks Global Alarm! | US IRAN NEWS",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "ayhW5ul6KkY",
-            "name": "Iran America War Update Live: टूटा सुपर पॉवर का घमंड! | Trump | US Midterm Election। World News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "AfDMF59YTus",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "sSKR7_YgAhk",
-            "name": "US NEWS LIVE: Vance Drops Major Iran War Bombshell, 'US IRAN WAR OVER!' | World News LIVE",
+            "videoId": "oebBW-LTTgM",
+            "name": "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Pp5HAuHIUTs",
-            "name": "What do the US election results mean for the world? | BBC News",
-            "artist": "BBC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "w2jUeu3Z8MM",
-            "name": "LIVE:Donald Trump Election Setback | Indian Americans Election Results | Indian Origin Leaders Wins!",
-            "artist": "Zee Telugu News"
+            "videoId": "NQXfygtiqcs",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ০৫.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         }
     ],
     "sourceFilters": {
