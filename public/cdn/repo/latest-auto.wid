@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261105T135011.125Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261105T230808.734Z-l4t35t"
   type: "state"
-  created: "2026-11-05T13:50:11.125Z"
+  created: "2026-11-05T23:08:08.734Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261105T135011.125Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261105T230808.734Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,56 +53,56 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ScjNXbN_4t4"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "GZCI0BPn1Do"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "voyWVRinD2g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 06 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "9uI114FR02s"
+        name: "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PC7WcBgjKyQ"
-        name: "Marco Rubio LIVE: Trump Accepts Iran's Offer? | White House Briefing | WORLD NEWS LIVE | US NEWS"
-        artist: "ET Now"
+        videoId: "zqaeY5JEb6c"
+        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H9DU8Oeqki0"
-        name: "🔴LIVE: அன்பில் மகேஷுக்கு ஜாமீன்? | anbil mahesh | Bail | sathiyam news"
-        artist: "Sathiyam News"
+        videoId: "8CPfpk2nUqY"
+        name: "LIVE: JD Vance Blames Trump's Iran War for Republican Midterm Rout | The Palki Sharma Show | IGR"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N5h8uj8OXJo"
-        name: "🔴LIVE: இஸ்ரேல் தேர்தலில் திடீர் திருப்பம்!"
-        artist: "Sathiyam News"
+        videoId: "VNT4AUd_s0s"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 05 November 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YTZhVP3yCEA"
+        videoId: "Bz9PHkrDbhQ"
         name: "TRUMP LIVE: WORLD WAR 3 FEARS EXPLODE! His Latest Speech Sparks Global Alarm! | US IRAN NEWS"
         artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "AfDMF59YTus"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "Ok9kP4vNL6I"
+        name: "The Palki Sharma Show LIVE: Americans Reject Trump | End of Iran War? | AI Shrinking Big Tech? | IGR"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "oebBW-LTTgM"
-        name: "US NEWS LIVE: Trump Stuns Everyone With Urgent 24-Hour Announcement | Donald Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "m52u-3oAxSU"
+        name: "একদিনে ইউরোপজুড়ে সাত ফ্লাইটে বোমার হুমকি! | Europe Bomb Threats | Bomb Threats in Europe | ATN News"
+        artist: "ATN News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "NQXfygtiqcs"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । ০৫.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "vbhxRgvLrBs"
+        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 05.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
@@ -114,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-05T13:50:11.125Z"
+  exported_at: "2026-11-05T23:08:08.734Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-05T13:50:11.093Z"
+  source_generated_at: "2026-11-05T23:08:08.703Z"
   validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
