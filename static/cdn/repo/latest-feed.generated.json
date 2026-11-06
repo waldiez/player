@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-05T23:08:08.703Z",
+    "generatedAt": "2026-11-06T04:40:49.279Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "GZCI0BPn1Do",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
+            "videoId": "cIe6G4fiVyM",
+            "name": "Breaking News LIVE: Donald Trump Makes Huge Announcement | US on High Alert? | Trump Speech LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "9uI114FR02s",
-            "name": "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News",
+            "videoId": "CvWqTy4B988",
+            "name": "Russia Ukraine War LIVE: यूक्रेन के Kyiv में Japan जैसा हमला, दर्जनों मौत की आशंका! Putin | Zelensky",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "plW_FaJNITw",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 5, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "jgjpX-2NgSk",
+            "name": "BREAKING News LIVE: US Wins Iran War? Trump Delivers Major Victory Speech LIVE | Trump LIVE",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "glix5x6c5hY",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zqaeY5JEb6c",
-            "name": "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "8CPfpk2nUqY",
-            "name": "LIVE: JD Vance Blames Trump's Iran War for Republican Midterm Rout | The Palki Sharma Show | IGR",
-            "artist": "India Global Review"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VNT4AUd_s0s",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 05 November 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Bz9PHkrDbhQ",
-            "name": "TRUMP LIVE: WORLD WAR 3 FEARS EXPLODE! His Latest Speech Sparks Global Alarm! | US IRAN NEWS",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ok9kP4vNL6I",
-            "name": "The Palki Sharma Show LIVE: Americans Reject Trump | End of Iran War? | AI Shrinking Big Tech? | IGR",
-            "artist": "India Global Review"
-        },
-        {
-            "mood": "storm",
-            "videoId": "m52u-3oAxSU",
-            "name": "একদিনে ইউরোপজুড়ে সাত ফ্লাইটে বোমার হুমকি! | Europe Bomb Threats | Bomb Threats in Europe | ATN News",
-            "artist": "ATN News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vbhxRgvLrBs",
-            "name": "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 05.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "videoId": "SrFOLTh7g4A",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৬.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Y_0NrjjCTfE",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "0LxyR5g-FpM",
+            "name": "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "K90xMw5lVJg",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kRnPUolAuFA",
+            "name": "Top Headlines Today LIVE | 100 News | Superfast Today | Trump | Aaj Ki Taja Khabar | Hindi News",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "wRAb71GISro",
+            "name": "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live",
+            "artist": "ET Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "pr8kVRYAV_8",
+            "name": "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC",
+            "artist": "TV9 Bharatvarsh"
         }
     ],
     "sourceFilters": {

@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261105T230808.734Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261106T044049.312Z-l4t35t"
   type: "state"
-  created: "2026-11-05T23:08:08.734Z"
+  created: "2026-11-06T04:40:49.312Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261105T230808.734Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T044049.312Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "GZCI0BPn1Do"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        videoId: "cIe6G4fiVyM"
+        name: "Breaking News LIVE: Donald Trump Makes Huge Announcement | US on High Alert? | Trump Speech LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9uI114FR02s"
-        name: "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News"
+        videoId: "CvWqTy4B988"
+        name: "Russia Ukraine War LIVE: यूक्रेन के Kyiv में Japan जैसा हमला, दर्जनों मौत की आशंका! Putin | Zelensky"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "plW_FaJNITw"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 5, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "jgjpX-2NgSk"
+        name: "BREAKING News LIVE: US Wins Iran War? Trump Delivers Major Victory Speech LIVE | Trump LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "glix5x6c5hY"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zqaeY5JEb6c"
-        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Announce Their Votes | US News Live | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8CPfpk2nUqY"
-        name: "LIVE: JD Vance Blames Trump's Iran War for Republican Midterm Rout | The Palki Sharma Show | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VNT4AUd_s0s"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 05 November 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Bz9PHkrDbhQ"
-        name: "TRUMP LIVE: WORLD WAR 3 FEARS EXPLODE! His Latest Speech Sparks Global Alarm! | US IRAN NEWS"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ok9kP4vNL6I"
-        name: "The Palki Sharma Show LIVE: Americans Reject Trump | End of Iran War? | AI Shrinking Big Tech? | IGR"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "m52u-3oAxSU"
-        name: "একদিনে ইউরোপজুড়ে সাত ফ্লাইটে বোমার হুমকি! | Europe Bomb Threats | Bomb Threats in Europe | ATN News"
-        artist: "ATN News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "vbhxRgvLrBs"
-        name: "এটিএন বাংলার সন্ধ্যা ৭ টার সংবাদ । 05.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "SrFOLTh7g4A"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৬.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Y_0NrjjCTfE"
+        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
+        artist: "News18 Urdu"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0LxyR5g-FpM"
+        name: "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "K90xMw5lVJg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kRnPUolAuFA"
+        name: "Top Headlines Today LIVE | 100 News | Superfast Today | Trump | Aaj Ki Taja Khabar | Hindi News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "wRAb71GISro"
+        name: "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pr8kVRYAV_8"
+        name: "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC"
+        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-05T23:08:08.734Z"
+  exported_at: "2026-11-06T04:40:49.312Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-05T23:08:08.703Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-06T04:40:49.279Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
