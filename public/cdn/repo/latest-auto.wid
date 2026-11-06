@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261106T044049.312Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261106T133514.458Z-l4t35t"
   type: "state"
-  created: "2026-11-06T04:40:49.312Z"
+  created: "2026-11-06T13:35:14.458Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T044049.312Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T133514.458Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "cIe6G4fiVyM"
-        name: "Breaking News LIVE: Donald Trump Makes Huge Announcement | US on High Alert? | Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "SKeOZMcV3oU"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CvWqTy4B988"
-        name: "Russia Ukraine War LIVE: यूक्रेन के Kyiv में Japan जैसा हमला, दर्जनों मौत की आशंका! Putin | Zelensky"
-        artist: "TV9 Bharatvarsh"
+        videoId: "Cau9Qwmo_ec"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 7 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The Inside "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "plW_FaJNITw"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 5, 2026"
-        artist: "ABC News"
+        videoId: "sN3lBDezuwE"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jgjpX-2NgSk"
-        name: "BREAKING News LIVE: US Wins Iran War? Trump Delivers Major Victory Speech LIVE | Trump LIVE"
+        videoId: "2BrKkNNlYwY"
+        name: "World News Live: Congress Moves Against President Santiago Peña as Banking Scandal Explodes!"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "glix5x6c5hY"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
+        videoId: "fXBmtHG3ouk"
+        name: "France News LIVE | Paris Protests, Demonstrations & Breaking News | France Latest LIVE Updates"
+        artist: "NDTV Profit"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SrFOLTh7g4A"
-        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৬.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "BiSmD3SaYFk"
+        name: "Iran US War | Trump Issues New Warning to Iran | ARY News 4 PM Headlines | 6 Nov 2026"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Y_0NrjjCTfE"
-        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
-        artist: "News18 Urdu"
+        videoId: "tNnOCIKVsN8"
+        name: "World News Live: Thailand's Stunning Royal Barge Procession Captivates the World | Thailand Live"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0LxyR5g-FpM"
-        name: "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "K90xMw5lVJg"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kRnPUolAuFA"
-        name: "Top Headlines Today LIVE | 100 News | Superfast Today | Trump | Aaj Ki Taja Khabar | Hindi News"
+        videoId: "JrhShFcm_cM"
+        name: "Jammu-Kashmir NC Crisis News LIVE: जम्मू-कश्मीर में 18 विधायकों ने बदल ली पार्टी? | Omar Abdullah"
         artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wRAb71GISro"
-        name: "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pr8kVRYAV_8"
-        name: "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC"
-        artist: "TV9 Bharatvarsh"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-06T04:40:49.312Z"
+  exported_at: "2026-11-06T13:35:14.458Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-06T04:40:49.279Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-06T13:35:14.008Z"
+  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
