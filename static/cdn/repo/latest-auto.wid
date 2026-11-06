@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261106T133514.458Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261106T223714.306Z-l4t35t"
   type: "state"
-  created: "2026-11-06T13:35:14.458Z"
+  created: "2026-11-06T22:37:14.306Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T133514.458Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T223714.306Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "SKeOZMcV3oU"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "_AIEA5AXSrs"
+        name: "Gujarat Superfast News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Cau9Qwmo_ec"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 7 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The Inside "
+        videoId: "K90xMw5lVJg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sN3lBDezuwE"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "v-AT7SV3-H0"
+        name: "White House Chief of Staff Susie Wiles is exiting the White House"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2BrKkNNlYwY"
-        name: "World News Live: Congress Moves Against President Santiago Peña as Banking Scandal Explodes!"
-        artist: "ET Now"
+        videoId: "ATIlAnnn4v0"
+        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.11.2026) | 11PM Headlines | Thanthi TV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fXBmtHG3ouk"
-        name: "France News LIVE | Paris Protests, Demonstrations & Breaking News | France Latest LIVE Updates"
-        artist: "NDTV Profit"
+        videoId: "N6D2F5DSbBo"
+        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BiSmD3SaYFk"
-        name: "Iran US War | Trump Issues New Warning to Iran | ARY News 4 PM Headlines | 6 Nov 2026"
-        artist: "ARY News"
+        videoId: "UALyln_p-E0"
+        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Debate Next Move | US News LIVE | US News | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tNnOCIKVsN8"
-        name: "World News Live: Thailand's Stunning Royal Barge Procession Captivates the World | Thailand Live"
-        artist: "ET Now"
+        videoId: "XbyUFkaCtGs"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JrhShFcm_cM"
-        name: "Jammu-Kashmir NC Crisis News LIVE: जम्मू-कश्मीर में 18 विधायकों ने बदल ली पार्टी? | Omar Abdullah"
-        artist: "ABP NEWS"
+        videoId: "RFwuoZQgNtQ"
+        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "b12RKk_nYdo"
+        name: "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL — IMMEDIATE Lockdown Declared Across America | World News"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "KxeBoPi-Ieg"
+        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-06T13:35:14.458Z"
+  exported_at: "2026-11-06T22:37:14.306Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-06T13:35:14.008Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-06T22:37:14.274Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
