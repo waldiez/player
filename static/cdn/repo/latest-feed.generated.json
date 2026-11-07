@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-06T22:37:14.274Z",
+    "generatedAt": "2026-11-07T04:06:49.600Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "_AIEA5AXSrs",
-            "name": "Gujarat Superfast News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "4fd2d3f-Qz4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 7 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The Inside "
         },
         {
             "mood": "storm",
-            "videoId": "K90xMw5lVJg",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines",
+            "videoId": "IEABPEHVFN4",
+            "name": "TRUMP'S IRAN ANNOUNCEMENT LIVE | WORLD WAR 3? Trump Threatens to Destroy Iran | US-Iran War LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2BrKkNNlYwY",
+            "name": "World News Live: Congress Moves Against President Santiago Peña as Banking Scandal Explodes!",
+            "artist": "ET Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "J8gfl5qNFCU",
+            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times",
+            "artist": "The Savera Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "3jVA6F1LOEo",
+            "name": "Breaking News LIVE: Trump Declares Nuclear Emergency? US on High Alert | America On High Alert",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Hx4JnYjbc3E",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৭.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "7L-yWpzrLVQ",
+            "name": "Republic TV LIVE: November 7, 2026 | India | Global News | France Protests",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "D9TpxZ812DE",
+            "name": "Headlines Now | 6 AM | 07-11-2026 | Sun News | Tamil News Today | Latest News",
+            "artist": "Sun News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "EKO-kI9P-Fg",
+            "name": "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ymaUiLay44Q",
+            "name": "Today's Headlines | 07 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "v-AT7SV3-H0",
-            "name": "White House Chief of Staff Susie Wiles is exiting the White House",
-            "artist": "ABC News"
+            "videoId": "vVopEhRIS7M",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026",
+            "artist": "MF Entertainment Official"
         },
         {
             "mood": "storm",
-            "videoId": "ATIlAnnn4v0",
-            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.11.2026) | 11PM Headlines | Thanthi TV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "N6D2F5DSbBo",
-            "name": "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "UALyln_p-E0",
-            "name": "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Debate Next Move | US News LIVE | US News | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "XbyUFkaCtGs",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "RFwuoZQgNtQ",
-            "name": "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b12RKk_nYdo",
-            "name": "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL — IMMEDIATE Lockdown Declared Across America | World News",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "KxeBoPi-Ieg",
-            "name": "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "jNGQBtjeico",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026",
+            "artist": "Navi Prod."
         }
     ],
     "sourceFilters": {

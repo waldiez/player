@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261106T223714.306Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261107T040649.642Z-l4t35t"
   type: "state"
-  created: "2026-11-06T22:37:14.306Z"
+  created: "2026-11-07T04:06:49.642Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261106T223714.306Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261107T040649.642Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "_AIEA5AXSrs"
-        name: "Gujarat Superfast News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "4fd2d3f-Qz4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 7 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "The Inside "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "K90xMw5lVJg"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (06.11.2026) | Sathiyam Headlines"
+        videoId: "IEABPEHVFN4"
+        name: "TRUMP'S IRAN ANNOUNCEMENT LIVE | WORLD WAR 3? Trump Threatens to Destroy Iran | US-Iran War LIVE"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2BrKkNNlYwY"
+        name: "World News Live: Congress Moves Against President Santiago Peña as Banking Scandal Explodes!"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "J8gfl5qNFCU"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times"
+        artist: "The Savera Times"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3jVA6F1LOEo"
+        name: "Breaking News LIVE: Trump Declares Nuclear Emergency? US on High Alert | America On High Alert"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Hx4JnYjbc3E"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ০৭.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7L-yWpzrLVQ"
+        name: "Republic TV LIVE: November 7, 2026 | India | Global News | France Protests"
+        artist: "Republic World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "D9TpxZ812DE"
+        name: "Headlines Now | 6 AM | 07-11-2026 | Sun News | Tamil News Today | Latest News"
+        artist: "Sun News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EKO-kI9P-Fg"
+        name: "Iran-US War Update: युद्ध के मैदान से सीधे LIVE | Iran-US | Trump | Middle East War | Hormuz | IRGC"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ymaUiLay44Q"
+        name: "Today's Headlines | 07 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "v-AT7SV3-H0"
-        name: "White House Chief of Staff Susie Wiles is exiting the White House"
-        artist: "ABC News"
+        videoId: "vVopEhRIS7M"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026"
+        artist: "MF Entertainment Official"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ATIlAnnn4v0"
-        name: "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (06.11.2026) | 11PM Headlines | Thanthi TV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "N6D2F5DSbBo"
-        name: "ഏറ്റവും പുതിയ ഗൾഫ് വാർത്തകളും വിശേഷങ്ങളും | Latest Gulf News | Mideast Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UALyln_p-E0"
-        name: "TRUMP IMPEACHMENT 2026 LIVE | Lawmakers Debate Next Move | US News LIVE | US News | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XbyUFkaCtGs"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "RFwuoZQgNtQ"
-        name: "Breaking News LIVE | Secret Service Escorts Donald Trump Out of Press Conference | World News LIVE"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b12RKk_nYdo"
-        name: "TRUMP SPEECH LIVE: Trump DROPS BOMBSHELL — IMMEDIATE Lockdown Declared Across America | World News"
-        artist: "ET Now World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KxeBoPi-Ieg"
-        name: "LIVE🔴এটিএন বাংলার টপ নিউজ । Top News | Today News | Breaking News | Update News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "jNGQBtjeico"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 6, 2026"
+        artist: "Navi Prod."
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-06T22:37:14.306Z"
+  exported_at: "2026-11-07T04:06:49.642Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-06T22:37:14.274Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-07T04:06:49.600Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
