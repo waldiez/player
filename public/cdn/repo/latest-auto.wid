@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261107T121547.154Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261107T211834.832Z-l4t35t"
   type: "state"
-  created: "2026-11-07T12:15:47.154Z"
+  created: "2026-11-07T21:18:34.832Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261107T121547.154Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261107T211834.832Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "CUyX63Upt7Q"
-        name: "TRUMP Speech On Iran LIVE | Donald Trump Makes Crucial Statement From The White House | Trump | US"
+        videoId: "phL3RmBNPoM"
+        name: "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE"
         artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "56pLcwBuAKs"
-        name: "ट्रंप की हार पर ईरान में जोरदार जश्न LIVE | US Midterm Election Result | America | US | Iran | NDTV"
+        videoId: "8k-iee1yTOI"
+        name: "Trump latest news LIVE | Trump in Jail? Pete Hegseth Under Fire Over Iran War | US News LIVE"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "V6Vc3Gq3-Aw"
+        name: "LIVE: Gold & Silver Price Hike | Today Stock Market Latest Updates | గోల్డ్‌ @ 2 లక్షలు !"
+        artist: "Zee Telugu News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "5wDGFCNUcnE"
+        name: "Live: ট্রাম্প প্রশাসনে ভাঙনের গুঞ্জনসহ বিশ্বের আলোচিত সব খবর | News Bulletin | World News | Jugantor"
+        artist: "Daily Jugantor"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4r8n8bBpkbk"
+        name: "🔴LIVE :Today Fast 100 News | 07 NOV 2026 | இன்றைய 100 முக்கியச் செய்திகள் | TN Political Updates"
+        artist: "NewsTamil 24X7"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cSBWzQ7YwF8"
+        name: "US News LIVE | WAR IS OVER? Trump Drops Bombshell | Iran War Latest News | IRAN NEWS"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7RQ09Yu1YhE"
+        name: "WATCH LIVE | Anti-Government Protests Continue in Albania's Capital Tirana | NDTV World"
+        artist: "NDTV World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ta4cIsnyJYA"
+        name: "Trump Iran Announcement LIVE: Donald Trump Delivers Major Statement From White House | Trump Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GaSTttcmcn8"
+        name: "IRAN NEWS LIVE | Nuclear Attack | Araghchi issues final warning, Trump moves Toward Iran War"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "PgqoTMv-mG0"
+        name: "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi :  UP Police ने रोका अनंत का काफिला ! | CM Yogi"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YDdp6yzogVE"
-        name: "Breaking News LIVE: Trump Accepts Iran’s Offer? US To Ditch Netanyahu? | Trump News LIVE | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Wngz05Fvjwc"
-        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (07.11.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_yU5xyo0ijY"
-        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
-        artist: "News18 Urdu"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DQJV4vyIe4Q"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Khobor Srot"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k2XTkXatnWc"
-        name: "আজকের আন্তর্জাতিক সব খবর, ০৭ নভেম্বর ২০২৬ | Jamuna i-Desk Today | International News | আজকের খবর |"
-        artist: "World News Ira"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "D3b4NtlPC4g"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 07 Nov t 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "বিশ্বদৃষ্টি 🌍"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-fF7o6R3se4"
-        name: "LIVE: 'World War 3 In...': Trump Issues STUNNING Nuclear Warning | US Big Attack On Iran | US News"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uxryn1EgDas"
-        name: "Trump Strikes Before US Election LIVE: America's Political Storm | Trump News | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UK0H-z8ywA8"
-        name: "Aaj Ki Taaza Khabar LIVE: 7 बजे की ताजा 100 बड़ी खबरें | Headlines Today | Hindi News Live | 100"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wkSB6ToKLxc"
-        name: "Breaking News LIVE | World War 3 About to Start? Trump's Biggest Announcement | wolrd news live"
-        artist: "ET Now"
+        videoId: "dHnluRfjNfo"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 07 November 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-07T12:15:47.154Z"
+  exported_at: "2026-11-07T21:18:34.832Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-07T12:15:47.123Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-07T21:18:34.795Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
