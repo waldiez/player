@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-07T21:18:34.795Z",
+    "generatedAt": "2026-11-08T03:51:13.009Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "phL3RmBNPoM",
-            "name": "BREAKING NEWS LIVE: Trump’s Big Speech | Hegseth’s Future Revealed? | US Politics |Trump speech LIVE",
-            "artist": "ET Now"
+            "videoId": "cZvpQm-yEy0",
+            "name": "World News LIVE | Putin's 90-Launcher Bombshell: Is Russia Arming Iran? | trump | putin",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "8k-iee1yTOI",
-            "name": "Trump latest news LIVE | Trump in Jail? Pete Hegseth Under Fire Over Iran War | US News LIVE",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "V6Vc3Gq3-Aw",
-            "name": "LIVE: Gold & Silver Price Hike | Today Stock Market Latest Updates | గోల్డ్‌ @ 2 లక్షలు !",
-            "artist": "Zee Telugu News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5wDGFCNUcnE",
-            "name": "Live: ট্রাম্প প্রশাসনে ভাঙনের গুঞ্জনসহ বিশ্বের আলোচিত সব খবর | News Bulletin | World News | Jugantor",
-            "artist": "Daily Jugantor"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4r8n8bBpkbk",
-            "name": "🔴LIVE :Today Fast 100 News | 07 NOV 2026 | இன்றைய 100 முக்கியச் செய்திகள் | TN Political Updates",
-            "artist": "NewsTamil 24X7"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cSBWzQ7YwF8",
-            "name": "US News LIVE | WAR IS OVER? Trump Drops Bombshell | Iran War Latest News | IRAN NEWS",
-            "artist": "ET Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7RQ09Yu1YhE",
-            "name": "WATCH LIVE | Anti-Government Protests Continue in Albania's Capital Tirana | NDTV World",
-            "artist": "NDTV World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ta4cIsnyJYA",
-            "name": "Trump Iran Announcement LIVE: Donald Trump Delivers Major Statement From White House | Trump Live",
+            "videoId": "fA92ovsLfis",
+            "name": "Breaking News LIVE: Donald Trump Makes Huge Announcement | US on High Alert? | Trump Speech LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "GaSTttcmcn8",
-            "name": "IRAN NEWS LIVE | Nuclear Attack | Araghchi issues final warning, Trump moves Toward Iran War",
-            "artist": "Times Now"
+            "videoId": "6MXpjtfxFhE",
+            "name": "Gujarati Evening News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "PgqoTMv-mG0",
-            "name": "Bharat Ki Baat Batata Hoon With Ashutosh Chaturvedi :  UP Police ने रोका अनंत का काफिला ! | CM Yogi",
-            "artist": "NDTV India"
+            "videoId": "5Zj8BEXihqE",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "dHnluRfjNfo",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 07 November 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "brbyBWlICJc",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News |  8 November 2026 | International News Bulletin",
+            "artist": "World News Today"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1GDon1uzbXo",
+            "name": "Gujarati Breaking News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fcQXGWwEbMo",
+            "name": "LIVE: ABC News Live - Saturday, November 7",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "FITQewsv9p8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (07.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MTsuJh1BLEU",
+            "name": "Mass shooting in Poland leaves 6 dead, dozen wounded | World News Tonight",
+            "artist": "TVP WORLD"
+        },
+        {
+            "mood": "storm",
+            "videoId": "1A8PSRpRXRk",
+            "name": "🔴LIVE: ఏపీ ఎంపీటీసీ, జడ్పీటీసీ ఎన్నికల కౌంటింగ్‌ | AP MPTC & ZPTC Election Results LIVE Updates |ABN",
+            "artist": "ABN Telugu "
         }
     ],
     "sourceFilters": {
