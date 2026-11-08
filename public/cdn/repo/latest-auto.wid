@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261108T123549.716Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261108T213304.626Z-l4t35t"
   type: "state"
-  created: "2026-11-08T12:35:49.716Z"
+  created: "2026-11-08T21:33:04.626Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261108T123549.716Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261108T213304.626Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "BId0jjv70zE"
-        name: "Aaj Ki Taaza Khabar LIVE: 9 बजे की ताजा 100 खबरें LIVE | Headlines Today | Hindi News Live | 100"
-        artist: "ABP NEWS"
+        videoId: "cZvpQm-yEy0"
+        name: "World News LIVE | Putin's 90-Launcher Bombshell: Is Russia Arming Iran? | trump | putin"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ESx-T4QbBGE"
-        name: "World War III Fears Rise as Trump Advisers Push for New Iran Strikes | 03PM HEADLINES"
-        artist: "Aaj News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "F_K635RgaE4"
-        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (08.11.2026) | 2 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NBThefP9F0o"
-        name: "Today Breaking News | 08 Novmber | Diwali 2026 | PM Modi | Rahul Gandhi | Delhi Air Pollution"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DvX9XQORZQc"
-        name: "World War III? | Trump's Advisers Push for New Iran Strikes | ARY News 2 PM Headlines | 8 Nov 2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "sDW3IEH1RIg"
-        name: "LIVE | 'ILHAN OMAR IN JAIL?' TRUMP SHOCKS GOVERNMENT | Trump Latest Live | Trump Latest Speech"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "s3lTR9TCa_8"
-        name: "Iran-America War Update: युद्ध के मैदान से सीधे LIVE | Mojtaba| Trump | Middle East | Hormuz | IRGC"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xHapHxHR0GI"
-        name: "Trump LIVE: US Troops to Invade Iran? Major Iran War Announcement | Breaking News | World News LIVE"
+        videoId: "EVf4RIPcIyI"
+        name: "Trump News LIVE: FBI Director Kash Patel UNMASKS The Trump Assassination Plot Details | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0Trpp3Bl_zU"
-        name: "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin"
+        videoId: "epczGHK1Vc0"
+        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
         artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "yUyKo7NNmUI"
+        name: "World News LIVE | Putin's 90-Launcher Bombshell: Is Russia Arming Iran? | trump | putin"
+        artist: "Times Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "g8WFoK7Wjc4"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "p5w8dckNYrQ"
+        name: "🔴LIVE: 10 ஆண்டுகளில் தங்கத்தின் விலை..தங்கம் வாங்கி \"கல்லா\" கட்டிய அதிர்ஷ்டசாலிகள்.."
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "EN4QRZ_vDkY"
+        name: "Israel Election 2026 | Israel Political Crisis | Benjamin Netanyahu |இதை நெதன்யாகு கனவிலும் நினைக்கல"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "iYyGv_lHhKc"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (08.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "sLz4DbSmvy0"
+        name: "LIVE: Trump Prepares Nuclear Attack On Iran | World War On Edge? | 'World War 3' | US News Live"
+        artist: "ET Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "k5D8qHq7jAA"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 09 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "QA1YtX91K0E"
+        name: "ഇനിയും യുദ്ധം താങ്ങാൻ ഗൾഫിനാകില്ല; ഇത് മരണക്കളി | Saudi Story"
+        artist: "MediaoneTV Live"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-08T12:35:49.716Z"
+  exported_at: "2026-11-08T21:33:04.626Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-08T12:35:49.678Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-08T21:33:04.574Z"
+  validation: "validation enabled: accepted 11/12 tracks; maxAgeHours=72 minKeywordHits=1; rejected: adRX0pIu_0M (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70)"
