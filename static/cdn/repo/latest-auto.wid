@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261109T040358.110Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261109T145340.863Z-l4t35t"
   type: "state"
-  created: "2026-11-09T04:03:58.110Z"
+  created: "2026-11-09T14:53:40.863Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261109T040358.110Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261109T145340.863Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "OhbO9psQeZU"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 08, 2026"
-        artist: "ABC News"
+        videoId: "SACAIpe9zp4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ky6xC5IdPss"
-        name: "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS"
-        artist: "ET Now World"
+        videoId: "PxKoIbIdNV0"
+        name: "Iran Plan a Massive Attack on US LIVE: Trump ने China-Russia से मांगी 'मदद'? | Middle East | Hormuz"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GvsY8TrCQa0"
-        name: "LIVE: Trump Declares Victory In Iran War | Makes Major Announcement | Trump Speech LIVE"
-        artist: "Times Now"
+        videoId: "ydvjdYkZSy0"
+        name: "Israel New PM Candidate News LIVE: इजरायल में नई सरकार की बड़ी शर्तों से दुनियाभर में हड़कंप!"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jlq0gmSus4w"
-        name: "Republic TV LIVE: November 9, 2026 | India | Global News | Delhi Pollution Crisis"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "b3fA5HSAvXY"
-        name: "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "k5HN_WFlCtw"
-        name: "Today's Headlines | 09 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        videoId: "O9pA048sDYA"
+        name: "Today Evening Headlines | 09 NOV 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GFqz08RdTLg"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 8, 2026"
-        artist: "MF Entertainment Official"
+        videoId: "eniGtMPZMYQ"
+        name: "Donald Trump Attack News Live : क्या ट्रंप को फिर मारने की हुई कोशिश ? | Venezuela | America | US"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FQsvoggNHVU"
-        name: "Big Breaking on Netanyahu LIVE: इजरायल में नया पीएम? | Israel New PM | Iran | Middle East Crisis |US"
-        artist: "ABP NEWS"
+        videoId: "Z6HVOfIzSDk"
+        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QMFRs-w925E"
-        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
-        artist: "Times Now"
+        videoId: "osU7LI3FfYs"
+        name: "WORLD NEWS | 9TH NOVEMBER 2026 | AIT LIVE"
+        artist: "Africa Independent Television"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "4k1GIN_3-mc"
-        name: "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 9 November | AQI | Pollution"
-        artist: "ABP NEWS"
+        videoId: "YriJcs4LSEE"
+        name: "Saudi Under Attack LIVE: Houthis Claim Deadly Missile Attack On King Khalid Airport Again | WION"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "WsAlG_dKs9I"
-        name: "Trump Says Stock Market Lost $3 Trillion in ONE Day | ARY News 1 AM Headlines | 9 Nov 2026"
-        artist: "ARY News"
+        videoId: "GrDDKMPe88g"
+        name: "🟢 দুপুরের খবর | Dupurer Khobor | 9 November 2026  | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-09T04:03:58.110Z"
+  exported_at: "2026-11-09T14:53:40.863Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-09T04:03:58.073Z"
-  validation: "validation enabled: accepted 11/12 tracks; maxAgeHours=72 minKeywordHits=1; rejected: adRX0pIu_0M (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 60 < 70)"
+  source_generated_at: "2026-11-09T14:53:40.814Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"

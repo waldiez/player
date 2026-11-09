@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-09T04:03:58.073Z",
+    "generatedAt": "2026-11-09T14:53:40.814Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "OhbO9psQeZU",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 08, 2026",
-            "artist": "ABC News"
+            "videoId": "SACAIpe9zp4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "ky6xC5IdPss",
-            "name": "US IRAN NEWS LIVE: Trump’s Iran Decision Sparks GLOBAL OUTRAGE, The World in Shock | US NEWS",
-            "artist": "ET Now World"
+            "videoId": "PxKoIbIdNV0",
+            "name": "Iran Plan a Massive Attack on US LIVE: Trump ने China-Russia से मांगी 'मदद'? | Middle East | Hormuz",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GvsY8TrCQa0",
-            "name": "LIVE: Trump Declares Victory In Iran War | Makes Major Announcement | Trump Speech LIVE",
-            "artist": "Times Now"
+            "videoId": "ydvjdYkZSy0",
+            "name": "Israel New PM Candidate News LIVE: इजरायल में नई सरकार की बड़ी शर्तों से दुनियाभर में हड़कंप!",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "jlq0gmSus4w",
-            "name": "Republic TV LIVE: November 9, 2026 | India | Global News | Delhi Pollution Crisis",
-            "artist": "Republic World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "b3fA5HSAvXY",
-            "name": "Trump LIVE | President Trump Makes SHOCKING Announcement | Donald Trump News LIVE | Iran | Putin",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "k5HN_WFlCtw",
-            "name": "Today's Headlines | 09 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
+            "videoId": "O9pA048sDYA",
+            "name": "Today Evening Headlines | 09 NOV 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "GFqz08RdTLg",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 8, 2026",
-            "artist": "MF Entertainment Official"
+            "videoId": "eniGtMPZMYQ",
+            "name": "Donald Trump Attack News Live : क्या ट्रंप को फिर मारने की हुई कोशिश ? | Venezuela | America | US",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "FQsvoggNHVU",
-            "name": "Big Breaking on Netanyahu LIVE: इजरायल में नया पीएम? | Israel New PM | Iran | Middle East Crisis |US",
-            "artist": "ABP NEWS"
+            "videoId": "Z6HVOfIzSDk",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "QMFRs-w925E",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
+            "videoId": "osU7LI3FfYs",
+            "name": "WORLD NEWS | 9TH NOVEMBER 2026 | AIT LIVE",
+            "artist": "Africa Independent Television"
         },
         {
             "mood": "storm",
-            "videoId": "4k1GIN_3-mc",
-            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 9 November | AQI | Pollution",
-            "artist": "ABP NEWS"
+            "videoId": "YriJcs4LSEE",
+            "name": "Saudi Under Attack LIVE: Houthis Claim Deadly Missile Attack On King Khalid Airport Again | WION",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "WsAlG_dKs9I",
-            "name": "Trump Says Stock Market Lost $3 Trillion in ONE Day | ARY News 1 AM Headlines | 9 Nov 2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "adRX0pIu_0M",
-            "name": "LIVE🔴:దొరికిన ‘దొంగ’ది: Latest Updates of Actress Surekha Vani Viral Video's on Instagram:",
-            "artist": "Mahaa News"
+            "videoId": "GrDDKMPe88g",
+            "name": "🟢 দুপুরের খবর | Dupurer Khobor | 9 November 2026  | NTV Latest News Update",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
