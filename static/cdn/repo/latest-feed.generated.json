@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-09T14:53:40.814Z",
+    "generatedAt": "2026-11-10T01:02:57.620Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "SACAIpe9zp4",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PxKoIbIdNV0",
-            "name": "Iran Plan a Massive Attack on US LIVE: Trump ने China-Russia से मांगी 'मदद'? | Middle East | Hormuz",
+            "videoId": "r2Be9KvzZtE",
+            "name": "Israel New PM LIVE Updates: Gadi Eisenkot बनेंगे नए पीएम? | Israel | Iran | Netanyahu | US | Trump",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "ydvjdYkZSy0",
-            "name": "Israel New PM Candidate News LIVE: इजरायल में नई सरकार की बड़ी शर्तों से दुनियाभर में हड़कंप!",
+            "videoId": "01Kk8RUPAWc",
+            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
+            "artist": "Times Now World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Fs8GdTRgMl4",
+            "name": "Headlines Today LIVE: रात की बड़ी खबरें | Top News Today | 9 November News | Hindi News | Breaking",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "O9pA048sDYA",
-            "name": "Today Evening Headlines | 09 NOV 2026 | மாலை தலைப்பு செய்திகள்| 6PM Headlines | SathiyamTv Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "Xi_T6zxTUiQ",
+            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 10 November | AQI | Pollution",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "eniGtMPZMYQ",
-            "name": "Donald Trump Attack News Live : क्या ट्रंप को फिर मारने की हुई कोशिश ? | Venezuela | America | US",
-            "artist": "NDTV India"
+            "videoId": "hz9LwPOpuBs",
+            "name": "White House Press Briefing",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "Z6HVOfIzSDk",
-            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "r6ZzB-SofVA",
+            "name": "Breaking News LIVE: Trump Makes Huge Announcement | US on High Alert? | TRUMP | US NEWS | IRAN NEWS",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "osU7LI3FfYs",
-            "name": "WORLD NEWS | 9TH NOVEMBER 2026 | AIT LIVE",
-            "artist": "Africa Independent Television"
+            "videoId": "yta3zu4-qUw",
+            "name": "US-Iran War Takes a New Turn | Latest Developments | 12 AM News Headlines | 10 Nov 2026 | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "YriJcs4LSEE",
-            "name": "Saudi Under Attack LIVE: Houthis Claim Deadly Missile Attack On King Khalid Airport Again | WION",
-            "artist": "WION"
+            "videoId": "sBznMJlNBV0",
+            "name": "LIVE🔴3 Big Good News for Pakistan in November | America-Israel Alliance in Trouble",
+            "artist": "NTV"
         },
         {
             "mood": "storm",
-            "videoId": "GrDDKMPe88g",
-            "name": "🟢 দুপুরের খবর | Dupurer Khobor | 9 November 2026  | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "yzr-4L5Tikc",
+            "name": "Gujarat Today News LIVE | તમામ મહત્વના મોટા સમાચાર | Latest Gujarati News | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "taMpVrlMOPU",
+            "name": "Big Breaking on Netanyahu LIVE: इजरायल में नया पीएम? | Israel New PM | Iran | Middle East Crisis |US",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KbJFt4Lut2M",
+            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
+            "artist": "Times Now World"
         }
     ],
     "sourceFilters": {
