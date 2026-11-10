@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-10T01:02:57.620Z",
+    "generatedAt": "2026-11-10T14:06:33.426Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "r2Be9KvzZtE",
-            "name": "Israel New PM LIVE Updates: Gadi Eisenkot बनेंगे नए पीएम? | Israel | Iran | Netanyahu | US | Trump",
+            "videoId": "HKv8HB20Kh0",
+            "name": "Big Breaking in Iran America Ceasefire News LIVE: हारे ट्रंप? | Qatar PM Trump Meeting |Nuclear Deal",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "01Kk8RUPAWc",
-            "name": "BREAKING NEWS LIVE | 'Russia declares... World war 3 has begun' |West on High Alert |Times Now World",
-            "artist": "Times Now World"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Fs8GdTRgMl4",
-            "name": "Headlines Today LIVE: रात की बड़ी खबरें | Top News Today | 9 November News | Hindi News | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Xi_T6zxTUiQ",
-            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 10 November | AQI | Pollution",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hz9LwPOpuBs",
-            "name": "White House Press Briefing",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "r6ZzB-SofVA",
-            "name": "Breaking News LIVE: Trump Makes Huge Announcement | US on High Alert? | TRUMP | US NEWS | IRAN NEWS",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yta3zu4-qUw",
-            "name": "US-Iran War Takes a New Turn | Latest Developments | 12 AM News Headlines | 10 Nov 2026 | Samaa TV",
-            "artist": "SAMAA TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "sBznMJlNBV0",
-            "name": "LIVE🔴3 Big Good News for Pakistan in November | America-Israel Alliance in Trouble",
-            "artist": "NTV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "yzr-4L5Tikc",
-            "name": "Gujarat Today News LIVE | તમામ મહત્વના મોટા સમાચાર | Latest Gujarati News | News18 Gujarati",
+            "videoId": "2UefpIEWpoo",
+            "name": "Gujarati News LIVE | આજના તમામ મોટા સમાચાર | Latest News | Superfast | News18 Gujarati",
             "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "taMpVrlMOPU",
-            "name": "Big Breaking on Netanyahu LIVE: इजरायल में नया पीएम? | Israel New PM | Iran | Middle East Crisis |US",
+            "videoId": "CBtsO0TBZY8",
+            "name": "Big Breaking on Netanyahu LIVE: इजरायल से बड़ी खबर | Israel New PM | Iran | Middle East Crisis | US",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "KbJFt4Lut2M",
-            "name": "Trump Speech LIVE: Is World War 3 on the Horizon? Latest US News | WORLD NEWS LIVE | Times Now World",
-            "artist": "Times Now World"
+            "videoId": "aht2qE3Q1dk",
+            "name": "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "eJn0pNQzCys",
+            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "fBPMWWCwElA",
+            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 10 November 2026 | Jamuna TV",
+            "artist": "Jamuna TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "N52e8KRoXe8",
+            "name": "Gokul Election Update LIVE |  गोकुळ अध्यक्षपदासाठी राजेश पाटील Vs चुयेकर | Satej Patil News",
+            "artist": "News18 Marathi"
+        },
+        {
+            "mood": "storm",
+            "videoId": "gOWyilFGA_o",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "sLXftEL4Ies",
+            "name": "Aaj Ki Taaza Khabar LIVE: 10 Nov 2026 | PM Modi | Rahul Gandhi | Delhi Pollution | Delhi AQI News",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CYVuaYoLZBc",
+            "name": "AAJTAK 2 LIVE | IRAN-US WAR UPDATE | DONALD TRUMP का ईरान युद्ध पर सबसे बड़ा एलान ! | AT2 LIVE",
+            "artist": "Aaj Tak"
         }
     ],
     "sourceFilters": {
