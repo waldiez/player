@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-10T14:06:33.426Z",
+    "generatedAt": "2026-11-10T22:42:57.868Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "HKv8HB20Kh0",
-            "name": "Big Breaking in Iran America Ceasefire News LIVE: हारे ट्रंप? | Qatar PM Trump Meeting |Nuclear Deal",
-            "artist": "ABP NEWS"
+            "videoId": "vJPNNLCu9wg",
+            "name": "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "2UefpIEWpoo",
-            "name": "Gujarati News LIVE | આજના તમામ મોટા સમાચાર | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "CBtsO0TBZY8",
-            "name": "Big Breaking on Netanyahu LIVE: इजरायल से बड़ी खबर | Israel New PM | Iran | Middle East Crisis | US",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "aht2qE3Q1dk",
-            "name": "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News",
+            "videoId": "dDwjVaBitog",
+            "name": "Trump US Announcement LIVE: Donald Trump Delivers Lockdown Statement From White House | Trump Live",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "eJn0pNQzCys",
-            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "6qsyi38vDAw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "fBPMWWCwElA",
-            "name": "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 10 November 2026 | Jamuna TV",
-            "artist": "Jamuna TV"
+            "videoId": "kMEJfUvSsVA",
+            "name": "US Iran War Update LIVE: Iranian Navy Blasts 'US-Linked' Ships in Strait of Hormuz",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "N52e8KRoXe8",
-            "name": "Gokul Election Update LIVE |  गोकुळ अध्यक्षपदासाठी राजेश पाटील Vs चुयेकर | Satej Patil News",
-            "artist": "News18 Marathi"
+            "videoId": "QNYYeZ8jtHg",
+            "name": "Headlines Today LIVE: शाम की बड़ी खबरें | Top News Today | 10 November News | Hindi News | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "gOWyilFGA_o",
-            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "LrVZcd1q4T0",
+            "name": "LIVE:Tamil Nadu Law And Order | Vijay Strict Order To Police | கடும் கோபத்தில் C.M.விஜய் உத்தரவு",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "sLXftEL4Ies",
-            "name": "Aaj Ki Taaza Khabar LIVE: 10 Nov 2026 | PM Modi | Rahul Gandhi | Delhi Pollution | Delhi AQI News",
-            "artist": "Times Now Navbharat"
+            "videoId": "JjAJoT6t4hw",
+            "name": "Iran War: Trump's War Planes Retreat After Iran Threatens NATO | Vantage",
+            "artist": "Firstpost"
         },
         {
             "mood": "storm",
-            "videoId": "CYVuaYoLZBc",
-            "name": "AAJTAK 2 LIVE | IRAN-US WAR UPDATE | DONALD TRUMP का ईरान युद्ध पर सबसे बड़ा एलान ! | AT2 LIVE",
-            "artist": "Aaj Tak"
+            "videoId": "_Vx4P_I7zh0",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 10 November 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "2fYgHR91Grc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ 24"
         }
     ],
     "sourceFilters": {

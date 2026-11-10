@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261110T140633.470Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261110T224257.913Z-l4t35t"
   type: "state"
-  created: "2026-11-10T14:06:33.470Z"
+  created: "2026-11-10T22:42:57.913Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261110T140633.470Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261110T224257.913Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "HKv8HB20Kh0"
-        name: "Big Breaking in Iran America Ceasefire News LIVE: हारे ट्रंप? | Qatar PM Trump Meeting |Nuclear Deal"
-        artist: "ABP NEWS"
+        videoId: "vJPNNLCu9wg"
+        name: "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "2UefpIEWpoo"
-        name: "Gujarati News LIVE | આજના તમામ મોટા સમાચાર | Latest News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CBtsO0TBZY8"
-        name: "Big Breaking on Netanyahu LIVE: इजरायल से बड़ी खबर | Israel New PM | Iran | Middle East Crisis | US"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aht2qE3Q1dk"
-        name: "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News"
+        videoId: "dDwjVaBitog"
+        name: "Trump US Announcement LIVE: Donald Trump Delivers Lockdown Statement From White House | Trump Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "eJn0pNQzCys"
-        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
-        artist: "MIRROR NOW"
+        videoId: "6qsyi38vDAw"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "fBPMWWCwElA"
-        name: "🛑 LIVE: একনজরে বিশ্বের আলোচিত সব খবর | Jamuna i-Desk | 10 November 2026 | Jamuna TV"
-        artist: "Jamuna TV"
+        videoId: "kMEJfUvSsVA"
+        name: "US Iran War Update LIVE: Iranian Navy Blasts 'US-Linked' Ships in Strait of Hormuz"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "N52e8KRoXe8"
-        name: "Gokul Election Update LIVE |  गोकुळ अध्यक्षपदासाठी राजेश पाटील Vs चुयेकर | Satej Patil News"
-        artist: "News18 Marathi"
+        videoId: "QNYYeZ8jtHg"
+        name: "Headlines Today LIVE: शाम की बड़ी खबरें | Top News Today | 10 November News | Hindi News | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "gOWyilFGA_o"
-        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
-        artist: "News18 Urdu"
+        videoId: "LrVZcd1q4T0"
+        name: "LIVE:Tamil Nadu Law And Order | Vijay Strict Order To Police | கடும் கோபத்தில் C.M.விஜய் உத்தரவு"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sLXftEL4Ies"
-        name: "Aaj Ki Taaza Khabar LIVE: 10 Nov 2026 | PM Modi | Rahul Gandhi | Delhi Pollution | Delhi AQI News"
-        artist: "Times Now Navbharat"
+        videoId: "JjAJoT6t4hw"
+        name: "Iran War: Trump's War Planes Retreat After Iran Threatens NATO | Vantage"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CYVuaYoLZBc"
-        name: "AAJTAK 2 LIVE | IRAN-US WAR UPDATE | DONALD TRUMP का ईरान युद्ध पर सबसे बड़ा एलान ! | AT2 LIVE"
-        artist: "Aaj Tak"
+        videoId: "_Vx4P_I7zh0"
+        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 10 November 2026 | International News Bulletin"
+        artist: "BanglaVision NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2fYgHR91Grc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ 24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-10T14:06:33.470Z"
+  exported_at: "2026-11-10T22:42:57.913Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-10T14:06:33.426Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-10T22:42:57.868Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
