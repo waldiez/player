@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-10T22:42:57.868Z",
+    "generatedAt": "2026-11-11T04:09:11.784Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "vJPNNLCu9wg",
-            "name": "Breaking News LIVE | World War 3 About To Start | Trump's Biggest Announcement | Trump Latest Live",
-            "artist": "ET Now World"
+            "videoId": "Q79CVBEPXDM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "CBC আন্তর্জাতিক সংবাদ "
         },
         {
             "mood": "storm",
-            "videoId": "dDwjVaBitog",
-            "name": "Trump US Announcement LIVE: Donald Trump Delivers Lockdown Statement From White House | Trump Live",
-            "artist": "Times Now"
+            "videoId": "U0e7ha8IK4Q",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 10, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "6qsyi38vDAw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (10.11.2026) | Sathiyam Headlines",
+            "videoId": "6BSXkcF5Kq4",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HQ_LFQoRvJE",
+            "name": "Republic TV LIVE: November 11, 2026 | India | Global News | Nvidia scandal I Delhi Pollution",
+            "artist": "Republic World"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bFwrwqDbBeY",
+            "name": "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uj6jz3YIvZA",
+            "name": "Today's Headlines | 11 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "kMEJfUvSsVA",
-            "name": "US Iran War Update LIVE: Iranian Navy Blasts 'US-Linked' Ships in Strait of Hormuz",
-            "artist": "Firstpost"
+            "videoId": "KFjfddcXNi0",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "QNYYeZ8jtHg",
-            "name": "Headlines Today LIVE: शाम की बड़ी खबरें | Top News Today | 10 November News | Hindi News | Breaking",
+            "videoId": "aqs4zDC5-KE",
+            "name": "ABC World News Tonight with David Muir – FULL BROADCAST | November 10, 2026",
+            "artist": "Deep Focus Noir"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Di9sHL__9iM",
+            "name": "America Travel Advisory LIVE: World War 3 शुरू ? Trump | Breaking News | Middle East War |India News",
+            "artist": "India News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "XNzB0Wrzw1Q",
+            "name": "LIVE🔴: Super Prime Time With Vamsi | Mahaa Vamsi Analysis | Mahaa News",
+            "artist": "Mahaa News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hI_k0GAVZ7A",
+            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 11 November | AQI | Pollution",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "LrVZcd1q4T0",
-            "name": "LIVE:Tamil Nadu Law And Order | Vijay Strict Order To Police | கடும் கோபத்தில் C.M.விஜய் உத்தரவு",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "JjAJoT6t4hw",
-            "name": "Iran War: Trump's War Planes Retreat After Iran Threatens NATO | Vantage",
-            "artist": "Firstpost"
-        },
-        {
-            "mood": "storm",
-            "videoId": "_Vx4P_I7zh0",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 10 November 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2fYgHR91Grc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 10 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ 24"
+            "videoId": "IPBuY7SH_Hs",
+            "name": "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 10 November 2026 World News Bangla International News",
+            "artist": "KMS News 0i"
         }
     ],
     "sourceFilters": {
