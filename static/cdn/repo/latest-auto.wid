@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261111T040911.820Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261111T132312.099Z-l4t35t"
   type: "state"
-  created: "2026-11-11T04:09:11.820Z"
+  created: "2026-11-11T13:23:12.099Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261111T040911.820Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261111T132312.099Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Q79CVBEPXDM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "CBC আন্তর্জাতিক সংবাদ "
+        videoId: "BZqgKfdn6V8"
+        name: "🔴LIVE: విజయసాయి రెడ్డి కొత్త పార్టీ ప్రకటన ||  Vijayasai Reddy New Political Party Launch || ABN"
+        artist: "ABN Telugu "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "U0e7ha8IK4Q"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 10, 2026"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "6BSXkcF5Kq4"
+        videoId: "mwFmM_psxIQ"
         name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HQ_LFQoRvJE"
-        name: "Republic TV LIVE: November 11, 2026 | India | Global News | Nvidia scandal I Delhi Pollution"
-        artist: "Republic World"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "bFwrwqDbBeY"
-        name: "Breaking News LIVE: Secret Service Escorts Trump Out of Press Conference | World News LIVE"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "uj6jz3YIvZA"
-        name: "Today's Headlines | 11 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KFjfddcXNi0"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla |11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aqs4zDC5-KE"
-        name: "ABC World News Tonight with David Muir – FULL BROADCAST | November 10, 2026"
-        artist: "Deep Focus Noir"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Di9sHL__9iM"
-        name: "America Travel Advisory LIVE: World War 3 शुरू ? Trump | Breaking News | Middle East War |India News"
-        artist: "India News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "XNzB0Wrzw1Q"
-        name: "LIVE🔴: Super Prime Time With Vamsi | Mahaa Vamsi Analysis | Mahaa News"
-        artist: "Mahaa News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "hI_k0GAVZ7A"
-        name: "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 11 November | AQI | Pollution"
+        videoId: "Cgun1nQeCSA"
+        name: "Headlines Today LIVE: खबरें फटाफट | Top News Today | 11 November News | Hindi News | Breaking Live"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IPBuY7SH_Hs"
-        name: "🔴LIVE: আন্তর্জাতিক বাংলা খবর BBC World News 10 November 2026 World News Bangla International News"
-        artist: "KMS News 0i"
+        videoId: "IZhISuavKZs"
+        name: "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.11.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "2tni7X6_koo"
+        name: "US News Live: Trump's Briefing INTERRUPTED by JD Vance! White House Chaos Caught on Camera"
+        artist: "ET Now World"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "YPLwQ2W4JKQ"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "I8h43pus3A0"
+        name: "US Iran War | Iran Reveals Underground Missile City | Latest World News | Odia News | N18G"
+        artist: "News18 Odia"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "HKv8HB20Kh0"
+        name: "Big Breaking in Iran America Ceasefire News LIVE: हारे ट्रंप? | Qatar PM Trump Meeting |Nuclear Deal"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "t3OSVJFYc-0"
+        name: "UP New Alliance Update LIVE: यूपी में नए गठबंधन ने चौंकाया? | AIMIM | ASP | Owaisi | Chandrashekhar"
+        artist: "ABP NEWS"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-11T04:09:11.820Z"
+  exported_at: "2026-11-11T13:23:12.099Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-11T04:09:11.784Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-11T13:23:12.063Z"
+  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
