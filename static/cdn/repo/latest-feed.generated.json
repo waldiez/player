@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-11T13:23:12.063Z",
+    "generatedAt": "2026-11-11T23:55:50.428Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "BZqgKfdn6V8",
-            "name": "🔴LIVE: విజయసాయి రెడ్డి కొత్త పార్టీ ప్రకటన ||  Vijayasai Reddy New Political Party Launch || ABN",
-            "artist": "ABN Telugu "
+            "videoId": "kYCMumIlcwE",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "mwFmM_psxIQ",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "b9UT2bybjOI",
+            "name": "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "Cgun1nQeCSA",
-            "name": "Headlines Today LIVE: खबरें फटाफट | Top News Today | 11 November News | Hindi News | Breaking Live",
-            "artist": "ABP NEWS"
+            "videoId": "UAKI9l6Noiw",
+            "name": "Russia wants Ukraine and a demilitarized NATO eastern flank | News in Depth",
+            "artist": "TVP WORLD"
         },
         {
             "mood": "storm",
-            "videoId": "IZhISuavKZs",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (11.11.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "mZx8s2S1AcY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "2tni7X6_koo",
-            "name": "US News Live: Trump's Briefing INTERRUPTED by JD Vance! White House Chaos Caught on Camera",
-            "artist": "ET Now World"
+            "videoId": "OqFFByjs-zQ",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "YPLwQ2W4JKQ",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 11 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "WZ92pzkKBF4",
+            "name": "LIVE: Did Nvidia Block ‘Honeytrap’ Probe? Jensen Huang Back in Office | The Palki Sharma Show",
+            "artist": "India Global Review"
         },
         {
             "mood": "storm",
-            "videoId": "I8h43pus3A0",
-            "name": "US Iran War | Iran Reveals Underground Missile City | Latest World News | Odia News | N18G",
-            "artist": "News18 Odia"
+            "videoId": "p-fIfIKseTw",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "HKv8HB20Kh0",
-            "name": "Big Breaking in Iran America Ceasefire News LIVE: हारे ट्रंप? | Qatar PM Trump Meeting |Nuclear Deal",
-            "artist": "ABP NEWS"
+            "videoId": "pUXQe_K4Ma0",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail : ट्रेन का 'ब्रेक फेल'..6 बोगी डिरेल | Kulgam Attack",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "t3OSVJFYc-0",
-            "name": "UP New Alliance Update LIVE: यूपी में नए गठबंधन ने चौंकाया? | AIMIM | ASP | Owaisi | Chandrashekhar",
-            "artist": "ABP NEWS"
+            "videoId": "Kjvl-UXwOUc",
+            "name": "TRUMP'S IRAN ANNOUNCEMENT LIVE | WORLD WAR 3? Trump Threatens to Destroy Iran | US-Iran War LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bLbXaaIGbX4",
+            "name": "ഒരുമയില്ലാത്ത മന്ത്രിസഭയോ? | Special Edition | Nishad Rawther | 'Power' Clash | 11-11-2026",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HqTd-iEu5KM",
+            "name": "WATCH LIVE: SS United States, once world’s fastest ocean liner, sinks to become reef off Florida",
+            "artist": "PBS NewsHour"
         }
     ],
     "sourceFilters": {
