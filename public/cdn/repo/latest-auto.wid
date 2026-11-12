@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261111T235550.473Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261112T053026.522Z-l4t35t"
   type: "state"
-  created: "2026-11-11T23:55:50.473Z"
+  created: "2026-11-12T05:30:26.522Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261111T235550.473Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261112T053026.522Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "kYCMumIlcwE"
-        name: "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G"
-        artist: "News18 Urdu"
+        videoId: "ZikYy1jn-oY"
+        name: "US IRAN WAR LIVE: ‘Stop Fake News!’ Iran's Rezaei Torches Trump's Claims Of Imaginary Peace Talks"
+        artist: "Firstpost"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "b9UT2bybjOI"
-        name: "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "UAKI9l6Noiw"
-        name: "Russia wants Ukraine and a demilitarized NATO eastern flank | News in Depth"
-        artist: "TVP WORLD"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "mZx8s2S1AcY"
+        videoId: "soV_0jV5M1Y"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 12 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "OqFFByjs-zQ"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (11.11.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "WZ92pzkKBF4"
-        name: "LIVE: Did Nvidia Block ‘Honeytrap’ Probe? Jensen Huang Back in Office | The Palki Sharma Show"
-        artist: "India Global Review"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "p-fIfIKseTw"
-        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
-        artist: "WION"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "pUXQe_K4Ma0"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail : ट्रेन का 'ब्रेक फेल'..6 बोगी डिरेल | Kulgam Attack"
+        videoId: "rbL5yP5RQuI"
+        name: "Terrorist Attack on CRPF Camp Kulgam Live: कुलगाम में CRPF कैंप पर आतंकी हमला | Jammu Kashmir"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Kjvl-UXwOUc"
-        name: "TRUMP'S IRAN ANNOUNCEMENT LIVE | WORLD WAR 3? Trump Threatens to Destroy Iran | US-Iran War LIVE"
+        videoId: "huwav_Qd7vs"
+        name: "Deadly building collapse in New York City: ABC World News Tonight with David Muir - Nov. 11, 2026"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "XWE6p0EXjTM"
+        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
+        artist: "News18 MP Chhattisgarh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "L0IC-Nz7BJ8"
+        name: "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OwBu7JbYIgE"
+        name: "Iran America War: युद्ध के मैदान से सीधे LIVE | Trump | Middle East | Hormuz | IRGC | Mojtaba | Top"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-ISQdBXSTb8"
+        name: "SS United States sinks in FL to become world’s largest artificial reef"
+        artist: "CNN"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "icvlfgDVlFM"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, Israel"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bLbXaaIGbX4"
-        name: "ഒരുമയില്ലാത്ത മന്ത്രിസഭയോ? | Special Edition | Nishad Rawther | 'Power' Clash | 11-11-2026"
-        artist: "MediaoneTV Live"
+        videoId: "2mLMI8Vox8Q"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HqTd-iEu5KM"
-        name: "WATCH LIVE: SS United States, once world’s fastest ocean liner, sinks to become reef off Florida"
-        artist: "PBS NewsHour"
+        videoId: "sFFTFt2kuOo"
+        name: "Today's Headlines | 12 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-11T23:55:50.473Z"
+  exported_at: "2026-11-12T05:30:26.522Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-11T23:55:50.428Z"
+  source_generated_at: "2026-11-12T05:30:26.478Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
