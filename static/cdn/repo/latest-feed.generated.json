@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-13T04:35:43.782Z",
+    "generatedAt": "2026-11-13T13:45:37.954Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "IQh4wUdhyqc",
-            "name": "Iran's Latest Warning to America | US-Iran Tensions | Middle East | 8 AM News Headlines |13 Nov 2026",
-            "artist": "SAMAA TV"
+            "videoId": "uJiSSEbKhtI",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "hW4g-m5glIw",
-            "name": "US News Live: DOJ Drops Bombshell! IRGC, Gangs & Cartels in Alleged Trump Plot? | Kash Patel",
-            "artist": "ET Now"
+            "videoId": "bYH5HOr7oHg",
+            "name": "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "xpW3zdWdm0M",
-            "name": "Saudi-Houthi War: Deadliest Attack on Saudi Arabia | High Alert | 7 AM News Headlines | Samaa TV",
-            "artist": "SAMAA TV"
+            "videoId": "q3zu6AmT1zc",
+            "name": "कुलगाम हमले का बदला शुरू? सीधा LIVE  | Kulgam Attack | Jammu Kashmir | Pakistan | Indian Army | NDTV",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "er_vF3HRpYY",
-            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "pjWskX3KzI4",
+            "videoId": "O8H1AkwucHU",
             "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "9oIWWcaLzfs",
-            "name": "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News",
-            "artist": "Times Now"
+            "videoId": "cqTPejbXXJI",
+            "name": "Today's Breaking News LIVE: Kulgam Attack | Owaisi | Chandrashekhar Azad | Hindi News | ABP News",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "vjKlTFHCoM8",
-            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
-            "artist": "MIRROR NOW"
+            "videoId": "EDseXqu-shw",
+            "name": "TV9 Bharatvarsh LIVE: Iran America War | NIVIDIA CEO | UP Election | PM Modi | CM Yogi | Hindi News",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "jkQq2XV0CbQ",
+            "videoId": "CU33PXxsdA4",
+            "name": "🔴 LIVE: আজকের সর্বশেষ আন্তর্জাতিক সংবাদ | বিশ্বজুড়ে বড় ঘটনা! | World News Bangla | 13 Nov 2026",
+            "artist": "Top10News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "l19JSZuZJOE",
             "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "5EgIvsLLh7s",
-            "name": "LIVE | Trump’s EXPLOSIVE Warning Stuns Iran: 'We’ll Bomb Again' | Trump Latest News Live | US News",
-            "artist": "Times Now"
+            "videoId": "_nOjT_EdLII",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ১৩.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CAzm1bjOKw8",
+            "name": "Russian Warship Hit in Baltic! Is Ukraine Opening a New Front Near NATO? | Firstpost Live",
+            "artist": "Firstpost"
         }
     ],
     "sourceFilters": {
