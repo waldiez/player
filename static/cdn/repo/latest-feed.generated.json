@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-12T23:03:41.615Z",
+    "generatedAt": "2026-11-13T04:35:43.782Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "yZtDf_dQJnQ",
-            "name": "US NEWS LIVE: Trump's Big Iran War Decision? America Awaits as Tensions Reach Breaking Point",
+            "videoId": "IQh4wUdhyqc",
+            "name": "Iran's Latest Warning to America | US-Iran Tensions | Middle East | 8 AM News Headlines |13 Nov 2026",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hW4g-m5glIw",
+            "name": "US News Live: DOJ Drops Bombshell! IRGC, Gangs & Cartels in Alleged Trump Plot? | Kash Patel",
             "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "auqAYB1YVi0",
-            "name": "🔴 BREAKING NEWS LIVE WORLD NEWS 🔴",
-            "artist": "SupAmerica"
+            "videoId": "xpW3zdWdm0M",
+            "name": "Saudi-Houthi War: Deadliest Attack on Saudi Arabia | High Alert | 7 AM News Headlines | Samaa TV",
+            "artist": "SAMAA TV"
         },
         {
             "mood": "storm",
-            "videoId": "Kg3QI8jvVd0",
-            "name": "🔴LIVE : Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (12.11.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "er_vF3HRpYY",
+            "name": "US-Iran War LIVE: US Prepares Fresh Iran Strikes As Khamenei Vows Deadly Retaliation | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "HLmRclyfaOI",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (12.11.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OweRafkLUAc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ISyYFqd-m8Q",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  10 PM (12.11.2026)රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
-        },
-        {
-            "mood": "storm",
-            "videoId": "6ChA3WTV4GI",
-            "name": "DECODE Live: Sudhir Chaudhary | Nvidia Share | Jensen Huang Second Affair | UP Election 2027 Owaisi",
-            "artist": "DD News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "iSMUIo4tli4",
+            "videoId": "pjWskX3KzI4",
             "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
             "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "No2KXXNXoiM",
+            "videoId": "9oIWWcaLzfs",
             "name": "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "j-I-J373chE",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 12 November 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "vjKlTFHCoM8",
+            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "MQzXpu4QKwM",
-            "name": "BREAKING NEWS LIVE: Pete Hegseth Drops Major Iran Bombshell | Pentagon LIVE | US News LIVE",
-            "artist": "ET Now World"
+            "videoId": "jkQq2XV0CbQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5EgIvsLLh7s",
+            "name": "LIVE | Trump’s EXPLOSIVE Warning Stuns Iran: 'We’ll Bomb Again' | Trump Latest News Live | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
