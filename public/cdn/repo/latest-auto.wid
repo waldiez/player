@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261113T134537.990Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261113T230718.170Z-l4t35t"
   type: "state"
-  created: "2026-11-13T13:45:37.990Z"
+  created: "2026-11-13T23:07:18.170Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261113T134537.990Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261113T230718.170Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "uJiSSEbKhtI"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "3rJ_ogE3czk"
+        name: "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "bYH5HOr7oHg"
-        name: "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news"
-        artist: "MIRROR NOW"
+        videoId: "LSJ42zqfTKE"
+        name: "News । Poverty । MSN Fail । Politics । GC 👎 । World News"
+        artist: "Nitin Shukla Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "q3zu6AmT1zc"
-        name: "कुलगाम हमले का बदला शुरू? सीधा LIVE  | Kulgam Attack | Jammu Kashmir | Pakistan | Indian Army | NDTV"
-        artist: "NDTV India"
+        videoId: "kGFRjPcvjSU"
+        name: "🔴 LIVE | All Flights Across USA Halted Over Security Concerns | ARY News Live"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "O8H1AkwucHU"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "YB-xDZhGnH4"
+        name: "​ഗൾഫ് ലോകത്തെ ഏറ്റവും പുതിയ വാർത്തകളും വിശേഷങ്ങളും | Mid East Hour"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cqTPejbXXJI"
-        name: "Today's Breaking News LIVE: Kulgam Attack | Owaisi | Chandrashekhar Azad | Hindi News | ABP News"
-        artist: "ABP NEWS"
+        videoId: "XLh6QwCSvN0"
+        name: "Today Headlines - 13 NOVEMBER 2026 | 11 மணி தலைப்புச் செய்திகள்| HEADLINES | CMVIJAY"
+        artist: "Polimer News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "EDseXqu-shw"
-        name: "TV9 Bharatvarsh LIVE: Iran America War | NIVIDIA CEO | UP Election | PM Modi | CM Yogi | Hindi News"
-        artist: "TV9 Bharatvarsh"
+        videoId: "JRN8U8xRNkE"
+        name: "Iran Shocks World On Live TV, Reveals Weapon That ‘Ravaged’ US & Israeli Forces"
+        artist: "Times Of India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CU33PXxsdA4"
-        name: "🔴 LIVE: আজকের সর্বশেষ আন্তর্জাতিক সংবাদ | বিশ্বজুড়ে বড় ঘটনা! | World News Bangla | 13 Nov 2026"
-        artist: "Top10News"
+        videoId: "nmUWzIauy6w"
+        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "l19JSZuZJOE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "r8UnBWCNrCE"
+        name: "Gujarat Today's News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_nOjT_EdLII"
-        name: "এটিএন বাংলার দুপুর ২ টার সংবাদ । ১৩.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
+        videoId: "_6mpwkKh3sU"
+        name: "World News Live: Putin Meets Trump's Envoys, Ukraine War Peace Deal or New Shock? Moscow Talks Begin"
+        artist: "Times Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "CAzm1bjOKw8"
-        name: "Russian Warship Hit in Baltic! Is Ukraine Opening a New Front Near NATO? | Firstpost Live"
-        artist: "Firstpost"
+        videoId: "ruA7ZsvsZXM"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ugE_DpZH3ec"
+        name: "Top U.S. & World Headlines — November 13, 2026"
+        artist: "Democracy Now!"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-13T13:45:37.990Z"
+  exported_at: "2026-11-13T23:07:18.170Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-13T13:45:37.954Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-13T23:07:18.124Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"

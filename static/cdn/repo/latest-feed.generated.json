@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-13T13:45:37.954Z",
+    "generatedAt": "2026-11-13T23:07:18.124Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "uJiSSEbKhtI",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "3rJ_ogE3czk",
+            "name": "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "bYH5HOr7oHg",
-            "name": "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news",
-            "artist": "MIRROR NOW"
+            "videoId": "LSJ42zqfTKE",
+            "name": "News । Poverty । MSN Fail । Politics । GC 👎 । World News",
+            "artist": "Nitin Shukla Live"
         },
         {
             "mood": "storm",
-            "videoId": "q3zu6AmT1zc",
-            "name": "कुलगाम हमले का बदला शुरू? सीधा LIVE  | Kulgam Attack | Jammu Kashmir | Pakistan | Indian Army | NDTV",
-            "artist": "NDTV India"
+            "videoId": "kGFRjPcvjSU",
+            "name": "🔴 LIVE | All Flights Across USA Halted Over Security Concerns | ARY News Live",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "O8H1AkwucHU",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "YB-xDZhGnH4",
+            "name": "​ഗൾഫ് ലോകത്തെ ഏറ്റവും പുതിയ വാർത്തകളും വിശേഷങ്ങളും | Mid East Hour",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "cqTPejbXXJI",
-            "name": "Today's Breaking News LIVE: Kulgam Attack | Owaisi | Chandrashekhar Azad | Hindi News | ABP News",
-            "artist": "ABP NEWS"
+            "videoId": "XLh6QwCSvN0",
+            "name": "Today Headlines - 13 NOVEMBER 2026 | 11 மணி தலைப்புச் செய்திகள்| HEADLINES | CMVIJAY",
+            "artist": "Polimer News"
         },
         {
             "mood": "storm",
-            "videoId": "EDseXqu-shw",
-            "name": "TV9 Bharatvarsh LIVE: Iran America War | NIVIDIA CEO | UP Election | PM Modi | CM Yogi | Hindi News",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "JRN8U8xRNkE",
+            "name": "Iran Shocks World On Live TV, Reveals Weapon That ‘Ravaged’ US & Israeli Forces",
+            "artist": "Times Of India"
         },
         {
             "mood": "storm",
-            "videoId": "CU33PXxsdA4",
-            "name": "🔴 LIVE: আজকের সর্বশেষ আন্তর্জাতিক সংবাদ | বিশ্বজুড়ে বড় ঘটনা! | World News Bangla | 13 Nov 2026",
-            "artist": "Top10News"
+            "videoId": "nmUWzIauy6w",
+            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "l19JSZuZJOE",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 13 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "r8UnBWCNrCE",
+            "name": "Gujarat Today's News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
         },
         {
             "mood": "storm",
-            "videoId": "_nOjT_EdLII",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ১৩.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "_6mpwkKh3sU",
+            "name": "World News Live: Putin Meets Trump's Envoys, Ukraine War Peace Deal or New Shock? Moscow Talks Begin",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "CAzm1bjOKw8",
-            "name": "Russian Warship Hit in Baltic! Is Ukraine Opening a New Front Near NATO? | Firstpost Live",
-            "artist": "Firstpost"
+            "videoId": "ruA7ZsvsZXM",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ugE_DpZH3ec",
+            "name": "Top U.S. & World Headlines — November 13, 2026",
+            "artist": "Democracy Now!"
         }
     ],
     "sourceFilters": {
