@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-14T12:49:55.362Z",
+    "generatedAt": "2026-11-14T21:52:53.446Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "4b-g0cHqiV0",
-            "name": "LIVE – Arrival of world leaders for ASEAN Summit 2026, traffic situation (Nov... - Replay | GMA News",
-            "artist": "GMA News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "LSM7a94LwSM",
-            "name": "LIVE: Israel New Govt & PM, Eisenkot Tries to Form Government | Arab Parties to Support Gadi  | N18G",
+            "videoId": "LikmLfxFf6Y",
+            "name": "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "JdhPt0Uui0A",
-            "name": "LIVE: Marco Rubio's Chilling Nuclear Warning | America Braces For Major Emergency | US News LIVE",
+            "videoId": "7QzXnuLj658",
+            "name": "IRAN NEWS LIVE | Nuclear Attack | Araghchi issues final warning, Trump moves Toward Iran War",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "s0rHsZRPQe4",
-            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
-            "artist": "News18 MP Chhattisgarh"
+            "videoId": "WyLilpmRAdc",
+            "name": "WORLD NEWS | 14TH NOVEMBER 2026 | AIT LIVE",
+            "artist": "Africa Independent Television"
         },
         {
             "mood": "storm",
-            "videoId": "K6XSGH4DCt8",
-            "name": "🔴 LIVE: আজকের সর্বশেষ আন্তর্জাতিক সংবাদ | বিশ্বজুড়ে বড় ঘটনা! | World News Bangla | 14 Nov 2026",
-            "artist": "Top10News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "PM4X4Uqp_yg",
-            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.11.2026) | 2 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "hDf65DCUu2A",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 14.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "mQjf4InizZ8",
-            "name": "Cruise Ship Capsizes After Tanker Collision in New Orleans | 12PM Headlines Geo News  (14 Nov 2026)",
-            "artist": "Geo News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "g4xVqgvNNhM",
-            "name": "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE",
+            "videoId": "fpS-QMhM1Fs",
+            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zcib3pcoMWY",
-            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today |Hindi News |Chhath Puja| AQI | Bageshwar Baba",
-            "artist": "NDTV India"
+            "videoId": "Ufs19f9RBfk",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "RTVwC7O-37U",
+            "name": "Iran-US War Live | U.S. Drone Shot Down by Iran | 10 PM News Headlines | SAMAA TV",
+            "artist": "SAMAA TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "tWm52tgl9fM",
+            "name": "US Flight Shutdown Live Updates: अमेरिका में सभी उड़ानों पर अचानक ब्रेक, हजारों यात्री फंसे",
+            "artist": "Aaj Tak"
+        },
+        {
+            "mood": "storm",
+            "videoId": "5IXkbFC-9Rc",
+            "name": "Iran America War Update: ईरान में विनाशक धमाके...अमेरिकी हमले शुरू LIVE! | Mojtaba | Trump |Top News",
+            "artist": "TV9 Bharatvarsh"
+        },
+        {
+            "mood": "storm",
+            "videoId": "nWSoOA1CfkU",
+            "name": "এক টেবিলে বিশ্ব রাজনীতির তিন প্রভাবশালী নেতা, নেপথ্যে কী?| World Leaders | Global Politics |ATN News",
+            "artist": "ATN News"
         }
     ],
     "sourceFilters": {
