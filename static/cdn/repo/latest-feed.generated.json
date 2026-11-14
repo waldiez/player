@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-14T04:30:40.019Z",
+    "generatedAt": "2026-11-14T12:49:55.362Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "933U5Tus8s0",
-            "name": "🔴 ਫਸੇ 2 ਮੰਤਰੀ! Kangna 'ਤੇ ਪਰਚਾ! ਕੈਪਟਨ ਮੈਦਾਨ 'ਚ! NEWS That Matters",
-            "artist": "TV Punjab"
+            "videoId": "4b-g0cHqiV0",
+            "name": "LIVE – Arrival of world leaders for ASEAN Summit 2026, traffic situation (Nov... - Replay | GMA News",
+            "artist": "GMA News"
         },
         {
             "mood": "storm",
-            "videoId": "S3s7bpc4sI4",
-            "name": "FAA Issues Nationwide Ground Stop in U.S. - LIVE Breaking News Coverage",
-            "artist": "Agenda-Free TV"
-        },
-        {
-            "mood": "storm",
-            "videoId": "I8AcR8yyu2s",
-            "name": "Trump vs Iran War Latest Update : ट्रंप की खुली चेतावनी, क्या अब ईरान पर होगा बड़ा हमला? | N18G",
-            "artist": "News18 Punjab"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Btn-Eg3JXL4",
-            "name": "LIVE: FAA lifts nationwide ground stop l ABC News Live",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2WVulSVsxPg",
-            "name": "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G",
+            "videoId": "LSM7a94LwSM",
+            "name": "LIVE: Israel New Govt & PM, Eisenkot Tries to Form Government | Arab Parties to Support Gadi  | N18G",
             "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "iRK6u4zctK8",
-            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times#thesaveratimes",
-            "artist": "The Savera Times"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Azayi9HCQ9U",
-            "name": "FAA lifts nationwide ground stop | full coverage",
-            "artist": "CBS News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xVGfweFY2yU",
-            "name": "US NEWS LIVE: Trump Suddenly Escorted Out by Secret Service! Press Conference Takes Shocking Turn",
+            "videoId": "JdhPt0Uui0A",
+            "name": "LIVE: Marco Rubio's Chilling Nuclear Warning | America Braces For Major Emergency | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "Gpwsimab6Dc",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "s0rHsZRPQe4",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "fpS-QMhM1Fs",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
+            "videoId": "K6XSGH4DCt8",
+            "name": "🔴 LIVE: আজকের সর্বশেষ আন্তর্জাতিক সংবাদ | বিশ্বজুড়ে বড় ঘটনা! | World News Bangla | 14 Nov 2026",
+            "artist": "Top10News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PM4X4Uqp_yg",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (14.11.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "hDf65DCUu2A",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ | 14.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "mQjf4InizZ8",
+            "name": "Cruise Ship Capsizes After Tanker Collision in New Orleans | 12PM Headlines Geo News  (14 Nov 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "g4xVqgvNNhM",
+            "name": "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "BOp4LUv3aqc",
-            "name": "Madurai Gold Jewellery Robbery | Single Man Gold Robber | மதுரை நகைக்கடை கொள்ளை - சிக்கிய கொள்ளையன்",
-            "artist": "Sathiyam News"
+            "videoId": "zcib3pcoMWY",
+            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today |Hindi News |Chhath Puja| AQI | Bageshwar Baba",
+            "artist": "NDTV India"
         }
     ],
     "sourceFilters": {
