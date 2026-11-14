@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261113T230718.170Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261114T043040.064Z-l4t35t"
   type: "state"
-  created: "2026-11-13T23:07:18.170Z"
+  created: "2026-11-14T04:30:40.064Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261113T230718.170Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261114T043040.064Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "3rJ_ogE3czk"
-        name: "RUSSIA LIVE: Putin's Emergency Briefing Sends Shockwaves Across Russia | World News"
-        artist: "Times Now World"
+        videoId: "933U5Tus8s0"
+        name: "🔴 ਫਸੇ 2 ਮੰਤਰੀ! Kangna 'ਤੇ ਪਰਚਾ! ਕੈਪਟਨ ਮੈਦਾਨ 'ਚ! NEWS That Matters"
+        artist: "TV Punjab"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "LSJ42zqfTKE"
-        name: "News । Poverty । MSN Fail । Politics । GC 👎 । World News"
-        artist: "Nitin Shukla Live"
+        videoId: "S3s7bpc4sI4"
+        name: "FAA Issues Nationwide Ground Stop in U.S. - LIVE Breaking News Coverage"
+        artist: "Agenda-Free TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kGFRjPcvjSU"
-        name: "🔴 LIVE | All Flights Across USA Halted Over Security Concerns | ARY News Live"
-        artist: "ARY News"
+        videoId: "I8AcR8yyu2s"
+        name: "Trump vs Iran War Latest Update : ट्रंप की खुली चेतावनी, क्या अब ईरान पर होगा बड़ा हमला? | N18G"
+        artist: "News18 Punjab"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "YB-xDZhGnH4"
-        name: "​ഗൾഫ് ലോകത്തെ ഏറ്റവും പുതിയ വാർത്തകളും വിശേഷങ്ങളും | Mid East Hour"
-        artist: "MediaoneTV Live"
+        videoId: "Btn-Eg3JXL4"
+        name: "LIVE: FAA lifts nationwide ground stop l ABC News Live"
+        artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "XLh6QwCSvN0"
-        name: "Today Headlines - 13 NOVEMBER 2026 | 11 மணி தலைப்புச் செய்திகள்| HEADLINES | CMVIJAY"
-        artist: "Polimer News"
+        videoId: "2WVulSVsxPg"
+        name: "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "JRN8U8xRNkE"
-        name: "Iran Shocks World On Live TV, Reveals Weapon That ‘Ravaged’ US & Israeli Forces"
-        artist: "Times Of India"
+        videoId: "iRK6u4zctK8"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times#thesaveratimes"
+        artist: "The Savera Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "nmUWzIauy6w"
-        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
-        artist: "WION"
+        videoId: "Azayi9HCQ9U"
+        name: "FAA lifts nationwide ground stop | full coverage"
+        artist: "CBS News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "r8UnBWCNrCE"
-        name: "Gujarat Today's News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "xVGfweFY2yU"
+        name: "US NEWS LIVE: Trump Suddenly Escorted Out by Secret Service! Press Conference Takes Shocking Turn"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "_6mpwkKh3sU"
-        name: "World News Live: Putin Meets Trump's Envoys, Ukraine War Peace Deal or New Shock? Moscow Talks Begin"
-        artist: "Times Now World"
+        videoId: "Gpwsimab6Dc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 14 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ruA7ZsvsZXM"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (13.11.2026) | Sathiyam Headlines"
+        videoId: "fpS-QMhM1Fs"
+        name: "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "BOp4LUv3aqc"
+        name: "Madurai Gold Jewellery Robbery | Single Man Gold Robber | மதுரை நகைக்கடை கொள்ளை - சிக்கிய கொள்ளையன்"
         artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ugE_DpZH3ec"
-        name: "Top U.S. & World Headlines — November 13, 2026"
-        artist: "Democracy Now!"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-13T23:07:18.170Z"
+  exported_at: "2026-11-14T04:30:40.064Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-13T23:07:18.124Z"
+  source_generated_at: "2026-11-14T04:30:40.019Z"
   validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
