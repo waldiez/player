@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261115T041907.398Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261115T131701.980Z-l4t35t"
   type: "state"
-  created: "2026-11-15T04:19:07.398Z"
+  created: "2026-11-15T13:17:01.980Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261115T041907.398Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261115T131701.980Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,51 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Pvbd6S5PbvA"
-        name: "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?"
-        artist: "Times Now"
+        videoId: "DRjo6gfQnBw"
+        name: "TODAY US NEWS 15 NOVEMBER 2026 | FOX NEWS LIVE | CNN | WORLD NEWS | UNITED STATES | LATEST NEWS"
+        artist: "USA Weather Live 24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MODQHsZ1bMY"
-        name: "IND vs PAK Asia Cup News LIVE :  337 रन बनाकर उछल रहे थे पाकिस्तानीएशिया कप हारते ही फूटकर रोए?"
-        artist: "NDTV India"
+        videoId: "3S8R2jvixGI"
+        name: "Live: India Vs New Zealand, 5th ODI, 2026 Series | Live Match Today Score Commentary | CricTalks"
+        artist: "CricTalks"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PGGQbyNUk2w"
-        name: "IND Vs PAK U19 Asia Cup Final LIVE: भारत ने जीता एशिया कप,  रोने लगे पाकिस्तानी?IND vs PAK Asia Cup"
-        artist: "NDTV India"
+        videoId: "mANyK3XqOuc"
+        name: "WAR BREAKING NEWS LIVE | അ‍ഞ്ച് കപ്പലുകൾ തകർത്ത് ഇറാൻ! ഹോർമുസ് ഇനി നൂറ്റാണ്ടുകൾ കത്തും! | Trump N18G"
+        artist: "News18 Kerala"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SaPVwoMUa4s"
+        videoId: "QSZ1RHlfZf0"
         name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
         artist: "News18 MP Chhattisgarh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rHgN8f-awvg"
-        name: "BREAKING NEWS LIVE: Trump Demands Ilhan Omar To Be Deported | Trump News LIVE"
-        artist: "ET Now World"
+        videoId: "7RK_TkNx8Yw"
+        name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T3vfbQF4v-s"
-        name: "Iran America War Update Live: टूटा सुपर पॉवर का घमंड! | Trump | Mojtaba | Netanyahu | IRGC | Hormuz"
-        artist: "TV9 Bharatvarsh"
+        videoId: "Un_x6zWjLtQ"
+        name: "Aaj Ki Taaza Khabar LIVE:बड़ी खबरें |Today Top News |Chhath Puja|IND vs PAK Asia Cup |Bageshwar Baba"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FSE_pbKBIrs"
-        name: "Headlines Now | 6 AM | 15-11-2026 | Sun News | Tamil News Today | Latest News"
-        artist: "Sun News"
+        videoId: "FXLFhkbu4XA"
+        name: "[LIVE] Fox and Friends 11/15/2026 Live HD | FOX NEWS TRUMP LIVE November 15, 2026"
+        artist: "يوميات دودي"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "PI4mB8CzWYM"
-        name: "Shocking Revelations Regarding PTI, JUIF Leaders | ARY News 4 AM Headlines | 15th Nov 2026"
-        artist: "ARY News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "je3p8hTLWvc"
-        name: "LIVE: ABC News Live - Saturday, November 14"
-        artist: "ABC News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "KnjfUsLLg-g"
-        name: "Iran US War LIVE Update: Iran's Deadliest Attack Shocks the World | 2 AM News Headlines | Samaa TV"
-        artist: "SAMAA TV"
+        videoId: "ZD3XY-4mLY8"
+        name: "Today Big Breaking News LIVE : अभी की सबसे बड़ी खबरें LIVE | PM Modi |Rahul Gandhi |UP Election 2027"
+        artist: "Zee News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +108,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-15T04:19:07.398Z"
+  exported_at: "2026-11-15T13:17:01.980Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-15T04:19:07.361Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-15T13:17:01.937Z"
+  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 7Y2vPS0y14Q (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 45 < 70)"
