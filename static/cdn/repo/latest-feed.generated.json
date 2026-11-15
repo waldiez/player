@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-14T21:52:53.446Z",
+    "generatedAt": "2026-11-15T04:19:07.361Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,57 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "LikmLfxFf6Y",
-            "name": "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7QzXnuLj658",
-            "name": "IRAN NEWS LIVE | Nuclear Attack | Araghchi issues final warning, Trump moves Toward Iran War",
+            "videoId": "Pvbd6S5PbvA",
+            "name": "BREAKING NEWS LIVE: Trump Accepts Iran’s Offer? US Turns Away From Netanyahu? | TRUMP SAYS YES?",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "WyLilpmRAdc",
-            "name": "WORLD NEWS | 14TH NOVEMBER 2026 | AIT LIVE",
-            "artist": "Africa Independent Television"
+            "videoId": "MODQHsZ1bMY",
+            "name": "IND vs PAK Asia Cup News LIVE :  337 रन बनाकर उछल रहे थे पाकिस्तानीएशिया कप हारते ही फूटकर रोए?",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "fpS-QMhM1Fs",
-            "name": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-            "artist": "Times Now"
+            "videoId": "PGGQbyNUk2w",
+            "name": "IND Vs PAK U19 Asia Cup Final LIVE: भारत ने जीता एशिया कप,  रोने लगे पाकिस्तानी?IND vs PAK Asia Cup",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Ufs19f9RBfk",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (14.11.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "SaPVwoMUa4s",
+            "name": "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G",
+            "artist": "News18 MP Chhattisgarh"
         },
         {
             "mood": "storm",
-            "videoId": "RTVwC7O-37U",
-            "name": "Iran-US War Live | U.S. Drone Shot Down by Iran | 10 PM News Headlines | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "rHgN8f-awvg",
+            "name": "BREAKING NEWS LIVE: Trump Demands Ilhan Omar To Be Deported | Trump News LIVE",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "tWm52tgl9fM",
-            "name": "US Flight Shutdown Live Updates: अमेरिका में सभी उड़ानों पर अचानक ब्रेक, हजारों यात्री फंसे",
-            "artist": "Aaj Tak"
-        },
-        {
-            "mood": "storm",
-            "videoId": "5IXkbFC-9Rc",
-            "name": "Iran America War Update: ईरान में विनाशक धमाके...अमेरिकी हमले शुरू LIVE! | Mojtaba | Trump |Top News",
+            "videoId": "T3vfbQF4v-s",
+            "name": "Iran America War Update Live: टूटा सुपर पॉवर का घमंड! | Trump | Mojtaba | Netanyahu | IRGC | Hormuz",
             "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "nWSoOA1CfkU",
-            "name": "এক টেবিলে বিশ্ব রাজনীতির তিন প্রভাবশালী নেতা, নেপথ্যে কী?| World Leaders | Global Politics |ATN News",
-            "artist": "ATN News"
+            "videoId": "FSE_pbKBIrs",
+            "name": "Headlines Now | 6 AM | 15-11-2026 | Sun News | Tamil News Today | Latest News",
+            "artist": "Sun News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "PI4mB8CzWYM",
+            "name": "Shocking Revelations Regarding PTI, JUIF Leaders | ARY News 4 AM Headlines | 15th Nov 2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "je3p8hTLWvc",
+            "name": "LIVE: ABC News Live - Saturday, November 14",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "KnjfUsLLg-g",
+            "name": "Iran US War LIVE Update: Iran's Deadliest Attack Shocks the World | 2 AM News Headlines | Samaa TV",
+            "artist": "SAMAA TV"
         }
     ],
     "sourceFilters": {
