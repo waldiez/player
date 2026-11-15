@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261115T131701.980Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261115T222246.854Z-l4t35t"
   type: "state"
-  created: "2026-11-15T13:17:01.980Z"
+  created: "2026-11-15T22:22:46.854Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261115T131701.980Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261115T222246.854Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DRjo6gfQnBw"
-        name: "TODAY US NEWS 15 NOVEMBER 2026 | FOX NEWS LIVE | CNN | WORLD NEWS | UNITED STATES | LATEST NEWS"
-        artist: "USA Weather Live 24"
+        videoId: "RMxkWbsOFNY"
+        name: "LIVE: Israel New Govt & PM, Eisenkot Tries to Form Government | Arab Parties to Support Gadi  | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "3S8R2jvixGI"
-        name: "Live: India Vs New Zealand, 5th ODI, 2026 Series | Live Match Today Score Commentary | CricTalks"
-        artist: "CricTalks"
+        videoId: "3q8n4T021zI"
+        name: "BREAKING NEWS LIVE: US Launches Nuke Strike On Iran? Missiles Rain Down As Tensions Explode | Trump"
+        artist: "ET Now World"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mANyK3XqOuc"
-        name: "WAR BREAKING NEWS LIVE | അ‍ഞ്ച് കപ്പലുകൾ തകർത്ത് ഇറാൻ! ഹോർമുസ് ഇനി നൂറ്റാണ്ടുകൾ കത്തും! | Trump N18G"
-        artist: "News18 Kerala"
+        videoId: "bp81riBW4vg"
+        name: "LIVE: Iran America War, Trump Prepares for Fresh Iran Strikes, Khamenei Vows Deadly Response | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QSZ1RHlfZf0"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
+        videoId: "ICKKWuajoWE"
+        name: "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "7RK_TkNx8Yw"
+        videoId: "5A8tJwGnGbM"
         name: "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Un_x6zWjLtQ"
-        name: "Aaj Ki Taaza Khabar LIVE:बड़ी खबरें |Today Top News |Chhath Puja|IND vs PAK Asia Cup |Bageshwar Baba"
-        artist: "NDTV India"
+        videoId: "T3P45B3QtOk"
+        name: "Gujarat Today's News LIVE | આજના તમામ મહત્વના સમાચાર | Latest News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FXLFhkbu4XA"
-        name: "[LIVE] Fox and Friends 11/15/2026 Live HD | FOX NEWS TRUMP LIVE November 15, 2026"
-        artist: "يوميات دودي"
+        videoId: "mLpbgf3_ha4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 15 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Khobor Srot"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ZD3XY-4mLY8"
-        name: "Today Big Breaking News LIVE : अभी की सबसे बड़ी खबरें LIVE | PM Modi |Rahul Gandhi |UP Election 2027"
-        artist: "Zee News"
+        videoId: "_zZwO-yDaMQ"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (15.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "CP5Xlhd0owk"
+        name: "Iran America War Update: ईरान में विनाशक धमाके...अमेरिकी हमले शुरू LIVE! | Mojtaba | Trump |Top News"
+        artist: "TV9 Bharatvarsh"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GUi6pwKpd6Y"
+        name: "LIVE with Dr. Shahid Masood | World Leaders on the Hit List! | 15 NOV 2026 | GNN"
+        artist: "GNN"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-15T13:17:01.980Z"
+  exported_at: "2026-11-15T22:22:46.854Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-15T13:17:01.937Z"
-  validation: "validation enabled: accepted 8/9 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 7Y2vPS0y14Q (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-11-15T22:22:46.821Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: kbw9ErMfbfk (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 40 < 70)"
