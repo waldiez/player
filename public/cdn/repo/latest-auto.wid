@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261116T041725.763Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261116T142952.969Z-l4t35t"
   type: "state"
-  created: "2026-11-16T04:17:25.763Z"
+  created: "2026-11-16T14:29:52.969Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261116T041725.763Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261116T142952.969Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "ESob6S-0Hr8"
-        name: "World News LIVE 24/7 🌍 News & Voice Only · No Music, No Chat Game | 3RA"
-        artist: "3ra"
+        videoId: "afAhyvEldmI"
+        name: "US News Live: Trump's SHOCK Iran Decision Sparks Global Alarm! Is the World on the Brink of War?"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "M07te5kfXsI"
-        name: "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news"
-        artist: "MIRROR NOW"
+        videoId: "j4EaOY7Jb4U"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "0gMobq2XAWw"
+        videoId: "S1nMi8Mz7Wk"
+        name: "Out Of Focus Live | 16 November 2026"
+        artist: "MediaoneTV Live"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "LI_IMLnHw7k"
         name: "TRUMP IRAN ANNOUNCEMENT LIVE | US-IRAN War Is Over | Trump Speech Live | US News Live | Trump Live"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UYM_58hfJ8I"
-        name: "छठ पूजा, घाटों से सीधा LIVE | Chhath Puja 2026 | Bihar Chhat Puja | Patna | Surya Arghya | Delhi"
+        videoId: "ZSfK5KOfBX8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "50cTRi2_fas"
+        name: "Ranbhoomi Full Show: देश-दुनिया की बड़ी खबरें | Kulgam Encocunter | BJP | Congress | World News"
+        artist: "Aaj Tak"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "i0_l11eWw20"
+        name: "Kulgam Terrorist Encounter LIVE | | Indian Army |Jammu & Kashmir | Latif Bhatt | Breaking News"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jj5A6OswewE"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (16.11.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "cWuwDS9AOHA"
+        name: "LIVE: Israel New Govt & PM, Eisenkot Tries to Form Government | Arab Parties to Support Gadi  | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "QSZ1RHlfZf0"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "2auYm1xyjwE"
-        name: "Hardeep Singh Puri Resign News LIVE:12 बजते ही यूपी से बड़े नेता के इस्तीफे से हिल गई बीजेपी!"
+        videoId: "wxh5Rg6tFGo"
+        name: "Jammu Kashmir Encounter LIVE: Lashkar आतंकी ढेर! | Kulgam Attack News | Pakistan Reaction | PSO CRPF"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "L2c9jDZETNk"
-        name: "Live: Iran war about to explode? 3 US aircraft carriers head to Middle East| Bahrain Attack | N18G"
-        artist: "CNN-News18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cqpl6Y5E7nA"
-        name: "ABC World News Tonight With David Muir 11/15/26 | ABC News Today November 15, 2026"
-        artist: "Dips Melodies"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Ft0xt65aXdU"
-        name: "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | 16 November | Chhath Puja 2026"
-        artist: "ABP NEWS"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "QEjJ-eiB2-A"
-        name: "LIVE | Gulf On Edge As Iran 'Bombs' US Base In Bahrain, Kingdom Intercepts Drone Attacks | IRGC"
-        artist: "CRUX"
+        videoId: "W6QvpxI7L5k"
+        name: "ASEAN Summit 2026 LIVE: Trump, Modi Join World Leaders at Manila | US Iran War | US China Ties"
+        artist: "Firstpost"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-16T04:17:25.763Z"
+  exported_at: "2026-11-16T14:29:52.969Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-16T04:17:25.730Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-16T14:29:52.930Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
