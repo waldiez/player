@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-16T14:29:52.930Z",
+    "generatedAt": "2026-11-17T01:25:22.764Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "afAhyvEldmI",
-            "name": "US News Live: Trump's SHOCK Iran Decision Sparks Global Alarm! Is the World on the Brink of War?",
-            "artist": "Times Now"
+            "videoId": "o8lm0dYzvYU",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ 24"
         },
         {
             "mood": "storm",
-            "videoId": "j4EaOY7Jb4U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "Bkb05FoGs8s",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 16, 2026",
+            "artist": "MF Entertainment Official"
         },
         {
             "mood": "storm",
-            "videoId": "S1nMi8Mz7Wk",
-            "name": "Out Of Focus Live | 16 November 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "79LnyUbOO4Q",
+            "name": "LIVE: Tousi TV Major Announcement - New Media World Order",
+            "artist": "Tousi TV"
         },
         {
             "mood": "storm",
-            "videoId": "LI_IMLnHw7k",
-            "name": "TRUMP IRAN ANNOUNCEMENT LIVE | US-IRAN War Is Over | Trump Speech Live | US News Live | Trump Live",
-            "artist": "Times Now"
+            "videoId": "lXnmn-iVAZg",
+            "name": "بوتين ينقذ \" الحوثيين في اخر لحظة \"والسعودية تعلنها : لقد تعرضنا للخيانة..وايران تقدم لترمب عرض مغري",
+            "artist": "شاهد لتعرف"
         },
         {
             "mood": "storm",
-            "videoId": "ZSfK5KOfBX8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 16 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "50cTRi2_fas",
-            "name": "Ranbhoomi Full Show: देश-दुनिया की बड़ी खबरें | Kulgam Encocunter | BJP | Congress | World News",
-            "artist": "Aaj Tak"
-        },
-        {
-            "mood": "storm",
-            "videoId": "i0_l11eWw20",
-            "name": "Kulgam Terrorist Encounter LIVE | | Indian Army |Jammu & Kashmir | Latif Bhatt | Breaking News",
+            "videoId": "FRI5KnSPWrQ",
+            "name": "'बच गए' अभिताभ बच्चन LIVE | Amitabh Bachchan Security Alert | Mumbai Police | Lawrence Bishnoi",
             "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "cWuwDS9AOHA",
-            "name": "LIVE: Israel New Govt & PM, Eisenkot Tries to Form Government | Arab Parties to Support Gadi  | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "JaPXSw4qtyc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 17 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "The Inside "
         },
         {
             "mood": "storm",
-            "videoId": "wxh5Rg6tFGo",
-            "name": "Jammu Kashmir Encounter LIVE: Lashkar आतंकी ढेर! | Kulgam Attack News | Pakistan Reaction | PSO CRPF",
-            "artist": "ABP NEWS"
+            "videoId": "hxxQ-E6K0Mk",
+            "name": "BREAKING: JPMorgan Chase, other major banks experiencing outages",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "W6QvpxI7L5k",
-            "name": "ASEAN Summit 2026 LIVE: Trump, Modi Join World Leaders at Manila | US Iran War | US China Ties",
-            "artist": "Firstpost"
+            "videoId": "a5ZOPWdflLU",
+            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8BctdE47xpU",
+            "name": "Aaj Ki Taaza Khabar LIVE: 16 Nov 2026 | Chhath Puja | Patna | UP Election 2027 | PM Modi | Congress",
+            "artist": "Times Now Navbharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dsooQsunLjc",
+            "name": "🔴LIVE : Today Headlines - 16 NOVEMBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CM VIJAY",
+            "artist": "Polimer News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "o6ReTrIEfNM",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
