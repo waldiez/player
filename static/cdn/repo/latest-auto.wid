@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261117T152030.047Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261118T002112.142Z-l4t35t"
   type: "state"
-  created: "2026-11-17T15:20:30.047Z"
+  created: "2026-11-18T00:21:12.142Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261117T152030.047Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261118T002112.142Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,51 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "S1c3eSnokSg"
-        name: "Trump Announcement Live | Nuclear Attack on Iran? Trump Speech LIVE | US-Iran War Latest News"
+        videoId: "kkoAfQxAQ7I"
+        name: "LIVE: PM Modi Meets Donald Trump In Manila | India-US Relations | Philippines | ASEAN Summit 2026"
+        artist: "India Today"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "0yOeAewXZm4"
+        name: "Aaj Ki Taja Khabar LIVE: बड़ी खबरें फटाफट | Headlines Today | 17 November News | Breaking News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JMUvi7RW50Q"
+        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
+        artist: "WION"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Vcs8ePNGBMA"
+        name: "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-E_uZ2w8LfE"
+        name: "WATCH LIVE: President Trump Arrives in Manila, Philippines for ASEAN & QUAD Leaders Summit | N18G"
+        artist: "CNBC-TV18"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "cE_t1-if16w"
+        name: "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "qV0JzhpKNDU"
+        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cgLpK_HCLOo"
-        name: "🔴LIVE : Today Headlines | மதியம் 3மணி தலைப்புச் செய்திகள் (17.11.2026) | 3 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "1cvIIVJ16os"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "BD Ajker Time"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Z_NHqogg_yk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "4Bi4Us3EGMA"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 17.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
-        artist: "ATN Bangla News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "nkcLs4ptsYI"
-        name: "আন্তর্জাতিক বাংলা খবর BBC World News 18 Nov 2026|| World News Bangla || International News Today"
-        artist: "job preparation kj"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "CquJFEa6c6w"
-        name: "Iran America War Update LIVE: ईरान अमेरिका युद्ध के ताजा हालात | Netanyahu | Trump | Khamenei | N18G"
-        artist: "News18 MP Chhattisgarh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "iaaAjUyakq0"
-        name: "🔴LIVE : Asuran Cyclone | Cyclone Alert | Rain | திடீர் திருப்பம் கொடுத்த அசுரன் புயல்"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eIh6y1CoG3s"
-        name: "America-Iran War LIVE: US Sends 40,000 Heavy Bombs To Israel, Massive Joint Strike On Iran Soon?N18G"
-        artist: "News18 Urdu"
+        videoId: "ntdEPOIqYcs"
+        name: "Top U.S. & World Headlines — November 17, 2026"
+        artist: "Democracy Now!"
         chapter: null
   moodCustomizations:
     {}
@@ -108,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-17T15:20:30.047Z"
+  exported_at: "2026-11-18T00:21:12.142Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-17T15:20:29.985Z"
-  validation: "validation enabled: accepted 8/8 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-18T00:21:12.097Z"
+  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 2hFxQk6Prms (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 65 < 70)"
