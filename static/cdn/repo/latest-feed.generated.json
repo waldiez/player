@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-18T00:21:12.097Z",
+    "generatedAt": "2026-11-18T14:55:56.627Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "kkoAfQxAQ7I",
-            "name": "LIVE: PM Modi Meets Donald Trump In Manila | India-US Relations | Philippines | ASEAN Summit 2026",
-            "artist": "India Today"
+            "videoId": "DjenvO1wiXY",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "0yOeAewXZm4",
-            "name": "Aaj Ki Taja Khabar LIVE: बड़ी खबरें फटाफट | Headlines Today | 17 November News | Breaking News",
-            "artist": "ABP NEWS"
+            "videoId": "tElzTNet0ac",
+            "name": "Today Breaking News | 18 November News | Baba Bageshwar | Ram Katha | Akhilesh | Yogi | Modi | Trump",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "JMUvi7RW50Q",
-            "name": "Race To Power LIVE: World Latest English News | International News | WION LIVE",
-            "artist": "WION"
+            "videoId": "1U7ex9IPWIU",
+            "name": "बाबा बागेश्वर की रामकथा कुंडा से सीधाLIVE | Bageshwar Baba Ram Katha | Raja Bhaiya | Pratapgarh | UP",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "Vcs8ePNGBMA",
-            "name": "TRUMP NEWS LIVE | Trump Attack on Iran? US Strikes Confirmed as Tensions Rise | LIVE | world news",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "2hFxQk6Prms",
-            "name": "Good Morning America Full Broadcast — Tuesday, November 17, 2026",
-            "artist": "ABC News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "-E_uZ2w8LfE",
-            "name": "WATCH LIVE: President Trump Arrives in Manila, Philippines for ASEAN & QUAD Leaders Summit | N18G",
+            "videoId": "H9xFBRS1CJ0",
+            "name": "LIVE: President Trump Holds Bilateral Talks With Philippine President Marcos Jr. | ASEAN 2026 | N18G",
             "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "cE_t1-if16w",
-            "name": "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "voHIu4M0Np0",
+            "name": "WATCH LIVE: Xi Jinping Hosts a Gala Dinner for Leaders at APEC Summit in China | Trump XI | N18G",
+            "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "qV0JzhpKNDU",
-            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "jn0rxoHXxbo",
+            "name": "LIVE | Trump & Putin Attend Xi Jinping's Grand APEC Reception in China's Shenzhen",
+            "artist": "APT"
         },
         {
             "mood": "storm",
-            "videoId": "1cvIIVJ16os",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 17 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "BD Ajker Time"
+            "videoId": "a3y8QMzIrFo",
+            "name": "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । ১৮.১১.২০২৬ | Top News | Today News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "ntdEPOIqYcs",
-            "name": "Top U.S. & World Headlines — November 17, 2026",
-            "artist": "Democracy Now!"
+            "videoId": "sqbGGdbGlmM",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nove 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8YS21G4HzZM",
+            "name": "പത്മജ ബിജെപിയിൽ എത്തിയത് എന്തിന്? കോൺഗ്രസിലേക്ക് മടങ്ങാനൊരുങ്ങുന്നതിന് കാരണങ്ങൾ  ഇവയാണ്",
+            "artist": "MediaoneTV Live"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ywEAsmgeMhA",
+            "name": "BREAKING: Trump greeted by Xi ahead of HIGH-STAKES China summit",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "p_AQ3Ob5qps",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
