@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261118T145556.664Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261118T234657.589Z-l4t35t"
   type: "state"
-  created: "2026-11-18T14:55:56.664Z"
+  created: "2026-11-18T23:46:57.589Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261118T145556.664Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261118T234657.589Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "DjenvO1wiXY"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "-gPXlDUYaPI"
+        name: "🔴LIVE: இரவு தலைப்புச் செய்திகள் 18.11.2026 | Today Headlines | TN Rain | Vijay | TVK | DMK"
+        artist: "PuthiyathalaimuraiTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "tElzTNet0ac"
-        name: "Today Breaking News | 18 November News | Baba Bageshwar | Ram Katha | Akhilesh | Yogi | Modi | Trump"
-        artist: "NDTV India"
+        videoId: "543kefE_OTQ"
+        name: "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE"
+        artist: "MIRROR NOW"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "H9xFBRS1CJ0"
-        name: "LIVE: President Trump Holds Bilateral Talks With Philippine President Marcos Jr. | ASEAN 2026 | N18G"
-        artist: "CNBC-TV18"
+        videoId: "EvB2Ri6Mr9c"
+        name: "🔴 LIVE | News 20:30 | Wednesday, November 18, 2026 | اخبار ۲۰:۳۰ - چهارشنبه ۲۷ آبان (عقرب) ۱۴۰۵"
+        artist: "روایت دیگر | Revayat e Digar"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "voHIu4M0Np0"
-        name: "WATCH LIVE: Xi Jinping Hosts a Gala Dinner for Leaders at APEC Summit in China | Trump XI | N18G"
-        artist: "CNBC-TV18"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "jn0rxoHXxbo"
-        name: "LIVE | Trump & Putin Attend Xi Jinping's Grand APEC Reception in China's Shenzhen"
-        artist: "APT"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "a3y8QMzIrFo"
-        name: "এটিএন বাংলার টপ নিউজ । বিকাল ৫ টা । ১৮.১১.২০২৬ | Top News | Today News | BD News | ATN Bangla News"
+        videoId: "RggR1cubqLI"
+        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 18.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "sqbGGdbGlmM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nove 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "cnjQyoLWK6M"
+        name: "Iran America War: 11 बजते ही ईरान का पलटवार...US बेस पर मिसाइलों की बारिश! | Mojtaba I Trump"
+        artist: "TV9 Bharatvarsh"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8YS21G4HzZM"
-        name: "പത്മജ ബിജെപിയിൽ എത്തിയത് എന്തിന്? കോൺഗ്രസിലേക്ക് മടങ്ങാനൊരുങ്ങുന്നതിന് കാരണങ്ങൾ  ഇവയാണ്"
-        artist: "MediaoneTV Live"
+        videoId: "9PhhmtZC2aY"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ywEAsmgeMhA"
-        name: "BREAKING: Trump greeted by Xi ahead of HIGH-STAKES China summit"
-        artist: "Fox News"
+        videoId: "hgA-LQwTqxA"
+        name: "Houthis Attack Saudi Capital Riyadh | Middle East Tensions Escalate | 09 PM News Headlines"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "p_AQ3Ob5qps"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 18 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "n8ZoioIYNLY"
+        name: "Israel New PM : आइजनकोट ने नेतन्याहू को दिया एक और तगड़ा झटका! | Netanyahu | World News"
+        artist: "News18 Bihar Jharkhand"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ASVb5nVfcUE"
+        name: "🔴 LIVE: গোপালগঞ্জে বিজিবির গাড়ীতে আ'গু'ন, সড়ক অ'ব'রোধ, সবশেষ পরিস্থিতি সরাসরি | Gopalgong | ATN"
+        artist: "ATN Bangla Digital"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "l7XYEqFu_cY"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 18 November | World News | International News | NEWS24"
+        artist: "NEWS24"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-18T14:55:56.664Z"
+  exported_at: "2026-11-18T23:46:57.589Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-18T14:55:56.627Z"
-  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: 1U7ex9IPWIU (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-11-18T23:46:57.565Z"
+  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
