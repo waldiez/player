@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-19T05:29:17.078Z",
+    "generatedAt": "2026-11-19T15:01:28.882Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "7LqDCrGIjBQ",
-            "name": "WORLD NEWS LIVE: Putin, Xi & Trump Pose Together for APEC Family Photo!| Historic Moment",
-            "artist": "Times Now World"
+            "videoId": "1URSmSzRdFc",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "a3ggTmzoVQY",
-            "name": "Israel Election LIVE: Ahmad Tibi Wins Key Knesset Post & Hits Back at Bibi! NETANYAHU | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "ecGRccFQeZE",
+            "name": "Out Of Focus Live | 19 November 2026",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "kyh14T8Oa8M",
-            "name": "LIVE: ABC News Live - Wednesday, November 18",
-            "artist": "ABC News"
+            "videoId": "C09Lbej1JL4",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         },
         {
             "mood": "storm",
-            "videoId": "Kqgy7QJ01-w",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 18, 2026",
-            "artist": "ABC News"
+            "videoId": "x8iOVjcMbYs",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Vorer alo"
         },
         {
             "mood": "storm",
-            "videoId": "8AFAX1C4Z4U",
-            "name": "Trump: I DON’T NEED any help on Iran",
-            "artist": "Fox News"
+            "videoId": "x7HsQ3056BU",
+            "name": "Trump’s Historic Statement on Nuclear War After Meeting Xi & Putin! | 5PM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "HEK2I7uQLlk",
-            "name": "Terrorist Encounter News LIVE: एनकाउंटर से पहले वीडियो कॉल पर ‘अल्लाह’ को आतंकी ने किया याद फिर...",
-            "artist": "ABP NEWS"
+            "videoId": "6XJdQ56ke4Y",
+            "name": "Khit Thit | BBC News မြန်မာ | နိုဝင်ဘာလ ၁၉ ရက် ညနေခင်းသတင်းအစီအစဉ် November 19, 2026 BBCNews Myanmar",
+            "artist": "Khit 24 Live "
         },
         {
             "mood": "storm",
-            "videoId": "9vU7PE_r8zg",
-            "name": "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
+            "videoId": "UvmommVW5wg",
+            "name": "कुंडा से राजा भैया की 'रामकथा' सीधा LIVE| Bageshwar Baba Ram Katha | Raja Bhaiya | Kunda | Pratapgrh",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "voHIu4M0Np0",
-            "name": "WATCH LIVE: Xi Jinping Hosts a Gala Dinner for Leaders at APEC Summit in China | Trump XI | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "8YJdsDD7DjQ",
+            "name": "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | UP Election | Azam Khan | BJP",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "DaKoYO4pv6Y",
-            "name": "Iran America War: युद्ध के मैदान से सीधे LIVE | Middle East | Strait Of Hormuz | Mojtaba | Trump",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "t_eG8E6lVgg",
+            "name": "Global Oil Prices Drop Sharply! Big Impact on Petrol Prices in Pakistan? | 3PM Headlines Geo News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "MsknQVptzBs",
-            "name": "TRUMP LIVE: BIG IRAN WAR DECISION! Trump's NEW WARNING Sends Shockwaves Across Iran! | WORLD NEWS",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "VoHGgrW9XBY",
-            "name": "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "NZuuRmgcvUE",
-            "name": "WATCH LIVE: President Trump Arrives in Shenzhen, China for APEC Summit Meeting XI and Putin | N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "yFSX19A-smI",
+            "name": "🔴LIVE : வரலாறு காணாத ரேர் சம்பவம்.. உலக அரசியலில் பெரும் திருப்பம்",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {

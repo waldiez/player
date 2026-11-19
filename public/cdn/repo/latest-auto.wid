@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261119T052917.117Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261119T150128.915Z-l4t35t"
   type: "state"
-  created: "2026-11-19T05:29:17.117Z"
+  created: "2026-11-19T15:01:28.915Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261119T052917.117Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261119T150128.915Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,75 +53,57 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "7LqDCrGIjBQ"
-        name: "WORLD NEWS LIVE: Putin, Xi & Trump Pose Together for APEC Family Photo!| Historic Moment"
-        artist: "Times Now World"
+        videoId: "1URSmSzRdFc"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "a3ggTmzoVQY"
-        name: "Israel Election LIVE: Ahmad Tibi Wins Key Knesset Post & Hits Back at Bibi! NETANYAHU | N18G"
-        artist: "News18 Urdu"
+        videoId: "ecGRccFQeZE"
+        name: "Out Of Focus Live | 19 November 2026"
+        artist: "MediaoneTV Live"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kyh14T8Oa8M"
-        name: "LIVE: ABC News Live - Wednesday, November 18"
-        artist: "ABC News"
+        videoId: "C09Lbej1JL4"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Kqgy7QJ01-w"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 18, 2026"
-        artist: "ABC News"
+        videoId: "x8iOVjcMbYs"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Vorer alo"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8AFAX1C4Z4U"
-        name: "Trump: I DON’T NEED any help on Iran"
-        artist: "Fox News"
+        videoId: "x7HsQ3056BU"
+        name: "Trump’s Historic Statement on Nuclear War After Meeting Xi & Putin! | 5PM Headlines Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "HEK2I7uQLlk"
-        name: "Terrorist Encounter News LIVE: एनकाउंटर से पहले वीडियो कॉल पर ‘अल्लाह’ को आतंकी ने किया याद फिर..."
-        artist: "ABP NEWS"
+        videoId: "6XJdQ56ke4Y"
+        name: "Khit Thit | BBC News မြန်မာ | နိုဝင်ဘာလ ၁၉ ရက် ညနေခင်းသတင်းအစီအစဉ် November 19, 2026 BBCNews Myanmar"
+        artist: "Khit 24 Live "
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9vU7PE_r8zg"
-        name: "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
+        videoId: "8YJdsDD7DjQ"
+        name: "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | UP Election | Azam Khan | BJP"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "voHIu4M0Np0"
-        name: "WATCH LIVE: Xi Jinping Hosts a Gala Dinner for Leaders at APEC Summit in China | Trump XI | N18G"
-        artist: "CNBC-TV18"
+        videoId: "t_eG8E6lVgg"
+        name: "Global Oil Prices Drop Sharply! Big Impact on Petrol Prices in Pakistan? | 3PM Headlines Geo News"
+        artist: "Geo News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "DaKoYO4pv6Y"
-        name: "Iran America War: युद्ध के मैदान से सीधे LIVE | Middle East | Strait Of Hormuz | Mojtaba | Trump"
-        artist: "TV9 Bharatvarsh"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MsknQVptzBs"
-        name: "TRUMP LIVE: BIG IRAN WAR DECISION! Trump's NEW WARNING Sends Shockwaves Across Iran! | WORLD NEWS"
-        artist: "Times Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "VoHGgrW9XBY"
-        name: "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE"
-        artist: "MIRROR NOW"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "NZuuRmgcvUE"
-        name: "WATCH LIVE: President Trump Arrives in Shenzhen, China for APEC Summit Meeting XI and Putin | N18G"
-        artist: "CNBC-TV18"
+        videoId: "yFSX19A-smI"
+        name: "🔴LIVE : வரலாறு காணாத ரேர் சம்பவம்.. உலக அரசியலில் பெரும் திருப்பம்"
+        artist: "Thanthi TV"
         chapter: null
   moodCustomizations:
     {}
@@ -132,7 +114,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-19T05:29:17.117Z"
+  exported_at: "2026-11-19T15:01:28.915Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-19T05:29:17.078Z"
-  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-19T15:01:28.882Z"
+  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: UvmommVW5wg (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70)"
