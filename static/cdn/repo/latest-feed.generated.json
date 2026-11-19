@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-18T23:46:57.565Z",
+    "generatedAt": "2026-11-19T05:29:17.078Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "-gPXlDUYaPI",
-            "name": "🔴LIVE: இரவு தலைப்புச் செய்திகள் 18.11.2026 | Today Headlines | TN Rain | Vijay | TVK | DMK",
-            "artist": "PuthiyathalaimuraiTV"
+            "videoId": "7LqDCrGIjBQ",
+            "name": "WORLD NEWS LIVE: Putin, Xi & Trump Pose Together for APEC Family Photo!| Historic Moment",
+            "artist": "Times Now World"
         },
         {
             "mood": "storm",
-            "videoId": "543kefE_OTQ",
+            "videoId": "a3ggTmzoVQY",
+            "name": "Israel Election LIVE: Ahmad Tibi Wins Key Knesset Post & Hits Back at Bibi! NETANYAHU | N18G",
+            "artist": "News18 Urdu"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kyh14T8Oa8M",
+            "name": "LIVE: ABC News Live - Wednesday, November 18",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Kqgy7QJ01-w",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 18, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8AFAX1C4Z4U",
+            "name": "Trump: I DON’T NEED any help on Iran",
+            "artist": "Fox News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "HEK2I7uQLlk",
+            "name": "Terrorist Encounter News LIVE: एनकाउंटर से पहले वीडियो कॉल पर ‘अल्लाह’ को आतंकी ने किया याद फिर...",
+            "artist": "ABP NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "9vU7PE_r8zg",
             "name": "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE",
             "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "EvB2Ri6Mr9c",
-            "name": "🔴 LIVE | News 20:30 | Wednesday, November 18, 2026 | اخبار ۲۰:۳۰ - چهارشنبه ۲۷ آبان (عقرب) ۱۴۰۵",
-            "artist": "روایت دیگر | Revayat e Digar"
+            "videoId": "voHIu4M0Np0",
+            "name": "WATCH LIVE: Xi Jinping Hosts a Gala Dinner for Leaders at APEC Summit in China | Trump XI | N18G",
+            "artist": "CNBC-TV18"
         },
         {
             "mood": "storm",
-            "videoId": "RggR1cubqLI",
-            "name": "এটিএন বাংলার রাত ১০ টার সংবাদ । 18.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cnjQyoLWK6M",
-            "name": "Iran America War: 11 बजते ही ईरान का पलटवार...US बेस पर मिसाइलों की बारिश! | Mojtaba I Trump",
+            "videoId": "DaKoYO4pv6Y",
+            "name": "Iran America War: युद्ध के मैदान से सीधे LIVE | Middle East | Strait Of Hormuz | Mojtaba | Trump",
             "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "9PhhmtZC2aY",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (18.11.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "MsknQVptzBs",
+            "name": "TRUMP LIVE: BIG IRAN WAR DECISION! Trump's NEW WARNING Sends Shockwaves Across Iran! | WORLD NEWS",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "hgA-LQwTqxA",
-            "name": "Houthis Attack Saudi Capital Riyadh | Middle East Tensions Escalate | 09 PM News Headlines",
-            "artist": "SAMAA TV"
+            "videoId": "VoHGgrW9XBY",
+            "name": "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "n8ZoioIYNLY",
-            "name": "Israel New PM : आइजनकोट ने नेतन्याहू को दिया एक और तगड़ा झटका! | Netanyahu | World News",
-            "artist": "News18 Bihar Jharkhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ASVb5nVfcUE",
-            "name": "🔴 LIVE: গোপালগঞ্জে বিজিবির গাড়ীতে আ'গু'ন, সড়ক অ'ব'রোধ, সবশেষ পরিস্থিতি সরাসরি | Gopalgong | ATN",
-            "artist": "ATN Bangla Digital"
-        },
-        {
-            "mood": "storm",
-            "videoId": "l7XYEqFu_cY",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 18 November | World News | International News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "NZuuRmgcvUE",
+            "name": "WATCH LIVE: President Trump Arrives in Shenzhen, China for APEC Summit Meeting XI and Putin | N18G",
+            "artist": "CNBC-TV18"
         }
     ],
     "sourceFilters": {
