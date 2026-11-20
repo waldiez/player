@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261120T144420.317Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261120T233328.714Z-l4t35t"
   type: "state"
-  created: "2026-11-20T14:44:20.317Z"
+  created: "2026-11-20T23:33:28.714Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261120T144420.317Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261120T233328.714Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Mi7WQUee_xg"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "CwXXqX_O_CM"
+        name: "Rajasthan Panchayat Election Result LIVE: हैरान करने वाले सभी नतीजे | BJP | Congress"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "MBPQ-UYx7js"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nove 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Bijoy i-Desk"
+        videoId: "jBhUqZXNsHY"
+        name: "Gujarat Fatafat News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ |Latest News Superfast News |News18 Gujarati"
+        artist: "News18 Gujarati"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "cgb8iLY7N9c"
-        name: "Iran America War: जैविक हमले की तैयारी में ईरान! अब होगी सबसे बड़ी तबाही?-TV9 | Mojtaba I Trump"
-        artist: "TV9 Bharatvarsh"
+        videoId: "_lHbOn14tg4"
+        name: "US NEWS Live: Trump Orders Emergency Lockdown, America In Shock As Mideast Crisis Escalates"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hv03pWO5kdQ"
-        name: "BBC Telugu News | 20-11-2026 | World | Latest News & Updates | hmtv"
-        artist: "hmtv Telugu News"
+        videoId: "q6DL6MUTk70"
+        name: "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA"
+        artist: "3ra"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "uv1ggcI9JsE"
-        name: "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 20.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "T5UcGmapSzs"
+        name: "LIVE: President Trump holds news conference following Asia trip: ABC News Special Report"
+        artist: "ABC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "T8OUcBT37dI"
+        name: "LIVE: Trump holds press briefing after historic meeting with Xi and Putin | NBC News"
+        artist: "NBC News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "pd2jHSz9QPs"
+        name: "Rajasthan Panchayat Election Result LIVE: कांग्रेस के प्रदर्शन ने सभी को चौंकाया! | BJP | Congress"
+        artist: "NDTV India"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "-DrVcNDz3cc"
+        name: "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati"
+        artist: "News18 Gujarati"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "oodrhhSehpQ"
+        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 20.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "FqFWSTaBTjo"
-        name: "Out Of Focus Live | 20 November 2026"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "wlqgQQm6QII"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "GLOBAL NEWS 26"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kFRlHuEsACE"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ 24"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8m6Q4Qc3O1A"
-        name: "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE"
-        artist: "Times Now"
+        videoId: "GMTY5J2mgX4"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-20T14:44:20.317Z"
+  exported_at: "2026-11-20T23:33:28.714Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-20T14:44:20.290Z"
-  validation: "validation enabled: accepted 9/9 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-20T23:33:28.674Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: df5KMi46Eso (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 65 < 70)"
