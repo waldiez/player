@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261119T150128.915Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261120T000836.760Z-l4t35t"
   type: "state"
-  created: "2026-11-19T15:01:28.915Z"
+  created: "2026-11-20T00:08:36.760Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261119T150128.915Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261120T000836.760Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,57 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "1URSmSzRdFc"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Kichu Bangla News"
+        videoId: "qpr7mqleSwI"
+        name: "Iran-US War LIVE Update: China and Russia Warn | 4 AM News Headlines | 20 Nov 2026 | SAMAA TV"
+        artist: "SAMAA TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "ecGRccFQeZE"
-        name: "Out Of Focus Live | 19 November 2026"
-        artist: "MediaoneTV Live"
+        videoId: "OsBHG8TIDKQ"
+        name: "WATCH LIVE: Trump, Xi & Putin's Historic High-Stakes Trilateral Meeting in China | APEC Summit |N18G"
+        artist: "CNBC-TV18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "C09Lbej1JL4"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 20 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "Q1StZyYmMM4"
+        name: "ICJ VERDICT LIVE: World Court Judgment On Myanmar | Rohingya Genocide Case | Gambia v Myanmar | N18G"
+        artist: "CNN-News18"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x8iOVjcMbYs"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 19 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "Vorer alo"
+        videoId: "Z3L2_CgO7Z0"
+        name: "Donald Trump China Departure LIVE | Air Force One Takes Off After APEC 2026 Summit | Trump-Xi-Putin"
+        artist: "NDTV Profit"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "x7HsQ3056BU"
-        name: "Trump’s Historic Statement on Nuclear War After Meeting Xi & Putin! | 5PM Headlines Geo News"
-        artist: "Geo News"
+        videoId: "mh8N4wQ10Yw"
+        name: "ABC World News Tonight With David Muir 11/19/26 | ABC News Today November 19, 2026"
+        artist: "Dips Music Punjabi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "6XJdQ56ke4Y"
-        name: "Khit Thit | BBC News မြန်မာ | နိုဝင်ဘာလ ၁၉ ရက် ညနေခင်းသတင်းအစီအစဉ် November 19, 2026 BBCNews Myanmar"
-        artist: "Khit 24 Live "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "8YJdsDD7DjQ"
-        name: "Aaj Ki Taaza Khabar LIVE: 100 खबरें | Headlines Today | Hindi News | UP Election | Azam Khan | BJP"
+        videoId: "ok6jNp0CT_A"
+        name: "Today Breaking News | 19 November News | Baba Bageshwar | Ram Katha | Akhilesh | Yogi | Kulgam News"
         artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "t_eG8E6lVgg"
-        name: "Global Oil Prices Drop Sharply! Big Impact on Petrol Prices in Pakistan? | 3PM Headlines Geo News"
-        artist: "Geo News"
+        videoId: "YnVJACGz320"
+        name: "Top News Live : फटाफट देखें आज की 100 सबसे बड़ी खबरें | UP Election 2027 | Congress-SP Alliance News"
+        artist: "Times Now Navbharat"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "yFSX19A-smI"
-        name: "🔴LIVE : வரலாறு காணாத ரேர் சம்பவம்.. உலக அரசியலில் பெரும் திருப்பம்"
-        artist: "Thanthi TV"
+        videoId: "OXEwnijxc0o"
+        name: "Islam Become World Largest Religion News LIVE: इस्लाम बन जाएगा दुनिया का सबसे बड़ा धर्म?मची खलबली!"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "9vU7PE_r8zg"
+        name: "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE"
+        artist: "MIRROR NOW"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "zq_pWyyf-Rg"
+        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.11.2026) | Sathiyam Headlines"
+        artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "4d4DV770vdU"
+        name: "Hindi News Live : हिंदी में समाचार, Live TV | PM Modi | Chhath Puja | Sonia Gandhi Book | Delhi AQI"
+        artist: "Times Now Navbharat"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZaDBkC__94g"
+        name: "Houthis Attack Saudi Arabia | Middle East Tensions Rise | 09 PM News Headlines | 19 Nov 2026"
+        artist: "SAMAA TV"
         chapter: null
   moodCustomizations:
     {}
@@ -114,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-19T15:01:28.915Z"
+  exported_at: "2026-11-20T00:08:36.760Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-19T15:01:28.882Z"
-  validation: "validation enabled: accepted 9/10 tracks; maxAgeHours=72 minKeywordHits=1; rejected: UvmommVW5wg (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 45 < 70)"
+  source_generated_at: "2026-11-20T00:08:36.727Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
