@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-20T00:08:36.727Z",
+    "generatedAt": "2026-11-20T14:44:20.290Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,57 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "qpr7mqleSwI",
-            "name": "Iran-US War LIVE Update: China and Russia Warn | 4 AM News Headlines | 20 Nov 2026 | SAMAA TV",
-            "artist": "SAMAA TV"
+            "videoId": "Mi7WQUee_xg",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Kichu Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "OsBHG8TIDKQ",
-            "name": "WATCH LIVE: Trump, Xi & Putin's Historic High-Stakes Trilateral Meeting in China | APEC Summit |N18G",
-            "artist": "CNBC-TV18"
+            "videoId": "MBPQ-UYx7js",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nove 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "Bijoy i-Desk"
         },
         {
             "mood": "storm",
-            "videoId": "Q1StZyYmMM4",
-            "name": "ICJ VERDICT LIVE: World Court Judgment On Myanmar | Rohingya Genocide Case | Gambia v Myanmar | N18G",
-            "artist": "CNN-News18"
+            "videoId": "cgb8iLY7N9c",
+            "name": "Iran America War: जैविक हमले की तैयारी में ईरान! अब होगी सबसे बड़ी तबाही?-TV9 | Mojtaba I Trump",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "Z3L2_CgO7Z0",
-            "name": "Donald Trump China Departure LIVE | Air Force One Takes Off After APEC 2026 Summit | Trump-Xi-Putin",
-            "artist": "NDTV Profit"
+            "videoId": "hv03pWO5kdQ",
+            "name": "BBC Telugu News | 20-11-2026 | World | Latest News & Updates | hmtv",
+            "artist": "hmtv Telugu News"
         },
         {
             "mood": "storm",
-            "videoId": "mh8N4wQ10Yw",
-            "name": "ABC World News Tonight With David Muir 11/19/26 | ABC News Today November 19, 2026",
-            "artist": "Dips Music Punjabi"
+            "videoId": "uv1ggcI9JsE",
+            "name": "এটিএন বাংলার সন্ধ্যা ৬ টার সংবাদ । 20.11.2026 | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "ok6jNp0CT_A",
-            "name": "Today Breaking News | 19 November News | Baba Bageshwar | Ram Katha | Akhilesh | Yogi | Kulgam News",
-            "artist": "NDTV India"
+            "videoId": "FqFWSTaBTjo",
+            "name": "Out Of Focus Live | 20 November 2026",
+            "artist": "MediaoneTV Live"
         },
         {
             "mood": "storm",
-            "videoId": "YnVJACGz320",
-            "name": "Top News Live : फटाफट देखें आज की 100 सबसे बड़ी खबरें | UP Election 2027 | Congress-SP Alliance News",
-            "artist": "Times Now Navbharat"
+            "videoId": "wlqgQQm6QII",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "GLOBAL NEWS 26"
         },
         {
             "mood": "storm",
-            "videoId": "OXEwnijxc0o",
-            "name": "Islam Become World Largest Religion News LIVE: इस्लाम बन जाएगा दुनिया का सबसे बड़ा धर्म?मची खलबली!",
-            "artist": "ABP NEWS"
+            "videoId": "kFRlHuEsACE",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov  2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ 24"
         },
         {
             "mood": "storm",
-            "videoId": "9vU7PE_r8zg",
-            "name": "Trump Iran Announcement LIVE: President's Latest Statement Shakes Washington | WORLD NEWS LIVE",
-            "artist": "MIRROR NOW"
-        },
-        {
-            "mood": "storm",
-            "videoId": "zq_pWyyf-Rg",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (19.11.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "4d4DV770vdU",
-            "name": "Hindi News Live : हिंदी में समाचार, Live TV | PM Modi | Chhath Puja | Sonia Gandhi Book | Delhi AQI",
-            "artist": "Times Now Navbharat"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ZaDBkC__94g",
-            "name": "Houthis Attack Saudi Arabia | Middle East Tensions Rise | 09 PM News Headlines | 19 Nov 2026",
-            "artist": "SAMAA TV"
+            "videoId": "8m6Q4Qc3O1A",
+            "name": "Donald Trump Speech LIVE | Trump Makes Very Big Announcement | Trump Latest News LIVE | US News LIVE",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {
