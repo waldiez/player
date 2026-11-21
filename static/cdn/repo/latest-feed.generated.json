@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-21T13:59:44.759Z",
+    "generatedAt": "2026-11-21T22:40:13.383Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,44 +28,68 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "H_-pCnMkOVo",
-            "name": "War Alert: Massive Missiles Attack | 5PM Headlines Geo News (21 Nov 2026)",
+            "videoId": "UWJEXo1LGfg",
+            "name": "Good Morning America Full Broadcast — Saturday, November 21, 2026",
+            "artist": "ABC News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "J97nUdk0_wM",
+            "name": "Big News From Islamabad | 11PM Headlines Geo News (21 Nov 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "VA8MqppxOmo",
-            "name": "Gen Z Protests Spread Across 25 European Countries | 4PM Headlines Geo News (21 Nov 2026)",
+            "videoId": "BB3othK0Irk",
+            "name": "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "SPdPFFuO5ig",
+            "name": "Security Forces Carry Out Successful Operation | 10PM Headlines Geo News (21 Nov 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "vOP_3CEpCHY",
-            "name": "Iran America War Update LIVE: टूटा सुपर पॉवर का घमंड! | Hormuz | Trump | IRGC | Saudi-Houthi War",
-            "artist": "TV9 Bharatvarsh"
+            "videoId": "GZ64bKHORhw",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "dAuHTLnHjk8",
-            "name": "Today 100 Big Breaking News LIVE: आज की बड़ी खबरें Akvan Cyclone | Pakistan | PM Modi | Rahul Gandhi",
-            "artist": "Zee News"
+            "videoId": "jhlduVILKvY",
+            "name": "Tension Escalates | Iran Attack on US Jet | 9PM Headlines Geo News (11/21/2026)",
+            "artist": "Geo Headlines"
         },
         {
             "mood": "storm",
-            "videoId": "NWG0kxQRFp0",
-            "name": "Iranian President Claims Enemy's Dreams Have Been Shattered | 3PM Headlines Geo News (21 Nov 2026)",
+            "videoId": "BNODX1itHhA",
+            "name": "Tension Esclate | Iran Attack on US Jet | 9PM Headlines Geo News (21 Nov 2026)",
             "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "MOW_VaRHE7A",
-            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ২১.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "mJBFGxG137w",
+            "name": "Bharat Ki Baat Batata Hoon LIVE: मां की विदाई, रो दिए सीएम योगी  ! Cm Yogi Mother Death | PM Modi",
+            "artist": "NDTV India"
         },
         {
             "mood": "storm",
-            "videoId": "G6WFjOW5vx8",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "videoId": "rQsIwuvQ7gc",
+            "name": "Ye Bharat Ki Baat Hai LIVE: America में हाहाकार! | PM Modi | Trump | Rahul Gandhi US Visit | CM Yogi",
+            "artist": "Republic Bharat"
+        },
+        {
+            "mood": "storm",
+            "videoId": "dCSIoN5DspY",
+            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 21 November 2026 | International News Bulletin",
+            "artist": "BanglaVision NEWS"
+        },
+        {
+            "mood": "storm",
+            "videoId": "GbbPaaM71fk",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
             "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
