@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261120T233328.714Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261121T050922.140Z-l4t35t"
   type: "state"
-  created: "2026-11-20T23:33:28.714Z"
+  created: "2026-11-21T05:09:22.140Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261120T233328.714Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261121T050922.140Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "CwXXqX_O_CM"
-        name: "Rajasthan Panchayat Election Result LIVE: हैरान करने वाले सभी नतीजे | BJP | Congress"
-        artist: "NDTV India"
+        videoId: "eZ7g1JfBnzU"
+        name: "Rajasthan Panchayat Election Results 2026 Hindi News LIVE: हारते ही BJP का बड़ा ऐलान! | Congress Win"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jBhUqZXNsHY"
-        name: "Gujarat Fatafat News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ |Latest News Superfast News |News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "_lHbOn14tg4"
-        name: "US NEWS Live: Trump Orders Emergency Lockdown, America In Shock As Mideast Crisis Escalates"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "q6DL6MUTk70"
-        name: "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA"
-        artist: "3ra"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "T5UcGmapSzs"
-        name: "LIVE: President Trump holds news conference following Asia trip: ABC News Special Report"
+        videoId: "y3DJc15tzsQ"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T8OUcBT37dI"
-        name: "LIVE: Trump holds press briefing after historic meeting with Xi and Putin | NBC News"
-        artist: "NBC News"
+        videoId: "XYKpd7VZmzA"
+        name: "LIVE | Morning News Bulletin | India News | World News | The Savera Times #thesaveratimes #Morning"
+        artist: "The Savera Times"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "pd2jHSz9QPs"
-        name: "Rajasthan Panchayat Election Result LIVE: कांग्रेस के प्रदर्शन ने सभी को चौंकाया! | BJP | Congress"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "-DrVcNDz3cc"
-        name: "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "oodrhhSehpQ"
-        name: "এটিএন বাংলার রাত ১০ টার সংবাদ । 20.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        videoId: "e7v3nj7nV1I"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ। ২১.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
         artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GMTY5J2mgX4"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (20.11.2026) | Sathiyam Headlines"
+        videoId: "8laZt12Rpjk"
+        name: "Amritpal Singh at Delhi Airport LIVE | ਅੰਮ੍ਰਿਤਪਾਲ ਦੇ ਦਿੱਲੀ ਏਅਰਪੋਰਟ 'ਤੇ ਪਹੁੰਚਦੇ ਆਹ ਕੀ ਹੋ ਗਿਆ ?"
+        artist: "News18 Punjab"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "vcT05ZAq-h4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026"
+        artist: "MF Entertainment Official"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "O-bNYBH4dT8"
+        name: "Bangladesh Crisis LIVE Updates: शेख हसीना का बदला! | Hindus | Sheikh Hasina | Yunus | Breaking News"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "3uYzsGet1yI"
+        name: "Aaj Ki Taja Khabar LIVE: आज की ताजा 100 बड़ी खबरें | Headline | 100 News | 21 November | Breaking"
+        artist: "ABP NEWS"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nvykmZKdSa8"
+        name: "ABC World News Tonight with David Muir - Full Broadcast November 20, 2026"
+        artist: "MF Entertainment Official"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "7GRLCXSCGeM"
+        name: "Today's Headlines | 21 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
         artist: "Sathiyam News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "OH5mZu9Boj0"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 21 November 2026 | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-20T23:33:28.714Z"
+  exported_at: "2026-11-21T05:09:22.140Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-20T23:33:28.674Z"
-  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: df5KMi46Eso (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 65 < 70)"
+  source_generated_at: "2026-11-21T05:09:22.104Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
