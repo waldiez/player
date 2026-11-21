@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-21T05:09:22.104Z",
+    "generatedAt": "2026-11-21T13:59:44.759Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,45 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "eZ7g1JfBnzU",
-            "name": "Rajasthan Panchayat Election Results 2026 Hindi News LIVE: हारते ही BJP का बड़ा ऐलान! | Congress Win",
-            "artist": "ABP NEWS"
+            "videoId": "H_-pCnMkOVo",
+            "name": "War Alert: Massive Missiles Attack | 5PM Headlines Geo News (21 Nov 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "y3DJc15tzsQ",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026",
-            "artist": "ABC News"
+            "videoId": "VA8MqppxOmo",
+            "name": "Gen Z Protests Spread Across 25 European Countries | 4PM Headlines Geo News (21 Nov 2026)",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "XYKpd7VZmzA",
-            "name": "LIVE | Morning News Bulletin | India News | World News | The Savera Times #thesaveratimes #Morning",
-            "artist": "The Savera Times"
+            "videoId": "vOP_3CEpCHY",
+            "name": "Iran America War Update LIVE: टूटा सुपर पॉवर का घमंड! | Hormuz | Trump | IRGC | Saudi-Houthi War",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "e7v3nj7nV1I",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ। ২১.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "videoId": "dAuHTLnHjk8",
+            "name": "Today 100 Big Breaking News LIVE: आज की बड़ी खबरें Akvan Cyclone | Pakistan | PM Modi | Rahul Gandhi",
+            "artist": "Zee News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "NWG0kxQRFp0",
+            "name": "Iranian President Claims Enemy's Dreams Have Been Shattered | 3PM Headlines Geo News (21 Nov 2026)",
+            "artist": "Geo News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "MOW_VaRHE7A",
+            "name": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ২১.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
             "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "8laZt12Rpjk",
-            "name": "Amritpal Singh at Delhi Airport LIVE | ਅੰਮ੍ਰਿਤਪਾਲ ਦੇ ਦਿੱਲੀ ਏਅਰਪੋਰਟ 'ਤੇ ਪਹੁੰਚਦੇ ਆਹ ਕੀ ਹੋ ਗਿਆ ?",
-            "artist": "News18 Punjab"
-        },
-        {
-            "mood": "storm",
-            "videoId": "vcT05ZAq-h4",
-            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 20, 2026",
-            "artist": "MF Entertainment Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "O-bNYBH4dT8",
-            "name": "Bangladesh Crisis LIVE Updates: शेख हसीना का बदला! | Hindus | Sheikh Hasina | Yunus | Breaking News",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "3uYzsGet1yI",
-            "name": "Aaj Ki Taja Khabar LIVE: आज की ताजा 100 बड़ी खबरें | Headline | 100 News | 21 November | Breaking",
-            "artist": "ABP NEWS"
-        },
-        {
-            "mood": "storm",
-            "videoId": "nvykmZKdSa8",
-            "name": "ABC World News Tonight with David Muir - Full Broadcast November 20, 2026",
-            "artist": "MF Entertainment Official"
-        },
-        {
-            "mood": "storm",
-            "videoId": "7GRLCXSCGeM",
-            "name": "Today's Headlines | 21 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
-            "artist": "Sathiyam News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "OH5mZu9Boj0",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 21 November 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "G6WFjOW5vx8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 21 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
         }
     ],
     "sourceFilters": {
