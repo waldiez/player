@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261121T224013.416Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261122T043520.825Z-l4t35t"
   type: "state"
-  created: "2026-11-21T22:40:13.416Z"
+  created: "2026-11-22T04:35:20.825Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261121T224013.416Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261122T043520.825Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,69 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "UWJEXo1LGfg"
-        name: "Good Morning America Full Broadcast — Saturday, November 21, 2026"
-        artist: "ABC News"
+        videoId: "3VnnJdJbN2g"
+        name: "WDNA LIVE: Iran War: Two US Bases in Bahrain Hit |Russian Ship Catches Fire After Ukrainian Strike"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "J97nUdk0_wM"
-        name: "Big News From Islamabad | 11PM Headlines Geo News (21 Nov 2026)"
-        artist: "Geo News"
+        videoId: "bwhNPlY_tGg"
+        name: "Breaking News LIVE | ‘World War 3 In…’, Trump STUNNING Nuclear Warning Shocks Europe, Middle East"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BB3othK0Irk"
-        name: "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "FMeyn45BjVk"
+        name: "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২২.১১.২০২৬ | Today News | BD News | Ajker News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SPdPFFuO5ig"
-        name: "Security Forces Carry Out Successful Operation | 10PM Headlines Geo News (21 Nov 2026)"
-        artist: "Geo News"
+        videoId: "ZuHqvoP3qm4"
+        name: "Big Breaking on Bangladeshi Crisis LIVE: Dhaka में कोहराम | Sheikh Hasina | India Reaction | Hindus"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GZ64bKHORhw"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.11.2026) | Sathiyam Headlines"
-        artist: "Sathiyam News"
+        videoId: "AXqG9PSmEt0"
+        name: "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G"
+        artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "jhlduVILKvY"
-        name: "Tension Escalates | Iran Attack on US Jet | 9PM Headlines Geo News (11/21/2026)"
-        artist: "Geo Headlines"
+        videoId: "kiwBenW02xU"
+        name: "US-Iran War Latest Update | ARY News 6 AM Headlines | 22nd Nov 2026"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "BNODX1itHhA"
-        name: "Tension Esclate | Iran Attack on US Jet | 9PM Headlines Geo News (21 Nov 2026)"
-        artist: "Geo News"
+        videoId: "ryUhPEohHfc"
+        name: "Met Office drought alert for Pakistan | ARY News 5 AM Headlines | 22nd Nov 2026"
+        artist: "ARY News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "mJBFGxG137w"
-        name: "Bharat Ki Baat Batata Hoon LIVE: मां की विदाई, रो दिए सीएम योगी  ! Cm Yogi Mother Death | PM Modi"
-        artist: "NDTV India"
+        videoId: "FCIUR1He68E"
+        name: "ABC World News Tonight With David Muir 11/21/26 | ABC News Today November 21, 2026"
+        artist: "Dips Music Punjabi"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "rQsIwuvQ7gc"
-        name: "Ye Bharat Ki Baat Hai LIVE: America में हाहाकार! | PM Modi | Trump | Rahul Gandhi US Visit | CM Yogi"
-        artist: "Republic Bharat"
+        videoId: "G-Sv4KqdIiM"
+        name: "🔴 LIVE | India & World News Today | Telugu News Analysis"
+        artist: "N Uday Media"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "dCSIoN5DspY"
-        name: "আন্তর্জাতিক সব খবর | Banglavision World News | 21 November 2026 | International News Bulletin"
-        artist: "BanglaVision NEWS"
+        videoId: "taS3ZAJDQt0"
+        name: "Iran US War Latest News: 5 बजते ही ईरान ने उड़ाए अमेरिकी ठिकाने?  US Military | Iran War | Top News"
+        artist: "News18 UP Uttarakhand"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "GbbPaaM71fk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "আন্তর্জাতিক সংবাদ"
+        videoId: "GTKUcxpOP9U"
+        name: "Latest News Regarding Imran Khan | ARY News 4 AM Headlines | 22nd Nov 2026"
+        artist: "ARY News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "Ph_IOUVzr9s"
+        name: "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 22 November 2026 | NTV Latest News Update"
+        artist: "NTV News"
         chapter: null
   moodCustomizations:
     {}
@@ -126,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-21T22:40:13.416Z"
+  exported_at: "2026-11-22T04:35:20.825Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-21T22:40:13.383Z"
-  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-22T04:35:20.801Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"

@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-21T22:40:13.383Z",
+    "generatedAt": "2026-11-22T04:35:20.801Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,69 +28,75 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "UWJEXo1LGfg",
-            "name": "Good Morning America Full Broadcast — Saturday, November 21, 2026",
-            "artist": "ABC News"
+            "videoId": "3VnnJdJbN2g",
+            "name": "WDNA LIVE: Iran War: Two US Bases in Bahrain Hit |Russian Ship Catches Fire After Ukrainian Strike",
+            "artist": "WION"
         },
         {
             "mood": "storm",
-            "videoId": "J97nUdk0_wM",
-            "name": "Big News From Islamabad | 11PM Headlines Geo News (21 Nov 2026)",
-            "artist": "Geo News"
+            "videoId": "bwhNPlY_tGg",
+            "name": "Breaking News LIVE | ‘World War 3 In…’, Trump STUNNING Nuclear Warning Shocks Europe, Middle East",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "BB3othK0Irk",
-            "name": "Gujarat's Latest News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ | Latest News | Superfast | News18 Gujarati",
-            "artist": "News18 Gujarati"
+            "videoId": "FMeyn45BjVk",
+            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২২.১১.২০২৬ | Today News | BD News | Ajker News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "SPdPFFuO5ig",
-            "name": "Security Forces Carry Out Successful Operation | 10PM Headlines Geo News (21 Nov 2026)",
-            "artist": "Geo News"
+            "videoId": "ZuHqvoP3qm4",
+            "name": "Big Breaking on Bangladeshi Crisis LIVE: Dhaka में कोहराम | Sheikh Hasina | India Reaction | Hindus",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "GZ64bKHORhw",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (21.11.2026) | Sathiyam Headlines",
-            "artist": "Sathiyam News"
+            "videoId": "AXqG9PSmEt0",
+            "name": "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G",
+            "artist": "News18 Urdu"
         },
         {
             "mood": "storm",
-            "videoId": "jhlduVILKvY",
-            "name": "Tension Escalates | Iran Attack on US Jet | 9PM Headlines Geo News (11/21/2026)",
-            "artist": "Geo Headlines"
+            "videoId": "kiwBenW02xU",
+            "name": "US-Iran War Latest Update | ARY News 6 AM Headlines | 22nd Nov 2026",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "BNODX1itHhA",
-            "name": "Tension Esclate | Iran Attack on US Jet | 9PM Headlines Geo News (21 Nov 2026)",
-            "artist": "Geo News"
+            "videoId": "ryUhPEohHfc",
+            "name": "Met Office drought alert for Pakistan | ARY News 5 AM Headlines | 22nd Nov 2026",
+            "artist": "ARY News"
         },
         {
             "mood": "storm",
-            "videoId": "mJBFGxG137w",
-            "name": "Bharat Ki Baat Batata Hoon LIVE: मां की विदाई, रो दिए सीएम योगी  ! Cm Yogi Mother Death | PM Modi",
-            "artist": "NDTV India"
+            "videoId": "FCIUR1He68E",
+            "name": "ABC World News Tonight With David Muir 11/21/26 | ABC News Today November 21, 2026",
+            "artist": "Dips Music Punjabi"
         },
         {
             "mood": "storm",
-            "videoId": "rQsIwuvQ7gc",
-            "name": "Ye Bharat Ki Baat Hai LIVE: America में हाहाकार! | PM Modi | Trump | Rahul Gandhi US Visit | CM Yogi",
-            "artist": "Republic Bharat"
+            "videoId": "G-Sv4KqdIiM",
+            "name": "🔴 LIVE | India & World News Today | Telugu News Analysis",
+            "artist": "N Uday Media"
         },
         {
             "mood": "storm",
-            "videoId": "dCSIoN5DspY",
-            "name": "আন্তর্জাতিক সব খবর | Banglavision World News | 21 November 2026 | International News Bulletin",
-            "artist": "BanglaVision NEWS"
+            "videoId": "taS3ZAJDQt0",
+            "name": "Iran US War Latest News: 5 बजते ही ईरान ने उड़ाए अमेरिकी ठिकाने?  US Military | Iran War | Top News",
+            "artist": "News18 UP Uttarakhand"
         },
         {
             "mood": "storm",
-            "videoId": "GbbPaaM71fk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 22 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "GTKUcxpOP9U",
+            "name": "Latest News Regarding Imran Khan | ARY News 4 AM Headlines | 22nd Nov 2026",
+            "artist": "ARY News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "Ph_IOUVzr9s",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 22 November 2026 | NTV Latest News Update",
+            "artist": "NTV News"
         }
     ],
     "sourceFilters": {
