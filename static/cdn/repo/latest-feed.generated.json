@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-22T04:35:20.801Z",
+    "generatedAt": "2026-11-22T13:53:56.109Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,75 +28,39 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "3VnnJdJbN2g",
-            "name": "WDNA LIVE: Iran War: Two US Bases in Bahrain Hit |Russian Ship Catches Fire After Ukrainian Strike",
-            "artist": "WION"
+            "videoId": "sw17Xp_H8y4",
+            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
+            "artist": "MIRROR NOW"
         },
         {
             "mood": "storm",
-            "videoId": "bwhNPlY_tGg",
-            "name": "Breaking News LIVE | ‘World War 3 In…’, Trump STUNNING Nuclear Warning Shocks Europe, Middle East",
+            "videoId": "x3sPxiszTEY",
+            "name": "Indonesia Factory MASSIVE FIRE at Candy Factory in Banten | World News",
+            "artist": "Asianet News English"
+        },
+        {
+            "mood": "storm",
+            "videoId": "uqleIgdp6l8",
+            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran | Declares EMERGENCY From Whitehouse;| Russia, China",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "FMeyn45BjVk",
-            "name": "এটিএন বাংলার সকাল ৭ টার সংবাদ । ২২.১১.২০২৬ | Today News | BD News | Ajker News | ATN Bangla News",
-            "artist": "ATN Bangla News"
+            "videoId": "syzcdMulTkU",
+            "name": "Marco Rubio LIVE: Chilling Iran Warning Sparks Fresh Fears of Nuclear Crisis | US Iran tensions LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "ZuHqvoP3qm4",
-            "name": "Big Breaking on Bangladeshi Crisis LIVE: Dhaka में कोहराम | Sheikh Hasina | India Reaction | Hindus",
-            "artist": "ABP NEWS"
+            "videoId": "wV6xY52jBZI",
+            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.11.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "AXqG9PSmEt0",
-            "name": "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G",
-            "artist": "News18 Urdu"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kiwBenW02xU",
-            "name": "US-Iran War Latest Update | ARY News 6 AM Headlines | 22nd Nov 2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "ryUhPEohHfc",
-            "name": "Met Office drought alert for Pakistan | ARY News 5 AM Headlines | 22nd Nov 2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "FCIUR1He68E",
-            "name": "ABC World News Tonight With David Muir 11/21/26 | ABC News Today November 21, 2026",
-            "artist": "Dips Music Punjabi"
-        },
-        {
-            "mood": "storm",
-            "videoId": "G-Sv4KqdIiM",
-            "name": "🔴 LIVE | India & World News Today | Telugu News Analysis",
-            "artist": "N Uday Media"
-        },
-        {
-            "mood": "storm",
-            "videoId": "taS3ZAJDQt0",
-            "name": "Iran US War Latest News: 5 बजते ही ईरान ने उड़ाए अमेरिकी ठिकाने?  US Military | Iran War | Top News",
-            "artist": "News18 UP Uttarakhand"
-        },
-        {
-            "mood": "storm",
-            "videoId": "GTKUcxpOP9U",
-            "name": "Latest News Regarding Imran Khan | ARY News 4 AM Headlines | 22nd Nov 2026",
-            "artist": "ARY News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "Ph_IOUVzr9s",
-            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 22 November 2026 | NTV Latest News Update",
-            "artist": "NTV News"
+            "videoId": "BaBOwgq8ge8",
+            "name": "🔴 LIVE: BREAKING NEWS TODAY | Latest U.S. News, World News & Developing Stories | BNN | Foxnews",
+            "artist": "Bear News Network - Technology"
         }
     ],
     "sourceFilters": {
