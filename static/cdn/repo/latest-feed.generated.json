@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-22T13:53:56.109Z",
+    "generatedAt": "2026-11-22T23:04:54.791Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,39 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "sw17Xp_H8y4",
-            "name": "US IRAN WAR NEWS LIVE | Is World War 3 Starting Tonight? Hegseth Reveals Trump's Iran Strike Order",
-            "artist": "MIRROR NOW"
+            "videoId": "B2RN8ofs_4c",
+            "name": "US NEWS Live: Trump Orders Emergency Lockdown, America In Shock As Mideast Crisis Escalates",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "x3sPxiszTEY",
-            "name": "Indonesia Factory MASSIVE FIRE at Candy Factory in Banten | World News",
-            "artist": "Asianet News English"
+            "videoId": "UE-NWFMsKoU",
+            "name": "Today Big Breaking News LIVE:अभी की सबसे बड़ी खबरें LIVE |SCO | PM Modi | UP Election 2027 |CM Yogi",
+            "artist": "Zee News"
         },
         {
             "mood": "storm",
-            "videoId": "uqleIgdp6l8",
-            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran | Declares EMERGENCY From Whitehouse;| Russia, China",
-            "artist": "Times Now"
+            "videoId": "TXrOPotsSqE",
+            "name": "This Week with George Stephanopoulos Full Broadcast - Sunday, November 22, 2026",
+            "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "syzcdMulTkU",
-            "name": "Marco Rubio LIVE: Chilling Iran Warning Sparks Fresh Fears of Nuclear Crisis | US Iran tensions LIVE",
-            "artist": "Times Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "wV6xY52jBZI",
-            "name": "🔴LIVE: Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (22.11.2026) | 2 PM Headlines | ThanthiTV",
+            "videoId": "aLkNuounCL4",
+            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.11.2026) | 11 PM Headlines | ThanthiTV",
             "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "BaBOwgq8ge8",
-            "name": "🔴 LIVE: BREAKING NEWS TODAY | Latest U.S. News, World News & Developing Stories | BNN | Foxnews",
-            "artist": "Bear News Network - Technology"
+            "videoId": "KOytcW-Fja4",
+            "name": "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA",
+            "artist": "3ra"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kMsDKWMxNVw",
+            "name": "Gujarat Fatafat News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ |Latest News Superfast News | News18 Gujarati",
+            "artist": "News18 Gujarati"
+        },
+        {
+            "mood": "storm",
+            "videoId": "cQoQyz9MyAY",
+            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: एनकाउंटर पर भिड़े योगी-ओवैसी ! Baba Bageshwar",
+            "artist": "NDTV India"
+        },
+        {
+            "mood": "storm",
+            "videoId": "smTzBfiohSI",
+            "name": "Trump LIVE: Huge Announcement Sparks US High Alert Fears | Breaking News | WORLD NEWS LIVE",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "8QEPwvOecU8",
+            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.11.2026) | Sathiyam Headlines",
+            "artist": "Sathiyam News"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TwY2rFPeO8Q",
+            "name": "Gold Price News LIVE: सोने के नए दामों ने मचा दी खलबली! टूट गया रिकॉर्ड!| Big Breaking | Today Rates",
+            "artist": "ABP NEWS"
         }
     ],
     "sourceFilters": {
