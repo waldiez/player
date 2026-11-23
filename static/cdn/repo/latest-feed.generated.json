@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-22T23:04:54.791Z",
+    "generatedAt": "2026-11-23T05:11:42.549Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,69 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "B2RN8ofs_4c",
-            "name": "US NEWS Live: Trump Orders Emergency Lockdown, America In Shock As Mideast Crisis Escalates",
-            "artist": "ET Now"
+            "videoId": "pvWgiQixifg",
+            "name": "Gold Price News LIVE: इतना सस्ता हुआ सोना! टूट गए रिकॉर्ड! | Big Breaking | Today Rates | Breaking",
+            "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "UE-NWFMsKoU",
-            "name": "Today Big Breaking News LIVE:अभी की सबसे बड़ी खबरें LIVE |SCO | PM Modi | UP Election 2027 |CM Yogi",
-            "artist": "Zee News"
+            "videoId": "9QiOHq-EZ9M",
+            "name": "🔴LIVE: மதுரையில் பயங்கரம் | Murder | Madurai",
+            "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "TXrOPotsSqE",
-            "name": "This Week with George Stephanopoulos Full Broadcast - Sunday, November 22, 2026",
+            "videoId": "w_s5SQWkn-4",
+            "name": "ABC World News Tonight with David Muir Full Broadcast - Nov. 22, 2026",
             "artist": "ABC News"
         },
         {
             "mood": "storm",
-            "videoId": "aLkNuounCL4",
-            "name": "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.11.2026) | 11 PM Headlines | ThanthiTV",
-            "artist": "Thanthi TV"
+            "videoId": "vPHoYzCuWg8",
+            "name": "BIG BREAKING LIVE: IRAN SURRENDERS TO TRUMP, Trump's Explosive VICTORY SPEECH Goes VIRAL",
+            "artist": "ET Now"
         },
         {
             "mood": "storm",
-            "videoId": "KOytcW-Fja4",
-            "name": "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA",
-            "artist": "3ra"
-        },
-        {
-            "mood": "storm",
-            "videoId": "kMsDKWMxNVw",
-            "name": "Gujarat Fatafat News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ |Latest News Superfast News | News18 Gujarati",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "cQoQyz9MyAY",
-            "name": "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: एनकाउंटर पर भिड़े योगी-ओवैसी ! Baba Bageshwar",
-            "artist": "NDTV India"
-        },
-        {
-            "mood": "storm",
-            "videoId": "smTzBfiohSI",
+            "videoId": "iplFiIeRmvc",
             "name": "Trump LIVE: Huge Announcement Sparks US High Alert Fears | Breaking News | WORLD NEWS LIVE",
             "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "8QEPwvOecU8",
-            "name": "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.11.2026) | Sathiyam Headlines",
+            "videoId": "i_YR8JLHPv0",
+            "name": "Today Headlines | காலை 6 மணி தலைப்புச் செய்திகள் (23.11.2026) | 6 AM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "ZcCnrhyHDmE",
+            "name": "Today's Headlines | 23 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
             "artist": "Sathiyam News"
         },
         {
             "mood": "storm",
-            "videoId": "TwY2rFPeO8Q",
-            "name": "Gold Price News LIVE: सोने के नए दामों ने मचा दी खलबली! टूट गया रिकॉर्ड!| Big Breaking | Today Rates",
-            "artist": "ABP NEWS"
+            "videoId": "Fjoy21Vlt7M",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "zys98cdz7Yg",
+            "name": "Liv Morgan Just LOST Women’s World Title WWE Live Event! WWE News",
+            "artist": "SeanzViewEnt"
+        },
+        {
+            "mood": "storm",
+            "videoId": "TcHUsDIWwfM",
+            "name": "ABC World News Tonight With David Muir 11/22/26 | ABC News Now Today November 22, 2026",
+            "artist": "YMS Mentors"
+        },
+        {
+            "mood": "storm",
+            "videoId": "kxCZX6U655w",
+            "name": "Trump LIVE: 'WW3 on the Line?' Trump Shocks the World | Trump Speech LIVE | Breaking News | US News",
+            "artist": "Times Now"
         }
     ],
     "sourceFilters": {

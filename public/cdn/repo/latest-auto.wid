@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261122T230454.834Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261123T051142.593Z-l4t35t"
   type: "state"
-  created: "2026-11-22T23:04:54.834Z"
+  created: "2026-11-23T05:11:42.593Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261122T230454.834Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261123T051142.593Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,63 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "B2RN8ofs_4c"
-        name: "US NEWS Live: Trump Orders Emergency Lockdown, America In Shock As Mideast Crisis Escalates"
-        artist: "ET Now"
+        videoId: "pvWgiQixifg"
+        name: "Gold Price News LIVE: इतना सस्ता हुआ सोना! टूट गए रिकॉर्ड! | Big Breaking | Today Rates | Breaking"
+        artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "UE-NWFMsKoU"
-        name: "Today Big Breaking News LIVE:अभी की सबसे बड़ी खबरें LIVE |SCO | PM Modi | UP Election 2027 |CM Yogi"
-        artist: "Zee News"
+        videoId: "9QiOHq-EZ9M"
+        name: "🔴LIVE: மதுரையில் பயங்கரம் | Murder | Madurai"
+        artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TXrOPotsSqE"
-        name: "This Week with George Stephanopoulos Full Broadcast - Sunday, November 22, 2026"
+        videoId: "w_s5SQWkn-4"
+        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 22, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "aLkNuounCL4"
-        name: "🔴LIVE: Today Headlines | இரவு 11 மணி தலைப்புச் செய்திகள் (22.11.2026) | 11 PM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
+        videoId: "vPHoYzCuWg8"
+        name: "BIG BREAKING LIVE: IRAN SURRENDERS TO TRUMP, Trump's Explosive VICTORY SPEECH Goes VIRAL"
+        artist: "ET Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "KOytcW-Fja4"
-        name: "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA"
-        artist: "3ra"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "kMsDKWMxNVw"
-        name: "Gujarat Fatafat News LIVE | ગુજરાતના મોટા સમાચાર ફટાફટ |Latest News Superfast News | News18 Gujarati"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "cQoQyz9MyAY"
-        name: "Bharat Ki Baat Batata Hoon With Syed Suhail LIVE: एनकाउंटर पर भिड़े योगी-ओवैसी ! Baba Bageshwar"
-        artist: "NDTV India"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "smTzBfiohSI"
+        videoId: "iplFiIeRmvc"
         name: "Trump LIVE: Huge Announcement Sparks US High Alert Fears | Breaking News | WORLD NEWS LIVE"
         artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "8QEPwvOecU8"
-        name: "🔴LIVE: Today Headlines | தலைப்புச் செய்திகள் (22.11.2026) | Sathiyam Headlines"
+        videoId: "i_YR8JLHPv0"
+        name: "Today Headlines | காலை 6 மணி தலைப்புச் செய்திகள் (23.11.2026) | 6 AM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ZcCnrhyHDmE"
+        name: "Today's Headlines | 23 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
         artist: "Sathiyam News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TwY2rFPeO8Q"
-        name: "Gold Price News LIVE: सोने के नए दामों ने मचा दी खलबली! टूट गया रिकॉर्ड!| Big Breaking | Today Rates"
-        artist: "ABP NEWS"
+        videoId: "Fjoy21Vlt7M"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "TcHUsDIWwfM"
+        name: "ABC World News Tonight With David Muir 11/22/26 | ABC News Now Today November 22, 2026"
+        artist: "YMS Mentors"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "kxCZX6U655w"
+        name: "Trump LIVE: 'WW3 on the Line?' Trump Shocks the World | Trump Speech LIVE | Breaking News | US News"
+        artist: "Times Now"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +120,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-22T23:04:54.834Z"
+  exported_at: "2026-11-23T05:11:42.593Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-22T23:04:54.791Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-23T05:11:42.549Z"
+  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: zys98cdz7Yg (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 55 < 70)"
