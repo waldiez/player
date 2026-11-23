@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261123T051142.593Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261123T170433.793Z-l4t35t"
   type: "state"
-  created: "2026-11-23T05:11:42.593Z"
+  created: "2026-11-23T17:04:33.793Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261123T051142.593Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261123T170433.793Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,69 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "pvWgiQixifg"
-        name: "Gold Price News LIVE: इतना सस्ता हुआ सोना! टूट गए रिकॉर्ड! | Big Breaking | Today Rates | Breaking"
-        artist: "ABP NEWS"
+        videoId: "YPPfvY2GclY"
+        name: "LIVE with Dr. Shahid Masood | A new dangerous front in world war. | 23 NOV 2026 I GNN"
+        artist: "GNN"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9QiOHq-EZ9M"
-        name: "🔴LIVE: மதுரையில் பயங்கரம் | Murder | Madurai"
-        artist: "Sathiyam News"
+        videoId: "Frv1D27ZJwQ"
+        name: "LIVE | Nvidia's Big U-Turn: Jensen Huang Returns as CEO After Tainted Exit | The Palki Sharma Show"
+        artist: "India Global Review"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "w_s5SQWkn-4"
-        name: "ABC World News Tonight with David Muir Full Broadcast - Nov. 22, 2026"
-        artist: "ABC News"
+        videoId: "UtzxAFrvzPA"
+        name: "Today Breaking News | 23 November | Baba Bageshwar | Yogi | Modi| Akhilesh | Gold Rate | Nitish Setu"
+        artist: "NDTV India"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "vPHoYzCuWg8"
-        name: "BIG BREAKING LIVE: IRAN SURRENDERS TO TRUMP, Trump's Explosive VICTORY SPEECH Goes VIRAL"
-        artist: "ET Now"
+        videoId: "LVr2lAsHhko"
+        name: "Race To Power LIVE: World Latest English News | International News | WION LIVE"
+        artist: "WION"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "iplFiIeRmvc"
-        name: "Trump LIVE: Huge Announcement Sparks US High Alert Fears | Breaking News | WORLD NEWS LIVE"
-        artist: "Times Now"
+        videoId: "2YkqMeC0T4A"
+        name: "আজকের আন্তর্জাতিক সব খবর | Global Time | 23 November | World News | International News | NEWS24"
+        artist: "NEWS24"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "i_YR8JLHPv0"
-        name: "Today Headlines | காலை 6 மணி தலைப்புச் செய்திகள் (23.11.2026) | 6 AM Headlines | ThanthiTV"
-        artist: "Thanthi TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "ZcCnrhyHDmE"
-        name: "Today's Headlines | 23 NOV 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay"
-        artist: "Sathiyam News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "Fjoy21Vlt7M"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 23 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        videoId: "U1I44fAhkh0"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "TcHUsDIWwfM"
-        name: "ABC World News Tonight With David Muir 11/22/26 | ABC News Now Today November 22, 2026"
-        artist: "YMS Mentors"
+        videoId: "6o3j5NxFCEQ"
+        name: "LIVE🔴PPP Traps PML-N | Trump Under Pressure | Mohsin Naqvi Warns Fellow Minister"
+        artist: "NTV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "kxCZX6U655w"
-        name: "Trump LIVE: 'WW3 on the Line?' Trump Shocks the World | Trump Speech LIVE | Breaking News | US News"
-        artist: "Times Now"
+        videoId: "Z0h1qcHuIus"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "Kichu Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JYJs0YlYB9s"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "CBC আন্তর্জাতিক সংবাদ "
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "1SvOjXqMroo"
+        name: "বেনগাজিতে বিস্ফোরণ, সন্দেহে ড্রোন | Benghazi | Libya | Explosion | Drone Attack | ATN News"
+        artist: "ATN News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "nJqgLYUjHVA"
+        name: "🔴 U17 Việt Nam vs U17 New Zealand | Trực Tiếp | Fifa U17 World Cup 2026 | Nhận Định Bóng Đá"
+        artist: "Hiếu Thể Thao - Bóng Đá"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +126,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-23T05:11:42.593Z"
+  exported_at: "2026-11-23T17:04:33.793Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-23T05:11:42.549Z"
-  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: zys98cdz7Yg (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 55 < 70)"
+  source_generated_at: "2026-11-23T17:04:33.767Z"
+  validation: "validation enabled: accepted 11/11 tracks; maxAgeHours=72 minKeywordHits=1"
