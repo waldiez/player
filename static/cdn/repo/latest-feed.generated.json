@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-24T16:50:09.093Z",
+    "generatedAt": "2026-11-25T01:48:48.400Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,51 +28,63 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "tv75t7cnA8E",
-            "name": "🔴LIVE: திருப்பரங்குன்றம் வழக்கு முடித்து வைப்பு - வந்தது தீர்ப்பு",
-            "artist": "Sathiyam News"
+            "videoId": "HT68ymjCPWI",
+            "name": "Iran America War Updates: युद्ध के मैदान से सीधे LIVE | Trump | Hormuz | IRGC | Mojtaba",
+            "artist": "TV9 Bharatvarsh"
         },
         {
             "mood": "storm",
-            "videoId": "NjlerUQoQYI",
-            "name": "Donald Trump LIVE: 'Lockdown Now' | Immediate Order Sends Shockwaves Across Nation | US News LIVE",
-            "artist": "Times Now"
+            "videoId": "nM9_iCD_UE4",
+            "name": "New Chapter in History - Pakistan’s Journey Beyond the Stars | Breaking News",
+            "artist": "Geo News"
         },
         {
             "mood": "storm",
-            "videoId": "8h6o1whmL4U",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "Kichu Bangla News"
+            "videoId": "-MdnxyxHTj8",
+            "name": "WORLD NEWS | 24TH NOVEMBER 2026 | AIT LIVE",
+            "artist": "Africa Independent Television"
         },
         {
             "mood": "storm",
-            "videoId": "tz2cVOdTdls",
-            "name": "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  7 PM (24.11.2026)රාත්‍රී 7.00 ප්‍රධාන ප්‍රවෘත්ති",
-            "artist": "Newsfirst Sri Lanka"
+            "videoId": "hIXwIL0qSvU",
+            "name": "ABC World News Tonight With David Muir 11/24/26 | ABC World News Tonight Today November 24, 2026",
+            "artist": "Studio TV"
         },
         {
             "mood": "storm",
-            "videoId": "5t_UQ9Zq0E4",
-            "name": "24 Nov 2026 / বিবিসি প্রবাহ / বাংলা লাইভ নিউজ / BBC Probaho / Live Bangla News / 7:30 PM",
-            "artist": "Earth Vision Media"
+            "videoId": "d9Nc6B-hNOo",
+            "name": "🟢 মধ্যরাতের খবর | Moddho Rater Khobor | 25 November 2026 | NTV Latest News Update",
+            "artist": "NTV News"
         },
         {
             "mood": "storm",
-            "videoId": "y1n_wH_4pAA",
-            "name": "আজকের আন্তর্জাতিক সব খবর | Global Time | 24 November | World News | International News | NEWS24",
-            "artist": "NEWS24"
+            "videoId": "-rjJcPzKJcY",
+            "name": "ABC World News Tonight With David Muir 11/24/26 | ABC News Today November 24, 2026",
+            "artist": "U.V.A Filmz"
         },
         {
             "mood": "storm",
-            "videoId": "sq_Ui2jME-w",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 25 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "আন্তর্জাতিক সংবাদ"
+            "videoId": "_8w6FVn-B4A",
+            "name": "Trump On Iran LIVE | Donald Trump Makes Very Big Announcement | US News LIVE | War News Live",
+            "artist": "ET Now World"
         },
         {
             "mood": "storm",
-            "videoId": "0z_33dodgAs",
-            "name": "Out Of Focus Live | 24 November 2026",
-            "artist": "MediaoneTV Live"
+            "videoId": "etqrfrxvBIQ",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 24 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "IBN Times"
+        },
+        {
+            "mood": "storm",
+            "videoId": "bnB14DRrYM8",
+            "name": "🔴LIVE : Thiruparankundram Deepam | உச்சகட்ட பரபரப்பில் தி.குன்றம் - என்ன நடக்கிறது",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "-2cfj8sDrF8",
+            "name": "🔴LIVE : Thiruparankundram Deepam | தூணில் ஏற்றப்படாத தீபம்தி.குன்றத்தில் பரபரப்பு",
+            "artist": "Thanthi TV"
         }
     ],
     "sourceFilters": {
