@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261126T161117.074Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261127T012258.185Z-l4t35t"
   type: "state"
-  created: "2026-11-26T16:11:17.074Z"
+  created: "2026-11-27T01:22:58.185Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261126T161117.074Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261127T012258.185Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,75 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "5WEKSMmCWFY"
-        name: "Gujarati Latest News LIVE | આજના તમામ મહત્વના સમાચાર | Gujarati News | Fatafat News |News18 Gujarati"
-        artist: "News18 Gujarati"
+        videoId: "xPY5HX-xGEc"
+        name: "LIVE: Marco Rubio's Chilling Nuclear Warning | America Braces For Major Emergency | US News LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "Rw1GEslrAS8"
-        name: "US Iran War Update, Hormuz Closed & Iran's New Conditions | Tehran Preparing for Fresh Attack | N18G"
+        videoId: "Rq-LnFP2LtA"
+        name: "US IRAN NEWS LIVE: Trump Declares US-Iran War Over, Proclaims Complete American Victory | Trump Live"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "ugxQEpGxeSU"
+        name: "ABC World News Tonight With David Muir 11/26/26 | ABC News Today November 26, 2026"
+        artist: "Studio TV"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "AHUkZ5jJT5A"
+        name: "Trump LIVE: 'WW3 on the Line?' Trump Shocks the World | Trump Speech LIVE | Breaking News | US News"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GceyronGEr0"
+        name: "World News LIVE 24/7 🌍 Breaking News Map, Alerts & AI Newscasts | 3RA"
+        artist: "3RA World Radar"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JH814i1dGCQ"
+        name: "এটিএন বাংলার রাত ১ টার সংবাদ । 27.11.2026 | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "GV2B1LisTvY"
+        name: "Israel Election LIVE: Ahmad Tibi Wins Key Knesset Post & Hits Back at Bibi! NETANYAHU | N18G"
         artist: "News18 Urdu"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "xYCt-QcJEM0"
+        videoId: "zcFRK_abPZ8"
         name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
         artist: "আন্তর্জাতিক সংবাদ"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "o9XxXScLSRo"
-        name: "BBC Telugu News | 26-11-2026 | World | Latest News & Updates | hmtv"
-        artist: "hmtv Telugu News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "MNsdl46XKug"
-        name: "Good Morning America: News to start your day | November 26"
+        videoId: "19x08_VLMB4"
+        name: "Good Morning America Full Broadcast — Thursday, November 26, 2026"
         artist: "ABC News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "IQqzV8nZoQc"
-        name: "Out Of Focus Live | 26 November 2026"
-        artist: "MediaoneTV Live"
+        videoId: "0GrosSFlhkI"
+        name: "ABC World News Tonight With David Muir 11/26/26 | ABC News Today November 26, 2026"
+        artist: "Islamic Gun Gun"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "SIHj4flBsyU"
-        name: "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G"
-        artist: "News18 Urdu"
+        videoId: "l_zQjhjpnyg"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 26 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "MR Desk News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "T05co88-2Zs"
-        name: "World War III? Iran US War | Riyadh Under Attack | 05 PM News Headlines | 26 Nov 2026"
-        artist: "SAMAA TV"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "72gRtheYWEw"
-        name: "Aaj Ki Taaza Khabar LIVE : 26 Nov 2026 | UP Election 2027 | PM Modi | Rahul Gandhi | Akhilesh Yadav"
-        artist: "Times Now Navbharat"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "aiod9yHW7kU"
-        name: "🔴SAMAA TV News Live | Latest News Live 24/7, Breaking & Headlines | News Today | #pakistannews"
-        artist: "SAMAA TV"
+        videoId: "VxQTye90u3M"
+        name: "🔴 LIVE  :  News 1st: Prime Time Sinhala News  |  10 PM (26.11.2026)රාත්‍රී 10.00 ප්‍රධාන ප්‍රවෘත්ති"
+        artist: "Newsfirst Sri Lanka"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +132,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-26T16:11:17.074Z"
+  exported_at: "2026-11-27T01:22:58.185Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-26T16:11:17.039Z"
-  validation: "validation enabled: accepted 10/11 tracks; maxAgeHours=72 minKeywordHits=1; rejected: mgN1kQGaW8w (recent, keywords:5, no blocked terms, trusted-channel ok, llm score 40 < 70)"
+  source_generated_at: "2026-11-27T01:22:58.151Z"
+  validation: "validation enabled: accepted 12/12 tracks; maxAgeHours=72 minKeywordHits=1"
