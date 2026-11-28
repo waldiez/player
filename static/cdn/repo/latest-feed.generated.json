@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-11-28T00:56:38.133Z",
+    "generatedAt": "2026-11-28T14:53:33.569Z",
     "mode": "storm",
     "descriptionName": "Waldiez Repo - Latest (News Pulse)",
     "descriptionPurpose": "Auto-generated latest preset from a news-oriented feed.",
@@ -28,63 +28,51 @@
     "tracks": [
         {
             "mood": "storm",
-            "videoId": "Yc6F-yfFPhA",
+            "videoId": "thtNTMPrHp8",
+            "name": "🔴LIVE : Thiruparankundram Deepam | திருப்பரங்குன்றத்தில் இருந்து நேரலை",
+            "artist": "Thanthi TV"
+        },
+        {
+            "mood": "storm",
+            "videoId": "CZE0h0gr3_0",
+            "name": "LIVE | Trump Drops NUCLEAR Bombshell On Iran | Declares EMERGENCY From Whitehouse;| Russia, China",
+            "artist": "Times Now"
+        },
+        {
+            "mood": "storm",
+            "videoId": "JDS-xoMABw8",
+            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
+            "artist": "আন্তর্জাতিক সংবাদ"
+        },
+        {
+            "mood": "storm",
+            "videoId": "USqW32rBGI0",
             "name": "Congress-BSP Alliance News LIVE: मायावती की तरफ जाएगी कांग्रेस? | Akhilesh Yadav | UP Seat Sharing",
             "artist": "ABP NEWS"
         },
         {
             "mood": "storm",
-            "videoId": "wII3O_oPcPU",
-            "name": "India & World News LIVE: Storms and floods hit | Gujarat ATS arrests | Christchurch Test | 27 Nov",
-            "artist": "The Pulse News"
+            "videoId": "2n3NGH-bAK4",
+            "name": "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ২৮.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News",
+            "artist": "ATN Bangla News"
         },
         {
             "mood": "storm",
-            "videoId": "9ivWS75xi44",
-            "name": "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G",
-            "artist": "News18 Urdu"
+            "videoId": "66YG56UuwGk",
+            "name": "Marco Rubio LIVE: Chilling Iran Warning Sparks Fresh Fears of Nuclear Crisis | US Iran tensions LIVE",
+            "artist": "Times Now"
         },
         {
             "mood": "storm",
-            "videoId": "zqhxuFTiCQA",
-            "name": "Good Morning America Full Broadcast — Friday, November 27, 2026",
-            "artist": "ABC News"
+            "videoId": "vIs4fr6JFSA",
+            "name": "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.11.2026) | 2 PM Headlines | ThanthiTV",
+            "artist": "Thanthi TV"
         },
         {
             "mood": "storm",
-            "videoId": "hZy0pPiVsrw",
-            "name": "US News Live LIVE: Trump's Massive Iran Decision Revealed? World on Edge as Tensions Explode",
-            "artist": "ET Now"
-        },
-        {
-            "mood": "storm",
-            "videoId": "DtSpk0L2HLM",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 28 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "The Inside "
-        },
-        {
-            "mood": "storm",
-            "videoId": "PnoeBMCIEk4",
-            "name": "ഗൾഫ് ലോകത്തെ ഏറ്റവും പുതിയ വാർത്തകളും വിശേഷങ്ങളും | Mid East Hour",
-            "artist": "MediaoneTV Live"
-        },
-        {
-            "mood": "storm",
-            "videoId": "xsbCdd4iR2E",
-            "name": "India & World News LIVE: Rockstar Games staff | Spain's Pablo Hernández | 27 Nov",
-            "artist": "The Pulse News"
-        },
-        {
-            "mood": "storm",
-            "videoId": "eDOG3L5-5Ro",
-            "name": "Gujarati Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Fatafat News | Weather Updates | News",
-            "artist": "News18 Gujarati"
-        },
-        {
-            "mood": "storm",
-            "videoId": "El8xSdk4Osk",
-            "name": "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে",
-            "artist": "MR Desk News"
+            "videoId": "99lQl1bVxrE",
+            "name": "Marathi News Top Headlines Today LIVE | 28 Nov | Shinde Vs Thackeray | Vijay Wadettiwar | Pune Crime",
+            "artist": "News18 Marathi"
         }
     ],
     "sourceFilters": {

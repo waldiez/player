@@ -1,9 +1,9 @@
 $schema: "https://xperiens.waldiez.io/schema/v1/manifest"
 
 identity:
-  wid: "wdz://waldiez/player/repo/latest-auto/20261128T005638.157Z-l4t35t"
+  wid: "wdz://waldiez/player/repo/latest-auto/20261128T145333.699Z-l4t35t"
   type: "state"
-  created: "2026-11-28T00:56:38.157Z"
+  created: "2026-11-28T14:53:33.699Z"
 
 description:
   name: "Waldiez Repo - Latest (News Pulse)"
@@ -20,7 +20,7 @@ interface:
   capabilities:
     - "waldiez.player.state.preferences.v1"
   capability_ids:
-    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261128T005638.157Z-l4t35t"
+    "waldiez.player.state.preferences.v1": "wdz://waldiez/player/capability/20261128T145333.699Z-l4t35t"
   operations:
     - name: "import-preferences"
       description: "Apply preset to local player settings."
@@ -53,63 +53,45 @@ state:
     storm:
       - type: "youtube"
         ytType: "video"
-        videoId: "Yc6F-yfFPhA"
+        videoId: "CZE0h0gr3_0"
+        name: "LIVE | Trump Drops NUCLEAR Bombshell On Iran | Declares EMERGENCY From Whitehouse;| Russia, China"
+        artist: "Times Now"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "JDS-xoMABw8"
+        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 29 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
+        artist: "আন্তর্জাতিক সংবাদ"
+        chapter: null
+      - type: "youtube"
+        ytType: "video"
+        videoId: "USqW32rBGI0"
         name: "Congress-BSP Alliance News LIVE: मायावती की तरफ जाएगी कांग्रेस? | Akhilesh Yadav | UP Seat Sharing"
         artist: "ABP NEWS"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "wII3O_oPcPU"
-        name: "India & World News LIVE: Storms and floods hit | Gujarat ATS arrests | Christchurch Test | 27 Nov"
-        artist: "The Pulse News"
+        videoId: "2n3NGH-bAK4"
+        name: "এটিএন বাংলার বিকেল ৪ টার সংবাদ । ২৮.১১.২০২৬ | Today News | Ajker News | BD News | ATN Bangla News"
+        artist: "ATN Bangla News"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "9ivWS75xi44"
-        name: "LIVE: Iran America War News, Fresh Attacks on Bahrain & Kuwait | Iran's IRGC targets US Bases | N18G"
-        artist: "News18 Urdu"
+        videoId: "66YG56UuwGk"
+        name: "Marco Rubio LIVE: Chilling Iran Warning Sparks Fresh Fears of Nuclear Crisis | US Iran tensions LIVE"
+        artist: "Times Now"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "zqhxuFTiCQA"
-        name: "Good Morning America Full Broadcast — Friday, November 27, 2026"
-        artist: "ABC News"
+        videoId: "vIs4fr6JFSA"
+        name: "🔴LIVE : Today Headlines | மதியம் 2 மணி தலைப்புச் செய்திகள் (28.11.2026) | 2 PM Headlines | ThanthiTV"
+        artist: "Thanthi TV"
         chapter: null
       - type: "youtube"
         ytType: "video"
-        videoId: "hZy0pPiVsrw"
-        name: "US News Live LIVE: Trump's Massive Iran Decision Revealed? World on Edge as Tensions Explode"
-        artist: "ET Now"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "DtSpk0L2HLM"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ |BBC World News Bangla | 28 Nov 2026 |বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "The Inside "
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "PnoeBMCIEk4"
-        name: "ഗൾഫ് ലോകത്തെ ഏറ്റവും പുതിയ വാർത്തകളും വിശേഷങ്ങളും | Mid East Hour"
-        artist: "MediaoneTV Live"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "xsbCdd4iR2E"
-        name: "India & World News LIVE: Rockstar Games staff | Spain's Pablo Hernández | 27 Nov"
-        artist: "The Pulse News"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "eDOG3L5-5Ro"
-        name: "Gujarati Latest News LIVE | ગુજરાતના તમામ મહત્વના સમાચાર | Fatafat News | Weather Updates | News"
-        artist: "News18 Gujarati"
-        chapter: null
-      - type: "youtube"
-        ytType: "video"
-        videoId: "El8xSdk4Osk"
-        name: "🔴LIVE: আজকের টপ আন্তর্জাতিক সংবাদ | BBC World News Bangla | 27 Nov 2026 | বিশ্বজুড়ে এখন যা ঘটছে"
-        artist: "MR Desk News"
+        videoId: "99lQl1bVxrE"
+        name: "Marathi News Top Headlines Today LIVE | 28 Nov | Shinde Vs Thackeray | Vijay Wadettiwar | Pune Crime"
+        artist: "News18 Marathi"
         chapter: null
   moodCustomizations:
     {}
@@ -120,7 +102,7 @@ execution:
   protocol: "wdz://protocols/local-storage-v1"
 
 lifecycle:
-  exported_at: "2026-11-28T00:56:38.157Z"
+  exported_at: "2026-11-28T14:53:33.699Z"
   note: "Update from your upstream news/music classifier feed."
-  source_generated_at: "2026-11-28T00:56:38.133Z"
-  validation: "validation enabled: accepted 10/10 tracks; maxAgeHours=72 minKeywordHits=1"
+  source_generated_at: "2026-11-28T14:53:33.569Z"
+  validation: "validation enabled: accepted 7/8 tracks; maxAgeHours=72 minKeywordHits=1; rejected: thtNTMPrHp8 (recent, keywords:6, no blocked terms, trusted-channel ok, llm score 45 < 70)"
